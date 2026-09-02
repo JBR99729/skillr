@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_language_that_seeks_to_align_the_listener_or_reader_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "A Canberra youth climate speech begins, “Of course, none of us wants another summer of smoke.” What does “of course” mainly do?",
+    "audio_prompt": "A Canberra youth climate speech begins, “Of course, none of us wants another summer of smoke.” What does “of course” mainly do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying language that seeks to align the listener or reader; for example, “of course”, “obviously”, “as you can imagine”",
+        "text": "It treats agreement as already shared",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "It gives a precise source",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It introduces an opposing view",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It marks a change of speaker",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying language that seeks to align the listener or reader; for example, “of course”, “obviously”, “as you can imagine”",
-      "hint": "A writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text."
+      "summary": "“Of course” presents the claim as something reasonable people already accept, encouraging listeners to align with the speaker.",
+      "hint": "Notice whether the wording invites debate or assumes common ground."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_the_use_of_first_person_i_we_and_second_person_you_pronouns_to_distance_or_involve_the_audience_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying the use of first person i we and second person you pronouns to distance or involve the audience and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying the use of first person i we and second person you pronouns to distance or involve the audience and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "In a school captain speech, “We can make lunchtime clubs easier to join.” Which word most directly involves the audience with the speaker?",
+    "audio_prompt": "In a school captain speech, “We can make lunchtime clubs easier to join.” Which word most directly involves the audience with the speaker?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "can",
         "is_correct": false
       },
       {
-        "text": "identifying the use of first person (“I”, “we”) and second person (“you”) pronouns to distance or involve the audience",
+        "text": "lunchtime",
+        "is_correct": false
+      },
+      {
+        "text": "we",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "easier",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "identifying the use of first person (“I”, “we”) and second person (“you”) pronouns to distance or involve the audience",
-      "hint": "A writer or speaker can use audience to shape identifying the use of first person (“i”, “we”) and second person (“you”) pronouns to distance or involve the audience and influence how an audience understands the text."
+      "summary": "“We” places speaker and audience inside the same group and frames the action as shared.",
+      "hint": "Look for the pronoun that joins people together."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_identifying_language_used_to_reference_or_indicate_shared_assumptions_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape identifying language used to reference or indicate shared assumptions and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape identifying language used to reference or indicate shared assumptions and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "A council flyer says, “You deserve a safer walk home from the station.” Which feature most directly addresses the reader?",
+    "audio_prompt": "A council flyer says, “You deserve a safer walk home from the station.” Which feature most directly addresses the reader?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "identifying language used to reference or indicate shared assumptions",
+        "text": "second-person pronoun",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "technical vocabulary",
+        "is_correct": false
+      },
+      {
+        "text": "passive voice",
+        "is_correct": false
+      },
+      {
+        "text": "quotation",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying language used to reference or indicate shared assumptions",
-      "hint": "A writer or speaker can use relationship to shape identifying language used to reference or indicate shared assumptions and influence how an audience understands the text."
+      "summary": "The second-person pronoun “you” addresses the reader directly and makes the issue personal.",
+      "hint": "Which word points straight at the person reading?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_effect_to_shape_identifying_language_that_appeals_to_shared_cultural_knowledge_values_and_beliefs_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge values and beliefs and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge values and beliefs and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "At a regional sports interview, a guest says, “As every local knows, Saturday footy is more than a game.” Which phrase signals a shared assumption?",
+    "audio_prompt": "At a regional sports interview, a guest says, “As every local knows, Saturday footy is more than a game.” Which phrase signals a shared assumption?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Saturday footy",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "more than a game",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "identifying language that appeals to shared cultural knowledge, values and beliefs",
+        "text": "As every local knows",
         "is_correct": true
+      },
+      {
+        "text": "regional sports",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "identifying language that appeals to shared cultural knowledge, values and beliefs",
-      "hint": "A writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge, values and beliefs and influence how an audience understands the text."
+      "summary": "“As every local knows” assumes a common local understanding instead of proving the point from scratch.",
+      "hint": "Find the phrase that presumes the audience already knows something."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_examples_of_language_that_are_inclusive_or_marginalising_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "A campaign poster reads, “Real Australians look out for their neighbours.” What is the main positioning move?",
+    "audio_prompt": "A campaign poster reads, “Real Australians look out for their neighbours.” What is the main positioning move?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying examples of language that are inclusive or marginalising",
+        "text": "It defines belonging through a claimed shared value",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "It supplies statistical evidence",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It avoids making any judgement",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It explains a historical cause",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying examples of language that are inclusive or marginalising",
-      "hint": "A writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text."
+      "summary": "The poster links being a “real Australian” with one approved behaviour, pressuring readers to accept that value as part of belonging.",
+      "hint": "Ask what identity the sentence attaches to the preferred behaviour."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_language_that_seeks_to_align_the_listener_or_reader_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "A student editorial says, “People like us do not leave teammates behind.” Which wording creates an in-group?",
+    "audio_prompt": "A student editorial says, “People like us do not leave teammates behind.” Which wording creates an in-group?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "leave teammates",
         "is_correct": false
       },
       {
-        "text": "identifying language that seeks to align the listener or reader; for example, “of course”, “obviously”, “as you can imagine”",
+        "text": "do not",
+        "is_correct": false
+      },
+      {
+        "text": "People like us",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "behind",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "identifying language that seeks to align the listener or reader; for example, “of course”, “obviously”, “as you can imagine”",
-      "hint": "A writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text."
+      "summary": "“People like us” divides people into an implied in-group and others, using belonging to support the claim.",
+      "hint": "Look for words that classify writer and reader as the same kind of people."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_the_use_of_first_person_i_we_and_second_person_you_pronouns_to_distance_or_involve_the_audience_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying the use of first person i we and second person you pronouns to distance or involve the audience and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying the use of first person i we and second person you pronouns to distance or involve the audience and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "An online safety video says, “You already know how quickly one screenshot can travel.” What does “already know” assume?",
+    "audio_prompt": "An online safety video says, “You already know how quickly one screenshot can travel.” What does “already know” assume?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "identifying the use of first person (“I”, “we”) and second person (“you”) pronouns to distance or involve the audience",
+        "text": "The viewer shares the speaker’s knowledge",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The viewer has read a cited report",
+        "is_correct": false
+      },
+      {
+        "text": "The viewer disagrees",
+        "is_correct": false
+      },
+      {
+        "text": "The viewer needs a definition",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying the use of first person (“I”, “we”) and second person (“you”) pronouns to distance or involve the audience",
-      "hint": "A writer or speaker can use audience to shape identifying the use of first person (“i”, “we”) and second person (“you”) pronouns to distance or involve the audience and influence how an audience understands the text."
+      "summary": "“Already know” treats the point as familiar shared knowledge and reduces distance between speaker and viewer.",
+      "hint": "Is the speaker teaching new information or presuming familiarity?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-p-008",
@@ -285,39 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_identifying_language_used_to_reference_or_indicate_shared_assumptions_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape identifying language used to reference or indicate shared assumptions and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape identifying language used to reference or indicate shared assumptions and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "At a housing forum, a speaker says, “We renters are the ones living with these decisions.” How is “we renters” functioning?",
+    "audio_prompt": "At a housing forum, a speaker says, “We renters are the ones living with these decisions.” How is “we renters” functioning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "It builds solidarity around a shared group identity",
+        "is_correct": true
+      },
+      {
+        "text": "It removes the speaker from the issue",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It makes the statement neutral",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It identifies an expert source",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“We renters” names a shared identity and positions the speaker alongside the group affected by the decisions.",
+      "hint": "Track who is included inside “we”."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-009",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A road-safety ad says, “Any responsible driver would slow down here.” Which phrase pressures the audience to align?",
+    "audio_prompt": "A road-safety ad says, “Any responsible driver would slow down here.” Which phrase pressures the audience to align?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "slow down",
         "is_correct": false
       },
       {
-        "text": "identifying language used to reference or indicate shared assumptions",
+        "text": "would",
+        "is_correct": false
+      },
+      {
+        "text": "here",
+        "is_correct": false
+      },
+      {
+        "text": "Any responsible driver",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "identifying language used to reference or indicate shared assumptions",
-      "hint": "A writer or speaker can use relationship to shape identifying language used to reference or indicate shared assumptions and influence how an audience understands the text."
+      "summary": "“Any responsible driver” ties agreement to a desirable identity, making disagreement risk seeming irresponsible.",
+      "hint": "Which words attach the preferred action to a positive identity?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-010",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A principal writes, “Some families may prefer the old timetable, but our community has always adapted when students benefit.” Which phrase appeals to shared history?",
+    "audio_prompt": "A principal writes, “Some families may prefer the old timetable, but our community has always adapted when students benefit.” Which phrase appeals to shared history?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Some families",
+        "is_correct": false
+      },
+      {
+        "text": "may prefer",
+        "is_correct": false
+      },
+      {
+        "text": "our community has always adapted",
+        "is_correct": true
+      },
+      {
+        "text": "students benefit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Our community has always adapted” invokes a collective past to make the proposed response seem consistent with group identity.",
+      "hint": "Find the wording that turns past behaviour into a shared tradition."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-011",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A tourism ad says, “You know that feeling when the coast finally appears beyond the hills.” Why is “You know that feeling” effective?",
+    "audio_prompt": "A tourism ad says, “You know that feeling when the coast finally appears beyond the hills.” Why is “You know that feeling” effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It invites readers to recognise a supposedly shared experience",
+        "is_correct": true
+      },
+      {
+        "text": "It proves everyone has visited the coast",
+        "is_correct": false
+      },
+      {
+        "text": "It creates distance through formality",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces imagery with facts",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The phrase assumes familiarity and invites readers to mentally join the experience, creating alignment.",
+      "hint": "Think about how presumed familiarity can create connection."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-012",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A speech supporting a skate park says, “We have all watched young people make do with the cracked court behind the shops.” How does “we have all watched” strengthen the argument?",
+    "audio_prompt": "A speech supporting a skate park says, “We have all watched young people make do with the cracked court behind the shops.” How does “we have all watched” strengthen the argument?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It frames the problem as common knowledge the audience shares",
+        "is_correct": true
+      },
+      {
+        "text": "It identifies who collected evidence",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the claim less certain",
+        "is_correct": false
+      },
+      {
+        "text": "It separates the speaker from residents",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The phrase treats the problem as collectively witnessed, making denial harder and positioning the audience beside the speaker.",
+      "hint": "What happens when a claim is presented as something everyone present has seen?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-013",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A charity appeal states, “Imagine if your postcode decided whether help arrived in time.” What is the effect of “your postcode”?",
+    "audio_prompt": "A charity appeal states, “Imagine if your postcode decided whether help arrived in time.” What is the effect of “your postcode”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It personalises an unequal situation for the reader",
+        "is_correct": true
+      },
+      {
+        "text": "It creates a technical definition",
+        "is_correct": false
+      },
+      {
+        "text": "It removes emotion",
+        "is_correct": false
+      },
+      {
+        "text": "It addresses postal workers only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Second-person “your” transfers an abstract inequality into the reader’s imagined life, increasing personal involvement.",
+      "hint": "Compare “a postcode” with “your postcode”."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-014",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A columnist writes, “Naturally, parents want schools to prepare students for real life.” Why can “Naturally” be persuasive?",
+    "audio_prompt": "A columnist writes, “Naturally, parents want schools to prepare students for real life.” Why can “Naturally” be persuasive?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It presents the claim as self-evident and makes disagreement seem unusual",
+        "is_correct": true
+      },
+      {
+        "text": "It gives a numerical basis",
+        "is_correct": false
+      },
+      {
+        "text": "It shows uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "It introduces a quotation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Naturally” frames the proposition as obvious, encouraging readers to accept it before examining the claim.",
+      "hint": "Does the adverb open the claim to debate or close debate down?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-015",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "At an awards night, the host says, “This is what our town does: we show up for one another.” How do “our” and “we” work together?",
+    "audio_prompt": "At an awards night, the host says, “This is what our town does: we show up for one another.” How do “our” and “we” work together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They create a collective identity based on mutual support",
+        "is_correct": true
+      },
+      {
+        "text": "They identify opposing groups",
+        "is_correct": false
+      },
+      {
+        "text": "They make the statement impersonal",
+        "is_correct": false
+      },
+      {
+        "text": "They quote a law",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both pronouns include speaker and audience in one community and connect membership with helping others.",
+      "hint": "Follow the group created by the possessive and personal pronouns."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-016",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A sports ad declares, “If you call yourself a competitor, you finish the session.” Why might this influence an athlete?",
+    "audio_prompt": "A sports ad declares, “If you call yourself a competitor, you finish the session.” Why might this influence an athlete?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It links the desired action to an identity the audience may value",
+        "is_correct": true
+      },
+      {
+        "text": "It gives balanced recovery advice",
+        "is_correct": false
+      },
+      {
+        "text": "It proves finishing is medically safe",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids pressure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The wording makes “competitor” status depend on finishing, using identity and belonging as pressure.",
+      "hint": "What identity might the audience want to claim?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-017",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A local petition says, “No Canberran should accept a lake choked with litter.” How does “Canberran” contribute to persuasion?",
+    "audio_prompt": "A local petition says, “No Canberran should accept a lake choked with litter.” How does “Canberran” contribute to persuasion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It connects the environmental stance with local identity",
+        "is_correct": true
+      },
+      {
+        "text": "It supplies evidence about litter levels",
+        "is_correct": false
+      },
+      {
+        "text": "It limits the claim to tourists",
+        "is_correct": false
+      },
+      {
+        "text": "It removes judgement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Naming the local identity suggests caring about the lake is part of belonging to Canberra.",
+      "hint": "Why name a community rather than simply say “no one”?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-018",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A podcast host says, “As you can imagine, finding a rental after twenty rejected applications changes how you read every listing.” What does “As you can imagine” ask listeners to do?",
+    "audio_prompt": "A podcast host says, “As you can imagine, finding a rental after twenty rejected applications changes how you read every listing.” What does “As you can imagine” ask listeners to do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Adopt the speaker’s perspective by treating the experience as imaginable",
+        "is_correct": true
+      },
+      {
+        "text": "Check a formal citation",
+        "is_correct": false
+      },
+      {
+        "text": "Reject personal experience",
+        "is_correct": false
+      },
+      {
+        "text": "Focus only on the number twenty",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The phrase recruits listeners into the viewpoint by assuming they can picture the emotional effect.",
+      "hint": "What mental action is the listener invited to perform?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-019",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A graduation speech says, “We are not just the class that finished during disruptions; we are the class that kept turning up.” How does repeated “we are” shape the audience?",
+    "audio_prompt": "A graduation speech says, “We are not just the class that finished during disruptions; we are the class that kept turning up.” How does repeated “we are” shape the audience?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It builds a shared identity around resilience",
+        "is_correct": true
+      },
+      {
+        "text": "It distances graduates",
+        "is_correct": false
+      },
+      {
+        "text": "It creates a scientific tone",
+        "is_correct": false
+      },
+      {
+        "text": "It attributes the claim externally",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated “we are” defines the group collectively and replaces a passive identity with a valued one based on persistence.",
+      "hint": "Notice how repetition can define a group."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-020",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A commentary argues, “Surely we can agree that a public library should remain public.” Why is “Surely we can agree” more than a neutral introduction?",
+    "audio_prompt": "A commentary argues, “Surely we can agree that a public library should remain public.” Why is “Surely we can agree” more than a neutral introduction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It presumes consensus and makes dissent harder to voice",
+        "is_correct": true
+      },
+      {
+        "text": "It signals no position",
+        "is_correct": false
+      },
+      {
+        "text": "It provides a counterexample",
+        "is_correct": false
+      },
+      {
+        "text": "It asks about grammar",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Surely” plus inclusive “we” frames agreement as expected, applying social pressure before the claim is examined.",
+      "hint": "What would disagreeing imply after agreement is presented as expected?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-021",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "Which sentence uses inclusive language without implying that disagreement makes someone a worse person?",
+    "audio_prompt": "Which sentence uses inclusive language without implying that disagreement makes someone a worse person?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Let’s compare both transport options before we decide.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Any decent person would support the rail plan.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Real locals know the rail plan is right.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Obviously, only selfish people oppose the rail plan.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Let’s compare” includes speaker and audience in a shared process without attaching moral worth to one conclusion.",
+      "hint": "Separate genuine inclusion from identity pressure."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-022",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "What best distinguishes “we” in “We surveyed 300 commuters” from “We all want streets where children are safe”?",
+    "audio_prompt": "What best distinguishes “we” in “We surveyed 300 commuters” from “We all want streets where children are safe”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first identifies researchers; the second invites the audience into a shared value",
+        "is_correct": true
+      },
+      {
+        "text": "Both automatically include every reader",
+        "is_correct": false
+      },
+      {
+        "text": "The first is emotional and the second factual",
+        "is_correct": false
+      },
+      {
+        "text": "There is no difference",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pronoun meaning depends on context: the first “we” refers to specific researchers, while the second is rhetorically inclusive.",
+      "hint": "Do not assume every “we” has the same referent."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-023",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A writer says, “Obviously, the festival should stay in the city centre.” Which analysis is strongest?",
+    "audio_prompt": "A writer says, “Obviously, the festival should stay in the city centre.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Obviously” presents the opinion as self-evident, potentially discouraging readers from questioning it",
+        "is_correct": true
+      },
+      {
+        "text": "“Obviously” proves the location is correct",
+        "is_correct": false
+      },
+      {
+        "text": "It persuades because it is a long word",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect because readers can ignore it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverb positions the claim as beyond reasonable dispute; that can align some readers while alienating others.",
+      "hint": "Analyse what the word asks readers to assume, not whether the claim is true."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-024",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "Which statement most clearly marginalises people outside a preferred group?",
+    "audio_prompt": "Which statement most clearly marginalises people outside a preferred group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“People who actually care about this town will vote yes.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Residents can vote after reading both proposals.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Our survey includes renters and homeowners.”",
+        "is_correct": false
+      },
+      {
+        "text": "“You can submit feedback online or at the library.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first makes caring about the town conditional on voting one way, casting opponents as less legitimate community members.",
+      "hint": "Look for a sentence that makes belonging depend on agreement."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-025",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A campaign uses the line “You’re one of us.” Which interpretation is most careful?",
+    "audio_prompt": "A campaign uses the line “You’re one of us.” Which interpretation is most careful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can create belonging, but its effect depends on who “us” includes and excludes",
+        "is_correct": true
+      },
+      {
+        "text": "It is always inclusive because it contains “you”",
+        "is_correct": false
+      },
+      {
+        "text": "It is always hostile because it contains a group pronoun",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect without statistics",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The line invites the reader into a group, but analysis must also ask how that group is defined and who remains outside it.",
+      "hint": "Inclusive for whom?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-026",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "Which revision reduces pressure from assumed agreement while keeping the claim?",
+    "audio_prompt": "Which revision reduces pressure from assumed agreement while keeping the claim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The evidence suggests later trading hours may benefit some businesses.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Of course later trading hours benefit everyone.”",
+        "is_correct": false
+      },
+      {
+        "text": "“As any sensible owner knows, later trading is essential.”",
+        "is_correct": false
+      },
+      {
+        "text": "“We all understand later trading is the only answer.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The revision states a qualified evidence-based claim instead of treating agreement as obvious or tying it to intelligence.",
+      "hint": "Choose wording that leaves room for evaluation."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-027",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A speaker says, “As Australians, we give everyone a fair go.” Which analysis avoids overclaiming?",
+    "audio_prompt": "A speaker says, “As Australians, we give everyone a fair go.” Which analysis avoids overclaiming?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It appeals to a familiar national value to encourage alignment, though audiences may interpret that value differently",
+        "is_correct": true
+      },
+      {
+        "text": "It proves all Australians behave fairly",
+        "is_correct": false
+      },
+      {
+        "text": "It affects every Australian identically",
+        "is_correct": false
+      },
+      {
+        "text": "The national reference is irrelevant",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The statement invokes a cultural value as shared identity; careful analysis allows for different audience responses.",
+      "hint": "Analyse the positioning move without pretending all audiences respond identically."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-028",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "Which sentence uses direct address mainly to create responsibility rather than friendliness?",
+    "audio_prompt": "Which sentence uses direct address mainly to create responsibility rather than friendliness?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Your decision tonight will determine whether the shelter opens this winter.”",
+        "is_correct": true
+      },
+      {
+        "text": "“You’ll love the new mural near the oval.”",
+        "is_correct": false
+      },
+      {
+        "text": "“You know that warm feeling after a good meal.”",
+        "is_correct": false
+      },
+      {
+        "text": "“You and I have laughed about this before.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Your decision” assigns the audience a consequential role, making responsibility the main effect of direct address.",
+      "hint": "Ask what the “you” is being made responsible for."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-029",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A reviewer writes, “We all know sequels are usually disappointing.” What is the weakness in saying this simply “creates community”?",
+    "audio_prompt": "A reviewer writes, “We all know sequels are usually disappointing.” What is the weakness in saying this simply “creates community”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It also suppresses difference by presenting a debatable opinion as shared knowledge",
+        "is_correct": true
+      },
+      {
+        "text": "Community language can never persuade",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence contains no pronouns",
+        "is_correct": false
+      },
+      {
+        "text": "The claim becomes objective through “we”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The inclusive pronoun may create solidarity, but “all know” also pressures readers to accept a contestable judgement.",
+      "hint": "Strong analysis can identify connection and pressure together."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-030",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "What best explains the difference between “Some residents oppose the change” and “Even our neighbours oppose the change”?",
+    "audio_prompt": "What best explains the difference between “Some residents oppose the change” and “Even our neighbours oppose the change”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The second invokes closeness and shared identity, making opposition feel more socially significant",
+        "is_correct": true
+      },
+      {
+        "text": "The second is more accurate because it says “our”",
+        "is_correct": false
+      },
+      {
+        "text": "The first is emotional and the second neutral",
+        "is_correct": false
+      },
+      {
+        "text": "Both position readers identically",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Our neighbours” creates relationship and “even” marks their opposition as noteworthy, adding positioning absent from the neutral description.",
+      "hint": "Look beyond what happened to how people are framed."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-031",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "You are editing a speech arguing for shaded bus stops. Which opening builds shared concern without claiming everyone already agrees?",
+    "audio_prompt": "You are editing a speech arguing for shaded bus stops. Which opening builds shared concern without claiming everyone already agrees?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Many of us have waited through a 35-degree afternoon; let’s look at what shade could change.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Obviously, every sensible person supports shaded stops.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Real Canberrans demand shade immediately.”",
+        "is_correct": false
+      },
+      {
+        "text": "“You would have to be careless to oppose this plan.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first uses a plausible shared experience and inclusive invitation while leaving the proposal open to consideration.",
+      "hint": "Aim for connection without turning disagreement into a character flaw."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-032",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A housing forum wants renters and homeowners to feel equally included. Which line is most suitable?",
+    "audio_prompt": "A housing forum wants renters and homeowners to feel equally included. Which line is most suitable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Whether you rent, own or live with family, your experience of housing belongs in this conversation.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Homeowners like us know what the suburb needs.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Responsible residents protect property values first.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Obviously, renters understand the problem best.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first explicitly names different housing situations and gives each a legitimate place in the discussion.",
+      "hint": "Choose language that widens rather than narrows membership."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-033",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A health campaign wants teenagers to question risky driving without shaming them. Which wording best fits?",
+    "audio_prompt": "A health campaign wants teenagers to question risky driving without shaming them. Which wording best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Before you get in, ask whether the driver is ready to get everyone home safely.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Only idiots get into a car with a tired driver.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Good teenagers never make risky choices.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Everyone knows smart people refuse every late-night lift.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first uses direct address and a practical question to create agency without defining people by a mistake.",
+      "hint": "Look for responsibility without insult or identity policing."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-034",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A student is revising “We all know phones destroy concentration” for a balanced persuasive article. Which revision is strongest?",
+    "audio_prompt": "A student is revising “We all know phones destroy concentration” for a balanced persuasive article. Which revision is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Many students report distraction from phones, although the effect varies with how they are used.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Obviously phones destroy everyone’s concentration.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Real students know phones are the problem.”",
+        "is_correct": false
+      },
+      {
+        "text": "“You cannot deny that phones ruin learning.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The revision keeps the issue while replacing assumed consensus with a qualified claim that allows complexity.",
+      "hint": "Preserve the argument without pretending every reader shares it."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-035",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A coastal clean-up group wants a closing line that creates solidarity through shared action. Which is best?",
+    "audio_prompt": "A coastal clean-up group wants a closing line that creates solidarity through shared action. Which is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“If we each take one section of beach, together we can clear the whole stretch.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Anyone who leaves now clearly does not care.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Good locals never need to be asked twice.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Obviously you owe the beach your afternoon.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Inclusive “we” and “together” frame the task as cooperative rather than using shame to force compliance.",
+      "hint": "Look for shared agency rather than social punishment."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-036",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "An editorial wants to challenge readers about food waste while avoiding an exclusionary identity claim. Which sentence works best?",
+    "audio_prompt": "An editorial wants to challenge readers about food waste while avoiding an exclusionary identity claim. Which sentence works best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Before we throw food out, we can ask whether someone else could use it.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Decent Australians never waste food.”",
+        "is_correct": false
+      },
+      {
+        "text": "“People like us would never bin leftovers.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Only selfish households waste edible food.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first uses inclusive language to invite a behaviour without defining dissenters as morally inferior outsiders.",
+      "hint": "Choose a shared action, not a test of who belongs."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-037",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A student podcast is introducing two opposing views on school uniforms. Which wording positions listeners most fairly?",
+    "audio_prompt": "A student podcast is introducing two opposing views on school uniforms. Which wording positions listeners most fairly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“You may recognise parts of both arguments, so listen for the values each speaker prioritises.”",
+        "is_correct": true
+      },
+      {
+        "text": "“We all know uniforms are outdated, but here is the other side.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Any sensible student supports choice.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Real school pride means backing uniforms.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first directly involves listeners while leaving room for different responses and encouraging comparison.",
+      "hint": "Fair positioning allows listeners to evaluate rather than tells them who they must be."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-038",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A community newsletter wants to encourage attendance at a bushfire-preparation meeting. Which line uses shared local experience responsibly?",
+    "audio_prompt": "A community newsletter wants to encourage attendance at a bushfire-preparation meeting. Which line uses shared local experience responsibly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“After the summers our district has faced, many of us know why preparation matters; the meeting will explain the new plan.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Every real local knows attendance is compulsory in spirit.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Obviously nobody responsible would stay home.”",
+        "is_correct": false
+      },
+      {
+        "text": "“If you care about your neighbours, you will attend.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first acknowledges a plausible shared context without making attendance a test of identity or morality.",
+      "hint": "Use common experience as context, not as a threat to belonging."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-039",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A debate speaker wants to replace “Only fools think the old oval should stay” with language that still signals a clear position. Which is best?",
+    "audio_prompt": "A debate speaker wants to replace “Only fools think the old oval should stay” with language that still signals a clear position. Which is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Keeping the old oval would ignore the stronger evidence for a multi-use space.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Obviously the old oval has to go.”",
+        "is_correct": false
+      },
+      {
+        "text": "“People like us know the oval is useless.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Any intelligent voter supports redevelopment.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The revision attacks the reasoning rather than the identity or intelligence of people who disagree.",
+      "hint": "Make the evidence carry the pressure, not a label for opponents."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-p-040",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "language alignment and audience positioning",
+    "question": "A museum youth panel wants visitors to feel invited into a question about local history. Which prompt best does this?",
+    "audio_prompt": "A museum youth panel wants visitors to feel invited into a question about local history. Which prompt best does this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“What stories do we inherit when a town remembers one group more loudly than another?”",
+        "is_correct": true
+      },
+      {
+        "text": "“We all know the official history is wrong.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Good visitors understand which story matters.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Obviously you should reject the old display.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The inclusive question invites visitors to investigate shared memory without dictating a compulsory conclusion.",
+      "hint": "Use inclusion to open inquiry rather than close it."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_effect_to_shape_identifying_language_that_appeals_to_shared_cultural_knowledge_values_and_beliefs_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge values and beliefs and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge values and beliefs and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "A Tasmanian conservation ad says, “Surely none of us wants silence where the swift parrots used to call.” What is the main effect of “Surely none of us”?",
+    "audio_prompt": "A Tasmanian conservation ad says, “Surely none of us wants silence where the swift parrots used to call.” What is the main effect of “Surely none of us”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying language that appeals to shared cultural knowledge, values and beliefs",
+        "text": "It presents concern as expected shared ground",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "It supplies evidence of population size",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It distances the speaker from viewers",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It introduces a neutral definition",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying language that appeals to shared cultural knowledge, values and beliefs",
-      "hint": "A writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge, values and beliefs and influence how an audience understands the text."
-    }
+      "summary": "The phrase combines assumed agreement with inclusive reference, making concern appear to be the normal group position.",
+      "hint": "Identify both the assumption and the group created."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_examples_of_language_that_are_inclusive_or_marginalising_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "At a council meeting, a resident says, “You will decide tonight whether our children cross four lanes without lights.” How does the pronoun choice position councillors?",
+    "audio_prompt": "At a council meeting, a resident says, “You will decide tonight whether our children cross four lanes without lights.” How does the pronoun choice position councillors?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "identifying examples of language that are inclusive or marginalising",
+        "text": "It assigns them direct responsibility for the consequence",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It treats them as detached observers",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It hides who makes the decision",
+        "is_correct": false
+      },
+      {
+        "text": "It creates a casual friendship",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying examples of language that are inclusive or marginalising",
-      "hint": "A writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text."
-    }
+      "summary": "“You” places responsibility on the decision-makers while “our children” frames the consequence as a community concern.",
+      "hint": "Track who must act and who is affected."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-t-003",
@@ -399,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_language_that_seeks_to_align_the_listener_or_reader_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text?",
+    "skill": "language alignment and audience positioning",
+    "question": "A Perth radio host says, “As anyone who catches the 7:10 knows, one cancelled train changes the whole morning.” Which analysis is most precise?",
+    "audio_prompt": "A Perth radio host says, “As anyone who catches the 7:10 knows, one cancelled train changes the whole morning.” Which analysis is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "identifying language that seeks to align the listener or reader; for example, “of course”, “obviously”, “as you can imagine”",
+        "text": "The phrase assumes commuters share the experience and recruits them into the complaint",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The time makes the statement scientifically proven",
+        "is_correct": false
+      },
+      {
+        "text": "“Anyone” excludes all commuters",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence avoids positioning listeners",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying language that seeks to align the listener or reader; for example, “of course”, “obviously”, “as you can imagine”",
-      "hint": "A writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text."
-    }
+      "summary": "The host invokes presumed shared commuter knowledge to create solidarity around the disruption.",
+      "hint": "Ask what experience the audience is expected to recognise."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-t-004",
@@ -436,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_the_use_of_first_person_i_we_and_second_person_you_pronouns_to_distance_or_involve_the_audience_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use audience to shape identifying the use of first person (“i”, “we”) and second person (“you”) pronouns to distance or involve the audience and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use audience to shape identifying the use of first person (“i”, “we”) and second person (“you”) pronouns to distance or involve the audience and influence how an audience understands the text?",
+    "skill": "language alignment and audience positioning",
+    "question": "A school fundraising page reads, “Our community has never walked past a family that needs help.” What persuasive risk comes with this wording?",
+    "audio_prompt": "A school fundraising page reads, “Our community has never walked past a family that needs help.” What persuasive risk comes with this wording?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "identifying the use of first person (“I”, “we”) and second person (“you”) pronouns to distance or involve the audience",
+        "text": "It may pressure readers by making generosity part of authentic community membership",
         "is_correct": true
+      },
+      {
+        "text": "It is ineffective because “our” cannot persuade",
+        "is_correct": false
+      },
+      {
+        "text": "It gives no sense of shared identity",
+        "is_correct": false
+      },
+      {
+        "text": "It is purely factual because it refers to the past",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying the use of first person (“I”, “we”) and second person (“you”) pronouns to distance or involve the audience",
-      "hint": "A writer or speaker can use audience to shape identifying the use of first person (“i”, “we”) and second person (“you”) pronouns to distance or involve the audience and influence how an audience understands the text."
-    }
+      "summary": "The line builds solidarity, but it also turns a claimed tradition into pressure to behave consistently with group identity.",
+      "hint": "Consider both connection and obligation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-t-005",
@@ -473,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_identifying_language_used_to_reference_or_indicate_shared_assumptions_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use relationship to shape identifying language used to reference or indicate shared assumptions and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use relationship to shape identifying language used to reference or indicate shared assumptions and influence how an audience understands the text?",
+    "skill": "language alignment and audience positioning",
+    "question": "Which line would best invite young people into a discussion about public transport without assuming their conclusion?",
+    "audio_prompt": "Which line would best invite young people into a discussion about public transport without assuming their conclusion?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying language used to reference or indicate shared assumptions",
+        "text": "“If you use buses, bikes, lifts or trains, your experience can help shape what comes next.”",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "“Obviously every young person wants free buses.”",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "“Real students reject car dependence.”",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "“We all know there is only one sensible transport policy.”",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying language used to reference or indicate shared assumptions",
-      "hint": "A writer or speaker can use relationship to shape identifying language used to reference or indicate shared assumptions and influence how an audience understands the text."
-    }
+      "summary": "The first line recognises varied experiences and gives the audience a role without prescribing what they must believe.",
+      "hint": "Choose inclusion that leaves room for different views."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-t-006",
@@ -510,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_effect_to_shape_identifying_language_that_appeals_to_shared_cultural_knowledge_values_and_beliefs_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge, values and beliefs and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge, values and beliefs and influence how an audience understands the text?",
+    "skill": "language alignment and audience positioning",
+    "question": "A newspaper column states, “No serious voter could support a policy this vague.” What is the strongest analysis?",
+    "audio_prompt": "A newspaper column states, “No serious voter could support a policy this vague.” What is the strongest analysis?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "identifying language that appeals to shared cultural knowledge, values and beliefs",
+        "text": "It ties one political judgement to the desirable identity of being a “serious voter”",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It neutrally describes the policy",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It proves opponents have not read the policy",
+        "is_correct": false
+      },
+      {
+        "text": "It uses second person to create friendship",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying language that appeals to shared cultural knowledge, values and beliefs",
-      "hint": "A writer or speaker can use effect to shape identifying language that appeals to shared cultural knowledge, values and beliefs and influence how an audience understands the text."
-    }
+      "summary": "The sentence pressures readers by implying that supporting the policy disqualifies them from a valued identity.",
+      "hint": "Look for identity being used as a gate."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-t-007",
@@ -547,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_examples_of_language_that_are_inclusive_or_marginalising_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text?",
+    "skill": "language alignment and audience positioning",
+    "question": "A volunteer campaign says, “Together, we can make the creek safer before summer.” Why is this more inclusive than “Good neighbours will clean the creek”?",
+    "audio_prompt": "A volunteer campaign says, “Together, we can make the creek safer before summer.” Why is this more inclusive than “Good neighbours will clean the creek”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "identifying examples of language that are inclusive or marginalising",
+        "text": "It frames action as shared capacity rather than a test of moral identity",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It contains more syllables",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the audience from the task",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees everyone will volunteer",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying examples of language that are inclusive or marginalising",
-      "hint": "A writer or speaker can use word choice to shape identifying examples of language that are inclusive or marginalising and influence how an audience understands the text."
-    }
+      "summary": "“Together, we can” invites collective agency, whereas “good neighbours” judges belonging and character through compliance.",
+      "hint": "Compare invitation with identity pressure."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la01-t-008",
@@ -584,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_language_that_seeks_to_align_the_listener_or_reader_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language alignment and audience positioning",
+    "question": "A documentary narrator says, “You might recognise this street: thousands of suburbs were designed around the same idea.” What does “You might recognise” achieve?",
+    "audio_prompt": "A documentary narrator says, “You might recognise this street: thousands of suburbs were designed around the same idea.” What does “You might recognise” achieve?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "identifying language that seeks to align the listener or reader; for example, “of course”, “obviously”, “as you can imagine”",
+        "text": "It invites personal connection while allowing that the experience is not universal",
         "is_correct": true
+      },
+      {
+        "text": "It claims every viewer lives on that street",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the narration fully objective",
+        "is_correct": false
+      },
+      {
+        "text": "It excludes viewers unfamiliar with suburbs",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying language that seeks to align the listener or reader; for example, “of course”, “obviously”, “as you can imagine”",
-      "hint": "A writer or speaker can use word choice to shape identifying language that seeks to align the listener or reader and influence how an audience understands the text."
-    }
+      "summary": "The modal “might” softens direct address, inviting recognition without pretending all viewers share the same experience.",
+      "hint": "Notice how qualification changes the pressure of “you”."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-t-009",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language alignment and audience positioning",
+    "question": "A sports commentary says, “We Australians love an underdog.” Which response shows the most sophisticated reading?",
+    "audio_prompt": "A sports commentary says, “We Australians love an underdog.” Which response shows the most sophisticated reading?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It invokes a national identity and familiar value, but not every audience member must accept that identity or preference",
+        "is_correct": true
+      },
+      {
+        "text": "It proves Australians always support weaker teams",
+        "is_correct": false
+      },
+      {
+        "text": "The pronoun has no effect in sport",
+        "is_correct": false
+      },
+      {
+        "text": "The statement is neutral because “love” is positive",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The line seeks alignment through national identity and a cultural stereotype; careful analysis does not treat the claim as universally true.",
+      "hint": "Distinguish rhetorical positioning from factual proof."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-t-010",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language alignment and audience positioning",
+    "question": "A youth mental-health poster needs direct address without implying blame. Which line is best?",
+    "audio_prompt": "A youth mental-health poster needs direct address without implying blame. Which line is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“If things feel heavy, you can tell someone you trust or contact support.”",
+        "is_correct": true
+      },
+      {
+        "text": "“You should have asked for help sooner.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Strong people always speak up immediately.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Everyone knows hiding problems makes them worse.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first addresses the reader directly while offering agency and options rather than attaching blame or identity judgement.",
+      "hint": "Direct address can support rather than accuse."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-t-011",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language alignment and audience positioning",
+    "question": "An opinion piece begins, “As we all remember, last year’s floods exposed gaps in the warning system.” What should a careful reader question first?",
+    "audio_prompt": "An opinion piece begins, “As we all remember, last year’s floods exposed gaps in the warning system.” What should a careful reader question first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Whether the event and interpretation are genuinely shared by the whole implied “we”",
+        "is_correct": true
+      },
+      {
+        "text": "Whether floods can occur in Australia",
+        "is_correct": false
+      },
+      {
+        "text": "Whether “warning” is a noun",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the sentence contains a quotation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“As we all remember” constructs collective memory, so readers should examine who is included and whether the interpretation is truly shared.",
+      "hint": "Shared memory is still a rhetorical construction."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-t-012",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language alignment and audience positioning",
+    "question": "A café ad says, “For people who know what real coffee tastes like.” How does the line position potential customers?",
+    "audio_prompt": "A café ad says, “For people who know what real coffee tastes like.” How does the line position potential customers?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It offers membership in a discerning in-group while implying outsiders lack taste",
+        "is_correct": true
+      },
+      {
+        "text": "It gives an objective definition of coffee",
+        "is_correct": false
+      },
+      {
+        "text": "It includes every customer equally",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids evaluation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ad flatters those who identify with the in-group and marginalises different preferences as less knowledgeable.",
+      "hint": "Ask what status comes with joining the implied group."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-t-013",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language alignment and audience positioning",
+    "question": "Which revision best removes an exclusionary appeal from “True fans stay until the final siren”?",
+    "audio_prompt": "Which revision best removes an exclusionary appeal from “True fans stay until the final siren”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Staying until the final siren can be one way fans show support.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Obviously true fans never leave early.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Only loyal people stay to the end.”",
+        "is_correct": false
+      },
+      {
+        "text": "“We all know leaving early is betrayal.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The revision keeps the connection between staying and support but no longer makes one behaviour the test of authentic fandom.",
+      "hint": "Keep the idea without policing membership."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-t-014",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language alignment and audience positioning",
+    "question": "A speech says, “You and I may disagree on the route, but we both want safer streets.” What does the pronoun pattern accomplish?",
+    "audio_prompt": "A speech says, “You and I may disagree on the route, but we both want safer streets.” What does the pronoun pattern accomplish?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It acknowledges difference before constructing a narrower area of shared purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It pretends no disagreement exists",
+        "is_correct": false
+      },
+      {
+        "text": "It excludes the speaker from the issue",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the claim impersonal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“You and I” recognises separate positions, while “we both” creates alignment around a specific common goal.",
+      "hint": "Notice the movement from difference to common ground."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-t-015",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language alignment and audience positioning",
+    "question": "A campaign slogan reads, “This is our river. Its future is our choice.” Which feature carries most of the alignment work?",
+    "audio_prompt": "A campaign slogan reads, “This is our river. Its future is our choice.” Which feature carries most of the alignment work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Repeated inclusive possessive “our”",
+        "is_correct": true
+      },
+      {
+        "text": "The full stop",
+        "is_correct": false
+      },
+      {
+        "text": "The word “future” alone",
+        "is_correct": false
+      },
+      {
+        "text": "The absence of statistics",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated “our” constructs shared ownership and responsibility, positioning the audience as part of the decision-making community.",
+      "hint": "Track who is made to own both the place and the decision."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la01-t-016",
+    "curriculum_code": "AC9E10LA01",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language alignment and audience positioning",
+    "question": "A student article says, “Clearly, no one wants assessment to be unfair.” What is the best next analytical step?",
+    "audio_prompt": "A student article says, “Clearly, no one wants assessment to be unfair.” What is the best next analytical step?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Separate the broadly agreeable value of fairness from whatever policy claim the writer attaches to it next",
+        "is_correct": true
+      },
+      {
+        "text": "Accept every later claim because fairness is good",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore “clearly” because it is only an adverb",
+        "is_correct": false
+      },
+      {
+        "text": "Assume all readers define fairness identically",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Writers can establish easy shared ground and then use it to support a more contestable proposal; readers should test that connection.",
+      "hint": "Agreement with a value does not automatically prove the next claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
