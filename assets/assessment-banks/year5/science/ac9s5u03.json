@@ -1,1418 +1,3402 @@
 [
   {
-    "id": "ac9s5u03-p-001",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-001",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "During a habitat survey, students observe that rough white paper is visible from many directions. Which light interaction is most important?",
-    "audio_prompt": "During a habitat survey, students observe that rough white paper is visible from many directions. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "What causes a shadow on the ground?",
+    "audio_prompt": "What causes a shadow on the ground?",
+    "audioPrompt": "What causes a shadow on the ground?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-001",
-      "alt_text": "During a habitat survey: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "scattering",
+        "text": "An opaque object blocks some straight-line light rays",
         "is_correct": true
       },
       {
-        "text": "reflection",
+        "text": "Darkness flows out of the object",
         "is_correct": false
       },
       {
-        "text": "refraction",
+        "text": "The eye sends dark rays to the ground",
+        "is_correct": false
+      },
+      {
+        "text": "All light bends around the object",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "An opaque object blocks some straight-line light rays",
+      "Darkness flows out of the object",
+      "The eye sends dark rays to the ground",
+      "All light bends around the object"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The observation is explained mainly by scattering.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
+      "summary": "A shadow forms where direct light is blocked by an opaque object.",
+      "hint": "Blocked light."
     },
+    "structuredExplanation": {
+      "summary": "A shadow forms where direct light is blocked by an opaque object.",
+      "hint": "Blocked light."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-002",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-002",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "At the school science table, which explanation best accounts for why a straw appears bent in water?",
-    "audio_prompt": "At the school science table, which explanation best accounts for why a straw appears bent in water?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "What happens when light reflects from a mirror?",
+    "audio_prompt": "What happens when light reflects from a mirror?",
+    "audioPrompt": "What happens when light reflects from a mirror?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-002",
-      "alt_text": "At the school science table: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
+        "text": "It disappears forever",
         "is_correct": false
       },
       {
-        "text": "light changes direction crossing air and water",
+        "text": "It becomes sound",
+        "is_correct": false
+      },
+      {
+        "text": "It turns into a solid",
+        "is_correct": false
+      },
+      {
+        "text": "It changes direction at the surface",
         "is_correct": true
-      },
-      {
-        "text": "light energy transfers to the material",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "It disappears forever",
+      "It becomes sound",
+      "It turns into a solid",
+      "It changes direction at the surface"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
+      "summary": "Reflection is a change in light direction at a surface.",
+      "hint": "Bounces from surface."
     },
+    "structuredExplanation": {
+      "summary": "Reflection is a change in light direction at a surface.",
+      "hint": "Bounces from surface."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-003",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-003",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "While examining a creek, students observe that a clear window lets a scene remain visible. Which light interaction is most important?",
-    "audio_prompt": "While examining a creek, students observe that a clear window lets a scene remain visible. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "What is refraction?",
+    "audio_prompt": "What is refraction?",
+    "audioPrompt": "What is refraction?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-003",
-      "alt_text": "While examining a creek: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
+        "text": "A shadow growing legs",
         "is_correct": false
       },
       {
-        "text": "refraction",
+        "text": "Darkness being stored in glass",
         "is_correct": false
       },
       {
-        "text": "transmission",
+        "text": "Light changing direction as it passes between materials",
         "is_correct": true
+      },
+      {
+        "text": "Light bouncing from a mirror only",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A shadow growing legs",
+      "Darkness being stored in glass",
+      "Light changing direction as it passes between materials",
+      "Light bouncing from a mirror only"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The observation is explained mainly by transmission.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
+      "summary": "Refraction happens when light changes speed and direction between media.",
+      "hint": "Air to water clue."
     },
+    "structuredExplanation": {
+      "summary": "Refraction happens when light changes speed and direction between media.",
+      "hint": "Air to water clue."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-004",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-004",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "In a classroom investigation, which explanation best accounts for why rough white paper is visible from many directions?",
-    "audio_prompt": "In a classroom investigation, which explanation best accounts for why rough white paper is visible from many directions?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which material is opaque?",
+    "audio_prompt": "Which material is opaque?",
+    "audioPrompt": "Which material is opaque?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-004",
-      "alt_text": "In a classroom investigation: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflected light travels in many directions",
+        "text": "Air",
+        "is_correct": false
+      },
+      {
+        "text": "Cardboard",
         "is_correct": true
       },
       {
-        "text": "light changes direction at the surface",
+        "text": "Clear glass",
         "is_correct": false
       },
       {
-        "text": "light changes direction crossing air and water",
+        "text": "Clean water",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Air",
+      "Cardboard",
+      "Clear glass",
+      "Clean water"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
+      "summary": "Opaque materials block most light from passing through.",
+      "hint": "Blocks light."
     },
+    "structuredExplanation": {
+      "summary": "Opaque materials block most light from passing through.",
+      "hint": "Blocks light."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-005",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-005",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "During a garden observation, students observe that a straw appears bent in water. Which light interaction is most important?",
-    "audio_prompt": "During a garden observation, students observe that a straw appears bent in water. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which material is transparent?",
+    "audio_prompt": "Which material is transparent?",
+    "audioPrompt": "Which material is transparent?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-005",
-      "alt_text": "During a garden observation: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
-        "is_correct": false
-      },
-      {
-        "text": "refraction",
+        "text": "Clear window glass",
         "is_correct": true
       },
       {
-        "text": "absorption",
+        "text": "Thick cardboard",
+        "is_correct": false
+      },
+      {
+        "text": "A wooden door",
+        "is_correct": false
+      },
+      {
+        "text": "A black school bag",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Clear window glass",
+      "Thick cardboard",
+      "A wooden door",
+      "A black school bag"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The observation is explained mainly by refraction.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
+      "summary": "Transparent materials let most light pass through.",
+      "hint": "See through."
     },
+    "structuredExplanation": {
+      "summary": "Transparent materials let most light pass through.",
+      "hint": "See through."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-006",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-006",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "At the coastal field station, which explanation best accounts for why a clear window lets a scene remain visible?",
-    "audio_prompt": "At the coastal field station, which explanation best accounts for why a clear window lets a scene remain visible?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which material is translucent?",
+    "audio_prompt": "Which material is translucent?",
+    "audioPrompt": "Which material is translucent?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-006",
-      "alt_text": "At the coastal field station: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
+        "text": "A brick wall",
         "is_correct": false
       },
       {
-        "text": "light changes direction crossing air and water",
+        "text": "A mirror only",
         "is_correct": false
       },
       {
-        "text": "much of the light passes through",
+        "text": "A metal spoon",
+        "is_correct": false
+      },
+      {
+        "text": "Tracing paper",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "A brick wall",
+      "A mirror only",
+      "A metal spoon",
+      "Tracing paper"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
+      "summary": "Translucent materials let some light through but scatter it.",
+      "hint": "Blurry light through."
     },
+    "structuredExplanation": {
+      "summary": "Translucent materials let some light through but scatter it.",
+      "hint": "Blurry light through."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-007",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-007",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "While comparing samples, students observe that a mirror redirects a torch beam. Which light interaction is most important?",
-    "audio_prompt": "While comparing samples, students observe that a mirror redirects a torch beam. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which interaction can make a dark shirt warmer in sunlight?",
+    "audio_prompt": "Which interaction can make a dark shirt warmer in sunlight?",
+    "audioPrompt": "Which interaction can make a dark shirt warmer in sunlight?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-007",
-      "alt_text": "While comparing samples: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
+        "text": "Refraction into the sky",
+        "is_correct": false
+      },
+      {
+        "text": "A shadow producing heat",
+        "is_correct": false
+      },
+      {
+        "text": "Absorption of light energy",
         "is_correct": true
       },
       {
-        "text": "refraction",
-        "is_correct": false
-      },
-      {
-        "text": "absorption",
+        "text": "Reflection of all light",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Refraction into the sky",
+      "A shadow producing heat",
+      "Absorption of light energy",
+      "Reflection of all light"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The observation is explained mainly by reflection.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
+      "summary": "Dark materials often absorb more visible light energy under the same conditions.",
+      "hint": "Light energy taken in."
     },
+    "structuredExplanation": {
+      "summary": "Dark materials often absorb more visible light energy under the same conditions.",
+      "hint": "Light energy taken in."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-008",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-008",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "In the school laboratory, which explanation best accounts for why dark cloth warms in sunlight?",
-    "audio_prompt": "In the school laboratory, which explanation best accounts for why dark cloth warms in sunlight?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "How does light usually travel in air across a classroom?",
+    "audio_prompt": "How does light usually travel in air across a classroom?",
+    "audioPrompt": "How does light usually travel in air across a classroom?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-008",
-      "alt_text": "In the school laboratory: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
+        "text": "Only from eyes to objects",
         "is_correct": false
       },
       {
-        "text": "light energy transfers to the material",
+        "text": "In straight lines",
         "is_correct": true
       },
       {
-        "text": "light changes direction crossing air and water",
+        "text": "In circles around corners",
+        "is_correct": false
+      },
+      {
+        "text": "Only downward",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Only from eyes to objects",
+      "In straight lines",
+      "In circles around corners",
+      "Only downward"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
+      "summary": "In a uniform medium such as air, light travels in straight lines.",
+      "hint": "Straight ray."
     },
+    "structuredExplanation": {
+      "summary": "In a uniform medium such as air, light travels in straight lines.",
+      "hint": "Straight ray."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-009",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-009",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "During a weather study, students observe that an opaque card forms a shadow. Which light interaction is most important?",
-    "audio_prompt": "During a weather study, students observe that an opaque card forms a shadow. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "How do we see a book under a lamp?",
+    "audio_prompt": "How do we see a book under a lamp?",
+    "audioPrompt": "How do we see a book under a lamp?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-009",
-      "alt_text": "During a weather study: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
-        "is_correct": false
-      },
-      {
-        "text": "refraction",
-        "is_correct": false
-      },
-      {
-        "text": "blocking",
+        "text": "Light from the lamp reflects from the book into our eyes",
         "is_correct": true
+      },
+      {
+        "text": "Our eyes send light into the book first",
+        "is_correct": false
+      },
+      {
+        "text": "The book makes darkness visible",
+        "is_correct": false
+      },
+      {
+        "text": "The shadow enters our eyes",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The observation is explained mainly by blocking.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5u03-p-010",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "At the wildlife centre, which explanation best accounts for why a mirror redirects a torch beam?",
-    "audio_prompt": "At the wildlife centre, which explanation best accounts for why a mirror redirects a torch beam?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-010",
-      "alt_text": "At the wildlife centre: trace a light path, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "light changes direction at the surface",
-        "is_correct": true
-      },
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": false
-      },
-      {
-        "text": "light energy transfers to the material",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Light from the lamp reflects from the book into our eyes",
+      "Our eyes send light into the book first",
+      "The book makes darkness visible",
+      "The shadow enters our eyes"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
+      "summary": "We see when light from a source reflects from objects and enters our eyes.",
+      "hint": "Source to object to eye."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "We see when light from a source reflects from objects and enters our eyes.",
+      "hint": "Source to object to eye."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-011",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-010",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "While reviewing a data table, students observe that dark cloth warms in sunlight. Which light interaction is most important?",
-    "audio_prompt": "While reviewing a data table, students observe that dark cloth warms in sunlight. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which object is most likely to reflect light clearly?",
+    "audio_prompt": "Which object is most likely to reflect light clearly?",
+    "audioPrompt": "Which object is most likely to reflect light clearly?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-011",
-      "alt_text": "While reviewing a data table: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
+        "text": "Black felt",
         "is_correct": false
       },
       {
-        "text": "absorption",
+        "text": "Rough bark",
+        "is_correct": false
+      },
+      {
+        "text": "Matte cardboard",
+        "is_correct": false
+      },
+      {
+        "text": "A smooth mirror",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Black felt",
+      "Rough bark",
+      "Matte cardboard",
+      "A smooth mirror"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Smooth shiny surfaces can reflect light in a clear direction.",
+      "hint": "Smooth and shiny."
+    },
+    "structuredExplanation": {
+      "summary": "Smooth shiny surfaces can reflect light in a clear direction.",
+      "hint": "Smooth and shiny."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-011",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why does a tree make a shadow on a sunny path?",
+    "audio_prompt": "Why does a tree make a shadow on a sunny path?",
+    "audioPrompt": "Why does a tree make a shadow on a sunny path?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The path sends light into the tree",
+        "is_correct": false
+      },
+      {
+        "text": "The Sun stops producing light under the tree",
+        "is_correct": false
+      },
+      {
+        "text": "The tree blocks some straight-line sunlight from reaching the path",
         "is_correct": true
       },
       {
-        "text": "refraction",
+        "text": "The tree paints darkness onto the ground",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "The path sends light into the tree",
+      "The Sun stops producing light under the tree",
+      "The tree blocks some straight-line sunlight from reaching the path",
+      "The tree paints darkness onto the ground"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The shadow is a region receiving less direct sunlight.",
+      "hint": "Blocked sunlight."
+    },
+    "structuredExplanation": {
+      "summary": "The shadow is a region receiving less direct sunlight.",
+      "hint": "Blocked sunlight."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-012",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why can a straw look bent in a glass of water?",
+    "audio_prompt": "Why can a straw look bent in a glass of water?",
+    "audioPrompt": "Why can a straw look bent in a glass of water?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Water makes a shadow on the straw",
+        "is_correct": false
+      },
+      {
+        "text": "Light refracts when it passes between water and air",
+        "is_correct": true
+      },
+      {
+        "text": "The straw always snaps in water",
+        "is_correct": false
+      },
+      {
+        "text": "The eye sends curved light into the glass",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Water makes a shadow on the straw",
+      "Light refracts when it passes between water and air",
+      "The straw always snaps in water",
+      "The eye sends curved light into the glass"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The observation is explained mainly by absorption.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
+      "summary": "Refraction changes the apparent position of the underwater part.",
+      "hint": "Light changes medium."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Refraction changes the apparent position of the underwater part.",
+      "hint": "Light changes medium."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-012",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-013",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "In a materials investigation, which explanation best accounts for why an opaque card forms a shadow?",
-    "audio_prompt": "In a materials investigation, which explanation best accounts for why an opaque card forms a shadow?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why is “eyes send out light to see” incorrect?",
+    "audio_prompt": "Why is “eyes send out light to see” incorrect?",
+    "audioPrompt": "Why is “eyes send out light to see” incorrect?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-012",
-      "alt_text": "In a materials investigation: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
-        "is_correct": false
-      },
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": false
-      },
-      {
-        "text": "straight-line rays cannot reach the region behind it",
+        "text": "Light from a source reflects from objects and enters the eyes",
         "is_correct": true
+      },
+      {
+        "text": "Eyes must shine light onto every object",
+        "is_correct": false
+      },
+      {
+        "text": "Objects are seen only in darkness",
+        "is_correct": false
+      },
+      {
+        "text": "Shadows travel into eyes first",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5u03-p-013",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "During an outdoor observation, students observe that a straw appears bent in water. Which light interaction is most important?",
-    "audio_prompt": "During an outdoor observation, students observe that a straw appears bent in water. Which light interaction is most important?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-013",
-      "alt_text": "During an outdoor observation: identify a light interaction, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "refraction",
-        "is_correct": true
-      },
-      {
-        "text": "reflection",
-        "is_correct": false
-      },
-      {
-        "text": "absorption",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Light from a source reflects from objects and enters the eyes",
+      "Eyes must shine light onto every object",
+      "Objects are seen only in darkness",
+      "Shadows travel into eyes first"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The observation is explained mainly by refraction.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
+      "summary": "Vision depends on light reaching the eye after interacting with objects.",
+      "hint": "Light enters eyes."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Vision depends on light reaching the eye after interacting with objects.",
+      "hint": "Light enters eyes."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-014",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-014",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "At the community science fair, which explanation best accounts for why a clear window lets a scene remain visible?",
-    "audio_prompt": "At the community science fair, which explanation best accounts for why a clear window lets a scene remain visible?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why is a shadow not reflected light?",
+    "audio_prompt": "Why is a shadow not reflected light?",
+    "audioPrompt": "Why is a shadow not reflected light?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-014",
-      "alt_text": "At the community science fair: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
+        "text": "A shadow is the brightest reflection",
         "is_correct": false
       },
       {
-        "text": "much of the light passes through",
+        "text": "Shadows are made of mirror light",
+        "is_correct": false
+      },
+      {
+        "text": "Reflected light always makes darkness",
+        "is_correct": false
+      },
+      {
+        "text": "A shadow is where less direct light reaches a surface",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A shadow is the brightest reflection",
+      "Shadows are made of mirror light",
+      "Reflected light always makes darkness",
+      "A shadow is where less direct light reaches a surface"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Shadows form because light is blocked, not because light is reflected into them.",
+      "hint": "Less light, not bounced light."
+    },
+    "structuredExplanation": {
+      "summary": "Shadows form because light is blocked, not because light is reflected into them.",
+      "hint": "Less light, not bounced light."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-015",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why does a mirror show a clearer image than rough paper?",
+    "audio_prompt": "Why does a mirror show a clearer image than rough paper?",
+    "audioPrompt": "Why does a mirror show a clearer image than rough paper?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Paper makes light travel from eyes",
+        "is_correct": false
+      },
+      {
+        "text": "Mirrors bend light through water",
+        "is_correct": false
+      },
+      {
+        "text": "A smooth mirror reflects light in an organised direction",
         "is_correct": true
       },
       {
-        "text": "light changes direction crossing air and water",
+        "text": "Rough paper absorbs every ray",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Paper makes light travel from eyes",
+      "Mirrors bend light through water",
+      "A smooth mirror reflects light in an organised direction",
+      "Rough paper absorbs every ray"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Smooth surfaces produce more regular reflection than rough surfaces.",
+      "hint": "Smooth reflection."
+    },
+    "structuredExplanation": {
+      "summary": "Smooth surfaces produce more regular reflection than rough surfaces.",
+      "hint": "Smooth reflection."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-016",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why does clear glass not make a strong shadow like cardboard?",
+    "audio_prompt": "Why does clear glass not make a strong shadow like cardboard?",
+    "audioPrompt": "Why does clear glass not make a strong shadow like cardboard?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Glass makes eyes send more light",
+        "is_correct": false
+      },
+      {
+        "text": "Much light is transmitted through clear glass",
+        "is_correct": true
+      },
+      {
+        "text": "Glass creates darkness inside itself",
+        "is_correct": false
+      },
+      {
+        "text": "Cardboard transmits all light",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Glass makes eyes send more light",
+      "Much light is transmitted through clear glass",
+      "Glass creates darkness inside itself",
+      "Cardboard transmits all light"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
+      "summary": "Transparent materials let most light pass through, so less light is blocked.",
+      "hint": "Transmission."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Transparent materials let most light pass through, so less light is blocked.",
+      "hint": "Transmission."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-015",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-017",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "While planning a fair test, students observe that rough white paper is visible from many directions. Which light interaction is most important?",
-    "audio_prompt": "While planning a fair test, students observe that rough white paper is visible from many directions. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why can black paper become warmer than white paper in the same sunlight?",
+    "audio_prompt": "Why can black paper become warmer than white paper in the same sunlight?",
+    "audioPrompt": "Why can black paper become warmer than white paper in the same sunlight?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-015",
-      "alt_text": "While planning a fair test: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
-        "is_correct": false
-      },
-      {
-        "text": "refraction",
-        "is_correct": false
-      },
-      {
-        "text": "scattering",
+        "text": "Black paper may absorb more light energy",
         "is_correct": true
+      },
+      {
+        "text": "White paper contains coldness",
+        "is_correct": false
+      },
+      {
+        "text": "Black paper creates more sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "The shadow heats black paper",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The observation is explained mainly by scattering.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5u03-p-016",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "In a digital science journal, which explanation best accounts for why a straw appears bent in water?",
-    "audio_prompt": "In a digital science journal, which explanation best accounts for why a straw appears bent in water?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-016",
-      "alt_text": "In a digital science journal: trace a light path, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": true
-      },
-      {
-        "text": "light changes direction at the surface",
-        "is_correct": false
-      },
-      {
-        "text": "light energy transfers to the material",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Black paper may absorb more light energy",
+      "White paper contains coldness",
+      "Black paper creates more sunlight",
+      "The shadow heats black paper"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
+      "summary": "Absorbed light energy can warm a material.",
+      "hint": "Absorption warms."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Absorbed light energy can warm a material.",
+      "hint": "Absorption warms."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-017",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-018",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "During a light investigation, students observe that a clear window lets a scene remain visible. Which light interaction is most important?",
-    "audio_prompt": "During a light investigation, students observe that a clear window lets a scene remain visible. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why should a ray diagram use arrows?",
+    "audio_prompt": "Why should a ray diagram use arrows?",
+    "audioPrompt": "Why should a ray diagram use arrows?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-017",
-      "alt_text": "During a light investigation: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
+        "text": "Arrows show where darkness runs",
         "is_correct": false
       },
       {
-        "text": "transmission",
+        "text": "Arrows replace all labels",
+        "is_correct": false
+      },
+      {
+        "text": "Light has no direction",
+        "is_correct": false
+      },
+      {
+        "text": "Arrows show the direction light travels",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Arrows show where darkness runs",
+      "Arrows replace all labels",
+      "Light has no direction",
+      "Arrows show the direction light travels"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Ray arrows help trace light paths from source to object to eye or screen.",
+      "hint": "Direction matters."
+    },
+    "structuredExplanation": {
+      "summary": "Ray arrows help trace light paths from source to object to eye or screen.",
+      "hint": "Direction matters."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-019",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why can tracing paper blur an image behind it?",
+    "audio_prompt": "Why can tracing paper blur an image behind it?",
+    "audioPrompt": "Why can tracing paper blur an image behind it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It reflects a clear mirror image",
+        "is_correct": false
+      },
+      {
+        "text": "It sends light from the eye outward",
+        "is_correct": false
+      },
+      {
+        "text": "It transmits some light but scatters it in different directions",
         "is_correct": true
       },
       {
-        "text": "refraction",
+        "text": "It blocks all light perfectly",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "It reflects a clear mirror image",
+      "It sends light from the eye outward",
+      "It transmits some light but scatters it in different directions",
+      "It blocks all light perfectly"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Translucent materials scatter transmitted light, making images unclear.",
+      "hint": "Some light, scattered."
+    },
+    "structuredExplanation": {
+      "summary": "Translucent materials scatter transmitted light, making images unclear.",
+      "hint": "Some light, scattered."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-020",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why does a shadow usually change size when the object moves closer to a torch?",
+    "audio_prompt": "Why does a shadow usually change size when the object moves closer to a torch?",
+    "audioPrompt": "Why does a shadow usually change size when the object moves closer to a torch?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The torch light stops moving straight",
+        "is_correct": false
+      },
+      {
+        "text": "The object blocks a wider spread of light rays when closer to the source",
+        "is_correct": true
+      },
+      {
+        "text": "The object becomes larger",
+        "is_correct": false
+      },
+      {
+        "text": "The screen produces more darkness",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The torch light stops moving straight",
+      "The object blocks a wider spread of light rays when closer to the source",
+      "The object becomes larger",
+      "The screen produces more darkness"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The observation is explained mainly by transmission.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
+      "summary": "Changing distances changes which straight rays are blocked.",
+      "hint": "Geometry of rays."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Changing distances changes which straight rays are blocked.",
+      "hint": "Geometry of rays."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-018",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-021",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "At the local wetland, which explanation best accounts for why rough white paper is visible from many directions?",
-    "audio_prompt": "At the local wetland, which explanation best accounts for why rough white paper is visible from many directions?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which statement is a misconception?",
+    "audio_prompt": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-018",
-      "alt_text": "At the local wetland: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
-        "is_correct": false
-      },
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": false
-      },
-      {
-        "text": "reflected light travels in many directions",
+        "text": "Eyes send out light so we can see objects",
         "is_correct": true
+      },
+      {
+        "text": "Light can reflect from objects into eyes",
+        "is_correct": false
+      },
+      {
+        "text": "Opaque objects block light",
+        "is_correct": false
+      },
+      {
+        "text": "Refraction can make objects appear shifted",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5u03-p-019",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "While checking another group's method, students observe that dark cloth warms in sunlight. Which light interaction is most important?",
-    "audio_prompt": "While checking another group's method, students observe that dark cloth warms in sunlight. Which light interaction is most important?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-019",
-      "alt_text": "While checking another group's method: identify a light interaction, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "absorption",
-        "is_correct": true
-      },
-      {
-        "text": "reflection",
-        "is_correct": false
-      },
-      {
-        "text": "refraction",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Eyes send out light so we can see objects",
+      "Light can reflect from objects into eyes",
+      "Opaque objects block light",
+      "Refraction can make objects appear shifted"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The observation is explained mainly by absorption.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
+      "summary": "Eyes receive light; they do not need to send light out to see.",
+      "hint": "Light enters eyes."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Eyes receive light; they do not need to send light out to see.",
+      "hint": "Light enters eyes."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-020",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-022",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "In a model-building lesson, which explanation best accounts for why an opaque card forms a shadow?",
-    "audio_prompt": "In a model-building lesson, which explanation best accounts for why an opaque card forms a shadow?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which situation shows reflection?",
+    "audio_prompt": "Which situation shows reflection?",
+    "audioPrompt": "Which situation shows reflection?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-020",
-      "alt_text": "In a model-building lesson: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
+        "text": "A straw appears bent in water",
         "is_correct": false
       },
       {
-        "text": "straight-line rays cannot reach the region behind it",
+        "text": "Cardboard blocks a torch beam",
+        "is_correct": false
+      },
+      {
+        "text": "Black fabric warms in sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "A mirror sends torch light onto a wall",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A straw appears bent in water",
+      "Cardboard blocks a torch beam",
+      "Black fabric warms in sunlight",
+      "A mirror sends torch light onto a wall"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The mirror changes the direction of the torch light.",
+      "hint": "Bounced light."
+    },
+    "structuredExplanation": {
+      "summary": "The mirror changes the direction of the torch light.",
+      "hint": "Bounced light."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-023",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which situation shows refraction?",
+    "audio_prompt": "Which situation shows refraction?",
+    "audioPrompt": "Which situation shows refraction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A dark tile warms in sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "A book blocks light",
+        "is_correct": false
+      },
+      {
+        "text": "A coin in a bowl appears higher when water is added",
         "is_correct": true
       },
       {
-        "text": "light changes direction crossing air and water",
+        "text": "A tree casts a shadow",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "A dark tile warms in sunlight",
+      "A book blocks light",
+      "A coin in a bowl appears higher when water is added",
+      "A tree casts a shadow"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The coin appears shifted because light bends between water and air.",
+      "hint": "Change medium."
+    },
+    "structuredExplanation": {
+      "summary": "The coin appears shifted because light bends between water and air.",
+      "hint": "Change medium."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-024",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which situation shows absorption?",
+    "audio_prompt": "Which situation shows absorption?",
+    "audioPrompt": "Which situation shows absorption?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A wall makes a shadow",
+        "is_correct": false
+      },
+      {
+        "text": "A dark car seat warms in sunshine",
+        "is_correct": true
+      },
+      {
+        "text": "A mirror reflects a face",
+        "is_correct": false
+      },
+      {
+        "text": "A clear window lets light through",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A wall makes a shadow",
+      "A dark car seat warms in sunshine",
+      "A mirror reflects a face",
+      "A clear window lets light through"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
+      "summary": "The dark surface absorbs light energy and may warm.",
+      "hint": "Energy taken in."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The dark surface absorbs light energy and may warm.",
+      "hint": "Energy taken in."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-021",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-025",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "During a temperature investigation, students observe that a mirror redirects a torch beam. Which light interaction is most important?",
-    "audio_prompt": "During a temperature investigation, students observe that a mirror redirects a torch beam. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which best explains a shadow puppet?",
+    "audio_prompt": "Which best explains a shadow puppet?",
+    "audioPrompt": "Which best explains a shadow puppet?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-021",
-      "alt_text": "During a temperature investigation: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "refraction",
-        "is_correct": false
-      },
-      {
-        "text": "absorption",
-        "is_correct": false
-      },
-      {
-        "text": "reflection",
+        "text": "The hand blocks light travelling toward the screen",
         "is_correct": true
+      },
+      {
+        "text": "The hand reflects darkness onto the screen",
+        "is_correct": false
+      },
+      {
+        "text": "The screen sends light into the torch",
+        "is_correct": false
+      },
+      {
+        "text": "The eye creates the puppet shape",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The hand blocks light travelling toward the screen",
+      "The hand reflects darkness onto the screen",
+      "The screen sends light into the torch",
+      "The eye creates the puppet shape"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The observation is explained mainly by reflection.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
+      "summary": "The puppet shape is where the hand blocks direct light.",
+      "hint": "Blocked rays."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The puppet shape is where the hand blocks direct light.",
+      "hint": "Blocked rays."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-022",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-026",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "At the environmental centre, which explanation best accounts for why dark cloth warms in sunlight?",
-    "audio_prompt": "At the environmental centre, which explanation best accounts for why dark cloth warms in sunlight?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which material would make the clearest view of a garden?",
+    "audio_prompt": "Which material would make the clearest view of a garden?",
+    "audioPrompt": "Which material would make the clearest view of a garden?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-022",
-      "alt_text": "At the environmental centre: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light energy transfers to the material",
+        "text": "Tracing paper",
+        "is_correct": false
+      },
+      {
+        "text": "Cardboard",
+        "is_correct": false
+      },
+      {
+        "text": "Black cloth",
+        "is_correct": false
+      },
+      {
+        "text": "Transparent glass",
         "is_correct": true
-      },
-      {
-        "text": "light changes direction at the surface",
-        "is_correct": false
-      },
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Tracing paper",
+      "Cardboard",
+      "Black cloth",
+      "Transparent glass"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
+      "summary": "Transparent glass transmits light with little scattering.",
+      "hint": "Clear transmission."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Transparent glass transmits light with little scattering.",
+      "hint": "Clear transmission."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-023",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-027",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "identify_a_light_interaction",
-    "question": "While preparing a science report, students observe that an opaque card forms a shadow. Which light interaction is most important?",
-    "audio_prompt": "While preparing a science report, students observe that an opaque card forms a shadow. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which material would make a blurry view but still let light through?",
+    "audio_prompt": "Which material would make a blurry view but still let light through?",
+    "audioPrompt": "Which material would make a blurry view but still let light through?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-023",
-      "alt_text": "While preparing a science report: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
+        "text": "A steel tray",
         "is_correct": false
       },
       {
-        "text": "blocking",
+        "text": "A thick book",
+        "is_correct": false
+      },
+      {
+        "text": "Wax paper",
         "is_correct": true
       },
       {
-        "text": "refraction",
+        "text": "A brick",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "A steel tray",
+      "A thick book",
+      "Wax paper",
+      "A brick"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The observation is explained mainly by blocking.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
+      "summary": "Wax paper can be translucent: it lets some light through while scattering it.",
+      "hint": "Some but blurry."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Wax paper can be translucent: it lets some light through while scattering it.",
+      "hint": "Some but blurry."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-p-024",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-P-028",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "practice",
-    "skill": "trace_a_light_path",
-    "question": "In a research discussion, which explanation best accounts for why a mirror redirects a torch beam?",
-    "audio_prompt": "In a research discussion, which explanation best accounts for why a mirror redirects a torch beam?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which ray path is correct for seeing a gum leaf?",
+    "audio_prompt": "Which ray path is correct for seeing a gum leaf?",
+    "audioPrompt": "Which ray path is correct for seeing a gum leaf?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-p-024",
-      "alt_text": "In a research discussion: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction crossing air and water",
+        "text": "Eye → darkness → leaf",
         "is_correct": false
       },
       {
-        "text": "light energy transfers to the material",
+        "text": "Sun → leaf → eye",
+        "is_correct": true
+      },
+      {
+        "text": "Eye → leaf → Sun",
         "is_correct": false
       },
       {
-        "text": "light changes direction at the surface",
+        "text": "Leaf → shadow → eye only",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Eye → darkness → leaf",
+      "Sun → leaf → eye",
+      "Eye → leaf → Sun",
+      "Leaf → shadow → eye only"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Light from the Sun reflects from the leaf into the eye.",
+      "hint": "Source, object, eye."
+    },
+    "structuredExplanation": {
+      "summary": "Light from the Sun reflects from the leaf into the eye.",
+      "hint": "Source, object, eye."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-029",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which statement about black objects is most accurate?",
+    "audio_prompt": "Which statement about black objects is most accurate?",
+    "audioPrompt": "Which statement about black objects is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "They often absorb more visible light under the same conditions",
+        "is_correct": true
+      },
+      {
+        "text": "They contain darkness as a material",
+        "is_correct": false
+      },
+      {
+        "text": "They cannot reflect any light at all",
+        "is_correct": false
+      },
+      {
+        "text": "They always stay colder than white objects",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "They often absorb more visible light under the same conditions",
+      "They contain darkness as a material",
+      "They cannot reflect any light at all",
+      "They always stay colder than white objects"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Black surfaces commonly absorb more visible light, though real surfaces can vary.",
+      "hint": "Absorption, not darkness material."
+    },
+    "structuredExplanation": {
+      "summary": "Black surfaces commonly absorb more visible light, though real surfaces can vary.",
+      "hint": "Absorption, not darkness material."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-030",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which investigation best compares shadow size?",
+    "audio_prompt": "Which investigation best compares shadow size?",
+    "audioPrompt": "Which investigation best compares shadow size?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Use different torches and different objects each time",
+        "is_correct": false
+      },
+      {
+        "text": "Guess which shadow looks best",
+        "is_correct": false
+      },
+      {
+        "text": "Change distance and screen size together",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same torch and object, change object distance, measure shadow width",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Use different torches and different objects each time",
+      "Guess which shadow looks best",
+      "Change distance and screen size together",
+      "Use the same torch and object, change object distance, measure shadow width"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
+      "summary": "A fair shadow-size test changes one distance and measures shadow size.",
+      "hint": "Control other variables."
+    },
+    "structuredExplanation": {
+      "summary": "A fair shadow-size test changes one distance and measures shadow size.",
+      "hint": "Control other variables."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-031",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A student puts a pencil in water and says the pencil broke. What is the best correction?",
+    "audio_prompt": "A student puts a pencil in water and says the pencil broke. What is the best correction?",
+    "audioPrompt": "A student puts a pencil in water and says the pencil broke. What is the best correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Water reflected darkness onto the pencil",
+        "is_correct": false
+      },
+      {
+        "text": "The eye pushed the pencil sideways",
+        "is_correct": false
+      },
+      {
+        "text": "Light refracted at the water surface, making the pencil appear bent",
+        "is_correct": true
+      },
+      {
+        "text": "The pencil always breaks in water",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Water reflected darkness onto the pencil",
+      "The eye pushed the pencil sideways",
+      "Light refracted at the water surface, making the pencil appear bent",
+      "The pencil always breaks in water"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Refraction can change where the underwater part appears to be.",
+      "hint": "Appears bent."
+    },
+    "structuredExplanation": {
+      "summary": "Refraction can change where the underwater part appears to be.",
+      "hint": "Appears bent."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-032",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A torch shines on a soccer ball and a shadow forms on the wall. Why?",
+    "audio_prompt": "A torch shines on a soccer ball and a shadow forms on the wall. Why?",
+    "audioPrompt": "A torch shines on a soccer ball and a shadow forms on the wall. Why?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The torch light curves around the ball fully",
+        "is_correct": false
+      },
+      {
+        "text": "The opaque ball blocks some straight-line light rays",
+        "is_correct": true
+      },
+      {
+        "text": "The ball makes new darkness",
+        "is_correct": false
+      },
+      {
+        "text": "The wall absorbs the torch before light arrives",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The torch light curves around the ball fully",
+      "The opaque ball blocks some straight-line light rays",
+      "The ball makes new darkness",
+      "The wall absorbs the torch before light arrives"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The ball blocks light from reaching part of the wall.",
+      "hint": "Opaque object."
+    },
+    "structuredExplanation": {
+      "summary": "The ball blocks light from reaching part of the wall.",
+      "hint": "Opaque object."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-033",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A class wants a bigger shadow using the same torch and screen. What change could work?",
+    "audio_prompt": "A class wants a bigger shadow using the same torch and screen. What change could work?",
+    "audioPrompt": "A class wants a bigger shadow using the same torch and screen. What change could work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Move the object closer to the torch",
+        "is_correct": true
+      },
+      {
+        "text": "Use a transparent object only",
+        "is_correct": false
+      },
+      {
+        "text": "Turn the object into glass",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the object",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Move the object closer to the torch",
+      "Use a transparent object only",
+      "Turn the object into glass",
+      "Remove the object"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Closer objects can block a larger spread of light rays.",
+      "hint": "Object near source."
+    },
+    "structuredExplanation": {
+      "summary": "Closer objects can block a larger spread of light rays.",
+      "hint": "Object near source."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-034",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A dark playground mat is hotter than a pale mat after the same sunlight. What interaction explains this?",
+    "audio_prompt": "A dark playground mat is hotter than a pale mat after the same sunlight. What interaction explains this?",
+    "audioPrompt": "A dark playground mat is hotter than a pale mat after the same sunlight. What interaction explains this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The pale mat made coldness",
+        "is_correct": false
+      },
+      {
+        "text": "The dark mat reflected every ray",
+        "is_correct": false
+      },
+      {
+        "text": "The shadow heated the dark mat",
+        "is_correct": false
+      },
+      {
+        "text": "More light energy was absorbed by the dark mat",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The pale mat made coldness",
+      "The dark mat reflected every ray",
+      "The shadow heated the dark mat",
+      "More light energy was absorbed by the dark mat"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Greater absorption can raise temperature.",
+      "hint": "Absorbed light energy."
+    },
+    "structuredExplanation": {
+      "summary": "Greater absorption can raise temperature.",
+      "hint": "Absorbed light energy."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-035",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A bathroom mirror lets you see your face clearly. Why?",
+    "audio_prompt": "A bathroom mirror lets you see your face clearly. Why?",
+    "audioPrompt": "A bathroom mirror lets you see your face clearly. Why?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It refracts your face through water",
+        "is_correct": false
+      },
+      {
+        "text": "Your eyes paint your face onto it",
+        "is_correct": false
+      },
+      {
+        "text": "Its smooth surface reflects light regularly into your eyes",
+        "is_correct": true
+      },
+      {
+        "text": "It absorbs all light from your face",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It refracts your face through water",
+      "Your eyes paint your face onto it",
+      "Its smooth surface reflects light regularly into your eyes",
+      "It absorbs all light from your face"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "A mirror forms an image by regular reflection.",
+      "hint": "Smooth reflection."
+    },
+    "structuredExplanation": {
+      "summary": "A mirror forms an image by regular reflection.",
+      "hint": "Smooth reflection."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-036",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Light passes through a frosted window, but the view is unclear. Which word best describes the window?",
+    "audio_prompt": "Light passes through a frosted window, but the view is unclear. Which word best describes the window?",
+    "audioPrompt": "Light passes through a frosted window, but the view is unclear. Which word best describes the window?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Magnetic",
+        "is_correct": false
+      },
+      {
+        "text": "Translucent",
+        "is_correct": true
+      },
+      {
+        "text": "Opaque",
+        "is_correct": false
+      },
+      {
+        "text": "Perfectly transparent",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Magnetic",
+      "Translucent",
+      "Opaque",
+      "Perfectly transparent"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A translucent material lets light through but scatters it.",
+      "hint": "Light through, blurry."
+    },
+    "structuredExplanation": {
+      "summary": "A translucent material lets light through but scatters it.",
+      "hint": "Light through, blurry."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-037",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A periscope uses two mirrors. Which light interaction is used?",
+    "audio_prompt": "A periscope uses two mirrors. Which light interaction is used?",
+    "audioPrompt": "A periscope uses two mirrors. Which light interaction is used?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Reflection",
+        "is_correct": true
+      },
+      {
+        "text": "Absorption only",
+        "is_correct": false
+      },
+      {
+        "text": "Precipitation",
+        "is_correct": false
+      },
+      {
+        "text": "Decomposition",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Reflection",
+      "Absorption only",
+      "Precipitation",
+      "Decomposition"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Periscopes use mirrors to reflect light along a path.",
+      "hint": "Mirrors reflect."
+    },
+    "structuredExplanation": {
+      "summary": "Periscopes use mirrors to reflect light along a path.",
+      "hint": "Mirrors reflect."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-038",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A student says the shadow is made of black material. What is the best response?",
+    "audio_prompt": "A student says the shadow is made of black material. What is the best response?",
+    "audioPrompt": "A student says the shadow is made of black material. What is the best response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Black material leaks from objects",
+        "is_correct": false
+      },
+      {
+        "text": "Shadows are made of reflected darkness",
+        "is_correct": false
+      },
+      {
+        "text": "The surface stops existing in a shadow",
+        "is_correct": false
+      },
+      {
+        "text": "A shadow is a region where less direct light reaches the surface",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Black material leaks from objects",
+      "Shadows are made of reflected darkness",
+      "The surface stops existing in a shadow",
+      "A shadow is a region where less direct light reaches the surface"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A shadow is not a substance; it is reduced light.",
+      "hint": "Less light area."
+    },
+    "structuredExplanation": {
+      "summary": "A shadow is not a substance; it is reduced light.",
+      "hint": "Less light area."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-039",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A class tests clear plastic, tracing paper and cardboard with a torch. Which result is most likely?",
+    "audio_prompt": "A class tests clear plastic, tracing paper and cardboard with a torch. Which result is most likely?",
+    "audioPrompt": "A class tests clear plastic, tracing paper and cardboard with a torch. Which result is most likely?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Tracing paper makes a mirror image",
+        "is_correct": false
+      },
+      {
+        "text": "Clear plastic blocks all light",
+        "is_correct": false
+      },
+      {
+        "text": "Clear plastic transmits most light, tracing paper scatters some light, cardboard blocks most light",
+        "is_correct": true
+      },
+      {
+        "text": "Cardboard transmits the most light",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Tracing paper makes a mirror image",
+      "Clear plastic blocks all light",
+      "Clear plastic transmits most light, tracing paper scatters some light, cardboard blocks most light",
+      "Cardboard transmits the most light"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The three materials show transparent, translucent and opaque behaviour.",
+      "hint": "Compare transmission."
+    },
+    "structuredExplanation": {
+      "summary": "The three materials show transparent, translucent and opaque behaviour.",
+      "hint": "Compare transmission."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-P-040",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A swimmer’s legs look shifted under water. Which explanation fits?",
+    "audio_prompt": "A swimmer’s legs look shifted under water. Which explanation fits?",
+    "audioPrompt": "A swimmer’s legs look shifted under water. Which explanation fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Eyes send light down and bend the legs",
+        "is_correct": false
+      },
+      {
+        "text": "Light changes direction as it moves from water to air",
+        "is_correct": true
+      },
+      {
+        "text": "The legs move into a shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Water makes legs vanish",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Eyes send light down and bend the legs",
+      "Light changes direction as it moves from water to air",
+      "The legs move into a shadow",
+      "Water makes legs vanish"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Refraction at the water surface changes the apparent position.",
+      "hint": "Water-air boundary."
+    },
+    "structuredExplanation": {
+      "summary": "Refraction at the water surface changes the apparent position.",
+      "hint": "Water-air boundary."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-T-001",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "test",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A bottle casts a faint shadow but a lunchbox casts a dark shadow. Why?",
+    "audio_prompt": "A bottle casts a faint shadow but a lunchbox casts a dark shadow. Why?",
+    "audioPrompt": "A bottle casts a faint shadow but a lunchbox casts a dark shadow. Why?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The lunchbox sends light to the torch",
+        "is_correct": false
+      },
+      {
+        "text": "Transparent objects always make darker shadows",
+        "is_correct": false
+      },
+      {
+        "text": "The bottle transmits more light than the opaque lunchbox",
+        "is_correct": true
+      },
+      {
+        "text": "The bottle makes more darkness",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The lunchbox sends light to the torch",
+      "Transparent objects always make darker shadows",
+      "The bottle transmits more light than the opaque lunchbox",
+      "The bottle makes more darkness"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Materials that transmit more light usually block less light.",
+      "hint": "Transmission affects shadow."
+    },
+    "structuredExplanation": {
+      "summary": "Materials that transmit more light usually block less light.",
+      "hint": "Transmission affects shadow."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-t-001",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-T-002",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "test",
-    "skill": "identify_a_light_interaction",
-    "question": "During a desert field study, students observe that rough white paper is visible from many directions. Which light interaction is most important?",
-    "audio_prompt": "During a desert field study, students observe that rough white paper is visible from many directions. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which light path lets a student see a red apple?",
+    "audio_prompt": "Which light path lets a student see a red apple?",
+    "audioPrompt": "Which light path lets a student see a red apple?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-001",
-      "alt_text": "During a desert field study: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "scattering",
-        "is_correct": true
-      },
-      {
-        "text": "reflection",
+        "text": "The shadow carries the apple image",
         "is_correct": false
       },
       {
-        "text": "refraction",
+        "text": "Lamp light reflects from the apple into the student’s eyes",
+        "is_correct": true
+      },
+      {
+        "text": "The eyes shine light onto the apple first",
+        "is_correct": false
+      },
+      {
+        "text": "The apple sends darkness to the eyes",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The observation is explained mainly by scattering.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
-    }
-  },
-  {
-    "id": "ac9s5u03-t-002",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "trace_a_light_path",
-    "question": "At a marine research centre, which explanation best accounts for why a straw appears bent in water?",
-    "audio_prompt": "At a marine research centre, which explanation best accounts for why a straw appears bent in water?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-002",
-      "alt_text": "At a marine research centre: trace a light path, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "light changes direction at the surface",
-        "is_correct": false
-      },
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": true
-      },
-      {
-        "text": "light energy transfers to the material",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "The shadow carries the apple image",
+      "Lamp light reflects from the apple into the student’s eyes",
+      "The eyes shine light onto the apple first",
+      "The apple sends darkness to the eyes"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
-    }
+      "summary": "Seeing needs light to enter the eyes after reflecting from the object.",
+      "hint": "Source to object to eye."
+    },
+    "structuredExplanation": {
+      "summary": "Seeing needs light to enter the eyes after reflecting from the object.",
+      "hint": "Source to object to eye."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-t-003",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-T-003",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "test",
-    "skill": "identify_a_light_interaction",
-    "question": "While examining a riverbank, students observe that a clear window lets a scene remain visible. Which light interaction is most important?",
-    "audio_prompt": "While examining a riverbank, students observe that a clear window lets a scene remain visible. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A spoon looks bent where it enters a glass of water. Which process explains this?",
+    "audio_prompt": "A spoon looks bent where it enters a glass of water. Which process explains this?",
+    "audioPrompt": "A spoon looks bent where it enters a glass of water. Which process explains this?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-003",
-      "alt_text": "While examining a riverbank: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
-        "is_correct": false
-      },
-      {
-        "text": "refraction",
-        "is_correct": false
-      },
-      {
-        "text": "transmission",
+        "text": "Refraction",
         "is_correct": true
+      },
+      {
+        "text": "Reflection only",
+        "is_correct": false
+      },
+      {
+        "text": "Absorption only",
+        "is_correct": false
+      },
+      {
+        "text": "Shadow formation",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The observation is explained mainly by transmission.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
-    }
-  },
-  {
-    "id": "ac9s5u03-t-004",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "trace_a_light_path",
-    "question": "In an independent investigation, which explanation best accounts for why rough white paper is visible from many directions?",
-    "audio_prompt": "In an independent investigation, which explanation best accounts for why rough white paper is visible from many directions?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-004",
-      "alt_text": "In an independent investigation: trace a light path, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "reflected light travels in many directions",
-        "is_correct": true
-      },
-      {
-        "text": "light changes direction at the surface",
-        "is_correct": false
-      },
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Refraction",
+      "Reflection only",
+      "Absorption only",
+      "Shadow formation"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
-    }
+      "summary": "Light changes direction between water and air.",
+      "hint": "Change medium."
+    },
+    "structuredExplanation": {
+      "summary": "Light changes direction between water and air.",
+      "hint": "Change medium."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-t-005",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-T-004",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "test",
-    "skill": "identify_a_light_interaction",
-    "question": "During a forest survey, students observe that a straw appears bent in water. Which light interaction is most important?",
-    "audio_prompt": "During a forest survey, students observe that a straw appears bent in water. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which object would best reflect a torch beam in one clear direction?",
+    "audio_prompt": "Which object would best reflect a torch beam in one clear direction?",
+    "audioPrompt": "Which object would best reflect a torch beam in one clear direction?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-005",
-      "alt_text": "During a forest survey: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
+        "text": "Black felt",
         "is_correct": false
       },
       {
-        "text": "refraction",
+        "text": "A crumpled napkin",
+        "is_correct": false
+      },
+      {
+        "text": "Rough bark",
+        "is_correct": false
+      },
+      {
+        "text": "A flat mirror",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Black felt",
+      "A crumpled napkin",
+      "Rough bark",
+      "A flat mirror"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A flat mirror gives regular reflection.",
+      "hint": "Smooth shiny surface."
+    },
+    "structuredExplanation": {
+      "summary": "A flat mirror gives regular reflection.",
+      "hint": "Smooth shiny surface."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-T-005",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "test",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A dark roof becomes hotter than a pale roof in the same sun. Which interaction is involved?",
+    "audio_prompt": "A dark roof becomes hotter than a pale roof in the same sun. Which interaction is involved?",
+    "audioPrompt": "A dark roof becomes hotter than a pale roof in the same sun. Which interaction is involved?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Transmission only",
+        "is_correct": false
+      },
+      {
+        "text": "A shadow leaving the roof",
+        "is_correct": false
+      },
+      {
+        "text": "Absorption",
         "is_correct": true
       },
       {
-        "text": "absorption",
+        "text": "Refraction",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Transmission only",
+      "A shadow leaving the roof",
+      "Absorption",
+      "Refraction"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Dark surfaces often absorb more light energy.",
+      "hint": "Energy absorbed."
+    },
+    "structuredExplanation": {
+      "summary": "Dark surfaces often absorb more light energy.",
+      "hint": "Energy absorbed."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-T-006",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "test",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which investigation is fairest for shadow size?",
+    "audio_prompt": "Which investigation is fairest for shadow size?",
+    "audioPrompt": "Which investigation is fairest for shadow size?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Change distance and light brightness together",
+        "is_correct": false
+      },
+      {
+        "text": "Same torch, same object, same screen, change object distance",
+        "is_correct": true
+      },
+      {
+        "text": "Different torches for each distance",
+        "is_correct": false
+      },
+      {
+        "text": "Different objects every trial",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Change distance and light brightness together",
+      "Same torch, same object, same screen, change object distance",
+      "Different torches for each distance",
+      "Different objects every trial"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The observation is explained mainly by refraction.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
-    }
+      "summary": "A fair test changes one variable and controls the others.",
+      "hint": "One changed variable."
+    },
+    "structuredExplanation": {
+      "summary": "A fair test changes one variable and controls the others.",
+      "hint": "One changed variable."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-t-006",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-T-007",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "test",
-    "skill": "trace_a_light_path",
-    "question": "At a regional science exhibition, which explanation best accounts for why a clear window lets a scene remain visible?",
-    "audio_prompt": "At a regional science exhibition, which explanation best accounts for why a clear window lets a scene remain visible?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which statement about shadows is correct?",
+    "audio_prompt": "Which statement about shadows is correct?",
+    "audioPrompt": "Which statement about shadows is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-006",
-      "alt_text": "At a regional science exhibition: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
-        "is_correct": false
-      },
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": false
-      },
-      {
-        "text": "much of the light passes through",
+        "text": "A shadow is a region with less direct light",
         "is_correct": true
+      },
+      {
+        "text": "A shadow is reflected light",
+        "is_correct": false
+      },
+      {
+        "text": "A shadow is a dark substance",
+        "is_correct": false
+      },
+      {
+        "text": "A shadow is made by eyes",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
-    }
-  },
-  {
-    "id": "ac9s5u03-t-007",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "identify_a_light_interaction",
-    "question": "While analysing unfamiliar evidence, students observe that a mirror redirects a torch beam. Which light interaction is most important?",
-    "audio_prompt": "While analysing unfamiliar evidence, students observe that a mirror redirects a torch beam. Which light interaction is most important?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-007",
-      "alt_text": "While analysing unfamiliar evidence: identify a light interaction, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "reflection",
-        "is_correct": true
-      },
-      {
-        "text": "refraction",
-        "is_correct": false
-      },
-      {
-        "text": "absorption",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "A shadow is a region with less direct light",
+      "A shadow is reflected light",
+      "A shadow is a dark substance",
+      "A shadow is made by eyes"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The observation is explained mainly by reflection.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
-    }
+      "summary": "Shadows form where light is blocked.",
+      "hint": "Less direct light."
+    },
+    "structuredExplanation": {
+      "summary": "Shadows form where light is blocked.",
+      "hint": "Less direct light."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-t-008",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-T-008",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "test",
-    "skill": "trace_a_light_path",
-    "question": "In a testing laboratory, which explanation best accounts for why dark cloth warms in sunlight?",
-    "audio_prompt": "In a testing laboratory, which explanation best accounts for why dark cloth warms in sunlight?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Clear glass is useful for windows because it:",
+    "audio_prompt": "Clear glass is useful for windows because it:",
+    "audioPrompt": "Clear glass is useful for windows because it:",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-008",
-      "alt_text": "In a testing laboratory: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
+        "text": "blocks all light",
         "is_correct": false
       },
       {
-        "text": "light energy transfers to the material",
+        "text": "absorbs every ray",
+        "is_correct": false
+      },
+      {
+        "text": "makes light turn into sound",
+        "is_correct": false
+      },
+      {
+        "text": "transmits much visible light",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "blocks all light",
+      "absorbs every ray",
+      "makes light turn into sound",
+      "transmits much visible light"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Transparent glass lets much visible light pass through.",
+      "hint": "Light passes."
+    },
+    "structuredExplanation": {
+      "summary": "Transparent glass lets much visible light pass through.",
+      "hint": "Light passes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-T-009",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "test",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why is tracing paper not fully transparent?",
+    "audio_prompt": "Why is tracing paper not fully transparent?",
+    "audioPrompt": "Why is tracing paper not fully transparent?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It reflects a perfect image",
+        "is_correct": false
+      },
+      {
+        "text": "It sends light from the eye",
+        "is_correct": false
+      },
+      {
+        "text": "It scatters transmitted light so details become blurry",
         "is_correct": true
       },
       {
-        "text": "light changes direction crossing air and water",
+        "text": "It blocks all light like brick",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "It reflects a perfect image",
+      "It sends light from the eye",
+      "It scatters transmitted light so details become blurry",
+      "It blocks all light like brick"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Translucent materials scatter light.",
+      "hint": "Blurry transmission."
+    },
+    "structuredExplanation": {
+      "summary": "Translucent materials scatter light.",
+      "hint": "Blurry transmission."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-T-010",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "test",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A student thinks refraction and reflection are the same. Which correction is best?",
+    "audio_prompt": "A student thinks refraction and reflection are the same. Which correction is best?",
+    "audioPrompt": "A student thinks refraction and reflection are the same. Which correction is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Neither changes light direction",
+        "is_correct": false
+      },
+      {
+        "text": "Reflection is light changing direction at a surface; refraction happens as light passes between materials",
+        "is_correct": true
+      },
+      {
+        "text": "Both only make shadows",
+        "is_correct": false
+      },
+      {
+        "text": "Both require darkness to flow",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Neither changes light direction",
+      "Reflection is light changing direction at a surface; refraction happens as light passes between materials",
+      "Both only make shadows",
+      "Both require darkness to flow"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
-    }
+      "summary": "The two interactions involve different situations.",
+      "hint": "Surface bounce versus medium change."
+    },
+    "structuredExplanation": {
+      "summary": "The two interactions involve different situations.",
+      "hint": "Surface bounce versus medium change."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-t-009",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-T-011",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "test",
-    "skill": "identify_a_light_interaction",
-    "question": "During a landscape study, students observe that an opaque card forms a shadow. Which light interaction is most important?",
-    "audio_prompt": "During a landscape study, students observe that an opaque card forms a shadow. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A shadow is sharp when a small torch is used close to a screen. What causes the shape?",
+    "audio_prompt": "A shadow is sharp when a small torch is used close to a screen. What causes the shape?",
+    "audioPrompt": "A shadow is sharp when a small torch is used close to a screen. What causes the shape?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-009",
-      "alt_text": "During a landscape study: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
-        "is_correct": false
-      },
-      {
-        "text": "refraction",
-        "is_correct": false
-      },
-      {
-        "text": "blocking",
+        "text": "Straight-line light rays are blocked by the object",
         "is_correct": true
+      },
+      {
+        "text": "Light curves around the object evenly",
+        "is_correct": false
+      },
+      {
+        "text": "The screen sends dark light forward",
+        "is_correct": false
+      },
+      {
+        "text": "The object produces black gas",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The observation is explained mainly by blocking.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
-    }
-  },
-  {
-    "id": "ac9s5u03-t-010",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "trace_a_light_path",
-    "question": "At a conservation project, which explanation best accounts for why a mirror redirects a torch beam?",
-    "audio_prompt": "At a conservation project, which explanation best accounts for why a mirror redirects a torch beam?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-010",
-      "alt_text": "At a conservation project: trace a light path, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "light changes direction at the surface",
-        "is_correct": true
-      },
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": false
-      },
-      {
-        "text": "light energy transfers to the material",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Straight-line light rays are blocked by the object",
+      "Light curves around the object evenly",
+      "The screen sends dark light forward",
+      "The object produces black gas"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
-    }
+      "summary": "The shadow outline comes from blocked straight-line paths.",
+      "hint": "Blocked straight rays."
+    },
+    "structuredExplanation": {
+      "summary": "The shadow outline comes from blocked straight-line paths.",
+      "hint": "Blocked straight rays."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-t-011",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-T-012",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "test",
-    "skill": "identify_a_light_interaction",
-    "question": "While auditing a results table, students observe that dark cloth warms in sunlight. Which light interaction is most important?",
-    "audio_prompt": "While auditing a results table, students observe that dark cloth warms in sunlight. Which light interaction is most important?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which material interaction is shown when sunlight passes through clear water?",
+    "audio_prompt": "Which material interaction is shown when sunlight passes through clear water?",
+    "audioPrompt": "Which material interaction is shown when sunlight passes through clear water?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-011",
-      "alt_text": "While auditing a results table: identify a light interaction, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reflection",
+        "text": "Complete absorption",
         "is_correct": false
       },
       {
-        "text": "absorption",
+        "text": "Decomposition",
+        "is_correct": false
+      },
+      {
+        "text": "Magnetism",
+        "is_correct": false
+      },
+      {
+        "text": "Transmission",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Complete absorption",
+      "Decomposition",
+      "Magnetism",
+      "Transmission"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Clear water transmits much visible light.",
+      "hint": "Light passes through."
+    },
+    "structuredExplanation": {
+      "summary": "Clear water transmits much visible light.",
+      "hint": "Light passes through."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-T-013",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "test",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A white wall looks bright because:",
+    "audio_prompt": "A white wall looks bright because:",
+    "audioPrompt": "A white wall looks bright because:",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "the eyes shine white light onto it",
+        "is_correct": false
+      },
+      {
+        "text": "it makes a shadow everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "it reflects much light toward the eyes",
         "is_correct": true
       },
       {
-        "text": "refraction",
+        "text": "it absorbs all light perfectly",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "the eyes shine white light onto it",
+      "it makes a shadow everywhere",
+      "it reflects much light toward the eyes",
+      "it absorbs all light perfectly"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "We see brightness when light from the wall reaches our eyes.",
+      "hint": "Reflected light."
+    },
+    "structuredExplanation": {
+      "summary": "We see brightness when light from the wall reaches our eyes.",
+      "hint": "Reflected light."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5U03-T-014",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
+    "bank": "test",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which claim is too strong?",
+    "audio_prompt": "Which claim is too strong?",
+    "audioPrompt": "Which claim is too strong?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A fair test should use the same light source",
+        "is_correct": false
+      },
+      {
+        "text": "All black objects always become hotter than all white objects in every situation",
+        "is_correct": true
+      },
+      {
+        "text": "Dark surfaces may absorb more visible light under the same conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Surface material can affect absorption",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A fair test should use the same light source",
+      "All black objects always become hotter than all white objects in every situation",
+      "Dark surfaces may absorb more visible light under the same conditions",
+      "Surface material can affect absorption"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The observation is explained mainly by absorption.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
-    }
+      "summary": "Real outcomes depend on material, light and conditions.",
+      "hint": "Avoid always."
+    },
+    "structuredExplanation": {
+      "summary": "Real outcomes depend on material, light and conditions.",
+      "hint": "Avoid always."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-t-012",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-T-015",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "test",
-    "skill": "trace_a_light_path",
-    "question": "In a design evaluation, which explanation best accounts for why an opaque card forms a shadow?",
-    "audio_prompt": "In a design evaluation, which explanation best accounts for why an opaque card forms a shadow?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A class shines a torch through three materials and measures light on a screen. What are they testing?",
+    "audio_prompt": "A class shines a torch through three materials and measures light on a screen. What are they testing?",
+    "audioPrompt": "A class shines a torch through three materials and measures light on a screen. What are they testing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-012",
-      "alt_text": "In a design evaluation: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
-        "is_correct": false
-      },
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": false
-      },
-      {
-        "text": "straight-line rays cannot reach the region behind it",
+        "text": "How much light different materials transmit",
         "is_correct": true
+      },
+      {
+        "text": "How much sound a torch makes",
+        "is_correct": false
+      },
+      {
+        "text": "Whether eyes send light",
+        "is_correct": false
+      },
+      {
+        "text": "How shadows become matter",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
-    }
-  },
-  {
-    "id": "ac9s5u03-t-013",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "identify_a_light_interaction",
-    "question": "During a mountain field study, students observe that a straw appears bent in water. Which light interaction is most important?",
-    "audio_prompt": "During a mountain field study, students observe that a straw appears bent in water. Which light interaction is most important?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-013",
-      "alt_text": "During a mountain field study: identify a light interaction, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "refraction",
-        "is_correct": true
-      },
-      {
-        "text": "reflection",
-        "is_correct": false
-      },
-      {
-        "text": "absorption",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "How much light different materials transmit",
+      "How much sound a torch makes",
+      "Whether eyes send light",
+      "How shadows become matter"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The observation is explained mainly by refraction.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
-    }
+      "summary": "The test compares transmission through materials.",
+      "hint": "Light passing through."
+    },
+    "structuredExplanation": {
+      "summary": "The test compares transmission through materials.",
+      "hint": "Light passing through."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5u03-t-014",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
+    "id": "AC9S5U03-T-016",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5U03",
+    "curriculumCode": "AC9S5U03",
     "bank": "test",
-    "skill": "trace_a_light_path",
-    "question": "At a public science forum, which explanation best accounts for why a clear window lets a scene remain visible?",
-    "audio_prompt": "At a public science forum, which explanation best accounts for why a clear window lets a scene remain visible?",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A mirror in a periscope changes the path of light. Which word names this?",
+    "audio_prompt": "A mirror in a periscope changes the path of light. Which word names this?",
+    "audioPrompt": "A mirror in a periscope changes the path of light. Which word names this?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-014",
-      "alt_text": "At a public science forum: trace a light path, shown as a three-step rays reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "light changes direction at the surface",
+        "text": "Condensation",
         "is_correct": false
       },
       {
-        "text": "much of the light passes through",
-        "is_correct": true
-      },
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
-    }
-  },
-  {
-    "id": "ac9s5u03-t-015",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "identify_a_light_interaction",
-    "question": "While reviewing a new procedure, students observe that rough white paper is visible from many directions. Which light interaction is most important?",
-    "audio_prompt": "While reviewing a new procedure, students observe that rough white paper is visible from many directions. Which light interaction is most important?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-015",
-      "alt_text": "While reviewing a new procedure: identify a light interaction, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "reflection",
+        "text": "Evaporation",
         "is_correct": false
       },
       {
-        "text": "refraction",
+        "text": "Absorption only",
         "is_correct": false
       },
       {
-        "text": "scattering",
+        "text": "Reflection",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The observation is explained mainly by scattering.",
-      "hint": "Trace what happens to the light as it meets or crosses the material."
-    }
-  },
-  {
-    "id": "ac9s5u03-t-016",
-    "curriculum_code": "AC9S5U03",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "trace_a_light_path",
-    "question": "In a multimedia science presentation, which explanation best accounts for why a straw appears bent in water?",
-    "audio_prompt": "In a multimedia science presentation, which explanation best accounts for why a straw appears bent in water?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5u03.svg#ac9s5u03-t-016",
-      "alt_text": "In a multimedia science presentation: trace a light path, shown as a three-step rays reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "light changes direction crossing air and water",
-        "is_correct": true
-      },
-      {
-        "text": "light changes direction at the surface",
-        "is_correct": false
-      },
-      {
-        "text": "light energy transfers to the material",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Condensation",
+      "Evaporation",
+      "Absorption only",
+      "Reflection"
     ],
-    "correct_index": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The explanation traces the change in the light path or energy.",
-      "hint": "Start with the source and follow the light to the material and observer."
-    }
+      "summary": "Mirrors redirect light by reflection.",
+      "hint": "Mirror bounce."
+    },
+    "structuredExplanation": {
+      "summary": "Mirrors redirect light by reflection.",
+      "hint": "Mirror bounce."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]
