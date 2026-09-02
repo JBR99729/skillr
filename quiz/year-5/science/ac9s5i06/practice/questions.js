@@ -2,699 +2,762 @@
 window.skillrPracticeQuestions = [
   {
     "id": "ac9s5i06-p-001",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "During a habitat survey, students create a comparison of two investigations. Which communication plan is strongest?",
-    "audioPrompt": "During a habitat survey, students create a comparison of two investigations. Which communication plan is strongest?",
-    "visual": "During a habitat survey: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a habitat survey: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-001",
-      "alt_text": "During a habitat survey: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students prepare a poster for younger students. What is the best communication choice?",
     "answers": [
-      "show method differences, data evidence and a cautious evaluation",
-      "use decoration without explaining the evidence",
-      "change data values to suit the audience"
+      "Use clear scientific words, labelled evidence and audience-friendly detail",
+      "Match the text to its purpose and audience",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
     "correct": 0,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Use clear scientific words, labelled evidence and audience-friendly detail."
   },
   {
     "id": "ac9s5i06-p-002",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "At the school science table, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "At the school science table, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "At the school science table: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school science table: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-002",
-      "alt_text": "At the school science table: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A group writes a report about erosion. What is the best communication choice?",
     "answers": [
-      "show it without labels or discussion",
-      "refer to the graph, explain the pattern with values and state its limits",
-      "claim it proves more than the investigation tested"
+      "Match the text to its purpose and audience",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Use clear scientific words, labelled evidence and audience-friendly detail"
     ],
-    "correct": 1,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Use clear scientific words, labelled evidence and audience-friendly detail."
   },
   {
     "id": "ac9s5i06-p-003",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "While examining a creek, students create a digital science page. Which communication plan is strongest?",
-    "audioPrompt": "While examining a creek, students create a digital science page. Which communication plan is strongest?",
-    "visual": "While examining a creek: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While examining a creek: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-003",
-      "alt_text": "While examining a creek: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students make a short video about light reflection. What is the best communication choice?",
     "answers": [
-      "use decoration without explaining the evidence",
-      "change data values to suit the audience",
-      "use headings, descriptive alt text, captions and source attribution"
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Use clear scientific words, labelled evidence and audience-friendly detail",
+      "Match the text to its purpose and audience"
     ],
     "correct": 2,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Use clear scientific words, labelled evidence and audience-friendly detail."
   },
   {
     "id": "ac9s5i06-p-004",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "In a classroom investigation, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "In a classroom investigation, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "In a classroom investigation: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a classroom investigation: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-004",
-      "alt_text": "In a classroom investigation: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A class labels a graph for families visiting school. What is the best communication choice?",
     "answers": [
-      "refer to the graph, explain the pattern with values and state its limits",
-      "show it without labels or discussion",
-      "claim it proves more than the investigation tested"
+      "A guess with no evidence",
+      "Use clear scientific words, labelled evidence and audience-friendly detail",
+      "Match the text to its purpose and audience",
+      "The neatness of the poster"
     ],
-    "correct": 0,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Use clear scientific words, labelled evidence and audience-friendly detail."
   },
   {
     "id": "ac9s5i06-p-005",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "During a garden observation, students create a poster for younger students. Which communication plan is strongest?",
-    "audioPrompt": "During a garden observation, students create a poster for younger students. Which communication plan is strongest?",
-    "visual": "During a garden observation: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a garden observation: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-005",
-      "alt_text": "During a garden observation: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students choose vocabulary for a compost investigation. What is the best communication choice?",
     "answers": [
-      "use decoration without explaining the evidence",
-      "use a clear labelled visual, short defined terms and an accurate main message",
-      "change data values to suit the audience"
+      "Use clear scientific words, labelled evidence and audience-friendly detail",
+      "Match the text to its purpose and audience",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
-    "correct": 1,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Use clear scientific words, labelled evidence and audience-friendly detail."
   },
   {
     "id": "ac9s5i06-p-006",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "At the coastal field station, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "At the coastal field station, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "At the coastal field station: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the coastal field station: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-006",
-      "alt_text": "At the coastal field station: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A group explains safety steps in a method. What is the best communication choice?",
     "answers": [
-      "show it without labels or discussion",
-      "claim it proves more than the investigation tested",
-      "refer to the graph, explain the pattern with values and state its limits"
+      "Match the text to its purpose and audience",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Use clear scientific words, labelled evidence and audience-friendly detail"
     ],
-    "correct": 2,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Use clear scientific words, labelled evidence and audience-friendly detail."
   },
   {
     "id": "ac9s5i06-p-007",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "While comparing samples, students create a formal investigation report. Which communication plan is strongest?",
-    "audioPrompt": "While comparing samples, students create a formal investigation report. Which communication plan is strongest?",
-    "visual": "While comparing samples: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While comparing samples: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-007",
-      "alt_text": "While comparing samples: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students share findings from a shade test. What is the best communication choice?",
     "answers": [
-      "include question, repeatable method, labelled results, evidence-based conclusion and limitations",
-      "use decoration without explaining the evidence",
-      "change data values to suit the audience"
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Use clear scientific words, labelled evidence and audience-friendly detail",
+      "Match the text to its purpose and audience"
     ],
-    "correct": 0,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Use clear scientific words, labelled evidence and audience-friendly detail."
   },
   {
     "id": "ac9s5i06-p-008",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "In the school laboratory, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "In the school laboratory, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "In the school laboratory: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school laboratory: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-008",
-      "alt_text": "In the school laboratory: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A class prepares a slide about animal adaptations. What is the best communication choice?",
     "answers": [
-      "show it without labels or discussion",
-      "refer to the graph, explain the pattern with values and state its limits",
-      "claim it proves more than the investigation tested"
+      "A guess with no evidence",
+      "Use clear scientific words, labelled evidence and audience-friendly detail",
+      "Match the text to its purpose and audience",
+      "The neatness of the poster"
     ],
     "correct": 1,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Use clear scientific words, labelled evidence and audience-friendly detail."
   },
   {
     "id": "ac9s5i06-p-009",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "During a weather study, students create a briefing for community decision-makers. Which communication plan is strongest?",
-    "audioPrompt": "During a weather study, students create a briefing for community decision-makers. Which communication plan is strongest?",
-    "visual": "During a weather study: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a weather study: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-009",
-      "alt_text": "During a weather study: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students write captions for photos of weathering. What is the best communication choice?",
     "answers": [
-      "use decoration without explaining the evidence",
-      "change data values to suit the audience",
-      "state the decision, relevant evidence, uncertainty, trade-offs and recommendation"
+      "Use clear scientific words, labelled evidence and audience-friendly detail",
+      "Match the text to its purpose and audience",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
-    "correct": 2,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Use clear scientific words, labelled evidence and audience-friendly detail."
   },
   {
     "id": "ac9s5i06-p-010",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "At the wildlife centre, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "At the wildlife centre, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "At the wildlife centre: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the wildlife centre: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-010",
-      "alt_text": "At the wildlife centre: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A group records a voice explanation for results. What is the best communication choice?",
     "answers": [
-      "refer to the graph, explain the pattern with values and state its limits",
-      "show it without labels or discussion",
-      "claim it proves more than the investigation tested"
+      "Match the text to its purpose and audience",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Use clear scientific words, labelled evidence and audience-friendly detail"
     ],
-    "correct": 0,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Use clear scientific words, labelled evidence and audience-friendly detail."
   },
   {
     "id": "ac9s5i06-p-011",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "While reviewing a data table, students create an oral presentation. Which communication plan is strongest?",
-    "audioPrompt": "While reviewing a data table, students create an oral presentation. Which communication plan is strongest?",
-    "visual": "While reviewing a data table: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reviewing a data table: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-011",
-      "alt_text": "While reviewing a data table: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students create a table for a newsletter. Why does this step matter?",
     "answers": [
-      "use decoration without explaining the evidence",
-      "use signposting, readable slides and spoken explanation of the evidence",
-      "change data values to suit the audience"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
-    "correct": 1,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i06-p-012",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "In a materials investigation, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "In a materials investigation, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "In a materials investigation: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a materials investigation: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-012",
-      "alt_text": "In a materials investigation: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A class presents evidence about insulation. Why does this step matter?",
     "answers": [
-      "show it without labels or discussion",
-      "claim it proves more than the investigation tested",
-      "refer to the graph, explain the pattern with values and state its limits"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
-    "correct": 2,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i06-p-013",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "During an outdoor observation, students create a poster for younger students. Which communication plan is strongest?",
-    "audioPrompt": "During an outdoor observation, students create a poster for younger students. Which communication plan is strongest?",
-    "visual": "During an outdoor observation: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During an outdoor observation: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-013",
-      "alt_text": "During an outdoor observation: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students explain uncertainty in a graph. Why does this step matter?",
     "answers": [
-      "use a clear labelled visual, short defined terms and an accurate main message",
-      "use decoration without explaining the evidence",
-      "change data values to suit the audience"
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right"
     ],
     "correct": 0,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i06-p-014",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "At the community science fair, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "At the community science fair, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "At the community science fair: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the community science fair: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-014",
-      "alt_text": "At the community science fair: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A group writes a claim about soil filters. Why does this step matter?",
     "answers": [
-      "show it without labels or discussion",
-      "refer to the graph, explain the pattern with values and state its limits",
-      "claim it proves more than the investigation tested"
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question"
     ],
-    "correct": 1,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i06-p-015",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a fair test, students create a comparison of two investigations. Which communication plan is strongest?",
-    "audioPrompt": "While planning a fair test, students create a comparison of two investigations. Which communication plan is strongest?",
-    "visual": "While planning a fair test: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a fair test: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-015",
-      "alt_text": "While planning a fair test: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students compare text for experts and Year 1 students. Why does this step matter?",
     "answers": [
-      "use decoration without explaining the evidence",
-      "change data values to suit the audience",
-      "show method differences, data evidence and a cautious evaluation"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
     "correct": 2,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i06-p-016",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "In a digital science journal, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "In a digital science journal, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "In a digital science journal: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a digital science journal: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-016",
-      "alt_text": "In a digital science journal: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A class creates a digital display about evaporation. Why does this step matter?",
     "answers": [
-      "refer to the graph, explain the pattern with values and state its limits",
-      "show it without labels or discussion",
-      "claim it proves more than the investigation tested"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
-    "correct": 0,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i06-p-017",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "During a light investigation, students create a digital science page. Which communication plan is strongest?",
-    "audioPrompt": "During a light investigation, students create a digital science page. Which communication plan is strongest?",
-    "visual": "During a light investigation: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a light investigation: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-017",
-      "alt_text": "During a light investigation: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A group plans to test paper towel absorbency. Why does this step matter?",
     "answers": [
-      "use decoration without explaining the evidence",
-      "use headings, descriptive alt text, captions and source attribution",
-      "change data values to suit the audience"
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right"
     ],
-    "correct": 1,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i06-p-018",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "At the local wetland, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "At the local wetland, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "At the local wetland: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the local wetland: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-018",
-      "alt_text": "At the local wetland: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students compare cooling cups in the classroom. Why does this step matter?",
     "answers": [
-      "show it without labels or discussion",
-      "claim it proves more than the investigation tested",
-      "refer to the graph, explain the pattern with values and state its limits"
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question"
     ],
-    "correct": 2,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i06-p-019",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "While checking another group's method, students create an oral presentation. Which communication plan is strongest?",
-    "audioPrompt": "While checking another group's method, students create an oral presentation. Which communication plan is strongest?",
-    "visual": "While checking another group's method: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While checking another group's method: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-019",
-      "alt_text": "While checking another group's method: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A class investigates seedling growth in pots. Why does this step matter?",
     "answers": [
-      "use signposting, readable slides and spoken explanation of the evidence",
-      "use decoration without explaining the evidence",
-      "change data values to suit the audience"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
-    "correct": 0,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i06-p-020",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "In a model-building lesson, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "In a model-building lesson, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "In a model-building lesson: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a model-building lesson: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-020",
-      "alt_text": "In a model-building lesson: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Two groups test toy car ramps. Why does this step matter?",
     "answers": [
-      "show it without labels or discussion",
-      "refer to the graph, explain the pattern with values and state its limits",
-      "claim it proves more than the investigation tested"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
     "correct": 1,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i06-p-021",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "During a temperature investigation, students create a formal investigation report. Which communication plan is strongest?",
-    "audioPrompt": "During a temperature investigation, students create a formal investigation report. Which communication plan is strongest?",
-    "visual": "During a temperature investigation: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a temperature investigation: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-021",
-      "alt_text": "During a temperature investigation: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students use magnets with paper clips. Which option would weaken the evidence?",
     "answers": [
-      "use decoration without explaining the evidence",
-      "change data values to suit the audience",
-      "include question, repeatable method, labelled results, evidence-based conclusion and limitations"
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
     ],
-    "correct": 2,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i06-p-022",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "At the environmental centre, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "At the environmental centre, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "At the environmental centre: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the environmental centre: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-022",
-      "alt_text": "At the environmental centre: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A science team compares soil moisture. Which option would weaken the evidence?",
     "answers": [
-      "refer to the graph, explain the pattern with values and state its limits",
-      "show it without labels or discussion",
-      "claim it proves more than the investigation tested"
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
     ],
-    "correct": 0,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i06-p-023",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "communicate for an audience",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing a science report, students create a briefing for community decision-makers. Which communication plan is strongest?",
-    "audioPrompt": "While preparing a science report, students create a briefing for community decision-makers. Which communication plan is strongest?",
-    "visual": "While preparing a science report: communicate for an audience, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While preparing a science report: communicate for an audience, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-023",
-      "alt_text": "While preparing a science report: communicate for an audience, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "A group investigates how fast ice melts. Which option would weaken the evidence?",
     "answers": [
-      "use decoration without explaining the evidence",
-      "state the decision, relevant evidence, uncertainty, trade-offs and recommendation",
-      "change data values to suit the audience"
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement"
     ],
-    "correct": 1,
-    "explanation": "The plan matches purpose and audience while preserving scientific meaning.\nHint: Choose structure, vocabulary and visuals that help the audience check the evidence.",
-    "structuredExplanation": {
-      "summary": "The plan matches purpose and audience while preserving scientific meaning.",
-      "hint": "Choose structure, vocabulary and visuals that help the audience check the evidence."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i06-p-024",
-    "curriculumCode": "AC9S5I06",
-    "bank": "practice",
-    "skill": "explain a scientific visual",
-    "printable": true,
-    "type": "single",
-    "question": "In a research discussion, a graph is included in a science presentation. What should the speaker do?",
-    "audioPrompt": "In a research discussion, a graph is included in a science presentation. What should the speaker do?",
-    "visual": "In a research discussion: explain a scientific visual, shown as a three-step communication reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a research discussion: explain a scientific visual, shown as a three-step communication reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i06.svg#ac9s5i06-p-024",
-      "alt_text": "In a research discussion: explain a scientific visual, shown as a three-step communication reasoning pathway."
-    },
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students test which fabric dries fastest. Which option would weaken the evidence?",
     "answers": [
-      "show it without labels or discussion",
-      "claim it proves more than the investigation tested",
-      "refer to the graph, explain the pattern with values and state its limits"
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i06-p-025",
+    "skill": "communicating scientific ideas and findings",
+    "question": "A class compares shade cloths over thermometers. Which option would weaken the evidence?",
+    "answers": [
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i06-p-026",
+    "skill": "communicating scientific ideas and findings",
+    "question": "A group checks sound through different materials. Which option would weaken the evidence?",
+    "answers": [
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i06-p-027",
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students repeat a dissolving test. Which option would weaken the evidence?",
+    "answers": [
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement"
     ],
     "correct": 2,
-    "explanation": "A scientific visual must be labelled, interpreted and connected to the claim.\nHint: Treat visuals as evidence, not decoration.",
-    "structuredExplanation": {
-      "summary": "A scientific visual must be labelled, interpreted and connected to the claim.",
-      "hint": "Treat visuals as evidence, not decoration."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Communicating Scientific Ideas and Findings: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i06-p-028",
+    "skill": "communicating scientific ideas and findings",
+    "question": "A class chooses equipment for measuring mass. Which option would weaken the evidence?",
+    "answers": [
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i06-p-029",
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students record the length of earthworm movement. Which option would weaken the evidence?",
+    "answers": [
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i06-p-030",
+    "skill": "communicating scientific ideas and findings",
+    "question": "A group measures rainfall in a school gauge. Which option would weaken the evidence?",
+    "answers": [
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i06-p-031",
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students use a thermometer in warm water. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i06-p-032",
+    "skill": "communicating scientific ideas and findings",
+    "question": "A class counts bubbles from pondweed. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i06-p-033",
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students compare shadows at different torch distances. What should the group do next?",
+    "answers": [
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i06-p-034",
+    "skill": "communicating scientific ideas and findings",
+    "question": "A group records pH for garden soil. What should the group do next?",
+    "answers": [
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i06-p-035",
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students measure bounce height after drops. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i06-p-036",
+    "skill": "communicating scientific ideas and findings",
+    "question": "A class times paper parachutes falling. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i06-p-037",
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students build a table for plant height. What should the group do next?",
+    "answers": [
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i06-p-038",
+    "skill": "communicating scientific ideas and findings",
+    "question": "A group turns temperature readings into a graph. What should the group do next?",
+    "answers": [
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i06-p-039",
+    "skill": "communicating scientific ideas and findings",
+    "question": "Students choose a model for the water cycle. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i06-p-040",
+    "skill": "communicating scientific ideas and findings",
+    "question": "A class graphs car distance against ramp height. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Communicating Scientific Ideas and Findings: Use a clear method, record evidence and compare the pattern with the question."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

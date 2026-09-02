@@ -1,4 +1,4 @@
-[
+export const bank = [
   {
     "id": "AC9S5I01-P-001",
     "subject": "science",
@@ -3399,4 +3399,4 @@
     "printable": true,
     "type": "single"
   }
-]
+];

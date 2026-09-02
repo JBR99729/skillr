@@ -1,1418 +1,3402 @@
 [
   {
-    "id": "ac9s5h01-p-001",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-001",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "During a habitat survey, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
-    "audio_prompt": "During a habitat survey, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why is replication valuable in science?",
+    "audio_prompt": "Why is replication valuable in science?",
+    "audioPrompt": "Why is replication valuable in science?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-001",
-      "alt_text": "During a habitat survey: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "different expertise can add methods and interpretations",
+        "text": "It tests whether findings recur under comparable methods",
         "is_correct": true
       },
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "It guarantees every result is identical",
         "is_correct": false
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "It replaces evidence with popularity",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids sharing methods",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "It tests whether findings recur under comparable methods",
+      "It guarantees every result is identical",
+      "It replaces evidence with popularity",
+      "It avoids sharing methods"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Replication checks whether a pattern appears again when a method is repeated.",
+      "hint": "Repeat to check."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5h01-p-002",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "At the school science table, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "audio_prompt": "At the school science table, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-002",
-      "alt_text": "At the school science table: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+    "structuredExplanation": {
+      "summary": "Replication checks whether a pattern appears again when a method is repeated.",
+      "hint": "Repeat to check."
     },
-    "answers": [
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": true
-      },
-      {
-        "text": "others can inspect the evidence and repeat the work",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-003",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-002",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "While examining a creek, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
-    "audio_prompt": "While examining a creek, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which phrase best describes peer critique?",
+    "audio_prompt": "Which phrase best describes peer critique?",
+    "audioPrompt": "Which phrase best describes peer critique?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-003",
-      "alt_text": "While examining a creek: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "People attack the scientist personally",
         "is_correct": false
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "A vote on favourite answers",
         "is_correct": false
       },
       {
-        "text": "critique can identify a weakness in the method",
+        "text": "Hiding data from readers",
+        "is_correct": false
+      },
+      {
+        "text": "Other people check claims, evidence and reasoning",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "People attack the scientist personally",
+      "A vote on favourite answers",
+      "Hiding data from readers",
+      "Other people check claims, evidence and reasoning"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Scientific critique evaluates ideas and evidence, not people.",
+      "hint": "Check the claim."
     },
+    "structuredExplanation": {
+      "summary": "Scientific critique evaluates ideas and evidence, not people.",
+      "hint": "Check the claim."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-004",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-003",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "In a classroom investigation, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
-    "audio_prompt": "In a classroom investigation, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "What can new evidence do to a scientific explanation?",
+    "audio_prompt": "What can new evidence do to a scientific explanation?",
+    "audioPrompt": "What can new evidence do to a scientific explanation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-004",
-      "alt_text": "In a classroom investigation: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "different expertise can add methods and interpretations",
+        "text": "Make methods unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the need for reasoning",
+        "is_correct": false
+      },
+      {
+        "text": "Support, limit or revise it",
         "is_correct": true
       },
       {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "Only prove the first idea forever",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5h01-p-005",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "During a garden observation, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "audio_prompt": "During a garden observation, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-005",
-      "alt_text": "During a garden observation: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": true
-      },
-      {
-        "text": "others can inspect the evidence and repeat the work",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Make methods unnecessary",
+      "Remove the need for reasoning",
+      "Support, limit or revise it",
+      "Only prove the first idea forever"
     ],
-    "correct_index": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "New evidence can strengthen, narrow or change explanations.",
+      "hint": "Evidence updates ideas."
     },
+    "structuredExplanation": {
+      "summary": "New evidence can strengthen, narrow or change explanations.",
+      "hint": "Evidence updates ideas."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-006",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-004",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "At the coastal field station, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
-    "audio_prompt": "At the coastal field station, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which is a transparent method?",
+    "audio_prompt": "Which is a transparent method?",
+    "audioPrompt": "Which is a transparent method?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-006",
-      "alt_text": "At the coastal field station: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "A method with no measurements",
         "is_correct": false
       },
       {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "critique can identify a weakness in the method",
+        "text": "A method described clearly enough for others to repeat",
         "is_correct": true
+      },
+      {
+        "text": "A method kept secret",
+        "is_correct": false
+      },
+      {
+        "text": "A method based only on guessing",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "A method with no measurements",
+      "A method described clearly enough for others to repeat",
+      "A method kept secret",
+      "A method based only on guessing"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Transparent methods let others check or repeat the investigation.",
+      "hint": "Can others repeat it?"
     },
+    "structuredExplanation": {
+      "summary": "Transparent methods let others check or repeat the investigation.",
+      "hint": "Can others repeat it?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-007",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-005",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "While comparing samples, another team repeats the same method. What does this contribute to scientific knowledge?",
-    "audio_prompt": "While comparing samples, another team repeats the same method. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which contribution can improve scientific knowledge?",
+    "audio_prompt": "Which contribution can improve scientific knowledge?",
+    "audioPrompt": "Which contribution can improve scientific knowledge?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-007",
-      "alt_text": "While comparing samples: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "A new instrument that measures more precisely",
         "is_correct": true
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "A louder opinion with no data",
         "is_correct": false
       },
       {
-        "text": "others can inspect the evidence and repeat the work",
+        "text": "A hidden notebook",
+        "is_correct": false
+      },
+      {
+        "text": "A popular rumour",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A new instrument that measures more precisely",
+      "A louder opinion with no data",
+      "A hidden notebook",
+      "A popular rumour"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Improved instruments can provide better or new observations.",
+      "hint": "Better measurement."
     },
+    "structuredExplanation": {
+      "summary": "Improved instruments can provide better or new observations.",
+      "hint": "Better measurement."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-008",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-006",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "In the school laboratory, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
-    "audio_prompt": "In the school laboratory, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "What is a scientific explanation?",
+    "audio_prompt": "What is a scientific explanation?",
+    "audioPrompt": "What is a scientific explanation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-008",
-      "alt_text": "In the school laboratory: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "A personal favourite idea",
         "is_correct": false
       },
       {
-        "text": "others can inspect the evidence and repeat the work",
+        "text": "A drawing with no data",
+        "is_correct": false
+      },
+      {
+        "text": "A final truth from one person",
+        "is_correct": false
+      },
+      {
+        "text": "An evidence-based account of how or why something happens",
         "is_correct": true
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "A personal favourite idea",
+      "A drawing with no data",
+      "A final truth from one person",
+      "An evidence-based account of how or why something happens"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Scientific explanations use evidence and reasoning.",
+      "hint": "Evidence-based account."
     },
+    "structuredExplanation": {
+      "summary": "Scientific explanations use evidence and reasoning.",
+      "hint": "Evidence-based account."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-009",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-007",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "During a weather study, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
-    "audio_prompt": "During a weather study, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which action helps knowledge become more reliable?",
+    "audio_prompt": "Which action helps knowledge become more reliable?",
+    "audioPrompt": "Which action helps knowledge become more reliable?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-009",
-      "alt_text": "During a weather study: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "Ignoring unusual results",
         "is_correct": false
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "Choosing the most popular answer",
         "is_correct": false
       },
       {
-        "text": "the model should be revised while useful parts may remain",
+        "text": "Sharing results and methods for checking",
         "is_correct": true
+      },
+      {
+        "text": "Keeping all evidence private",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Ignoring unusual results",
+      "Choosing the most popular answer",
+      "Sharing results and methods for checking",
+      "Keeping all evidence private"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Sharing allows critique, replication and improvement.",
+      "hint": "Let others check."
     },
+    "structuredExplanation": {
+      "summary": "Sharing allows critique, replication and improvement.",
+      "hint": "Let others check."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-010",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-008",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "At the wildlife centre, another team repeats the same method. What does this contribute to scientific knowledge?",
-    "audio_prompt": "At the wildlife centre, another team repeats the same method. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which statement about scientific knowledge is best?",
+    "audio_prompt": "Which statement about scientific knowledge is best?",
+    "audioPrompt": "Which statement about scientific knowledge is best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-010",
-      "alt_text": "At the wildlife centre: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "It is only a list of opinions",
+        "is_correct": false
+      },
+      {
+        "text": "It develops through many people’s contributions over time",
         "is_correct": true
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "It is created once by one person forever",
         "is_correct": false
       },
       {
-        "text": "others can inspect the evidence and repeat the work",
+        "text": "It never changes when evidence changes",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "It is only a list of opinions",
+      "It develops through many people’s contributions over time",
+      "It is created once by one person forever",
+      "It never changes when evidence changes"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Science develops through collaboration, testing and revision.",
+      "hint": "Many contributors."
     },
+    "structuredExplanation": {
+      "summary": "Science develops through collaboration, testing and revision.",
+      "hint": "Many contributors."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-011",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-009",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "While reviewing a data table, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
-    "audio_prompt": "While reviewing a data table, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "What does consensus in science depend on most?",
+    "audio_prompt": "What does consensus in science depend on most?",
+    "audioPrompt": "What does consensus in science depend on most?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-011",
-      "alt_text": "While reviewing a data table: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "others can inspect the evidence and repeat the work",
+        "text": "Strong evidence and reliable methods",
         "is_correct": true
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "Popularity alone",
+        "is_correct": false
+      },
+      {
+        "text": "The oldest claim",
+        "is_correct": false
+      },
+      {
+        "text": "The neatest poster",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5h01-p-012",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "In a materials investigation, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
-    "audio_prompt": "In a materials investigation, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-012",
-      "alt_text": "In a materials investigation: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "the model should be revised while useful parts may remain",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5h01-p-013",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "During an outdoor observation, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "audio_prompt": "During an outdoor observation, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-013",
-      "alt_text": "During an outdoor observation: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": true
-      },
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "others can inspect the evidence and repeat the work",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Strong evidence and reliable methods",
+      "Popularity alone",
+      "The oldest claim",
+      "The neatest poster"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Scientific agreement is strongest when supported by evidence and methods.",
+      "hint": "Evidence, not popularity."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Scientific agreement is strongest when supported by evidence and methods.",
+      "hint": "Evidence, not popularity."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-014",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-010",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "At the community science fair, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
-    "audio_prompt": "At the community science fair, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which word means improving an explanation after checking evidence?",
+    "audio_prompt": "Which word means improving an explanation after checking evidence?",
+    "audioPrompt": "Which word means improving an explanation after checking evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-014",
-      "alt_text": "At the community science fair: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "Decorating",
         "is_correct": false
       },
       {
-        "text": "critique can identify a weakness in the method",
+        "text": "Guessing",
+        "is_correct": false
+      },
+      {
+        "text": "Hiding",
+        "is_correct": false
+      },
+      {
+        "text": "Refining",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Decorating",
+      "Guessing",
+      "Hiding",
+      "Refining"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Refining means improving or revising an explanation.",
+      "hint": "Make it better with evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Refining means improving or revising an explanation.",
+      "hint": "Make it better with evidence."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-011",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why does revising a model not mean science has failed?",
+    "audio_prompt": "Why does revising a model not mean science has failed?",
+    "audioPrompt": "Why does revising a model not mean science has failed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Changing an idea proves all evidence was useless",
+        "is_correct": false
+      },
+      {
+        "text": "Science is only correct the first time",
+        "is_correct": false
+      },
+      {
+        "text": "Revision can make the model fit evidence better",
         "is_correct": true
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "Models must never change",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5h01-p-015",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "While planning a fair test, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
-    "audio_prompt": "While planning a fair test, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-015",
-      "alt_text": "While planning a fair test: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "different expertise can add methods and interpretations",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Changing an idea proves all evidence was useless",
+      "Science is only correct the first time",
+      "Revision can make the model fit evidence better",
+      "Models must never change"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Science improves explanations as better evidence becomes available.",
+      "hint": "Change can improve."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Science improves explanations as better evidence becomes available.",
+      "hint": "Change can improve."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-016",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-012",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "In a digital science journal, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "audio_prompt": "In a digital science journal, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why should scientists share their methods?",
+    "audio_prompt": "Why should scientists share their methods?",
+    "audioPrompt": "Why should scientists share their methods?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-016",
-      "alt_text": "In a digital science journal: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": true
-      },
-      {
-        "text": "replication tests whether the finding occurs again",
+        "text": "Secret methods are always stronger",
         "is_correct": false
       },
       {
-        "text": "others can inspect the evidence and repeat the work",
+        "text": "Others can check, repeat and critique the work",
+        "is_correct": true
+      },
+      {
+        "text": "Methods are only decoration",
+        "is_correct": false
+      },
+      {
+        "text": "Sharing methods removes evidence",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5h01-p-017",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "During a light investigation, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
-    "audio_prompt": "During a light investigation, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-017",
-      "alt_text": "During a light investigation: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "critique can identify a weakness in the method",
-        "is_correct": true
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Secret methods are always stronger",
+      "Others can check, repeat and critique the work",
+      "Methods are only decoration",
+      "Sharing methods removes evidence"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Shared methods make claims more testable and trustworthy.",
+      "hint": "Repeatable method."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Shared methods make claims more testable and trustworthy.",
+      "hint": "Repeatable method."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-018",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-013",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "At the local wetland, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
-    "audio_prompt": "At the local wetland, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why is agreement among many opinions weaker than reproducible evidence?",
+    "audio_prompt": "Why is agreement among many opinions weaker than reproducible evidence?",
+    "audioPrompt": "Why is agreement among many opinions weaker than reproducible evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-018",
-      "alt_text": "At the local wetland: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "different expertise can add methods and interpretations",
+        "text": "Opinions do not test whether a claim matches observations",
         "is_correct": true
+      },
+      {
+        "text": "Many opinions automatically prove facts",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence is less important than confidence",
+        "is_correct": false
+      },
+      {
+        "text": "Popular claims cannot be wrong",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9s5h01-p-019",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "While checking another group's method, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
-    "audio_prompt": "While checking another group's method, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-019",
-      "alt_text": "While checking another group's method: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "others can inspect the evidence and repeat the work",
-        "is_correct": true
-      },
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Opinions do not test whether a claim matches observations",
+      "Many opinions automatically prove facts",
+      "Evidence is less important than confidence",
+      "Popular claims cannot be wrong"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Scientific strength comes from evidence that can be checked.",
+      "hint": "Evidence over popularity."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Scientific strength comes from evidence that can be checked.",
+      "hint": "Evidence over popularity."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-020",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-014",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "In a model-building lesson, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
-    "audio_prompt": "In a model-building lesson, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why can older scientific work still be useful after revision?",
+    "audio_prompt": "Why can older scientific work still be useful after revision?",
+    "audioPrompt": "Why can older scientific work still be useful after revision?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-020",
-      "alt_text": "In a model-building lesson: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "New evidence makes all earlier work worthless",
         "is_correct": false
       },
       {
-        "text": "the model should be revised while useful parts may remain",
+        "text": "Old observations cannot contain evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Revision deletes all previous learning",
+        "is_correct": false
+      },
+      {
+        "text": "It may remain useful within limits even if parts are updated",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "New evidence makes all earlier work worthless",
+      "Old observations cannot contain evidence",
+      "Revision deletes all previous learning",
+      "It may remain useful within limits even if parts are updated"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Earlier models can still explain some situations while being improved.",
+      "hint": "Useful within limits."
+    },
+    "structuredExplanation": {
+      "summary": "Earlier models can still explain some situations while being improved.",
+      "hint": "Useful within limits."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-015",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why is critique important in science?",
+    "audio_prompt": "Why is critique important in science?",
+    "audioPrompt": "Why is critique important in science?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It proves the critic is always right",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces data collection",
+        "is_correct": false
+      },
+      {
+        "text": "It can find weaknesses, alternatives or missing evidence",
         "is_correct": true
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "It is a personal attack",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "It proves the critic is always right",
+      "It replaces data collection",
+      "It can find weaknesses, alternatives or missing evidence",
+      "It is a personal attack"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Critique helps improve claims by testing reasoning and evidence.",
+      "hint": "Check for weaknesses."
+    },
+    "structuredExplanation": {
+      "summary": "Critique helps improve claims by testing reasoning and evidence.",
+      "hint": "Check for weaknesses."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-016",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why might different expertise improve an investigation?",
+    "audio_prompt": "Why might different expertise improve an investigation?",
+    "audioPrompt": "Why might different expertise improve an investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Experts should not compare ideas",
+        "is_correct": false
+      },
+      {
+        "text": "People with different skills can add methods, tools or interpretations",
+        "is_correct": true
+      },
+      {
+        "text": "Only one person can do science",
+        "is_correct": false
+      },
+      {
+        "text": "Different expertise always weakens evidence",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Experts should not compare ideas",
+      "People with different skills can add methods, tools or interpretations",
+      "Only one person can do science",
+      "Different expertise always weakens evidence"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Science often improves when people contribute varied knowledge and skills.",
+      "hint": "Different roles help."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Science often improves when people contribute varied knowledge and skills.",
+      "hint": "Different roles help."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-021",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-017",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "During a temperature investigation, another team repeats the same method. What does this contribute to scientific knowledge?",
-    "audio_prompt": "During a temperature investigation, another team repeats the same method. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why does replication not require every result to be exactly identical?",
+    "audio_prompt": "Why does replication not require every result to be exactly identical?",
+    "audioPrompt": "Why does replication not require every result to be exactly identical?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-021",
-      "alt_text": "During a temperature investigation: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "others can inspect the evidence and repeat the work",
-        "is_correct": false
-      },
-      {
-        "text": "replication tests whether the finding occurs again",
+        "text": "Comparable patterns can recur even with normal variation",
         "is_correct": true
+      },
+      {
+        "text": "Replication means copying numbers perfectly",
+        "is_correct": false
+      },
+      {
+        "text": "Variation proves all studies are wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Repeats should hide differences",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Comparable patterns can recur even with normal variation",
+      "Replication means copying numbers perfectly",
+      "Variation proves all studies are wrong",
+      "Repeats should hide differences"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Replication checks whether findings are consistent enough under comparable methods.",
+      "hint": "Pattern, not identical numbers."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Replication checks whether findings are consistent enough under comparable methods.",
+      "hint": "Pattern, not identical numbers."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-022",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-018",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "At the environmental centre, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
-    "audio_prompt": "At the environmental centre, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why should sources be credited in scientific communication?",
+    "audio_prompt": "Why should sources be credited in scientific communication?",
+    "audioPrompt": "Why should sources be credited in scientific communication?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-022",
-      "alt_text": "At the environmental centre: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "others can inspect the evidence and repeat the work",
+        "text": "Credit makes evidence unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "Sources should always be hidden",
+        "is_correct": false
+      },
+      {
+        "text": "Crediting changes the data",
+        "is_correct": false
+      },
+      {
+        "text": "Credit shows where evidence or ideas came from",
         "is_correct": true
-      },
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Credit makes evidence unnecessary",
+      "Sources should always be hidden",
+      "Crediting changes the data",
+      "Credit shows where evidence or ideas came from"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Crediting sources supports transparency and fairness.",
+      "hint": "Where did it come from?"
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Crediting sources supports transparency and fairness.",
+      "hint": "Where did it come from?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-023",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-019",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "While preparing a science report, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
-    "audio_prompt": "While preparing a science report, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why can new technology change scientific explanations?",
+    "audio_prompt": "Why can new technology change scientific explanations?",
+    "audioPrompt": "Why can new technology change scientific explanations?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-023",
-      "alt_text": "While preparing a science report: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "New tools always make older evidence false",
         "is_correct": false
       },
       {
-        "text": "the model should be revised while useful parts may remain",
+        "text": "Instruments decide conclusions without people",
+        "is_correct": false
+      },
+      {
+        "text": "It can provide observations that were not possible or precise before",
         "is_correct": true
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "Technology makes reasoning unnecessary",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "New tools always make older evidence false",
+      "Instruments decide conclusions without people",
+      "It can provide observations that were not possible or precise before",
+      "Technology makes reasoning unnecessary"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Better tools can reveal new details that support or revise explanations.",
+      "hint": "New measurements."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Better tools can reveal new details that support or revise explanations.",
+      "hint": "New measurements."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-p-024",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-P-020",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "practice",
-    "skill": "develop_scientific_knowledge",
-    "question": "In a research discussion, another team repeats the same method. What does this contribute to scientific knowledge?",
-    "audio_prompt": "In a research discussion, another team repeats the same method. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why should a claim include evidence and reasoning, not authority alone?",
+    "audio_prompt": "Why should a claim include evidence and reasoning, not authority alone?",
+    "audioPrompt": "Why should a claim include evidence and reasoning, not authority alone?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-p-024",
-      "alt_text": "In a research discussion: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "Claims should avoid explanations",
         "is_correct": false
       },
       {
-        "text": "others can inspect the evidence and repeat the work",
+        "text": "Authority cannot replace data showing why the claim is supported",
+        "is_correct": true
+      },
+      {
+        "text": "Authority always proves a claim",
         "is_correct": false
       },
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "Reasoning weakens evidence",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Claims should avoid explanations",
+      "Authority cannot replace data showing why the claim is supported",
+      "Authority always proves a claim",
+      "Reasoning weakens evidence"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Scientific claims need evidence and a logical link to the claim.",
+      "hint": "Not just who said it."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific claims need evidence and a logical link to the claim.",
+      "hint": "Not just who said it."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-021",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which statement is a misconception?",
+    "audio_prompt": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "One scientist creates final truth alone",
+        "is_correct": true
+      },
+      {
+        "text": "Scientific knowledge develops through contributions",
+        "is_correct": false
+      },
+      {
+        "text": "Critique can improve explanations",
+        "is_correct": false
+      },
+      {
+        "text": "New evidence can revise models",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "One scientist creates final truth alone",
+      "Scientific knowledge develops through contributions",
+      "Critique can improve explanations",
+      "New evidence can revise models"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Scientific knowledge is collaborative and evidence-based over time.",
+      "hint": "Not one final person."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific knowledge is collaborative and evidence-based over time.",
+      "hint": "Not one final person."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-022",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which example shows replication?",
+    "audio_prompt": "Which example shows replication?",
+    "audioPrompt": "Which example shows replication?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A group changes every variable at once",
+        "is_correct": false
+      },
+      {
+        "text": "A student votes for a favourite result",
+        "is_correct": false
+      },
+      {
+        "text": "A poster copies only the conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "Another group repeats the same seed-growth method to see if the pattern occurs again",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "A group changes every variable at once",
+      "A student votes for a favourite result",
+      "A poster copies only the conclusion",
+      "Another group repeats the same seed-growth method to see if the pattern occurs again"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
+      "summary": "Replication repeats comparable methods to check findings.",
+      "hint": "Repeat the study."
+    },
+    "structuredExplanation": {
+      "summary": "Replication repeats comparable methods to check findings.",
+      "hint": "Repeat the study."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-023",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which example shows critique?",
+    "audio_prompt": "Which example shows critique?",
+    "audioPrompt": "Which example shows critique?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A student hides the method",
+        "is_correct": false
+      },
+      {
+        "text": "A group ignores conflicting data",
+        "is_correct": false
+      },
+      {
+        "text": "A reviewer asks whether the sample size is large enough",
+        "is_correct": true
+      },
+      {
+        "text": "A reader chooses the prettiest graph",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A student hides the method",
+      "A group ignores conflicting data",
+      "A reviewer asks whether the sample size is large enough",
+      "A reader chooses the prettiest graph"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Critique questions evidence and method quality.",
+      "hint": "Check method weakness."
+    },
+    "structuredExplanation": {
+      "summary": "Critique questions evidence and method quality.",
+      "hint": "Check method weakness."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-024",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which evidence base is stronger?",
+    "audio_prompt": "Which evidence base is stronger?",
+    "audioPrompt": "Which evidence base is stronger?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A rumour repeated many times",
+        "is_correct": false
+      },
+      {
+        "text": "Three repeated studies with clear methods and similar patterns",
+        "is_correct": true
+      },
+      {
+        "text": "Twenty opinions with no observations",
+        "is_correct": false
+      },
+      {
+        "text": "One secret experiment with no method",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A rumour repeated many times",
+      "Three repeated studies with clear methods and similar patterns",
+      "Twenty opinions with no observations",
+      "One secret experiment with no method"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Clear repeated evidence is stronger than unsupported agreement.",
+      "hint": "Reproducible evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Clear repeated evidence is stronger than unsupported agreement.",
+      "hint": "Reproducible evidence."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-025",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which claim overstates consensus?",
+    "audio_prompt": "Which claim overstates consensus?",
+    "audioPrompt": "Which claim overstates consensus?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Everyone agrees, so no evidence is needed",
+        "is_correct": true
+      },
+      {
+        "text": "Agreement should depend on evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Methods should be transparent",
+        "is_correct": false
+      },
+      {
+        "text": "Claims can be revised with new data",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Everyone agrees, so no evidence is needed",
+      "Agreement should depend on evidence",
+      "Methods should be transparent",
+      "Claims can be revised with new data"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Consensus does not remove the need for evidence.",
+      "hint": "Popularity is not proof."
+    },
+    "structuredExplanation": {
+      "summary": "Consensus does not remove the need for evidence.",
+      "hint": "Popularity is not proof."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-026",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which contribution best improves measurement quality?",
+    "audio_prompt": "Which contribution best improves measurement quality?",
+    "audioPrompt": "Which contribution best improves measurement quality?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A larger title on the report",
+        "is_correct": false
+      },
+      {
+        "text": "A hidden table",
+        "is_correct": false
+      },
+      {
+        "text": "A guess before testing",
+        "is_correct": false
+      },
+      {
+        "text": "A calibrated sensor that records smaller changes",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A larger title on the report",
+      "A hidden table",
+      "A guess before testing",
+      "A calibrated sensor that records smaller changes"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Precise instruments can improve observation quality.",
+      "hint": "Better tool."
+    },
+    "structuredExplanation": {
+      "summary": "Precise instruments can improve observation quality.",
+      "hint": "Better tool."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-027",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which response to new conflicting evidence is most scientific?",
+    "audio_prompt": "Which response to new conflicting evidence is most scientific?",
+    "audioPrompt": "Which response to new conflicting evidence is most scientific?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Delete the data immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Attack the person reporting it",
+        "is_correct": false
+      },
+      {
+        "text": "Check the methods and consider whether the explanation needs revision",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore it because the old idea is popular",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Delete the data immediately",
+      "Attack the person reporting it",
+      "Check the methods and consider whether the explanation needs revision",
+      "Ignore it because the old idea is popular"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Conflicting evidence should be evaluated carefully.",
+      "hint": "Check and revise if needed."
+    },
+    "structuredExplanation": {
+      "summary": "Conflicting evidence should be evaluated carefully.",
+      "hint": "Check and revise if needed."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-028",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which statement best describes scientific revision?",
+    "audio_prompt": "Which statement best describes scientific revision?",
+    "audioPrompt": "Which statement best describes scientific revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Making a poster more colourful",
+        "is_correct": false
+      },
+      {
+        "text": "Changing an explanation when evidence shows a better fit",
+        "is_correct": true
+      },
+      {
+        "text": "Changing data to match a favourite idea",
+        "is_correct": false
+      },
+      {
+        "text": "Refusing to update claims",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Making a poster more colourful",
+      "Changing an explanation when evidence shows a better fit",
+      "Changing data to match a favourite idea",
+      "Refusing to update claims"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Revision updates explanations to better match evidence.",
+      "hint": "Update idea, not data."
+    },
+    "structuredExplanation": {
+      "summary": "Revision updates explanations to better match evidence.",
+      "hint": "Update idea, not data."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-029",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which source should be most trusted for a class claim?",
+    "audio_prompt": "Which source should be most trusted for a class claim?",
+    "audioPrompt": "Which source should be most trusted for a class claim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A report with clear methods, data and limits",
+        "is_correct": true
+      },
+      {
+        "text": "A comment with no evidence",
+        "is_correct": false
+      },
+      {
+        "text": "A slogan on a sticker",
+        "is_correct": false
+      },
+      {
+        "text": "A claim because it sounds confident",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A report with clear methods, data and limits",
+      "A comment with no evidence",
+      "A slogan on a sticker",
+      "A claim because it sounds confident"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Transparent evidence and limits make claims more checkable.",
+      "hint": "Checkable source."
+    },
+    "structuredExplanation": {
+      "summary": "Transparent evidence and limits make claims more checkable.",
+      "hint": "Checkable source."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-030",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which role is a science communicator playing?",
+    "audio_prompt": "Which role is a science communicator playing?",
+    "audioPrompt": "Which role is a science communicator playing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Changing results to sound better",
+        "is_correct": false
+      },
+      {
+        "text": "Hiding uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "Choosing claims by popularity",
+        "is_correct": false
+      },
+      {
+        "text": "Explaining evidence and reasoning clearly to an audience",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Changing results to sound better",
+      "Hiding uncertainty",
+      "Choosing claims by popularity",
+      "Explaining evidence and reasoning clearly to an audience"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Communication shares evidence-based ideas accurately.",
+      "hint": "Explain clearly."
+    },
+    "structuredExplanation": {
+      "summary": "Communication shares evidence-based ideas accurately.",
+      "hint": "Explain clearly."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-031",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A new microscope shows details not seen in older observations. What might happen to an explanation?",
+    "audio_prompt": "A new microscope shows details not seen in older observations. What might happen to an explanation?",
+    "audioPrompt": "A new microscope shows details not seen in older observations. What might happen to an explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Evidence becomes unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "The microscope automatically writes the conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "It may be refined to include the new evidence",
+        "is_correct": true
+      },
+      {
+        "text": "The old work must be ignored entirely",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Evidence becomes unnecessary",
+      "The microscope automatically writes the conclusion",
+      "It may be refined to include the new evidence",
+      "The old work must be ignored entirely"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "New observations can revise or extend explanations.",
+      "hint": "New tool, new evidence."
+    },
+    "structuredExplanation": {
+      "summary": "New observations can revise or extend explanations.",
+      "hint": "New tool, new evidence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-032",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A class finds that another group’s results do not match theirs. What should they do first?",
+    "audio_prompt": "A class finds that another group’s results do not match theirs. What should they do first?",
+    "audioPrompt": "A class finds that another group’s results do not match theirs. What should they do first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Vote for the most popular result",
+        "is_correct": false
+      },
+      {
+        "text": "Compare methods, measurements and possible variation",
+        "is_correct": true
+      },
+      {
+        "text": "Say the other group is wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Keep only their own data",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Vote for the most popular result",
+      "Compare methods, measurements and possible variation",
+      "Say the other group is wrong",
+      "Keep only their own data"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Different findings should trigger careful checking.",
+      "hint": "Method and evidence check."
+    },
+    "structuredExplanation": {
+      "summary": "Different findings should trigger careful checking.",
+      "hint": "Method and evidence check."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-033",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A scientist publishes a claim but gives no method. Why is this weak?",
+    "audio_prompt": "A scientist publishes a claim but gives no method. Why is this weak?",
+    "audioPrompt": "A scientist publishes a claim but gives no method. Why is this weak?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Others cannot check or repeat the work properly",
+        "is_correct": true
+      },
+      {
+        "text": "Methods are never useful",
+        "is_correct": false
+      },
+      {
+        "text": "Secret work is always stronger",
+        "is_correct": false
+      },
+      {
+        "text": "Claims do not need evidence",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Others cannot check or repeat the work properly",
+      "Methods are never useful",
+      "Secret work is always stronger",
+      "Claims do not need evidence"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Transparent methods are needed for checking and replication.",
+      "hint": "Cannot repeat."
+    },
+    "structuredExplanation": {
+      "summary": "Transparent methods are needed for checking and replication.",
+      "hint": "Cannot repeat."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-034",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A model of erosion is updated after repeated field data shows a missing factor. What does this show?",
+    "audio_prompt": "A model of erosion is updated after repeated field data shows a missing factor. What does this show?",
+    "audioPrompt": "A model of erosion is updated after repeated field data shows a missing factor. What does this show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The first model was useless in every way",
+        "is_correct": false
+      },
+      {
+        "text": "Models must never change",
+        "is_correct": false
+      },
+      {
+        "text": "Field data should be ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Science can refine explanations when stronger evidence appears",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The first model was useless in every way",
+      "Models must never change",
+      "Field data should be ignored",
+      "Science can refine explanations when stronger evidence appears"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Revision improves models by aligning them with evidence.",
+      "hint": "Better fit."
+    },
+    "structuredExplanation": {
+      "summary": "Revision improves models by aligning them with evidence.",
+      "hint": "Better fit."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-035",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A popular online post claims all dark roofs are always best for homes. What should a student ask for?",
+    "audio_prompt": "A popular online post claims all dark roofs are always best for homes. What should a student ask for?",
+    "audioPrompt": "A popular online post claims all dark roofs are always best for homes. What should a student ask for?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A vote count only",
+        "is_correct": false
+      },
+      {
+        "text": "A brighter photo",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence, methods, climate context and limitations",
+        "is_correct": true
+      },
+      {
+        "text": "More confident wording",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A vote count only",
+      "A brighter photo",
+      "Evidence, methods, climate context and limitations",
+      "More confident wording"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Scientific claims need evidence and context.",
+      "hint": "Check support."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific claims need evidence and context.",
+      "hint": "Check support."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-036",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Several teams collect similar evaporation results using the same method. Why does confidence increase?",
+    "audio_prompt": "Several teams collect similar evaporation results using the same method. Why does confidence increase?",
+    "audioPrompt": "Several teams collect similar evaporation results using the same method. Why does confidence increase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The method no longer matters",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern was repeated under comparable conditions",
+        "is_correct": true
+      },
+      {
+        "text": "The results became opinions",
+        "is_correct": false
+      },
+      {
+        "text": "Replication removes all uncertainty",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The method no longer matters",
+      "The pattern was repeated under comparable conditions",
+      "The results became opinions",
+      "Replication removes all uncertainty"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Repeated comparable evidence strengthens confidence.",
+      "hint": "Pattern repeats."
+    },
+    "structuredExplanation": {
+      "summary": "Repeated comparable evidence strengthens confidence.",
+      "hint": "Pattern repeats."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-037",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A critic notices one group changed two variables at once. How does critique help?",
+    "audio_prompt": "A critic notices one group changed two variables at once. How does critique help?",
+    "audioPrompt": "A critic notices one group changed two variables at once. How does critique help?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It identifies a weakness that may affect the conclusion",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the critic dislikes the group",
+        "is_correct": false
+      },
+      {
+        "text": "It makes data impossible",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the need for retesting",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It identifies a weakness that may affect the conclusion",
+      "It proves the critic dislikes the group",
+      "It makes data impossible",
+      "It replaces the need for retesting"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Critique can reveal method problems that need fixing.",
+      "hint": "Weakness found."
+    },
+    "structuredExplanation": {
+      "summary": "Critique can reveal method problems that need fixing.",
+      "hint": "Weakness found."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-038",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A weather explanation works for coastal storms but not inland heatwaves. What is a fair revision?",
+    "audio_prompt": "A weather explanation works for coastal storms but not inland heatwaves. What is a fair revision?",
+    "audioPrompt": "A weather explanation works for coastal storms but not inland heatwaves. What is a fair revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Claim it explains all weather anyway",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the coastal evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Stop using explanations",
+        "is_correct": false
+      },
+      {
+        "text": "State the conditions where it works and add evidence for other situations",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Claim it explains all weather anyway",
+      "Delete the coastal evidence",
+      "Stop using explanations",
+      "State the conditions where it works and add evidence for other situations"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Explanations can be limited and refined for different conditions.",
+      "hint": "Scope matters."
+    },
+    "structuredExplanation": {
+      "summary": "Explanations can be limited and refined for different conditions.",
+      "hint": "Scope matters."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-039",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A student says “the expert said it, so it is true.” What is the best scientific response?",
+    "audio_prompt": "A student says “the expert said it, so it is true.” What is the best scientific response?",
+    "audioPrompt": "A student says “the expert said it, so it is true.” What is the best scientific response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Ignore all expert knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the oldest claim",
+        "is_correct": false
+      },
+      {
+        "text": "Ask what evidence and reasoning support the expert’s claim",
+        "is_correct": true
+      },
+      {
+        "text": "Accept it without question",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Ignore all expert knowledge",
+      "Choose the oldest claim",
+      "Ask what evidence and reasoning support the expert’s claim",
+      "Accept it without question"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Expertise matters, but claims still need evidence.",
+      "hint": "Evidence behind authority."
+    },
+    "structuredExplanation": {
+      "summary": "Expertise matters, but claims still need evidence.",
+      "hint": "Evidence behind authority."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-P-040",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "An observer, instrument maker, data analyst and reviewer all contribute to a study. What does this show?",
+    "audio_prompt": "An observer, instrument maker, data analyst and reviewer all contribute to a study. What does this show?",
+    "audioPrompt": "An observer, instrument maker, data analyst and reviewer all contribute to a study. What does this show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Tools make people unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific knowledge can develop through many roles",
+        "is_correct": true
+      },
+      {
+        "text": "Only observers count in science",
+        "is_correct": false
+      },
+      {
+        "text": "Reviewers should not ask questions",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Tools make people unnecessary",
+      "Scientific knowledge can develop through many roles",
+      "Only observers count in science",
+      "Reviewers should not ask questions"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Science often involves multiple contributions.",
+      "hint": "Many roles."
+    },
+    "structuredExplanation": {
+      "summary": "Science often involves multiple contributions.",
+      "hint": "Many roles."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-T-001",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "test",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A second school repeats a shadow investigation using the same method. What are they testing?",
+    "audio_prompt": "A second school repeats a shadow investigation using the same method. What are they testing?",
+    "audioPrompt": "A second school repeats a shadow investigation using the same method. What are they testing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Whether shadows are opinions",
+        "is_correct": false
+      },
+      {
+        "text": "Whether methods can be hidden",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the finding recurs under comparable conditions",
+        "is_correct": true
+      },
+      {
+        "text": "Whether the first school is popular",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Whether shadows are opinions",
+      "Whether methods can be hidden",
+      "Whether the finding recurs under comparable conditions",
+      "Whether the first school is popular"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Replication checks whether results recur.",
+      "hint": "Repeat to check."
+    },
+    "structuredExplanation": {
+      "summary": "Replication checks whether results recur.",
+      "hint": "Repeat to check."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-t-001",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-T-002",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "During a desert field study, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
-    "audio_prompt": "During a desert field study, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why can critique improve a scientific claim?",
+    "audio_prompt": "Why can critique improve a scientific claim?",
+    "audioPrompt": "Why can critique improve a scientific claim?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-001",
-      "alt_text": "During a desert field study: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "different expertise can add methods and interpretations",
-        "is_correct": true
-      },
-      {
-        "text": "replication tests whether the finding occurs again",
+        "text": "It proves every critic is correct",
         "is_correct": false
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "It can reveal weaknesses in evidence, method or reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "It attacks the person making the claim",
+        "is_correct": false
+      },
+      {
+        "text": "It removes all need for data",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
-  },
-  {
-    "id": "ac9s5h01-t-002",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "At a marine research centre, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "audio_prompt": "At a marine research centre, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-002",
-      "alt_text": "At a marine research centre: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": true
-      },
-      {
-        "text": "others can inspect the evidence and repeat the work",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "It proves every critic is correct",
+      "It can reveal weaknesses in evidence, method or reasoning",
+      "It attacks the person making the claim",
+      "It removes all need for data"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
+      "summary": "Scientific critique examines the quality of claims and support.",
+      "hint": "Check the claim."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific critique examines the quality of claims and support.",
+      "hint": "Check the claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-t-003",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-T-003",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "While examining a riverbank, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
-    "audio_prompt": "While examining a riverbank, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A new satellite records clearer land-change data than older maps. What could this do?",
+    "audio_prompt": "A new satellite records clearer land-change data than older maps. What could this do?",
+    "audioPrompt": "A new satellite records clearer land-change data than older maps. What could this do?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-003",
-      "alt_text": "While examining a riverbank: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "critique can identify a weakness in the method",
+        "text": "Support or revise explanations of landscape change",
         "is_correct": true
+      },
+      {
+        "text": "Make all old evidence worthless",
+        "is_correct": false
+      },
+      {
+        "text": "Stop scientists needing models",
+        "is_correct": false
+      },
+      {
+        "text": "Prove every earlier idea was fake",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
-  },
-  {
-    "id": "ac9s5h01-t-004",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "In an independent investigation, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
-    "audio_prompt": "In an independent investigation, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-004",
-      "alt_text": "In an independent investigation: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "different expertise can add methods and interpretations",
-        "is_correct": true
-      },
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Support or revise explanations of landscape change",
+      "Make all old evidence worthless",
+      "Stop scientists needing models",
+      "Prove every earlier idea was fake"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
+      "summary": "Better observations can refine explanations.",
+      "hint": "New evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Better observations can refine explanations.",
+      "hint": "New evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-t-005",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-T-004",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "During a forest survey, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "audio_prompt": "During a forest survey, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which claim has stronger support?",
+    "audio_prompt": "Which claim has stronger support?",
+    "audioPrompt": "Which claim has stronger support?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-005",
-      "alt_text": "During a forest survey: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "A claim repeated loudly with no measurements",
         "is_correct": false
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "A claim hidden in a private notebook",
+        "is_correct": false
+      },
+      {
+        "text": "A claim chosen by class vote only",
+        "is_correct": false
+      },
+      {
+        "text": "A claim tested by several groups with shared methods and similar findings",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A claim repeated loudly with no measurements",
+      "A claim hidden in a private notebook",
+      "A claim chosen by class vote only",
+      "A claim tested by several groups with shared methods and similar findings"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Shared reproducible evidence gives stronger support.",
+      "hint": "Evidence and replication."
+    },
+    "structuredExplanation": {
+      "summary": "Shared reproducible evidence gives stronger support.",
+      "hint": "Evidence and replication."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-T-005",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "test",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which statement about scientific knowledge is accurate?",
+    "audio_prompt": "Which statement about scientific knowledge is accurate?",
+    "audioPrompt": "Which statement about scientific knowledge is accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It comes only from one scientist",
+        "is_correct": false
+      },
+      {
+        "text": "It is the same as personal opinion",
+        "is_correct": false
+      },
+      {
+        "text": "It is refined as new evidence becomes available",
         "is_correct": true
       },
       {
-        "text": "others can inspect the evidence and repeat the work",
+        "text": "It never changes after the first idea",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "It comes only from one scientist",
+      "It is the same as personal opinion",
+      "It is refined as new evidence becomes available",
+      "It never changes after the first idea"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Scientific knowledge develops through evidence and revision.",
+      "hint": "Can be refined."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific knowledge develops through evidence and revision.",
+      "hint": "Can be refined."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-T-006",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "test",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why is a secret method a problem?",
+    "audio_prompt": "Why is a secret method a problem?",
+    "audioPrompt": "Why is a secret method a problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It proves the claim is final",
+        "is_correct": false
+      },
+      {
+        "text": "Others cannot judge or repeat the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "It makes results more reliable",
+        "is_correct": false
+      },
+      {
+        "text": "It removes all uncertainty",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It proves the claim is final",
+      "Others cannot judge or repeat the investigation",
+      "It makes results more reliable",
+      "It removes all uncertainty"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
+      "summary": "Methods need to be transparent for checking.",
+      "hint": "Cannot check."
+    },
+    "structuredExplanation": {
+      "summary": "Methods need to be transparent for checking.",
+      "hint": "Cannot check."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-t-006",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-T-007",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "At a regional science exhibition, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
-    "audio_prompt": "At a regional science exhibition, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A class updates its particle model after testing gas compression. What is this an example of?",
+    "audio_prompt": "A class updates its particle model after testing gas compression. What is this an example of?",
+    "audioPrompt": "A class updates its particle model after testing gas compression. What is this an example of?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-006",
-      "alt_text": "At a regional science exhibition: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "critique can identify a weakness in the method",
+        "text": "Refining a model using evidence",
         "is_correct": true
+      },
+      {
+        "text": "Changing data to match a drawing",
+        "is_correct": false
+      },
+      {
+        "text": "Rejecting all observations",
+        "is_correct": false
+      },
+      {
+        "text": "Using popularity as proof",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
-  },
-  {
-    "id": "ac9s5h01-t-007",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "While analysing unfamiliar evidence, another team repeats the same method. What does this contribute to scientific knowledge?",
-    "audio_prompt": "While analysing unfamiliar evidence, another team repeats the same method. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-007",
-      "alt_text": "While analysing unfamiliar evidence: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": true
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "others can inspect the evidence and repeat the work",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Refining a model using evidence",
+      "Changing data to match a drawing",
+      "Rejecting all observations",
+      "Using popularity as proof"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
+      "summary": "Evidence can improve a model.",
+      "hint": "Evidence-based revision."
+    },
+    "structuredExplanation": {
+      "summary": "Evidence can improve a model.",
+      "hint": "Evidence-based revision."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-t-008",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-T-008",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "In a testing laboratory, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
-    "audio_prompt": "In a testing laboratory, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which is an example of peer critique?",
+    "audio_prompt": "Which is an example of peer critique?",
+    "audioPrompt": "Which is an example of peer critique?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-008",
-      "alt_text": "In a testing laboratory: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "A student says the title looks boring",
         "is_correct": false
       },
       {
-        "text": "others can inspect the evidence and repeat the work",
+        "text": "A group hides the raw data",
+        "is_correct": false
+      },
+      {
+        "text": "A speaker changes values for drama",
+        "is_correct": false
+      },
+      {
+        "text": "A reviewer asks whether the conclusion overclaims the data",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A student says the title looks boring",
+      "A group hides the raw data",
+      "A speaker changes values for drama",
+      "A reviewer asks whether the conclusion overclaims the data"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Peer critique checks evidence and reasoning.",
+      "hint": "Overclaim check."
+    },
+    "structuredExplanation": {
+      "summary": "Peer critique checks evidence and reasoning.",
+      "hint": "Overclaim check."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-T-009",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "test",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why is “new evidence makes old work worthless” a misconception?",
+    "audio_prompt": "Why is “new evidence makes old work worthless” a misconception?",
+    "audioPrompt": "Why is “new evidence makes old work worthless” a misconception?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Revision deletes all learning",
+        "is_correct": false
+      },
+      {
+        "text": "Science should ignore history",
+        "is_correct": false
+      },
+      {
+        "text": "Older work may remain useful within limits",
         "is_correct": true
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "Old observations can never help",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Revision deletes all learning",
+      "Science should ignore history",
+      "Older work may remain useful within limits",
+      "Old observations can never help"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Older explanations can still be useful in some conditions.",
+      "hint": "Useful within scope."
+    },
+    "structuredExplanation": {
+      "summary": "Older explanations can still be useful in some conditions.",
+      "hint": "Useful within scope."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-T-010",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "test",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which contribution could most improve a water-cycle investigation?",
+    "audio_prompt": "Which contribution could most improve a water-cycle investigation?",
+    "audioPrompt": "Which contribution could most improve a water-cycle investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A hidden graph",
+        "is_correct": false
+      },
+      {
+        "text": "A sensor that records small humidity changes accurately",
+        "is_correct": true
+      },
+      {
+        "text": "A colourful border only",
+        "is_correct": false
+      },
+      {
+        "text": "A longer group name",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A hidden graph",
+      "A sensor that records small humidity changes accurately",
+      "A colourful border only",
+      "A longer group name"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
+      "summary": "A better instrument can improve measurement quality.",
+      "hint": "Precise tool."
+    },
+    "structuredExplanation": {
+      "summary": "A better instrument can improve measurement quality.",
+      "hint": "Precise tool."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-t-009",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-T-011",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "During a landscape study, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
-    "audio_prompt": "During a landscape study, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A claim is supported only by many people agreeing. What is missing?",
+    "audio_prompt": "A claim is supported only by many people agreeing. What is missing?",
+    "audioPrompt": "A claim is supported only by many people agreeing. What is missing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-009",
-      "alt_text": "During a landscape study: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "the model should be revised while useful parts may remain",
+        "text": "Evidence from observations or measurements",
         "is_correct": true
+      },
+      {
+        "text": "Popularity",
+        "is_correct": false
+      },
+      {
+        "text": "A stronger opinion",
+        "is_correct": false
+      },
+      {
+        "text": "A shorter sentence",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
-  },
-  {
-    "id": "ac9s5h01-t-010",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "At a conservation project, another team repeats the same method. What does this contribute to scientific knowledge?",
-    "audio_prompt": "At a conservation project, another team repeats the same method. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-010",
-      "alt_text": "At a conservation project: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": true
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "others can inspect the evidence and repeat the work",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Evidence from observations or measurements",
+      "Popularity",
+      "A stronger opinion",
+      "A shorter sentence"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
+      "summary": "Agreement alone is not scientific evidence.",
+      "hint": "Need data."
+    },
+    "structuredExplanation": {
+      "summary": "Agreement alone is not scientific evidence.",
+      "hint": "Need data."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-t-011",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-T-012",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "While auditing a results table, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
-    "audio_prompt": "While auditing a results table, scientists share methods and raw measurements. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which response to a surprising result is best?",
+    "audio_prompt": "Which response to a surprising result is best?",
+    "audioPrompt": "Which response to a surprising result is best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-011",
-      "alt_text": "While auditing a results table: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "Hide it immediately",
         "is_correct": false
       },
       {
-        "text": "others can inspect the evidence and repeat the work",
+        "text": "Change it to match the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "Say science cannot handle surprises",
+        "is_correct": false
+      },
+      {
+        "text": "Check the method, repeat if needed and consider the explanation",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Hide it immediately",
+      "Change it to match the prediction",
+      "Say science cannot handle surprises",
+      "Check the method, repeat if needed and consider the explanation"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Surprising results should be investigated.",
+      "hint": "Check evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Surprising results should be investigated.",
+      "hint": "Check evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-T-013",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "test",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A communicator explains why results changed after a method was improved. What should they include?",
+    "audio_prompt": "A communicator explains why results changed after a method was improved. What should they include?",
+    "audioPrompt": "A communicator explains why results changed after a method was improved. What should they include?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "No source details",
+        "is_correct": false
+      },
+      {
+        "text": "Changed values to sound simple",
+        "is_correct": false
+      },
+      {
+        "text": "Old evidence, new method, new evidence and the revised reasoning",
         "is_correct": true
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "Only the final answer",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "No source details",
+      "Changed values to sound simple",
+      "Old evidence, new method, new evidence and the revised reasoning",
+      "Only the final answer"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Good communication makes the revision transparent.",
+      "hint": "Show what changed."
+    },
+    "structuredExplanation": {
+      "summary": "Good communication makes the revision transparent.",
+      "hint": "Show what changed."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S5H01-T-014",
+    "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
+    "bank": "test",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which sentence uses evidence-based consensus correctly?",
+    "audio_prompt": "Which sentence uses evidence-based consensus correctly?",
+    "audioPrompt": "Which sentence uses evidence-based consensus correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Scientists accept it because it is oldest",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists accept the explanation because many reliable studies support it",
+        "is_correct": true
+      },
+      {
+        "text": "Scientists accept it because it is popular online",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists accept it because no one checked it",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Scientists accept it because it is oldest",
+      "Scientists accept the explanation because many reliable studies support it",
+      "Scientists accept it because it is popular online",
+      "Scientists accept it because no one checked it"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
+      "summary": "Consensus is strongest when based on reliable evidence.",
+      "hint": "Evidence-based agreement."
+    },
+    "structuredExplanation": {
+      "summary": "Consensus is strongest when based on reliable evidence.",
+      "hint": "Evidence-based agreement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-t-012",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-T-015",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "In a design evaluation, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
-    "audio_prompt": "In a design evaluation, new evidence conflicts with one part of a model. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A team repeats a study and gets a similar pattern but not identical numbers. What is fair to say?",
+    "audio_prompt": "A team repeats a study and gets a similar pattern but not identical numbers. What is fair to say?",
+    "audioPrompt": "A team repeats a study and gets a similar pattern but not identical numbers. What is fair to say?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-012",
-      "alt_text": "In a design evaluation: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      },
-      {
-        "text": "the model should be revised while useful parts may remain",
+        "text": "The pattern may support the finding despite normal variation",
         "is_correct": true
+      },
+      {
+        "text": "Replication failed because every number differs",
+        "is_correct": false
+      },
+      {
+        "text": "All data must be deleted",
+        "is_correct": false
+      },
+      {
+        "text": "Variation means no method was used",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
-  },
-  {
-    "id": "ac9s5h01-t-013",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "During a mountain field study, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "audio_prompt": "During a mountain field study, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-013",
-      "alt_text": "During a mountain field study: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": true
-      },
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "others can inspect the evidence and repeat the work",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "The pattern may support the finding despite normal variation",
+      "Replication failed because every number differs",
+      "All data must be deleted",
+      "Variation means no method was used"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
+      "summary": "Replication can support patterns without exact identical values.",
+      "hint": "Similar pattern."
+    },
+    "structuredExplanation": {
+      "summary": "Replication can support patterns without exact identical values.",
+      "hint": "Similar pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "ac9s5h01-t-014",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
+    "id": "AC9S5H01-T-016",
     "subject": "science",
+    "year_level": "Year 5",
+    "curriculum_code": "AC9S5H01",
+    "curriculumCode": "AC9S5H01",
     "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "At a public science forum, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
-    "audio_prompt": "At a public science forum, reviewers point out an uncontrolled variable. What does this contribute to scientific knowledge?",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which action best helps science self-correct?",
+    "audio_prompt": "Which action best helps science self-correct?",
+    "audioPrompt": "Which action best helps science self-correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-014",
-      "alt_text": "At a public science forum: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "replication tests whether the finding occurs again",
+        "text": "Keeping results private",
         "is_correct": false
       },
       {
-        "text": "critique can identify a weakness in the method",
-        "is_correct": true
-      },
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
-  },
-  {
-    "id": "ac9s5h01-t-015",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "While reviewing a new procedure, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
-    "audio_prompt": "While reviewing a new procedure, experts from different fields analyse one problem. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-015",
-      "alt_text": "While reviewing a new procedure: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "replication tests whether the finding occurs again",
+        "text": "Choosing conclusions by authority alone",
         "is_correct": false
       },
       {
-        "text": "new technology can extend observations and refine explanations",
+        "text": "Avoiding new evidence",
         "is_correct": false
       },
       {
-        "text": "different expertise can add methods and interpretations",
+        "text": "Publishing methods and evidence so others can critique and replicate",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
-  },
-  {
-    "id": "ac9s5h01-t-016",
-    "curriculum_code": "AC9S5H01",
-    "year_level": "Year 5",
-    "subject": "science",
-    "bank": "test",
-    "skill": "develop_scientific_knowledge",
-    "question": "In a multimedia science presentation, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "audio_prompt": "In a multimedia science presentation, a new microscope reveals smaller structures. What does this contribute to scientific knowledge?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h01.svg#ac9s5h01-t-016",
-      "alt_text": "In a multimedia science presentation: develop scientific knowledge, shown as a three-step evidence reasoning pathway."
-    },
-    "answers": [
-      {
-        "text": "new technology can extend observations and refine explanations",
-        "is_correct": true
-      },
-      {
-        "text": "replication tests whether the finding occurs again",
-        "is_correct": false
-      },
-      {
-        "text": "others can inspect the evidence and repeat the work",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Keeping results private",
+      "Choosing conclusions by authority alone",
+      "Avoiding new evidence",
+      "Publishing methods and evidence so others can critique and replicate"
     ],
-    "correct_index": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Scientific knowledge develops through transparent evidence, checking, collaboration and revision.",
-      "hint": "Choose the contribution directly supported by the event."
-    }
+      "summary": "Transparency, critique and replication help science improve.",
+      "hint": "Open to checking."
+    },
+    "structuredExplanation": {
+      "summary": "Transparency, critique and replication help science improve.",
+      "hint": "Open to checking."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]

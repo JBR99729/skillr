@@ -4,466 +4,512 @@ window.skillrTestQuestions = [
     "id": "ac9s5h02-t-001",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "use science in a decision",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "During a desert field study, a community is considering introducing solar lighting. Which evidence plan is most useful?",
-    "audioPrompt": "During a desert field study, a community is considering introducing solar lighting. Which evidence plan is most useful?",
-    "visual": "During a desert field study: use science in a decision, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a desert field study: use science in a decision, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-001\"></use></svg>",
+    "question": "Which statement best separates evidence and values?",
+    "audioPrompt": "Which statement best separates evidence and values?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-001",
-      "alt_text": "During a desert field study: use science in a decision, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "compare energy saved, battery life and effects of night lighting",
-      "choose the most popular option without measurements",
-      "measure only one short-term benefit"
+      "Evidence is only a preference",
+      "Values remove all need for data",
+      "Evidence shows likely effects; values help decide which effects matter most",
+      "Values are the same as temperature readings"
     ],
-    "correct": 0,
-    "explanation": "Useful decisions compare relevant benefits, risks and effects over a suitable time.\nHint: Identify criteria, gather evidence for each and include affected groups.",
+    "correct": 2,
+    "explanation": "Decisions combine evidence with priorities.\nHint: Facts and priorities.",
     "structuredExplanation": {
-      "summary": "Useful decisions compare relevant benefits, risks and effects over a suitable time.",
-      "hint": "Identify criteria, gather evidence for each and include affected groups."
+      "summary": "Decisions combine evidence with priorities.",
+      "hint": "Facts and priorities."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-002",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "evaluate consequences",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "At a marine research centre, which evaluation of using a new pest-control method is most balanced?",
-    "audioPrompt": "At a marine research centre, which evaluation of using a new pest-control method is most balanced?",
-    "visual": "At a marine research centre: evaluate consequences, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a marine research centre: evaluate consequences, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-002\"></use></svg>",
+    "question": "A wetland boardwalk protects plants but limits wheelchair access. What kind of issue must be considered?",
+    "audioPrompt": "A wetland boardwalk protects plants but limits wheelchair access. What kind of issue must be considered?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-002",
-      "alt_text": "At a marine research centre: evaluate consequences, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "it will solve every related problem",
-      "may protect crops but could harm other organisms",
-      "there can be no unintended effects"
+      "No stakeholder issue",
+      "Ethical and access implications",
+      "Only graph colour",
+      "Only refraction"
     ],
     "correct": 1,
-    "explanation": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.\nHint: Avoid guaranteed claims; identify what should be monitored.",
+    "explanation": "Fair access is an ethical consideration.\nHint: Equity.",
     "structuredExplanation": {
-      "summary": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.",
-      "hint": "Avoid guaranteed claims; identify what should be monitored."
+      "summary": "Fair access is an ethical consideration.",
+      "hint": "Equity."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-003",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "use science in a decision",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "While examining a riverbank, a community is considering choosing reusable containers for a canteen. Which evidence plan is most useful?",
-    "audioPrompt": "While examining a riverbank, a community is considering choosing reusable containers for a canteen. Which evidence plan is most useful?",
-    "visual": "While examining a riverbank: use science in a decision, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While examining a riverbank: use science in a decision, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-003\"></use></svg>",
+    "question": "A new irrigation system saves water but costs more upfront. What does this show?",
+    "audioPrompt": "A new irrigation system saves water but costs more upfront. What does this show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-003",
-      "alt_text": "While examining a riverbank: use science in a decision, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "choose the most popular option without measurements",
-      "measure only one short-term benefit",
-      "compare full life-cycle waste, energy and cleaning needs"
+      "A trade-off between water savings and cost",
+      "A reason to ignore evidence",
+      "A guaranteed perfect solution",
+      "An environmental effect only on paper"
     ],
-    "correct": 2,
-    "explanation": "Useful decisions compare relevant benefits, risks and effects over a suitable time.\nHint: Identify criteria, gather evidence for each and include affected groups.",
+    "correct": 0,
+    "explanation": "The decision balances benefits and costs.\nHint: Benefit and cost.",
     "structuredExplanation": {
-      "summary": "Useful decisions compare relevant benefits, risks and effects over a suitable time.",
-      "hint": "Identify criteria, gather evidence for each and include affected groups."
+      "summary": "The decision balances benefits and costs.",
+      "hint": "Benefit and cost."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-004",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "evaluate consequences",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "In an independent investigation, which evaluation of introducing solar lighting is most balanced?",
-    "audioPrompt": "In an independent investigation, which evaluation of introducing solar lighting is most balanced?",
-    "visual": "In an independent investigation: evaluate consequences, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an independent investigation: evaluate consequences, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-004\"></use></svg>",
+    "question": "Which stakeholder is affected by a creek pollution decision?",
+    "audioPrompt": "Which stakeholder is affected by a creek pollution decision?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-004",
-      "alt_text": "In an independent investigation: evaluate consequences, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "may reduce grid use but creates battery and ecological trade-offs",
-      "it will solve every related problem",
-      "there can be no unintended effects"
+      "Only the meeting chair",
+      "Only the printer",
+      "No one outside the classroom",
+      "Downstream communities and aquatic organisms"
     ],
-    "correct": 0,
-    "explanation": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.\nHint: Avoid guaranteed claims; identify what should be monitored.",
+    "correct": 3,
+    "explanation": "Stakeholders include people and ecosystems affected downstream.\nHint: Affected groups.",
     "structuredExplanation": {
-      "summary": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.",
-      "hint": "Avoid guaranteed claims; identify what should be monitored."
+      "summary": "Stakeholders include people and ecosystems affected downstream.",
+      "hint": "Affected groups."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-005",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "use science in a decision",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "During a forest survey, a community is considering using a new pest-control method. Which evidence plan is most useful?",
-    "audioPrompt": "During a forest survey, a community is considering using a new pest-control method. Which evidence plan is most useful?",
-    "visual": "During a forest survey: use science in a decision, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a forest survey: use science in a decision, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-005\"></use></svg>",
+    "question": "Why monitor after introducing a biological pest control?",
+    "audioPrompt": "Why monitor after introducing a biological pest control?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-005",
-      "alt_text": "During a forest survey: use science in a decision, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "choose the most popular option without measurements",
-      "compare pest reduction with effects on non-target species",
-      "measure only one short-term benefit"
+      "Monitoring changes facts",
+      "Pests are not living things",
+      "It may have unintended effects on other species",
+      "Good intentions guarantee no harm"
     ],
-    "correct": 1,
-    "explanation": "Useful decisions compare relevant benefits, risks and effects over a suitable time.\nHint: Identify criteria, gather evidence for each and include affected groups.",
+    "correct": 2,
+    "explanation": "Ecological solutions can have side effects.\nHint: Check impacts.",
     "structuredExplanation": {
-      "summary": "Useful decisions compare relevant benefits, risks and effects over a suitable time.",
-      "hint": "Identify criteria, gather evidence for each and include affected groups."
+      "summary": "Ecological solutions can have side effects.",
+      "hint": "Check impacts."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-006",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "evaluate consequences",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "At a regional science exhibition, which evaluation of choosing reusable containers for a canteen is most balanced?",
-    "audioPrompt": "At a regional science exhibition, which evaluation of choosing reusable containers for a canteen is most balanced?",
-    "visual": "At a regional science exhibition: evaluate consequences, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional science exhibition: evaluate consequences, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-006\"></use></svg>",
+    "question": "Which evidence best supports a shade-sail decision?",
+    "audioPrompt": "Which evidence best supports a shade-sail decision?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-006",
-      "alt_text": "At a regional science exhibition: evaluate consequences, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "it will solve every related problem",
-      "there can be no unintended effects",
-      "may reduce single-use waste but uses washing resources"
+      "The longest product name",
+      "Repeated temperature readings from shaded and unshaded seats",
+      "A colourful design sketch only",
+      "A vote on favourite colours"
     ],
-    "correct": 2,
-    "explanation": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.\nHint: Avoid guaranteed claims; identify what should be monitored.",
+    "correct": 1,
+    "explanation": "Temperature data tests whether shade reduces heat.\nHint: Measure effect.",
     "structuredExplanation": {
-      "summary": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.",
-      "hint": "Avoid guaranteed claims; identify what should be monitored."
+      "summary": "Temperature data tests whether shade reduces heat.",
+      "hint": "Measure effect."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-007",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "use science in a decision",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "While analysing unfamiliar evidence, a community is considering installing wildlife crossings near a road. Which evidence plan is most useful?",
-    "audioPrompt": "While analysing unfamiliar evidence, a community is considering installing wildlife crossings near a road. Which evidence plan is most useful?",
-    "visual": "While analysing unfamiliar evidence: use science in a decision, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While analysing unfamiliar evidence: use science in a decision, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-007\"></use></svg>",
+    "question": "A road drain sends sediment into a creek after storms. What kind of impact is this?",
+    "audioPrompt": "A road drain sends sediment into a creek after storms. What kind of impact is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-007",
-      "alt_text": "While analysing unfamiliar evidence: use science in a decision, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "monitor animal use and collision numbers before and after installation",
-      "choose the most popular option without measurements",
-      "measure only one short-term benefit"
+      "An environmental implication",
+      "A report is printed in black ink",
+      "A meeting has an agenda",
+      "A name tag falls off"
     ],
     "correct": 0,
-    "explanation": "Useful decisions compare relevant benefits, risks and effects over a suitable time.\nHint: Identify criteria, gather evidence for each and include affected groups.",
+    "explanation": "Sediment entering a creek affects the environment.\nHint: Ecosystem impact.",
     "structuredExplanation": {
-      "summary": "Useful decisions compare relevant benefits, risks and effects over a suitable time.",
-      "hint": "Identify criteria, gather evidence for each and include affected groups."
+      "summary": "Sediment entering a creek affects the environment.",
+      "hint": "Ecosystem impact."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-008",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "evaluate consequences",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "In a testing laboratory, which evaluation of adding shade trees to a playground is most balanced?",
-    "audioPrompt": "In a testing laboratory, which evaluation of adding shade trees to a playground is most balanced?",
-    "visual": "In a testing laboratory: evaluate consequences, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a testing laboratory: evaluate consequences, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-008\"></use></svg>",
+    "question": "A safety solution benefits one area but increases risk for another group. What kind of issue is this?",
+    "audioPrompt": "A safety solution benefits one area but increases risk for another group. What kind of issue is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-008",
-      "alt_text": "In a testing laboratory: evaluate consequences, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "it will solve every related problem",
-      "may reduce heat but requires water and maintenance",
-      "there can be no unintended effects"
+      "A table uses centimetres",
+      "A graph has bars",
+      "A timer is digital",
+      "An ethical implication"
     ],
-    "correct": 1,
-    "explanation": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.\nHint: Avoid guaranteed claims; identify what should be monitored.",
+    "correct": 3,
+    "explanation": "Unequal benefit and risk raises fairness concerns.\nHint: Fairness.",
     "structuredExplanation": {
-      "summary": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.",
-      "hint": "Avoid guaranteed claims; identify what should be monitored."
+      "summary": "Unequal benefit and risk raises fairness concerns.",
+      "hint": "Fairness."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-009",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "use science in a decision",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "During a landscape study, a community is considering restoring vegetation beside a creek. Which evidence plan is most useful?",
-    "audioPrompt": "During a landscape study, a community is considering restoring vegetation beside a creek. Which evidence plan is most useful?",
-    "visual": "During a landscape study: use science in a decision, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a landscape study: use science in a decision, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-009\"></use></svg>",
+    "question": "A recommendation says “choose the cheapest option” with no other criteria. What is weak?",
+    "audioPrompt": "A recommendation says “choose the cheapest option” with no other criteria. What is weak?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-009",
-      "alt_text": "During a landscape study: use science in a decision, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "choose the most popular option without measurements",
-      "measure only one short-term benefit",
-      "track bank stability, water quality and habitat over time"
+      "It states uncertainty clearly",
+      "It monitors side effects",
+      "It ignores performance, impacts and affected groups",
+      "It uses too much evidence"
     ],
     "correct": 2,
-    "explanation": "Useful decisions compare relevant benefits, risks and effects over a suitable time.\nHint: Identify criteria, gather evidence for each and include affected groups.",
+    "explanation": "Cost alone is not enough for a responsible decision.\nHint: Other criteria.",
     "structuredExplanation": {
-      "summary": "Useful decisions compare relevant benefits, risks and effects over a suitable time.",
-      "hint": "Identify criteria, gather evidence for each and include affected groups."
+      "summary": "Cost alone is not enough for a responsible decision.",
+      "hint": "Other criteria."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-010",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "evaluate consequences",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "At a conservation project, which evaluation of installing wildlife crossings near a road is most balanced?",
-    "audioPrompt": "At a conservation project, which evaluation of installing wildlife crossings near a road is most balanced?",
-    "visual": "At a conservation project: evaluate consequences, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a conservation project: evaluate consequences, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-010\"></use></svg>",
+    "question": "Which impact cycle is responsible?",
+    "audioPrompt": "Which impact cycle is responsible?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-010",
-      "alt_text": "At a conservation project: evaluate consequences, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "may improve movement but needs monitoring for location and effectiveness",
-      "it will solve every related problem",
-      "there can be no unintended effects"
+      "Choose by popularity and ignore data",
+      "Implement, monitor, identify side effects, adapt and review evidence",
+      "Implement and never check again",
+      "Guess, hide, blame, stop"
     ],
-    "correct": 0,
-    "explanation": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.\nHint: Avoid guaranteed claims; identify what should be monitored.",
+    "correct": 1,
+    "explanation": "Responsible decision-making continues after implementation.\nHint: Monitor and adapt.",
     "structuredExplanation": {
-      "summary": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.",
-      "hint": "Avoid guaranteed claims; identify what should be monitored."
+      "summary": "Responsible decision-making continues after implementation.",
+      "hint": "Monitor and adapt."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-011",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "use science in a decision",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "While auditing a results table, a community is considering adding shade trees to a playground. Which evidence plan is most useful?",
-    "audioPrompt": "While auditing a results table, a community is considering adding shade trees to a playground. Which evidence plan is most useful?",
-    "visual": "While auditing a results table: use science in a decision, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While auditing a results table: use science in a decision, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-011\"></use></svg>",
+    "question": "A farmer uses netting to protect fruit, but birds become trapped. What should be considered?",
+    "audioPrompt": "A farmer uses netting to protect fruit, but birds become trapped. What should be considered?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-011",
-      "alt_text": "While auditing a results table: use science in a decision, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "choose the most popular option without measurements",
-      "measure temperature, water needs and use across seasons",
-      "measure only one short-term benefit"
+      "Redesigning or managing netting to reduce harm while protecting crops",
+      "Ignoring trapped birds",
+      "Using more dangerous netting",
+      "Claiming there is no environmental issue"
     ],
-    "correct": 1,
-    "explanation": "Useful decisions compare relevant benefits, risks and effects over a suitable time.\nHint: Identify criteria, gather evidence for each and include affected groups.",
+    "correct": 0,
+    "explanation": "The solution has an unintended harm that should be addressed.\nHint: Side effect.",
     "structuredExplanation": {
-      "summary": "Useful decisions compare relevant benefits, risks and effects over a suitable time.",
-      "hint": "Identify criteria, gather evidence for each and include affected groups."
+      "summary": "The solution has an unintended harm that should be addressed.",
+      "hint": "Side effect."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-012",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "evaluate consequences",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "In a design evaluation, which evaluation of restoring vegetation beside a creek is most balanced?",
-    "audioPrompt": "In a design evaluation, which evaluation of restoring vegetation beside a creek is most balanced?",
-    "visual": "In a design evaluation: evaluate consequences, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design evaluation: evaluate consequences, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-012\"></use></svg>",
+    "question": "Why can two towns make different water restrictions using similar data?",
+    "audioPrompt": "Why can two towns make different water restrictions using similar data?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-012",
-      "alt_text": "In a design evaluation: evaluate consequences, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "it will solve every related problem",
-      "there can be no unintended effects",
-      "may reduce erosion but outcomes depend on species and conditions"
+      "One town must be unscientific",
+      "Data cannot inform restrictions",
+      "Values are illegal in decisions",
+      "They may have different storage, needs, risks and values"
     ],
-    "correct": 2,
-    "explanation": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.\nHint: Avoid guaranteed claims; identify what should be monitored.",
+    "correct": 3,
+    "explanation": "Local conditions and priorities can change decisions.\nHint: Context matters.",
     "structuredExplanation": {
-      "summary": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.",
-      "hint": "Avoid guaranteed claims; identify what should be monitored."
+      "summary": "Local conditions and priorities can change decisions.",
+      "hint": "Context matters."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-013",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "use science in a decision",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "During a mountain field study, a community is considering using a new pest-control method. Which evidence plan is most useful?",
-    "audioPrompt": "During a mountain field study, a community is considering using a new pest-control method. Which evidence plan is most useful?",
-    "visual": "During a mountain field study: use science in a decision, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a mountain field study: use science in a decision, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-013\"></use></svg>",
+    "question": "Which wording best states uncertainty?",
+    "audioPrompt": "Which wording best states uncertainty?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-013",
-      "alt_text": "During a mountain field study: use science in a decision, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "compare pest reduction with effects on non-target species",
-      "choose the most popular option without measurements",
-      "measure only one short-term benefit"
+      "The evidence proves every future storm",
+      "No more data could help",
+      "This option is likely to reduce erosion here, but longer monitoring is needed",
+      "This option cannot fail anywhere"
     ],
-    "correct": 0,
-    "explanation": "Useful decisions compare relevant benefits, risks and effects over a suitable time.\nHint: Identify criteria, gather evidence for each and include affected groups.",
+    "correct": 2,
+    "explanation": "The wording uses evidence while noting limits.\nHint: Cautious claim.",
     "structuredExplanation": {
-      "summary": "Useful decisions compare relevant benefits, risks and effects over a suitable time.",
-      "hint": "Identify criteria, gather evidence for each and include affected groups."
+      "summary": "The wording uses evidence while noting limits.",
+      "hint": "Cautious claim."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-014",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "evaluate consequences",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "At a public science forum, which evaluation of choosing reusable containers for a canteen is most balanced?",
-    "audioPrompt": "At a public science forum, which evaluation of choosing reusable containers for a canteen is most balanced?",
-    "visual": "At a public science forum: evaluate consequences, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a public science forum: evaluate consequences, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-014\"></use></svg>",
+    "question": "A class evaluates three lunchbox materials. Which factor is not purely scientific evidence?",
+    "audioPrompt": "A class evaluates three lunchbox materials. Which factor is not purely scientific evidence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-014",
-      "alt_text": "At a public science forum: evaluate consequences, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "it will solve every related problem",
-      "may reduce single-use waste but uses washing resources",
-      "there can be no unintended effects"
+      "Temperature readings",
+      "How much the school values low waste compared with low cost",
+      "Leak-test results",
+      "Mass measurements"
     ],
     "correct": 1,
-    "explanation": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.\nHint: Avoid guaranteed claims; identify what should be monitored.",
+    "explanation": "Priority weighting is a value judgement.\nHint: Value choice.",
     "structuredExplanation": {
-      "summary": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.",
-      "hint": "Avoid guaranteed claims; identify what should be monitored."
+      "summary": "Priority weighting is a value judgement.",
+      "hint": "Value choice."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-015",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "use science in a decision",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "While reviewing a new procedure, a community is considering introducing solar lighting. Which evidence plan is most useful?",
-    "audioPrompt": "While reviewing a new procedure, a community is considering introducing solar lighting. Which evidence plan is most useful?",
-    "visual": "While reviewing a new procedure: use science in a decision, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reviewing a new procedure: use science in a decision, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-015\"></use></svg>",
+    "question": "Which question helps identify unintended consequences?",
+    "audioPrompt": "Which question helps identify unintended consequences?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-015",
-      "alt_text": "While reviewing a new procedure: use science in a decision, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "choose the most popular option without measurements",
-      "measure only one short-term benefit",
-      "compare energy saved, battery life and effects of night lighting"
+      "Who or what could be affected besides the main target?",
+      "Which option has the brightest label?",
+      "Can we ignore future results?",
+      "How do we hide uncertainty?"
     ],
-    "correct": 2,
-    "explanation": "Useful decisions compare relevant benefits, risks and effects over a suitable time.\nHint: Identify criteria, gather evidence for each and include affected groups.",
+    "correct": 0,
+    "explanation": "Side-effect thinking looks beyond the main goal.\nHint: Affected beyond target.",
     "structuredExplanation": {
-      "summary": "Useful decisions compare relevant benefits, risks and effects over a suitable time.",
-      "hint": "Identify criteria, gather evidence for each and include affected groups."
+      "summary": "Side-effect thinking looks beyond the main goal.",
+      "hint": "Affected beyond target."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s5h02-t-016",
     "curriculumCode": "AC9S5H02",
     "bank": "test",
-    "skill": "evaluate consequences",
+    "skill": "science decisions and unintended consequences",
     "printable": true,
     "type": "single",
-    "question": "In a multimedia science presentation, which evaluation of using a new pest-control method is most balanced?",
-    "audioPrompt": "In a multimedia science presentation, which evaluation of using a new pest-control method is most balanced?",
-    "visual": "In a multimedia science presentation: evaluate consequences, shown as a three-step decision reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a multimedia science presentation: evaluate consequences, shown as a three-step decision reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-016\"></use></svg>",
+    "question": "Which conclusion is strongest?",
+    "audioPrompt": "Which conclusion is strongest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5h02.svg#ac9s5h02-t-016",
-      "alt_text": "In a multimedia science presentation: evaluate consequences, shown as a three-step decision reasoning pathway."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "may protect crops but could harm other organisms",
-      "it will solve every related problem",
-      "there can be no unintended effects"
+      "Planting is perfect forever",
+      "The cheapest option must win",
+      "Science gives no useful information",
+      "The planting option reduced runoff in trials and supports habitat goals, but maintenance and long-term monitoring are needed"
     ],
-    "correct": 0,
-    "explanation": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.\nHint: Avoid guaranteed claims; identify what should be monitored.",
+    "correct": 3,
+    "explanation": "The conclusion balances evidence, values, constraints and uncertainty.\nHint: Balanced recommendation.",
     "structuredExplanation": {
-      "summary": "A balanced evaluation recognises the main benefit and plausible limitations or consequences.",
-      "hint": "Avoid guaranteed claims; identify what should be monitored."
+      "summary": "The conclusion balances evidence, values, constraints and uncertainty.",
+      "hint": "Balanced recommendation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

@@ -2,699 +2,762 @@
 window.skillrPracticeQuestions = [
   {
     "id": "ac9s5i04-p-001",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "During a habitat survey, students need to represent mean result for each tested material. Which representation is most appropriate?",
-    "audioPrompt": "During a habitat survey, students need to represent mean result for each tested material. Which representation is most appropriate?",
-    "visual": "During a habitat survey: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a habitat survey: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-001",
-      "alt_text": "During a habitat survey: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students build a table for plant height. What is the best representation choice?",
     "answers": [
-      "column graph",
-      "line graph",
-      "data table"
+      "Choose a table, graph or model that matches the data",
+      "Look for patterns and relationships in the evidence",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
     "correct": 0,
-    "explanation": "A column graph compares numerical responses across material categories.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A column graph compares numerical responses across material categories.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Choose a table, graph or model that matches the data."
   },
   {
     "id": "ac9s5i04-p-002",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "At the school science table, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "At the school science table, which conclusion from a graph is appropriately limited?",
-    "visual": "At the school science table: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school science table: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-002",
-      "alt_text": "At the school science table: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A group turns temperature readings into a graph. What is the best representation choice?",
     "answers": [
-      "the graph proves the pattern is universal",
-      "Under the tested conditions, the measured response changed with the selected variable",
-      "the graph alone proves the complete mechanism"
+      "Look for patterns and relationships in the evidence",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Choose a table, graph or model that matches the data"
     ],
-    "correct": 1,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Choose a table, graph or model that matches the data."
   },
   {
     "id": "ac9s5i04-p-003",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "While examining a creek, students need to represent stages of erosion and deposition. Which representation is most appropriate?",
-    "audioPrompt": "While examining a creek, students need to represent stages of erosion and deposition. Which representation is most appropriate?",
-    "visual": "While examining a creek: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While examining a creek: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-003",
-      "alt_text": "While examining a creek: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students choose a model for the water cycle. What is the best representation choice?",
     "answers": [
-      "line graph",
-      "column graph",
-      "flow diagram"
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Choose a table, graph or model that matches the data",
+      "Look for patterns and relationships in the evidence"
     ],
     "correct": 2,
-    "explanation": "A flow diagram shows an ordered process.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A flow diagram shows an ordered process.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Choose a table, graph or model that matches the data."
   },
   {
     "id": "ac9s5i04-p-004",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "In a classroom investigation, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "In a classroom investigation, which conclusion from a graph is appropriately limited?",
-    "visual": "In a classroom investigation: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a classroom investigation: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-004",
-      "alt_text": "In a classroom investigation: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A class graphs car distance against ramp height. What is the best representation choice?",
     "answers": [
-      "Under the tested conditions, the measured response changed with the selected variable",
-      "the graph proves the pattern is universal",
-      "the graph alone proves the complete mechanism"
+      "A guess with no evidence",
+      "Choose a table, graph or model that matches the data",
+      "Look for patterns and relationships in the evidence",
+      "The neatness of the poster"
     ],
-    "correct": 0,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Choose a table, graph or model that matches the data."
   },
   {
     "id": "ac9s5i04-p-005",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "During a garden observation, students need to represent counts for different habitat types. Which representation is most appropriate?",
-    "audioPrompt": "During a garden observation, students need to represent counts for different habitat types. Which representation is most appropriate?",
-    "visual": "During a garden observation: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a garden observation: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-005",
-      "alt_text": "During a garden observation: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students compare maps of erosion on a tray. What is the best representation choice?",
     "answers": [
-      "line graph",
-      "column graph",
-      "data table"
+      "Choose a table, graph or model that matches the data",
+      "Look for patterns and relationships in the evidence",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
-    "correct": 1,
-    "explanation": "A column graph supports comparison among categories.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A column graph supports comparison among categories.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Choose a table, graph or model that matches the data."
   },
   {
     "id": "ac9s5i04-p-006",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "At the coastal field station, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "At the coastal field station, which conclusion from a graph is appropriately limited?",
-    "visual": "At the coastal field station: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the coastal field station: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-006",
-      "alt_text": "At the coastal field station: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A group sorts observations from measurements. What is the best representation choice?",
     "answers": [
-      "the graph proves the pattern is universal",
-      "the graph alone proves the complete mechanism",
-      "Under the tested conditions, the measured response changed with the selected variable"
+      "Look for patterns and relationships in the evidence",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Choose a table, graph or model that matches the data"
     ],
-    "correct": 2,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Choose a table, graph or model that matches the data."
   },
   {
     "id": "ac9s5i04-p-007",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "While comparing samples, students need to represent temperature measured every minute. Which representation is most appropriate?",
-    "audioPrompt": "While comparing samples, students need to represent temperature measured every minute. Which representation is most appropriate?",
-    "visual": "While comparing samples: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While comparing samples: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-007",
-      "alt_text": "While comparing samples: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students look for a pattern in daily temperatures. What is the best representation choice?",
     "answers": [
-      "line graph",
-      "column graph",
-      "data table"
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Choose a table, graph or model that matches the data",
+      "Look for patterns and relationships in the evidence"
     ],
-    "correct": 0,
-    "explanation": "A line graph shows change over ordered time.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A line graph shows change over ordered time.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Choose a table, graph or model that matches the data."
   },
   {
     "id": "ac9s5i04-p-008",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "In the school laboratory, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "In the school laboratory, which conclusion from a graph is appropriately limited?",
-    "visual": "In the school laboratory: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school laboratory: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-008",
-      "alt_text": "In the school laboratory: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A class identifies an outlier in dissolving times. What is the best representation choice?",
     "answers": [
-      "the graph proves the pattern is universal",
-      "Under the tested conditions, the measured response changed with the selected variable",
-      "the graph alone proves the complete mechanism"
+      "A guess with no evidence",
+      "Choose a table, graph or model that matches the data",
+      "Look for patterns and relationships in the evidence",
+      "The neatness of the poster"
     ],
     "correct": 1,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Choose a table, graph or model that matches the data."
   },
   {
     "id": "ac9s5i04-p-009",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "During a weather study, students need to represent particle arrangements in three states. Which representation is most appropriate?",
-    "audioPrompt": "During a weather study, students need to represent particle arrangements in three states. Which representation is most appropriate?",
-    "visual": "During a weather study: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a weather study: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-009",
-      "alt_text": "During a weather study: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students compare bar graphs of bird counts. What is the best representation choice?",
     "answers": [
-      "line graph",
-      "column graph",
-      "labelled visual model"
+      "Choose a table, graph or model that matches the data",
+      "Look for patterns and relationships in the evidence",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
-    "correct": 2,
-    "explanation": "A labelled visual model shows spacing and movement ideas.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A labelled visual model shows spacing and movement ideas.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Choose a table, graph or model that matches the data."
   },
   {
     "id": "ac9s5i04-p-010",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "At the wildlife centre, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "At the wildlife centre, which conclusion from a graph is appropriately limited?",
-    "visual": "At the wildlife centre: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the wildlife centre: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-010",
-      "alt_text": "At the wildlife centre: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A group calculates average seedling height. What is the best representation choice?",
     "answers": [
-      "Under the tested conditions, the measured response changed with the selected variable",
-      "the graph proves the pattern is universal",
-      "the graph alone proves the complete mechanism"
+      "Look for patterns and relationships in the evidence",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Choose a table, graph or model that matches the data"
     ],
-    "correct": 0,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Choose a table, graph or model that matches the data."
   },
   {
     "id": "ac9s5i04-p-011",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "While reviewing a data table, students need to represent exact repeated measurements. Which representation is most appropriate?",
-    "audioPrompt": "While reviewing a data table, students need to represent exact repeated measurements. Which representation is most appropriate?",
-    "visual": "While reviewing a data table: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reviewing a data table: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-011",
-      "alt_text": "While reviewing a data table: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students compare two groups magnet results. Why does this step matter?",
     "answers": [
-      "line graph",
-      "data table",
-      "column graph"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
-    "correct": 1,
-    "explanation": "A data table preserves values and trial labels.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A data table preserves values and trial labels.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i04-p-012",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "In a materials investigation, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "In a materials investigation, which conclusion from a graph is appropriately limited?",
-    "visual": "In a materials investigation: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a materials investigation: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-012",
-      "alt_text": "In a materials investigation: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A class checks whether a conclusion matches data. Why does this step matter?",
     "answers": [
-      "the graph proves the pattern is universal",
-      "the graph alone proves the complete mechanism",
-      "Under the tested conditions, the measured response changed with the selected variable"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
-    "correct": 2,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i04-p-013",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "During an outdoor observation, students need to represent counts for different habitat types. Which representation is most appropriate?",
-    "audioPrompt": "During an outdoor observation, students need to represent counts for different habitat types. Which representation is most appropriate?",
-    "visual": "During an outdoor observation: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During an outdoor observation: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-013",
-      "alt_text": "During an outdoor observation: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students find a likely source of measuring error. Why does this step matter?",
     "answers": [
-      "column graph",
-      "line graph",
-      "data table"
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right"
     ],
     "correct": 0,
-    "explanation": "A column graph supports comparison among categories.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A column graph supports comparison among categories.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i04-p-014",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "At the community science fair, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "At the community science fair, which conclusion from a graph is appropriately limited?",
-    "visual": "At the community science fair: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the community science fair: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-014",
-      "alt_text": "At the community science fair: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A group repeats a trial after a spill. Why does this step matter?",
     "answers": [
-      "the graph proves the pattern is universal",
-      "Under the tested conditions, the measured response changed with the selected variable",
-      "the graph alone proves the complete mechanism"
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question"
     ],
-    "correct": 1,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i04-p-015",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a fair test, students need to represent mean result for each tested material. Which representation is most appropriate?",
-    "audioPrompt": "While planning a fair test, students need to represent mean result for each tested material. Which representation is most appropriate?",
-    "visual": "While planning a fair test: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a fair test: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-015",
-      "alt_text": "While planning a fair test: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students compare claims about a new lunch container. Why does this step matter?",
     "answers": [
-      "line graph",
-      "data table",
-      "column graph"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
     "correct": 2,
-    "explanation": "A column graph compares numerical responses across material categories.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A column graph compares numerical responses across material categories.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i04-p-016",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "In a digital science journal, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "In a digital science journal, which conclusion from a graph is appropriately limited?",
-    "visual": "In a digital science journal: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a digital science journal: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-016",
-      "alt_text": "In a digital science journal: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A class decides whether results are close enough. Why does this step matter?",
     "answers": [
-      "Under the tested conditions, the measured response changed with the selected variable",
-      "the graph proves the pattern is universal",
-      "the graph alone proves the complete mechanism"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
-    "correct": 0,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i04-p-017",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "During a light investigation, students need to represent stages of erosion and deposition. Which representation is most appropriate?",
-    "audioPrompt": "During a light investigation, students need to represent stages of erosion and deposition. Which representation is most appropriate?",
-    "visual": "During a light investigation: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a light investigation: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-017",
-      "alt_text": "During a light investigation: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students inspect a graph with one unusual point. Why does this step matter?",
     "answers": [
-      "line graph",
-      "flow diagram",
-      "column graph"
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right"
     ],
-    "correct": 1,
-    "explanation": "A flow diagram shows an ordered process.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A flow diagram shows an ordered process.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i04-p-018",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "At the local wetland, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "At the local wetland, which conclusion from a graph is appropriately limited?",
-    "visual": "At the local wetland: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the local wetland: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-018",
-      "alt_text": "At the local wetland: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A group compares their method with another group. Why does this step matter?",
     "answers": [
-      "the graph proves the pattern is universal",
-      "the graph alone proves the complete mechanism",
-      "Under the tested conditions, the measured response changed with the selected variable"
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question"
     ],
-    "correct": 2,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i04-p-019",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "While checking another group's method, students need to represent exact repeated measurements. Which representation is most appropriate?",
-    "audioPrompt": "While checking another group's method, students need to represent exact repeated measurements. Which representation is most appropriate?",
-    "visual": "While checking another group's method: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While checking another group's method: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-019",
-      "alt_text": "While checking another group's method: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students decide what evidence is missing. Why does this step matter?",
     "answers": [
-      "data table",
-      "line graph",
-      "column graph"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
-    "correct": 0,
-    "explanation": "A data table preserves values and trial labels.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A data table preserves values and trial labels.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i04-p-020",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "In a model-building lesson, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "In a model-building lesson, which conclusion from a graph is appropriately limited?",
-    "visual": "In a model-building lesson: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a model-building lesson: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-020",
-      "alt_text": "In a model-building lesson: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A class writes a conclusion from three trials. Why does this step matter?",
     "answers": [
-      "the graph proves the pattern is universal",
-      "Under the tested conditions, the measured response changed with the selected variable",
-      "the graph alone proves the complete mechanism"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
     "correct": 1,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i04-p-021",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "During a temperature investigation, students need to represent temperature measured every minute. Which representation is most appropriate?",
-    "audioPrompt": "During a temperature investigation, students need to represent temperature measured every minute. Which representation is most appropriate?",
-    "visual": "During a temperature investigation: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a temperature investigation: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-021",
-      "alt_text": "During a temperature investigation: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students prepare a poster for younger students. Which option would weaken the evidence?",
     "answers": [
-      "column graph",
-      "data table",
-      "line graph"
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
     ],
-    "correct": 2,
-    "explanation": "A line graph shows change over ordered time.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A line graph shows change over ordered time.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i04-p-022",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "At the environmental centre, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "At the environmental centre, which conclusion from a graph is appropriately limited?",
-    "visual": "At the environmental centre: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the environmental centre: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-022",
-      "alt_text": "At the environmental centre: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A group writes a report about erosion. Which option would weaken the evidence?",
     "answers": [
-      "Under the tested conditions, the measured response changed with the selected variable",
-      "the graph proves the pattern is universal",
-      "the graph alone proves the complete mechanism"
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
     ],
-    "correct": 0,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i04-p-023",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "choose a representation",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing a science report, students need to represent particle arrangements in three states. Which representation is most appropriate?",
-    "audioPrompt": "While preparing a science report, students need to represent particle arrangements in three states. Which representation is most appropriate?",
-    "visual": "While preparing a science report: choose a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While preparing a science report: choose a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-023",
-      "alt_text": "While preparing a science report: choose a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "Students make a short video about light reflection. Which option would weaken the evidence?",
     "answers": [
-      "line graph",
-      "labelled visual model",
-      "column graph"
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement"
     ],
-    "correct": 1,
-    "explanation": "A labelled visual model shows spacing and movement ideas.\nHint: Match the representation to the variables and the relationship being examined.",
-    "structuredExplanation": {
-      "summary": "A labelled visual model shows spacing and movement ideas.",
-      "hint": "Match the representation to the variables and the relationship being examined."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i04-p-024",
-    "curriculumCode": "AC9S5I04",
-    "bank": "practice",
-    "skill": "interpret a representation",
-    "printable": true,
-    "type": "single",
-    "question": "In a research discussion, which conclusion from a graph is appropriately limited?",
-    "audioPrompt": "In a research discussion, which conclusion from a graph is appropriately limited?",
-    "visual": "In a research discussion: interpret a representation, shown as a three-step graph reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a research discussion: interpret a representation, shown as a three-step graph reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i04.svg#ac9s5i04-p-024",
-      "alt_text": "In a research discussion: interpret a representation, shown as a three-step graph reasoning pathway."
-    },
+    "skill": "representing and analysing scientific data",
+    "question": "A class labels a graph for families visiting school. Which option would weaken the evidence?",
     "answers": [
-      "the graph proves the pattern is universal",
-      "the graph alone proves the complete mechanism",
-      "Under the tested conditions, the measured response changed with the selected variable"
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i04-p-025",
+    "skill": "representing and analysing scientific data",
+    "question": "Students choose vocabulary for a compost investigation. Which option would weaken the evidence?",
+    "answers": [
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i04-p-026",
+    "skill": "representing and analysing scientific data",
+    "question": "A group explains safety steps in a method. Which option would weaken the evidence?",
+    "answers": [
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i04-p-027",
+    "skill": "representing and analysing scientific data",
+    "question": "Students share findings from a shade test. Which option would weaken the evidence?",
+    "answers": [
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement"
     ],
     "correct": 2,
-    "explanation": "The conclusion stays within the method, variables and conditions represented.\nHint: Describe the pattern with evidence, then state its scope.",
-    "structuredExplanation": {
-      "summary": "The conclusion stays within the method, variables and conditions represented.",
-      "hint": "Describe the pattern with evidence, then state its scope."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Representing and Analysing Scientific Data: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i04-p-028",
+    "skill": "representing and analysing scientific data",
+    "question": "A class prepares a slide about animal adaptations. Which option would weaken the evidence?",
+    "answers": [
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i04-p-029",
+    "skill": "representing and analysing scientific data",
+    "question": "Students write captions for photos of weathering. Which option would weaken the evidence?",
+    "answers": [
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i04-p-030",
+    "skill": "representing and analysing scientific data",
+    "question": "A group records a voice explanation for results. Which option would weaken the evidence?",
+    "answers": [
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i04-p-031",
+    "skill": "representing and analysing scientific data",
+    "question": "Students create a table for a newsletter. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i04-p-032",
+    "skill": "representing and analysing scientific data",
+    "question": "A class presents evidence about insulation. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i04-p-033",
+    "skill": "representing and analysing scientific data",
+    "question": "Students explain uncertainty in a graph. What should the group do next?",
+    "answers": [
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i04-p-034",
+    "skill": "representing and analysing scientific data",
+    "question": "A group writes a claim about soil filters. What should the group do next?",
+    "answers": [
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i04-p-035",
+    "skill": "representing and analysing scientific data",
+    "question": "Students compare text for experts and Year 1 students. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i04-p-036",
+    "skill": "representing and analysing scientific data",
+    "question": "A class creates a digital display about evaporation. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i04-p-037",
+    "skill": "representing and analysing scientific data",
+    "question": "A group plans to test paper towel absorbency. What should the group do next?",
+    "answers": [
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i04-p-038",
+    "skill": "representing and analysing scientific data",
+    "question": "Students compare cooling cups in the classroom. What should the group do next?",
+    "answers": [
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i04-p-039",
+    "skill": "representing and analysing scientific data",
+    "question": "A class investigates seedling growth in pots. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i04-p-040",
+    "skill": "representing and analysing scientific data",
+    "question": "Two groups test toy car ramps. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Representing and Analysing Scientific Data: Use a clear method, record evidence and compare the pattern with the question."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

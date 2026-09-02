@@ -2,699 +2,762 @@
 window.skillrPracticeQuestions = [
   {
     "id": "ac9s5i03-p-001",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "During a habitat survey, students record sediment. Which entry is the strongest observation?",
-    "audioPrompt": "During a habitat survey, students record sediment. Which entry is the strongest observation?",
-    "visual": "During a habitat survey: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a habitat survey: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-001",
-      "alt_text": "During a habitat survey: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students repeat a dissolving test. What is the best measurement choice?",
     "answers": [
-      "fine brown particles settled at the tray's lower end",
-      "it changed somehow",
-      "the result proves my explanation"
+      "Use the correct scaled instrument carefully",
+      "Record observations with units and enough detail",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
     "correct": 0,
-    "explanation": "fine brown particles settled at the tray's lower end is a qualitative observation tied to location.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "fine brown particles settled at the tray's lower end is a qualitative observation tied to location.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Use the correct scaled instrument carefully."
   },
   {
     "id": "ac9s5i03-p-002",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "At the school science table, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "At the school science table, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "At the school science table: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school science table: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-002",
-      "alt_text": "At the school science table: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A class chooses equipment for measuring mass. What is the best measurement choice?",
     "answers": [
-      "delete it immediately",
-      "record it, check unit and placement, then investigate or repeat",
-      "replace it with the expected value"
+      "Record observations with units and enough detail",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Use the correct scaled instrument carefully"
     ],
-    "correct": 1,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Use the correct scaled instrument carefully."
   },
   {
     "id": "ac9s5i03-p-003",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "While examining a creek, students record surface appearance. Which entry is the strongest observation?",
-    "audioPrompt": "While examining a creek, students record surface appearance. Which entry is the strongest observation?",
-    "visual": "While examining a creek: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While examining a creek: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-003",
-      "alt_text": "While examining a creek: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students record the length of earthworm movement. What is the best measurement choice?",
     "answers": [
-      "it changed somehow",
-      "the result proves my explanation",
-      "the surface became dull and rough"
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Use the correct scaled instrument carefully",
+      "Record observations with units and enough detail"
     ],
     "correct": 2,
-    "explanation": "the surface became dull and rough is a qualitative observation without an unsupported cause.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "the surface became dull and rough is a qualitative observation without an unsupported cause.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Use the correct scaled instrument carefully."
   },
   {
     "id": "ac9s5i03-p-004",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "In a classroom investigation, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "In a classroom investigation, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "In a classroom investigation: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a classroom investigation: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-004",
-      "alt_text": "In a classroom investigation: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A group measures rainfall in a school gauge. What is the best measurement choice?",
     "answers": [
-      "record it, check unit and placement, then investigate or repeat",
-      "delete it immediately",
-      "replace it with the expected value"
+      "A guess with no evidence",
+      "Use the correct scaled instrument carefully",
+      "Record observations with units and enough detail",
+      "The neatness of the poster"
     ],
-    "correct": 0,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Use the correct scaled instrument carefully."
   },
   {
     "id": "ac9s5i03-p-005",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "During a garden observation, students record elapsed time. Which entry is the strongest observation?",
-    "audioPrompt": "During a garden observation, students record elapsed time. Which entry is the strongest observation?",
-    "visual": "During a garden observation: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a garden observation: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-005",
-      "alt_text": "During a garden observation: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students use a thermometer in warm water. What is the best measurement choice?",
     "answers": [
-      "it changed somehow",
-      "45.0 s",
-      "the result proves my explanation"
+      "Use the correct scaled instrument carefully",
+      "Record observations with units and enough detail",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
-    "correct": 1,
-    "explanation": "45.0 s is a quantitative observation with value and unit.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "45.0 s is a quantitative observation with value and unit.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Use the correct scaled instrument carefully."
   },
   {
     "id": "ac9s5i03-p-006",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "At the coastal field station, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "At the coastal field station, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "At the coastal field station: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the coastal field station: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-006",
-      "alt_text": "At the coastal field station: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A class counts bubbles from pondweed. What is the best measurement choice?",
     "answers": [
-      "delete it immediately",
-      "replace it with the expected value",
-      "record it, check unit and placement, then investigate or repeat"
+      "Record observations with units and enough detail",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Use the correct scaled instrument carefully"
     ],
-    "correct": 2,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Use the correct scaled instrument carefully."
   },
   {
     "id": "ac9s5i03-p-007",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "While comparing samples, students record temperature. Which entry is the strongest observation?",
-    "audioPrompt": "While comparing samples, students record temperature. Which entry is the strongest observation?",
-    "visual": "While comparing samples: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While comparing samples: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-007",
-      "alt_text": "While comparing samples: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students compare shadows at different torch distances. What is the best measurement choice?",
     "answers": [
-      "27.5 °C",
-      "it changed somehow",
-      "the result proves my explanation"
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Use the correct scaled instrument carefully",
+      "Record observations with units and enough detail"
     ],
-    "correct": 0,
-    "explanation": "27.5 °C is a quantitative observation with value and unit.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "27.5 °C is a quantitative observation with value and unit.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Use the correct scaled instrument carefully."
   },
   {
     "id": "ac9s5i03-p-008",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "In the school laboratory, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "In the school laboratory, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "In the school laboratory: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school laboratory: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-008",
-      "alt_text": "In the school laboratory: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A group records pH for garden soil. What is the best measurement choice?",
     "answers": [
-      "delete it immediately",
-      "record it, check unit and placement, then investigate or repeat",
-      "replace it with the expected value"
+      "A guess with no evidence",
+      "Use the correct scaled instrument carefully",
+      "Record observations with units and enough detail",
+      "The neatness of the poster"
     ],
     "correct": 1,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Use the correct scaled instrument carefully."
   },
   {
     "id": "ac9s5i03-p-009",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "During a weather study, students record gas behaviour. Which entry is the strongest observation?",
-    "audioPrompt": "During a weather study, students record gas behaviour. Which entry is the strongest observation?",
-    "visual": "During a weather study: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a weather study: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-009",
-      "alt_text": "During a weather study: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students measure bounce height after drops. What is the best measurement choice?",
     "answers": [
-      "it changed somehow",
-      "the result proves my explanation",
-      "the balloon's circumference increased by 4 cm"
+      "Use the correct scaled instrument carefully",
+      "Record observations with units and enough detail",
+      "The neatness of the poster",
+      "A guess with no evidence"
     ],
-    "correct": 2,
-    "explanation": "the balloon's circumference increased by 4 cm is a quantitative observation of change.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "the balloon's circumference increased by 4 cm is a quantitative observation of change.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Use the correct scaled instrument carefully."
   },
   {
     "id": "ac9s5i03-p-010",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "At the wildlife centre, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "At the wildlife centre, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "At the wildlife centre: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the wildlife centre: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-010",
-      "alt_text": "At the wildlife centre: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A class times paper parachutes falling. What is the best measurement choice?",
     "answers": [
-      "record it, check unit and placement, then investigate or repeat",
-      "delete it immediately",
-      "replace it with the expected value"
+      "Record observations with units and enough detail",
+      "The neatness of the poster",
+      "A guess with no evidence",
+      "Use the correct scaled instrument carefully"
     ],
-    "correct": 0,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Use the correct scaled instrument carefully."
   },
   {
     "id": "ac9s5i03-p-011",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "While reviewing a data table, students record liquid volume. Which entry is the strongest observation?",
-    "audioPrompt": "While reviewing a data table, students record liquid volume. Which entry is the strongest observation?",
-    "visual": "While reviewing a data table: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reviewing a data table: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-011",
-      "alt_text": "While reviewing a data table: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students build a table for plant height. Why does this step matter?",
     "answers": [
-      "it changed somehow",
-      "32 mL",
-      "the result proves my explanation"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
-    "correct": 1,
-    "explanation": "32 mL is a quantitative observation with value and unit.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "32 mL is a quantitative observation with value and unit.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i03-p-012",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "In a materials investigation, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "In a materials investigation, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "In a materials investigation: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a materials investigation: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-012",
-      "alt_text": "In a materials investigation: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A group turns temperature readings into a graph. Why does this step matter?",
     "answers": [
-      "delete it immediately",
-      "replace it with the expected value",
-      "record it, check unit and placement, then investigate or repeat"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
-    "correct": 2,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i03-p-013",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "During an outdoor observation, students record elapsed time. Which entry is the strongest observation?",
-    "audioPrompt": "During an outdoor observation, students record elapsed time. Which entry is the strongest observation?",
-    "visual": "During an outdoor observation: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During an outdoor observation: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-013",
-      "alt_text": "During an outdoor observation: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students choose a model for the water cycle. Why does this step matter?",
     "answers": [
-      "45.0 s",
-      "it changed somehow",
-      "the result proves my explanation"
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right"
     ],
     "correct": 0,
-    "explanation": "45.0 s is a quantitative observation with value and unit.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "45.0 s is a quantitative observation with value and unit.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i03-p-014",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "At the community science fair, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "At the community science fair, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "At the community science fair: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the community science fair: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-014",
-      "alt_text": "At the community science fair: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A class graphs car distance against ramp height. Why does this step matter?",
     "answers": [
-      "delete it immediately",
-      "record it, check unit and placement, then investigate or repeat",
-      "replace it with the expected value"
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question"
     ],
-    "correct": 1,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i03-p-015",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "While planning a fair test, students record sediment. Which entry is the strongest observation?",
-    "audioPrompt": "While planning a fair test, students record sediment. Which entry is the strongest observation?",
-    "visual": "While planning a fair test: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a fair test: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-015",
-      "alt_text": "While planning a fair test: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students compare maps of erosion on a tray. Why does this step matter?",
     "answers": [
-      "it changed somehow",
-      "the result proves my explanation",
-      "fine brown particles settled at the tray's lower end"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
     "correct": 2,
-    "explanation": "fine brown particles settled at the tray's lower end is a qualitative observation tied to location.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "fine brown particles settled at the tray's lower end is a qualitative observation tied to location.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i03-p-016",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "In a digital science journal, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "In a digital science journal, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "In a digital science journal: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a digital science journal: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-016",
-      "alt_text": "In a digital science journal: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A group sorts observations from measurements. Why does this step matter?",
     "answers": [
-      "record it, check unit and placement, then investigate or repeat",
-      "delete it immediately",
-      "replace it with the expected value"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
-    "correct": 0,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i03-p-017",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "During a light investigation, students record surface appearance. Which entry is the strongest observation?",
-    "audioPrompt": "During a light investigation, students record surface appearance. Which entry is the strongest observation?",
-    "visual": "During a light investigation: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a light investigation: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-017",
-      "alt_text": "During a light investigation: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students look for a pattern in daily temperatures. Why does this step matter?",
     "answers": [
-      "it changed somehow",
-      "the surface became dull and rough",
-      "the result proves my explanation"
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right"
     ],
-    "correct": 1,
-    "explanation": "the surface became dull and rough is a qualitative observation without an unsupported cause.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "the surface became dull and rough is a qualitative observation without an unsupported cause.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i03-p-018",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "At the local wetland, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "At the local wetland, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "At the local wetland: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the local wetland: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-018",
-      "alt_text": "At the local wetland: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A class identifies an outlier in dissolving times. Why does this step matter?",
     "answers": [
-      "delete it immediately",
-      "replace it with the expected value",
-      "record it, check unit and placement, then investigate or repeat"
+      "It lets the group choose the result later",
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question"
     ],
-    "correct": 2,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i03-p-019",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "While checking another group's method, students record liquid volume. Which entry is the strongest observation?",
-    "audioPrompt": "While checking another group's method, students record liquid volume. Which entry is the strongest observation?",
-    "visual": "While checking another group's method: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While checking another group's method: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-019",
-      "alt_text": "While checking another group's method: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students compare bar graphs of bird counts. Why does this step matter?",
     "answers": [
-      "32 mL",
-      "it changed somehow",
-      "the result proves my explanation"
+      "It removes the need to measure",
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later"
     ],
-    "correct": 0,
-    "explanation": "32 mL is a quantitative observation with value and unit.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "32 mL is a quantitative observation with value and unit.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i03-p-020",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "In a model-building lesson, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "In a model-building lesson, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "In a model-building lesson: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a model-building lesson: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-020",
-      "alt_text": "In a model-building lesson: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A group calculates average seedling height. Why does this step matter?",
     "answers": [
-      "delete it immediately",
-      "record it, check unit and placement, then investigate or repeat",
-      "replace it with the expected value"
+      "It proves the first idea must be right",
+      "It helps the group collect evidence that answers the question",
+      "It lets the group choose the result later",
+      "It removes the need to measure"
     ],
     "correct": 1,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question."
   },
   {
     "id": "ac9s5i03-p-021",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "During a temperature investigation, students record temperature. Which entry is the strongest observation?",
-    "audioPrompt": "During a temperature investigation, students record temperature. Which entry is the strongest observation?",
-    "visual": "During a temperature investigation: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a temperature investigation: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-021",
-      "alt_text": "During a temperature investigation: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students compare two groups magnet results. Which option would weaken the evidence?",
     "answers": [
-      "it changed somehow",
-      "the result proves my explanation",
-      "27.5 °C"
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
     ],
-    "correct": 2,
-    "explanation": "27.5 °C is a quantitative observation with value and unit.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "27.5 °C is a quantitative observation with value and unit.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i03-p-022",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "At the environmental centre, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "At the environmental centre, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "At the environmental centre: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the environmental centre: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-022",
-      "alt_text": "At the environmental centre: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A class checks whether a conclusion matches data. Which option would weaken the evidence?",
     "answers": [
-      "record it, check unit and placement, then investigate or repeat",
-      "delete it immediately",
-      "replace it with the expected value"
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
     ],
-    "correct": 0,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i03-p-023",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "record an observation",
-    "printable": true,
-    "type": "single",
-    "question": "While preparing a science report, students record gas behaviour. Which entry is the strongest observation?",
-    "audioPrompt": "While preparing a science report, students record gas behaviour. Which entry is the strongest observation?",
-    "visual": "While preparing a science report: record an observation, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While preparing a science report: record an observation, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-023",
-      "alt_text": "While preparing a science report: record an observation, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "Students find a likely source of measuring error. Which option would weaken the evidence?",
     "answers": [
-      "it changed somehow",
-      "the balloon's circumference increased by 4 cm",
-      "the result proves my explanation"
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement"
     ],
-    "correct": 1,
-    "explanation": "the balloon's circumference increased by 4 cm is a quantitative observation of change.\nHint: Record what was observed, with units and suitable precision where measured.",
-    "structuredExplanation": {
-      "summary": "the balloon's circumference increased by 4 cm is a quantitative observation of change.",
-      "hint": "Record what was observed, with units and suitable precision where measured."
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Changing another factor at the same time."
   },
   {
     "id": "ac9s5i03-p-024",
-    "curriculumCode": "AC9S5I03",
-    "bank": "practice",
-    "skill": "handle unexpected data",
-    "printable": true,
-    "type": "single",
-    "question": "In a research discussion, a digital sensor gives an unexpected reading. What should students do first?",
-    "audioPrompt": "In a research discussion, a digital sensor gives an unexpected reading. What should students do first?",
-    "visual": "In a research discussion: handle unexpected data, shown as a three-step measurement reasoning pathway.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a research discussion: handle unexpected data, shown as a three-step measurement reasoning pathway.\"><use href=\"/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/science/ac9s5i03.svg#ac9s5i03-p-024",
-      "alt_text": "In a research discussion: handle unexpected data, shown as a three-step measurement reasoning pathway."
-    },
+    "skill": "accurate observation and measurement",
+    "question": "A group repeats a trial after a spill. Which option would weaken the evidence?",
     "answers": [
-      "delete it immediately",
-      "replace it with the expected value",
-      "record it, check unit and placement, then investigate or repeat"
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i03-p-025",
+    "skill": "accurate observation and measurement",
+    "question": "Students compare claims about a new lunch container. Which option would weaken the evidence?",
+    "answers": [
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i03-p-026",
+    "skill": "accurate observation and measurement",
+    "question": "A class decides whether results are close enough. Which option would weaken the evidence?",
+    "answers": [
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i03-p-027",
+    "skill": "accurate observation and measurement",
+    "question": "Students inspect a graph with one unusual point. Which option would weaken the evidence?",
+    "answers": [
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement"
     ],
     "correct": 2,
-    "explanation": "Unexpected readings should be preserved and checked rather than silently changed.\nHint: Separate data integrity from later decisions about explaining an outlier.",
-    "structuredExplanation": {
-      "summary": "Unexpected readings should be preserved and checked rather than silently changed.",
-      "hint": "Separate data integrity from later decisions about explaining an outlier."
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "explanation": "Accurate Observation and Measurement: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i03-p-028",
+    "skill": "accurate observation and measurement",
+    "question": "A group compares their method with another group. Which option would weaken the evidence?",
+    "answers": [
+      "Using the same equipment carefully",
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i03-p-029",
+    "skill": "accurate observation and measurement",
+    "question": "Students decide what evidence is missing. Which option would weaken the evidence?",
+    "answers": [
+      "Changing another factor at the same time",
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i03-p-030",
+    "skill": "accurate observation and measurement",
+    "question": "A class writes a conclusion from three trials. Which option would weaken the evidence?",
+    "answers": [
+      "Repeating the measurement",
+      "Recording units clearly",
+      "Using the same equipment carefully",
+      "Changing another factor at the same time"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Changing another factor at the same time."
+  },
+  {
+    "id": "ac9s5i03-p-031",
+    "skill": "accurate observation and measurement",
+    "question": "Students prepare a poster for younger students. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i03-p-032",
+    "skill": "accurate observation and measurement",
+    "question": "A group writes a report about erosion. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i03-p-033",
+    "skill": "accurate observation and measurement",
+    "question": "Students make a short video about light reflection. What should the group do next?",
+    "answers": [
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i03-p-034",
+    "skill": "accurate observation and measurement",
+    "question": "A class labels a graph for families visiting school. What should the group do next?",
+    "answers": [
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i03-p-035",
+    "skill": "accurate observation and measurement",
+    "question": "Students choose vocabulary for a compost investigation. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i03-p-036",
+    "skill": "accurate observation and measurement",
+    "question": "A group explains safety steps in a method. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i03-p-037",
+    "skill": "accurate observation and measurement",
+    "question": "Students share findings from a shade test. What should the group do next?",
+    "answers": [
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them"
+    ],
+    "correct": 0,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i03-p-038",
+    "skill": "accurate observation and measurement",
+    "question": "A class prepares a slide about animal adaptations. What should the group do next?",
+    "answers": [
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question"
+    ],
+    "correct": 3,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i03-p-039",
+    "skill": "accurate observation and measurement",
+    "question": "Students write captions for photos of weathering. What should the group do next?",
+    "answers": [
+      "Ignore results that are inconvenient",
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first"
+    ],
+    "correct": 2,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question."
+  },
+  {
+    "id": "ac9s5i03-p-040",
+    "skill": "accurate observation and measurement",
+    "question": "A group records a voice explanation for results. What should the group do next?",
+    "answers": [
+      "Change several parts without recording them",
+      "Use a clear method, record evidence and compare the pattern with the question",
+      "Pick the answer they wanted first",
+      "Ignore results that are inconvenient"
+    ],
+    "correct": 1,
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "explanation": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
