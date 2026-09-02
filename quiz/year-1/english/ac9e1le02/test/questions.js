@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le02 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate two connections?",
-    "audioPrompt": "Which response would correctly demonstrate two connections?",
-    "visual": "📖 Demonstrate two connections; 🔎 connection; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two connections; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001\"></use></svg>",
+    "question": "Which response would correctly show two connections?",
+    "audioPrompt": "Which response would correctly show two connections?",
+    "visual": "📖 show two connections; 🔎 connection; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two connections; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001",
-      "alt_text": "📖 Demonstrate two connections; 🔎 connection; ✅ choose with evidence"
+      "alt_text": "📖 show two connections; 🔎 connection; ✅ choose with evidence"
     },
     "answers": [
       "Two distinct, relevant connections with brief explanations",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le02 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate two connections?",
-    "audioPrompt": "Which tip would help you demonstrate two connections?",
-    "visual": "🧠 Demonstrate two connections; ➡️ Listen/read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two connections; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002\"></use></svg>",
+    "question": "Which tip would help you show two connections?",
+    "audioPrompt": "Which tip would help you show two connections?",
+    "visual": "🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002",
-      "alt_text": "🧠 Demonstrate two connections; ➡️ Listen/read; 💡 helpful strategy"
+      "alt_text": "🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy"
     },
     "answers": [
       "Give a connection that is too vague.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate two connections; ➡️ Listen/read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two connections; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002\"></use></svg>",
+    "visual": "🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002",
-      "alt_text": "🧠 Demonstrate two connections; ➡️ Listen/read; 💡 helpful strategy"
+      "alt_text": "🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy"
     },
     "answers": [
       "Leave out your thought, feeling or connection.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Leave out your thought, feeling or connection.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Leave out your thought, feeling or connection.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate two connections; 🔎 connection; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two connections; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001\"></use></svg>",
+    "visual": "📖 show two connections; 🔎 connection; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two connections; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001",
-      "alt_text": "📖 Demonstrate two connections; 🔎 connection; ✅ choose with evidence"
+      "alt_text": "📖 show two connections; 🔎 connection; ✅ choose with evidence"
     },
     "answers": [
       "Two distinct, relevant connections with brief explanations",

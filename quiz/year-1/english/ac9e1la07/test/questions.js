@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la07 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate action and state?",
-    "audioPrompt": "Which response would correctly demonstrate action and state?",
-    "visual": "📖 Demonstrate action and state; 🔎 noun; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate action and state; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001\"></use></svg>",
+    "question": "Which response would correctly show action and state?",
+    "audioPrompt": "Which response would correctly show action and state?",
+    "visual": "📖 show action and state; 🔎 noun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show action and state; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001",
-      "alt_text": "📖 Demonstrate action and state; 🔎 noun; ✅ choose with evidence"
+      "alt_text": "📖 show action and state; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
       "Two complete examples, such as jumps and is/seems, correctly identified",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la07 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate action and state?",
-    "audioPrompt": "Which tip would help you demonstrate action and state?",
-    "visual": "🧠 Demonstrate action and state; ➡️ Read sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate action and state; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002\"></use></svg>",
+    "question": "Which tip would help you show action and state?",
+    "audioPrompt": "Which tip would help you show action and state?",
+    "visual": "🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002",
-      "alt_text": "🧠 Demonstrate action and state; ➡️ Read sentence; 💡 helpful strategy"
+      "alt_text": "🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
       "Treat adjective as noun.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate action and state; ➡️ Read sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate action and state; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002\"></use></svg>",
+    "visual": "🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002",
-      "alt_text": "🧠 Demonstrate action and state; ➡️ Read sentence; 💡 helpful strategy"
+      "alt_text": "🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
       "Do not ask what job the word does in the sentence.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Do not ask what job the word does in the sentence.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Do not ask what job the word does in the sentence.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate action and state; 🔎 noun; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate action and state; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001\"></use></svg>",
+    "visual": "📖 show action and state; 🔎 noun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show action and state; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001",
-      "alt_text": "📖 Demonstrate action and state; 🔎 noun; ✅ choose with evidence"
+      "alt_text": "📖 show action and state; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
       "Two complete examples, such as jumps and is/seems, correctly identified",

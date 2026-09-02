@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly04 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate two readings?",
-    "audioPrompt": "Which response would correctly demonstrate two readings?",
-    "visual": "📖 Demonstrate two readings; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two readings; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-001\"></use></svg>",
+    "question": "Which response would correctly show two readings?",
+    "audioPrompt": "Which response would correctly show two readings?",
+    "visual": "📖 show two readings; 🔎 phonics; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two readings; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-001",
-      "alt_text": "📖 Demonstrate two readings; 🔎 phonics; ✅ choose with evidence"
+      "alt_text": "📖 show two readings; 🔎 phonics; ✅ choose with evidence"
     },
     "answers": [
       "Fluent reading groups words, observes comma/exclamation and conveys plea; explanation identifies improvement",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly04 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate two readings?",
-    "audioPrompt": "Which tip would help you demonstrate two readings?",
-    "visual": "🧠 Demonstrate two readings; ➡️ Look at letters; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two readings; ➡️ Look at letters; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-002\"></use></svg>",
+    "question": "Which tip would help you show two readings?",
+    "audioPrompt": "Which tip would help you show two readings?",
+    "visual": "🧠 show two readings; ➡️ Look at letters; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two readings; ➡️ Look at letters; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-002",
-      "alt_text": "🧠 Demonstrate two readings; ➡️ Look at letters; 💡 helpful strategy"
+      "alt_text": "🧠 show two readings; ➡️ Look at letters; 💡 helpful strategy"
     },
     "answers": [
       "Sound without meaning.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate two readings; ➡️ Look at letters; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two readings; ➡️ Look at letters; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-002\"></use></svg>",
+    "visual": "🧠 show two readings; ➡️ Look at letters; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two readings; ➡️ Look at letters; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-002",
-      "alt_text": "🧠 Demonstrate two readings; ➡️ Look at letters; 💡 helpful strategy"
+      "alt_text": "🧠 show two readings; ➡️ Look at letters; 💡 helpful strategy"
     },
     "answers": [
       "No, wait for me",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “No, wait for me”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose No, wait for me. Which answer would improve their response?",
-    "visual": "📖 Demonstrate two readings; 🔎 phonics; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two readings; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-001\"></use></svg>",
+    "visual": "📖 show two readings; 🔎 phonics; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two readings; 🔎 phonics; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly04.svg#ac9e1ly04-t-001",
-      "alt_text": "📖 Demonstrate two readings; 🔎 phonics; ✅ choose with evidence"
+      "alt_text": "📖 show two readings; 🔎 phonics; ✅ choose with evidence"
     },
     "answers": [
       "Fluent reading groups words, observes comma/exclamation and conveys plea; explanation identifies improvement",

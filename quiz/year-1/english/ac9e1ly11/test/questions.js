@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly11 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate continuous blending?",
-    "audioPrompt": "Which response would correctly demonstrate continuous blending?",
-    "visual": "📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001\"></use></svg>",
+    "question": "Which response would correctly show continuous blending?",
+    "audioPrompt": "Which response would correctly show continuous blending?",
+    "visual": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001",
-      "alt_text": "📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence"
+      "alt_text": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence"
     },
     "answers": [
       "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly11 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate continuous blending?",
-    "audioPrompt": "Which tip would help you demonstrate continuous blending?",
-    "visual": "🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002\"></use></svg>",
+    "question": "Which tip would help you show continuous blending?",
+    "audioPrompt": "Which tip would help you show continuous blending?",
+    "visual": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002",
-      "alt_text": "🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
+      "alt_text": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
     },
     "answers": [
       "Do not look through the whole word.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002\"></use></svg>",
+    "visual": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002",
-      "alt_text": "🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
+      "alt_text": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
     },
     "answers": [
       "Count both letters of a digraph as separate sounds.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Count both letters of a digraph as separate sounds.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Count both letters of a digraph as separate sounds.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001\"></use></svg>",
+    "visual": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001",
-      "alt_text": "📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence"
+      "alt_text": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence"
     },
     "answers": [
       "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained",

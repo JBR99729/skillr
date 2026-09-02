@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la06 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate complete and incomplete?",
-    "audioPrompt": "Which response would correctly demonstrate complete and incomplete?",
-    "visual": "📖 Demonstrate complete and incomplete; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate complete and incomplete; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001\"></use></svg>",
+    "question": "Which response would correctly show complete and incomplete?",
+    "audioPrompt": "Which response would correctly show complete and incomplete?",
+    "visual": "📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001",
-      "alt_text": "📖 Demonstrate complete and incomplete; 🔎 who/what; ✅ choose with evidence"
+      "alt_text": "📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence"
     },
     "answers": [
       "Complete example expresses who/what plus event/state; fragment lacks a necessary part",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la06 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate complete and incomplete?",
-    "audioPrompt": "Which tip would help you demonstrate complete and incomplete?",
-    "visual": "🧠 Demonstrate complete and incomplete; ➡️ Choose idea; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate complete and incomplete; ➡️ Choose idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002\"></use></svg>",
+    "question": "Which tip would help you show complete and incomplete?",
+    "audioPrompt": "Which tip would help you show complete and incomplete?",
+    "visual": "🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002",
-      "alt_text": "🧠 Demonstrate complete and incomplete; ➡️ Choose idea; 💡 helpful strategy"
+      "alt_text": "🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy"
     },
     "answers": [
       "Do not keep one clear event or idea.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate complete and incomplete; ➡️ Choose idea; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate complete and incomplete; ➡️ Choose idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002\"></use></svg>",
+    "visual": "🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-002",
-      "alt_text": "🧠 Demonstrate complete and incomplete; ➡️ Choose idea; 💡 helpful strategy"
+      "alt_text": "🧠 show complete and incomplete; ➡️ Choose idea; 💡 helpful strategy"
     },
     "answers": [
       "Leave out the person, place or thing doing the action.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Leave out the person, place or thing doing the action.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Leave out the person, place or thing doing the action.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate complete and incomplete; 🔎 who/what; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate complete and incomplete; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001\"></use></svg>",
+    "visual": "📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la06.svg#ac9e1la06-t-001",
-      "alt_text": "📖 Demonstrate complete and incomplete; 🔎 who/what; ✅ choose with evidence"
+      "alt_text": "📖 show complete and incomplete; 🔎 who/what; ✅ choose with evidence"
     },
     "answers": [
       "Complete example expresses who/what plus event/state; fragment lacks a necessary part",

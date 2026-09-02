@@ -1406,16 +1406,16 @@
     "curriculum_code": "AC9E1LY12",
     "bank": "test",
     "skill": "ac9e1ly12_01_answer",
-    "question": "Which response would correctly demonstrate letter u sounds?",
-    "audio_prompt": "Which response would correctly demonstrate letter u sounds?",
+    "question": "Which response would correctly show letter u sounds?",
+    "audio_prompt": "Which response would correctly show letter u sounds?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-001",
-      "alt_text": "📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence"
+      "alt_text": "📖 show letter u sounds; 🔎 letter sound; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Identifies different common u sounds in the three words without requiring technical symbols",
+        "text": "Names different common u sounds in the three words without requiring technical symbols",
         "is_correct": true
       },
       {
@@ -1429,7 +1429,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identifies different common u sounds in the three words without requiring technical symbols This matches the task.",
+      "summary": "Names different common u sounds in the three words without requiring technical symbols This matches the task.",
       "hint": "Some letters represent different sounds in different words."
     }
   },
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LY12",
     "bank": "test",
     "skill": "ac9e1ly12_01_strategy",
-    "question": "Which tip would help you demonstrate letter u sounds?",
-    "audio_prompt": "Which tip would help you demonstrate letter u sounds?",
+    "question": "Which tip would help you show letter u sounds?",
+    "audio_prompt": "Which tip would help you show letter u sounds?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-002",
-      "alt_text": "🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy"
+      "alt_text": "🧠 show letter u sounds; ➡️ Read letter/word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-002",
-      "alt_text": "🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy"
+      "alt_text": "🧠 show letter u sounds; ➡️ Read letter/word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,11 +1823,11 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-001",
-      "alt_text": "📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence"
+      "alt_text": "📖 show letter u sounds; 🔎 letter sound; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Identifies different common u sounds in the three words without requiring technical symbols",
+        "text": "Names different common u sounds in the three words without requiring technical symbols",
         "is_correct": true
       },
       {
@@ -1841,7 +1841,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identifies different common u sounds in the three words without requiring technical symbols is the stronger response because it uses the target skill. Some letters represent different sounds in different words.",
+      "summary": "Names different common u sounds in the three words without requiring technical symbols is the stronger response because it uses the target skill. Some letters represent different sounds in different words.",
       "hint": "Some letters represent different sounds in different words."
     },
     "stage": "apply"

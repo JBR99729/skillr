@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly02 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate group roles?",
-    "audioPrompt": "Which response would correctly demonstrate group roles?",
-    "visual": "📖 Demonstrate group roles; 🔎 turn-taking; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate group roles; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001\"></use></svg>",
+    "question": "Which response would correctly show group roles?",
+    "audioPrompt": "Which response would correctly show group roles?",
+    "visual": "📖 show group roles; 🔎 turn-taking; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show group roles; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001",
-      "alt_text": "📖 Demonstrate group roles; 🔎 turn-taking; ✅ choose with evidence"
+      "alt_text": "📖 show group roles; 🔎 turn-taking; ✅ choose with evidence"
     },
     "answers": [
       "All three roles performed distinctly and content remains connected",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly02 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate group roles?",
-    "audioPrompt": "Which tip would help you demonstrate group roles?",
-    "visual": "🧠 Demonstrate group roles; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate group roles; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002\"></use></svg>",
+    "question": "Which tip would help you show group roles?",
+    "audioPrompt": "Which tip would help you show group roles?",
+    "visual": "🧠 show group roles; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show group roles; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002",
-      "alt_text": "🧠 Demonstrate group roles; ➡️ Listen; 💡 helpful strategy"
+      "alt_text": "🧠 show group roles; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
       "Do not use classroom volume and clear pace.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate group roles; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate group roles; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002\"></use></svg>",
+    "visual": "🧠 show group roles; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show group roles; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002",
-      "alt_text": "🧠 Demonstrate group roles; ➡️ Listen; 💡 helpful strategy"
+      "alt_text": "🧠 show group roles; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
       "Do not listen for the idea before responding.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Do not listen for the idea before responding.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Do not listen for the idea before responding.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate group roles; 🔎 turn-taking; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate group roles; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001\"></use></svg>",
+    "visual": "📖 show group roles; 🔎 turn-taking; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show group roles; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001",
-      "alt_text": "📖 Demonstrate group roles; 🔎 turn-taking; ✅ choose with evidence"
+      "alt_text": "📖 show group roles; 🔎 turn-taking; ✅ choose with evidence"
     },
     "answers": [
       "All three roles performed distinctly and content remains connected",

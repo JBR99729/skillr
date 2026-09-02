@@ -89,7 +89,7 @@
         "is_correct": false
       },
       {
-        "text": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture",
+        "text": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
         "is_correct": true
       },
       {
@@ -99,7 +99,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture This matches the task.",
+      "summary": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture This matches the task.",
       "hint": "Change volume, tone or gesture to match meaning."
     },
     "stage": "recognise"
@@ -194,7 +194,7 @@
         "is_correct": false
       },
       {
-        "text": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label",
+        "text": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
         "is_correct": true
       },
       {
@@ -204,7 +204,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label This matches the task.",
+      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label This matches the task.",
       "hint": "Change volume, tone or gesture to match meaning."
     },
     "stage": "recognise"
@@ -785,7 +785,7 @@
     },
     "answers": [
       {
-        "text": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture",
+        "text": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
         "is_correct": false
       },
       {
@@ -890,7 +890,7 @@
     },
     "answers": [
       {
-        "text": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label",
+        "text": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
         "is_correct": false
       },
       {
@@ -1135,7 +1135,7 @@
     },
     "answers": [
       {
-        "text": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture",
+        "text": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
         "is_correct": true
       },
       {
@@ -1149,7 +1149,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture uses the skill correctly. Change volume, tone or gesture to match meaning.",
+      "summary": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture uses the skill correctly. Change volume, tone or gesture to match meaning.",
       "hint": "Change volume, tone or gesture to match meaning."
     },
     "stage": "apply"
@@ -1240,7 +1240,7 @@
     },
     "answers": [
       {
-        "text": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label",
+        "text": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
         "is_correct": true
       },
       {
@@ -1254,7 +1254,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label uses the skill correctly. Change volume, tone or gesture to match meaning.",
+      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label uses the skill correctly. Change volume, tone or gesture to match meaning.",
       "hint": "Change volume, tone or gesture to match meaning."
     },
     "stage": "apply"
@@ -1406,16 +1406,16 @@
     "curriculum_code": "AC9E1LA01",
     "bank": "test",
     "skill": "ac9e1la01_01_answer",
-    "question": "Which response would correctly demonstrate question and command?",
-    "audio_prompt": "Which response would correctly demonstrate question and command?",
+    "question": "Which response would correctly show question and command?",
+    "audio_prompt": "Which response would correctly show question and command?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001",
-      "alt_text": "📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence"
+      "alt_text": "📖 show question and command; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Uses question form/polite tone versus concise urgent command with matching expression/gesture",
+        "text": "Uses question form and polite tone versus concise urgent command with matching expression or gesture",
         "is_correct": true
       },
       {
@@ -1429,7 +1429,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Uses question form/polite tone versus concise urgent command with matching expression/gesture This matches the task.",
+      "summary": "Uses question form and polite tone versus concise urgent command with matching expression or gesture This matches the task.",
       "hint": "Also notice face, gesture, voice and relationship."
     }
   },
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LA01",
     "bank": "test",
     "skill": "ac9e1la01_01_strategy",
-    "question": "Which tip would help you demonstrate question and command?",
-    "audio_prompt": "Which tip would help you demonstrate question and command?",
+    "question": "Which tip would help you show question and command?",
+    "audio_prompt": "Which tip would help you show question and command?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002",
-      "alt_text": "🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy"
+      "alt_text": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1619,7 +1619,7 @@
     },
     "answers": [
       {
-        "text": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation",
+        "text": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation",
         "is_correct": true
       },
       {
@@ -1633,7 +1633,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.",
+      "summary": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.",
       "hint": "Also notice face, gesture, voice and relationship."
     }
   },
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002",
-      "alt_text": "🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy"
+      "alt_text": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,11 +1823,11 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001",
-      "alt_text": "📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence"
+      "alt_text": "📖 show question and command; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Uses question form/polite tone versus concise urgent command with matching expression/gesture",
+        "text": "Uses question form and polite tone versus concise urgent command with matching expression or gesture",
         "is_correct": true
       },
       {
@@ -1841,7 +1841,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Uses question form/polite tone versus concise urgent command with matching expression/gesture is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
+      "summary": "Uses question form and polite tone versus concise urgent command with matching expression or gesture is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
       "hint": "Also notice face, gesture, voice and relationship."
     },
     "stage": "apply"
@@ -1932,7 +1932,7 @@
     },
     "answers": [
       {
-        "text": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation",
+        "text": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation",
         "is_correct": true
       },
       {
@@ -1946,7 +1946,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
+      "summary": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
       "hint": "Also notice face, gesture, voice and relationship."
     },
     "stage": "apply"

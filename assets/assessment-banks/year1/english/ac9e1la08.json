@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LA08",
     "bank": "test",
     "skill": "ac9e1la08_01_answer",
-    "question": "Which response would correctly demonstrate caption change?",
-    "audio_prompt": "Which response would correctly demonstrate caption change?",
+    "question": "Which response would correctly show caption change?",
+    "audio_prompt": "Which response would correctly show caption change?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001",
-      "alt_text": "📖 Demonstrate caption change; 🔎 image; ✅ choose with evidence"
+      "alt_text": "📖 show caption change; 🔎 image; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LA08",
     "bank": "test",
     "skill": "ac9e1la08_01_strategy",
-    "question": "Which tip would help you demonstrate caption change?",
-    "audio_prompt": "Which tip would help you demonstrate caption change?",
+    "question": "Which tip would help you show caption change?",
+    "audio_prompt": "Which tip would help you show caption change?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002",
-      "alt_text": "🧠 Demonstrate caption change; ➡️ Look at image; 💡 helpful strategy"
+      "alt_text": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002",
-      "alt_text": "🧠 Demonstrate caption change; ➡️ Look at image; 💡 helpful strategy"
+      "alt_text": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001",
-      "alt_text": "📖 Demonstrate caption change; 🔎 image; ✅ choose with evidence"
+      "alt_text": "📖 show caption change; 🔎 image; ✅ choose with evidence"
     },
     "answers": [
       {

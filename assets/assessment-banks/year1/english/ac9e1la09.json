@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LA09",
     "bank": "test",
     "skill": "ac9e1la09_01_answer",
-    "question": "Which response would correctly demonstrate word teaching?",
-    "audio_prompt": "Which response would correctly demonstrate word teaching?",
+    "question": "Which response would correctly show word teaching?",
+    "audio_prompt": "Which response would correctly show word teaching?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001",
-      "alt_text": "📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence"
+      "alt_text": "📖 show word teaching; 🔎 topic word; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LA09",
     "bank": "test",
     "skill": "ac9e1la09_01_strategy",
-    "question": "Which tip would help you demonstrate word teaching?",
-    "audio_prompt": "Which tip would help you demonstrate word teaching?",
+    "question": "Which tip would help you show word teaching?",
+    "audio_prompt": "Which tip would help you show word teaching?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002",
-      "alt_text": "🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy"
+      "alt_text": "🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002",
-      "alt_text": "🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy"
+      "alt_text": "🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001",
-      "alt_text": "📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence"
+      "alt_text": "📖 show word teaching; 🔎 topic word; ✅ choose with evidence"
     },
     "answers": [
       {

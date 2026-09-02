@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le05 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate character voice?",
-    "audioPrompt": "Which response would correctly demonstrate character voice?",
-    "visual": "📖 Demonstrate character voice; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate character voice; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001\"></use></svg>",
+    "question": "Which response would correctly show character voice?",
+    "audioPrompt": "Which response would correctly show character voice?",
+    "visual": "📖 show character voice; 🔎 retell; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show character voice; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001",
-      "alt_text": "📖 Demonstrate character voice; 🔎 retell; ✅ choose with evidence"
+      "alt_text": "📖 show character voice; 🔎 retell; ✅ choose with evidence"
     },
     "answers": [
       "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le05 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate character voice?",
-    "audioPrompt": "Which tip would help you demonstrate character voice?",
-    "visual": "🧠 Demonstrate character voice; ➡️ Remember story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate character voice; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002\"></use></svg>",
+    "question": "Which tip would help you show character voice?",
+    "audioPrompt": "Which tip would help you show character voice?",
+    "visual": "🧠 show character voice; ➡️ Remember story; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show character voice; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002",
-      "alt_text": "🧠 Demonstrate character voice; ➡️ Remember story; 💡 helpful strategy"
+      "alt_text": "🧠 show character voice; ➡️ Remember story; 💡 helpful strategy"
     },
     "answers": [
       "Leave out ending.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate character voice; ➡️ Remember story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate character voice; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002\"></use></svg>",
+    "visual": "🧠 show character voice; ➡️ Remember story; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show character voice; ➡️ Remember story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-002",
-      "alt_text": "🧠 Demonstrate character voice; ➡️ Remember story; 💡 helpful strategy"
+      "alt_text": "🧠 show character voice; ➡️ Remember story; 💡 helpful strategy"
     },
     "answers": [
       "Do not keep enough familiar structure for the story to make sense.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Do not keep enough familiar structure for the story to make sense.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Do not keep enough familiar structure for the story to make sense.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate character voice; 🔎 retell; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate character voice; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001\"></use></svg>",
+    "visual": "📖 show character voice; 🔎 retell; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show character voice; 🔎 retell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le05.svg#ac9e1le05-t-001",
-      "alt_text": "📖 Demonstrate character voice; 🔎 retell; ✅ choose with evidence"
+      "alt_text": "📖 show character voice; 🔎 retell; ✅ choose with evidence"
     },
     "answers": [
       "Vocabulary, voice or gesture clearly distinguishes both while event stays recognisable",

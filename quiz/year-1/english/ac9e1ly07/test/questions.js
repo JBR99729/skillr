@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly07 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate volume choices?",
-    "audioPrompt": "Which response would correctly demonstrate volume choices?",
-    "visual": "📖 Demonstrate volume choices; 🔎 opening; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate volume choices; 🔎 opening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-001\"></use></svg>",
+    "question": "Which response would correctly show volume choices?",
+    "audioPrompt": "Which response would correctly show volume choices?",
+    "visual": "📖 show volume choices; 🔎 opening; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show volume choices; 🔎 opening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-001",
-      "alt_text": "📖 Demonstrate volume choices; 🔎 opening; ✅ choose with evidence"
+      "alt_text": "📖 show volume choices; 🔎 opening; ✅ choose with evidence"
     },
     "answers": [
       "Both are audible for audience size; explanation links volume to distance/room",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly07 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate volume choices?",
-    "audioPrompt": "Which tip would help you demonstrate volume choices?",
-    "visual": "🧠 Demonstrate volume choices; ➡️ Opening; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate volume choices; ➡️ Opening; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-002\"></use></svg>",
+    "question": "Which tip would help you show volume choices?",
+    "audioPrompt": "Which tip would help you show volume choices?",
+    "visual": "🧠 show volume choices; ➡️ Opening; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show volume choices; ➡️ Opening; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-002",
-      "alt_text": "🧠 Demonstrate volume choices; ➡️ Opening; 💡 helpful strategy"
+      "alt_text": "🧠 show volume choices; ➡️ Opening; 💡 helpful strategy"
     },
     "answers": [
       "Read too fast.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate volume choices; ➡️ Opening; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate volume choices; ➡️ Opening; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-002\"></use></svg>",
+    "visual": "🧠 show volume choices; ➡️ Opening; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show volume choices; ➡️ Opening; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-002",
-      "alt_text": "🧠 Demonstrate volume choices; ➡️ Opening; 💡 helpful strategy"
+      "alt_text": "🧠 show volume choices; ➡️ Opening; 💡 helpful strategy"
     },
     "answers": [
       "Leave out closing.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Leave out closing.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Leave out closing.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate volume choices; 🔎 opening; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate volume choices; 🔎 opening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-001\"></use></svg>",
+    "visual": "📖 show volume choices; 🔎 opening; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show volume choices; 🔎 opening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-001",
-      "alt_text": "📖 Demonstrate volume choices; 🔎 opening; ✅ choose with evidence"
+      "alt_text": "📖 show volume choices; 🔎 opening; ✅ choose with evidence"
     },
     "answers": [
       "Both are audible for audience size; explanation links volume to distance/room",

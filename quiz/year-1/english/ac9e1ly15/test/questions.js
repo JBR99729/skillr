@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly15 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate morpheme removal?",
-    "audioPrompt": "Which response would correctly demonstrate morpheme removal?",
-    "visual": "📖 Demonstrate morpheme removal; 🔎 base word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate morpheme removal; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001\"></use></svg>",
+    "question": "Which response would correctly show morpheme removal?",
+    "audioPrompt": "Which response would correctly show morpheme removal?",
+    "visual": "📖 show morpheme removal; 🔎 base word; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show morpheme removal; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001",
-      "alt_text": "📖 Demonstrate morpheme removal; 🔎 base word; ✅ choose with evidence"
+      "alt_text": "📖 show morpheme removal; 🔎 base word; ✅ choose with evidence"
     },
     "answers": [
       "Playing → play; ongoing form returns to base action",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly15 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate morpheme removal?",
-    "audioPrompt": "Which tip would help you demonstrate morpheme removal?",
-    "visual": "🧠 Demonstrate morpheme removal; ➡️ Find base word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate morpheme removal; ➡️ Find base word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002\"></use></svg>",
+    "question": "Which tip would help you show morpheme removal?",
+    "audioPrompt": "Which tip would help you show morpheme removal?",
+    "visual": "🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002",
-      "alt_text": "🧠 Demonstrate morpheme removal; ➡️ Find base word; 💡 helpful strategy"
+      "alt_text": "🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy"
     },
     "answers": [
       "Do not find the base word first.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate morpheme removal; ➡️ Find base word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate morpheme removal; ➡️ Find base word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002\"></use></svg>",
+    "visual": "🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002",
-      "alt_text": "🧠 Demonstrate morpheme removal; ➡️ Find base word; 💡 helpful strategy"
+      "alt_text": "🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy"
     },
     "answers": [
       "play; ongoing form returns to base action → Playing",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “play; ongoing form returns to base action → Playing”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose play; ongoing form returns to base action → Playing. Which answer would improve their response?",
-    "visual": "📖 Demonstrate morpheme removal; 🔎 base word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate morpheme removal; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001\"></use></svg>",
+    "visual": "📖 show morpheme removal; 🔎 base word; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show morpheme removal; 🔎 base word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001",
-      "alt_text": "📖 Demonstrate morpheme removal; 🔎 base word; ✅ choose with evidence"
+      "alt_text": "📖 show morpheme removal; 🔎 base word; ✅ choose with evidence"
     },
     "answers": [
       "Playing → play; ongoing form returns to base action",

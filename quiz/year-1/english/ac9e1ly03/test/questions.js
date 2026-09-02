@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly03 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate three voices?",
-    "audioPrompt": "Which response would correctly demonstrate three voices?",
-    "visual": "📖 Demonstrate three voices; 🔎 imaginative; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate three voices; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001\"></use></svg>",
+    "question": "Which response would correctly show three voices?",
+    "audioPrompt": "Which response would correctly show three voices?",
+    "visual": "📖 show three voices; 🔎 imaginative; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show three voices; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001",
-      "alt_text": "📖 Demonstrate three voices; 🔎 imaginative; ✅ choose with evidence"
+      "alt_text": "📖 show three voices; 🔎 imaginative; ✅ choose with evidence"
     },
     "answers": [
       "Three clearly different sentences suited to narrative, factual and opinion/action purposes",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly03 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate three voices?",
-    "audioPrompt": "Which tip would help you demonstrate three voices?",
-    "visual": "🧠 Demonstrate three voices; ➡️ Name text type; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate three voices; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002\"></use></svg>",
+    "question": "Which tip would help you show three voices?",
+    "audioPrompt": "Which tip would help you show three voices?",
+    "visual": "🧠 show three voices; ➡️ Name text type; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show three voices; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002",
-      "alt_text": "🧠 Demonstrate three voices; ➡️ Name text type; 💡 helpful strategy"
+      "alt_text": "🧠 show three voices; ➡️ Name text type; 💡 helpful strategy"
     },
     "answers": [
       "Treat an opinion as a fact.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate three voices; ➡️ Name text type; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate three voices; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002\"></use></svg>",
+    "visual": "🧠 show three voices; ➡️ Name text type; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show three voices; ➡️ Name text type; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-002",
-      "alt_text": "🧠 Demonstrate three voices; ➡️ Name text type; 💡 helpful strategy"
+      "alt_text": "🧠 show three voices; ➡️ Name text type; 💡 helpful strategy"
     },
     "answers": [
       "Treat every text as a story.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Treat every text as a story.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Treat every text as a story.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate three voices; 🔎 imaginative; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate three voices; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001\"></use></svg>",
+    "visual": "📖 show three voices; 🔎 imaginative; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show three voices; 🔎 imaginative; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly03.svg#ac9e1ly03-t-001",
-      "alt_text": "📖 Demonstrate three voices; 🔎 imaginative; ✅ choose with evidence"
+      "alt_text": "📖 show three voices; 🔎 imaginative; ✅ choose with evidence"
     },
     "answers": [
       "Three clearly different sentences suited to narrative, factual and opinion/action purposes",

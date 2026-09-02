@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LY15",
     "bank": "test",
     "skill": "ac9e1ly15_01_answer",
-    "question": "Which response would correctly demonstrate morpheme removal?",
-    "audio_prompt": "Which response would correctly demonstrate morpheme removal?",
+    "question": "Which response would correctly show morpheme removal?",
+    "audio_prompt": "Which response would correctly show morpheme removal?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001",
-      "alt_text": "📖 Demonstrate morpheme removal; 🔎 base word; ✅ choose with evidence"
+      "alt_text": "📖 show morpheme removal; 🔎 base word; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LY15",
     "bank": "test",
     "skill": "ac9e1ly15_01_strategy",
-    "question": "Which tip would help you demonstrate morpheme removal?",
-    "audio_prompt": "Which tip would help you demonstrate morpheme removal?",
+    "question": "Which tip would help you show morpheme removal?",
+    "audio_prompt": "Which tip would help you show morpheme removal?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002",
-      "alt_text": "🧠 Demonstrate morpheme removal; ➡️ Find base word; 💡 helpful strategy"
+      "alt_text": "🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-002",
-      "alt_text": "🧠 Demonstrate morpheme removal; ➡️ Find base word; 💡 helpful strategy"
+      "alt_text": "🧠 show morpheme removal; ➡️ Find base word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly15.svg#ac9e1ly15-t-001",
-      "alt_text": "📖 Demonstrate morpheme removal; 🔎 base word; ✅ choose with evidence"
+      "alt_text": "📖 show morpheme removal; 🔎 base word; ✅ choose with evidence"
     },
     "answers": [
       {

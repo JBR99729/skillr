@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LY13",
     "bank": "test",
     "skill": "ac9e1ly13_01_answer",
-    "question": "Which response would correctly demonstrate say-segment-write?",
-    "audio_prompt": "Which response would correctly demonstrate say-segment-write?",
+    "question": "Which response would correctly show say-segment-write?",
+    "audio_prompt": "Which response would correctly show say-segment-write?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001",
-      "alt_text": "📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
+      "alt_text": "📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LY13",
     "bank": "test",
     "skill": "ac9e1ly13_01_strategy",
-    "question": "Which tip would help you demonstrate say-segment-write?",
-    "audio_prompt": "Which tip would help you demonstrate say-segment-write?",
+    "question": "Which tip would help you show say-segment-write?",
+    "audio_prompt": "Which tip would help you show say-segment-write?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002",
-      "alt_text": "🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1555,7 +1555,7 @@
         "is_correct": false
       },
       {
-        "text": "Recognises shared -ight chunk from light/right; correct spelling night",
+        "text": "Notices shared -ight chunk from light/right; correct spelling night",
         "is_correct": true
       },
       {
@@ -1565,7 +1565,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Recognises shared -ight chunk from light/right; correct spelling night This matches the task.",
+      "summary": "Notices shared -ight chunk from light/right; correct spelling night This matches the task.",
       "hint": "Compare with a known word."
     }
   },
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002",
-      "alt_text": "🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001",
-      "alt_text": "📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
+      "alt_text": "📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1905,13 +1905,13 @@
         "is_correct": false
       },
       {
-        "text": "Recognises shared -ight chunk from light/right; correct spelling night",
+        "text": "Notices shared -ight chunk from light/right; correct spelling night",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Recognises shared -ight chunk from light/right; correct spelling night is the stronger response because it uses the target skill. Compare with a known word.",
+      "summary": "Notices shared -ight chunk from light/right; correct spelling night is the stronger response because it uses the target skill. Compare with a known word.",
       "hint": "Compare with a known word."
     },
     "stage": "apply"

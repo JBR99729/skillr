@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la04 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate rhythm change?",
-    "audioPrompt": "Which response would correctly demonstrate rhythm change?",
-    "visual": "📖 Demonstrate rhythm change; 🔎 repeat; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate rhythm change; 🔎 repeat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001\"></use></svg>",
+    "question": "Which response would correctly show rhythm change?",
+    "audioPrompt": "Which response would correctly show rhythm change?",
+    "visual": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show rhythm change; 🔎 repeat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001",
-      "alt_text": "📖 Demonstrate rhythm change; 🔎 repeat; ✅ choose with evidence"
+      "alt_text": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence"
     },
     "answers": [
       "Steady version is easier because listeners can predict and follow the rhythm",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la04 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate rhythm change?",
-    "audioPrompt": "Which tip would help you demonstrate rhythm change?",
-    "visual": "🧠 Demonstrate rhythm change; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate rhythm change; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002\"></use></svg>",
+    "question": "Which tip would help you show rhythm change?",
+    "audioPrompt": "Which tip would help you show rhythm change?",
+    "visual": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002",
-      "alt_text": "🧠 Demonstrate rhythm change; ➡️ Listen; 💡 helpful strategy"
+      "alt_text": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
       "Read without rhythm.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate rhythm change; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate rhythm change; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002\"></use></svg>",
+    "visual": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002",
-      "alt_text": "🧠 Demonstrate rhythm change; ➡️ Listen; 💡 helpful strategy"
+      "alt_text": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
       "Choose a word with the same first sound instead of a rhyme.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Choose a word with the same first sound instead of a rhyme.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Choose a word with the same first sound instead of a rhyme.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate rhythm change; 🔎 repeat; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate rhythm change; 🔎 repeat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001\"></use></svg>",
+    "visual": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show rhythm change; 🔎 repeat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001",
-      "alt_text": "📖 Demonstrate rhythm change; 🔎 repeat; ✅ choose with evidence"
+      "alt_text": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence"
     },
     "answers": [
       "Steady version is easier because listeners can predict and follow the rhythm",

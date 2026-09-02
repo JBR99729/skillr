@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le01 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate character movement?",
-    "audioPrompt": "Which response would correctly demonstrate character movement?",
-    "visual": "📖 Demonstrate character movement; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate character movement; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001\"></use></svg>",
+    "question": "Which response would correctly show character movement?",
+    "audioPrompt": "Which response would correctly show character movement?",
+    "visual": "📖 show character movement; 🔎 character; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show character movement; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001",
-      "alt_text": "📖 Demonstrate character movement; 🔎 character; ✅ choose with evidence"
+      "alt_text": "📖 show character movement; 🔎 character; ✅ choose with evidence"
     },
     "answers": [
       "Gives distinct pose/line/movement details for both and connects them to pace/feeling",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le01 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate character movement?",
-    "audioPrompt": "Which tip would help you demonstrate character movement?",
-    "visual": "🧠 Demonstrate character movement; ➡️ Notice words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate character movement; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002\"></use></svg>",
+    "question": "Which tip would help you show character movement?",
+    "audioPrompt": "Which tip would help you show character movement?",
+    "visual": "🧠 show character movement; ➡️ Notice words; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show character movement; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002",
-      "alt_text": "🧠 Demonstrate character movement; ➡️ Notice words; 💡 helpful strategy"
+      "alt_text": "🧠 show character movement; ➡️ Notice words; 💡 helpful strategy"
     },
     "answers": [
       "Do not use both language and image where available.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate character movement; ➡️ Notice words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate character movement; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002\"></use></svg>",
+    "visual": "🧠 show character movement; ➡️ Notice words; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show character movement; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002",
-      "alt_text": "🧠 Demonstrate character movement; ➡️ Notice words; 💡 helpful strategy"
+      "alt_text": "🧠 show character movement; ➡️ Notice words; 💡 helpful strategy"
     },
     "answers": [
       "Give an opinion without evidence from the text.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Give an opinion without evidence from the text.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Give an opinion without evidence from the text.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate character movement; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate character movement; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001\"></use></svg>",
+    "visual": "📖 show character movement; 🔎 character; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show character movement; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001",
-      "alt_text": "📖 Demonstrate character movement; 🔎 character; ✅ choose with evidence"
+      "alt_text": "📖 show character movement; 🔎 character; ✅ choose with evidence"
     },
     "answers": [
       "Gives distinct pose/line/movement details for both and connects them to pace/feeling",

@@ -9,12 +9,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Read a mixed row—said, the, have, come, one—twice, aiming for smooth accuracy rather than racing.",
     "audioPrompt": "Read a mixed row—said, the, have, come, one—twice, aiming for smooth accuracy rather than racing.",
-    "visual": "📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001\"></use></svg>",
+    "visual": "📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001",
-      "alt_text": "📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
+      "alt_text": "📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
     },
     "answers": [
       "All five read accurately with improved or steady smoothness",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly14 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate rapid accurate reading?",
-    "audioPrompt": "Which tip would help you demonstrate rapid accurate reading?",
-    "visual": "🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002\"></use></svg>",
+    "question": "Which tip would help you show rapid accurate reading?",
+    "audioPrompt": "Which tip would help you show rapid accurate reading?",
+    "visual": "🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002",
-      "alt_text": "🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
+      "alt_text": "🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
     },
     "answers": [
       "Do not use it in a sentence.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002\"></use></svg>",
+    "visual": "🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002",
-      "alt_text": "🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
+      "alt_text": "🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
     },
     "answers": [
       "Memorise only the word shape.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Memorise only the word shape.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Memorise only the word shape.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001\"></use></svg>",
+    "visual": "📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001",
-      "alt_text": "📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
+      "alt_text": "📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
     },
     "answers": [
       "All five read accurately with improved or steady smoothness",

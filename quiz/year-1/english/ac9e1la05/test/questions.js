@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la05 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate two routes?",
-    "audioPrompt": "Which response would correctly demonstrate two routes?",
-    "visual": "📖 Demonstrate two routes; 🔎 title; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two routes; 🔎 title; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001\"></use></svg>",
+    "question": "Which response would correctly show two routes?",
+    "audioPrompt": "Which response would correctly show two routes?",
+    "visual": "📖 show two routes; 🔎 title; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two routes; 🔎 title; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001",
-      "alt_text": "📖 Demonstrate two routes; 🔎 title; ✅ choose with evidence"
+      "alt_text": "📖 show two routes; 🔎 title; ✅ choose with evidence"
     },
     "answers": [
       "Completes two valid labelled routes without relying on icon appearance alone",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la05 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate two routes?",
-    "audioPrompt": "Which tip would help you demonstrate two routes?",
-    "visual": "🧠 Demonstrate two routes; ➡️ Look at feature; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two routes; ➡️ Look at feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002\"></use></svg>",
+    "question": "Which tip would help you show two routes?",
+    "audioPrompt": "Which tip would help you show two routes?",
+    "visual": "🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002",
-      "alt_text": "🧠 Demonstrate two routes; ➡️ Look at feature; 💡 helpful strategy"
+      "alt_text": "🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy"
     },
     "answers": [
       "Confuse title and heading.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate two routes; ➡️ Look at feature; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two routes; ➡️ Look at feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002\"></use></svg>",
+    "visual": "🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-002",
-      "alt_text": "🧠 Demonstrate two routes; ➡️ Look at feature; 💡 helpful strategy"
+      "alt_text": "🧠 show two routes; ➡️ Look at feature; 💡 helpful strategy"
     },
     "answers": [
       "Name the feature but not its job.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Name the feature but not its job.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Name the feature but not its job.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate two routes; 🔎 title; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two routes; 🔎 title; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001\"></use></svg>",
+    "visual": "📖 show two routes; 🔎 title; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two routes; 🔎 title; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la05.svg#ac9e1la05-t-001",
-      "alt_text": "📖 Demonstrate two routes; 🔎 title; ✅ choose with evidence"
+      "alt_text": "📖 show two routes; 🔎 title; ✅ choose with evidence"
     },
     "answers": [
       "Completes two valid labelled routes without relying on icon appearance alone",

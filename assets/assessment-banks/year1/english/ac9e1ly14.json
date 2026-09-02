@@ -1411,7 +1411,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001",
-      "alt_text": "📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
+      "alt_text": "📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LY14",
     "bank": "test",
     "skill": "ac9e1ly14_01_strategy",
-    "question": "Which tip would help you demonstrate rapid accurate reading?",
-    "audio_prompt": "Which tip would help you demonstrate rapid accurate reading?",
+    "question": "Which tip would help you show rapid accurate reading?",
+    "audio_prompt": "Which tip would help you show rapid accurate reading?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002",
-      "alt_text": "🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
+      "alt_text": "🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002",
-      "alt_text": "🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
+      "alt_text": "🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001",
-      "alt_text": "📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
+      "alt_text": "📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
     },
     "answers": [
       {

@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la02 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate changing preference?",
-    "audioPrompt": "Which response would correctly demonstrate changing preference?",
-    "visual": "📖 Demonstrate changing preference; 🔎 like; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate changing preference; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-001\"></use></svg>",
+    "question": "Which response would correctly show changing preference?",
+    "audioPrompt": "Which response would correctly show changing preference?",
+    "visual": "📖 show changing preference; 🔎 like; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show changing preference; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-001",
-      "alt_text": "📖 Demonstrate changing preference; 🔎 like; ✅ choose with evidence"
+      "alt_text": "📖 show changing preference; 🔎 like; ✅ choose with evidence"
     },
     "answers": [
       "States an initial preference, relevant weather information and a revised or maintained choice with reason",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la02 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate changing preference?",
-    "audioPrompt": "Which tip would help you demonstrate changing preference?",
-    "visual": "🧠 Demonstrate changing preference; ➡️ State preference; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate changing preference; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-002\"></use></svg>",
+    "question": "Which tip would help you show changing preference?",
+    "audioPrompt": "Which tip would help you show changing preference?",
+    "visual": "🧠 show changing preference; ➡️ State preference; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show changing preference; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-002",
-      "alt_text": "🧠 Demonstrate changing preference; ➡️ State preference; 💡 helpful strategy"
+      "alt_text": "🧠 show changing preference; ➡️ State preference; 💡 helpful strategy"
     },
     "answers": [
       "Do not use like, dislike, prefer and reason language.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate changing preference; ➡️ State preference; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate changing preference; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-002\"></use></svg>",
+    "visual": "🧠 show changing preference; ➡️ State preference; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show changing preference; ➡️ State preference; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-002",
-      "alt_text": "🧠 Demonstrate changing preference; ➡️ State preference; 💡 helpful strategy"
+      "alt_text": "🧠 show changing preference; ➡️ State preference; 💡 helpful strategy"
     },
     "answers": [
       "Leave out because and a real reason.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Leave out because and a real reason.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Leave out because and a real reason.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate changing preference; 🔎 like; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate changing preference; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-001\"></use></svg>",
+    "visual": "📖 show changing preference; 🔎 like; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show changing preference; 🔎 like; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-001",
-      "alt_text": "📖 Demonstrate changing preference; 🔎 like; ✅ choose with evidence"
+      "alt_text": "📖 show changing preference; 🔎 like; ✅ choose with evidence"
     },
     "answers": [
       "States an initial preference, relevant weather information and a revised or maintained choice with reason",

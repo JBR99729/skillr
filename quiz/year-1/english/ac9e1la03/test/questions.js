@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la03 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate two openings?",
-    "audioPrompt": "Which response would correctly demonstrate two openings?",
-    "visual": "📖 Demonstrate two openings; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two openings; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001\"></use></svg>",
+    "question": "Which response would correctly show two openings?",
+    "audioPrompt": "Which response would correctly show two openings?",
+    "visual": "📖 show two openings; 🔎 purpose; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two openings; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001",
-      "alt_text": "📖 Demonstrate two openings; 🔎 purpose; ✅ choose with evidence"
+      "alt_text": "📖 show two openings; 🔎 purpose; ✅ choose with evidence"
     },
     "answers": [
       "Narrative introduces character/setting/event; report introduces factual topic",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la03 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate two openings?",
-    "audioPrompt": "Which tip would help you demonstrate two openings?",
-    "visual": "🧠 Demonstrate two openings; ➡️ Identify purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two openings; ➡️ Identify purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002\"></use></svg>",
+    "question": "Which tip would help you show two openings?",
+    "audioPrompt": "Which tip would help you show two openings?",
+    "visual": "🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002",
-      "alt_text": "🧠 Demonstrate two openings; ➡️ Identify purpose; 💡 helpful strategy"
+      "alt_text": "🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy"
     },
     "answers": [
       "Do not match structure to purpose.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate two openings; ➡️ Identify purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two openings; ➡️ Identify purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002\"></use></svg>",
+    "visual": "🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002",
-      "alt_text": "🧠 Demonstrate two openings; ➡️ Identify purpose; 💡 helpful strategy"
+      "alt_text": "🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy"
     },
     "answers": [
       "Do not ask what the text is doing, not only what it is about.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Do not ask what the text is doing, not only what it is about.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Do not ask what the text is doing, not only what it is about.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate two openings; 🔎 purpose; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two openings; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001\"></use></svg>",
+    "visual": "📖 show two openings; 🔎 purpose; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two openings; 🔎 purpose; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001",
-      "alt_text": "📖 Demonstrate two openings; 🔎 purpose; ✅ choose with evidence"
+      "alt_text": "📖 show two openings; 🔎 purpose; ✅ choose with evidence"
     },
     "answers": [
       "Narrative introduces character/setting/event; report introduces factual topic",

@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le03 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate character response?",
-    "audioPrompt": "Which response would correctly demonstrate character response?",
-    "visual": "📖 Demonstrate character response; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate character response; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-001\"></use></svg>",
+    "question": "Which response would correctly show character response?",
+    "audioPrompt": "Which response would correctly show character response?",
+    "visual": "📖 show character response; 🔎 plot; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show character response; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-001",
-      "alt_text": "📖 Demonstrate character response; 🔎 plot; ✅ choose with evidence"
+      "alt_text": "📖 show character response; 🔎 plot; ✅ choose with evidence"
     },
     "answers": [
       "Response combines courage with checking/seeking help rather than unsafe action",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le03 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate character response?",
-    "audioPrompt": "Which tip would help you demonstrate character response?",
-    "visual": "🧠 Demonstrate character response; ➡️ Read story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate character response; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-002\"></use></svg>",
+    "question": "Which tip would help you show character response?",
+    "audioPrompt": "Which tip would help you show character response?",
+    "visual": "🧠 show character response; ➡️ Read story; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show character response; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-002",
-      "alt_text": "🧠 Demonstrate character response; ➡️ Read story; 💡 helpful strategy"
+      "alt_text": "🧠 show character response; ➡️ Read story; 💡 helpful strategy"
     },
     "answers": [
       "Do not ask where and when the story happens.",
@@ -134,13 +134,13 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Use plot as one event only.",
-      "Identifies inconsistent time/place and changes at least two details to create one coherent setting",
+      "Names inconsistent time/place and changes at least two details to create one coherent setting",
       "Treat character as any object."
     ],
     "correct": 1,
-    "explanation": "Identifies inconsistent time/place and changes at least two details to create one coherent setting This matches the task.\nHint: Track events across beginning, middle and end.",
+    "explanation": "Names inconsistent time/place and changes at least two details to create one coherent setting This matches the task.\nHint: Track events across beginning, middle and end.",
     "structuredExplanation": {
-      "summary": "Identifies inconsistent time/place and changes at least two details to create one coherent setting This matches the task.",
+      "summary": "Names inconsistent time/place and changes at least two details to create one coherent setting This matches the task.",
       "hint": "Track events across beginning, middle and end."
     },
     "qualitySchema": "production-v1"
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate character response; ➡️ Read story; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate character response; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-002\"></use></svg>",
+    "visual": "🧠 show character response; ➡️ Read story; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show character response; ➡️ Read story; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-002",
-      "alt_text": "🧠 Demonstrate character response; ➡️ Read story; 💡 helpful strategy"
+      "alt_text": "🧠 show character response; ➡️ Read story; 💡 helpful strategy"
     },
     "answers": [
       "Treat character as any object.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Treat character as any object.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Treat character as any object.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate character response; 🔎 plot; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate character response; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-001\"></use></svg>",
+    "visual": "📖 show character response; 🔎 plot; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show character response; 🔎 plot; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-001",
-      "alt_text": "📖 Demonstrate character response; 🔎 plot; ✅ choose with evidence"
+      "alt_text": "📖 show character response; 🔎 plot; ✅ choose with evidence"
     },
     "answers": [
       "Response combines courage with checking/seeking help rather than unsafe action",
@@ -425,12 +425,12 @@ window.skillrTestQuestions = [
     "answers": [
       "Use plot as one event only.",
       "Treat character as any object.",
-      "Identifies inconsistent time/place and changes at least two details to create one coherent setting"
+      "Names inconsistent time/place and changes at least two details to create one coherent setting"
     ],
     "correct": 2,
-    "explanation": "Identifies inconsistent time/place and changes at least two details to create one coherent setting is the stronger response because it uses the target skill. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
+    "explanation": "Names inconsistent time/place and changes at least two details to create one coherent setting is the stronger response because it uses the target skill. Track events across beginning, middle and end.\nHint: Track events across beginning, middle and end.",
     "structuredExplanation": {
-      "summary": "Identifies inconsistent time/place and changes at least two details to create one coherent setting is the stronger response because it uses the target skill. Track events across beginning, middle and end.",
+      "summary": "Names inconsistent time/place and changes at least two details to create one coherent setting is the stronger response because it uses the target skill. Track events across beginning, middle and end.",
       "hint": "Track events across beginning, middle and end."
     },
     "qualitySchema": "production-v1"

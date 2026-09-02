@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LE04",
     "bank": "test",
     "skill": "ac9e1le04_01_answer",
-    "question": "Which response would correctly demonstrate imitation?",
-    "audio_prompt": "Which response would correctly demonstrate imitation?",
+    "question": "Which response would correctly show imitation?",
+    "audio_prompt": "Which response would correctly show imitation?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001",
-      "alt_text": "📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence"
+      "alt_text": "📖 show imitation; 🔎 rhyme; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LE04",
     "bank": "test",
     "skill": "ac9e1le04_01_strategy",
-    "question": "Which tip would help you demonstrate imitation?",
-    "audio_prompt": "Which tip would help you demonstrate imitation?",
+    "question": "Which tip would help you show imitation?",
+    "audio_prompt": "Which tip would help you show imitation?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002",
-      "alt_text": "🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy"
+      "alt_text": "🧠 show imitation; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002",
-      "alt_text": "🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy"
+      "alt_text": "🧠 show imitation; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001",
-      "alt_text": "📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence"
+      "alt_text": "📖 show imitation; 🔎 rhyme; ✅ choose with evidence"
     },
     "answers": [
       {

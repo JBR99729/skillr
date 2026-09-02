@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LY08",
     "bank": "test",
     "skill": "ac9e1ly08_01_answer",
-    "question": "Which response would correctly demonstrate grip and posture?",
-    "audio_prompt": "Which response would correctly demonstrate grip and posture?",
+    "question": "Which response would correctly show grip and posture?",
+    "audio_prompt": "Which response would correctly show grip and posture?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-001",
-      "alt_text": "📖 Demonstrate grip and posture; 🔎 upper-case; ✅ choose with evidence"
+      "alt_text": "📖 show grip and posture; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LY08",
     "bank": "test",
     "skill": "ac9e1ly08_01_strategy",
-    "question": "Which tip would help you demonstrate grip and posture?",
-    "audio_prompt": "Which tip would help you demonstrate grip and posture?",
+    "question": "Which tip would help you show grip and posture?",
+    "audio_prompt": "Which tip would help you show grip and posture?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-002",
-      "alt_text": "🧠 Demonstrate grip and posture; ➡️ Start point; 💡 helpful strategy"
+      "alt_text": "🧠 show grip and posture; ➡️ Start point; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-002",
-      "alt_text": "🧠 Demonstrate grip and posture; ➡️ Start point; 💡 helpful strategy"
+      "alt_text": "🧠 show grip and posture; ➡️ Start point; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-001",
-      "alt_text": "📖 Demonstrate grip and posture; 🔎 upper-case; ✅ choose with evidence"
+      "alt_text": "📖 show grip and posture; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
       {

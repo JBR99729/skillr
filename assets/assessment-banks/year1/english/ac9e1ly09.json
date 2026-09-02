@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LY09",
     "bank": "test",
     "skill": "ac9e1ly09_01_answer",
-    "question": "Which response would correctly demonstrate continuous segmenting?",
-    "audio_prompt": "Which response would correctly demonstrate continuous segmenting?",
+    "question": "Which response would correctly show continuous segmenting?",
+    "audio_prompt": "Which response would correctly show continuous segmenting?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001",
-      "alt_text": "📖 Demonstrate continuous segmenting; 🔎 phoneme; ✅ choose with evidence"
+      "alt_text": "📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LY09",
     "bank": "test",
     "skill": "ac9e1ly09_01_strategy",
-    "question": "Which tip would help you demonstrate continuous segmenting?",
-    "audio_prompt": "Which tip would help you demonstrate continuous segmenting?",
+    "question": "Which tip would help you show continuous segmenting?",
+    "audio_prompt": "Which tip would help you show continuous segmenting?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002",
-      "alt_text": "🧠 Demonstrate continuous segmenting; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002",
-      "alt_text": "🧠 Demonstrate continuous segmenting; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001",
-      "alt_text": "📖 Demonstrate continuous segmenting; 🔎 phoneme; ✅ choose with evidence"
+      "alt_text": "📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence"
     },
     "answers": [
       {

@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la09 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate word teaching?",
-    "audioPrompt": "Which response would correctly demonstrate word teaching?",
-    "visual": "📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001\"></use></svg>",
+    "question": "Which response would correctly show word teaching?",
+    "audioPrompt": "Which response would correctly show word teaching?",
+    "visual": "📖 show word teaching; 🔎 topic word; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show word teaching; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001",
-      "alt_text": "📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence"
+      "alt_text": "📖 show word teaching; 🔎 topic word; ✅ choose with evidence"
     },
     "answers": [
       "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la09 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate word teaching?",
-    "audioPrompt": "Which tip would help you demonstrate word teaching?",
-    "visual": "🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002\"></use></svg>",
+    "question": "Which tip would help you show word teaching?",
+    "audioPrompt": "Which tip would help you show word teaching?",
+    "visual": "🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002",
-      "alt_text": "🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy"
+      "alt_text": "🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy"
     },
     "answers": [
       "Do not check the subject meaning.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002\"></use></svg>",
+    "visual": "🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-002",
-      "alt_text": "🧠 Demonstrate word teaching; ➡️ Hear word; 💡 helpful strategy"
+      "alt_text": "🧠 show word teaching; ➡️ Hear word; 💡 helpful strategy"
     },
     "answers": [
       "Use only the word's sound and not its meaning.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Use only the word's sound and not its meaning.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Use only the word's sound and not its meaning.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001\"></use></svg>",
+    "visual": "📖 show word teaching; 🔎 topic word; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show word teaching; 🔎 topic word; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la09.svg#ac9e1la09-t-001",
-      "alt_text": "📖 Demonstrate word teaching; 🔎 topic word; ✅ choose with evidence"
+      "alt_text": "📖 show word teaching; 🔎 topic word; ✅ choose with evidence"
     },
     "answers": [
       "Defines ordered events/terms, gives valid sequence and an unordered/non-sequence example",

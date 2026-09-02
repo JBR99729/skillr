@@ -9,12 +9,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Read 'You found it.' and 'You found it!' aloud. Explain the difference.",
     "audioPrompt": "Read 'You found it.' and 'You found it!' aloud. Explain the difference.",
-    "visual": "📖 Demonstrate mark meaning; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate mark meaning; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-001\"></use></svg>",
+    "visual": "📖 show mark meaning; 🔎 full stop; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show mark meaning; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-001",
-      "alt_text": "📖 Demonstrate mark meaning; 🔎 full stop; ✅ choose with evidence"
+      "alt_text": "📖 show mark meaning; 🔎 full stop; ✅ choose with evidence"
     },
     "answers": [
       "Full stop is neutral statement; exclamation adds strong excitement/surprise/emphasis",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la10 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate mark meaning?",
-    "audioPrompt": "Which tip would help you demonstrate mark meaning?",
-    "visual": "🧠 Demonstrate mark meaning; ➡️ Read sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate mark meaning; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-002\"></use></svg>",
+    "question": "Which tip would help you show mark meaning?",
+    "audioPrompt": "Which tip would help you show mark meaning?",
+    "visual": "🧠 show mark meaning; ➡️ Read sentence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show mark meaning; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-002",
-      "alt_text": "🧠 Demonstrate mark meaning; ➡️ Read sentence; 💡 helpful strategy"
+      "alt_text": "🧠 show mark meaning; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
       "Do not use capitals for sentence starts and proper nouns.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate mark meaning; ➡️ Read sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate mark meaning; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-002\"></use></svg>",
+    "visual": "🧠 show mark meaning; ➡️ Read sentence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show mark meaning; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-002",
-      "alt_text": "🧠 Demonstrate mark meaning; ➡️ Read sentence; 💡 helpful strategy"
+      "alt_text": "🧠 show mark meaning; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
       "You found it",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “You found it”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose You found it. Which answer would improve their response?",
-    "visual": "📖 Demonstrate mark meaning; 🔎 full stop; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate mark meaning; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-001\"></use></svg>",
+    "visual": "📖 show mark meaning; 🔎 full stop; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show mark meaning; 🔎 full stop; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la10.svg#ac9e1la10-t-001",
-      "alt_text": "📖 Demonstrate mark meaning; 🔎 full stop; ✅ choose with evidence"
+      "alt_text": "📖 show mark meaning; 🔎 full stop; ✅ choose with evidence"
     },
     "answers": [
       "Full stop is neutral statement; exclamation adds strong excitement/surprise/emphasis",

@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LE03",
     "bank": "test",
     "skill": "ac9e1le03_01_answer",
-    "question": "Which response would correctly demonstrate character response?",
-    "audio_prompt": "Which response would correctly demonstrate character response?",
+    "question": "Which response would correctly show character response?",
+    "audio_prompt": "Which response would correctly show character response?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-001",
-      "alt_text": "📖 Demonstrate character response; 🔎 plot; ✅ choose with evidence"
+      "alt_text": "📖 show character response; 🔎 plot; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LE03",
     "bank": "test",
     "skill": "ac9e1le03_01_strategy",
-    "question": "Which tip would help you demonstrate character response?",
-    "audio_prompt": "Which tip would help you demonstrate character response?",
+    "question": "Which tip would help you show character response?",
+    "audio_prompt": "Which tip would help you show character response?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-002",
-      "alt_text": "🧠 Demonstrate character response; ➡️ Read story; 💡 helpful strategy"
+      "alt_text": "🧠 show character response; ➡️ Read story; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1555,7 +1555,7 @@
         "is_correct": false
       },
       {
-        "text": "Identifies inconsistent time/place and changes at least two details to create one coherent setting",
+        "text": "Names inconsistent time/place and changes at least two details to create one coherent setting",
         "is_correct": true
       },
       {
@@ -1565,7 +1565,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identifies inconsistent time/place and changes at least two details to create one coherent setting This matches the task.",
+      "summary": "Names inconsistent time/place and changes at least two details to create one coherent setting This matches the task.",
       "hint": "Track events across beginning, middle and end."
     }
   },
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-002",
-      "alt_text": "🧠 Demonstrate character response; ➡️ Read story; 💡 helpful strategy"
+      "alt_text": "🧠 show character response; ➡️ Read story; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le03.svg#ac9e1le03-t-001",
-      "alt_text": "📖 Demonstrate character response; 🔎 plot; ✅ choose with evidence"
+      "alt_text": "📖 show character response; 🔎 plot; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1905,13 +1905,13 @@
         "is_correct": false
       },
       {
-        "text": "Identifies inconsistent time/place and changes at least two details to create one coherent setting",
+        "text": "Names inconsistent time/place and changes at least two details to create one coherent setting",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identifies inconsistent time/place and changes at least two details to create one coherent setting is the stronger response because it uses the target skill. Track events across beginning, middle and end.",
+      "summary": "Names inconsistent time/place and changes at least two details to create one coherent setting is the stronger response because it uses the target skill. Track events across beginning, middle and end.",
       "hint": "Track events across beginning, middle and end."
     },
     "stage": "apply"

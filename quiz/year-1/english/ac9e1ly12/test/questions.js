@@ -7,24 +7,24 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly12 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate letter u sounds?",
-    "audioPrompt": "Which response would correctly demonstrate letter u sounds?",
-    "visual": "📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-001\"></use></svg>",
+    "question": "Which response would correctly show letter u sounds?",
+    "audioPrompt": "Which response would correctly show letter u sounds?",
+    "visual": "📖 show letter u sounds; 🔎 letter sound; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show letter u sounds; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-001",
-      "alt_text": "📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence"
+      "alt_text": "📖 show letter u sounds; 🔎 letter sound; ✅ choose with evidence"
     },
     "answers": [
-      "Identifies different common u sounds in the three words without requiring technical symbols",
+      "Names different common u sounds in the three words without requiring technical symbols",
       "Assume a letter always has one sound.",
       "Do not listen for vowel sounds."
     ],
     "correct": 0,
-    "explanation": "Identifies different common u sounds in the three words without requiring technical symbols This matches the task.\nHint: Some letters represent different sounds in different words.",
+    "explanation": "Names different common u sounds in the three words without requiring technical symbols This matches the task.\nHint: Some letters represent different sounds in different words.",
     "structuredExplanation": {
-      "summary": "Identifies different common u sounds in the three words without requiring technical symbols This matches the task.",
+      "summary": "Names different common u sounds in the three words without requiring technical symbols This matches the task.",
       "hint": "Some letters represent different sounds in different words."
     },
     "qualitySchema": "production-v1"
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly12 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate letter u sounds?",
-    "audioPrompt": "Which tip would help you demonstrate letter u sounds?",
-    "visual": "🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-002\"></use></svg>",
+    "question": "Which tip would help you show letter u sounds?",
+    "audioPrompt": "Which tip would help you show letter u sounds?",
+    "visual": "🧠 show letter u sounds; ➡️ Read letter/word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show letter u sounds; ➡️ Read letter/word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-002",
-      "alt_text": "🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy"
+      "alt_text": "🧠 show letter u sounds; ➡️ Read letter/word; 💡 helpful strategy"
     },
     "answers": [
       "Do not listen for vowel sounds.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-002\"></use></svg>",
+    "visual": "🧠 show letter u sounds; ➡️ Read letter/word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show letter u sounds; ➡️ Read letter/word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-002",
-      "alt_text": "🧠 Demonstrate letter u sounds; ➡️ Read letter/word; 💡 helpful strategy"
+      "alt_text": "🧠 show letter u sounds; ➡️ Read letter/word; 💡 helpful strategy"
     },
     "answers": [
       "Assume a letter always has one sound.",
@@ -357,22 +357,22 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Assume a letter always has one sound.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Assume a letter always has one sound.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-001\"></use></svg>",
+    "visual": "📖 show letter u sounds; 🔎 letter sound; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show letter u sounds; 🔎 letter sound; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly12.svg#ac9e1ly12-t-001",
-      "alt_text": "📖 Demonstrate letter u sounds; 🔎 letter sound; ✅ choose with evidence"
+      "alt_text": "📖 show letter u sounds; 🔎 letter sound; ✅ choose with evidence"
     },
     "answers": [
-      "Identifies different common u sounds in the three words without requiring technical symbols",
+      "Names different common u sounds in the three words without requiring technical symbols",
       "Assume a letter always has one sound.",
       "Do not listen for vowel sounds."
     ],
     "correct": 0,
-    "explanation": "Identifies different common u sounds in the three words without requiring technical symbols is the stronger response because it uses the target skill. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
+    "explanation": "Names different common u sounds in the three words without requiring technical symbols is the stronger response because it uses the target skill. Some letters represent different sounds in different words.\nHint: Some letters represent different sounds in different words.",
     "structuredExplanation": {
-      "summary": "Identifies different common u sounds in the three words without requiring technical symbols is the stronger response because it uses the target skill. Some letters represent different sounds in different words.",
+      "summary": "Names different common u sounds in the three words without requiring technical symbols is the stronger response because it uses the target skill. Some letters represent different sounds in different words.",
       "hint": "Some letters represent different sounds in different words."
     },
     "qualitySchema": "production-v1"

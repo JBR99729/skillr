@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly06 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate a meaning edit?",
-    "audioPrompt": "Which response would correctly demonstrate a meaning edit?",
-    "visual": "📖 Demonstrate a meaning edit; 🔎 plan; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate a meaning edit; 🔎 plan; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001\"></use></svg>",
+    "question": "Which response would correctly show a meaning edit?",
+    "audioPrompt": "Which response would correctly show a meaning edit?",
+    "visual": "📖 show a meaning edit; 🔎 plan; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show a meaning edit; 🔎 plan; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001",
-      "alt_text": "📖 Demonstrate a meaning edit; 🔎 plan; ✅ choose with evidence"
+      "alt_text": "📖 show a meaning edit; 🔎 plan; ✅ choose with evidence"
     },
     "answers": [
       "For factual report, revise inaccurate claim",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly06 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate a meaning edit?",
-    "audioPrompt": "Which tip would help you demonstrate a meaning edit?",
-    "visual": "🧠 Demonstrate a meaning edit; ➡️ Plan; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate a meaning edit; ➡️ Plan; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002\"></use></svg>",
+    "question": "Which tip would help you show a meaning edit?",
+    "audioPrompt": "Which tip would help you show a meaning edit?",
+    "visual": "🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002",
-      "alt_text": "🧠 Demonstrate a meaning edit; ➡️ Plan; 💡 helpful strategy"
+      "alt_text": "🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy"
     },
     "answers": [
       "Do not check sentence, punctuation and spelling separately.",
@@ -134,13 +134,13 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "You must buy a frog",
-      "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
+      "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
       "Leave out one precise word from the topic."
     ],
     "correct": 1,
-    "explanation": "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report This matches the task.\nHint: Add one precise word from the topic.",
+    "explanation": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report This matches the task.\nHint: Add one precise word from the topic.",
     "structuredExplanation": {
-      "summary": "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report This matches the task.",
+      "summary": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report This matches the task.",
       "hint": "Add one precise word from the topic."
     },
     "qualitySchema": "production-v1"
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate a meaning edit; ➡️ Plan; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate a meaning edit; ➡️ Plan; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002\"></use></svg>",
+    "visual": "🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002",
-      "alt_text": "🧠 Demonstrate a meaning edit; ➡️ Plan; 💡 helpful strategy"
+      "alt_text": "🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy"
     },
     "answers": [
       "The tiny elephant fit in my pocket",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “The tiny elephant fit in my pocket”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose The tiny elephant fit in my pocket. Which answer would improve their response?",
-    "visual": "📖 Demonstrate a meaning edit; 🔎 plan; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate a meaning edit; 🔎 plan; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001\"></use></svg>",
+    "visual": "📖 show a meaning edit; 🔎 plan; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show a meaning edit; 🔎 plan; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001",
-      "alt_text": "📖 Demonstrate a meaning edit; 🔎 plan; ✅ choose with evidence"
+      "alt_text": "📖 show a meaning edit; 🔎 plan; ✅ choose with evidence"
     },
     "answers": [
       "For factual report, revise inaccurate claim",
@@ -425,12 +425,12 @@ window.skillrTestQuestions = [
     "answers": [
       "You must buy a frog",
       "Leave out one precise word from the topic.",
-      "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report"
+      "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report"
     ],
     "correct": 2,
-    "explanation": "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report is the stronger response because it uses the target skill. Add one precise word from the topic.\nHint: Add one precise word from the topic.",
+    "explanation": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report is the stronger response because it uses the target skill. Add one precise word from the topic.\nHint: Add one precise word from the topic.",
     "structuredExplanation": {
-      "summary": "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report is the stronger response because it uses the target skill. Add one precise word from the topic.",
+      "summary": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report is the stronger response because it uses the target skill. Add one precise word from the topic.",
       "hint": "Add one precise word from the topic."
     },
     "qualitySchema": "production-v1"

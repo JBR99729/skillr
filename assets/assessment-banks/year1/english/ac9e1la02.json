@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LA02",
     "bank": "test",
     "skill": "ac9e1la02_01_answer",
-    "question": "Which response would correctly demonstrate changing preference?",
-    "audio_prompt": "Which response would correctly demonstrate changing preference?",
+    "question": "Which response would correctly show changing preference?",
+    "audio_prompt": "Which response would correctly show changing preference?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-001",
-      "alt_text": "📖 Demonstrate changing preference; 🔎 like; ✅ choose with evidence"
+      "alt_text": "📖 show changing preference; 🔎 like; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LA02",
     "bank": "test",
     "skill": "ac9e1la02_01_strategy",
-    "question": "Which tip would help you demonstrate changing preference?",
-    "audio_prompt": "Which tip would help you demonstrate changing preference?",
+    "question": "Which tip would help you show changing preference?",
+    "audio_prompt": "Which tip would help you show changing preference?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-002",
-      "alt_text": "🧠 Demonstrate changing preference; ➡️ State preference; 💡 helpful strategy"
+      "alt_text": "🧠 show changing preference; ➡️ State preference; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-002",
-      "alt_text": "🧠 Demonstrate changing preference; ➡️ State preference; 💡 helpful strategy"
+      "alt_text": "🧠 show changing preference; ➡️ State preference; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la02.svg#ac9e1la02-t-001",
-      "alt_text": "📖 Demonstrate changing preference; 🔎 like; ✅ choose with evidence"
+      "alt_text": "📖 show changing preference; 🔎 like; ✅ choose with evidence"
     },
     "answers": [
       {

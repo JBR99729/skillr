@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LA03",
     "bank": "test",
     "skill": "ac9e1la03_01_answer",
-    "question": "Which response would correctly demonstrate two openings?",
-    "audio_prompt": "Which response would correctly demonstrate two openings?",
+    "question": "Which response would correctly show two openings?",
+    "audio_prompt": "Which response would correctly show two openings?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001",
-      "alt_text": "📖 Demonstrate two openings; 🔎 purpose; ✅ choose with evidence"
+      "alt_text": "📖 show two openings; 🔎 purpose; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LA03",
     "bank": "test",
     "skill": "ac9e1la03_01_strategy",
-    "question": "Which tip would help you demonstrate two openings?",
-    "audio_prompt": "Which tip would help you demonstrate two openings?",
+    "question": "Which tip would help you show two openings?",
+    "audio_prompt": "Which tip would help you show two openings?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002",
-      "alt_text": "🧠 Demonstrate two openings; ➡️ Identify purpose; 💡 helpful strategy"
+      "alt_text": "🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-002",
-      "alt_text": "🧠 Demonstrate two openings; ➡️ Identify purpose; 💡 helpful strategy"
+      "alt_text": "🧠 show two openings; ➡️ Identify purpose; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la03.svg#ac9e1la03-t-001",
-      "alt_text": "📖 Demonstrate two openings; 🔎 purpose; ✅ choose with evidence"
+      "alt_text": "📖 show two openings; 🔎 purpose; ✅ choose with evidence"
     },
     "answers": [
       {

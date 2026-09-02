@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly01 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate alternate reading?",
-    "audioPrompt": "Which response would correctly demonstrate alternate reading?",
-    "visual": "📖 Demonstrate alternate reading; 🔎 feature; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate alternate reading; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-001\"></use></svg>",
+    "question": "Which response would correctly show alternate reading?",
+    "audioPrompt": "Which response would correctly show alternate reading?",
+    "visual": "📖 show alternate reading; 🔎 feature; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show alternate reading; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-001",
-      "alt_text": "📖 Demonstrate alternate reading; 🔎 feature; ✅ choose with evidence"
+      "alt_text": "📖 show alternate reading; 🔎 feature; ✅ choose with evidence"
     },
     "answers": [
       "Report sounds clear/neutral; warning is urgent/emphatic, with accurate purpose explanation",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly01 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate alternate reading?",
-    "audioPrompt": "Which tip would help you demonstrate alternate reading?",
-    "visual": "🧠 Demonstrate alternate reading; ➡️ Look at text; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate alternate reading; ➡️ Look at text; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-002\"></use></svg>",
+    "question": "Which tip would help you show alternate reading?",
+    "audioPrompt": "Which tip would help you show alternate reading?",
+    "visual": "🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-002",
-      "alt_text": "🧠 Demonstrate alternate reading; ➡️ Look at text; 💡 helpful strategy"
+      "alt_text": "🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy"
     },
     "answers": [
       "Do not check more than one clue if possible.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate alternate reading; ➡️ Look at text; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate alternate reading; ➡️ Look at text; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-002\"></use></svg>",
+    "visual": "🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-002",
-      "alt_text": "🧠 Demonstrate alternate reading; ➡️ Look at text; 💡 helpful strategy"
+      "alt_text": "🧠 show alternate reading; ➡️ Look at text; 💡 helpful strategy"
     },
     "answers": [
       "Do not use features as evidence.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Do not use features as evidence.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Do not use features as evidence.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate alternate reading; 🔎 feature; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate alternate reading; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-001\"></use></svg>",
+    "visual": "📖 show alternate reading; 🔎 feature; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show alternate reading; 🔎 feature; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly01.svg#ac9e1ly01-t-001",
-      "alt_text": "📖 Demonstrate alternate reading; 🔎 feature; ✅ choose with evidence"
+      "alt_text": "📖 show alternate reading; 🔎 feature; ✅ choose with evidence"
     },
     "answers": [
       "Report sounds clear/neutral; warning is urgent/emphatic, with accurate purpose explanation",

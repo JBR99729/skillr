@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly13 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate say-segment-write?",
-    "audioPrompt": "Which response would correctly demonstrate say-segment-write?",
-    "visual": "📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001\"></use></svg>",
+    "question": "Which response would correctly show say-segment-write?",
+    "audioPrompt": "Which response would correctly show say-segment-write?",
+    "visual": "📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001",
-      "alt_text": "📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
+      "alt_text": "📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
     },
     "answers": [
       "Says frog, segments /f r o g/, writes f-r-o-g and rereads",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly13 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate say-segment-write?",
-    "audioPrompt": "Which tip would help you demonstrate say-segment-write?",
-    "visual": "🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002\"></use></svg>",
+    "question": "Which tip would help you show say-segment-write?",
+    "audioPrompt": "Which tip would help you show say-segment-write?",
+    "visual": "🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002",
-      "alt_text": "🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       "Leave out second syllable.",
@@ -134,13 +134,13 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Do not check the spelling pattern.",
-      "Recognises shared -ight chunk from light/right; correct spelling night",
+      "Notices shared -ight chunk from light/right; correct spelling night",
       "Do not use sound and pattern knowledge."
     ],
     "correct": 1,
-    "explanation": "Recognises shared -ight chunk from light/right; correct spelling night This matches the task.\nHint: Compare with a known word.",
+    "explanation": "Notices shared -ight chunk from light/right; correct spelling night This matches the task.\nHint: Compare with a known word.",
     "structuredExplanation": {
-      "summary": "Recognises shared -ight chunk from light/right; correct spelling night This matches the task.",
+      "summary": "Notices shared -ight chunk from light/right; correct spelling night This matches the task.",
       "hint": "Compare with a known word."
     },
     "qualitySchema": "production-v1"
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002\"></use></svg>",
+    "visual": "🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002",
-      "alt_text": "🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       "Do not use sound and pattern knowledge.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Do not use sound and pattern knowledge.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Do not use sound and pattern knowledge.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001\"></use></svg>",
+    "visual": "📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001",
-      "alt_text": "📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
+      "alt_text": "📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
     },
     "answers": [
       "Says frog, segments /f r o g/, writes f-r-o-g and rereads",
@@ -425,12 +425,12 @@ window.skillrTestQuestions = [
     "answers": [
       "Do not check the spelling pattern.",
       "Do not use sound and pattern knowledge.",
-      "Recognises shared -ight chunk from light/right; correct spelling night"
+      "Notices shared -ight chunk from light/right; correct spelling night"
     ],
     "correct": 2,
-    "explanation": "Recognises shared -ight chunk from light/right; correct spelling night is the stronger response because it uses the target skill. Compare with a known word.\nHint: Compare with a known word.",
+    "explanation": "Notices shared -ight chunk from light/right; correct spelling night is the stronger response because it uses the target skill. Compare with a known word.\nHint: Compare with a known word.",
     "structuredExplanation": {
-      "summary": "Recognises shared -ight chunk from light/right; correct spelling night is the stronger response because it uses the target skill. Compare with a known word.",
+      "summary": "Notices shared -ight chunk from light/right; correct spelling night is the stronger response because it uses the target skill. Compare with a known word.",
       "hint": "Compare with a known word."
     },
     "qualitySchema": "production-v1"

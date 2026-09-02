@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly09 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate continuous segmenting?",
-    "audioPrompt": "Which response would correctly demonstrate continuous segmenting?",
-    "visual": "📖 Demonstrate continuous segmenting; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate continuous segmenting; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001\"></use></svg>",
+    "question": "Which response would correctly show continuous segmenting?",
+    "audioPrompt": "Which response would correctly show continuous segmenting?",
+    "visual": "📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001",
-      "alt_text": "📖 Demonstrate continuous segmenting; 🔎 phoneme; ✅ choose with evidence"
+      "alt_text": "📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence"
     },
     "answers": [
       "/b/ /e/ /s/ /t/ cleanly, 4 phonemes",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly09 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate continuous segmenting?",
-    "audioPrompt": "Which tip would help you demonstrate continuous segmenting?",
-    "visual": "🧠 Demonstrate continuous segmenting; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate continuous segmenting; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002\"></use></svg>",
+    "question": "Which tip would help you show continuous segmenting?",
+    "audioPrompt": "Which tip would help you show continuous segmenting?",
+    "visual": "🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002",
-      "alt_text": "🧠 Demonstrate continuous segmenting; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       "Treat blend as one sound.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate continuous segmenting; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate continuous segmenting; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002\"></use></svg>",
+    "visual": "🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-002",
-      "alt_text": "🧠 Demonstrate continuous segmenting; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show continuous segmenting; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       "uh",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “uh”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose uh. Which answer would improve their response?",
-    "visual": "📖 Demonstrate continuous segmenting; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate continuous segmenting; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001\"></use></svg>",
+    "visual": "📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-t-001",
-      "alt_text": "📖 Demonstrate continuous segmenting; 🔎 phoneme; ✅ choose with evidence"
+      "alt_text": "📖 show continuous segmenting; 🔎 phoneme; ✅ choose with evidence"
     },
     "answers": [
       "/b/ /e/ /s/ /t/ cleanly, 4 phonemes",

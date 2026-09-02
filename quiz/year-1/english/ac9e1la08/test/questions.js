@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la08 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate caption change?",
-    "audioPrompt": "Which response would correctly demonstrate caption change?",
-    "visual": "📖 Demonstrate caption change; 🔎 image; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate caption change; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001\"></use></svg>",
+    "question": "Which response would correctly show caption change?",
+    "audioPrompt": "Which response would correctly show caption change?",
+    "visual": "📖 show caption change; 🔎 image; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show caption change; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001",
-      "alt_text": "📖 Demonstrate caption change; 🔎 image; ✅ choose with evidence"
+      "alt_text": "📖 show caption change; 🔎 image; ✅ choose with evidence"
     },
     "answers": [
       "Factual caption records condition/place/time; story caption builds event/mood, with clear contrast",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la08 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate caption change?",
-    "audioPrompt": "Which tip would help you demonstrate caption change?",
-    "visual": "🧠 Demonstrate caption change; ➡️ Look at image; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate caption change; ➡️ Look at image; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002\"></use></svg>",
+    "question": "Which tip would help you show caption change?",
+    "audioPrompt": "Which tip would help you show caption change?",
+    "visual": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show caption change; ➡️ Look at image; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002",
-      "alt_text": "🧠 Demonstrate caption change; ➡️ Look at image; 💡 helpful strategy"
+      "alt_text": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy"
     },
     "answers": [
       "Ignore words.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate caption change; ➡️ Look at image; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate caption change; ➡️ Look at image; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002\"></use></svg>",
+    "visual": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show caption change; ➡️ Look at image; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002",
-      "alt_text": "🧠 Demonstrate caption change; ➡️ Look at image; 💡 helpful strategy"
+      "alt_text": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy"
     },
     "answers": [
       "Use describing only.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Use describing only.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Use describing only.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate caption change; 🔎 image; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate caption change; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001\"></use></svg>",
+    "visual": "📖 show caption change; 🔎 image; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show caption change; 🔎 image; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001",
-      "alt_text": "📖 Demonstrate caption change; 🔎 image; ✅ choose with evidence"
+      "alt_text": "📖 show caption change; 🔎 image; ✅ choose with evidence"
     },
     "answers": [
       "Factual caption records condition/place/time; story caption builds event/mood, with clear contrast",

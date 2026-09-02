@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly08 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate grip and posture?",
-    "audioPrompt": "Which response would correctly demonstrate grip and posture?",
-    "visual": "📖 Demonstrate grip and posture; 🔎 upper-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate grip and posture; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-001\"></use></svg>",
+    "question": "Which response would correctly show grip and posture?",
+    "audioPrompt": "Which response would correctly show grip and posture?",
+    "visual": "📖 show grip and posture; 🔎 upper-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show grip and posture; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-001",
-      "alt_text": "📖 Demonstrate grip and posture; 🔎 upper-case; ✅ choose with evidence"
+      "alt_text": "📖 show grip and posture; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
       "Grip allows controlled movement without strain; paper is stable; s-u-n forms are legible and separate",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly08 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate grip and posture?",
-    "audioPrompt": "Which tip would help you demonstrate grip and posture?",
-    "visual": "🧠 Demonstrate grip and posture; ➡️ Start point; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate grip and posture; ➡️ Start point; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-002\"></use></svg>",
+    "question": "Which tip would help you show grip and posture?",
+    "audioPrompt": "Which tip would help you show grip and posture?",
+    "visual": "🧠 show grip and posture; ➡️ Start point; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show grip and posture; ➡️ Start point; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-002",
-      "alt_text": "🧠 Demonstrate grip and posture; ➡️ Start point; 💡 helpful strategy"
+      "alt_text": "🧠 show grip and posture; ➡️ Start point; 💡 helpful strategy"
     },
     "answers": [
       "Do not use capitals only where needed.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate grip and posture; ➡️ Start point; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate grip and posture; ➡️ Start point; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-002\"></use></svg>",
+    "visual": "🧠 show grip and posture; ➡️ Start point; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show grip and posture; ➡️ Start point; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-002",
-      "alt_text": "🧠 Demonstrate grip and posture; ➡️ Start point; 💡 helpful strategy"
+      "alt_text": "🧠 show grip and posture; ➡️ Start point; 💡 helpful strategy"
     },
     "answers": [
       "Do not use clear spaces between words.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Do not use clear spaces between words.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Do not use clear spaces between words.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate grip and posture; 🔎 upper-case; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate grip and posture; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-001\"></use></svg>",
+    "visual": "📖 show grip and posture; 🔎 upper-case; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show grip and posture; 🔎 upper-case; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly08.svg#ac9e1ly08-t-001",
-      "alt_text": "📖 Demonstrate grip and posture; 🔎 upper-case; ✅ choose with evidence"
+      "alt_text": "📖 show grip and posture; 🔎 upper-case; ✅ choose with evidence"
     },
     "answers": [
       "Grip allows controlled movement without strain; paper is stable; s-u-n forms are legible and separate",

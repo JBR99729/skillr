@@ -7,24 +7,24 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la01 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate question and command?",
-    "audioPrompt": "Which response would correctly demonstrate question and command?",
-    "visual": "📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001\"></use></svg>",
+    "question": "Which response would correctly show question and command?",
+    "audioPrompt": "Which response would correctly show question and command?",
+    "visual": "📖 show question and command; 🔎 question; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show question and command; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001",
-      "alt_text": "📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence"
+      "alt_text": "📖 show question and command; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "Uses question form/polite tone versus concise urgent command with matching expression/gesture",
+      "Uses question form and polite tone versus concise urgent command with matching expression or gesture",
       "Check only the words.",
       "Do not use polite wording when asking someone to do something."
     ],
     "correct": 0,
-    "explanation": "Uses question form/polite tone versus concise urgent command with matching expression/gesture This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "Uses question form and polite tone versus concise urgent command with matching expression or gesture This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
     "structuredExplanation": {
-      "summary": "Uses question form/polite tone versus concise urgent command with matching expression/gesture This matches the task.",
+      "summary": "Uses question form and polite tone versus concise urgent command with matching expression or gesture This matches the task.",
       "hint": "Also notice face, gesture, voice and relationship."
     },
     "qualitySchema": "production-v1"
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la01 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate question and command?",
-    "audioPrompt": "Which tip would help you demonstrate question and command?",
-    "visual": "🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002\"></use></svg>",
+    "question": "Which tip would help you show question and command?",
+    "audioPrompt": "Which tip would help you show question and command?",
+    "visual": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002",
-      "alt_text": "🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy"
+      "alt_text": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy"
     },
     "answers": [
       "Do not use polite wording when asking someone to do something.",
@@ -191,14 +191,14 @@ window.skillrTestQuestions = [
       "alt_text": "📖 Compare two deliveries; 🔎 command; ✅ choose with evidence"
     },
     "answers": [
-      "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation",
+      "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation",
       "Can you come here",
       "Check only the words."
     ],
     "correct": 0,
-    "explanation": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
     "structuredExplanation": {
-      "summary": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.",
+      "summary": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.",
       "hint": "Also notice face, gesture, voice and relationship."
     },
     "qualitySchema": "production-v1"
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002\"></use></svg>",
+    "visual": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002",
-      "alt_text": "🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy"
+      "alt_text": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy"
     },
     "answers": [
       "Check only the words.",
@@ -357,22 +357,22 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Check only the words.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Check only the words.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001\"></use></svg>",
+    "visual": "📖 show question and command; 🔎 question; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show question and command; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001",
-      "alt_text": "📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence"
+      "alt_text": "📖 show question and command; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "Uses question form/polite tone versus concise urgent command with matching expression/gesture",
+      "Uses question form and polite tone versus concise urgent command with matching expression or gesture",
       "Check only the words.",
       "Do not use polite wording when asking someone to do something."
     ],
     "correct": 0,
-    "explanation": "Uses question form/polite tone versus concise urgent command with matching expression/gesture is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "Uses question form and polite tone versus concise urgent command with matching expression or gesture is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
     "structuredExplanation": {
-      "summary": "Uses question form/polite tone versus concise urgent command with matching expression/gesture is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
+      "summary": "Uses question form and polite tone versus concise urgent command with matching expression or gesture is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
       "hint": "Also notice face, gesture, voice and relationship."
     },
     "qualitySchema": "production-v1"
@@ -452,14 +452,14 @@ window.skillrTestQuestions = [
       "alt_text": "📖 Compare two deliveries; 🔎 command; ✅ choose with evidence"
     },
     "answers": [
-      "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation",
+      "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation",
       "Can you come here",
       "Check only the words."
     ],
     "correct": 0,
-    "explanation": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
     "structuredExplanation": {
-      "summary": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
+      "summary": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
       "hint": "Also notice face, gesture, voice and relationship."
     },
     "qualitySchema": "production-v1"

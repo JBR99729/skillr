@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
     "skill": "ac9e1ly06_01_answer",
-    "question": "Which response would correctly demonstrate a meaning edit?",
-    "audio_prompt": "Which response would correctly demonstrate a meaning edit?",
+    "question": "Which response would correctly show a meaning edit?",
+    "audio_prompt": "Which response would correctly show a meaning edit?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001",
-      "alt_text": "📖 Demonstrate a meaning edit; 🔎 plan; ✅ choose with evidence"
+      "alt_text": "📖 show a meaning edit; 🔎 plan; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
     "skill": "ac9e1ly06_01_strategy",
-    "question": "Which tip would help you demonstrate a meaning edit?",
-    "audio_prompt": "Which tip would help you demonstrate a meaning edit?",
+    "question": "Which tip would help you show a meaning edit?",
+    "audio_prompt": "Which tip would help you show a meaning edit?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002",
-      "alt_text": "🧠 Demonstrate a meaning edit; ➡️ Plan; 💡 helpful strategy"
+      "alt_text": "🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1555,7 +1555,7 @@
         "is_correct": false
       },
       {
-        "text": "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
+        "text": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
         "is_correct": true
       },
       {
@@ -1565,7 +1565,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report This matches the task.",
+      "summary": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report This matches the task.",
       "hint": "Add one precise word from the topic."
     }
   },
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002",
-      "alt_text": "🧠 Demonstrate a meaning edit; ➡️ Plan; 💡 helpful strategy"
+      "alt_text": "🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001",
-      "alt_text": "📖 Demonstrate a meaning edit; 🔎 plan; ✅ choose with evidence"
+      "alt_text": "📖 show a meaning edit; 🔎 plan; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1905,13 +1905,13 @@
         "is_correct": false
       },
       {
-        "text": "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
+        "text": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report is the stronger response because it uses the target skill. Add one precise word from the topic.",
+      "summary": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report is the stronger response because it uses the target skill. Add one precise word from the topic.",
       "hint": "Add one precise word from the topic."
     },
     "stage": "apply"

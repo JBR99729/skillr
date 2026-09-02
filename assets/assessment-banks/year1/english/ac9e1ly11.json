@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LY11",
     "bank": "test",
     "skill": "ac9e1ly11_01_answer",
-    "question": "Which response would correctly demonstrate continuous blending?",
-    "audio_prompt": "Which response would correctly demonstrate continuous blending?",
+    "question": "Which response would correctly show continuous blending?",
+    "audio_prompt": "Which response would correctly show continuous blending?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001",
-      "alt_text": "📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence"
+      "alt_text": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LY11",
     "bank": "test",
     "skill": "ac9e1ly11_01_strategy",
-    "question": "Which tip would help you demonstrate continuous blending?",
-    "audio_prompt": "Which tip would help you demonstrate continuous blending?",
+    "question": "Which tip would help you show continuous blending?",
+    "audio_prompt": "Which tip would help you show continuous blending?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002",
-      "alt_text": "🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
+      "alt_text": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002",
-      "alt_text": "🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
+      "alt_text": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001",
-      "alt_text": "📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence"
+      "alt_text": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence"
     },
     "answers": [
       {

@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly05 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate two strategies?",
-    "audioPrompt": "Which response would correctly demonstrate two strategies?",
-    "visual": "📖 Demonstrate two strategies; 🔎 predict; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two strategies; 🔎 predict; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001\"></use></svg>",
+    "question": "Which response would correctly show two strategies?",
+    "audioPrompt": "Which response would correctly show two strategies?",
+    "visual": "📖 show two strategies; 🔎 predict; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two strategies; 🔎 predict; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001",
-      "alt_text": "📖 Demonstrate two strategies; 🔎 predict; ✅ choose with evidence"
+      "alt_text": "📖 show two strategies; 🔎 predict; ✅ choose with evidence"
     },
     "answers": [
       "Both strategies are relevant and each is linked to a text clue",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly05 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate two strategies?",
-    "audioPrompt": "Which tip would help you demonstrate two strategies?",
-    "visual": "🧠 Demonstrate two strategies; ➡️ Preview; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two strategies; ➡️ Preview; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002\"></use></svg>",
+    "question": "Which tip would help you show two strategies?",
+    "audioPrompt": "Which tip would help you show two strategies?",
+    "visual": "🧠 show two strategies; ➡️ Preview; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two strategies; ➡️ Preview; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002",
-      "alt_text": "🧠 Demonstrate two strategies; ➡️ Preview; 💡 helpful strategy"
+      "alt_text": "🧠 show two strategies; ➡️ Preview; 💡 helpful strategy"
     },
     "answers": [
       "Retell every detail instead of the main idea.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate two strategies; ➡️ Preview; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two strategies; ➡️ Preview; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002\"></use></svg>",
+    "visual": "🧠 show two strategies; ➡️ Preview; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two strategies; ➡️ Preview; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-002",
-      "alt_text": "🧠 Demonstrate two strategies; ➡️ Preview; 💡 helpful strategy"
+      "alt_text": "🧠 show two strategies; ➡️ Preview; 💡 helpful strategy"
     },
     "answers": [
       "Do not use a clue from the text.",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “Do not use a clue from the text.”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose Do not use a clue from the text.. Which answer would improve their response?",
-    "visual": "📖 Demonstrate two strategies; 🔎 predict; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two strategies; 🔎 predict; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001\"></use></svg>",
+    "visual": "📖 show two strategies; 🔎 predict; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two strategies; 🔎 predict; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly05.svg#ac9e1ly05-t-001",
-      "alt_text": "📖 Demonstrate two strategies; 🔎 predict; ✅ choose with evidence"
+      "alt_text": "📖 show two strategies; 🔎 predict; ✅ choose with evidence"
     },
     "answers": [
       "Both strategies are relevant and each is linked to a text clue",

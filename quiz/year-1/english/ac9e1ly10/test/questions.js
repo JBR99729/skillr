@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly10 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate a sound chain?",
-    "audioPrompt": "Which response would correctly demonstrate a sound chain?",
-    "visual": "📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001\"></use></svg>",
+    "question": "Which response would correctly show a sound chain?",
+    "audioPrompt": "Which response would correctly show a sound chain?",
+    "visual": "📖 show a sound chain; 🔎 add; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show a sound chain; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001",
-      "alt_text": "📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence"
+      "alt_text": "📖 show a sound chain; 🔎 add; ✅ choose with evidence"
     },
     "answers": [
       "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly10 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate a sound chain?",
-    "audioPrompt": "Which tip would help you demonstrate a sound chain?",
-    "visual": "🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002\"></use></svg>",
+    "question": "Which tip would help you show a sound chain?",
+    "audioPrompt": "Which tip would help you show a sound chain?",
+    "visual": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002",
-      "alt_text": "🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       "Change more than one sound.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002\"></use></svg>",
+    "visual": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002",
-      "alt_text": "🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       "dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat. Which answer would improve their response?",
-    "visual": "📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001\"></use></svg>",
+    "visual": "📖 show a sound chain; 🔎 add; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show a sound chain; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001",
-      "alt_text": "📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence"
+      "alt_text": "📖 show a sound chain; 🔎 add; ✅ choose with evidence"
     },
     "answers": [
       "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/",

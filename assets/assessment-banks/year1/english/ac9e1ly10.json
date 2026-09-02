@@ -1406,12 +1406,12 @@
     "curriculum_code": "AC9E1LY10",
     "bank": "test",
     "skill": "ac9e1ly10_01_answer",
-    "question": "Which response would correctly demonstrate a sound chain?",
-    "audio_prompt": "Which response would correctly demonstrate a sound chain?",
+    "question": "Which response would correctly show a sound chain?",
+    "audio_prompt": "Which response would correctly show a sound chain?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001",
-      "alt_text": "📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence"
+      "alt_text": "📖 show a sound chain; 🔎 add; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1440,12 +1440,12 @@
     "curriculum_code": "AC9E1LY10",
     "bank": "test",
     "skill": "ac9e1ly10_01_strategy",
-    "question": "Which tip would help you demonstrate a sound chain?",
-    "audio_prompt": "Which tip would help you demonstrate a sound chain?",
+    "question": "Which tip would help you show a sound chain?",
+    "audio_prompt": "Which tip would help you show a sound chain?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002",
-      "alt_text": "🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1683,7 +1683,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002",
-      "alt_text": "🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1823,7 +1823,7 @@
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001",
-      "alt_text": "📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence"
+      "alt_text": "📖 show a sound chain; 🔎 add; ✅ choose with evidence"
     },
     "answers": [
       {

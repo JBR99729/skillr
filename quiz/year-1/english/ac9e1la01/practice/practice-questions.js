@@ -76,13 +76,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "That is the one",
-      "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture",
+      "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
       "Use one voice for every purpose."
     ],
     "correct": 1,
-    "explanation": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture This matches the task.\nHint: Change volume, tone or gesture to match meaning.",
+    "explanation": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture This matches the task.\nHint: Change volume, tone or gesture to match meaning.",
     "structuredExplanation": {
-      "summary": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture This matches the task.",
+      "summary": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture This matches the task.",
       "hint": "Change volume, tone or gesture to match meaning."
     },
     "qualitySchema": "production-v1"
@@ -163,13 +163,13 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "What a wonderful surprise",
-      "Shows delighted/surprised and puzzled expressions with appropriate gesture/label",
+      "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
       "I do not understand yet"
     ],
     "correct": 1,
-    "explanation": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label This matches the task.\nHint: Change volume, tone or gesture to match meaning.",
+    "explanation": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label This matches the task.\nHint: Change volume, tone or gesture to match meaning.",
     "structuredExplanation": {
-      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label This matches the task.",
+      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label This matches the task.",
       "hint": "Change volume, tone or gesture to match meaning."
     },
     "qualitySchema": "production-v1"
@@ -655,7 +655,7 @@ window.skillrPracticeQuestions = [
       "alt_text": "📖 Show two meanings; 🔎 request; ✅ choose with evidence"
     },
     "answers": [
-      "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture",
+      "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
       "Look for request and check the whole example.",
       "That is the one"
     ],
@@ -742,7 +742,7 @@ window.skillrPracticeQuestions = [
       "alt_text": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "Shows delighted/surprised and puzzled expressions with appropriate gesture/label",
+      "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
       "Change volume, tone or gesture to match meaning.",
       "What a wonderful surprise"
     ],
@@ -945,14 +945,14 @@ window.skillrPracticeQuestions = [
       "alt_text": "📖 Show two meanings; 🔎 request; ✅ choose with evidence"
     },
     "answers": [
-      "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture",
+      "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture",
       "That is the one",
       "Use one voice for every purpose."
     ],
     "correct": 0,
-    "explanation": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture uses the skill correctly. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
+    "explanation": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture uses the skill correctly. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
     "structuredExplanation": {
-      "summary": "Demonstrates clear certainty/help versus uncertainty and explains the effect of expression/gesture uses the skill correctly. Change volume, tone or gesture to match meaning.",
+      "summary": "shows clear certainty or help versus uncertainty and explains the effect of expression or gesture uses the skill correctly. Change volume, tone or gesture to match meaning.",
       "hint": "Change volume, tone or gesture to match meaning."
     },
     "qualitySchema": "production-v1"
@@ -1032,14 +1032,14 @@ window.skillrPracticeQuestions = [
       "alt_text": "📖 Draw matching expressions; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "Shows delighted/surprised and puzzled expressions with appropriate gesture/label",
+      "Shows delighted/surprised and puzzled expressions with appropriate gesture or label",
       "What a wonderful surprise",
       "I do not understand yet"
     ],
     "correct": 0,
-    "explanation": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label uses the skill correctly. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
+    "explanation": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label uses the skill correctly. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
     "structuredExplanation": {
-      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture/label uses the skill correctly. Change volume, tone or gesture to match meaning.",
+      "summary": "Shows delighted/surprised and puzzled expressions with appropriate gesture or label uses the skill correctly. Change volume, tone or gesture to match meaning.",
       "hint": "Change volume, tone or gesture to match meaning."
     },
     "qualitySchema": "production-v1"

@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le04 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate imitation?",
-    "audioPrompt": "Which response would correctly demonstrate imitation?",
-    "visual": "📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001\"></use></svg>",
+    "question": "Which response would correctly show imitation?",
+    "audioPrompt": "Which response would correctly show imitation?",
+    "visual": "📖 show imitation; 🔎 rhyme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show imitation; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001",
-      "alt_text": "📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence"
+      "alt_text": "📖 show imitation; 🔎 rhyme; ✅ choose with evidence"
     },
     "answers": [
       "Accurately imitates twice and creates a clearly stated variation",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le04 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate imitation?",
-    "audioPrompt": "Which tip would help you demonstrate imitation?",
-    "visual": "🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002\"></use></svg>",
+    "question": "Which tip would help you show imitation?",
+    "audioPrompt": "Which tip would help you show imitation?",
+    "visual": "🧠 show imitation; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show imitation; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002",
-      "alt_text": "🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy"
+      "alt_text": "🧠 show imitation; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
       "Choose a word with the same first sound instead of a rhyme.",
@@ -241,12 +241,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
-    "visual": "🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002\"></use></svg>",
+    "visual": "🧠 show imitation; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show imitation; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-002",
-      "alt_text": "🧠 Demonstrate imitation; ➡️ Listen; 💡 helpful strategy"
+      "alt_text": "🧠 show imitation; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
       "tap-tap-pause",
@@ -357,12 +357,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A classmate chose “tap-tap-pause”. Which answer would improve their response?",
     "audioPrompt": "A classmate chose tap-tap-pause. Which answer would improve their response?",
-    "visual": "📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001\"></use></svg>",
+    "visual": "📖 show imitation; 🔎 rhyme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show imitation; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le04.svg#ac9e1le04-t-001",
-      "alt_text": "📖 Demonstrate imitation; 🔎 rhyme; ✅ choose with evidence"
+      "alt_text": "📖 show imitation; 🔎 rhyme; ✅ choose with evidence"
     },
     "answers": [
       "Accurately imitates twice and creates a clearly stated variation",
