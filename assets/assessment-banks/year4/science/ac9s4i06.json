@@ -4,1415 +4,3399 @@
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A class observation is described as “reason the communication is created”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “reason the communication is created”. Which scientific term best labels it?",
+    "question": "Which sentence communicates a finding precisely?",
+    "audio_prompt": "Which sentence communicates a finding precisely?",
+    "audioPrompt": "Which sentence communicates a finding precisely?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-001",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “reason the communication is created”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "audience",
-        "is_correct": false
-      },
-      {
-        "text": "purpose",
+        "text": "The temperature increased from 22°C to 33°C in 4 minutes",
         "is_correct": true
       },
       {
-        "text": "scientific vocabulary",
+        "text": "It got hotter somehow",
+        "is_correct": false
+      },
+      {
+        "text": "The result was nice",
+        "is_correct": false
+      },
+      {
+        "text": "The graph had colours",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The temperature increased from 22°C to 33°C in 4 minutes",
+      "It got hotter somehow",
+      "The result was nice",
+      "The graph had colours"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "purpose is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Precise communication includes measured values, units and time.",
+      "hint": "Specific evidence."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Precise communication includes measured values, units and time.",
+      "hint": "Specific evidence."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A class observation is described as “intended reader, viewer or listener”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “intended reader, viewer or listener”. Which scientific term best labels it?",
+    "question": "What should communication be adapted for?",
+    "audio_prompt": "What should communication be adapted for?",
+    "audioPrompt": "What should communication be adapted for?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-002",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “intended reader, viewer or listener”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "scientific vocabulary",
+        "text": "Favourite colour only",
         "is_correct": false
       },
       {
-        "text": "caption",
+        "text": "The longest word possible",
         "is_correct": false
       },
       {
-        "text": "audience",
+        "text": "Hidden results",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Favourite colour only",
+      "The longest word possible",
+      "Hidden results",
+      "Purpose and audience"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "audience is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Scientific communication changes detail and layout to suit purpose and audience.",
+      "hint": "Who and why."
     },
+    "structuredExplanation": {
+      "summary": "Scientific communication changes detail and layout to suit purpose and audience.",
+      "hint": "Who and why."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A class observation is described as “precise field-specific terms”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “precise field-specific terms”. Which scientific term best labels it?",
+    "question": "Which feature best supports a report about measurements?",
+    "audio_prompt": "Which feature best supports a report about measurements?",
+    "audioPrompt": "Which feature best supports a report about measurements?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-003",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “precise field-specific terms”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "scientific vocabulary",
+        "text": "A title with no evidence",
+        "is_correct": false
+      },
+      {
+        "text": "A claim with changed values",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled graph with units and a finding statement",
         "is_correct": true
       },
       {
-        "text": "caption",
-        "is_correct": false
-      },
-      {
-        "text": "citation or source",
+        "text": "An unrelated decoration",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A title with no evidence",
+      "A claim with changed values",
+      "A labelled graph with units and a finding statement",
+      "An unrelated decoration"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "scientific vocabulary is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A labelled graph with units helps readers understand the evidence.",
+      "hint": "Labels and evidence."
     },
+    "structuredExplanation": {
+      "summary": "A labelled graph with units helps readers understand the evidence.",
+      "hint": "Labels and evidence."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A class observation is described as “text explaining a visual”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “text explaining a visual”. Which scientific term best labels it?",
+    "question": "What is a caption?",
+    "audio_prompt": "What is a caption?",
+    "audioPrompt": "What is a caption?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-004",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “text explaining a visual”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "citation or source",
+        "text": "A safety hazard",
         "is_correct": false
       },
       {
-        "text": "caption",
+        "text": "Text that explains a visual",
         "is_correct": true
       },
       {
-        "text": "purpose",
+        "text": "A random result",
+        "is_correct": false
+      },
+      {
+        "text": "A hidden variable",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A safety hazard",
+      "Text that explains a visual",
+      "A random result",
+      "A hidden variable"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "caption is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A caption explains what a graph, photo or diagram shows.",
+      "hint": "Visual explanation."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A caption explains what a graph, photo or diagram shows.",
+      "hint": "Visual explanation."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A class observation is described as “information identifying where external evidence came from”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “information identifying where external evidence came from”. Which scientific term best labels it?",
+    "question": "Which section usually comes before results in an investigation report?",
+    "audio_prompt": "Which section usually comes before results in an investigation report?",
+    "audioPrompt": "Which section usually comes before results in an investigation report?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-005",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “information identifying where external evidence came from”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "purpose",
-        "is_correct": false
-      },
-      {
-        "text": "audience",
-        "is_correct": false
-      },
-      {
-        "text": "citation or source",
+        "text": "Method",
         "is_correct": true
+      },
+      {
+        "text": "Conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "Further question",
+        "is_correct": false
+      },
+      {
+        "text": "Reference list only",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Method",
+      "Conclusion",
+      "Further question",
+      "Reference list only"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "citation or source is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The method explains how the results were collected.",
+      "hint": "How data was collected."
     },
+    "structuredExplanation": {
+      "summary": "The method explains how the results were collected.",
+      "hint": "How data was collected."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A student needs a heading for this evidence: “reason the communication is created”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “reason the communication is created”. Which heading is most precise?",
+    "question": "Which detail should not change for different audiences?",
+    "audio_prompt": "Which detail should not change for different audiences?",
+    "audioPrompt": "Which detail should not change for different audiences?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-006",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “reason the communication is created”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "purpose",
+        "text": "How much vocabulary support is given",
+        "is_correct": false
+      },
+      {
+        "text": "The amount of background detail",
+        "is_correct": false
+      },
+      {
+        "text": "The layout of the message",
+        "is_correct": false
+      },
+      {
+        "text": "The actual data values",
         "is_correct": true
-      },
-      {
-        "text": "scientific vocabulary",
-        "is_correct": false
-      },
-      {
-        "text": "caption",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "How much vocabulary support is given",
+      "The amount of background detail",
+      "The layout of the message",
+      "The actual data values"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "purpose is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Audience adaptation should not alter the evidence or scientific meaning.",
+      "hint": "Facts stay exact."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Audience adaptation should not alter the evidence or scientific meaning.",
+      "hint": "Facts stay exact."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A student needs a heading for this evidence: “intended reader, viewer or listener”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “intended reader, viewer or listener”. Which heading is most precise?",
+    "question": "Which is scientific vocabulary?",
+    "audio_prompt": "Which is scientific vocabulary?",
+    "audioPrompt": "Which is scientific vocabulary?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-007",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “intended reader, viewer or listener”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "caption",
+        "text": "The cool thing",
         "is_correct": false
       },
       {
-        "text": "audience",
+        "text": "Magic water",
+        "is_correct": false
+      },
+      {
+        "text": "Condensation",
         "is_correct": true
       },
       {
-        "text": "citation or source",
+        "text": "Nice stuff",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The cool thing",
+      "Magic water",
+      "Condensation",
+      "Nice stuff"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "audience is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Condensation is a precise science term.",
+      "hint": "Field-specific word."
     },
+    "structuredExplanation": {
+      "summary": "Condensation is a precise science term.",
+      "hint": "Field-specific word."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A student needs a heading for this evidence: “precise field-specific terms”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “precise field-specific terms”. Which heading is most precise?",
+    "question": "Which visual is most readable for a class poster?",
+    "audio_prompt": "Which visual is most readable for a class poster?",
+    "audioPrompt": "Which visual is most readable for a class poster?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-008",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “precise field-specific terms”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "citation or source",
+        "text": "An unlabeled picture",
         "is_correct": false
       },
       {
-        "text": "purpose",
-        "is_correct": false
-      },
-      {
-        "text": "scientific vocabulary",
+        "text": "A large labelled graph with short evidence notes",
         "is_correct": true
+      },
+      {
+        "text": "A tiny crowded graph",
+        "is_correct": false
+      },
+      {
+        "text": "A paragraph wall on one slide",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "An unlabeled picture",
+      "A large labelled graph with short evidence notes",
+      "A tiny crowded graph",
+      "A paragraph wall on one slide"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "scientific vocabulary is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Posters need readable visuals and concise evidence.",
+      "hint": "Large and labelled."
     },
+    "structuredExplanation": {
+      "summary": "Posters need readable visuals and concise evidence.",
+      "hint": "Large and labelled."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A student needs a heading for this evidence: “text explaining a visual”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “text explaining a visual”. Which heading is most precise?",
+    "question": "Which statement gives a source?",
+    "audio_prompt": "Which statement gives a source?",
+    "audioPrompt": "Which statement gives a source?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-009",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “text explaining a visual”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "caption",
+        "text": "Data from our three class trials on 12 March",
         "is_correct": true
       },
       {
-        "text": "purpose",
+        "text": "It came from somewhere",
         "is_correct": false
       },
       {
-        "text": "audience",
+        "text": "Everyone knows this",
+        "is_correct": false
+      },
+      {
+        "text": "The picture was pretty",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Data from our three class trials on 12 March",
+      "It came from somewhere",
+      "Everyone knows this",
+      "The picture was pretty"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "caption is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A source identifies where evidence or information came from.",
+      "hint": "Where information came from."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A source identifies where evidence or information came from.",
+      "hint": "Where information came from."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A student needs a heading for this evidence: “information identifying where external evidence came from”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “information identifying where external evidence came from”. Which heading is most precise?",
+    "question": "Which report order makes sense?",
+    "audio_prompt": "Which report order makes sense?",
+    "audioPrompt": "Which report order makes sense?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-010",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “information identifying where external evidence came from”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "audience",
+        "text": "Conclusion, title, hidden data, question",
         "is_correct": false
       },
       {
-        "text": "citation or source",
+        "text": "Decoration, opinion, joke, result",
+        "is_correct": false
+      },
+      {
+        "text": "Graph, graph, graph, no explanation",
+        "is_correct": false
+      },
+      {
+        "text": "Question, method, results, finding, conclusion",
         "is_correct": true
-      },
-      {
-        "text": "scientific vocabulary",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Conclusion, title, hidden data, question",
+      "Decoration, opinion, joke, result",
+      "Graph, graph, graph, no explanation",
+      "Question, method, results, finding, conclusion"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "citation or source is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A clear report lets readers follow the investigation and evidence.",
+      "hint": "Logical order."
     },
+    "structuredExplanation": {
+      "summary": "A clear report lets readers follow the investigation and evidence.",
+      "hint": "Logical order."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "During a Year 4 discussion, Student 1 says, “Communication is a data dump”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 1 says, “Communication is a data dump”. Which response best corrects the science?",
+    "question": "Why should a report include the investigation question?",
+    "audio_prompt": "Why should a report include the investigation question?",
+    "audioPrompt": "Why should a report include the investigation question?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-011",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 1 says, “Communication is a data dump”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Communication is a data dump",
+        "text": "It hides the method",
         "is_correct": false
       },
       {
-        "text": "Audience adaptation changes facts",
+        "text": "It makes every conclusion correct",
         "is_correct": false
       },
       {
-        "text": "Select evidence and state the finding it supports.",
+        "text": "It tells readers what the evidence is meant to answer",
         "is_correct": true
+      },
+      {
+        "text": "It replaces the results",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "It hides the method",
+      "It makes every conclusion correct",
+      "It tells readers what the evidence is meant to answer",
+      "It replaces the results"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Select evidence and state the finding it supports.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "The question gives purpose to the report.",
+      "hint": "What was tested?"
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "structuredExplanation": {
+      "summary": "The question gives purpose to the report.",
+      "hint": "What was tested?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "During a Year 4 discussion, Student 2 says, “Audience adaptation changes facts”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 2 says, “Audience adaptation changes facts”. Which response best corrects the science?",
+    "question": "Why should a graph in a report have units?",
+    "audio_prompt": "Why should a graph in a report have units?",
+    "audioPrompt": "Why should a graph in a report have units?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-012",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 2 says, “Audience adaptation changes facts”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Change explanation support and layout, not the evidence.",
+        "text": "Graphs with units cannot be read",
+        "is_correct": false
+      },
+      {
+        "text": "Readers need units to interpret the measurements correctly",
         "is_correct": true
       },
       {
-        "text": "Audience adaptation changes facts",
+        "text": "Units are decorative",
         "is_correct": false
       },
       {
-        "text": "Technical vocabulary left unexplained",
+        "text": "Units change the results",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Graphs with units cannot be read",
+      "Readers need units to interpret the measurements correctly",
+      "Units are decorative",
+      "Units change the results"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Change explanation support and layout, not the evidence.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Units tell what quantity the numbers represent.",
+      "hint": "Number meaning."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "structuredExplanation": {
+      "summary": "Units tell what quantity the numbers represent.",
+      "hint": "Number meaning."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "During a Year 4 discussion, Student 3 says, “Technical vocabulary left unexplained”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 3 says, “Technical vocabulary left unexplained”. Which response best corrects the science?",
+    "question": "Why might a younger audience need science terms defined?",
+    "audio_prompt": "Why might a younger audience need science terms defined?",
+    "audioPrompt": "Why might a younger audience need science terms defined?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-013",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 3 says, “Technical vocabulary left unexplained”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Technical vocabulary left unexplained",
-        "is_correct": false
-      },
-      {
-        "text": "Use precise terms and define them for the audience.",
+        "text": "Definitions help them understand precise vocabulary without changing the science",
         "is_correct": true
       },
       {
-        "text": "Digital slide becomes a paragraph wall",
+        "text": "Definitions make facts less accurate",
+        "is_correct": false
+      },
+      {
+        "text": "Younger students cannot learn science words",
+        "is_correct": false
+      },
+      {
+        "text": "Vocabulary should be removed completely",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Definitions help them understand precise vocabulary without changing the science",
+      "Definitions make facts less accurate",
+      "Younger students cannot learn science words",
+      "Vocabulary should be removed completely"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Use precise terms and define them for the audience.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Audience support can explain vocabulary while keeping meaning accurate.",
+      "hint": "Define, do not distort."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Audience support can explain vocabulary while keeping meaning accurate.",
+      "hint": "Define, do not distort."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "During a Year 4 discussion, Student 4 says, “Digital slide becomes a paragraph wall”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 4 says, “Digital slide becomes a paragraph wall”. Which response best corrects the science?",
+    "question": "Why is a paragraph wall poor on a digital slide?",
+    "audio_prompt": "Why is a paragraph wall poor on a digital slide?",
+    "audioPrompt": "Why is a paragraph wall poor on a digital slide?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-014",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 4 says, “Digital slide becomes a paragraph wall”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Digital slide becomes a paragraph wall",
+        "text": "More words always improve slides",
         "is_correct": false
       },
       {
-        "text": "Communication is a data dump",
+        "text": "Slides should hide graphs",
         "is_correct": false
       },
       {
-        "text": "Use a readable visual and concise cues for spoken explanation.",
+        "text": "Paragraphs make data more accurate",
+        "is_correct": false
+      },
+      {
+        "text": "It is hard to read quickly during a presentation",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "More words always improve slides",
+      "Slides should hide graphs",
+      "Paragraphs make data more accurate",
+      "It is hard to read quickly during a presentation"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Use a readable visual and concise cues for spoken explanation.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Digital slides work best with concise text and readable visuals.",
+      "hint": "Readable slide."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Digital slides work best with concise text and readable visuals.",
+      "hint": "Readable slide."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A group writes this claim on a poster: “Communication is a data dump”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Communication is a data dump”. Which edit makes the claim scientifically accurate?",
+    "question": "Why should decorative content not replace evidence?",
+    "audio_prompt": "Why should decorative content not replace evidence?",
+    "audioPrompt": "Why should decorative content not replace evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-015",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Communication is a data dump”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Select evidence and state the finding it supports.",
+        "text": "Evidence makes communication weaker",
+        "is_correct": false
+      },
+      {
+        "text": "Findings should be hidden",
+        "is_correct": false
+      },
+      {
+        "text": "Readers need data and findings to judge the scientific message",
         "is_correct": true
       },
       {
-        "text": "Communication is a data dump",
-        "is_correct": false
-      },
-      {
-        "text": "Technical vocabulary left unexplained",
+        "text": "Decoration is stronger than data",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Evidence makes communication weaker",
+      "Findings should be hidden",
+      "Readers need data and findings to judge the scientific message",
+      "Decoration is stronger than data"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Select evidence and state the finding it supports.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Scientific communication should select and explain relevant evidence.",
+      "hint": "Evidence first."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Scientific communication should select and explain relevant evidence.",
+      "hint": "Evidence first."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A group writes this claim on a poster: “Audience adaptation changes facts”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Audience adaptation changes facts”. Which edit makes the claim scientifically accurate?",
+    "question": "Why can the same finding be written differently for a teacher and younger students?",
+    "audio_prompt": "Why can the same finding be written differently for a teacher and younger students?",
+    "audioPrompt": "Why can the same finding be written differently for a teacher and younger students?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-016",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Audience adaptation changes facts”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Audience adaptation changes facts",
+        "text": "Teachers do not need evidence",
         "is_correct": false
       },
       {
-        "text": "Change explanation support and layout, not the evidence.",
+        "text": "The explanation detail and vocabulary support can change for the audience",
         "is_correct": true
       },
       {
-        "text": "Digital slide becomes a paragraph wall",
+        "text": "The data values must be changed",
+        "is_correct": false
+      },
+      {
+        "text": "The science meaning should become different",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Teachers do not need evidence",
+      "The explanation detail and vocabulary support can change for the audience",
+      "The data values must be changed",
+      "The science meaning should become different"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Change explanation support and layout, not the evidence.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Audience adaptation changes support and layout, not the underlying evidence.",
+      "hint": "Same facts, different support."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Audience adaptation changes support and layout, not the underlying evidence.",
+      "hint": "Same facts, different support."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-017",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A group writes this claim on a poster: “Technical vocabulary left unexplained”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Technical vocabulary left unexplained”. Which edit makes the claim scientifically accurate?",
+    "question": "Why should a conclusion follow the results section?",
+    "audio_prompt": "Why should a conclusion follow the results section?",
+    "audioPrompt": "Why should a conclusion follow the results section?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-017",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Technical vocabulary left unexplained”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Technical vocabulary left unexplained",
-        "is_correct": false
-      },
-      {
-        "text": "Communication is a data dump",
-        "is_correct": false
-      },
-      {
-        "text": "Use precise terms and define them for the audience.",
+        "text": "Readers can see how the conclusion comes from the evidence",
         "is_correct": true
+      },
+      {
+        "text": "Conclusions should appear before any data",
+        "is_correct": false
+      },
+      {
+        "text": "Results are only decoration",
+        "is_correct": false
+      },
+      {
+        "text": "The method changes after the conclusion",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Readers can see how the conclusion comes from the evidence",
+      "Conclusions should appear before any data",
+      "Results are only decoration",
+      "The method changes after the conclusion"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Use precise terms and define them for the audience.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "The report structure helps readers check the evidence-to-conclusion link.",
+      "hint": "Evidence before claim."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The report structure helps readers check the evidence-to-conclusion link.",
+      "hint": "Evidence before claim."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-018",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A group writes this claim on a poster: “Digital slide becomes a paragraph wall”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Digital slide becomes a paragraph wall”. Which edit makes the claim scientifically accurate?",
+    "question": "Why is a labelled diagram useful for explaining the water cycle?",
+    "audio_prompt": "Why is a labelled diagram useful for explaining the water cycle?",
+    "audioPrompt": "Why is a labelled diagram useful for explaining the water cycle?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-018",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Digital slide becomes a paragraph wall”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Use a readable visual and concise cues for spoken explanation.",
+        "text": "Diagrams replace all accurate words",
+        "is_correct": false
+      },
+      {
+        "text": "Labels make water disappear",
+        "is_correct": false
+      },
+      {
+        "text": "The water cycle cannot be communicated visually",
+        "is_correct": false
+      },
+      {
+        "text": "Labels can connect processes such as evaporation, condensation and precipitation",
         "is_correct": true
-      },
-      {
-        "text": "Digital slide becomes a paragraph wall",
-        "is_correct": false
-      },
-      {
-        "text": "Audience adaptation changes facts",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Diagrams replace all accurate words",
+      "Labels make water disappear",
+      "The water cycle cannot be communicated visually",
+      "Labels can connect processes such as evaporation, condensation and precipitation"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Use a readable visual and concise cues for spoken explanation.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Labels help readers connect parts and processes in the model.",
+      "hint": "Visual plus labels."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Labels help readers connect parts and processes in the model.",
+      "hint": "Visual plus labels."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-019",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "Study the classroom example. Which sentence communicates a finding precisely?",
-    "audio_prompt": "Study the classroom example. Which sentence communicates a finding precisely?",
+    "question": "Why should limitations be communicated?",
+    "audio_prompt": "Why should limitations be communicated?",
+    "audioPrompt": "Why should limitations be communicated?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-019",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: Study the classroom example. Which sentence communicates a finding precisely?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The group reports a change but leaves out the measurement or observation needed to support it.",
+        "text": "They remove the need for results",
         "is_correct": false
       },
       {
-        "text": "The temperature increased from 22°C to 33°C in 4 minutes",
+        "text": "They are only for adults",
+        "is_correct": false
+      },
+      {
+        "text": "They show how far the findings can reasonably be applied",
         "is_correct": true
       },
       {
-        "text": "The group states its preferred outcome instead of using the recorded scientific evidence.",
+        "text": "They prove the investigation failed",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "They remove the need for results",
+      "They are only for adults",
+      "They show how far the findings can reasonably be applied",
+      "They prove the investigation failed"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The temperature increased from 22°C to 33°C in 4 minutes",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Limitations help audiences judge confidence and scope.",
+      "hint": "Boundary of evidence."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Limitations help audiences judge confidence and scope.",
+      "hint": "Boundary of evidence."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-020",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "Use the investigation evidence. Which feature best supports a report about measurements?",
-    "audio_prompt": "Use the investigation evidence. Which feature best supports a report about measurements?",
+    "question": "Why should digital tools be chosen for a purpose?",
+    "audio_prompt": "Why should digital tools be chosen for a purpose?",
+    "audioPrompt": "Why should digital tools be chosen for a purpose?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-020",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: Use the investigation evidence. Which feature best supports a report about measurements?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The group reports a change but leaves out the measurement or observation needed to support it.",
+        "text": "Animations can change data values",
         "is_correct": false
       },
       {
-        "text": "a title with no evidence",
-        "is_correct": false
-      },
-      {
-        "text": "a labelled graph with units and a finding statement",
+        "text": "A tool should improve recording, display or explanation for the audience",
         "is_correct": true
+      },
+      {
+        "text": "Any digital effect makes science better",
+        "is_correct": false
+      },
+      {
+        "text": "Tools replace accuracy",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Animations can change data values",
+      "A tool should improve recording, display or explanation for the audience",
+      "Any digital effect makes science better",
+      "Tools replace accuracy"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "a labelled graph with units and a finding statement",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Digital tools are useful when they make evidence clearer or easier to share.",
+      "hint": "Purposeful tool."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Digital tools are useful when they make evidence clearer or easier to share.",
+      "hint": "Purposeful tool."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-021",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "The class is preparing “Report reconstruction”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Report reconstruction”. Which plan would produce useful scientific evidence?",
+    "question": "Which statement is a misconception?",
+    "audio_prompt": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-021",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Report reconstruction”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Order mixed report sections and explain why each belongs where it does.",
+        "text": "Changing facts is a good way to adapt for an audience",
         "is_correct": true
       },
       {
-        "text": "Begin report reconstruction, change two important conditions together, then compare only the preferred observation.",
+        "text": "Audience adaptation can change vocabulary support",
         "is_correct": false
       },
       {
-        "text": "Carry out report reconstruction once, omit the measurements and report the original prediction as the result.",
+        "text": "Evidence values should stay accurate",
+        "is_correct": false
+      },
+      {
+        "text": "Layout can change for readability",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Changing facts is a good way to adapt for an audience",
+      "Audience adaptation can change vocabulary support",
+      "Evidence values should stay accurate",
+      "Layout can change for readability"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Order mixed report sections and explain why each belongs where it does.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Audience adaptation should not alter facts or data values.",
+      "hint": "Facts stay fixed."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Audience adaptation should not alter facts or data values.",
+      "hint": "Facts stay fixed."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-022",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "The class is preparing “Audience rewrite”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Audience rewrite”. Which plan would produce useful scientific evidence?",
+    "question": "Which version best suits a younger class?",
+    "audio_prompt": "Which version best suits a younger class?",
+    "audioPrompt": "Which version best suits a younger class?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-022",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Audience rewrite”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin audience rewrite, change two important conditions together, then compare only the preferred observation.",
+        "text": "Condensation occurred due to thermodynamic processes without explanation",
         "is_correct": false
       },
       {
-        "text": "Rewrite one finding for a class poster, formal report and oral explanation while preserving the evidence.",
+        "text": "The result was stuff happened",
+        "is_correct": false
+      },
+      {
+        "text": "The values are secret",
+        "is_correct": false
+      },
+      {
+        "text": "The water vapour cooled and formed tiny drops; this is called condensation",
         "is_correct": true
-      },
-      {
-        "text": "Carry out audience rewrite once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Condensation occurred due to thermodynamic processes without explanation",
+      "The result was stuff happened",
+      "The values are secret",
+      "The water vapour cooled and formed tiny drops; this is called condensation"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Rewrite one finding for a class poster, formal report and oral explanation while preserving the evidence.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "The sentence uses a science term and explains it simply.",
+      "hint": "Term plus support."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The sentence uses a science term and explains it simply.",
+      "hint": "Term plus support."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-023",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "The class is preparing “Visual audit”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Visual audit”. Which plan would produce useful scientific evidence?",
+    "question": "Which feature is weakest in a scientific poster?",
+    "audio_prompt": "Which feature is weakest in a scientific poster?",
+    "audioPrompt": "Which feature is weakest in a scientific poster?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-023",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Visual audit”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin visual audit, change two important conditions together, then compare only the preferred observation.",
+        "text": "A short finding statement",
         "is_correct": false
       },
       {
-        "text": "Carry out visual audit once, omit the measurements and report the original prediction as the result.",
+        "text": "A caption for the diagram",
         "is_correct": false
       },
       {
-        "text": "Check a graph or diagram for title, labels, units, caption, legibility and connection to the spoken or written message.",
+        "text": "A large decoration unrelated to the evidence",
         "is_correct": true
+      },
+      {
+        "text": "A labelled graph",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A short finding statement",
+      "A caption for the diagram",
+      "A large decoration unrelated to the evidence",
+      "A labelled graph"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Check a graph or diagram for title, labels, units, caption, legibility and connection to the spoken or written message.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Unrelated decoration does not communicate the science.",
+      "hint": "Evidence connection."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Unrelated decoration does not communicate the science.",
+      "hint": "Evidence connection."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-P-024",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "practice",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A results display includes “class poster”. Which interpretation matches that evidence?",
-    "audio_prompt": "A results display includes “class poster”. Which interpretation matches that evidence?",
+    "question": "Which communication keeps the data accurate?",
+    "audio_prompt": "Which communication keeps the data accurate?",
+    "audioPrompt": "Which communication keeps the data accurate?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-p-024",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A results display includes “class poster”. Which interpretation matches that evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "large labelled visual, short evidence statements",
+        "text": "The oral talk changes the winning design",
+        "is_correct": false
+      },
+      {
+        "text": "The cup cooled by 9°C in both the report and poster",
         "is_correct": true
       },
       {
-        "text": "method detail, units, data and limitations",
+        "text": "The poster says 5°C because it fits better",
         "is_correct": false
       },
       {
-        "text": "familiar language plus defined science terms",
+        "text": "The slide rounds 9°C to 30°C",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "The oral talk changes the winning design",
+      "The cup cooled by 9°C in both the report and poster",
+      "The poster says 5°C because it fits better",
+      "The slide rounds 9°C to 30°C"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "class poster is linked to large labelled visual, short evidence statements.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "The evidence should stay the same across formats.",
+      "hint": "Do not alter data."
     },
+    "structuredExplanation": {
+      "summary": "The evidence should stay the same across formats.",
+      "hint": "Do not alter data."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-025",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "Which report section explains how data was collected?",
+    "audio_prompt": "Which report section explains how data was collected?",
+    "audioPrompt": "Which report section explains how data was collected?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Method",
+        "is_correct": true
+      },
+      {
+        "text": "Title only",
+        "is_correct": false
+      },
+      {
+        "text": "Conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "Reference",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Method",
+      "Title only",
+      "Conclusion",
+      "Reference"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The method tells readers what was done.",
+      "hint": "How it was done."
+    },
+    "structuredExplanation": {
+      "summary": "The method tells readers what was done.",
+      "hint": "How it was done."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-026",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "Which visual needs improvement?",
+    "audio_prompt": "Which visual needs improvement?",
+    "audioPrompt": "Which visual needs improvement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A graph with labelled axes",
+        "is_correct": false
+      },
+      {
+        "text": "A water-cycle diagram with arrows",
+        "is_correct": false
+      },
+      {
+        "text": "A photo with a caption",
+        "is_correct": false
+      },
+      {
+        "text": "A graph with no title, labels or units",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A graph with labelled axes",
+      "A water-cycle diagram with arrows",
+      "A photo with a caption",
+      "A graph with no title, labels or units"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Unlabelled visuals are hard to interpret.",
+      "hint": "Missing labels."
+    },
+    "structuredExplanation": {
+      "summary": "Unlabelled visuals are hard to interpret.",
+      "hint": "Missing labels."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-027",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "Which sentence uses precise vocabulary?",
+    "audio_prompt": "Which sentence uses precise vocabulary?",
+    "audioPrompt": "Which sentence uses precise vocabulary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The puddle went away magically",
+        "is_correct": false
+      },
+      {
+        "text": "The wet stuff vanished",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation changed liquid water into water vapour",
+        "is_correct": true
+      },
+      {
+        "text": "The water did a thing",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The puddle went away magically",
+      "The wet stuff vanished",
+      "Evaporation changed liquid water into water vapour",
+      "The water did a thing"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Evaporation and water vapour are precise science terms.",
+      "hint": "Specific science words."
+    },
+    "structuredExplanation": {
+      "summary": "Evaporation and water vapour are precise science terms.",
+      "hint": "Specific science words."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-028",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "Which audience choice is best for a teacher report?",
+    "audio_prompt": "Which audience choice is best for a teacher report?",
+    "audioPrompt": "Which audience choice is best for a teacher report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Change data to be simpler",
+        "is_correct": false
+      },
+      {
+        "text": "Include method detail, data table, units, conclusion and limitation",
+        "is_correct": true
+      },
+      {
+        "text": "Use only a sticker and title",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all measurements",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Change data to be simpler",
+      "Include method detail, data table, units, conclusion and limitation",
+      "Use only a sticker and title",
+      "Remove all measurements"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A teacher report needs enough detail to check the investigation.",
+      "hint": "Detailed evidence."
+    },
+    "structuredExplanation": {
+      "summary": "A teacher report needs enough detail to check the investigation.",
+      "hint": "Detailed evidence."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-029",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "Which source statement is clearest?",
+    "audio_prompt": "Which source statement is clearest?",
+    "audioPrompt": "Which source statement is clearest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Measurements collected by our group during three trials in class",
+        "is_correct": true
+      },
+      {
+        "text": "Science is everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "A website maybe",
+        "is_correct": false
+      },
+      {
+        "text": "My friend said it",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Measurements collected by our group during three trials in class",
+      "Science is everywhere",
+      "A website maybe",
+      "My friend said it"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The clear statement identifies where evidence came from.",
+      "hint": "Specific source."
+    },
+    "structuredExplanation": {
+      "summary": "The clear statement identifies where evidence came from.",
+      "hint": "Specific source."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-030",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "Which communication problem is a data dump?",
+    "audio_prompt": "Which communication problem is a data dump?",
+    "audioPrompt": "Which communication problem is a data dump?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Selecting two relevant values for a claim",
+        "is_correct": false
+      },
+      {
+        "text": "Using a graph caption",
+        "is_correct": false
+      },
+      {
+        "text": "Writing a concise conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "Listing every number without saying what finding it supports",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Selecting two relevant values for a claim",
+      "Using a graph caption",
+      "Writing a concise conclusion",
+      "Listing every number without saying what finding it supports"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Data should be organised and interpreted, not dumped without purpose.",
+      "hint": "Explain what data means."
+    },
+    "structuredExplanation": {
+      "summary": "Data should be organised and interpreted, not dumped without purpose.",
+      "hint": "Explain what data means."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-031",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "A class poster says “It worked!” under a graph. What should be added?",
+    "audio_prompt": "A class poster says “It worked!” under a graph. What should be added?",
+    "audioPrompt": "A class poster says “It worked!” under a graph. What should be added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A changed data value",
+        "is_correct": false
+      },
+      {
+        "text": "A hidden axis",
+        "is_correct": false
+      },
+      {
+        "text": "A precise finding, such as which material kept water warmest and by how much",
+        "is_correct": true
+      },
+      {
+        "text": "More decoration only",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A changed data value",
+      "A hidden axis",
+      "A precise finding, such as which material kept water warmest and by how much",
+      "More decoration only"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "A poster should state the finding supported by the graph.",
+      "hint": "What did evidence show?"
+    },
+    "structuredExplanation": {
+      "summary": "A poster should state the finding supported by the graph.",
+      "hint": "What did evidence show?"
+    },
+    "stage": "apply",
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-032",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "You are explaining condensation to Year 2 students. Which sentence is best?",
+    "audio_prompt": "You are explaining condensation to Year 2 students. Which sentence is best?",
+    "audioPrompt": "You are explaining condensation to Year 2 students. Which sentence is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The science is too hard",
+        "is_correct": false
+      },
+      {
+        "text": "Water vapour in the air cooled and turned into tiny liquid drops",
+        "is_correct": true
+      },
+      {
+        "text": "Condensation occurred, obviously",
+        "is_correct": false
+      },
+      {
+        "text": "The bottle made water by magic",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The science is too hard",
+      "Water vapour in the air cooled and turned into tiny liquid drops",
+      "Condensation occurred, obviously",
+      "The bottle made water by magic"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The sentence keeps the science accurate and uses accessible wording.",
+      "hint": "Simple but accurate."
+    },
+    "structuredExplanation": {
+      "summary": "The sentence keeps the science accurate and uses accessible wording.",
+      "hint": "Simple but accurate."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-033",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "A teacher report includes a graph but no method. What is missing?",
+    "audio_prompt": "A teacher report includes a graph but no method. What is missing?",
+    "audioPrompt": "A teacher report includes a graph but no method. What is missing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "How the data was collected",
+        "is_correct": true
+      },
+      {
+        "text": "The favourite colour",
+        "is_correct": false
+      },
+      {
+        "text": "A joke heading",
+        "is_correct": false
+      },
+      {
+        "text": "A larger logo",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "How the data was collected",
+      "The favourite colour",
+      "A joke heading",
+      "A larger logo"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Readers need the method to judge the evidence.",
+      "hint": "How was it tested?"
+    },
+    "structuredExplanation": {
+      "summary": "Readers need the method to judge the evidence.",
+      "hint": "How was it tested?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-034",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "A slide graph is too small to read from the back of the room. What should be changed?",
+    "audio_prompt": "A slide graph is too small to read from the back of the room. What should be changed?",
+    "audioPrompt": "A slide graph is too small to read from the back of the room. What should be changed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Change values to fewer numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all labels",
+        "is_correct": false
+      },
+      {
+        "text": "Use only background pictures",
+        "is_correct": false
+      },
+      {
+        "text": "Increase graph size and reduce crowding while keeping values accurate",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Change values to fewer numbers",
+      "Remove all labels",
+      "Use only background pictures",
+      "Increase graph size and reduce crowding while keeping values accurate"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A presentation visual should be readable without altering evidence.",
+      "hint": "Readable, accurate."
+    },
+    "structuredExplanation": {
+      "summary": "A presentation visual should be readable without altering evidence.",
+      "hint": "Readable, accurate."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-035",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "A student wants to adapt a report into an oral presentation. What should remain exact?",
+    "audio_prompt": "A student wants to adapt a report into an oral presentation. What should remain exact?",
+    "audioPrompt": "A student wants to adapt a report into an oral presentation. What should remain exact?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "All decorative choices",
+        "is_correct": false
+      },
+      {
+        "text": "The number of colours",
+        "is_correct": false
+      },
+      {
+        "text": "The measurements and scientific meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Every sentence length",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "All decorative choices",
+      "The number of colours",
+      "The measurements and scientific meaning",
+      "Every sentence length"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Changing format should not change data or meaning.",
+      "hint": "Keep facts."
+    },
+    "structuredExplanation": {
+      "summary": "Changing format should not change data or meaning.",
+      "hint": "Keep facts."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-036",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "A graph shows water temperature rose from 22°C to 33°C. Which finding sentence is best?",
+    "audio_prompt": "A graph shows water temperature rose from 22°C to 33°C. Which finding sentence is best?",
+    "audioPrompt": "A graph shows water temperature rose from 22°C to 33°C. Which finding sentence is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The cup was probably happy",
+        "is_correct": false
+      },
+      {
+        "text": "The water warmed by 11°C over 4 minutes",
+        "is_correct": true
+      },
+      {
+        "text": "The water got nice",
+        "is_correct": false
+      },
+      {
+        "text": "The graph is tall",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The cup was probably happy",
+      "The water warmed by 11°C over 4 minutes",
+      "The water got nice",
+      "The graph is tall"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The finding uses the values to communicate the change precisely.",
+      "hint": "Calculate change."
+    },
+    "structuredExplanation": {
+      "summary": "The finding uses the values to communicate the change precisely.",
+      "hint": "Calculate change."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-037",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "A food-chain diagram has arrows but no caption. What caption would help?",
+    "audio_prompt": "A food-chain diagram has arrows but no caption. What caption would help?",
+    "audioPrompt": "A food-chain diagram has arrows but no caption. What caption would help?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Arrows show food and energy moving from food source to eater",
+        "is_correct": true
+      },
+      {
+        "text": "The animals are cute",
+        "is_correct": false
+      },
+      {
+        "text": "This is a drawing",
+        "is_correct": false
+      },
+      {
+        "text": "The colours are bright",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Arrows show food and energy moving from food source to eater",
+      "The animals are cute",
+      "This is a drawing",
+      "The colours are bright"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The caption explains the meaning of the arrows.",
+      "hint": "Explain visual code."
+    },
+    "structuredExplanation": {
+      "summary": "The caption explains the meaning of the arrows.",
+      "hint": "Explain visual code."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-038",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "A report for parents includes “precipitation” with no explanation. What should be added?",
+    "audio_prompt": "A report for parents includes “precipitation” with no explanation. What should be added?",
+    "audioPrompt": "A report for parents includes “precipitation” with no explanation. What should be added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A harder word only",
+        "is_correct": false
+      },
+      {
+        "text": "A changed result",
+        "is_correct": false
+      },
+      {
+        "text": "No explanation because adults know everything",
+        "is_correct": false
+      },
+      {
+        "text": "A short definition such as rain, hail or snow falling from clouds",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A harder word only",
+      "A changed result",
+      "No explanation because adults know everything",
+      "A short definition such as rain, hail or snow falling from clouds"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Defining a science term supports the audience.",
+      "hint": "Vocabulary support."
+    },
+    "structuredExplanation": {
+      "summary": "Defining a science term supports the audience.",
+      "hint": "Vocabulary support."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-039",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "A student includes all raw results but no conclusion. What is the problem?",
+    "audio_prompt": "A student includes all raw results but no conclusion. What is the problem?",
+    "audioPrompt": "A student includes all raw results but no conclusion. What is the problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Conclusions should hide evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The report is automatically complete",
+        "is_correct": false
+      },
+      {
+        "text": "The communication does not explain what the evidence means",
+        "is_correct": true
+      },
+      {
+        "text": "Raw results are never allowed",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Conclusions should hide evidence",
+      "The report is automatically complete",
+      "The communication does not explain what the evidence means",
+      "Raw results are never allowed"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Scientific communication should interpret selected evidence.",
+      "hint": "Say the finding."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific communication should interpret selected evidence.",
+      "hint": "Say the finding."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I06-P-040",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
+    "bank": "practice",
+    "skill": "communicating_scientific_findings_and_ideas",
+    "question": "A digital presentation uses animation that covers the graph labels. What should be fixed?",
+    "audio_prompt": "A digital presentation uses animation that covers the graph labels. What should be fixed?",
+    "audioPrompt": "A digital presentation uses animation that covers the graph labels. What should be fixed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Change the conclusion to match the animation",
+        "is_correct": false
+      },
+      {
+        "text": "Remove or change the animation so labels stay readable",
+        "is_correct": true
+      },
+      {
+        "text": "Keep it because movement is always better",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the data behind pictures",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Change the conclusion to match the animation",
+      "Remove or change the animation so labels stay readable",
+      "Keep it because movement is always better",
+      "Hide the data behind pictures"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Digital features should support, not block, scientific communication.",
+      "hint": "Readability first."
+    },
+    "structuredExplanation": {
+      "summary": "Digital features should support, not block, scientific communication.",
+      "hint": "Readability first."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-001",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A museum activity card says, “reason the communication is created”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “reason the communication is created”. Which scientific term belongs on the card?",
+    "question": "Which sentence gives the clearest finding?",
+    "audio_prompt": "Which sentence gives the clearest finding?",
+    "audioPrompt": "Which sentence gives the clearest finding?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-001",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “reason the communication is created”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "audience",
+        "text": "The tray looked neat",
         "is_correct": false
       },
       {
-        "text": "purpose",
+        "text": "The result was science",
+        "is_correct": false
+      },
+      {
+        "text": "The covered tray stayed 5°C cooler than the uncovered tray after 20 minutes",
         "is_correct": true
       },
       {
-        "text": "scientific vocabulary",
+        "text": "It was better",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The tray looked neat",
+      "The result was science",
+      "The covered tray stayed 5°C cooler than the uncovered tray after 20 minutes",
+      "It was better"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "purpose is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "The sentence communicates a precise evidence-based finding.",
+      "hint": "Value and comparison."
+    },
+    "structuredExplanation": {
+      "summary": "The sentence communicates a precise evidence-based finding.",
+      "hint": "Value and comparison."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A museum activity card says, “intended reader, viewer or listener”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “intended reader, viewer or listener”. Which scientific term belongs on the card?",
+    "question": "A report is for younger students. What should change?",
+    "audio_prompt": "A report is for younger students. What should change?",
+    "audioPrompt": "A report is for younger students. What should change?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-002",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “intended reader, viewer or listener”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "scientific vocabulary",
+        "text": "Make the conclusion different",
         "is_correct": false
       },
       {
-        "text": "caption",
-        "is_correct": false
-      },
-      {
-        "text": "audience",
+        "text": "Explain science vocabulary with familiar words",
         "is_correct": true
+      },
+      {
+        "text": "Change the data values",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all evidence",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Make the conclusion different",
+      "Explain science vocabulary with familiar words",
+      "Change the data values",
+      "Remove all evidence"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "audience is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Audience adaptation can add support while keeping facts accurate.",
+      "hint": "Support changes, facts stay."
+    },
+    "structuredExplanation": {
+      "summary": "Audience adaptation can add support while keeping facts accurate.",
+      "hint": "Support changes, facts stay."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A museum activity card says, “precise field-specific terms”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “precise field-specific terms”. Which scientific term belongs on the card?",
+    "question": "Which feature makes a graph useful in a science report?",
+    "audio_prompt": "Which feature makes a graph useful in a science report?",
+    "audioPrompt": "Which feature makes a graph useful in a science report?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-003",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “precise field-specific terms”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "scientific vocabulary",
+        "text": "Title, labelled axes, units and a linked finding",
         "is_correct": true
       },
       {
-        "text": "caption",
+        "text": "Unrelated clip art",
         "is_correct": false
       },
       {
-        "text": "citation or source",
+        "text": "Hidden numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Changed values",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Title, labelled axes, units and a linked finding",
+      "Unrelated clip art",
+      "Hidden numbers",
+      "Changed values"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "scientific vocabulary is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Graph features should help readers interpret evidence.",
+      "hint": "Readable evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Graph features should help readers interpret evidence.",
+      "hint": "Readable evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A museum activity card says, “text explaining a visual”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “text explaining a visual”. Which scientific term belongs on the card?",
+    "question": "Why include a limitation in a report?",
+    "audio_prompt": "Why include a limitation in a report?",
+    "audioPrompt": "Why include a limitation in a report?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-004",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “text explaining a visual”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "citation or source",
+        "text": "It proves the work is useless",
         "is_correct": false
       },
       {
-        "text": "caption",
+        "text": "It replaces results",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the question",
+        "is_correct": false
+      },
+      {
+        "text": "It tells readers where the conclusion may not fully apply",
         "is_correct": true
-      },
-      {
-        "text": "purpose",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "It proves the work is useless",
+      "It replaces results",
+      "It changes the question",
+      "It tells readers where the conclusion may not fully apply"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "caption is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Limitations communicate scope and confidence.",
+      "hint": "Scope."
+    },
+    "structuredExplanation": {
+      "summary": "Limitations communicate scope and confidence.",
+      "hint": "Scope."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A museum activity card says, “information identifying where external evidence came from”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “information identifying where external evidence came from”. Which scientific term belongs on the card?",
+    "question": "Which text is a data dump?",
+    "audio_prompt": "Which text is a data dump?",
+    "audioPrompt": "Which text is a data dump?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-005",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “information identifying where external evidence came from”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "purpose",
+        "text": "A graph with a caption",
         "is_correct": false
       },
       {
-        "text": "audience",
+        "text": "A short evidence sentence",
         "is_correct": false
       },
       {
-        "text": "citation or source",
+        "text": "A page of numbers with no finding or explanation",
         "is_correct": true
+      },
+      {
+        "text": "A table with a conclusion",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A graph with a caption",
+      "A short evidence sentence",
+      "A page of numbers with no finding or explanation",
+      "A table with a conclusion"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "citation or source is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Data needs organisation and interpretation.",
+      "hint": "Numbers need meaning."
+    },
+    "structuredExplanation": {
+      "summary": "Data needs organisation and interpretation.",
+      "hint": "Numbers need meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A different class records this conclusion: “Communication is a data dump”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Communication is a data dump”. Which feedback would improve it most?",
+    "question": "A slide says the cup cooled by 4°C, but the table says 14°C. What is wrong?",
+    "audio_prompt": "A slide says the cup cooled by 4°C, but the table says 14°C. What is wrong?",
+    "audioPrompt": "A slide says the cup cooled by 4°C, but the table says 14°C. What is wrong?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-006",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Communication is a data dump”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Select evidence and state the finding it supports.",
+        "text": "Audience adaptation allows any number",
+        "is_correct": false
+      },
+      {
+        "text": "The communication changed the evidence value",
         "is_correct": true
       },
       {
-        "text": "Communication is a data dump",
+        "text": "The slide is more readable",
         "is_correct": false
       },
       {
-        "text": "Audience adaptation changes facts",
+        "text": "The table must be ignored",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Audience adaptation allows any number",
+      "The communication changed the evidence value",
+      "The slide is more readable",
+      "The table must be ignored"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Select evidence and state the finding it supports.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Evidence values must remain accurate across formats.",
+      "hint": "Do not change data."
+    },
+    "structuredExplanation": {
+      "summary": "Evidence values must remain accurate across formats.",
+      "hint": "Do not change data."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A different class records this conclusion: “Audience adaptation changes facts”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Audience adaptation changes facts”. Which feedback would improve it most?",
+    "question": "Which sentence uses scientific vocabulary accurately?",
+    "audio_prompt": "Which sentence uses scientific vocabulary accurately?",
+    "audioPrompt": "Which sentence uses scientific vocabulary accurately?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-007",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Audience adaptation changes facts”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Audience adaptation changes facts",
-        "is_correct": false
-      },
-      {
-        "text": "Change explanation support and layout, not the evidence.",
+        "text": "Friction acted against the sliding motion",
         "is_correct": true
       },
       {
-        "text": "Technical vocabulary left unexplained",
+        "text": "The motion got sciency",
+        "is_correct": false
+      },
+      {
+        "text": "The car hated carpet",
+        "is_correct": false
+      },
+      {
+        "text": "The surface did stuff",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Friction acted against the sliding motion",
+      "The motion got sciency",
+      "The car hated carpet",
+      "The surface did stuff"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Change explanation support and layout, not the evidence.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Friction and motion are precise terms used correctly.",
+      "hint": "Science terms."
+    },
+    "structuredExplanation": {
+      "summary": "Friction and motion are precise terms used correctly.",
+      "hint": "Science terms."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A different class records this conclusion: “Technical vocabulary left unexplained”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Technical vocabulary left unexplained”. Which feedback would improve it most?",
+    "question": "Which report order is clearest?",
+    "audio_prompt": "Which report order is clearest?",
+    "audioPrompt": "Which report order is clearest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-008",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Technical vocabulary left unexplained”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Technical vocabulary left unexplained",
+        "text": "Decoration, conclusion, hidden method, guess",
         "is_correct": false
       },
       {
-        "text": "Digital slide becomes a paragraph wall",
+        "text": "Result, result, no question, no method",
         "is_correct": false
       },
       {
-        "text": "Use precise terms and define them for the audience.",
+        "text": "Title only",
+        "is_correct": false
+      },
+      {
+        "text": "Question, method, results, conclusion, limitation",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Decoration, conclusion, hidden method, guess",
+      "Result, result, no question, no method",
+      "Title only",
+      "Question, method, results, conclusion, limitation"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Use precise terms and define them for the audience.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "The clear order lets readers follow the investigation.",
+      "hint": "Logical flow."
+    },
+    "structuredExplanation": {
+      "summary": "The clear order lets readers follow the investigation.",
+      "hint": "Logical flow."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A different class records this conclusion: “Digital slide becomes a paragraph wall”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Digital slide becomes a paragraph wall”. Which feedback would improve it most?",
+    "question": "Which visual choice best suits an oral presentation?",
+    "audio_prompt": "Which visual choice best suits an oral presentation?",
+    "audioPrompt": "Which visual choice best suits an oral presentation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-009",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Digital slide becomes a paragraph wall”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Use a readable visual and concise cues for spoken explanation.",
+        "text": "A paragraph covering the slide",
+        "is_correct": false
+      },
+      {
+        "text": "An unrelated background image",
+        "is_correct": false
+      },
+      {
+        "text": "A readable graph with few key labels for the speaker to explain",
         "is_correct": true
       },
       {
-        "text": "Digital slide becomes a paragraph wall",
-        "is_correct": false
-      },
-      {
-        "text": "Communication is a data dump",
+        "text": "A tiny table with every raw number",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A paragraph covering the slide",
+      "An unrelated background image",
+      "A readable graph with few key labels for the speaker to explain",
+      "A tiny table with every raw number"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Use a readable visual and concise cues for spoken explanation.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Oral presentations need clear visuals and concise cues.",
+      "hint": "Readable from audience."
+    },
+    "structuredExplanation": {
+      "summary": "Oral presentations need clear visuals and concise cues.",
+      "hint": "Readable from audience."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A new field-note example asks: Which sentence communicates a finding precisely?",
-    "audio_prompt": "A new field-note example asks: Which sentence communicates a finding precisely?",
+    "question": "What is the purpose of a caption under a model?",
+    "audio_prompt": "What is the purpose of a caption under a model?",
+    "audioPrompt": "What is the purpose of a caption under a model?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-010",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which sentence communicates a finding precisely?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The group reports a change but leaves out the measurement or observation needed to support it.",
+        "text": "To hide the labels",
         "is_correct": false
       },
       {
-        "text": "The temperature increased from 22°C to 33°C in 4 minutes",
+        "text": "To explain what the model shows or leaves out",
         "is_correct": true
       },
       {
-        "text": "The group states its preferred outcome instead of using the recorded scientific evidence.",
+        "text": "To replace all data",
+        "is_correct": false
+      },
+      {
+        "text": "To decorate the page only",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "To hide the labels",
+      "To explain what the model shows or leaves out",
+      "To replace all data",
+      "To decorate the page only"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The temperature increased from 22°C to 33°C in 4 minutes",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "Captions help readers interpret visuals.",
+      "hint": "Explain visual."
+    },
+    "structuredExplanation": {
+      "summary": "Captions help readers interpret visuals.",
+      "hint": "Explain visual."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A new design task asks: Which feature best supports a report about measurements?",
-    "audio_prompt": "A new design task asks: Which feature best supports a report about measurements?",
+    "question": "A teacher report says “we tested it” but gives no method detail. What is the issue?",
+    "audio_prompt": "A teacher report says “we tested it” but gives no method detail. What is the issue?",
+    "audioPrompt": "A teacher report says “we tested it” but gives no method detail. What is the issue?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-011",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which feature best supports a report about measurements?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The group reports a change but leaves out the measurement or observation needed to support it.",
-        "is_correct": false
-      },
-      {
-        "text": "a title with no evidence",
-        "is_correct": false
-      },
-      {
-        "text": "a labelled graph with units and a finding statement",
+        "text": "The reader cannot judge how the evidence was collected",
         "is_correct": true
+      },
+      {
+        "text": "The report has too much evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The method should always be secret",
+        "is_correct": false
+      },
+      {
+        "text": "The result becomes more precise",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The reader cannot judge how the evidence was collected",
+      "The report has too much evidence",
+      "The method should always be secret",
+      "The result becomes more precise"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "a labelled graph with units and a finding statement",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "Method details let readers evaluate the investigation.",
+      "hint": "Checkable method."
+    },
+    "structuredExplanation": {
+      "summary": "Method details let readers evaluate the investigation.",
+      "hint": "Checkable method."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A new group wants to adapt “Report reconstruction”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Report reconstruction”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which adaptation is appropriate for parents?",
+    "audio_prompt": "Which adaptation is appropriate for parents?",
+    "audioPrompt": "Which adaptation is appropriate for parents?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-012",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Report reconstruction”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Order mixed report sections and explain why each belongs where it does.",
+        "text": "Remove all numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Change the conclusion to sound nicer",
+        "is_correct": false
+      },
+      {
+        "text": "Use only technical words without support",
+        "is_correct": false
+      },
+      {
+        "text": "Define unfamiliar terms while keeping the evidence exact",
         "is_correct": true
-      },
-      {
-        "text": "Begin report reconstruction, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out report reconstruction once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Remove all numbers",
+      "Change the conclusion to sound nicer",
+      "Use only technical words without support",
+      "Define unfamiliar terms while keeping the evidence exact"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Order mixed report sections and explain why each belongs where it does.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Parent-facing communication can define terms and preserve accuracy.",
+      "hint": "Accessible accuracy."
+    },
+    "structuredExplanation": {
+      "summary": "Parent-facing communication can define terms and preserve accuracy.",
+      "hint": "Accessible accuracy."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A new group wants to adapt “Audience rewrite”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Audience rewrite”. Which method keeps the investigation focused and reviewable?",
+    "question": "A poster graph has no units on the vertical axis. What should be added?",
+    "audio_prompt": "A poster graph has no units on the vertical axis. What should be added?",
+    "audioPrompt": "A poster graph has no units on the vertical axis. What should be added?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-013",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Audience rewrite”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin audience rewrite, change two important conditions together, then compare only the preferred observation.",
+        "text": "A different data value",
         "is_correct": false
       },
       {
-        "text": "Rewrite one finding for a class poster, formal report and oral explanation while preserving the evidence.",
+        "text": "A hidden title",
+        "is_correct": false
+      },
+      {
+        "text": "The unit, such as cm, mL or °C",
         "is_correct": true
       },
       {
-        "text": "Carry out audience rewrite once, omit the measurements and report the original prediction as the result.",
+        "text": "More decorative stars",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "A different data value",
+      "A hidden title",
+      "The unit, such as cm, mL or °C",
+      "More decorative stars"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Rewrite one finding for a class poster, formal report and oral explanation while preserving the evidence.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Units are needed to interpret measured values.",
+      "hint": "Value meaning."
+    },
+    "structuredExplanation": {
+      "summary": "Units are needed to interpret measured values.",
+      "hint": "Value meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A new group wants to adapt “Visual audit”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Visual audit”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which evidence sentence is best for a class poster?",
+    "audio_prompt": "Which evidence sentence is best for a class poster?",
+    "audioPrompt": "Which evidence sentence is best for a class poster?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-014",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Visual audit”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin visual audit, change two important conditions together, then compare only the preferred observation.",
+        "text": "The graph is blue",
         "is_correct": false
       },
       {
-        "text": "Carry out visual audit once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Check a graph or diagram for title, labels, units, caption, legibility and connection to the spoken or written message.",
+        "text": "Mean distance was 120 cm on tile and 45 cm on carpet",
         "is_correct": true
+      },
+      {
+        "text": "The car was good",
+        "is_correct": false
+      },
+      {
+        "text": "Tile was the favourite",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The graph is blue",
+      "Mean distance was 120 cm on tile and 45 cm on carpet",
+      "The car was good",
+      "Tile was the favourite"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Check a graph or diagram for title, labels, units, caption, legibility and connection to the spoken or written message.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "The sentence selects relevant values to communicate the finding.",
+      "hint": "Key values."
+    },
+    "structuredExplanation": {
+      "summary": "The sentence selects relevant values to communicate the finding.",
+      "hint": "Key values."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A new communicating scientific findings and ideas investigation reports “class poster”. Which conclusion is best supported by the display?",
-    "audio_prompt": "A new communicating scientific findings and ideas investigation reports “class poster”. Which conclusion is best supported by the display?",
+    "question": "Why should digital tools not be used just for decoration?",
+    "audio_prompt": "Why should digital tools not be used just for decoration?",
+    "audioPrompt": "Why should digital tools not be used just for decoration?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-015",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A new communicating scientific findings and ideas investigation reports “class poster”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "large labelled visual, short evidence statements",
+        "text": "They should help communicate evidence clearly",
         "is_correct": true
       },
       {
-        "text": "method detail, units, data and limitations",
+        "text": "Decoration always improves accuracy",
         "is_correct": false
       },
       {
-        "text": "familiar language plus defined science terms",
+        "text": "Digital effects can replace science",
+        "is_correct": false
+      },
+      {
+        "text": "Animations should hide data",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "They should help communicate evidence clearly",
+      "Decoration always improves accuracy",
+      "Digital effects can replace science",
+      "Animations should hide data"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "class poster is linked to large labelled visual, short evidence statements.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+      "summary": "Tools should serve the purpose and audience.",
+      "hint": "Purposeful choice."
+    },
+    "structuredExplanation": {
+      "summary": "Tools should serve the purpose and audience.",
+      "hint": "Purposeful choice."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4I06-T-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I06",
+    "curriculumCode": "AC9S4I06",
     "bank": "test",
     "skill": "communicating_scientific_findings_and_ideas",
-    "question": "A new communicating scientific findings and ideas investigation reports “teacher report”. Which conclusion is best supported by the display?",
-    "audio_prompt": "A new communicating scientific findings and ideas investigation reports “teacher report”. Which conclusion is best supported by the display?",
+    "question": "Which final check best improves scientific communication?",
+    "audio_prompt": "Which final check best improves scientific communication?",
+    "audioPrompt": "Which final check best improves scientific communication?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i06.svg#ac9s4i06-t-016",
-      "alt_text": "Communicating Scientific Findings and Ideas concept map showing a Year 4 observe, compare and explain sequence. Question context: A new communicating scientific findings and ideas investigation reports “teacher report”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "large labelled visual, short evidence statements",
+        "text": "Add more colours everywhere",
         "is_correct": false
       },
       {
-        "text": "method detail, units, data and limitations",
+        "text": "Remove all limitations",
+        "is_correct": false
+      },
+      {
+        "text": "Make the graph smaller",
+        "is_correct": false
+      },
+      {
+        "text": "Check that claims, values, labels and vocabulary are accurate for the audience",
         "is_correct": true
-      },
-      {
-        "text": "familiar language plus defined science terms",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Add more colours everywhere",
+      "Remove all limitations",
+      "Make the graph smaller",
+      "Check that claims, values, labels and vocabulary are accurate for the audience"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "teacher report is linked to method detail, units, data and limitations.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+      "summary": "Reviewing accuracy and readability improves the communication.",
+      "hint": "Accuracy and readability."
+    },
+    "structuredExplanation": {
+      "summary": "Reviewing accuracy and readability improves the communication.",
+      "hint": "Accuracy and readability."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]
