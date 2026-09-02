@@ -6,6 +6,7 @@ on:
       - 'scripts/foundation_science_actual/ac9sfi03_authored.mjs'
       - 'scripts/foundation_science_actual/ac9sfi04_authored.mjs'
       - 'scripts/foundation_science_actual/ac9sfi05_authored.mjs'
+      - 'scripts/foundation_science_actual/ac9sfi05_test_authored.mjs'
       - 'scripts/foundation_science_actual/ac9sfu01_authored.mjs'
       - 'scripts/foundation_science_actual/ac9sfu02_authored.mjs'
       - 'scripts/foundation_science_actual/ac9sfu03_authored.mjs'
