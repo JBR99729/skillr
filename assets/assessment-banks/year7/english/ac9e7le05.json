@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_motivation",
-    "question": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "character_motivation",
+    "question": "Which term best matches this meaning: “goal, need or belief driving action”?",
+    "audio_prompt": "Which term best matches this meaning: “goal, need or belief driving action”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+        "text": "setting constraint",
+        "is_correct": false
+      },
+      {
+        "text": "character motivation",
         "is_correct": true
       },
       {
-        "text": "Character described through traits only",
+        "text": "causal chain",
         "is_correct": false
       },
       {
-        "text": "Use decisions and development",
-        "is_correct": false
-      },
-      {
-        "text": "Goal, need or belief driving action",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
-      "hint": "Use decisions and development."
+      "summary": "Character motivation means goal, need or belief driving action. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Character, Setting and Event Systems."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_setting_constraint",
-    "question": "A Year 7 student is working with a text and needs to use explain setting constraint. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain setting constraint. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "setting_constraint",
+    "question": "Read this example: “flooded isolated town.” Which description fits it best?",
+    "audio_prompt": "Read this example: “flooded isolated town.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Setting summarised without function",
+        "text": "Character goal",
         "is_correct": false
       },
       {
-        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+        "text": "Event/obstacle",
+        "is_correct": false
+      },
+      {
+        "text": "Setting constraint",
         "is_correct": true
       },
       {
-        "text": "Explain its effect on possibilities",
-        "is_correct": false
-      },
-      {
-        "text": "Goal, need or belief driving action",
+        "text": "Decision",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
-      "hint": "Explain its effect on possibilities."
+      "summary": "The example matches Setting constraint. Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_causal_chain",
-    "question": "A Year 7 student is working with a text and needs to use trace causal chain. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace causal chain. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "attempts",
+    "question": "Which label most accurately describes “choices reveal and test character”?",
+    "audio_prompt": "Which label most accurately describes “choices reveal and test character”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Events retold without causality",
+        "text": "orientation",
         "is_correct": false
       },
       {
-        "text": "Connect why one leads to another",
+        "text": "complication",
         "is_correct": false
       },
       {
-        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+        "text": "climax",
+        "is_correct": false
+      },
+      {
+        "text": "attempts",
         "is_correct": true
-      },
-      {
-        "text": "Goal, need or belief driving action",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
-      "hint": "Connect why one leads to another."
+      "summary": "“choices reveal and test character” is best described as attempts.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "map_tension",
-    "question": "A Year 7 student is working with a text and needs to use map tension. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use map tension. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "decision",
+    "question": "Read this example: “trust former rival.” Which description fits it best?",
+    "audio_prompt": "Read this example: “trust former rival.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Theme stated as topic",
-        "is_correct": false
-      },
-      {
-        "text": "Express an idea developed by interactions",
-        "is_correct": false
-      },
-      {
-        "text": "Goal, need or belief driving action",
-        "is_correct": false
-      },
-      {
-        "text": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+        "text": "Decision",
         "is_correct": true
+      },
+      {
+        "text": "Character goal",
+        "is_correct": false
+      },
+      {
+        "text": "Setting constraint",
+        "is_correct": false
+      },
+      {
+        "text": "Event/obstacle",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
-      "hint": "Express an idea developed by interactions."
+      "summary": "The example matches Decision. Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "state_thematic_meaning",
-    "question": "Which statement correctly identifies setting constraint in character, setting and event systems?",
-    "audio_prompt": "Which statement correctly identifies setting constraint in character, setting and event systems?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Character described through traits only”?",
+    "audio_prompt": "Which response best corrects this claim: “Character described through traits only”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
-        "is_correct": true
-      },
-      {
-        "text": "Character described through traits only",
+        "text": "Setting summarised without function",
         "is_correct": false
       },
       {
         "text": "Use decisions and development",
+        "is_correct": true
+      },
+      {
+        "text": "Events retold without causality",
         "is_correct": false
       },
       {
-        "text": "Goal, need or belief driving action",
+        "text": "Theme stated as topic",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
-      "hint": "Use decisions and development."
+      "summary": "Use decisions and development This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_motivation",
-    "question": "Which choice best describes causal chain in character, setting and event systems?",
-    "audio_prompt": "Which choice best describes causal chain in character, setting and event systems?",
+    "stage": "recognise",
+    "skill": "causal_chain",
+    "question": "Which term best matches this meaning: “sequence in which choices and events produce consequences”?",
+    "audio_prompt": "Which term best matches this meaning: “sequence in which choices and events produce consequences”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Setting summarised without function",
+        "text": "character motivation",
         "is_correct": false
       },
       {
-        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+        "text": "setting constraint",
+        "is_correct": false
+      },
+      {
+        "text": "causal chain",
         "is_correct": true
       },
       {
-        "text": "Explain its effect on possibilities",
-        "is_correct": false
-      },
-      {
-        "text": "Goal, need or belief driving action",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
-      "hint": "Explain its effect on possibilities."
+      "summary": "Causal chain means sequence in which choices and events produce consequences. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Character, Setting and Event Systems."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_setting_constraint",
-    "question": "What does correct use require for character motivation in character, setting and event systems?",
-    "audio_prompt": "What does correct use require for character motivation in character, setting and event systems?",
+    "stage": "recognise",
+    "skill": "character_goal",
+    "question": "Read this example: “protect younger sibling.” Which description fits it best?",
+    "audio_prompt": "Read this example: “protect younger sibling.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Events retold without causality",
+        "text": "Setting constraint",
         "is_correct": false
       },
       {
-        "text": "Connect why one leads to another",
+        "text": "Event/obstacle",
         "is_correct": false
       },
       {
-        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+        "text": "Decision",
+        "is_correct": false
+      },
+      {
+        "text": "Character goal",
         "is_correct": true
-      },
-      {
-        "text": "Goal, need or belief driving action",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
-      "hint": "Connect why one leads to another."
+      "summary": "The example matches Character goal. Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-p-008",
@@ -285,39 +299,1385 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_causal_chain",
-    "question": "A Year 7 student is working with a text and needs to use trace causal chain. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace causal chain. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "attempts",
+    "question": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “choices reveal and test character”?",
+    "audio_prompt": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “choices reveal and test character”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
+        "text": "attempts",
+        "is_correct": true
+      },
+      {
+        "text": "orientation",
+        "is_correct": false
+      },
+      {
+        "text": "complication",
+        "is_correct": false
+      },
+      {
+        "text": "climax",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“choices reveal and test character” is best described as attempts.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-009",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "event_obstacle",
+    "question": "Read this example: “bridge closes.” Which description fits it best?",
+    "audio_prompt": "Read this example: “bridge closes.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character goal",
+        "is_correct": false
+      },
+      {
+        "text": "Event/obstacle",
+        "is_correct": true
+      },
+      {
+        "text": "Setting constraint",
+        "is_correct": false
+      },
+      {
+        "text": "Decision",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The example matches Event/obstacle. Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-010",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Setting summarised without function”?",
+    "audio_prompt": "Which response best corrects this claim: “Setting summarised without function”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Events retold without causality",
+        "is_correct": false
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": true
+      },
+      {
         "text": "Theme stated as topic",
         "is_correct": false
-      },
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Explain its effect on possibilities This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-011",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "character_goal",
+    "question": "Why does “protect younger sibling” illustrate Character goal?",
+    "audio_prompt": "Why does “protect younger sibling” illustrate Character goal?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
       {
-        "text": "Express an idea developed by interactions",
+        "text": "It is effective simply because it contains the words “protect younger sibling”.",
         "is_correct": false
       },
       {
-        "text": "Goal, need or belief driving action",
+        "text": "It guarantees the same effect for every audience and context.",
         "is_correct": false
       },
       {
-        "text": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
-      "hint": "Express an idea developed by interactions."
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-012",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "setting_constraint",
+    "question": "What is the best explanation of how “flooded isolated town” works?",
+    "audio_prompt": "What is the best explanation of how “flooded isolated town” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “flooded isolated town”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-013",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "event_obstacle",
+    "question": "Which explanation connects the feature in “bridge closes” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “bridge closes” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “bridge closes”.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-014",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "decision",
+    "question": "What should a careful reader notice about “trust former rival”?",
+    "audio_prompt": "What should a careful reader notice about “trust former rival”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “trust former rival”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-015",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "consequence",
+    "question": "How does the example “relationship changes and escape becomes possible” contribute to meaning?",
+    "audio_prompt": "How does the example “relationship changes and escape becomes possible” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “relationship changes and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-016",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "theme",
+    "question": "Why does “cooperation requires vulnerability” illustrate Theme?",
+    "audio_prompt": "Why does “cooperation requires vulnerability” illustrate Theme?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “cooperation requires vulnerability”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-017",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "orientation",
+    "question": "What is the best explanation of how “goal and setting expectations established” works?",
+    "audio_prompt": "What is the best explanation of how “goal and setting expectations established” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “goal and setting”.",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-018",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "complication",
+    "question": "Which explanation connects the feature in “event creates conflict with goal” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “event creates conflict with goal” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “event creates conflict”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-019",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "attempts",
+    "question": "What should a careful reader notice about “choices reveal and test character”?",
+    "audio_prompt": "What should a careful reader notice about “choices reveal and test character”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “choices reveal and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-020",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "climax",
+    "question": "How does the example “setting and stakes force decisive action” contribute to meaning?",
+    "audio_prompt": "How does the example “setting and stakes force decisive action” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “setting and stakes”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-021",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Character described through traits only.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Character described through traits only.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": true
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use decisions and development The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-022",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Setting summarised without function”?",
+    "audio_prompt": "What is the main problem with this statement: “Setting summarised without function”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting summarised without function",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Explain its effect on possibilities The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-023",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Events retold without causality”?",
+    "audio_prompt": "Which correction avoids the misconception in “Events retold without causality”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Events retold without causality",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Connect why one leads to another The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-024",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Theme stated as topic.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Theme stated as topic.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Express an idea developed by interactions",
+        "is_correct": true
+      },
+      {
+        "text": "Theme stated as topic",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Express an idea developed by interactions The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-025",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Character described through traits only” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Character described through traits only” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": true
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use decisions and development The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-026",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Setting summarised without function.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Setting summarised without function.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting summarised without function",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Explain its effect on possibilities The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-027",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Events retold without causality”?",
+    "audio_prompt": "What is the main problem with this statement: “Events retold without causality”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Events retold without causality",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Connect why one leads to another The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-028",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Theme stated as topic”?",
+    "audio_prompt": "Which correction avoids the misconception in “Theme stated as topic”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Express an idea developed by interactions",
+        "is_correct": true
+      },
+      {
+        "text": "Theme stated as topic",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Express an idea developed by interactions The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-029",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Character described through traits only.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Character described through traits only.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": true
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": false
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use decisions and development The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-030",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Setting summarised without function” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Setting summarised without function” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting summarised without function",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": false
+      },
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Explain its effect on possibilities The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-031",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "character_setting_and_event_systems",
+    "question": "A geography field report needs a concise example of Character, Setting and Event Systems. Which choice best fits?",
+    "audio_prompt": "A geography field report needs a concise example of Character, Setting and Event Systems. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Character goal without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-032",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a school podcast, someone writes, “Setting summarised without function.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a school podcast, someone writes, “Setting summarised without function.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "Setting summarised without function",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Explain its effect on possibilities The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-033",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "event_obstacle",
+    "question": "A local history display includes “bridge closes.” Which analysis is strongest?",
+    "audio_prompt": "A local history display includes “bridge closes.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Event/obstacle.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-034",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "climax",
+    "question": "Which interpretation of “setting and stakes force decisive action” would be most useful in a science expo?",
+    "audio_prompt": "Which interpretation of “setting and stakes force decisive action” would be most useful in a science expo?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that climax always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-035",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "setting_constraint",
+    "question": "A library newsletter uses the idea “feature of place/time limiting or enabling action.” Which term would make the analysis most precise?",
+    "audio_prompt": "A library newsletter uses the idea “feature of place/time limiting or enabling action.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "character motivation",
+        "is_correct": false
+      },
+      {
+        "text": "causal chain",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "setting constraint",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Setting constraint is the precise term for feature of place/time limiting or enabling action.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-036",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "character_setting_and_event_systems",
+    "question": "A student council proposal needs a concise example of Character, Setting and Event Systems. Which choice best fits?",
+    "audio_prompt": "A student council proposal needs a concise example of Character, Setting and Event Systems. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+        "is_correct": true
+      },
+      {
+        "text": "Setting summarised without function",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Theme without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-037",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a sports club notice, someone writes, “Events retold without causality.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a sports club notice, someone writes, “Events retold without causality.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Events retold without causality",
+        "is_correct": false
+      },
+      {
+        "text": "Connect why one leads to another",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect why one leads to another The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-038",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "setting_constraint",
+    "question": "A museum exhibit includes “flooded isolated town.” Which analysis is strongest?",
+    "audio_prompt": "A museum exhibit includes “flooded isolated town.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Setting constraint.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-039",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "climax",
+    "question": "Which interpretation of “setting and stakes force decisive action” would be most useful in a community garden report?",
+    "audio_prompt": "Which interpretation of “setting and stakes force decisive action” would be most useful in a community garden report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that climax always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-p-040",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "character_motivation",
+    "question": "A class debate uses the idea “goal, need or belief driving action.” Which term would make the analysis most precise?",
+    "audio_prompt": "A class debate uses the idea “goal, need or belief driving action.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "character motivation",
+        "is_correct": true
+      },
+      {
+        "text": "setting constraint",
+        "is_correct": false
+      },
+      {
+        "text": "causal chain",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Character motivation is the precise term for goal, need or belief driving action.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "map_tension",
-    "question": "A Year 7 student is working with a text and needs to use map tension. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use map tension. Which option best demonstrates the skill?",
+    "skill": "setting_constraint",
+    "question": "A coastal restoration article includes “flooded isolated town.” Which analysis is strongest?",
+    "audio_prompt": "A coastal restoration article includes “flooded isolated town.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+        "text": "It is important only because it is an example of Setting constraint.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
         "is_correct": true
       },
       {
-        "text": "Character described through traits only",
-        "is_correct": false
-      },
-      {
-        "text": "Use decisions and development",
-        "is_correct": false
-      },
-      {
-        "text": "Goal, need or belief driving action",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
-      "hint": "Use decisions and development."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "state_thematic_meaning",
-    "question": "A Year 7 student is working with a text and needs to use state thematic meaning. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use state thematic meaning. Which option best demonstrates the skill?",
+    "skill": "climax",
+    "question": "Read the new context carefully. Which interpretation of “setting and stakes force decisive action” would be most useful in a public transport campaign?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “setting and stakes force decisive action” would be most useful in a public transport campaign?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Setting summarised without function",
+        "text": "It proves that climax always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities",
         "is_correct": true
-      },
-      {
-        "text": "Explain its effect on possibilities",
-        "is_correct": false
-      },
-      {
-        "text": "Goal, need or belief driving action",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
-      "hint": "Explain its effect on possibilities."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-t-003",
@@ -399,36 +1767,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_motivation",
-    "question": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
+    "skill": "character_motivation",
+    "question": "Which answer is best supported in this new situation? A regional museum audio guide uses the idea “goal, need or belief driving action.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A regional museum audio guide uses the idea “goal, need or belief driving action.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Events retold without causality",
-        "is_correct": false
-      },
-      {
-        "text": "Connect why one leads to another",
-        "is_correct": false
-      },
-      {
-        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+        "text": "character motivation",
         "is_correct": true
       },
       {
-        "text": "Goal, need or belief driving action",
+        "text": "setting constraint",
+        "is_correct": false
+      },
+      {
+        "text": "causal chain",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
-      "hint": "Connect why one leads to another."
-    }
+      "summary": "Character motivation is the precise term for goal, need or belief driving action.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le05-t-004",
@@ -436,120 +1808,9 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "explain_setting_constraint",
-    "question": "A Year 7 student is working with a text and needs to use explain setting constraint. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain setting constraint. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Theme stated as topic",
-        "is_correct": false
-      },
-      {
-        "text": "Express an idea developed by interactions",
-        "is_correct": false
-      },
-      {
-        "text": "Goal, need or belief driving action",
-        "is_correct": false
-      },
-      {
-        "text": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
-      "hint": "Express an idea developed by interactions."
-    }
-  },
-  {
-    "id": "ac9e7le05-t-005",
-    "curriculum_code": "AC9E7LE05",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "trace_causal_chain",
-    "question": "What should be checked when applying trace causal chain in character, setting and event systems?",
-    "audio_prompt": "What should be checked when applying trace causal chain in character, setting and event systems?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
-        "is_correct": true
-      },
-      {
-        "text": "Character described through traits only",
-        "is_correct": false
-      },
-      {
-        "text": "Use decisions and development",
-        "is_correct": false
-      },
-      {
-        "text": "Goal, need or belief driving action",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
-      "hint": "Use decisions and development."
-    }
-  },
-  {
-    "id": "ac9e7le05-t-006",
-    "curriculum_code": "AC9E7LE05",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "map_tension",
-    "question": "Which response best uses map tension in character, setting and event systems?",
-    "audio_prompt": "Which response best uses map tension in character, setting and event systems?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Setting summarised without function",
-        "is_correct": false
-      },
-      {
-        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
-        "is_correct": true
-      },
-      {
-        "text": "Explain its effect on possibilities",
-        "is_correct": false
-      },
-      {
-        "text": "Goal, need or belief driving action",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action.",
-      "hint": "Explain its effect on possibilities."
-    }
-  },
-  {
-    "id": "ac9e7le05-t-007",
-    "curriculum_code": "AC9E7LE05",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "state_thematic_meaning",
-    "question": "A Year 7 student is working with a text and needs to use state thematic meaning. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use state thematic meaning. Which option best demonstrates the skill?",
+    "skill": "character_setting_and_event_systems",
+    "question": "Use the evidence in this wildlife rescue webpage. A wildlife rescue webpage needs a concise example of Character, Setting and Event Systems. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this wildlife rescue webpage. A wildlife rescue webpage needs a concise example of Character, Setting and Event Systems. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -560,33 +1821,37 @@
         "is_correct": false
       },
       {
-        "text": "Connect why one leads to another",
-        "is_correct": false
-      },
-      {
-        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
+        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
         "is_correct": true
       },
       {
-        "text": "Goal, need or belief driving action",
+        "text": "Simply name Consequence without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A plot event should be interpreted through what it changes in goals, relationships or possibilities.",
-      "hint": "Connect why one leads to another."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le05-t-008",
+    "id": "ac9e7le05-t-005",
     "curriculum_code": "AC9E7LE05",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_motivation",
-    "question": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify motivation. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a local council consultation, someone writes, “Theme stated as topic.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a local council consultation, someone writes, “Theme stated as topic.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -597,22 +1862,477 @@
         "is_correct": false
       },
       {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
         "text": "Express an idea developed by interactions",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Express an idea developed by interactions The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-006",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "character_goal",
+    "question": "Which response would hold up under close reading? A heritage trail brochure includes “protect younger sibling.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A heritage trail brochure includes “protect younger sibling.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Character goal.",
         "is_correct": false
       },
       {
-        "text": "Goal, need or belief driving action",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Characters, settings and events form a causal system: goals meet environmental and social constraints, choices create consequences and patterns develop themes.",
-      "hint": "Express an idea developed by interactions."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-007",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "climax",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “setting and stakes force decisive action” would be most useful in a community theatre review?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “setting and stakes force decisive action” would be most useful in a community theatre review?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that climax always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-008",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "causal_chain",
+    "question": "Which choice uses the concept without overgeneralising? A water-quality report uses the idea “sequence in which choices and events produce consequences.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A water-quality report uses the idea “sequence in which choices and events produce consequences.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "character motivation",
+        "is_correct": false
+      },
+      {
+        "text": "causal chain",
+        "is_correct": true
+      },
+      {
+        "text": "setting constraint",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Causal chain is the precise term for sequence in which choices and events produce consequences.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-009",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "character_setting_and_event_systems",
+    "question": "A regional sports commentary needs a concise example of Character, Setting and Event Systems. Which choice best fits?",
+    "audio_prompt": "A regional sports commentary needs a concise example of Character, Setting and Event Systems. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme stated as topic",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Decision without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-010",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a astronomy exhibition, someone writes, “Character described through traits only.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a astronomy exhibition, someone writes, “Character described through traits only.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Use decisions and development",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use decisions and development The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-011",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "theme",
+    "question": "Which answer is best supported in this new situation? A farmers market profile includes “cooperation requires vulnerability.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A farmers market profile includes “cooperation requires vulnerability.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of Theme.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-012",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "climax",
+    "question": "Use the evidence in this emergency-preparedness video. Which interpretation of “setting and stakes force decisive action” would be most useful in a emergency-preparedness video?",
+    "audio_prompt": "Use the evidence in this emergency-preparedness video. Which interpretation of “setting and stakes force decisive action” would be most useful in a emergency-preparedness video?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that climax always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "A plot event should be interpreted through what it changes in goals, relationships or possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-013",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "setting_constraint",
+    "question": "Choose the most precise analysis for this unfamiliar example. A cycling safety infographic uses the idea “feature of place/time limiting or enabling action.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A cycling safety infographic uses the idea “feature of place/time limiting or enabling action.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "character motivation",
+        "is_correct": false
+      },
+      {
+        "text": "causal chain",
+        "is_correct": false
+      },
+      {
+        "text": "setting constraint",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Setting constraint is the precise term for feature of place/time limiting or enabling action.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-014",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "character_setting_and_event_systems",
+    "question": "Which response would hold up under close reading? A river-health podcast needs a concise example of Character, Setting and Event Systems. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A river-health podcast needs a concise example of Character, Setting and Event Systems. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character described through traits only",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Event/obstacle without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The closed bridge matters because it forces the protagonist to rely on a rival, changing both plot and relationship",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-015",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a town festival website, someone writes, “Setting summarised without function.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a town festival website, someone writes, “Setting summarised without function.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain its effect on possibilities",
+        "is_correct": true
+      },
+      {
+        "text": "Setting summarised without function",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Explain its effect on possibilities The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le05-t-016",
+    "curriculum_code": "AC9E7LE05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "consequence",
+    "question": "Which choice uses the concept without overgeneralising? A youth radio interview includes “relationship changes and escape becomes possible.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A youth radio interview includes “relationship changes and escape becomes possible.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Consequence.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Setting is not decorative background; it creates opportunities, limits, mood and symbolic associations that shape character action",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

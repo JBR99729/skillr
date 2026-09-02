@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "use_a_colon",
-    "question": "A Year 7 student is working with a text and needs to use use a colon. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use a colon. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "colon",
+    "question": "Which term best matches this meaning: “mark introducing elaboration after a complete clause”?",
+    "audio_prompt": "Which term best matches this meaning: “mark introducing elaboration after a complete clause”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The conclusion was limited: only one material had been tested",
+        "text": "colon",
         "is_correct": true
       },
       {
-        "text": "Colon placed after incomplete verb phrase",
+        "text": "parenthesis",
         "is_correct": false
       },
       {
-        "text": "Ensure a complete lead clause",
+        "text": "semicolon",
         "is_correct": false
       },
       {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The conclusion was limited: only one material had been tested",
-      "hint": "Ensure a complete lead clause."
+      "summary": "Colon means mark introducing elaboration after a complete clause. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Colons, Brackets and Punctuation for Clarity."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "test_bracket_removal",
-    "question": "A Year 7 student is working with a text and needs to use test bracket removal. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use test bracket removal. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "round_brackets",
+    "question": "Read this example: “enclose supplementary detail.” Which description fits it best?",
+    "audio_prompt": "Read this example: “enclose supplementary detail.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Essential information bracketed",
+        "text": "colon",
         "is_correct": false
       },
       {
-        "text": "A colon generally follows a complete clause. Remove bracketed information to check that the surrounding sentence remains grammatical.",
+        "text": "round brackets",
         "is_correct": true
       },
       {
-        "text": "Check whether removal changes identification",
+        "text": "square brackets",
         "is_correct": false
       },
       {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "dash",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A colon generally follows a complete clause. Remove bracketed information to check that the surrounding sentence remains grammatical.",
-      "hint": "Check whether removal changes identification."
+      "summary": "The example matches round brackets. The sensor (calibrated that morning) recorded…",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "choose_semicolon",
-    "question": "A Year 7 student is working with a text and needs to use choose semicolon. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use choose semicolon. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "essential_detail",
+    "question": "Which label most accurately describes “do not bracket if needed to identify noun”?",
+    "audio_prompt": "Which label most accurately describes “do not bracket if needed to identify noun”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Brackets used to repair an unclear sentence",
+        "text": "incorrect colon",
         "is_correct": false
       },
       {
-        "text": "Rewrite structure first",
+        "text": "revised",
         "is_correct": false
       },
       {
-        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark.",
+        "text": "essential detail",
         "is_correct": true
       },
       {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "supplementary detail",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark.",
-      "hint": "Rewrite structure first."
+      "summary": "“do not bracket if needed to identify noun” is best described as essential detail.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "repair_punctuation",
-    "question": "A Year 7 student is working with a text and needs to use repair punctuation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair punctuation. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "dash",
+    "question": "Read this example: “marks interruption or emphasis.” Which description fits it best?",
+    "audio_prompt": "Read this example: “marks interruption or emphasis.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Semicolon replaces any comma",
+        "text": "colon",
         "is_correct": false
       },
       {
-        "text": "Both sides normally need main-clause status unless separating list items",
+        "text": "round brackets",
         "is_correct": false
       },
       {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "square brackets",
         "is_correct": false
       },
       {
-        "text": "Punctuation signals grammatical and semantic relationships; a colon introduces elaboration after a complete clause, while brackets enclose supplementary information.",
+        "text": "dash",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Punctuation signals grammatical and semantic relationships; a colon introduces elaboration after a complete clause, while brackets enclose supplementary information.",
-      "hint": "Both sides normally need main-clause status unless separating list items."
+      "summary": "The example matches dash. One variable—distance—changed",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_emphasis",
-    "question": "Which statement correctly identifies parenthesis in colons, brackets and punctuation for clarity?",
-    "audio_prompt": "Which statement correctly identifies parenthesis in colons, brackets and punctuation for clarity?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Colon placed after incomplete verb phrase”?",
+    "audio_prompt": "Which response best corrects this claim: “Colon placed after incomplete verb phrase”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The conclusion was limited: only one material had been tested",
+        "text": "Ensure a complete lead clause",
         "is_correct": true
       },
       {
-        "text": "Colon placed after incomplete verb phrase",
+        "text": "Essential information bracketed",
         "is_correct": false
       },
       {
-        "text": "Ensure a complete lead clause",
+        "text": "Brackets used to repair an unclear sentence",
         "is_correct": false
       },
       {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "Semicolon replaces any comma",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The conclusion was limited: only one material had been tested",
-      "hint": "Ensure a complete lead clause."
+      "summary": "Ensure a complete lead clause This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "use_a_colon",
-    "question": "Which choice best describes semicolon in colons, brackets and punctuation for clarity?",
-    "audio_prompt": "Which choice best describes semicolon in colons, brackets and punctuation for clarity?",
+    "stage": "recognise",
+    "skill": "semicolon",
+    "question": "Which term best matches this meaning: “mark linking closely related independent clauses or complex list items”?",
+    "audio_prompt": "Which term best matches this meaning: “mark linking closely related independent clauses or complex list items”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Essential information bracketed",
+        "text": "colon",
         "is_correct": false
       },
       {
-        "text": "A colon generally follows a complete clause. Remove bracketed information to check that the surrounding sentence remains grammatical.",
+        "text": "semicolon",
         "is_correct": true
       },
       {
-        "text": "Check whether removal changes identification",
+        "text": "parenthesis",
         "is_correct": false
       },
       {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A colon generally follows a complete clause. Remove bracketed information to check that the surrounding sentence remains grammatical.",
-      "hint": "Check whether removal changes identification."
+      "summary": "Semicolon means mark linking closely related independent clauses or complex list items. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Colons, Brackets and Punctuation for Clarity."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "test_bracket_removal",
-    "question": "What does correct use require for colon in colons, brackets and punctuation for clarity?",
-    "audio_prompt": "What does correct use require for colon in colons, brackets and punctuation for clarity?",
+    "stage": "recognise",
+    "skill": "round_brackets",
+    "question": "While reading a arts festival program, you notice the wording closely. Read this example: “enclose supplementary detail.” Which description fits it best?",
+    "audio_prompt": "While reading a arts festival program, you notice the wording closely. Read this example: “enclose supplementary detail.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Brackets used to repair an unclear sentence",
+        "text": "colon",
         "is_correct": false
       },
       {
-        "text": "Rewrite structure first",
+        "text": "square brackets",
         "is_correct": false
       },
       {
-        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark.",
+        "text": "round brackets",
         "is_correct": true
       },
       {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "dash",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark.",
-      "hint": "Rewrite structure first."
+      "summary": "The example matches round brackets. The sensor (calibrated that morning) recorded…",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "choose_semicolon",
-    "question": "A Year 7 student is working with a text and needs to use choose semicolon. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use choose semicolon. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "essential_detail",
+    "question": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “do not bracket if needed to identify noun”?",
+    "audio_prompt": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “do not bracket if needed to identify noun”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "incorrect colon",
+        "is_correct": false
+      },
+      {
+        "text": "revised",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary detail",
+        "is_correct": false
+      },
+      {
+        "text": "essential detail",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“do not bracket if needed to identify noun” is best described as essential detail.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-009",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "dash",
+    "question": "While reading a technology showcase, you notice the wording closely. Read this example: “marks interruption or emphasis.” Which description fits it best?",
+    "audio_prompt": "While reading a technology showcase, you notice the wording closely. Read this example: “marks interruption or emphasis.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "dash",
+        "is_correct": true
+      },
+      {
+        "text": "colon",
+        "is_correct": false
+      },
+      {
+        "text": "round brackets",
+        "is_correct": false
+      },
+      {
+        "text": "square brackets",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example matches dash. One variable—distance—changed",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-010",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Essential information bracketed”?",
+    "audio_prompt": "Which response best corrects this claim: “Essential information bracketed”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Colon placed after incomplete verb phrase",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": true
+      },
+      {
+        "text": "Brackets used to repair an unclear sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Semicolon replaces any comma",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check whether removal changes identification This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-011",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "colon",
+    "question": "Why does “introduces list, explanation or example” illustrate colon?",
+    "audio_prompt": "Why does “introduces list, explanation or example” illustrate colon?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “introduces list, explanation”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "The result was clear: temperature rose",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. The result was clear: temperature rose",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-012",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "round_brackets",
+    "question": "What is the best explanation of how “enclose supplementary detail” works?",
+    "audio_prompt": "What is the best explanation of how “enclose supplementary detail” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “enclose supplementary detail”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "The sensor (calibrated that morning) recorded…",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. The sensor (calibrated that morning) recorded…",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-013",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "square_brackets",
+    "question": "Which explanation connects the feature in “editorial insertion in quotation” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “editorial insertion in quotation” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "She said it was ‘the best [trial]’",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “editorial insertion in”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. She said it was ‘the best [trial]’",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-014",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "dash",
+    "question": "What should a careful reader notice about “marks interruption or emphasis”?",
+    "audio_prompt": "What should a careful reader notice about “marks interruption or emphasis”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “marks interruption or”.",
+        "is_correct": false
+      },
+      {
+        "text": "One variable—distance—changed",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. One variable—distance—changed",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-015",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "semicolon",
+    "question": "How does the example “links closely related main clauses” contribute to meaning?",
+    "audio_prompt": "How does the example “links closely related main clauses” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “links closely related”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "The method was valid; the conclusion was overstated",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. The method was valid; the conclusion was overstated",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-016",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "incorrect_colon",
+    "question": "Why does “The factors are: cost and time” illustrate incorrect colon?",
+    "audio_prompt": "Why does “The factors are: cost and time” illustrate incorrect colon?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “The factors are:”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-017",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "revised",
+    "question": "What is the best explanation of how “Two factors matter: cost and time” works?",
+    "audio_prompt": "What is the best explanation of how “Two factors matter: cost and time” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “Two factors matter:”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-018",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "essential_detail",
+    "question": "Which explanation connects the feature in “do not bracket if needed to identify noun” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “do not bracket if needed to identify noun” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “do not bracket”.",
+        "is_correct": false
+      },
+      {
+        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-019",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "supplementary_detail",
+    "question": "What should a careful reader notice about “brackets or commas possible”?",
+    "audio_prompt": "What should a careful reader notice about “brackets or commas possible”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “brackets or commas”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-020",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "overuse",
+    "question": "How does the example “nested punctuation burdens readers” contribute to meaning?",
+    "audio_prompt": "How does the example “nested punctuation burdens readers” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “nested punctuation burdens”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-021",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Colon placed after incomplete verb phrase.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Colon placed after incomplete verb phrase.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ensure a complete lead clause",
+        "is_correct": true
+      },
+      {
+        "text": "Colon placed after incomplete verb phrase",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite structure first",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ensure a complete lead clause The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-022",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Essential information bracketed”?",
+    "audio_prompt": "What is the main problem with this statement: “Essential information bracketed”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Essential information bracketed",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": true
+      },
+      {
+        "text": "Ensure a complete lead clause",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite structure first",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check whether removal changes identification The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-023",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Brackets used to repair an unclear sentence”?",
+    "audio_prompt": "Which correction avoids the misconception in “Brackets used to repair an unclear sentence”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Brackets used to repair an unclear sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Ensure a complete lead clause",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite structure first",
+        "is_correct": true
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rewrite structure first The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-024",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Semicolon replaces any comma.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Semicolon replaces any comma.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -298,26 +985,699 @@
         "is_correct": false
       },
       {
+        "text": "Ensure a complete lead clause",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": false
+      },
+      {
         "text": "Both sides normally need main-clause status unless separating list items",
-        "is_correct": false
-      },
-      {
-        "text": "Mark introducing elaboration after a complete clause",
-        "is_correct": false
-      },
-      {
-        "text": "Punctuation signals grammatical and semantic relationships; a colon introduces elaboration after a complete clause, while brackets enclose supplementary information.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Punctuation signals grammatical and semantic relationships; a colon introduces elaboration after a complete clause, while brackets enclose supplementary information.",
-      "hint": "Both sides normally need main-clause status unless separating list items."
+      "summary": "Both sides normally need main-clause status unless separating list items The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-025",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Colon placed after incomplete verb phrase” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Colon placed after incomplete verb phrase” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ensure a complete lead clause",
+        "is_correct": true
+      },
+      {
+        "text": "Colon placed after incomplete verb phrase",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite structure first",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ensure a complete lead clause The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-026",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Essential information bracketed.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Essential information bracketed.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Essential information bracketed",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": true
+      },
+      {
+        "text": "Ensure a complete lead clause",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite structure first",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check whether removal changes identification The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-027",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Brackets used to repair an unclear sentence”?",
+    "audio_prompt": "What is the main problem with this statement: “Brackets used to repair an unclear sentence”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Brackets used to repair an unclear sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Ensure a complete lead clause",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite structure first",
+        "is_correct": true
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rewrite structure first The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-028",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Semicolon replaces any comma”?",
+    "audio_prompt": "Which correction avoids the misconception in “Semicolon replaces any comma”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Semicolon replaces any comma",
+        "is_correct": false
+      },
+      {
+        "text": "Ensure a complete lead clause",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": false
+      },
+      {
+        "text": "Both sides normally need main-clause status unless separating list items",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Both sides normally need main-clause status unless separating list items The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-029",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Colon placed after incomplete verb phrase.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Colon placed after incomplete verb phrase.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ensure a complete lead clause",
+        "is_correct": true
+      },
+      {
+        "text": "Colon placed after incomplete verb phrase",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite structure first",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ensure a complete lead clause The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-030",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Essential information bracketed” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Essential information bracketed” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Essential information bracketed",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": true
+      },
+      {
+        "text": "Ensure a complete lead clause",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite structure first",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check whether removal changes identification The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-031",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "colons_brackets_and_punctuation_for_clarity",
+    "question": "A student council proposal needs a concise example of Colons, Brackets and Punctuation for Clarity. Which choice best fits?",
+    "audio_prompt": "A student council proposal needs a concise example of Colons, Brackets and Punctuation for Clarity. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Colon placed after incomplete verb phrase",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name colon without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "The conclusion was limited: only one material had been tested",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The conclusion was limited: only one material had been tested",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-032",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a sports club notice, someone writes, “Essential information bracketed.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a sports club notice, someone writes, “Essential information bracketed.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Essential information bracketed",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Check whether removal changes identification The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-033",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "square_brackets",
+    "question": "A museum exhibit includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "audio_prompt": "A museum exhibit includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "She said it was ‘the best [trial]’",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of square brackets.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: She said it was ‘the best [trial]’",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-034",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "supplementary_detail",
+    "question": "Which interpretation of “brackets or commas possible” would be most useful in a community garden report?",
+    "audio_prompt": "Which interpretation of “brackets or commas possible” would be most useful in a community garden report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that supplementary detail always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-035",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "parenthesis",
+    "question": "A class debate uses the idea “supplementary information inserted into a sentence.” Which term would make the analysis most precise?",
+    "audio_prompt": "A class debate uses the idea “supplementary information inserted into a sentence.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "colon",
+        "is_correct": false
+      },
+      {
+        "text": "semicolon",
+        "is_correct": false
+      },
+      {
+        "text": "parenthesis",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Parenthesis is the precise term for supplementary information inserted into a sentence.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-036",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "colons_brackets_and_punctuation_for_clarity",
+    "question": "A environmental campaign needs a concise example of Colons, Brackets and Punctuation for Clarity. Which choice best fits?",
+    "audio_prompt": "A environmental campaign needs a concise example of Colons, Brackets and Punctuation for Clarity. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Essential information bracketed",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name colon without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "The conclusion was limited: only one material had been tested",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The conclusion was limited: only one material had been tested",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-037",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a excursion briefing, someone writes, “Brackets used to repair an unclear sentence.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a excursion briefing, someone writes, “Brackets used to repair an unclear sentence.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rewrite structure first",
+        "is_correct": true
+      },
+      {
+        "text": "Brackets used to repair an unclear sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rewrite structure first The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-038",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "square_brackets",
+    "question": "A book-club discussion includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "audio_prompt": "A book-club discussion includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of square brackets.",
+        "is_correct": false
+      },
+      {
+        "text": "She said it was ‘the best [trial]’",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: She said it was ‘the best [trial]’",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-039",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "supplementary_detail",
+    "question": "Which interpretation of “brackets or commas possible” would be most useful in a school website?",
+    "audio_prompt": "Which interpretation of “brackets or commas possible” would be most useful in a school website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that supplementary detail always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-p-040",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "colon",
+    "question": "A arts festival program uses the idea “mark introducing elaboration after a complete clause.” Which term would make the analysis most precise?",
+    "audio_prompt": "A arts festival program uses the idea “mark introducing elaboration after a complete clause.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "parenthesis",
+        "is_correct": false
+      },
+      {
+        "text": "semicolon",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "colon",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Colon is the precise term for mark introducing elaboration after a complete clause.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "repair_punctuation",
-    "question": "A Year 7 student is working with a text and needs to use repair punctuation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair punctuation. Which option best demonstrates the skill?",
+    "skill": "square_brackets",
+    "question": "A water-quality report includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "audio_prompt": "A water-quality report includes “editorial insertion in quotation.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The conclusion was limited: only one material had been tested",
+        "text": "It is important only because it is an example of square brackets.",
+        "is_correct": false
+      },
+      {
+        "text": "She said it was ‘the best [trial]’",
         "is_correct": true
       },
       {
-        "text": "Colon placed after incomplete verb phrase",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Ensure a complete lead clause",
-        "is_correct": false
-      },
-      {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The conclusion was limited: only one material had been tested",
-      "hint": "Ensure a complete lead clause."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: She said it was ‘the best [trial]’",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "compare_emphasis",
-    "question": "A Year 7 student is working with a text and needs to use compare emphasis. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare emphasis. Which option best demonstrates the skill?",
+    "skill": "supplementary_detail",
+    "question": "Read the new context carefully. Which interpretation of “brackets or commas possible” would be most useful in a regional sports commentary?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “brackets or commas possible” would be most useful in a regional sports commentary?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Essential information bracketed",
+        "text": "It proves that supplementary detail always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "A colon generally follows a complete clause. Remove bracketed information to check that the surrounding sentence remains grammatical.",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
         "is_correct": true
       },
       {
-        "text": "Check whether removal changes identification",
-        "is_correct": false
-      },
-      {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A colon generally follows a complete clause. Remove bracketed information to check that the surrounding sentence remains grammatical.",
-      "hint": "Check whether removal changes identification."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-t-003",
@@ -399,36 +1767,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "use_a_colon",
-    "question": "A Year 7 student is working with a text and needs to use use a colon. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use a colon. Which option best demonstrates the skill?",
+    "skill": "colon",
+    "question": "Which answer is best supported in this new situation? A astronomy exhibition uses the idea “mark introducing elaboration after a complete clause.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A astronomy exhibition uses the idea “mark introducing elaboration after a complete clause.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Brackets used to repair an unclear sentence",
+        "text": "parenthesis",
         "is_correct": false
       },
       {
-        "text": "Rewrite structure first",
+        "text": "semicolon",
         "is_correct": false
       },
       {
-        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark.",
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "colon",
         "is_correct": true
-      },
-      {
-        "text": "Mark introducing elaboration after a complete clause",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark.",
-      "hint": "Rewrite structure first."
-    }
+      "summary": "Colon is the precise term for mark introducing elaboration after a complete clause.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la09-t-004",
@@ -436,46 +1808,9 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "test_bracket_removal",
-    "question": "A Year 7 student is working with a text and needs to use test bracket removal. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use test bracket removal. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Semicolon replaces any comma",
-        "is_correct": false
-      },
-      {
-        "text": "Both sides normally need main-clause status unless separating list items",
-        "is_correct": false
-      },
-      {
-        "text": "Mark introducing elaboration after a complete clause",
-        "is_correct": false
-      },
-      {
-        "text": "Punctuation signals grammatical and semantic relationships; a colon introduces elaboration after a complete clause, while brackets enclose supplementary information.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Punctuation signals grammatical and semantic relationships; a colon introduces elaboration after a complete clause, while brackets enclose supplementary information.",
-      "hint": "Both sides normally need main-clause status unless separating list items."
-    }
-  },
-  {
-    "id": "ac9e7la09-t-005",
-    "curriculum_code": "AC9E7LA09",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "choose_semicolon",
-    "question": "What should be checked when applying choose semicolon in colons, brackets and punctuation for clarity?",
-    "audio_prompt": "What should be checked when applying choose semicolon in colons, brackets and punctuation for clarity?",
+    "skill": "colons_brackets_and_punctuation_for_clarity",
+    "question": "Use the evidence in this farmers market profile. A farmers market profile needs a concise example of Colons, Brackets and Punctuation for Clarity. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this farmers market profile. A farmers market profile needs a concise example of Colons, Brackets and Punctuation for Clarity. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -486,107 +1821,37 @@
         "is_correct": true
       },
       {
-        "text": "Colon placed after incomplete verb phrase",
+        "text": "Brackets used to repair an unclear sentence",
         "is_correct": false
       },
       {
-        "text": "Ensure a complete lead clause",
+        "text": "Simply name colon without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The conclusion was limited: only one material had been tested",
-      "hint": "Ensure a complete lead clause."
-    }
-  },
-  {
-    "id": "ac9e7la09-t-006",
-    "curriculum_code": "AC9E7LA09",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "repair_punctuation",
-    "question": "Which response best uses repair punctuation in colons, brackets and punctuation for clarity?",
-    "audio_prompt": "Which response best uses repair punctuation in colons, brackets and punctuation for clarity?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "The strongest choice demonstrates the concept itself: The conclusion was limited: only one material had been tested",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
-    "answers": [
-      {
-        "text": "Essential information bracketed",
-        "is_correct": false
-      },
-      {
-        "text": "A colon generally follows a complete clause. Remove bracketed information to check that the surrounding sentence remains grammatical.",
-        "is_correct": true
-      },
-      {
-        "text": "Check whether removal changes identification",
-        "is_correct": false
-      },
-      {
-        "text": "Mark introducing elaboration after a complete clause",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A colon generally follows a complete clause. Remove bracketed information to check that the surrounding sentence remains grammatical.",
-      "hint": "Check whether removal changes identification."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la09-t-007",
+    "id": "ac9e7la09-t-005",
     "curriculum_code": "AC9E7LA09",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "compare_emphasis",
-    "question": "A Year 7 student is working with a text and needs to use compare emphasis. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare emphasis. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Brackets used to repair an unclear sentence",
-        "is_correct": false
-      },
-      {
-        "text": "Rewrite structure first",
-        "is_correct": false
-      },
-      {
-        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark.",
-        "is_correct": true
-      },
-      {
-        "text": "Mark introducing elaboration after a complete clause",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark.",
-      "hint": "Rewrite structure first."
-    }
-  },
-  {
-    "id": "ac9e7la09-t-008",
-    "curriculum_code": "AC9E7LA09",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "use_a_colon",
-    "question": "A Year 7 student is working with a text and needs to use use a colon. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use a colon. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a emergency-preparedness video, someone writes, “Semicolon replaces any comma.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a emergency-preparedness video, someone writes, “Semicolon replaces any comma.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -598,21 +1863,476 @@
       },
       {
         "text": "Both sides normally need main-clause status unless separating list items",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
         "is_correct": false
       },
       {
-        "text": "Mark introducing elaboration after a complete clause",
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Both sides normally need main-clause status unless separating list items The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-006",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "square_brackets",
+    "question": "Which response would hold up under close reading? A cycling safety infographic includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A cycling safety infographic includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of square brackets.",
         "is_correct": false
       },
       {
-        "text": "Punctuation signals grammatical and semantic relationships; a colon introduces elaboration after a complete clause, while brackets enclose supplementary information.",
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "She said it was ‘the best [trial]’",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: She said it was ‘the best [trial]’",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-007",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "supplementary_detail",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “brackets or commas possible” would be most useful in a river-health podcast?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “brackets or commas possible” would be most useful in a river-health podcast?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that supplementary detail always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Punctuation signals grammatical and semantic relationships; a colon introduces elaboration after a complete clause, while brackets enclose supplementary information.",
-      "hint": "Both sides normally need main-clause status unless separating list items."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-008",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "semicolon",
+    "question": "Which choice uses the concept without overgeneralising? A town festival website uses the idea “mark linking closely related independent clauses or complex list items.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A town festival website uses the idea “mark linking closely related independent clauses or complex list items.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "semicolon",
+        "is_correct": true
+      },
+      {
+        "text": "colon",
+        "is_correct": false
+      },
+      {
+        "text": "parenthesis",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Semicolon is the precise term for mark linking closely related independent clauses or complex list items.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-009",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "colons_brackets_and_punctuation_for_clarity",
+    "question": "A youth radio interview needs a concise example of Colons, Brackets and Punctuation for Clarity. Which choice best fits?",
+    "audio_prompt": "A youth radio interview needs a concise example of Colons, Brackets and Punctuation for Clarity. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Semicolon replaces any comma",
+        "is_correct": false
+      },
+      {
+        "text": "The conclusion was limited: only one material had been tested",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name colon without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The conclusion was limited: only one material had been tested",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-010",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a coastal restoration article, someone writes, “Colon placed after incomplete verb phrase.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a coastal restoration article, someone writes, “Colon placed after incomplete verb phrase.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Colon placed after incomplete verb phrase",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Ensure a complete lead clause",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ensure a complete lead clause The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-011",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "square_brackets",
+    "question": "Which answer is best supported in this new situation? A public transport campaign includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A public transport campaign includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of square brackets.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "She said it was ‘the best [trial]’",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: She said it was ‘the best [trial]’",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-012",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "supplementary_detail",
+    "question": "Use the evidence in this regional museum audio guide. Which interpretation of “brackets or commas possible” would be most useful in a regional museum audio guide?",
+    "audio_prompt": "Use the evidence in this regional museum audio guide. Which interpretation of “brackets or commas possible” would be most useful in a regional museum audio guide?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different punctuation can change emphasis. Select the clearest structure rather than displaying every available mark",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that supplementary detail always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-013",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "parenthesis",
+    "question": "Choose the most precise analysis for this unfamiliar example. A wildlife rescue webpage uses the idea “supplementary information inserted into a sentence.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A wildlife rescue webpage uses the idea “supplementary information inserted into a sentence.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "colon",
+        "is_correct": false
+      },
+      {
+        "text": "parenthesis",
+        "is_correct": true
+      },
+      {
+        "text": "semicolon",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Parenthesis is the precise term for supplementary information inserted into a sentence.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-014",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "colons_brackets_and_punctuation_for_clarity",
+    "question": "Which response would hold up under close reading? A local council consultation needs a concise example of Colons, Brackets and Punctuation for Clarity. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A local council consultation needs a concise example of Colons, Brackets and Punctuation for Clarity. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Colon placed after incomplete verb phrase",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name colon without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "The conclusion was limited: only one material had been tested",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The conclusion was limited: only one material had been tested",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-015",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a heritage trail brochure, someone writes, “Essential information bracketed.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a heritage trail brochure, someone writes, “Essential information bracketed.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Essential information bracketed",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether removal changes identification",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Check whether removal changes identification The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la09-t-016",
+    "curriculum_code": "AC9E7LA09",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "square_brackets",
+    "question": "Which choice uses the concept without overgeneralising? A community theatre review includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A community theatre review includes “editorial insertion in quotation.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "She said it was ‘the best [trial]’",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of square brackets.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: She said it was ‘the best [trial]’",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

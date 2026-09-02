@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_viewpoint",
-    "question": "A Year 7 student is working with a text and needs to use identify viewpoint. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify viewpoint. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "point_of_view",
+    "question": "Which term best matches this meaning: “position from which events and values are presented”?",
+    "audio_prompt": "Which term best matches this meaning: “position from which events and values are presented”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+        "text": "issue",
+        "is_correct": false
+      },
+      {
+        "text": "point of view",
         "is_correct": true
       },
       {
-        "text": "Character opinion treated as author opinion",
+        "text": "representation",
         "is_correct": false
       },
       {
-        "text": "Distinguish narrator, character and implied values",
-        "is_correct": false
-      },
-      {
-        "text": "Position from which events and values are presented",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
-      "hint": "Distinguish narrator, character and implied values."
+      "summary": "Point of view means position from which events and values are presented. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Exploring Ideas, Viewpoints and Issues in Literature."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "state_an_idea_as_a_sentence",
-    "question": "A Year 7 student is working with a text and needs to use state an idea as a sentence. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use state an idea as a sentence. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "idea_issue",
+    "question": "Read this example: “What tension or value is explored.” Which description fits it best?",
+    "audio_prompt": "Read this example: “What tension or value is explored.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Theme reduced to one-word topic",
+        "text": "focus",
         "is_correct": false
       },
       {
-        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+        "text": "viewpoint",
+        "is_correct": false
+      },
+      {
+        "text": "idea/issue",
         "is_correct": true
       },
       {
-        "text": "Express an idea about the topic",
-        "is_correct": false
-      },
-      {
-        "text": "Position from which events and values are presented",
+        "text": "character",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
-      "hint": "Express an idea about the topic."
+      "summary": "The example matches idea/issue. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_character_choice",
-    "question": "A Year 7 student is working with a text and needs to use trace character choice. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace character choice. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "different_resolution",
+    "question": "Which label most accurately describes “individual acceptance / institutional change”?",
+    "audio_prompt": "Which label most accurately describes “individual acceptance / institutional change”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "One text generalised to a whole community",
+        "text": "Text B",
         "is_correct": false
       },
       {
-        "text": "Limit claims to the representation",
+        "text": "shared issue",
         "is_correct": false
       },
       {
-        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+        "text": "interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "different resolution",
         "is_correct": true
-      },
-      {
-        "text": "Position from which events and values are presented",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
-      "hint": "Limit claims to the representation."
+      "summary": "“individual acceptance / institutional change” is best described as different resolution.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_two_resolutions",
-    "question": "A Year 7 student is working with a text and needs to use compare two resolutions. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare two resolutions. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "character",
+    "question": "Read this example: “Which goals and choices embody the issue.” Which description fits it best?",
+    "audio_prompt": "Read this example: “Which goals and choices embody the issue.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Context listed without analysis",
-        "is_correct": false
-      },
-      {
-        "text": "Explain how it shapes motive, event or interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Position from which events and values are presented",
-        "is_correct": false
-      },
-      {
-        "text": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+        "text": "character",
         "is_correct": true
+      },
+      {
+        "text": "focus",
+        "is_correct": false
+      },
+      {
+        "text": "idea/issue",
+        "is_correct": false
+      },
+      {
+        "text": "viewpoint",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
-      "hint": "Explain how it shapes motive, event or interpretation."
+      "summary": "The example matches character. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "write_a_respectful_limited_claim",
-    "question": "Which statement correctly identifies issue in exploring ideas, viewpoints and issues in literature?",
-    "audio_prompt": "Which statement correctly identifies issue in exploring ideas, viewpoints and issues in literature?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Character opinion treated as author opinion”?",
+    "audio_prompt": "Which response best corrects this claim: “Character opinion treated as author opinion”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
-        "is_correct": true
-      },
-      {
-        "text": "Character opinion treated as author opinion",
+        "text": "Theme reduced to one-word topic",
         "is_correct": false
       },
       {
         "text": "Distinguish narrator, character and implied values",
+        "is_correct": true
+      },
+      {
+        "text": "One text generalised to a whole community",
         "is_correct": false
       },
       {
-        "text": "Position from which events and values are presented",
+        "text": "Context listed without analysis",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
-      "hint": "Distinguish narrator, character and implied values."
+      "summary": "Distinguish narrator, character and implied values This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_viewpoint",
-    "question": "Which choice best describes representation in exploring ideas, viewpoints and issues in literature?",
-    "audio_prompt": "Which choice best describes representation in exploring ideas, viewpoints and issues in literature?",
+    "stage": "recognise",
+    "skill": "representation",
+    "question": "Which term best matches this meaning: “constructed portrayal through textual choices”?",
+    "audio_prompt": "Which term best matches this meaning: “constructed portrayal through textual choices”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Theme reduced to one-word topic",
+        "text": "point of view",
         "is_correct": false
       },
       {
-        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+        "text": "issue",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
         "is_correct": true
       },
       {
-        "text": "Express an idea about the topic",
-        "is_correct": false
-      },
-      {
-        "text": "Position from which events and values are presented",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
-      "hint": "Express an idea about the topic."
+      "summary": "Representation means constructed portrayal through textual choices. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Exploring Ideas, Viewpoints and Issues in Literature."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "state_an_idea_as_a_sentence",
-    "question": "What does correct use require for point of view in exploring ideas, viewpoints and issues in literature?",
-    "audio_prompt": "What does correct use require for point of view in exploring ideas, viewpoints and issues in literature?",
+    "stage": "recognise",
+    "skill": "reader",
+    "question": "Read this example: “How are audiences positioned to respond.” Which description fits it best?",
+    "audio_prompt": "Read this example: “How are audiences positioned to respond.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "One text generalised to a whole community",
+        "text": "focus",
         "is_correct": false
       },
       {
-        "text": "Limit claims to the representation",
+        "text": "idea/issue",
         "is_correct": false
       },
       {
-        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+        "text": "viewpoint",
+        "is_correct": false
+      },
+      {
+        "text": "reader",
         "is_correct": true
-      },
-      {
-        "text": "Position from which events and values are presented",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
-      "hint": "Limit claims to the representation."
+      "summary": "The example matches reader. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-p-008",
@@ -285,39 +299,1385 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_character_choice",
-    "question": "A Year 7 student is working with a text and needs to use trace character choice. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace character choice. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "interpretation",
+    "question": "Which label most accurately describes “form and context shape the issue differently”?",
+    "audio_prompt": "Which label most accurately describes “form and context shape the issue differently”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
+        "text": "interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Text B",
+        "is_correct": false
+      },
+      {
+        "text": "shared issue",
+        "is_correct": false
+      },
+      {
+        "text": "different resolution",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“form and context shape the issue differently” is best described as interpretation.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-009",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "idea_issue",
+    "question": "While reading a technology showcase, you notice the wording closely. Read this example: “What tension or value is explored.” Which description fits it best?",
+    "audio_prompt": "While reading a technology showcase, you notice the wording closely. Read this example: “What tension or value is explored.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "focus",
+        "is_correct": false
+      },
+      {
+        "text": "idea/issue",
+        "is_correct": true
+      },
+      {
+        "text": "viewpoint",
+        "is_correct": false
+      },
+      {
+        "text": "character",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The example matches idea/issue. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-010",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Theme reduced to one-word topic”?",
+    "audio_prompt": "Which response best corrects this claim: “Theme reduced to one-word topic”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "One text generalised to a whole community",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": true
+      },
+      {
         "text": "Context listed without analysis",
         "is_correct": false
-      },
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Express an idea about the topic This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-011",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "focus",
+    "question": "Why does “evidence question” illustrate focus?",
+    "audio_prompt": "Why does “evidence question” illustrate focus?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
       {
-        "text": "Explain how it shapes motive, event or interpretation",
+        "text": "It is effective simply because it contains the words “evidence question”.",
         "is_correct": false
       },
       {
-        "text": "Position from which events and values are presented",
+        "text": "It guarantees the same effect for every audience and context.",
         "is_correct": false
       },
       {
-        "text": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
-      "hint": "Explain how it shapes motive, event or interpretation."
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-012",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "idea_issue",
+    "question": "What is the best explanation of how “What tension or value is explored” works?",
+    "audio_prompt": "What is the best explanation of how “What tension or value is explored” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “What tension or”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-013",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "viewpoint",
+    "question": "Which explanation connects the feature in “Who sees, knows and judges” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “Who sees, knows and judges” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “Who sees, knows”.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-014",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "character",
+    "question": "What should a careful reader notice about “Which goals and choices embody the issue”?",
+    "audio_prompt": "What should a careful reader notice about “Which goals and choices embody the issue”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “Which goals and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-015",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "event",
+    "question": "How does the example “What consequences test the idea” contribute to meaning?",
+    "audio_prompt": "How does the example “What consequences test the idea” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “What consequences test”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-016",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "context",
+    "question": "Why does “Which specific historical, social or cultural factors matter” illustrate context?",
+    "audio_prompt": "Why does “Which specific historical, social or cultural factors matter” illustrate context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “Which specific historical,”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-017",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "reader",
+    "question": "What is the best explanation of how “How are audiences positioned to respond” works?",
+    "audio_prompt": "What is the best explanation of how “How are audiences positioned to respond” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “How are audiences”.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-018",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "text_b",
+    "question": "Which explanation connects the feature in “multiple viewpoints expose competing values” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “multiple viewpoints expose competing values” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “multiple viewpoints expose”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-019",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "shared_issue",
+    "question": "What should a careful reader notice about “belonging versus exclusion”?",
+    "audio_prompt": "What should a careful reader notice about “belonging versus exclusion”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “belonging versus exclusion”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-020",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "different_resolution",
+    "question": "How does the example “individual acceptance / institutional change” contribute to meaning?",
+    "audio_prompt": "How does the example “individual acceptance / institutional change” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “individual acceptance /”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-021",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Character opinion treated as author opinion.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Character opinion treated as author opinion.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": true
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distinguish narrator, character and implied values The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-022",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Theme reduced to one-word topic”?",
+    "audio_prompt": "What is the main problem with this statement: “Theme reduced to one-word topic”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme reduced to one-word topic",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": true
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Express an idea about the topic The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-023",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “One text generalised to a whole community”?",
+    "audio_prompt": "Which correction avoids the misconception in “One text generalised to a whole community”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One text generalised to a whole community",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Limit claims to the representation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-024",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Context listed without analysis.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Context listed without analysis.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain how it shapes motive, event or interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Context listed without analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Explain how it shapes motive, event or interpretation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-025",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Character opinion treated as author opinion” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Character opinion treated as author opinion” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": true
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distinguish narrator, character and implied values The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-026",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Theme reduced to one-word topic.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Theme reduced to one-word topic.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme reduced to one-word topic",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": true
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Express an idea about the topic The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-027",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “One text generalised to a whole community”?",
+    "audio_prompt": "What is the main problem with this statement: “One text generalised to a whole community”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One text generalised to a whole community",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Limit claims to the representation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-028",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Context listed without analysis”?",
+    "audio_prompt": "Which correction avoids the misconception in “Context listed without analysis”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain how it shapes motive, event or interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Context listed without analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Explain how it shapes motive, event or interpretation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-029",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Character opinion treated as author opinion.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Character opinion treated as author opinion.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": true
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Distinguish narrator, character and implied values The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-030",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Theme reduced to one-word topic” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Theme reduced to one-word topic” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Theme reduced to one-word topic",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": false
+      },
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": true
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Express an idea about the topic The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-031",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "exploring_ideas_viewpoints_and_issues_in_literature",
+    "question": "A community garden report needs a concise example of Exploring Ideas, Viewpoints and Issues in Literature. Which choice best fits?",
+    "audio_prompt": "A community garden report needs a concise example of Exploring Ideas, Viewpoints and Issues in Literature. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name focus without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-032",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a class debate, someone writes, “Theme reduced to one-word topic.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a class debate, someone writes, “Theme reduced to one-word topic.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": true
+      },
+      {
+        "text": "Theme reduced to one-word topic",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Express an idea about the topic The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-033",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "viewpoint",
+    "question": "A environmental campaign includes “Who sees, knows and judges.” Which analysis is strongest?",
+    "audio_prompt": "A environmental campaign includes “Who sees, knows and judges.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of viewpoint.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-034",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "interpretation",
+    "question": "Which interpretation of “form and context shape the issue differently” would be most useful in a excursion briefing?",
+    "audio_prompt": "Which interpretation of “form and context shape the issue differently” would be most useful in a excursion briefing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that interpretation always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-035",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "issue",
+    "question": "A book-club discussion uses the idea “contested social, ethical or personal concern.” Which term would make the analysis most precise?",
+    "audio_prompt": "A book-club discussion uses the idea “contested social, ethical or personal concern.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "point of view",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "issue",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Issue is the precise term for contested social, ethical or personal concern.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-036",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "exploring_ideas_viewpoints_and_issues_in_literature",
+    "question": "A school website needs a concise example of Exploring Ideas, Viewpoints and Issues in Literature. Which choice best fits?",
+    "audio_prompt": "A school website needs a concise example of Exploring Ideas, Viewpoints and Issues in Literature. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+        "is_correct": true
+      },
+      {
+        "text": "Theme reduced to one-word topic",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name context without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-037",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a arts festival program, someone writes, “One text generalised to a whole community.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a arts festival program, someone writes, “One text generalised to a whole community.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One text generalised to a whole community",
+        "is_correct": false
+      },
+      {
+        "text": "Limit claims to the representation",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Limit claims to the representation The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-038",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "focus",
+    "question": "A peer feedback session includes “evidence question.” Which analysis is strongest?",
+    "audio_prompt": "A peer feedback session includes “evidence question.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of focus.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-039",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "text_b",
+    "question": "Which interpretation of “multiple viewpoints expose competing values” would be most useful in a technology showcase?",
+    "audio_prompt": "Which interpretation of “multiple viewpoints expose competing values” would be most useful in a technology showcase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that Text B always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-p-040",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "point_of_view",
+    "question": "A canteen survey uses the idea “position from which events and values are presented.” Which term would make the analysis most precise?",
+    "audio_prompt": "A canteen survey uses the idea “position from which events and values are presented.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "point of view",
+        "is_correct": true
+      },
+      {
+        "text": "issue",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Point of view is the precise term for position from which events and values are presented.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "compare_two_resolutions",
-    "question": "A Year 7 student is working with a text and needs to use compare two resolutions. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare two resolutions. Which option best demonstrates the skill?",
+    "skill": "focus",
+    "question": "A cycling safety infographic includes “evidence question.” Which analysis is strongest?",
+    "audio_prompt": "A cycling safety infographic includes “evidence question.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+        "text": "It is important only because it is an example of focus.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
         "is_correct": true
       },
       {
-        "text": "Character opinion treated as author opinion",
-        "is_correct": false
-      },
-      {
-        "text": "Distinguish narrator, character and implied values",
-        "is_correct": false
-      },
-      {
-        "text": "Position from which events and values are presented",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
-      "hint": "Distinguish narrator, character and implied values."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "write_a_respectful_limited_claim",
-    "question": "A Year 7 student is working with a text and needs to use write a respectful limited claim. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use write a respectful limited claim. Which option best demonstrates the skill?",
+    "skill": "text_b",
+    "question": "Read the new context carefully. Which interpretation of “multiple viewpoints expose competing values” would be most useful in a river-health podcast?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “multiple viewpoints expose competing values” would be most useful in a river-health podcast?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Theme reduced to one-word topic",
+        "text": "It proves that Text B always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
         "is_correct": true
-      },
-      {
-        "text": "Express an idea about the topic",
-        "is_correct": false
-      },
-      {
-        "text": "Position from which events and values are presented",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
-      "hint": "Express an idea about the topic."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-t-003",
@@ -399,36 +1767,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_viewpoint",
-    "question": "A Year 7 student is working with a text and needs to use identify viewpoint. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify viewpoint. Which option best demonstrates the skill?",
+    "skill": "point_of_view",
+    "question": "Which answer is best supported in this new situation? A town festival website uses the idea “position from which events and values are presented.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A town festival website uses the idea “position from which events and values are presented.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "One text generalised to a whole community",
-        "is_correct": false
-      },
-      {
-        "text": "Limit claims to the representation",
-        "is_correct": false
-      },
-      {
-        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+        "text": "point of view",
         "is_correct": true
       },
       {
-        "text": "Position from which events and values are presented",
+        "text": "issue",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
-      "hint": "Limit claims to the representation."
-    }
+      "summary": "Point of view is the precise term for position from which events and values are presented.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le01-t-004",
@@ -436,120 +1808,9 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "state_an_idea_as_a_sentence",
-    "question": "A Year 7 student is working with a text and needs to use state an idea as a sentence. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use state an idea as a sentence. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Context listed without analysis",
-        "is_correct": false
-      },
-      {
-        "text": "Explain how it shapes motive, event or interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Position from which events and values are presented",
-        "is_correct": false
-      },
-      {
-        "text": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
-      "hint": "Explain how it shapes motive, event or interpretation."
-    }
-  },
-  {
-    "id": "ac9e7le01-t-005",
-    "curriculum_code": "AC9E7LE01",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "trace_character_choice",
-    "question": "What should be checked when applying trace character choice in exploring ideas, viewpoints and issues in literature?",
-    "audio_prompt": "What should be checked when applying trace character choice in exploring ideas, viewpoints and issues in literature?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
-        "is_correct": true
-      },
-      {
-        "text": "Character opinion treated as author opinion",
-        "is_correct": false
-      },
-      {
-        "text": "Distinguish narrator, character and implied values",
-        "is_correct": false
-      },
-      {
-        "text": "Position from which events and values are presented",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
-      "hint": "Distinguish narrator, character and implied values."
-    }
-  },
-  {
-    "id": "ac9e7le01-t-006",
-    "curriculum_code": "AC9E7LE01",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "compare_two_resolutions",
-    "question": "Which response best uses compare two resolutions in exploring ideas, viewpoints and issues in literature?",
-    "audio_prompt": "Which response best uses compare two resolutions in exploring ideas, viewpoints and issues in literature?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Theme reduced to one-word topic",
-        "is_correct": false
-      },
-      {
-        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
-        "is_correct": true
-      },
-      {
-        "text": "Express an idea about the topic",
-        "is_correct": false
-      },
-      {
-        "text": "Position from which events and values are presented",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community.",
-      "hint": "Express an idea about the topic."
-    }
-  },
-  {
-    "id": "ac9e7le01-t-007",
-    "curriculum_code": "AC9E7LE01",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "write_a_respectful_limited_claim",
-    "question": "A Year 7 student is working with a text and needs to use write a respectful limited claim. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use write a respectful limited claim. Which option best demonstrates the skill?",
+    "skill": "exploring_ideas_viewpoints_and_issues_in_literature",
+    "question": "Use the evidence in this youth radio interview. A youth radio interview needs a concise example of Exploring Ideas, Viewpoints and Issues in Literature. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this youth radio interview. A youth radio interview needs a concise example of Exploring Ideas, Viewpoints and Issues in Literature. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -560,33 +1821,37 @@
         "is_correct": false
       },
       {
-        "text": "Limit claims to the representation",
-        "is_correct": false
-      },
-      {
-        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
+        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
         "is_correct": true
       },
       {
-        "text": "Position from which events and values are presented",
+        "text": "Simply name character without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims.",
-      "hint": "Limit claims to the representation."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le01-t-008",
+    "id": "ac9e7le01-t-005",
     "curriculum_code": "AC9E7LE01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_viewpoint",
-    "question": "A Year 7 student is working with a text and needs to use identify viewpoint. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify viewpoint. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a coastal restoration article, someone writes, “Context listed without analysis.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a coastal restoration article, someone writes, “Context listed without analysis.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -597,22 +1862,477 @@
         "is_correct": false
       },
       {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
         "text": "Explain how it shapes motive, event or interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Explain how it shapes motive, event or interpretation The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-006",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "context",
+    "question": "Which response would hold up under close reading? A public transport campaign includes “Which specific historical, social or cultural factors matter.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A public transport campaign includes “Which specific historical, social or cultural factors matter.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of context.",
         "is_correct": false
       },
       {
-        "text": "Position from which events and values are presented",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Literary texts represent ideas and issues through selected viewpoints, character experiences, structure and language; interpretations should be textually supported and contextually careful.",
-      "hint": "Explain how it shapes motive, event or interpretation."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-007",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "shared_issue",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “belonging versus exclusion” would be most useful in a regional museum audio guide?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “belonging versus exclusion” would be most useful in a regional museum audio guide?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that shared issue always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-008",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "representation",
+    "question": "Which choice uses the concept without overgeneralising? A wildlife rescue webpage uses the idea “constructed portrayal through textual choices.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A wildlife rescue webpage uses the idea “constructed portrayal through textual choices.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "point of view",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": true
+      },
+      {
+        "text": "issue",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Representation is the precise term for constructed portrayal through textual choices.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-009",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "exploring_ideas_viewpoints_and_issues_in_literature",
+    "question": "A local council consultation needs a concise example of Exploring Ideas, Viewpoints and Issues in Literature. Which choice best fits?",
+    "audio_prompt": "A local council consultation needs a concise example of Exploring Ideas, Viewpoints and Issues in Literature. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Context listed without analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name idea/issue without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-010",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a heritage trail brochure, someone writes, “Character opinion treated as author opinion.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a heritage trail brochure, someone writes, “Character opinion treated as author opinion.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Distinguish narrator, character and implied values",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Distinguish narrator, character and implied values The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-011",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "character",
+    "question": "Which answer is best supported in this new situation? A community theatre review includes “Which goals and choices embody the issue.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A community theatre review includes “Which goals and choices embody the issue.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of character.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-012",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "different_resolution",
+    "question": "Use the evidence in this water-quality report. Which interpretation of “individual acceptance / institutional change” would be most useful in a water-quality report?",
+    "audio_prompt": "Use the evidence in this water-quality report. Which interpretation of “individual acceptance / institutional change” would be most useful in a water-quality report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that different resolution always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison includes meaningful similarity and difference, with evidence from both texts and limits on contextual claims",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-013",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "issue",
+    "question": "Choose the most precise analysis for this unfamiliar example. A regional sports commentary uses the idea “contested social, ethical or personal concern.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A regional sports commentary uses the idea “contested social, ethical or personal concern.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "point of view",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "issue",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Issue is the precise term for contested social, ethical or personal concern.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-014",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "exploring_ideas_viewpoints_and_issues_in_literature",
+    "question": "Which response would hold up under close reading? A astronomy exhibition needs a concise example of Exploring Ideas, Viewpoints and Issues in Literature. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A astronomy exhibition needs a concise example of Exploring Ideas, Viewpoints and Issues in Literature. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Character opinion treated as author opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name reader without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Both texts explore belonging, but different viewpoints position readers toward different causes and solutions",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-015",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a farmers market profile, someone writes, “Theme reduced to one-word topic.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a farmers market profile, someone writes, “Theme reduced to one-word topic.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Express an idea about the topic",
+        "is_correct": true
+      },
+      {
+        "text": "Theme reduced to one-word topic",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Express an idea about the topic The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le01-t-016",
+    "curriculum_code": "AC9E7LE01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "idea_issue",
+    "question": "Which choice uses the concept without overgeneralising? A emergency-preparedness video includes “What tension or value is explored.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A emergency-preparedness video includes “What tension or value is explored.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of idea/issue.",
+        "is_correct": false
+      },
+      {
+        "text": "Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Refer to the particular text and represented perspective. Do not generalise one text to an entire culture or community",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

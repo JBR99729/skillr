@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_stages",
-    "question": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "stage",
+    "question": "Which term best matches this meaning: “major functional section of a text”?",
+    "audio_prompt": "Which term best matches this meaning: “major functional section of a text”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A webpage may let users choose section order, unlike a linear printed report",
+        "text": "phase",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": false
+      },
+      {
+        "text": "stage",
         "is_correct": true
       },
       {
-        "text": "Structure equated with paragraph count",
-        "is_correct": false
-      },
-      {
-        "text": "Stages may cross paragraphs and modes",
-        "is_correct": false
-      },
-      {
-        "text": "Major functional section of a text",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A webpage may let users choose section order, unlike a linear printed report",
-      "hint": "Stages may cross paragraphs and modes."
+      "summary": "Stage means major functional section of a text. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Text Structure, Purpose and Context."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la03-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "break_a_stage_into_phases",
-    "question": "A Year 7 student is working with a text and needs to use break a stage into phases. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use break a stage into phases. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "argument",
+    "question": "Read this example: “position–reasons–evidence–counterargument–conclusion.” Which description fits it best?",
+    "audio_prompt": "Read this example: “position–reasons–evidence–counterargument–conclusion.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "One structure treated as compulsory",
+        "text": "scientific explanation",
         "is_correct": false
       },
       {
-        "text": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+        "text": "documentary",
+        "is_correct": false
+      },
+      {
+        "text": "webpage",
+        "is_correct": false
+      },
+      {
+        "text": "argument",
         "is_correct": true
-      },
-      {
-        "text": "Writers adapt patterns",
-        "is_correct": false
-      },
-      {
-        "text": "Major functional section of a text",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
-      "hint": "Writers adapt patterns."
+      "summary": "The example matches argument. Evaluate and decide",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la03-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_modes",
-    "question": "A Year 7 student is working with a text and needs to use compare modes. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare modes. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "screen_panel",
+    "question": "Which label most accurately describes “visual hierarchy and navigation”?",
+    "audio_prompt": "Which label most accurately describes “visual hierarchy and navigation”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Digital navigation ignored",
-        "is_correct": false
-      },
-      {
-        "text": "Menus, links and scrolling shape structure",
-        "is_correct": false
-      },
-      {
-        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+        "text": "screen/panel",
         "is_correct": true
       },
       {
-        "text": "Major functional section of a text",
+        "text": "section",
+        "is_correct": false
+      },
+      {
+        "text": "paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "spoken delivery",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
-      "hint": "Menus, links and scrolling shape structure."
+      "summary": "“visual hierarchy and navigation” is best described as screen/panel.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la03-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_navigation",
-    "question": "A Year 7 student is working with a text and needs to use analyse navigation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse navigation. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "webpage",
+    "question": "Read this example: “headline–overview–navigation–linked sections.” Which description fits it best?",
+    "audio_prompt": "Read this example: “headline–overview–navigation–linked sections.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Feature listed without audience function",
+        "text": "scientific explanation",
         "is_correct": false
       },
       {
-        "text": "Explain how it guides meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Major functional section of a text",
-        "is_correct": false
-      },
-      {
-        "text": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
+        "text": "webpage",
         "is_correct": true
+      },
+      {
+        "text": "argument",
+        "is_correct": false
+      },
+      {
+        "text": "documentary",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
-      "hint": "Explain how it guides meaning."
+      "summary": "The example matches webpage. Self-directed access",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la03-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_hybrid_structure",
-    "question": "Which statement correctly identifies phase in text structure, purpose and context?",
-    "audio_prompt": "Which statement correctly identifies phase in text structure, purpose and context?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Structure equated with paragraph count”?",
+    "audio_prompt": "Which response best corrects this claim: “Structure equated with paragraph count”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A webpage may let users choose section order, unlike a linear printed report",
-        "is_correct": true
+        "text": "One structure treated as compulsory",
+        "is_correct": false
       },
       {
-        "text": "Structure equated with paragraph count",
+        "text": "Digital navigation ignored",
         "is_correct": false
       },
       {
         "text": "Stages may cross paragraphs and modes",
-        "is_correct": false
+        "is_correct": true
       },
       {
-        "text": "Major functional section of a text",
+        "text": "Feature listed without audience function",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A webpage may let users choose section order, unlike a linear printed report",
-      "hint": "Stages may cross paragraphs and modes."
+      "summary": "Stages may cross paragraphs and modes This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la03-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_stages",
-    "question": "Which choice best describes text structure in text structure, purpose and context?",
-    "audio_prompt": "Which choice best describes text structure in text structure, purpose and context?",
+    "stage": "recognise",
+    "skill": "text_structure",
+    "question": "Which term best matches this meaning: “organisation of ideas and modes across a text”?",
+    "audio_prompt": "Which term best matches this meaning: “organisation of ideas and modes across a text”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "One structure treated as compulsory",
+        "text": "stage",
         "is_correct": false
       },
       {
-        "text": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+        "text": "phase",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
         "is_correct": true
-      },
-      {
-        "text": "Writers adapt patterns",
-        "is_correct": false
-      },
-      {
-        "text": "Major functional section of a text",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
-      "hint": "Writers adapt patterns."
+      "summary": "Text structure means organisation of ideas and modes across a text. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Text Structure, Purpose and Context."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la03-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "break_a_stage_into_phases",
-    "question": "What does correct use require for stage in text structure, purpose and context?",
-    "audio_prompt": "What does correct use require for stage in text structure, purpose and context?",
+    "stage": "recognise",
+    "skill": "documentary",
+    "question": "Read this example: “orientation–chapters–interviews–visual evidence–reflection.” Which description fits it best?",
+    "audio_prompt": "Read this example: “orientation–chapters–interviews–visual evidence–reflection.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Digital navigation ignored",
-        "is_correct": false
-      },
-      {
-        "text": "Menus, links and scrolling shape structure",
-        "is_correct": false
-      },
-      {
-        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+        "text": "documentary",
         "is_correct": true
       },
       {
-        "text": "Major functional section of a text",
+        "text": "scientific explanation",
+        "is_correct": false
+      },
+      {
+        "text": "argument",
+        "is_correct": false
+      },
+      {
+        "text": "webpage",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
-      "hint": "Menus, links and scrolling shape structure."
+      "summary": "The example matches documentary. Explore through modes",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la03-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_modes",
-    "question": "A Year 7 student is working with a text and needs to use compare modes. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare modes. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "spoken_delivery",
+    "question": "Which label most accurately describes “signposting, pauses and transitions”?",
+    "audio_prompt": "Which label most accurately describes “signposting, pauses and transitions”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "section",
+        "is_correct": false
+      },
+      {
+        "text": "spoken delivery",
+        "is_correct": true
+      },
+      {
+        "text": "paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "screen/panel",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“signposting, pauses and transitions” is best described as spoken delivery.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-009",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "scientific_explanation",
+    "question": "Read this example: “phenomenon–causal sequence–summary.” Which description fits it best?",
+    "audio_prompt": "Read this example: “phenomenon–causal sequence–summary.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "argument",
+        "is_correct": false
+      },
+      {
+        "text": "documentary",
+        "is_correct": false
+      },
+      {
+        "text": "scientific explanation",
+        "is_correct": true
+      },
+      {
+        "text": "webpage",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The example matches scientific explanation. Understand mechanism",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-010",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “One structure treated as compulsory”?",
+    "audio_prompt": "Which response best corrects this claim: “One structure treated as compulsory”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Structure equated with paragraph count",
+        "is_correct": false
+      },
+      {
+        "text": "Digital navigation ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Feature listed without audience function",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Writers adapt patterns This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-011",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "scientific_explanation",
+    "question": "Why does “phenomenon–causal sequence–summary” illustrate scientific explanation?",
+    "audio_prompt": "Why does “phenomenon–causal sequence–summary” illustrate scientific explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Understand mechanism",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “phenomenon–causal sequence–summary”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Understand mechanism",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-012",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "argument",
+    "question": "What is the best explanation of how “position–reasons–evidence–counterargument–conclusion” works?",
+    "audio_prompt": "What is the best explanation of how “position–reasons–evidence–counterargument–conclusion” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “position–reasons–evidence–counterargument–conclusion”.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate and decide",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Evaluate and decide",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-013",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "documentary",
+    "question": "Which explanation connects the feature in “orientation–chapters–interviews–visual evidence–reflection” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “orientation–chapters–interviews–visual evidence–reflection” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “orientation–chapters–interviews–visual evidence–reflection”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Explore through modes",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Explore through modes",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-014",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "webpage",
+    "question": "What should a careful reader notice about “headline–overview–navigation–linked sections”?",
+    "audio_prompt": "What should a careful reader notice about “headline–overview–navigation–linked sections”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “headline–overview–navigation–linked sections”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Self-directed access",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Self-directed access",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-015",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "section",
+    "question": "How does the example “phase or subtopic sequence” contribute to meaning?",
+    "audio_prompt": "How does the example “phase or subtopic sequence” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “phase or subtopic”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Explain how structure helps audiences predict, locate, connect or evaluate information",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-016",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "paragraph",
+    "question": "Why does “claim–evidence–explanation” illustrate paragraph?",
+    "audio_prompt": "Why does “claim–evidence–explanation” illustrate paragraph?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “claim–evidence–explanation”.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Explain how structure helps audiences predict, locate, connect or evaluate information",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-017",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "screen_panel",
+    "question": "What is the best explanation of how “visual hierarchy and navigation” works?",
+    "audio_prompt": "What is the best explanation of how “visual hierarchy and navigation” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “visual hierarchy and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Explain how structure helps audiences predict, locate, connect or evaluate information",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-018",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "spoken_delivery",
+    "question": "Which explanation connects the feature in “signposting, pauses and transitions” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “signposting, pauses and transitions” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “signposting, pauses and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Explain how structure helps audiences predict, locate, connect or evaluate information",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-019",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "scientific_explanation",
+    "question": "What should a careful reader notice about “phenomenon–causal sequence–summary”?",
+    "audio_prompt": "What should a careful reader notice about “phenomenon–causal sequence–summary”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Understand mechanism",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “phenomenon–causal sequence–summary”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Understand mechanism",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-020",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "argument",
+    "question": "How does the example “position–reasons–evidence–counterargument–conclusion” contribute to meaning?",
+    "audio_prompt": "How does the example “position–reasons–evidence–counterargument–conclusion” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “position–reasons–evidence–counterargument–conclusion”.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate and decide",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Evaluate and decide",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-021",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Structure equated with paragraph count.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Structure equated with paragraph count.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Structure equated with paragraph count",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": true
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stages may cross paragraphs and modes The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-022",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “One structure treated as compulsory”?",
+    "audio_prompt": "What is the main problem with this statement: “One structure treated as compulsory”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One structure treated as compulsory",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": false
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Writers adapt patterns The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-023",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Digital navigation ignored”?",
+    "audio_prompt": "Which correction avoids the misconception in “Digital navigation ignored”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": true
+      },
+      {
+        "text": "Digital navigation ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Menus, links and scrolling shape structure The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-024",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Feature listed without audience function.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Feature listed without audience function.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -299,25 +986,698 @@
       },
       {
         "text": "Explain how it guides meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
         "is_correct": false
       },
       {
-        "text": "Major functional section of a text",
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Explain how it guides meaning The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-025",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Structure equated with paragraph count” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Structure equated with paragraph count” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Structure equated with paragraph count",
         "is_correct": false
       },
       {
-        "text": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": true
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stages may cross paragraphs and modes The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-026",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “One structure treated as compulsory.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “One structure treated as compulsory.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One structure treated as compulsory",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": false
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt patterns",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
-      "hint": "Explain how it guides meaning."
+      "summary": "Writers adapt patterns The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-027",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Digital navigation ignored”?",
+    "audio_prompt": "What is the main problem with this statement: “Digital navigation ignored”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": true
+      },
+      {
+        "text": "Digital navigation ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Menus, links and scrolling shape structure The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-028",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Feature listed without audience function”?",
+    "audio_prompt": "Which correction avoids the misconception in “Feature listed without audience function”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feature listed without audience function",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how it guides meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Explain how it guides meaning The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-029",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Structure equated with paragraph count.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Structure equated with paragraph count.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Structure equated with paragraph count",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": true
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stages may cross paragraphs and modes The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-030",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “One structure treated as compulsory” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “One structure treated as compulsory” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One structure treated as compulsory",
+        "is_correct": false
+      },
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": false
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Writers adapt patterns The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-031",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "text_structure_purpose_and_context",
+    "question": "A museum exhibit needs a concise example of Text Structure, Purpose and Context. Which choice best fits?",
+    "audio_prompt": "A museum exhibit needs a concise example of Text Structure, Purpose and Context. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A webpage may let users choose section order, unlike a linear printed report",
+        "is_correct": true
+      },
+      {
+        "text": "Structure equated with paragraph count",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name scientific explanation without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A webpage may let users choose section order, unlike a linear printed report",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-032",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a community garden report, someone writes, “One structure treated as compulsory.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a community garden report, someone writes, “One structure treated as compulsory.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One structure treated as compulsory",
+        "is_correct": false
+      },
+      {
+        "text": "Writers adapt patterns",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Writers adapt patterns The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-033",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "documentary",
+    "question": "A class debate includes “orientation–chapters–interviews–visual evidence–reflection.” Which analysis is strongest?",
+    "audio_prompt": "A class debate includes “orientation–chapters–interviews–visual evidence–reflection.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of documentary.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Explore through modes",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Explore through modes",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-034",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "spoken_delivery",
+    "question": "Which interpretation of “signposting, pauses and transitions” would be most useful in a environmental campaign?",
+    "audio_prompt": "Which interpretation of “signposting, pauses and transitions” would be most useful in a environmental campaign?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that spoken delivery always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-035",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "phase",
+    "question": "A excursion briefing uses the idea “smaller move developing a stage.” Which term would make the analysis most precise?",
+    "audio_prompt": "A excursion briefing uses the idea “smaller move developing a stage.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "phase",
+        "is_correct": true
+      },
+      {
+        "text": "stage",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Phase is the precise term for smaller move developing a stage.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-036",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "text_structure_purpose_and_context",
+    "question": "A book-club discussion needs a concise example of Text Structure, Purpose and Context. Which choice best fits?",
+    "audio_prompt": "A book-club discussion needs a concise example of Text Structure, Purpose and Context. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One structure treated as compulsory",
+        "is_correct": false
+      },
+      {
+        "text": "A webpage may let users choose section order, unlike a linear printed report",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name argument without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A webpage may let users choose section order, unlike a linear printed report",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-037",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a school website, someone writes, “Digital navigation ignored.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a school website, someone writes, “Digital navigation ignored.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital navigation ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Menus, links and scrolling shape structure",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Menus, links and scrolling shape structure The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-038",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "webpage",
+    "question": "A arts festival program includes “headline–overview–navigation–linked sections.” Which analysis is strongest?",
+    "audio_prompt": "A arts festival program includes “headline–overview–navigation–linked sections.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of webpage.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Self-directed access",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Self-directed access",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-039",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "section",
+    "question": "Which interpretation of “phase or subtopic sequence” would be most useful in a peer feedback session?",
+    "audio_prompt": "Which interpretation of “phase or subtopic sequence” would be most useful in a peer feedback session?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that section always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-p-040",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "stage",
+    "question": "A technology showcase uses the idea “major functional section of a text.” Which term would make the analysis most precise?",
+    "audio_prompt": "A technology showcase uses the idea “major functional section of a text.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "phase",
+        "is_correct": false
+      },
+      {
+        "text": "stage",
+        "is_correct": true
+      },
+      {
+        "text": "text structure",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Stage is the precise term for major functional section of a text.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la03-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "analyse_navigation",
-    "question": "A Year 7 student is working with a text and needs to use analyse navigation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse navigation. Which option best demonstrates the skill?",
+    "skill": "webpage",
+    "question": "A astronomy exhibition includes “headline–overview–navigation–linked sections.” Which analysis is strongest?",
+    "audio_prompt": "A astronomy exhibition includes “headline–overview–navigation–linked sections.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A webpage may let users choose section order, unlike a linear printed report",
+        "text": "It is important only because it is an example of webpage.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Self-directed access",
         "is_correct": true
-      },
-      {
-        "text": "Structure equated with paragraph count",
-        "is_correct": false
-      },
-      {
-        "text": "Stages may cross paragraphs and modes",
-        "is_correct": false
-      },
-      {
-        "text": "Major functional section of a text",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A webpage may let users choose section order, unlike a linear printed report",
-      "hint": "Stages may cross paragraphs and modes."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Self-directed access",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la03-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "explain_hybrid_structure",
-    "question": "A Year 7 student is working with a text and needs to use explain hybrid structure. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain hybrid structure. Which option best demonstrates the skill?",
+    "skill": "section",
+    "question": "Read the new context carefully. Which interpretation of “phase or subtopic sequence” would be most useful in a farmers market profile?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “phase or subtopic sequence” would be most useful in a farmers market profile?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "One structure treated as compulsory",
-        "is_correct": false
-      },
-      {
-        "text": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information",
         "is_correct": true
       },
       {
-        "text": "Writers adapt patterns",
+        "text": "It proves that section always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Major functional section of a text",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
-      "hint": "Writers adapt patterns."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la03-t-003",
@@ -399,9 +1767,50 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_stages",
-    "question": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
+    "skill": "stage",
+    "question": "Which answer is best supported in this new situation? A emergency-preparedness video uses the idea “major functional section of a text.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A emergency-preparedness video uses the idea “major functional section of a text.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "phase",
+        "is_correct": false
+      },
+      {
+        "text": "stage",
+        "is_correct": true
+      },
+      {
+        "text": "text structure",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Stage is the precise term for major functional section of a text.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-t-004",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text_structure_purpose_and_context",
+    "question": "Use the evidence in this cycling safety infographic. A cycling safety infographic needs a concise example of Text Structure, Purpose and Context. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this cycling safety infographic. A cycling safety infographic needs a concise example of Text Structure, Purpose and Context. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -412,33 +1821,37 @@
         "is_correct": false
       },
       {
-        "text": "Menus, links and scrolling shape structure",
+        "text": "Simply name documentary without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+        "text": "A webpage may let users choose section order, unlike a linear printed report",
         "is_correct": true
       },
       {
-        "text": "Major functional section of a text",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
-      "hint": "Menus, links and scrolling shape structure."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: A webpage may let users choose section order, unlike a linear printed report",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la03-t-004",
+    "id": "ac9e7la03-t-005",
     "curriculum_code": "AC9E7LA03",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "break_a_stage_into_phases",
-    "question": "A Year 7 student is working with a text and needs to use break a stage into phases. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use break a stage into phases. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a river-health podcast, someone writes, “Feature listed without audience function.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a river-health podcast, someone writes, “Feature listed without audience function.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -449,33 +1862,365 @@
         "is_correct": false
       },
       {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
         "text": "Explain how it guides meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Major functional section of a text",
-        "is_correct": false
-      },
-      {
-        "text": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
-      "hint": "Explain how it guides meaning."
-    }
+      "summary": "Explain how it guides meaning The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la03-t-005",
+    "id": "ac9e7la03-t-006",
     "curriculum_code": "AC9E7LA03",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "compare_modes",
-    "question": "What should be checked when applying compare modes in text structure, purpose and context?",
-    "audio_prompt": "What should be checked when applying compare modes in text structure, purpose and context?",
+    "skill": "scientific_explanation",
+    "question": "Which response would hold up under close reading? A town festival website includes “phenomenon–causal sequence–summary.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A town festival website includes “phenomenon–causal sequence–summary.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Understand mechanism",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of scientific explanation.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Understand mechanism",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-t-007",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paragraph",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “claim–evidence–explanation” would be most useful in a youth radio interview?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “claim–evidence–explanation” would be most useful in a youth radio interview?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that paragraph always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-t-008",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text_structure",
+    "question": "Which choice uses the concept without overgeneralising? A coastal restoration article uses the idea “organisation of ideas and modes across a text.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A coastal restoration article uses the idea “organisation of ideas and modes across a text.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "stage",
+        "is_correct": false
+      },
+      {
+        "text": "phase",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Text structure is the precise term for organisation of ideas and modes across a text.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-t-009",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text_structure_purpose_and_context",
+    "question": "A public transport campaign needs a concise example of Text Structure, Purpose and Context. Which choice best fits?",
+    "audio_prompt": "A public transport campaign needs a concise example of Text Structure, Purpose and Context. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feature listed without audience function",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name webpage without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "A webpage may let users choose section order, unlike a linear printed report",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A webpage may let users choose section order, unlike a linear printed report",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-t-010",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a regional museum audio guide, someone writes, “Structure equated with paragraph count.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a regional museum audio guide, someone writes, “Structure equated with paragraph count.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Stages may cross paragraphs and modes",
+        "is_correct": true
+      },
+      {
+        "text": "Structure equated with paragraph count",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Stages may cross paragraphs and modes The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-t-011",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "argument",
+    "question": "Which answer is best supported in this new situation? A wildlife rescue webpage includes “position–reasons–evidence–counterargument–conclusion.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A wildlife rescue webpage includes “position–reasons–evidence–counterargument–conclusion.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of argument.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate and decide",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Evaluate and decide",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-t-012",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "screen_panel",
+    "question": "Use the evidence in this local council consultation. Which interpretation of “visual hierarchy and navigation” would be most useful in a local council consultation?",
+    "audio_prompt": "Use the evidence in this local council consultation. Which interpretation of “visual hierarchy and navigation” would be most useful in a local council consultation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that screen/panel always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-t-013",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "phase",
+    "question": "Choose the most precise analysis for this unfamiliar example. A heritage trail brochure uses the idea “smaller move developing a stage.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A heritage trail brochure uses the idea “smaller move developing a stage.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "stage",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "phase",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Phase is the precise term for smaller move developing a stage.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la03-t-014",
+    "curriculum_code": "AC9E7LA03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "text_structure_purpose_and_context",
+    "question": "Which response would hold up under close reading? A community theatre review needs a concise example of Text Structure, Purpose and Context. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A community theatre review needs a concise example of Text Structure, Purpose and Context. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -490,29 +2235,33 @@
         "is_correct": false
       },
       {
-        "text": "Stages may cross paragraphs and modes",
+        "text": "Simply name scientific explanation without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Major functional section of a text",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A webpage may let users choose section order, unlike a linear printed report",
-      "hint": "Stages may cross paragraphs and modes."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: A webpage may let users choose section order, unlike a linear printed report",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la03-t-006",
+    "id": "ac9e7la03-t-015",
     "curriculum_code": "AC9E7LA03",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "analyse_navigation",
-    "question": "Which response best uses analyse navigation in text structure, purpose and context?",
-    "audio_prompt": "Which response best uses analyse navigation in text structure, purpose and context?",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a water-quality report, someone writes, “One structure treated as compulsory.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a water-quality report, someone writes, “One structure treated as compulsory.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -523,96 +2272,67 @@
         "is_correct": false
       },
       {
-        "text": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
+        "text": "Writers adapt patterns",
         "is_correct": true
       },
       {
-        "text": "Writers adapt patterns",
+        "text": "Keep the claim but add “always” to make it sound certain.",
         "is_correct": false
       },
       {
-        "text": "Major functional section of a text",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Structures are functional patterns, not compulsory templates. Hybrid texts may combine stages from several purposes.",
-      "hint": "Writers adapt patterns."
-    }
+      "summary": "Writers adapt patterns The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la03-t-007",
+    "id": "ac9e7la03-t-016",
     "curriculum_code": "AC9E7LA03",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "explain_hybrid_structure",
-    "question": "A Year 7 student is working with a text and needs to use explain hybrid structure. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain hybrid structure. Which option best demonstrates the skill?",
+    "skill": "documentary",
+    "question": "Which choice uses the concept without overgeneralising? A regional sports commentary includes “orientation–chapters–interviews–visual evidence–reflection.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A regional sports commentary includes “orientation–chapters–interviews–visual evidence–reflection.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Digital navigation ignored",
+        "text": "It is important only because it is an example of documentary.",
         "is_correct": false
       },
       {
-        "text": "Menus, links and scrolling shape structure",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
+        "text": "Explore through modes",
         "is_correct": true
       },
       {
-        "text": "Major functional section of a text",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Explain how structure helps audiences predict, locate, connect or evaluate information.",
-      "hint": "Menus, links and scrolling shape structure."
-    }
-  },
-  {
-    "id": "ac9e7la03-t-008",
-    "curriculum_code": "AC9E7LA03",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "identify_stages",
-    "question": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify stages. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "The strongest analysis connects the evidence to its function: Explore through modes",
+      "hint": "Use a feature → evidence → effect chain."
     },
-    "answers": [
-      {
-        "text": "Feature listed without audience function",
-        "is_correct": false
-      },
-      {
-        "text": "Explain how it guides meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Major functional section of a text",
-        "is_correct": false
-      },
-      {
-        "text": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Text structure organises audience movement through ideas; typical stages and phases are adapted according to purpose, mode and social context.",
-      "hint": "Explain how it guides meaning."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

@@ -1,29 +1,29 @@
 [
   {
-    "id": "ac9e7le04-p-001",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-001",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "aesthetic_value",
-    "question": "Which term best matches this meaning: “value arising from artistic form and experience”?",
-    "audio_prompt": "Which term best matches this meaning: “value arising from artistic form and experience”?",
+    "skill": "register",
+    "question": "Which term best matches this meaning: “language style associated with context and relationship”?",
+    "audio_prompt": "Which term best matches this meaning: “language style associated with context and relationship”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "aesthetic value",
+        "text": "register",
         "is_correct": true
       },
       {
-        "text": "social value",
+        "text": "identity",
         "is_correct": false
       },
       {
-        "text": "literary metalanguage",
+        "text": "social positioning",
         "is_correct": false
       },
       {
@@ -33,8 +33,8 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Aesthetic value means value arising from artistic form and experience. The strongest answer matches the whole meaning, not just one familiar word.",
-      "hint": "Match the definition to the most precise term used in Aesthetic and Social Value of Literature."
+      "summary": "Register means language style associated with context and relationship. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Language, Identity and Social Positioning."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -42,40 +42,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-002",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-002",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "aesthetic_craft",
-    "question": "Read this example: “How do language, form, rhythm, image or structure create experience.” Which description fits it best?",
-    "audio_prompt": "Read this example: “How do language, form, rhythm, image or structure create experience.” Which description fits it best?",
+    "skill": "class_debate",
+    "question": "Read this example: “evidence, turn-taking, qualified disagreement.” Which description fits it best?",
+    "audio_prompt": "Read this example: “evidence, turn-taking, qualified disagreement.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "lens",
+        "text": "peer group",
         "is_correct": false
       },
       {
-        "text": "aesthetic craft",
+        "text": "class debate",
         "is_correct": true
       },
       {
-        "text": "emotional/intellectual",
+        "text": "formal application",
         "is_correct": false
       },
       {
-        "text": "social representation",
+        "text": "online community",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The example matches aesthetic craft. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "The example matches class debate. Informed participant",
       "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
@@ -84,40 +84,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-003",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-003",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "effect",
-    "question": "Which label most accurately describes “memory appears interrupted but continuous”?",
-    "audio_prompt": "Which label most accurately describes “memory appears interrupted but continuous”?",
+    "skill": "as_chair_i_will_summarise_the_evidence",
+    "question": "Which label most accurately describes “institutional role”?",
+    "audio_prompt": "Which label most accurately describes “institutional role”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Claim",
+        "text": "We need to decide together",
         "is_correct": false
       },
       {
-        "text": "Craft",
+        "text": "People like you never understand",
         "is_correct": false
       },
       {
-        "text": "Effect",
+        "text": "As chair, I will summarise the evidence",
         "is_correct": true
       },
       {
-        "text": "Social significance",
+        "text": "Could you clarify that assumption?",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“memory appears interrupted but continuous” is best described as Effect.",
+      "summary": "“institutional role” is best described as As chair, I will summarise the evidence.",
       "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
@@ -126,40 +126,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-004",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-004",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "social_representation",
-    "question": "Read this example: “Whose lives and values are made visible or contested.” Which description fits it best?",
-    "audio_prompt": "Read this example: “Whose lives and values are made visible or contested.” Which description fits it best?",
+    "skill": "online_community",
+    "question": "Read this example: “platform conventions, tags, abbreviations.” Which description fits it best?",
+    "audio_prompt": "Read this example: “platform conventions, tags, abbreviations.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "lens",
+        "text": "peer group",
         "is_correct": false
       },
       {
-        "text": "aesthetic craft",
+        "text": "class debate",
         "is_correct": false
       },
       {
-        "text": "emotional/intellectual",
+        "text": "formal application",
         "is_correct": false
       },
       {
-        "text": "social representation",
+        "text": "online community",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The example matches social representation. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "The example matches online community. Digital group identity",
       "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
@@ -168,40 +168,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-005",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-005",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
     "skill": "misconception_repair",
-    "question": "Which response best corrects this claim: “Popularity treated as value proof”?",
-    "audio_prompt": "Which response best corrects this claim: “Popularity treated as value proof”?",
+    "question": "Which response best corrects this claim: “Formal register treated as universally superior”?",
+    "audio_prompt": "Which response best corrects this claim: “Formal register treated as universally superior”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": true
       },
       {
-        "text": "Social message replaces literary analysis",
+        "text": "One expression used to label identity",
         "is_correct": false
       },
       {
-        "text": "Text declared timeless without audience context",
+        "text": "Language variety described as broken standard English",
         "is_correct": false
       },
       {
-        "text": "Representation praised without critical limits",
+        "text": "Power ignored in interaction",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use craft and social criteria This corrects the overgeneralisation in the original claim.",
+      "summary": "Suitability depends on purpose and audience This corrects the overgeneralisation in the original claim.",
       "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
@@ -210,30 +210,30 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-006",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-006",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "literary_metalanguage",
-    "question": "Which term best matches this meaning: “specialised vocabulary used to analyse literature”?",
-    "audio_prompt": "Which term best matches this meaning: “specialised vocabulary used to analyse literature”?",
+    "skill": "social_positioning",
+    "question": "Which term best matches this meaning: “way language locates participants in relations of belonging, authority or distance”?",
+    "audio_prompt": "Which term best matches this meaning: “way language locates participants in relations of belonging, authority or distance”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "aesthetic value",
+        "text": "register",
         "is_correct": false
       },
       {
-        "text": "literary metalanguage",
+        "text": "social positioning",
         "is_correct": true
       },
       {
-        "text": "social value",
+        "text": "identity",
         "is_correct": false
       },
       {
@@ -243,8 +243,8 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Literary metalanguage means specialised vocabulary used to analyse literature. The strongest answer matches the whole meaning, not just one familiar word.",
-      "hint": "Match the definition to the most precise term used in Aesthetic and Social Value of Literature."
+      "summary": "Social positioning means way language locates participants in relations of belonging, authority or distance. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Language, Identity and Social Positioning."
     },
     "difficulty": 1,
     "difficulty_tier": "recognise",
@@ -252,40 +252,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-007",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-007",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "access_relevance",
-    "question": "Read this example: “For whom is the text meaningful, difficult or excluded.” Which description fits it best?",
-    "audio_prompt": "Read this example: “For whom is the text meaningful, difficult or excluded.” Which description fits it best?",
+    "skill": "formal_application",
+    "question": "Read this example: “explicit purpose, conventional greeting, precise register.” Which description fits it best?",
+    "audio_prompt": "Read this example: “explicit purpose, conventional greeting, precise register.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "lens",
+        "text": "peer group",
         "is_correct": false
       },
       {
-        "text": "aesthetic craft",
+        "text": "class debate",
         "is_correct": false
       },
       {
-        "text": "access/relevance",
+        "text": "formal application",
         "is_correct": true
       },
       {
-        "text": "emotional/intellectual",
+        "text": "online community",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The example matches access/relevance. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "The example matches formal application. Professional role",
       "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
@@ -294,40 +294,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-008",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-008",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "effect",
-    "question": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “memory appears interrupted but continuous”?",
-    "audio_prompt": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “memory appears interrupted but continuous”?",
+    "skill": "as_chair_i_will_summarise_the_evidence",
+    "question": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “institutional role”?",
+    "audio_prompt": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “institutional role”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Claim",
+        "text": "We need to decide together",
         "is_correct": false
       },
       {
-        "text": "Craft",
+        "text": "People like you never understand",
         "is_correct": false
       },
       {
-        "text": "Social significance",
+        "text": "Could you clarify that assumption?",
         "is_correct": false
       },
       {
-        "text": "Effect",
+        "text": "As chair, I will summarise the evidence",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "“memory appears interrupted but continuous” is best described as Effect.",
+      "summary": "“institutional role” is best described as As chair, I will summarise the evidence.",
       "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
@@ -336,40 +336,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-009",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-009",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "aesthetic_craft",
-    "question": "While reading a technology showcase, you notice the wording closely. Read this example: “How do language, form, rhythm, image or structure create experience.” Which description fits it best?",
-    "audio_prompt": "While reading a technology showcase, you notice the wording closely. Read this example: “How do language, form, rhythm, image or structure create experience.” Which description fits it best?",
+    "skill": "peer_group",
+    "question": "Read this example: “shared references, humour, informal grammar.” Which description fits it best?",
+    "audio_prompt": "Read this example: “shared references, humour, informal grammar.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "aesthetic craft",
+        "text": "peer group",
         "is_correct": true
       },
       {
-        "text": "lens",
+        "text": "class debate",
         "is_correct": false
       },
       {
-        "text": "emotional/intellectual",
+        "text": "formal application",
         "is_correct": false
       },
       {
-        "text": "social representation",
+        "text": "online community",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The example matches aesthetic craft. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "The example matches peer group. Solidarity and membership",
       "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
@@ -378,40 +378,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-010",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-010",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
     "skill": "misconception_repair",
-    "question": "Which response best corrects this claim: “Social message replaces literary analysis”?",
-    "audio_prompt": "Which response best corrects this claim: “Social message replaces literary analysis”?",
+    "question": "Which response best corrects this claim: “One expression used to label identity”?",
+    "audio_prompt": "Which response best corrects this claim: “One expression used to label identity”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Popularity treated as value proof",
+        "text": "Formal register treated as universally superior",
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": true
       },
       {
-        "text": "Text declared timeless without audience context",
+        "text": "Language variety described as broken standard English",
         "is_correct": false
       },
       {
-        "text": "Representation praised without critical limits",
+        "text": "Power ignored in interaction",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Examine how form creates meaning This corrects the overgeneralisation in the original claim.",
+      "summary": "Interpret patterns cautiously This corrects the overgeneralisation in the original claim.",
       "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
@@ -420,22 +420,22 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-011",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-011",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "explain",
-    "skill": "lens",
-    "question": "Why does “questions” illustrate lens?",
-    "audio_prompt": "Why does “questions” illustrate lens?",
+    "skill": "peer_group",
+    "question": "Why does “shared references, humour, informal grammar” illustrate peer group?",
+    "audio_prompt": "Why does “shared references, humour, informal grammar” illustrate peer group?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is effective simply because it contains the words “questions”.",
+        "text": "It is effective simply because it contains the words “shared references, humour,”.",
         "is_correct": false
       },
       {
@@ -443,7 +443,7 @@
         "is_correct": false
       },
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Solidarity and membership",
         "is_correct": true
       },
       {
@@ -453,7 +453,7 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A strong explanation identifies the feature and then explains its effect in context. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Solidarity and membership",
       "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
     "difficulty": 2,
@@ -462,22 +462,22 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-012",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-012",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "explain",
-    "skill": "aesthetic_craft",
-    "question": "What is the best explanation of how “How do language, form, rhythm, image or structure create experience” works?",
-    "audio_prompt": "What is the best explanation of how “How do language, form, rhythm, image or structure create experience” works?",
+    "skill": "class_debate",
+    "question": "What is the best explanation of how “evidence, turn-taking, qualified disagreement” works?",
+    "audio_prompt": "What is the best explanation of how “evidence, turn-taking, qualified disagreement” works?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is effective simply because it contains the words “How do language,”.",
+        "text": "It is effective simply because it contains the words “evidence, turn-taking, qualified”.",
         "is_correct": false
       },
       {
@@ -489,13 +489,13 @@
         "is_correct": false
       },
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Informed participant",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A strong explanation identifies the feature and then explains its effect in context. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Informed participant",
       "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
     "difficulty": 2,
@@ -504,26 +504,26 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-013",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-013",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "explain",
-    "skill": "emotional_intellectual",
-    "question": "Which explanation connects the feature in “What does the text make readers feel, imagine or reconsider” to its effect most clearly?",
-    "audio_prompt": "Which explanation connects the feature in “What does the text make readers feel, imagine or reconsider” to its effect most clearly?",
+    "skill": "formal_application",
+    "question": "Which explanation connects the feature in “explicit purpose, conventional greeting, precise register” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “explicit purpose, conventional greeting, precise register” to its effect most clearly?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Professional role",
         "is_correct": true
       },
       {
-        "text": "It is effective simply because it contains the words “What does the”.",
+        "text": "It is effective simply because it contains the words “explicit purpose, conventional”.",
         "is_correct": false
       },
       {
@@ -537,7 +537,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong explanation identifies the feature and then explains its effect in context. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Professional role",
       "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
     "difficulty": 2,
@@ -546,26 +546,26 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-014",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-014",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "explain",
-    "skill": "social_representation",
-    "question": "What should a careful reader notice about “Whose lives and values are made visible or contested”?",
-    "audio_prompt": "What should a careful reader notice about “Whose lives and values are made visible or contested”?",
+    "skill": "online_community",
+    "question": "What should a careful reader notice about “platform conventions, tags, abbreviations”?",
+    "audio_prompt": "What should a careful reader notice about “platform conventions, tags, abbreviations”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is effective simply because it contains the words “Whose lives and”.",
+        "text": "It is effective simply because it contains the words “platform conventions, tags,”.",
         "is_correct": false
       },
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Digital group identity",
         "is_correct": true
       },
       {
@@ -579,7 +579,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A strong explanation identifies the feature and then explains its effect in context. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Digital group identity",
       "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
     "difficulty": 2,
@@ -588,22 +588,22 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-015",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-015",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "explain",
-    "skill": "historical_cultural",
-    "question": "How does the example “What perspective or memory does the text preserve” contribute to meaning?",
-    "audio_prompt": "How does the example “What perspective or memory does the text preserve” contribute to meaning?",
+    "skill": "we_need_to_decide_together",
+    "question": "How does the example “inclusive authority” contribute to meaning?",
+    "audio_prompt": "How does the example “inclusive authority” contribute to meaning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is effective simply because it contains the words “What perspective or”.",
+        "text": "It is effective simply because it contains the words “inclusive authority”.",
         "is_correct": false
       },
       {
@@ -611,7 +611,7 @@
         "is_correct": false
       },
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
         "is_correct": true
       },
       {
@@ -621,7 +621,7 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A strong explanation identifies the feature and then explains its effect in context. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
       "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
     "difficulty": 2,
@@ -630,22 +630,22 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-016",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-016",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "explain",
-    "skill": "ethical_challenge",
-    "question": "Why does “Which assumptions or consequences are examined” illustrate ethical challenge?",
-    "audio_prompt": "Why does “Which assumptions or consequences are examined” illustrate ethical challenge?",
+    "skill": "people_like_you_never_understand",
+    "question": "Why does “exclusion and stereotyping” illustrate People like you never understand?",
+    "audio_prompt": "Why does “exclusion and stereotyping” illustrate People like you never understand?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is effective simply because it contains the words “Which assumptions or”.",
+        "text": "It is effective simply because it contains the words “exclusion and stereotyping”.",
         "is_correct": false
       },
       {
@@ -657,13 +657,13 @@
         "is_correct": false
       },
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A strong explanation identifies the feature and then explains its effect in context. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
       "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
     "difficulty": 2,
@@ -672,26 +672,26 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-017",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-017",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "explain",
-    "skill": "access_relevance",
-    "question": "What is the best explanation of how “For whom is the text meaningful, difficult or excluded” works?",
-    "audio_prompt": "What is the best explanation of how “For whom is the text meaningful, difficult or excluded” works?",
+    "skill": "as_chair_i_will_summarise_the_evidence",
+    "question": "What is the best explanation of how “institutional role” works?",
+    "audio_prompt": "What is the best explanation of how “institutional role” works?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
         "is_correct": true
       },
       {
-        "text": "It is effective simply because it contains the words “For whom is”.",
+        "text": "It is effective simply because it contains the words “institutional role”.",
         "is_correct": false
       },
       {
@@ -705,7 +705,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong explanation identifies the feature and then explains its effect in context. Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
       "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
     "difficulty": 2,
@@ -714,26 +714,26 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-018",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-018",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "explain",
-    "skill": "claim",
-    "question": "Which explanation connects the feature in “The poem has social and aesthetic value” to its effect most clearly?",
-    "audio_prompt": "Which explanation connects the feature in “The poem has social and aesthetic value” to its effect most clearly?",
+    "skill": "could_you_clarify_that_assumption",
+    "question": "Which explanation connects the feature in “respectful challenge” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “respectful challenge” to its effect most clearly?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is effective simply because it contains the words “The poem has”.",
+        "text": "It is effective simply because it contains the words “respectful challenge”.",
         "is_correct": false
       },
       {
-        "text": "Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+        "text": "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
         "is_correct": true
       },
       {
@@ -747,7 +747,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A strong explanation identifies the feature and then explains its effect in context. Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
       "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
     "difficulty": 2,
@@ -756,22 +756,22 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-019",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-019",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "explain",
-    "skill": "craft",
-    "question": "What should a careful reader notice about “fragmented stanzas and recurring river imagery”?",
-    "audio_prompt": "What should a careful reader notice about “fragmented stanzas and recurring river imagery”?",
+    "skill": "inside_terminology",
+    "question": "What should a careful reader notice about “membership but possible outsider exclusion”?",
+    "audio_prompt": "What should a careful reader notice about “membership but possible outsider exclusion”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is effective simply because it contains the words “fragmented stanzas and”.",
+        "text": "It is effective simply because it contains the words “membership but possible”.",
         "is_correct": false
       },
       {
@@ -779,7 +779,7 @@
         "is_correct": false
       },
       {
-        "text": "Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+        "text": "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
         "is_correct": true
       },
       {
@@ -789,7 +789,7 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A strong explanation identifies the feature and then explains its effect in context. Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
       "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
     "difficulty": 2,
@@ -798,22 +798,22 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-020",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-020",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "explain",
-    "skill": "effect",
-    "question": "How does the example “memory appears interrupted but continuous” contribute to meaning?",
-    "audio_prompt": "How does the example “memory appears interrupted but continuous” contribute to meaning?",
+    "skill": "peer_group",
+    "question": "How does the example “shared references, humour, informal grammar” contribute to meaning?",
+    "audio_prompt": "How does the example “shared references, humour, informal grammar” contribute to meaning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is effective simply because it contains the words “memory appears interrupted”.",
+        "text": "It is effective simply because it contains the words “shared references, humour,”.",
         "is_correct": false
       },
       {
@@ -825,13 +825,13 @@
         "is_correct": false
       },
       {
-        "text": "Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+        "text": "Solidarity and membership",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A strong explanation identifies the feature and then explains its effect in context. Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Solidarity and membership",
       "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
     "difficulty": 2,
@@ -840,40 +840,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-021",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-021",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
     "skill": "discriminate_misconception",
-    "question": "A claim says, “Popularity treated as value proof.” Which response makes the most accurate distinction?",
-    "audio_prompt": "A claim says, “Popularity treated as value proof.” Which response makes the most accurate distinction?",
+    "question": "A claim says, “Formal register treated as universally superior.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Formal register treated as universally superior.” Which response makes the most accurate distinction?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": true
       },
       {
-        "text": "Popularity treated as value proof",
+        "text": "Formal register treated as universally superior",
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": false
       },
       {
-        "text": "Different readers and periods respond differently",
+        "text": "Varieties have conventions and histories",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use craft and social criteria The original statement is too broad, incomplete or inaccurate.",
+      "summary": "Suitability depends on purpose and audience The original statement is too broad, incomplete or inaccurate.",
       "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
     "difficulty": 2,
@@ -882,40 +882,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-022",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-022",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
     "skill": "discriminate_misconception",
-    "question": "What is the main problem with this statement: “Social message replaces literary analysis”?",
-    "audio_prompt": "What is the main problem with this statement: “Social message replaces literary analysis”?",
+    "question": "What is the main problem with this statement: “One expression used to label identity”?",
+    "audio_prompt": "What is the main problem with this statement: “One expression used to label identity”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Social message replaces literary analysis",
+        "text": "One expression used to label identity",
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": true
       },
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": false
       },
       {
-        "text": "Different readers and periods respond differently",
+        "text": "Varieties have conventions and histories",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Examine how form creates meaning The original statement is too broad, incomplete or inaccurate.",
+      "summary": "Interpret patterns cautiously The original statement is too broad, incomplete or inaccurate.",
       "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
     "difficulty": 2,
@@ -924,40 +924,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-023",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-023",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
     "skill": "discriminate_misconception",
-    "question": "Which correction avoids the misconception in “Text declared timeless without audience context”?",
-    "audio_prompt": "Which correction avoids the misconception in “Text declared timeless without audience context”?",
+    "question": "Which correction avoids the misconception in “Language variety described as broken standard English”?",
+    "audio_prompt": "Which correction avoids the misconception in “Language variety described as broken standard English”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Text declared timeless without audience context",
+        "text": "Language variety described as broken standard English",
         "is_correct": false
       },
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": false
       },
       {
-        "text": "Different readers and periods respond differently",
+        "text": "Varieties have conventions and histories",
         "is_correct": true
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Different readers and periods respond differently The original statement is too broad, incomplete or inaccurate.",
+      "summary": "Varieties have conventions and histories The original statement is too broad, incomplete or inaccurate.",
       "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
     "difficulty": 2,
@@ -966,40 +966,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-024",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-024",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
     "skill": "discriminate_misconception",
-    "question": "Two readers disagree about “Representation praised without critical limits.” Which response is better supported?",
-    "audio_prompt": "Two readers disagree about “Representation praised without critical limits.” Which response is better supported?",
+    "question": "Two readers disagree about “Power ignored in interaction.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Power ignored in interaction.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Representation praised without critical limits",
+        "text": "Power ignored in interaction",
         "is_correct": false
       },
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": false
       },
       {
-        "text": "Consider exclusions and stereotypes",
+        "text": "Analyse turn-taking, address and whose viewpoint is privileged",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Consider exclusions and stereotypes The original statement is too broad, incomplete or inaccurate.",
+      "summary": "Analyse turn-taking, address and whose viewpoint is privileged The original statement is too broad, incomplete or inaccurate.",
       "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
     "difficulty": 2,
@@ -1008,40 +1008,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-025",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-025",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
     "skill": "discriminate_misconception",
-    "question": "Which idea should replace “Popularity treated as value proof” so the analysis stays accurate?",
-    "audio_prompt": "Which idea should replace “Popularity treated as value proof” so the analysis stays accurate?",
+    "question": "Which idea should replace “Formal register treated as universally superior” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Formal register treated as universally superior” so the analysis stays accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": true
       },
       {
-        "text": "Popularity treated as value proof",
+        "text": "Formal register treated as universally superior",
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": false
       },
       {
-        "text": "Different readers and periods respond differently",
+        "text": "Varieties have conventions and histories",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use craft and social criteria The original statement is too broad, incomplete or inaccurate.",
+      "summary": "Suitability depends on purpose and audience The original statement is too broad, incomplete or inaccurate.",
       "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
     "difficulty": 2,
@@ -1050,40 +1050,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-026",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-026",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
     "skill": "discriminate_misconception",
-    "question": "A claim says, “Social message replaces literary analysis.” Which response makes the most accurate distinction?",
-    "audio_prompt": "A claim says, “Social message replaces literary analysis.” Which response makes the most accurate distinction?",
+    "question": "A claim says, “One expression used to label identity.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “One expression used to label identity.” Which response makes the most accurate distinction?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Social message replaces literary analysis",
+        "text": "One expression used to label identity",
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": true
       },
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": false
       },
       {
-        "text": "Different readers and periods respond differently",
+        "text": "Varieties have conventions and histories",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Examine how form creates meaning The original statement is too broad, incomplete or inaccurate.",
+      "summary": "Interpret patterns cautiously The original statement is too broad, incomplete or inaccurate.",
       "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
     "difficulty": 2,
@@ -1092,40 +1092,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-027",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-027",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
     "skill": "discriminate_misconception",
-    "question": "What is the main problem with this statement: “Text declared timeless without audience context”?",
-    "audio_prompt": "What is the main problem with this statement: “Text declared timeless without audience context”?",
+    "question": "What is the main problem with this statement: “Language variety described as broken standard English”?",
+    "audio_prompt": "What is the main problem with this statement: “Language variety described as broken standard English”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Text declared timeless without audience context",
+        "text": "Language variety described as broken standard English",
         "is_correct": false
       },
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": false
       },
       {
-        "text": "Different readers and periods respond differently",
+        "text": "Varieties have conventions and histories",
         "is_correct": true
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Different readers and periods respond differently The original statement is too broad, incomplete or inaccurate.",
+      "summary": "Varieties have conventions and histories The original statement is too broad, incomplete or inaccurate.",
       "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
     "difficulty": 2,
@@ -1134,40 +1134,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-028",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-028",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
     "skill": "discriminate_misconception",
-    "question": "Which correction avoids the misconception in “Representation praised without critical limits”?",
-    "audio_prompt": "Which correction avoids the misconception in “Representation praised without critical limits”?",
+    "question": "Which correction avoids the misconception in “Power ignored in interaction”?",
+    "audio_prompt": "Which correction avoids the misconception in “Power ignored in interaction”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Representation praised without critical limits",
+        "text": "Power ignored in interaction",
         "is_correct": false
       },
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": false
       },
       {
-        "text": "Consider exclusions and stereotypes",
+        "text": "Analyse turn-taking, address and whose viewpoint is privileged",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Consider exclusions and stereotypes The original statement is too broad, incomplete or inaccurate.",
+      "summary": "Analyse turn-taking, address and whose viewpoint is privileged The original statement is too broad, incomplete or inaccurate.",
       "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
     "difficulty": 2,
@@ -1176,40 +1176,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-029",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-029",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
     "skill": "discriminate_misconception",
-    "question": "Two readers disagree about “Popularity treated as value proof.” Which response is better supported?",
-    "audio_prompt": "Two readers disagree about “Popularity treated as value proof.” Which response is better supported?",
+    "question": "Two readers disagree about “Formal register treated as universally superior.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Formal register treated as universally superior.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": true
       },
       {
-        "text": "Popularity treated as value proof",
+        "text": "Formal register treated as universally superior",
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": false
       },
       {
-        "text": "Different readers and periods respond differently",
+        "text": "Varieties have conventions and histories",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use craft and social criteria The original statement is too broad, incomplete or inaccurate.",
+      "summary": "Suitability depends on purpose and audience The original statement is too broad, incomplete or inaccurate.",
       "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
     "difficulty": 2,
@@ -1218,40 +1218,40 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-030",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-030",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
     "skill": "discriminate_misconception",
-    "question": "Which idea should replace “Social message replaces literary analysis” so the analysis stays accurate?",
-    "audio_prompt": "Which idea should replace “Social message replaces literary analysis” so the analysis stays accurate?",
+    "question": "Which idea should replace “One expression used to label identity” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “One expression used to label identity” so the analysis stays accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Social message replaces literary analysis",
+        "text": "One expression used to label identity",
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": true
       },
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": false
       },
       {
-        "text": "Different readers and periods respond differently",
+        "text": "Varieties have conventions and histories",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Examine how form creates meaning The original statement is too broad, incomplete or inaccurate.",
+      "summary": "Interpret patterns cautiously The original statement is too broad, incomplete or inaccurate.",
       "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
     "difficulty": 2,
@@ -1260,30 +1260,30 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-031",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-031",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "apply",
-    "skill": "aesthetic_and_social_value_of_literature",
-    "question": "A canteen survey needs a concise example of Aesthetic and Social Value of Literature. Which choice best fits?",
-    "audio_prompt": "A canteen survey needs a concise example of Aesthetic and Social Value of Literature. Which choice best fits?",
+    "skill": "language_identity_and_social_positioning",
+    "question": "A school podcast needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
+    "audio_prompt": "A school podcast needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Popularity treated as value proof",
+        "text": "Formal register treated as universally superior",
         "is_correct": false
       },
       {
-        "text": "Simply name lens without showing it in context.",
+        "text": "Simply name peer group without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Fragmented structure can create aesthetic value while also representing disrupted social memory",
+        "text": "Inclusive we can position speaker and audience as sharing responsibility",
         "is_correct": true
       },
       {
@@ -1293,7 +1293,7 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The strongest choice demonstrates the concept itself: Fragmented structure can create aesthetic value while also representing disrupted social memory",
+      "summary": "The strongest choice demonstrates the concept itself: Inclusive we can position speaker and audience as sharing responsibility",
       "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
     "difficulty": 3,
@@ -1302,22 +1302,22 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-032",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-032",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "apply",
     "skill": "revision",
-    "question": "In a school assembly speech, someone writes, “Social message replaces literary analysis.” Which revision would make the analysis more accurate?",
-    "audio_prompt": "In a school assembly speech, someone writes, “Social message replaces literary analysis.” Which revision would make the analysis more accurate?",
+    "question": "In a local history display, someone writes, “One expression used to label identity.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a local history display, someone writes, “One expression used to label identity.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Social message replaces literary analysis",
+        "text": "One expression used to label identity",
         "is_correct": false
       },
       {
@@ -1329,13 +1329,13 @@
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Examine how form creates meaning The revision fixes the misconception without losing the useful part of the original idea.",
+      "summary": "Interpret patterns cautiously The revision fixes the misconception without losing the useful part of the original idea.",
       "hint": "Prefer qualified, evidence-based wording over an absolute claim."
     },
     "difficulty": 3,
@@ -1344,26 +1344,26 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-033",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-033",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "apply",
-    "skill": "emotional_intellectual",
-    "question": "A media review includes “What does the text make readers feel, imagine or reconsider.” Which analysis is strongest?",
-    "audio_prompt": "A media review includes “What does the text make readers feel, imagine or reconsider.” Which analysis is strongest?",
+    "skill": "formal_application",
+    "question": "A science expo includes “explicit purpose, conventional greeting, precise register.” Which analysis is strongest?",
+    "audio_prompt": "A science expo includes “explicit purpose, conventional greeting, precise register.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Professional role",
         "is_correct": true
       },
       {
-        "text": "It is important only because it is an example of emotional/intellectual.",
+        "text": "It is important only because it is an example of formal application.",
         "is_correct": false
       },
       {
@@ -1377,7 +1377,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The strongest analysis connects the evidence to its function: Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "The strongest analysis connects the evidence to its function: Professional role",
       "hint": "Use a feature → evidence → effect chain."
     },
     "difficulty": 3,
@@ -1386,26 +1386,26 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-034",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-034",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "apply",
-    "skill": "social_significance",
-    "question": "Which interpretation of “connects personal loss with environmental change” would be most useful in a geography field report?",
-    "audio_prompt": "Which interpretation of “connects personal loss with environmental change” would be most useful in a geography field report?",
+    "skill": "could_you_clarify_that_assumption",
+    "question": "Which interpretation of “respectful challenge” would be most useful in a library newsletter?",
+    "audio_prompt": "Which interpretation of “respectful challenge” would be most useful in a library newsletter?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It proves that Social significance always has one fixed effect.",
+        "text": "It proves that Could you clarify that assumption? always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+        "text": "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
         "is_correct": true
       },
       {
@@ -1428,30 +1428,30 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-035",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-035",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "apply",
-    "skill": "social_value",
-    "question": "A school podcast uses the idea “value linked to social ideas, memory, representation or change.” Which term would make the analysis most precise?",
-    "audio_prompt": "A school podcast uses the idea “value linked to social ideas, memory, representation or change.” Which term would make the analysis most precise?",
+    "skill": "identity",
+    "question": "A student council proposal uses the idea “way a person or group is represented and understood.” Which term would make the analysis most precise?",
+    "audio_prompt": "A student council proposal uses the idea “way a person or group is represented and understood.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "aesthetic value",
+        "text": "register",
         "is_correct": false
       },
       {
-        "text": "literary metalanguage",
+        "text": "social positioning",
         "is_correct": false
       },
       {
-        "text": "social value",
+        "text": "identity",
         "is_correct": true
       },
       {
@@ -1461,7 +1461,7 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Social value is the precise term for value linked to social ideas, memory, representation or change.",
+      "summary": "Identity is the precise term for way a person or group is represented and understood.",
       "hint": "Select the term that matches the whole definition and then check it against the context."
     },
     "difficulty": 3,
@@ -1470,26 +1470,26 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-036",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-036",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "apply",
-    "skill": "aesthetic_and_social_value_of_literature",
-    "question": "A local history display needs a concise example of Aesthetic and Social Value of Literature. Which choice best fits?",
-    "audio_prompt": "A local history display needs a concise example of Aesthetic and Social Value of Literature. Which choice best fits?",
+    "skill": "language_identity_and_social_positioning",
+    "question": "A sports club notice needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
+    "audio_prompt": "A sports club notice needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Social message replaces literary analysis",
+        "text": "One expression used to label identity",
         "is_correct": false
       },
       {
-        "text": "Simply name ethical challenge without showing it in context.",
+        "text": "Simply name class debate without showing it in context.",
         "is_correct": false
       },
       {
@@ -1497,13 +1497,13 @@
         "is_correct": false
       },
       {
-        "text": "Fragmented structure can create aesthetic value while also representing disrupted social memory",
+        "text": "Inclusive we can position speaker and audience as sharing responsibility",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The strongest choice demonstrates the concept itself: Fragmented structure can create aesthetic value while also representing disrupted social memory",
+      "summary": "The strongest choice demonstrates the concept itself: Inclusive we can position speaker and audience as sharing responsibility",
       "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
     "difficulty": 3,
@@ -1512,26 +1512,26 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-037",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-037",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "apply",
     "skill": "revision",
-    "question": "In a science expo, someone writes, “Text declared timeless without audience context.” Which revision would make the analysis more accurate?",
-    "audio_prompt": "In a science expo, someone writes, “Text declared timeless without audience context.” Which revision would make the analysis more accurate?",
+    "question": "In a museum exhibit, someone writes, “Language variety described as broken standard English.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a museum exhibit, someone writes, “Language variety described as broken standard English.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Different readers and periods respond differently",
+        "text": "Varieties have conventions and histories",
         "is_correct": true
       },
       {
-        "text": "Text declared timeless without audience context",
+        "text": "Language variety described as broken standard English",
         "is_correct": false
       },
       {
@@ -1545,7 +1545,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Different readers and periods respond differently The revision fixes the misconception without losing the useful part of the original idea.",
+      "summary": "Varieties have conventions and histories The revision fixes the misconception without losing the useful part of the original idea.",
       "hint": "Prefer qualified, evidence-based wording over an absolute claim."
     },
     "difficulty": 3,
@@ -1554,26 +1554,26 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-038",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-038",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "apply",
-    "skill": "lens",
-    "question": "A library newsletter includes “questions.” Which analysis is strongest?",
-    "audio_prompt": "A library newsletter includes “questions.” Which analysis is strongest?",
+    "skill": "online_community",
+    "question": "A community garden report includes “platform conventions, tags, abbreviations.” Which analysis is strongest?",
+    "audio_prompt": "A community garden report includes “platform conventions, tags, abbreviations.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is important only because it is an example of lens.",
+        "text": "It is important only because it is an example of online community.",
         "is_correct": false
       },
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Digital group identity",
         "is_correct": true
       },
       {
@@ -1587,7 +1587,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The strongest analysis connects the evidence to its function: Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "The strongest analysis connects the evidence to its function: Digital group identity",
       "hint": "Use a feature → evidence → effect chain."
     },
     "difficulty": 3,
@@ -1596,22 +1596,22 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-039",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-039",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "apply",
-    "skill": "social_significance",
-    "question": "Which interpretation of “connects personal loss with environmental change” would be most useful in a student council proposal?",
-    "audio_prompt": "Which interpretation of “connects personal loss with environmental change” would be most useful in a student council proposal?",
+    "skill": "could_you_clarify_that_assumption",
+    "question": "Which interpretation of “respectful challenge” would be most useful in a class debate?",
+    "audio_prompt": "Which interpretation of “respectful challenge” would be most useful in a class debate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It proves that Social significance always has one fixed effect.",
+        "text": "It proves that Could you clarify that assumption? always has one fixed effect.",
         "is_correct": false
       },
       {
@@ -1619,7 +1619,7 @@
         "is_correct": false
       },
       {
-        "text": "Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+        "text": "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
         "is_correct": true
       },
       {
@@ -1638,26 +1638,26 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-p-040",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-p-040",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
     "stage": "apply",
-    "skill": "aesthetic_value",
-    "question": "A sports club notice uses the idea “value arising from artistic form and experience.” Which term would make the analysis most precise?",
-    "audio_prompt": "A sports club notice uses the idea “value arising from artistic form and experience.” Which term would make the analysis most precise?",
+    "skill": "register",
+    "question": "A environmental campaign uses the idea “language style associated with context and relationship.” Which term would make the analysis most precise?",
+    "audio_prompt": "A environmental campaign uses the idea “language style associated with context and relationship.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "social value",
+        "text": "identity",
         "is_correct": false
       },
       {
-        "text": "literary metalanguage",
+        "text": "social positioning",
         "is_correct": false
       },
       {
@@ -1665,13 +1665,13 @@
         "is_correct": false
       },
       {
-        "text": "aesthetic value",
+        "text": "register",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Aesthetic value is the precise term for value arising from artistic form and experience.",
+      "summary": "Register is the precise term for language style associated with context and relationship.",
       "hint": "Select the term that matches the whole definition and then check it against the context."
     },
     "difficulty": 3,
@@ -1680,25 +1680,25 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-001",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-001",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "lens",
-    "question": "A emergency-preparedness video includes “questions.” Which analysis is strongest?",
-    "audio_prompt": "A emergency-preparedness video includes “questions.” Which analysis is strongest?",
+    "skill": "online_community",
+    "question": "A youth radio interview includes “platform conventions, tags, abbreviations.” Which analysis is strongest?",
+    "audio_prompt": "A youth radio interview includes “platform conventions, tags, abbreviations.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is important only because it is an example of lens.",
+        "text": "It is important only because it is an example of online community.",
         "is_correct": false
       },
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Digital group identity",
         "is_correct": true
       },
       {
@@ -1712,7 +1712,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The strongest analysis connects the evidence to its function: Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "The strongest analysis connects the evidence to its function: Digital group identity",
       "hint": "Use a feature → evidence → effect chain."
     },
     "difficulty": 3,
@@ -1721,21 +1721,21 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-002",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-002",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "social_significance",
-    "question": "Read the new context carefully. Which interpretation of “connects personal loss with environmental change” would be most useful in a cycling safety infographic?",
-    "audio_prompt": "Read the new context carefully. Which interpretation of “connects personal loss with environmental change” would be most useful in a cycling safety infographic?",
+    "skill": "could_you_clarify_that_assumption",
+    "question": "Read the new context carefully. Which interpretation of “respectful challenge” would be most useful in a coastal restoration article?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “respectful challenge” would be most useful in a coastal restoration article?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It proves that Social significance always has one fixed effect.",
+        "text": "It proves that Could you clarify that assumption? always has one fixed effect.",
         "is_correct": false
       },
       {
@@ -1743,7 +1743,7 @@
         "is_correct": false
       },
       {
-        "text": "Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+        "text": "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
         "is_correct": true
       },
       {
@@ -1762,25 +1762,25 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-003",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-003",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "aesthetic_value",
-    "question": "Which answer is best supported in this new situation? A river-health podcast uses the idea “value arising from artistic form and experience.” Which term would make the analysis most precise?",
-    "audio_prompt": "Which answer is best supported in this new situation? A river-health podcast uses the idea “value arising from artistic form and experience.” Which term would make the analysis most precise?",
+    "skill": "register",
+    "question": "Which answer is best supported in this new situation? A public transport campaign uses the idea “language style associated with context and relationship.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A public transport campaign uses the idea “language style associated with context and relationship.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "social value",
+        "text": "identity",
         "is_correct": false
       },
       {
-        "text": "literary metalanguage",
+        "text": "social positioning",
         "is_correct": false
       },
       {
@@ -1788,13 +1788,13 @@
         "is_correct": false
       },
       {
-        "text": "aesthetic value",
+        "text": "register",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Aesthetic value is the precise term for value arising from artistic form and experience.",
+      "summary": "Register is the precise term for language style associated with context and relationship.",
       "hint": "Select the term that matches the whole definition and then check it against the context."
     },
     "difficulty": 3,
@@ -1803,29 +1803,29 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-004",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-004",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "aesthetic_and_social_value_of_literature",
-    "question": "Use the evidence in this town festival website. A town festival website needs a concise example of Aesthetic and Social Value of Literature. Which choice best fits?",
-    "audio_prompt": "Use the evidence in this town festival website. A town festival website needs a concise example of Aesthetic and Social Value of Literature. Which choice best fits?",
+    "skill": "language_identity_and_social_positioning",
+    "question": "Use the evidence in this regional museum audio guide. A regional museum audio guide needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this regional museum audio guide. A regional museum audio guide needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Fragmented structure can create aesthetic value while also representing disrupted social memory",
+        "text": "Inclusive we can position speaker and audience as sharing responsibility",
         "is_correct": true
       },
       {
-        "text": "Text declared timeless without audience context",
+        "text": "Language variety described as broken standard English",
         "is_correct": false
       },
       {
-        "text": "Simply name social representation without showing it in context.",
+        "text": "Simply name formal application without showing it in context.",
         "is_correct": false
       },
       {
@@ -1835,7 +1835,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The strongest choice demonstrates the concept itself: Fragmented structure can create aesthetic value while also representing disrupted social memory",
+      "summary": "The strongest choice demonstrates the concept itself: Inclusive we can position speaker and audience as sharing responsibility",
       "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
     "difficulty": 3,
@@ -1844,25 +1844,25 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-005",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-005",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
     "skill": "revision",
-    "question": "Choose the most precise analysis for this unfamiliar example. In a youth radio interview, someone writes, “Representation praised without critical limits.” Which revision would make the analysis more accurate?",
-    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a youth radio interview, someone writes, “Representation praised without critical limits.” Which revision would make the analysis more accurate?",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a wildlife rescue webpage, someone writes, “Power ignored in interaction.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a wildlife rescue webpage, someone writes, “Power ignored in interaction.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Representation praised without critical limits",
+        "text": "Power ignored in interaction",
         "is_correct": false
       },
       {
-        "text": "Consider exclusions and stereotypes",
+        "text": "Analyse turn-taking, address and whose viewpoint is privileged",
         "is_correct": true
       },
       {
@@ -1876,7 +1876,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Consider exclusions and stereotypes The revision fixes the misconception without losing the useful part of the original idea.",
+      "summary": "Analyse turn-taking, address and whose viewpoint is privileged The revision fixes the misconception without losing the useful part of the original idea.",
       "hint": "Prefer qualified, evidence-based wording over an absolute claim."
     },
     "difficulty": 3,
@@ -1885,21 +1885,21 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-006",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-006",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "ethical_challenge",
-    "question": "Which response would hold up under close reading? A coastal restoration article includes “Which assumptions or consequences are examined.” Which analysis is strongest?",
-    "audio_prompt": "Which response would hold up under close reading? A coastal restoration article includes “Which assumptions or consequences are examined.” Which analysis is strongest?",
+    "skill": "peer_group",
+    "question": "Which response would hold up under close reading? A local council consultation includes “shared references, humour, informal grammar.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A local council consultation includes “shared references, humour, informal grammar.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is important only because it is an example of ethical challenge.",
+        "text": "It is important only because it is an example of peer group.",
         "is_correct": false
       },
       {
@@ -1907,7 +1907,7 @@
         "is_correct": false
       },
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Solidarity and membership",
         "is_correct": true
       },
       {
@@ -1917,7 +1917,7 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The strongest analysis connects the evidence to its function: Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "The strongest analysis connects the evidence to its function: Solidarity and membership",
       "hint": "Use a feature → evidence → effect chain."
     },
     "difficulty": 3,
@@ -1926,21 +1926,21 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-007",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-007",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "social_significance",
-    "question": "What is the strongest conclusion from the wording given? Which interpretation of “connects personal loss with environmental change” would be most useful in a public transport campaign?",
-    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “connects personal loss with environmental change” would be most useful in a public transport campaign?",
+    "skill": "could_you_clarify_that_assumption",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “respectful challenge” would be most useful in a heritage trail brochure?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “respectful challenge” would be most useful in a heritage trail brochure?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It proves that Social significance always has one fixed effect.",
+        "text": "It proves that Could you clarify that assumption? always has one fixed effect.",
         "is_correct": false
       },
       {
@@ -1952,7 +1952,7 @@
         "is_correct": false
       },
       {
-        "text": "Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+        "text": "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
         "is_correct": true
       }
     ],
@@ -1967,29 +1967,29 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-008",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-008",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "literary_metalanguage",
-    "question": "Which choice uses the concept without overgeneralising? A regional museum audio guide uses the idea “specialised vocabulary used to analyse literature.” Which term would make the analysis most precise?",
-    "audio_prompt": "Which choice uses the concept without overgeneralising? A regional museum audio guide uses the idea “specialised vocabulary used to analyse literature.” Which term would make the analysis most precise?",
+    "skill": "social_positioning",
+    "question": "Which choice uses the concept without overgeneralising? A community theatre review uses the idea “way language locates participants in relations of belonging, authority or distance.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A community theatre review uses the idea “way language locates participants in relations of belonging, authority or distance.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "literary metalanguage",
+        "text": "social positioning",
         "is_correct": true
       },
       {
-        "text": "aesthetic value",
+        "text": "register",
         "is_correct": false
       },
       {
-        "text": "social value",
+        "text": "identity",
         "is_correct": false
       },
       {
@@ -1999,7 +1999,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Literary metalanguage is the precise term for specialised vocabulary used to analyse literature.",
+      "summary": "Social positioning is the precise term for way language locates participants in relations of belonging, authority or distance.",
       "hint": "Select the term that matches the whole definition and then check it against the context."
     },
     "difficulty": 3,
@@ -2008,29 +2008,29 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-009",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-009",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "aesthetic_and_social_value_of_literature",
-    "question": "A wildlife rescue webpage needs a concise example of Aesthetic and Social Value of Literature. Which choice best fits?",
-    "audio_prompt": "A wildlife rescue webpage needs a concise example of Aesthetic and Social Value of Literature. Which choice best fits?",
+    "skill": "language_identity_and_social_positioning",
+    "question": "A water-quality report needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
+    "audio_prompt": "A water-quality report needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Representation praised without critical limits",
+        "text": "Power ignored in interaction",
         "is_correct": false
       },
       {
-        "text": "Fragmented structure can create aesthetic value while also representing disrupted social memory",
+        "text": "Inclusive we can position speaker and audience as sharing responsibility",
         "is_correct": true
       },
       {
-        "text": "Simply name aesthetic craft without showing it in context.",
+        "text": "Simply name online community without showing it in context.",
         "is_correct": false
       },
       {
@@ -2040,7 +2040,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The strongest choice demonstrates the concept itself: Fragmented structure can create aesthetic value while also representing disrupted social memory",
+      "summary": "The strongest choice demonstrates the concept itself: Inclusive we can position speaker and audience as sharing responsibility",
       "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
     "difficulty": 3,
@@ -2049,21 +2049,21 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-010",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-010",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
     "skill": "revision",
-    "question": "Read the new context carefully. In a local council consultation, someone writes, “Popularity treated as value proof.” Which revision would make the analysis more accurate?",
-    "audio_prompt": "Read the new context carefully. In a local council consultation, someone writes, “Popularity treated as value proof.” Which revision would make the analysis more accurate?",
+    "question": "Read the new context carefully. In a regional sports commentary, someone writes, “Formal register treated as universally superior.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a regional sports commentary, someone writes, “Formal register treated as universally superior.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Popularity treated as value proof",
+        "text": "Formal register treated as universally superior",
         "is_correct": false
       },
       {
@@ -2071,7 +2071,7 @@
         "is_correct": false
       },
       {
-        "text": "Use craft and social criteria",
+        "text": "Suitability depends on purpose and audience",
         "is_correct": true
       },
       {
@@ -2081,7 +2081,7 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use craft and social criteria The revision fixes the misconception without losing the useful part of the original idea.",
+      "summary": "Suitability depends on purpose and audience The revision fixes the misconception without losing the useful part of the original idea.",
       "hint": "Prefer qualified, evidence-based wording over an absolute claim."
     },
     "difficulty": 3,
@@ -2090,21 +2090,21 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-011",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-011",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "social_representation",
-    "question": "Which answer is best supported in this new situation? A heritage trail brochure includes “Whose lives and values are made visible or contested.” Which analysis is strongest?",
-    "audio_prompt": "Which answer is best supported in this new situation? A heritage trail brochure includes “Whose lives and values are made visible or contested.” Which analysis is strongest?",
+    "skill": "class_debate",
+    "question": "Which answer is best supported in this new situation? A astronomy exhibition includes “evidence, turn-taking, qualified disagreement.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A astronomy exhibition includes “evidence, turn-taking, qualified disagreement.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is important only because it is an example of social representation.",
+        "text": "It is important only because it is an example of class debate.",
         "is_correct": false
       },
       {
@@ -2116,13 +2116,13 @@
         "is_correct": false
       },
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Informed participant",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The strongest analysis connects the evidence to its function: Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "The strongest analysis connects the evidence to its function: Informed participant",
       "hint": "Use a feature → evidence → effect chain."
     },
     "difficulty": 3,
@@ -2131,25 +2131,25 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-012",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-012",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "social_significance",
-    "question": "Use the evidence in this community theatre review. Which interpretation of “connects personal loss with environmental change” would be most useful in a community theatre review?",
-    "audio_prompt": "Use the evidence in this community theatre review. Which interpretation of “connects personal loss with environmental change” would be most useful in a community theatre review?",
+    "skill": "could_you_clarify_that_assumption",
+    "question": "Use the evidence in this farmers market profile. Which interpretation of “respectful challenge” would be most useful in a farmers market profile?",
+    "audio_prompt": "Use the evidence in this farmers market profile. Which interpretation of “respectful challenge” would be most useful in a farmers market profile?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Avoid claiming that one text speaks for every member of a culture. Attribute the author's particular representation and context",
+        "text": "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
         "is_correct": true
       },
       {
-        "text": "It proves that Social significance always has one fixed effect.",
+        "text": "It proves that Could you clarify that assumption? always has one fixed effect.",
         "is_correct": false
       },
       {
@@ -2172,29 +2172,29 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-013",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-013",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "social_value",
-    "question": "Choose the most precise analysis for this unfamiliar example. A water-quality report uses the idea “value linked to social ideas, memory, representation or change.” Which term would make the analysis most precise?",
-    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A water-quality report uses the idea “value linked to social ideas, memory, representation or change.” Which term would make the analysis most precise?",
+    "skill": "identity",
+    "question": "Choose the most precise analysis for this unfamiliar example. A emergency-preparedness video uses the idea “way a person or group is represented and understood.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A emergency-preparedness video uses the idea “way a person or group is represented and understood.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "aesthetic value",
+        "text": "register",
         "is_correct": false
       },
       {
-        "text": "social value",
+        "text": "identity",
         "is_correct": true
       },
       {
-        "text": "literary metalanguage",
+        "text": "social positioning",
         "is_correct": false
       },
       {
@@ -2204,7 +2204,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Social value is the precise term for value linked to social ideas, memory, representation or change.",
+      "summary": "Identity is the precise term for way a person or group is represented and understood.",
       "hint": "Select the term that matches the whole definition and then check it against the context."
     },
     "difficulty": 3,
@@ -2213,29 +2213,29 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-014",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-014",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "aesthetic_and_social_value_of_literature",
-    "question": "Which response would hold up under close reading? A regional sports commentary needs a concise example of Aesthetic and Social Value of Literature. Which choice best fits?",
-    "audio_prompt": "Which response would hold up under close reading? A regional sports commentary needs a concise example of Aesthetic and Social Value of Literature. Which choice best fits?",
+    "skill": "language_identity_and_social_positioning",
+    "question": "Which response would hold up under close reading? A cycling safety infographic needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A cycling safety infographic needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Popularity treated as value proof",
+        "text": "Formal register treated as universally superior",
         "is_correct": false
       },
       {
-        "text": "Simply name access/relevance without showing it in context.",
+        "text": "Simply name peer group without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Fragmented structure can create aesthetic value while also representing disrupted social memory",
+        "text": "Inclusive we can position speaker and audience as sharing responsibility",
         "is_correct": true
       },
       {
@@ -2245,7 +2245,7 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The strongest choice demonstrates the concept itself: Fragmented structure can create aesthetic value while also representing disrupted social memory",
+      "summary": "The strongest choice demonstrates the concept itself: Inclusive we can position speaker and audience as sharing responsibility",
       "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
     "difficulty": 3,
@@ -2254,21 +2254,21 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-015",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-015",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
     "skill": "revision",
-    "question": "What is the strongest conclusion from the wording given? In a astronomy exhibition, someone writes, “Social message replaces literary analysis.” Which revision would make the analysis more accurate?",
-    "audio_prompt": "What is the strongest conclusion from the wording given? In a astronomy exhibition, someone writes, “Social message replaces literary analysis.” Which revision would make the analysis more accurate?",
+    "question": "What is the strongest conclusion from the wording given? In a river-health podcast, someone writes, “One expression used to label identity.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a river-health podcast, someone writes, “One expression used to label identity.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Social message replaces literary analysis",
+        "text": "One expression used to label identity",
         "is_correct": false
       },
       {
@@ -2280,13 +2280,13 @@
         "is_correct": false
       },
       {
-        "text": "Examine how form creates meaning",
+        "text": "Interpret patterns cautiously",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Examine how form creates meaning The revision fixes the misconception without losing the useful part of the original idea.",
+      "summary": "Interpret patterns cautiously The revision fixes the misconception without losing the useful part of the original idea.",
       "hint": "Prefer qualified, evidence-based wording over an absolute claim."
     },
     "difficulty": 3,
@@ -2295,25 +2295,25 @@
     "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le04-t-016",
-    "curriculum_code": "AC9E7LE04",
+    "id": "ac9e7la01-t-016",
+    "curriculum_code": "AC9E7LA01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "aesthetic_craft",
-    "question": "Which choice uses the concept without overgeneralising? A farmers market profile includes “How do language, form, rhythm, image or structure create experience.” Which analysis is strongest?",
-    "audio_prompt": "Which choice uses the concept without overgeneralising? A farmers market profile includes “How do language, form, rhythm, image or structure create experience.” Which analysis is strongest?",
+    "skill": "formal_application",
+    "question": "Which choice uses the concept without overgeneralising? A town festival website includes “explicit purpose, conventional greeting, precise register.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A town festival website includes “explicit purpose, conventional greeting, precise register.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+        "text": "Professional role",
         "is_correct": true
       },
       {
-        "text": "It is important only because it is an example of aesthetic craft.",
+        "text": "It is important only because it is an example of formal application.",
         "is_correct": false
       },
       {
@@ -2327,7 +2327,7 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The strongest analysis connects the evidence to its function: Value is argued, not inherent or unanimous. A socially significant text may also contain harmful representation requiring critical discussion",
+      "summary": "The strongest analysis connects the evidence to its function: Professional role",
       "hint": "Use a feature → evidence → effect chain."
     },
     "difficulty": 3,

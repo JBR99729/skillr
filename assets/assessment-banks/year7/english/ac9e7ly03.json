@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_modality",
-    "question": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "audience_positioning",
+    "question": "Which term best matches this meaning: “way a text invites readers to think, feel or act”?",
+    "audio_prompt": "Which term best matches this meaning: “way a text invites readers to think, feel or act”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
+        "text": "modality",
+        "is_correct": false
+      },
+      {
+        "text": "rhetorical choice",
+        "is_correct": false
+      },
+      {
+        "text": "audience positioning",
         "is_correct": true
       },
       {
-        "text": "Feature list replaces argument",
-        "is_correct": false
-      },
-      {
-        "text": "Connect evidence to meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Way a text invites readers to think, feel or act",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
-      "hint": "Connect evidence to meaning."
+      "summary": "Audience positioning means way a text invites readers to think, feel or act. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Language Features, Meaning and Audience Positioning."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly03-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_pronouns",
-    "question": "A Year 7 student is working with a text and needs to use trace pronouns. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace pronouns. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "high_modality",
+    "question": "Read this example: “must act now.” Which description fits it best?",
+    "audio_prompt": "Read this example: “must act now.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Audience assumed homogeneous",
+        "text": "inclusive pronoun",
         "is_correct": false
       },
       {
-        "text": "Do not assign automatic effects. Explain how the feature operates with context, evidence and other choices.",
+        "text": "nominalisation",
+        "is_correct": false
+      },
+      {
+        "text": "statistics",
+        "is_correct": false
+      },
+      {
+        "text": "high modality",
         "is_correct": true
-      },
-      {
-        "text": "State intended audience and possible variation",
-        "is_correct": false
-      },
-      {
-        "text": "Way a text invites readers to think, feel or act",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Do not assign automatic effects. Explain how the feature operates with context, evidence and other choices.",
-      "hint": "State intended audience and possible variation."
+      "summary": "The example matches high modality. Reduces space for alternatives",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly03-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_nominalisation",
-    "question": "A Year 7 student is working with a text and needs to use explain nominalisation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain nominalisation. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "peer_discussion",
+    "question": "Which label most accurately describes “shared vocabulary and responsive questions”?",
+    "audio_prompt": "Which label most accurately describes “shared vocabulary and responsive questions”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Emotional language dismissed as automatically invalid",
-        "is_correct": false
-      },
-      {
-        "text": "Evaluate alongside evidence and purpose",
-        "is_correct": false
-      },
-      {
-        "text": "Audience adaptation should not alter data or misrepresent uncertainty.",
+        "text": "peer discussion",
         "is_correct": true
       },
       {
-        "text": "Way a text invites readers to think, feel or act",
+        "text": "public campaign",
+        "is_correct": false
+      },
+      {
+        "text": "policy brief",
+        "is_correct": false
+      },
+      {
+        "text": "younger audience",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Audience adaptation should not alter data or misrepresent uncertainty.",
-      "hint": "Evaluate alongside evidence and purpose."
+      "summary": "“shared vocabulary and responsive questions” is best described as peer discussion.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly03-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_audiences",
-    "question": "A Year 7 student is working with a text and needs to use compare audiences. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare audiences. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "statistics",
+    "question": "Read this example: “72% decline.” Which description fits it best?",
+    "audio_prompt": "Read this example: “72% decline.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Adaptation changes facts",
+        "text": "inclusive pronoun",
         "is_correct": false
       },
       {
-        "text": "Preserve accuracy",
-        "is_correct": false
-      },
-      {
-        "text": "Way a text invites readers to think, feel or act",
-        "is_correct": false
-      },
-      {
-        "text": "Language features work in systems: vocabulary, clause structure, modality, evaluation, reference and visual design position audiences toward ideas and actions.",
+        "text": "statistics",
         "is_correct": true
+      },
+      {
+        "text": "high modality",
+        "is_correct": false
+      },
+      {
+        "text": "nominalisation",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Language features work in systems: vocabulary, clause structure, modality, evaluation, reference and visual design position audiences toward ideas and actions.",
-      "hint": "Preserve accuracy."
+      "summary": "The example matches statistics. Adds quantitative authority",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly03-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "connect_visual_language_modes",
-    "question": "Which statement correctly identifies modality in language features, meaning and audience positioning?",
-    "audio_prompt": "Which statement correctly identifies modality in language features, meaning and audience positioning?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Feature list replaces argument”?",
+    "audio_prompt": "Which response best corrects this claim: “Feature list replaces argument”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
-        "is_correct": true
+        "text": "Audience assumed homogeneous",
+        "is_correct": false
       },
       {
-        "text": "Feature list replaces argument",
+        "text": "Emotional language dismissed as automatically invalid",
         "is_correct": false
       },
       {
         "text": "Connect evidence to meaning",
-        "is_correct": false
+        "is_correct": true
       },
       {
-        "text": "Way a text invites readers to think, feel or act",
+        "text": "Adaptation changes facts",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
-      "hint": "Connect evidence to meaning."
+      "summary": "Connect evidence to meaning This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly03-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_modality",
-    "question": "Which choice best describes rhetorical choice in language features, meaning and audience positioning?",
-    "audio_prompt": "Which choice best describes rhetorical choice in language features, meaning and audience positioning?",
+    "stage": "recognise",
+    "skill": "rhetorical_choice",
+    "question": "Which term best matches this meaning: “deliberate language pattern used to influence response”?",
+    "audio_prompt": "Which term best matches this meaning: “deliberate language pattern used to influence response”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Audience assumed homogeneous",
+        "text": "audience positioning",
         "is_correct": false
       },
       {
-        "text": "Do not assign automatic effects. Explain how the feature operates with context, evidence and other choices.",
+        "text": "modality",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "rhetorical choice",
         "is_correct": true
-      },
-      {
-        "text": "State intended audience and possible variation",
-        "is_correct": false
-      },
-      {
-        "text": "Way a text invites readers to think, feel or act",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Do not assign automatic effects. Explain how the feature operates with context, evidence and other choices.",
-      "hint": "State intended audience and possible variation."
+      "summary": "Rhetorical choice means deliberate language pattern used to influence response. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Language Features, Meaning and Audience Positioning."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly03-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_pronouns",
-    "question": "What does correct use require for audience positioning in language features, meaning and audience positioning?",
-    "audio_prompt": "What does correct use require for audience positioning in language features, meaning and audience positioning?",
+    "stage": "recognise",
+    "skill": "inclusive_pronoun",
+    "question": "Read this example: “we all share responsibility.” Which description fits it best?",
+    "audio_prompt": "Read this example: “we all share responsibility.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Emotional language dismissed as automatically invalid",
-        "is_correct": false
-      },
-      {
-        "text": "Evaluate alongside evidence and purpose",
-        "is_correct": false
-      },
-      {
-        "text": "Audience adaptation should not alter data or misrepresent uncertainty.",
+        "text": "inclusive pronoun",
         "is_correct": true
       },
       {
-        "text": "Way a text invites readers to think, feel or act",
+        "text": "high modality",
+        "is_correct": false
+      },
+      {
+        "text": "nominalisation",
+        "is_correct": false
+      },
+      {
+        "text": "statistics",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Audience adaptation should not alter data or misrepresent uncertainty.",
-      "hint": "Evaluate alongside evidence and purpose."
+      "summary": "The example matches inclusive pronoun. Constructs collective duty",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly03-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_nominalisation",
-    "question": "A Year 7 student is working with a text and needs to use explain nominalisation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain nominalisation. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "younger_audience",
+    "question": "Which label most accurately describes “concrete example and visual support”?",
+    "audio_prompt": "Which label most accurately describes “concrete example and visual support”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "public campaign",
+        "is_correct": false
+      },
+      {
+        "text": "younger audience",
+        "is_correct": true
+      },
+      {
+        "text": "policy brief",
+        "is_correct": false
+      },
+      {
+        "text": "peer discussion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“concrete example and visual support” is best described as younger audience.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-009",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "nominalisation",
+    "question": "Read this example: “the destruction of habitat.” Which description fits it best?",
+    "audio_prompt": "Read this example: “the destruction of habitat.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "inclusive pronoun",
+        "is_correct": false
+      },
+      {
+        "text": "high modality",
+        "is_correct": false
+      },
+      {
+        "text": "nominalisation",
+        "is_correct": true
+      },
+      {
+        "text": "statistics",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The example matches nominalisation. Compresses process; may hide agent",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-010",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Audience assumed homogeneous”?",
+    "audio_prompt": "Which response best corrects this claim: “Audience assumed homogeneous”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feature list replaces argument",
+        "is_correct": false
+      },
+      {
+        "text": "Emotional language dismissed as automatically invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Adaptation changes facts",
+        "is_correct": false
+      },
+      {
+        "text": "State intended audience and possible variation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "State intended audience and possible variation This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-011",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "inclusive_pronoun",
+    "question": "Why does “we all share responsibility” illustrate inclusive pronoun?",
+    "audio_prompt": "Why does “we all share responsibility” illustrate inclusive pronoun?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Constructs collective duty",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “we all share”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Constructs collective duty",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-012",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "high_modality",
+    "question": "What is the best explanation of how “must act now” works?",
+    "audio_prompt": "What is the best explanation of how “must act now” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “must act now”.",
+        "is_correct": false
+      },
+      {
+        "text": "Reduces space for alternatives",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Reduces space for alternatives",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-013",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "nominalisation",
+    "question": "Which explanation connects the feature in “the destruction of habitat” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “the destruction of habitat” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “the destruction of”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Compresses process; may hide agent",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Compresses process; may hide agent",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-014",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "statistics",
+    "question": "What should a careful reader notice about “72% decline”?",
+    "audio_prompt": "What should a careful reader notice about “72% decline”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “72% decline”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Adds quantitative authority",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Adds quantitative authority",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-015",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "salient_image",
+    "question": "How does the example “close-up affected animal” contribute to meaning?",
+    "audio_prompt": "How does the example “close-up affected animal” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Emotional immediacy",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “close-up affected animal”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Emotional immediacy",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-016",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "counterargument",
+    "question": "Why does “some argue…however…” illustrate counterargument?",
+    "audio_prompt": "Why does “some argue…however…” illustrate counterargument?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “some argue…however…”.",
+        "is_correct": false
+      },
+      {
+        "text": "Anticipates resistance",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Anticipates resistance",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-017",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "public_campaign",
+    "question": "What is the best explanation of how “defined terms, salient story and clear call” works?",
+    "audio_prompt": "What is the best explanation of how “defined terms, salient story and clear call” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “defined terms, salient”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience adaptation should not alter data or misrepresent uncertainty",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Audience adaptation should not alter data or misrepresent uncertainty",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-018",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "policy_brief",
+    "question": "Which explanation connects the feature in “options, risk, concise evidence and recommendation” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “options, risk, concise evidence and recommendation” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “options, risk, concise”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience adaptation should not alter data or misrepresent uncertainty",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Audience adaptation should not alter data or misrepresent uncertainty",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-019",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "peer_discussion",
+    "question": "What should a careful reader notice about “shared vocabulary and responsive questions”?",
+    "audio_prompt": "What should a careful reader notice about “shared vocabulary and responsive questions”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience adaptation should not alter data or misrepresent uncertainty",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “shared vocabulary and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Audience adaptation should not alter data or misrepresent uncertainty",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-020",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "younger_audience",
+    "question": "How does the example “concrete example and visual support” contribute to meaning?",
+    "audio_prompt": "How does the example “concrete example and visual support” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “concrete example and”.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience adaptation should not alter data or misrepresent uncertainty",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Audience adaptation should not alter data or misrepresent uncertainty",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-021",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Feature list replaces argument.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Feature list replaces argument.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feature list replaces argument",
+        "is_correct": false
+      },
+      {
+        "text": "State intended audience and possible variation",
+        "is_correct": false
+      },
+      {
+        "text": "Connect evidence to meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Evaluate alongside evidence and purpose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Connect evidence to meaning The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-022",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Audience assumed homogeneous”?",
+    "audio_prompt": "What is the main problem with this statement: “Audience assumed homogeneous”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience assumed homogeneous",
+        "is_correct": false
+      },
+      {
+        "text": "Connect evidence to meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate alongside evidence and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "State intended audience and possible variation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "State intended audience and possible variation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-023",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Emotional language dismissed as automatically invalid”?",
+    "audio_prompt": "Which correction avoids the misconception in “Emotional language dismissed as automatically invalid”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaluate alongside evidence and purpose",
+        "is_correct": true
+      },
+      {
+        "text": "Emotional language dismissed as automatically invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Connect evidence to meaning",
+        "is_correct": false
+      },
+      {
+        "text": "State intended audience and possible variation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluate alongside evidence and purpose The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-024",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Adaptation changes facts.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Adaptation changes facts.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -299,25 +986,698 @@
       },
       {
         "text": "Preserve accuracy",
+        "is_correct": true
+      },
+      {
+        "text": "Connect evidence to meaning",
         "is_correct": false
       },
       {
-        "text": "Way a text invites readers to think, feel or act",
+        "text": "State intended audience and possible variation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Preserve accuracy The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-025",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Feature list replaces argument” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Feature list replaces argument” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feature list replaces argument",
         "is_correct": false
       },
       {
-        "text": "Language features work in systems: vocabulary, clause structure, modality, evaluation, reference and visual design position audiences toward ideas and actions.",
+        "text": "State intended audience and possible variation",
+        "is_correct": false
+      },
+      {
+        "text": "Connect evidence to meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Evaluate alongside evidence and purpose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Connect evidence to meaning The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-026",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Audience assumed homogeneous.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Audience assumed homogeneous.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience assumed homogeneous",
+        "is_correct": false
+      },
+      {
+        "text": "Connect evidence to meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate alongside evidence and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "State intended audience and possible variation",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Language features work in systems: vocabulary, clause structure, modality, evaluation, reference and visual design position audiences toward ideas and actions.",
-      "hint": "Preserve accuracy."
+      "summary": "State intended audience and possible variation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-027",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Emotional language dismissed as automatically invalid”?",
+    "audio_prompt": "What is the main problem with this statement: “Emotional language dismissed as automatically invalid”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaluate alongside evidence and purpose",
+        "is_correct": true
+      },
+      {
+        "text": "Emotional language dismissed as automatically invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Connect evidence to meaning",
+        "is_correct": false
+      },
+      {
+        "text": "State intended audience and possible variation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evaluate alongside evidence and purpose The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-028",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Adaptation changes facts”?",
+    "audio_prompt": "Which correction avoids the misconception in “Adaptation changes facts”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Adaptation changes facts",
+        "is_correct": false
+      },
+      {
+        "text": "Preserve accuracy",
+        "is_correct": true
+      },
+      {
+        "text": "Connect evidence to meaning",
+        "is_correct": false
+      },
+      {
+        "text": "State intended audience and possible variation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Preserve accuracy The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-029",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Feature list replaces argument.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Feature list replaces argument.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Feature list replaces argument",
+        "is_correct": false
+      },
+      {
+        "text": "State intended audience and possible variation",
+        "is_correct": false
+      },
+      {
+        "text": "Connect evidence to meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Evaluate alongside evidence and purpose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Connect evidence to meaning The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-030",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Audience assumed homogeneous” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Audience assumed homogeneous” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience assumed homogeneous",
+        "is_correct": false
+      },
+      {
+        "text": "Connect evidence to meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate alongside evidence and purpose",
+        "is_correct": false
+      },
+      {
+        "text": "State intended audience and possible variation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "State intended audience and possible variation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-031",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language_features_meaning_and_audience_positioning",
+    "question": "A peer feedback session needs a concise example of Language Features, Meaning and Audience Positioning. Which choice best fits?",
+    "audio_prompt": "A peer feedback session needs a concise example of Language Features, Meaning and Audience Positioning. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
+        "is_correct": true
+      },
+      {
+        "text": "Feature list replaces argument",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name inclusive pronoun without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-032",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a technology showcase, someone writes, “Audience assumed homogeneous.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a technology showcase, someone writes, “Audience assumed homogeneous.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience assumed homogeneous",
+        "is_correct": false
+      },
+      {
+        "text": "State intended audience and possible variation",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "State intended audience and possible variation The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-033",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "nominalisation",
+    "question": "A canteen survey includes “the destruction of habitat.” Which analysis is strongest?",
+    "audio_prompt": "A canteen survey includes “the destruction of habitat.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of nominalisation.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Compresses process; may hide agent",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Compresses process; may hide agent",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-034",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "younger_audience",
+    "question": "Which interpretation of “concrete example and visual support” would be most useful in a school assembly speech?",
+    "audio_prompt": "Which interpretation of “concrete example and visual support” would be most useful in a school assembly speech?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that younger audience always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience adaptation should not alter data or misrepresent uncertainty",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-035",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "modality",
+    "question": "A media review uses the idea “degree of certainty, obligation or possibility.” Which term would make the analysis most precise?",
+    "audio_prompt": "A media review uses the idea “degree of certainty, obligation or possibility.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "modality",
+        "is_correct": true
+      },
+      {
+        "text": "audience positioning",
+        "is_correct": false
+      },
+      {
+        "text": "rhetorical choice",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Modality is the precise term for degree of certainty, obligation or possibility.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-036",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language_features_meaning_and_audience_positioning",
+    "question": "A geography field report needs a concise example of Language Features, Meaning and Audience Positioning. Which choice best fits?",
+    "audio_prompt": "A geography field report needs a concise example of Language Features, Meaning and Audience Positioning. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience assumed homogeneous",
+        "is_correct": false
+      },
+      {
+        "text": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name counterargument without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-037",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a school podcast, someone writes, “Emotional language dismissed as automatically invalid.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a school podcast, someone writes, “Emotional language dismissed as automatically invalid.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Emotional language dismissed as automatically invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluate alongside evidence and purpose",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Evaluate alongside evidence and purpose The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-038",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "high_modality",
+    "question": "A local history display includes “must act now.” Which analysis is strongest?",
+    "audio_prompt": "A local history display includes “must act now.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of high modality.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Reduces space for alternatives",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Reduces space for alternatives",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-039",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "public_campaign",
+    "question": "Which interpretation of “defined terms, salient story and clear call” would be most useful in a science expo?",
+    "audio_prompt": "Which interpretation of “defined terms, salient story and clear call” would be most useful in a science expo?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Audience adaptation should not alter data or misrepresent uncertainty",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that public campaign always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-p-040",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "audience_positioning",
+    "question": "A library newsletter uses the idea “way a text invites readers to think, feel or act.” Which term would make the analysis most precise?",
+    "audio_prompt": "A library newsletter uses the idea “way a text invites readers to think, feel or act.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "modality",
+        "is_correct": false
+      },
+      {
+        "text": "audience positioning",
+        "is_correct": true
+      },
+      {
+        "text": "rhetorical choice",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Audience positioning is the precise term for way a text invites readers to think, feel or act.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly03-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "compare_audiences",
-    "question": "A Year 7 student is working with a text and needs to use compare audiences. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare audiences. Which option best demonstrates the skill?",
+    "skill": "high_modality",
+    "question": "A astronomy exhibition includes “must act now.” Which analysis is strongest?",
+    "audio_prompt": "A astronomy exhibition includes “must act now.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
+        "text": "It is important only because it is an example of high modality.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Reduces space for alternatives",
         "is_correct": true
-      },
-      {
-        "text": "Feature list replaces argument",
-        "is_correct": false
-      },
-      {
-        "text": "Connect evidence to meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Way a text invites readers to think, feel or act",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
-      "hint": "Connect evidence to meaning."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Reduces space for alternatives",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly03-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "connect_visual_language_modes",
-    "question": "A Year 7 student is working with a text and needs to use connect visual language modes. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use connect visual language modes. Which option best demonstrates the skill?",
+    "skill": "public_campaign",
+    "question": "Read the new context carefully. Which interpretation of “defined terms, salient story and clear call” would be most useful in a farmers market profile?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “defined terms, salient story and clear call” would be most useful in a farmers market profile?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Audience assumed homogeneous",
-        "is_correct": false
-      },
-      {
-        "text": "Do not assign automatic effects. Explain how the feature operates with context, evidence and other choices.",
+        "text": "Audience adaptation should not alter data or misrepresent uncertainty",
         "is_correct": true
       },
       {
-        "text": "State intended audience and possible variation",
+        "text": "It proves that public campaign always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Way a text invites readers to think, feel or act",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Do not assign automatic effects. Explain how the feature operates with context, evidence and other choices.",
-      "hint": "State intended audience and possible variation."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly03-t-003",
@@ -399,9 +1767,50 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "analyse_modality",
-    "question": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
+    "skill": "audience_positioning",
+    "question": "Which answer is best supported in this new situation? A emergency-preparedness video uses the idea “way a text invites readers to think, feel or act.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A emergency-preparedness video uses the idea “way a text invites readers to think, feel or act.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "modality",
+        "is_correct": false
+      },
+      {
+        "text": "audience positioning",
+        "is_correct": true
+      },
+      {
+        "text": "rhetorical choice",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Audience positioning is the precise term for way a text invites readers to think, feel or act.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-t-004",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language_features_meaning_and_audience_positioning",
+    "question": "Use the evidence in this cycling safety infographic. A cycling safety infographic needs a concise example of Language Features, Meaning and Audience Positioning. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this cycling safety infographic. A cycling safety infographic needs a concise example of Language Features, Meaning and Audience Positioning. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -412,33 +1821,37 @@
         "is_correct": false
       },
       {
-        "text": "Evaluate alongside evidence and purpose",
+        "text": "Simply name salient image without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Audience adaptation should not alter data or misrepresent uncertainty.",
+        "text": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
         "is_correct": true
       },
       {
-        "text": "Way a text invites readers to think, feel or act",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Audience adaptation should not alter data or misrepresent uncertainty.",
-      "hint": "Evaluate alongside evidence and purpose."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly03-t-004",
+    "id": "ac9e7ly03-t-005",
     "curriculum_code": "AC9E7LY03",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "trace_pronouns",
-    "question": "A Year 7 student is working with a text and needs to use trace pronouns. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace pronouns. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a river-health podcast, someone writes, “Adaptation changes facts.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a river-health podcast, someone writes, “Adaptation changes facts.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -449,33 +1862,365 @@
         "is_correct": false
       },
       {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
         "text": "Preserve accuracy",
-        "is_correct": false
-      },
-      {
-        "text": "Way a text invites readers to think, feel or act",
-        "is_correct": false
-      },
-      {
-        "text": "Language features work in systems: vocabulary, clause structure, modality, evaluation, reference and visual design position audiences toward ideas and actions.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Language features work in systems: vocabulary, clause structure, modality, evaluation, reference and visual design position audiences toward ideas and actions.",
-      "hint": "Preserve accuracy."
-    }
+      "summary": "Preserve accuracy The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly03-t-005",
+    "id": "ac9e7ly03-t-006",
     "curriculum_code": "AC9E7LY03",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "explain_nominalisation",
-    "question": "What should be checked when applying explain nominalisation in language features, meaning and audience positioning?",
-    "audio_prompt": "What should be checked when applying explain nominalisation in language features, meaning and audience positioning?",
+    "skill": "inclusive_pronoun",
+    "question": "Which response would hold up under close reading? A town festival website includes “we all share responsibility.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A town festival website includes “we all share responsibility.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Constructs collective duty",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of inclusive pronoun.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Constructs collective duty",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-t-007",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "policy_brief",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “options, risk, concise evidence and recommendation” would be most useful in a youth radio interview?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “options, risk, concise evidence and recommendation” would be most useful in a youth radio interview?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that policy brief always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience adaptation should not alter data or misrepresent uncertainty",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-t-008",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "rhetorical_choice",
+    "question": "Which choice uses the concept without overgeneralising? A coastal restoration article uses the idea “deliberate language pattern used to influence response.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A coastal restoration article uses the idea “deliberate language pattern used to influence response.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "audience positioning",
+        "is_correct": false
+      },
+      {
+        "text": "modality",
+        "is_correct": false
+      },
+      {
+        "text": "rhetorical choice",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rhetorical choice is the precise term for deliberate language pattern used to influence response.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-t-009",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language_features_meaning_and_audience_positioning",
+    "question": "A public transport campaign needs a concise example of Language Features, Meaning and Audience Positioning. Which choice best fits?",
+    "audio_prompt": "A public transport campaign needs a concise example of Language Features, Meaning and Audience Positioning. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Adaptation changes facts",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name statistics without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-t-010",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a regional museum audio guide, someone writes, “Feature list replaces argument.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a regional museum audio guide, someone writes, “Feature list replaces argument.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Connect evidence to meaning",
+        "is_correct": true
+      },
+      {
+        "text": "Feature list replaces argument",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Connect evidence to meaning The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-t-011",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "counterargument",
+    "question": "Which answer is best supported in this new situation? A wildlife rescue webpage includes “some argue…however….” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A wildlife rescue webpage includes “some argue…however….” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of counterargument.",
+        "is_correct": false
+      },
+      {
+        "text": "Anticipates resistance",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Anticipates resistance",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-t-012",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "peer_discussion",
+    "question": "Use the evidence in this local council consultation. Which interpretation of “shared vocabulary and responsive questions” would be most useful in a local council consultation?",
+    "audio_prompt": "Use the evidence in this local council consultation. Which interpretation of “shared vocabulary and responsive questions” would be most useful in a local council consultation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that peer discussion always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience adaptation should not alter data or misrepresent uncertainty",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-t-013",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "modality",
+    "question": "Choose the most precise analysis for this unfamiliar example. A heritage trail brochure uses the idea “degree of certainty, obligation or possibility.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A heritage trail brochure uses the idea “degree of certainty, obligation or possibility.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "audience positioning",
+        "is_correct": false
+      },
+      {
+        "text": "rhetorical choice",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "modality",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Modality is the precise term for degree of certainty, obligation or possibility.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly03-t-014",
+    "curriculum_code": "AC9E7LY03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language_features_meaning_and_audience_positioning",
+    "question": "Which response would hold up under close reading? A community theatre review needs a concise example of Language Features, Meaning and Audience Positioning. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A community theatre review needs a concise example of Language Features, Meaning and Audience Positioning. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -490,29 +2235,33 @@
         "is_correct": false
       },
       {
-        "text": "Connect evidence to meaning",
+        "text": "Simply name nominalisation without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Way a text invites readers to think, feel or act",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
-      "hint": "Connect evidence to meaning."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: Must positions the recommendation as obligatory, but credibility depends on the evidence supporting that force",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly03-t-006",
+    "id": "ac9e7ly03-t-015",
     "curriculum_code": "AC9E7LY03",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "compare_audiences",
-    "question": "Which response best uses compare audiences in language features, meaning and audience positioning?",
-    "audio_prompt": "Which response best uses compare audiences in language features, meaning and audience positioning?",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a water-quality report, someone writes, “Audience assumed homogeneous.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a water-quality report, someone writes, “Audience assumed homogeneous.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -523,96 +2272,67 @@
         "is_correct": false
       },
       {
-        "text": "Do not assign automatic effects. Explain how the feature operates with context, evidence and other choices.",
+        "text": "State intended audience and possible variation",
         "is_correct": true
       },
       {
-        "text": "State intended audience and possible variation",
+        "text": "Keep the claim but add “always” to make it sound certain.",
         "is_correct": false
       },
       {
-        "text": "Way a text invites readers to think, feel or act",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Do not assign automatic effects. Explain how the feature operates with context, evidence and other choices.",
-      "hint": "State intended audience and possible variation."
-    }
+      "summary": "State intended audience and possible variation The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly03-t-007",
+    "id": "ac9e7ly03-t-016",
     "curriculum_code": "AC9E7LY03",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "connect_visual_language_modes",
-    "question": "A Year 7 student is working with a text and needs to use connect visual language modes. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use connect visual language modes. Which option best demonstrates the skill?",
+    "skill": "salient_image",
+    "question": "Which choice uses the concept without overgeneralising? A regional sports commentary includes “close-up affected animal.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A regional sports commentary includes “close-up affected animal.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Emotional language dismissed as automatically invalid",
+        "text": "It is important only because it is an example of salient image.",
         "is_correct": false
       },
       {
-        "text": "Evaluate alongside evidence and purpose",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Audience adaptation should not alter data or misrepresent uncertainty.",
+        "text": "Emotional immediacy",
         "is_correct": true
       },
       {
-        "text": "Way a text invites readers to think, feel or act",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Audience adaptation should not alter data or misrepresent uncertainty.",
-      "hint": "Evaluate alongside evidence and purpose."
-    }
-  },
-  {
-    "id": "ac9e7ly03-t-008",
-    "curriculum_code": "AC9E7LY03",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "analyse_modality",
-    "question": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse modality. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "The strongest analysis connects the evidence to its function: Emotional immediacy",
+      "hint": "Use a feature → evidence → effect chain."
     },
-    "answers": [
-      {
-        "text": "Adaptation changes facts",
-        "is_correct": false
-      },
-      {
-        "text": "Preserve accuracy",
-        "is_correct": false
-      },
-      {
-        "text": "Way a text invites readers to think, feel or act",
-        "is_correct": false
-      },
-      {
-        "text": "Language features work in systems: vocabulary, clause structure, modality, evaluation, reference and visual design position audiences toward ideas and actions.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Language features work in systems: vocabulary, clause structure, modality, evaluation, reference and visual design position audiences toward ideas and actions.",
-      "hint": "Preserve accuracy."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

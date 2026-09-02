@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_metaphor",
-    "question": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "literary_device",
+    "question": "Which term best matches this meaning: “deliberate technique shaping meaning or effect”?",
+    "audio_prompt": "Which term best matches this meaning: “deliberate technique shaping meaning or effect”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
+        "text": "motif",
+        "is_correct": false
+      },
+      {
+        "text": "irony",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "literary device",
         "is_correct": true
-      },
-      {
-        "text": "Technique name treated as analysis",
-        "is_correct": false
-      },
-      {
-        "text": "Explain evidence, effect and significance",
-        "is_correct": false
-      },
-      {
-        "text": "Deliberate technique shaping meaning or effect",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
-      "hint": "Explain evidence, effect and significance."
+      "summary": "Literary device means deliberate technique shaping meaning or effect. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Literary Devices, Language and Meaning."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_motif",
-    "question": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "repetition",
+    "question": "Read this example: “still here, still waiting.” Which description fits it best?",
+    "audio_prompt": "Read this example: “still here, still waiting.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "One quotation used for whole-text claim",
-        "is_correct": false
-      },
-      {
-        "text": "A device does not carry one universal effect. Explain why the pattern matters at this point and how it develops across the text.",
+        "text": "repetition",
         "is_correct": true
       },
       {
-        "text": "Trace pattern or qualify",
+        "text": "metaphor",
         "is_correct": false
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
+        "text": "irony",
+        "is_correct": false
+      },
+      {
+        "text": "symbol",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A device does not carry one universal effect. Explain why the pattern matters at this point and how it develops across the text.",
-      "hint": "Trace pattern or qualify."
+      "summary": "The example matches repetition. Persistence or stagnation",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_irony",
-    "question": "A Year 7 student is working with a text and needs to use explain irony. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain irony. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "dramatic_irony",
+    "question": "Which label most accurately describes “reader knows what character does not”?",
+    "audio_prompt": "Which label most accurately describes “reader knows what character does not”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Sound discussed without performance",
+        "text": "isolated simile",
         "is_correct": false
       },
       {
-        "text": "Consider stress, pause and rhythm",
-        "is_correct": false
-      },
-      {
-        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding.",
+        "text": "dramatic irony",
         "is_correct": true
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
+        "text": "recurring image motif",
+        "is_correct": false
+      },
+      {
+        "text": "structural repetition",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding.",
-      "hint": "Consider stress, pause and rhythm."
+      "summary": "“reader knows what character does not” is best described as dramatic irony.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "connect_sound_syntax",
-    "question": "A Year 7 student is working with a text and needs to use connect sound syntax. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use connect sound syntax. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "symbol",
+    "question": "Read this example: “recurring broken compass.” Which description fits it best?",
+    "audio_prompt": "Read this example: “recurring broken compass.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Symbol assigned fixed dictionary meaning",
+        "text": "metaphor",
         "is_correct": false
       },
       {
-        "text": "Use its development in the text",
+        "text": "repetition",
         "is_correct": false
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
-        "is_correct": false
-      },
-      {
-        "text": "Literary devices work through context, pattern and interaction; analysis should connect precise evidence to local effect and whole-text meaning.",
+        "text": "symbol",
         "is_correct": true
+      },
+      {
+        "text": "irony",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Literary devices work through context, pattern and interaction; analysis should connect precise evidence to local effect and whole-text meaning.",
-      "hint": "Use its development in the text."
+      "summary": "The example matches symbol. Lost direction or unreliable guidance",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "build_whole_text_interpretation",
-    "question": "Which statement correctly identifies motif in literary devices, language and meaning?",
-    "audio_prompt": "Which statement correctly identifies motif in literary devices, language and meaning?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Technique name treated as analysis”?",
+    "audio_prompt": "Which response best corrects this claim: “Technique name treated as analysis”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
-        "is_correct": true
+        "text": "One quotation used for whole-text claim",
+        "is_correct": false
       },
       {
-        "text": "Technique name treated as analysis",
+        "text": "Sound discussed without performance",
+        "is_correct": false
+      },
+      {
+        "text": "Symbol assigned fixed dictionary meaning",
         "is_correct": false
       },
       {
         "text": "Explain evidence, effect and significance",
-        "is_correct": false
-      },
-      {
-        "text": "Deliberate technique shaping meaning or effect",
-        "is_correct": false
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
-      "hint": "Explain evidence, effect and significance."
+      "summary": "Explain evidence, effect and significance This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_metaphor",
-    "question": "Which choice best describes irony in literary devices, language and meaning?",
-    "audio_prompt": "Which choice best describes irony in literary devices, language and meaning?",
+    "stage": "recognise",
+    "skill": "irony",
+    "question": "Which term best matches this meaning: “gap between appearance, expectation, statement or knowledge and another reality”?",
+    "audio_prompt": "Which term best matches this meaning: “gap between appearance, expectation, statement or knowledge and another reality”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "One quotation used for whole-text claim",
-        "is_correct": false
-      },
-      {
-        "text": "A device does not carry one universal effect. Explain why the pattern matters at this point and how it develops across the text.",
+        "text": "irony",
         "is_correct": true
       },
       {
-        "text": "Trace pattern or qualify",
+        "text": "literary device",
         "is_correct": false
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
+        "text": "motif",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A device does not carry one universal effect. Explain why the pattern matters at this point and how it develops across the text.",
-      "hint": "Trace pattern or qualify."
+      "summary": "Irony means gap between appearance, expectation, statement or knowledge and another reality. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Literary Devices, Language and Meaning."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_motif",
-    "question": "What does correct use require for literary device in literary devices, language and meaning?",
-    "audio_prompt": "What does correct use require for literary device in literary devices, language and meaning?",
+    "stage": "recognise",
+    "skill": "repetition",
+    "question": "While reading a arts festival program, you notice the wording closely. Read this example: “still here, still waiting.” Which description fits it best?",
+    "audio_prompt": "While reading a arts festival program, you notice the wording closely. Read this example: “still here, still waiting.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Sound discussed without performance",
+        "text": "metaphor",
         "is_correct": false
       },
       {
-        "text": "Consider stress, pause and rhythm",
-        "is_correct": false
-      },
-      {
-        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding.",
+        "text": "repetition",
         "is_correct": true
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
+        "text": "irony",
+        "is_correct": false
+      },
+      {
+        "text": "symbol",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding.",
-      "hint": "Consider stress, pause and rhythm."
+      "summary": "The example matches repetition. Persistence or stagnation",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_irony",
-    "question": "A Year 7 student is working with a text and needs to use explain irony. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain irony. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "dramatic_irony",
+    "question": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “reader knows what character does not”?",
+    "audio_prompt": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “reader knows what character does not”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "isolated simile",
+        "is_correct": false
+      },
+      {
+        "text": "recurring image motif",
+        "is_correct": false
+      },
+      {
+        "text": "dramatic irony",
+        "is_correct": true
+      },
+      {
+        "text": "structural repetition",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“reader knows what character does not” is best described as dramatic irony.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-009",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "symbol",
+    "question": "While reading a technology showcase, you notice the wording closely. Read this example: “recurring broken compass.” Which description fits it best?",
+    "audio_prompt": "While reading a technology showcase, you notice the wording closely. Read this example: “recurring broken compass.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "repetition",
+        "is_correct": false
+      },
+      {
+        "text": "irony",
+        "is_correct": false
+      },
+      {
+        "text": "symbol",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The example matches symbol. Lost direction or unreliable guidance",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-010",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “One quotation used for whole-text claim”?",
+    "audio_prompt": "Which response best corrects this claim: “One quotation used for whole-text claim”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": true
+      },
+      {
+        "text": "Technique name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Sound discussed without performance",
+        "is_correct": false
+      },
+      {
+        "text": "Symbol assigned fixed dictionary meaning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Trace pattern or qualify This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-011",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "metaphor",
+    "question": "Why does “the city was a locked jaw” illustrate metaphor?",
+    "audio_prompt": "Why does “the city was a locked jaw” illustrate metaphor?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “the city was”.",
+        "is_correct": false
+      },
+      {
+        "text": "Constriction and hostility",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Constriction and hostility",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-012",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "repetition",
+    "question": "What is the best explanation of how “still here, still waiting” works?",
+    "audio_prompt": "What is the best explanation of how “still here, still waiting” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “still here, still”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Persistence or stagnation",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Persistence or stagnation",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-013",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "irony",
+    "question": "Which explanation connects the feature in “celebration occurs as damage is revealed” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “celebration occurs as damage is revealed” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “celebration occurs as”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Critique and reader tension",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Critique and reader tension",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-014",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "symbol",
+    "question": "What should a careful reader notice about “recurring broken compass”?",
+    "audio_prompt": "What should a careful reader notice about “recurring broken compass”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Lost direction or unreliable guidance",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “recurring broken compass”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Lost direction or unreliable guidance",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-015",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "sound_pattern",
+    "question": "How does the example “hard plosive sequence” contribute to meaning?",
+    "audio_prompt": "How does the example “hard plosive sequence” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “hard plosive sequence”.",
+        "is_correct": false
+      },
+      {
+        "text": "Abrupt pace or conflict",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Abrupt pace or conflict",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-016",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "isolated_simile",
+    "question": "Why does “creates one image” illustrate isolated simile?",
+    "audio_prompt": "Why does “creates one image” illustrate isolated simile?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “creates one image”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-017",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "recurring_image_motif",
+    "question": "What is the best explanation of how “builds thematic pattern” works?",
+    "audio_prompt": "What is the best explanation of how “builds thematic pattern” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “builds thematic pattern”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-018",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "dramatic_irony",
+    "question": "Which explanation connects the feature in “reader knows what character does not” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “reader knows what character does not” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “reader knows what”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-019",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "structural_repetition",
+    "question": "What should a careful reader notice about “links scenes and invites comparison”?",
+    "audio_prompt": "What should a careful reader notice about “links scenes and invites comparison”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “links scenes and”.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-020",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "sound_syntax",
+    "question": "How does the example “controls pace and emotional intensity” contribute to meaning?",
+    "audio_prompt": "How does the example “controls pace and emotional intensity” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “controls pace and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-021",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Technique name treated as analysis.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Technique name treated as analysis.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Technique name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": false
+      },
+      {
+        "text": "Consider stress, pause and rhythm",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence, effect and significance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Explain evidence, effect and significance The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-022",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “One quotation used for whole-text claim”?",
+    "audio_prompt": "What is the main problem with this statement: “One quotation used for whole-text claim”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": true
+      },
+      {
+        "text": "One quotation used for whole-text claim",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence, effect and significance",
+        "is_correct": false
+      },
+      {
+        "text": "Consider stress, pause and rhythm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Trace pattern or qualify The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-023",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Sound discussed without performance”?",
+    "audio_prompt": "Which correction avoids the misconception in “Sound discussed without performance”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sound discussed without performance",
+        "is_correct": false
+      },
+      {
+        "text": "Consider stress, pause and rhythm",
+        "is_correct": true
+      },
+      {
+        "text": "Explain evidence, effect and significance",
+        "is_correct": false
+      },
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consider stress, pause and rhythm The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-024",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Symbol assigned fixed dictionary meaning.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Symbol assigned fixed dictionary meaning.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -298,26 +985,699 @@
         "is_correct": false
       },
       {
+        "text": "Explain evidence, effect and significance",
+        "is_correct": false
+      },
+      {
         "text": "Use its development in the text",
+        "is_correct": true
+      },
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use its development in the text The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-025",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Technique name treated as analysis” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Technique name treated as analysis” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Technique name treated as analysis",
         "is_correct": false
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
+        "text": "Trace pattern or qualify",
         "is_correct": false
       },
       {
-        "text": "Literary devices work through context, pattern and interaction; analysis should connect precise evidence to local effect and whole-text meaning.",
+        "text": "Consider stress, pause and rhythm",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence, effect and significance",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Literary devices work through context, pattern and interaction; analysis should connect precise evidence to local effect and whole-text meaning.",
-      "hint": "Use its development in the text."
+      "summary": "Explain evidence, effect and significance The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-026",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “One quotation used for whole-text claim.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “One quotation used for whole-text claim.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": true
+      },
+      {
+        "text": "One quotation used for whole-text claim",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence, effect and significance",
+        "is_correct": false
+      },
+      {
+        "text": "Consider stress, pause and rhythm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Trace pattern or qualify The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-027",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Sound discussed without performance”?",
+    "audio_prompt": "What is the main problem with this statement: “Sound discussed without performance”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sound discussed without performance",
+        "is_correct": false
+      },
+      {
+        "text": "Consider stress, pause and rhythm",
+        "is_correct": true
+      },
+      {
+        "text": "Explain evidence, effect and significance",
+        "is_correct": false
+      },
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consider stress, pause and rhythm The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-028",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Symbol assigned fixed dictionary meaning”?",
+    "audio_prompt": "Which correction avoids the misconception in “Symbol assigned fixed dictionary meaning”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Symbol assigned fixed dictionary meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence, effect and significance",
+        "is_correct": false
+      },
+      {
+        "text": "Use its development in the text",
+        "is_correct": true
+      },
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use its development in the text The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-029",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Technique name treated as analysis.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Technique name treated as analysis.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Technique name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": false
+      },
+      {
+        "text": "Consider stress, pause and rhythm",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence, effect and significance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Explain evidence, effect and significance The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-030",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “One quotation used for whole-text claim” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “One quotation used for whole-text claim” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": true
+      },
+      {
+        "text": "One quotation used for whole-text claim",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence, effect and significance",
+        "is_correct": false
+      },
+      {
+        "text": "Consider stress, pause and rhythm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Trace pattern or qualify The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-031",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "literary_devices_language_and_meaning",
+    "question": "A arts festival program needs a concise example of Literary Devices, Language and Meaning. Which choice best fits?",
+    "audio_prompt": "A arts festival program needs a concise example of Literary Devices, Language and Meaning. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Technique name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name metaphor without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-032",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a peer feedback session, someone writes, “One quotation used for whole-text claim.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a peer feedback session, someone writes, “One quotation used for whole-text claim.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One quotation used for whole-text claim",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Trace pattern or qualify",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Trace pattern or qualify The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-033",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "irony",
+    "question": "A technology showcase includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
+    "audio_prompt": "A technology showcase includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of irony.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Critique and reader tension",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Critique and reader tension",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-034",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "structural_repetition",
+    "question": "Which interpretation of “links scenes and invites comparison” would be most useful in a canteen survey?",
+    "audio_prompt": "Which interpretation of “links scenes and invites comparison” would be most useful in a canteen survey?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that structural repetition always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-035",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "motif",
+    "question": "A school assembly speech uses the idea “recurring element developing an idea.” Which term would make the analysis most precise?",
+    "audio_prompt": "A school assembly speech uses the idea “recurring element developing an idea.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "literary device",
+        "is_correct": false
+      },
+      {
+        "text": "motif",
+        "is_correct": true
+      },
+      {
+        "text": "irony",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Motif is the precise term for recurring element developing an idea.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-036",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "literary_devices_language_and_meaning",
+    "question": "A media review needs a concise example of Literary Devices, Language and Meaning. Which choice best fits?",
+    "audio_prompt": "A media review needs a concise example of Literary Devices, Language and Meaning. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One quotation used for whole-text claim",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name metaphor without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-037",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a geography field report, someone writes, “Sound discussed without performance.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a geography field report, someone writes, “Sound discussed without performance.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sound discussed without performance",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Consider stress, pause and rhythm",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Consider stress, pause and rhythm The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-038",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "irony",
+    "question": "A school podcast includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
+    "audio_prompt": "A school podcast includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Critique and reader tension",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of irony.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Critique and reader tension",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-039",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "structural_repetition",
+    "question": "Which interpretation of “links scenes and invites comparison” would be most useful in a local history display?",
+    "audio_prompt": "Which interpretation of “links scenes and invites comparison” would be most useful in a local history display?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that structural repetition always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-p-040",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "literary_device",
+    "question": "A science expo uses the idea “deliberate technique shaping meaning or effect.” Which term would make the analysis most precise?",
+    "audio_prompt": "A science expo uses the idea “deliberate technique shaping meaning or effect.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "motif",
+        "is_correct": false
+      },
+      {
+        "text": "irony",
+        "is_correct": false
+      },
+      {
+        "text": "literary device",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Literary device is the precise term for deliberate technique shaping meaning or effect.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "connect_sound_syntax",
-    "question": "A Year 7 student is working with a text and needs to use connect sound syntax. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use connect sound syntax. Which option best demonstrates the skill?",
+    "skill": "irony",
+    "question": "A community theatre review includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
+    "audio_prompt": "A community theatre review includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
+        "text": "Critique and reader tension",
         "is_correct": true
       },
       {
-        "text": "Technique name treated as analysis",
+        "text": "It is important only because it is an example of irony.",
         "is_correct": false
       },
       {
-        "text": "Explain evidence, effect and significance",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
-      "hint": "Explain evidence, effect and significance."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Critique and reader tension",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "build_whole_text_interpretation",
-    "question": "A Year 7 student is working with a text and needs to use build whole text interpretation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use build whole text interpretation. Which option best demonstrates the skill?",
+    "skill": "structural_repetition",
+    "question": "Read the new context carefully. Which interpretation of “links scenes and invites comparison” would be most useful in a water-quality report?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “links scenes and invites comparison” would be most useful in a water-quality report?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "One quotation used for whole-text claim",
+        "text": "It proves that structural repetition always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "A device does not carry one universal effect. Explain why the pattern matters at this point and how it develops across the text.",
+        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
         "is_correct": true
       },
       {
-        "text": "Trace pattern or qualify",
+        "text": "It can be analysed without referring to the actual wording.",
         "is_correct": false
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A device does not carry one universal effect. Explain why the pattern matters at this point and how it develops across the text.",
-      "hint": "Trace pattern or qualify."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-t-003",
@@ -399,9 +1767,50 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "analyse_metaphor",
-    "question": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
+    "skill": "literary_device",
+    "question": "Which answer is best supported in this new situation? A regional sports commentary uses the idea “deliberate technique shaping meaning or effect.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A regional sports commentary uses the idea “deliberate technique shaping meaning or effect.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "motif",
+        "is_correct": false
+      },
+      {
+        "text": "irony",
+        "is_correct": false
+      },
+      {
+        "text": "literary device",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Literary device is the precise term for deliberate technique shaping meaning or effect.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-t-004",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "literary_devices_language_and_meaning",
+    "question": "Use the evidence in this astronomy exhibition. A astronomy exhibition needs a concise example of Literary Devices, Language and Meaning. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this astronomy exhibition. A astronomy exhibition needs a concise example of Literary Devices, Language and Meaning. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -412,60 +1821,27 @@
         "is_correct": false
       },
       {
-        "text": "Consider stress, pause and rhythm",
+        "text": "Simply name metaphor without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding.",
-        "is_correct": true
-      },
-      {
-        "text": "Deliberate technique shaping meaning or effect",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding.",
-      "hint": "Consider stress, pause and rhythm."
-    }
-  },
-  {
-    "id": "ac9e7le03-t-004",
-    "curriculum_code": "AC9E7LE03",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "trace_motif",
-    "question": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Symbol assigned fixed dictionary meaning",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       },
       {
-        "text": "Use its development in the text",
-        "is_correct": false
-      },
-      {
-        "text": "Deliberate technique shaping meaning or effect",
-        "is_correct": false
-      },
-      {
-        "text": "Literary devices work through context, pattern and interaction; analysis should connect precise evidence to local effect and whole-text meaning.",
+        "text": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Literary devices work through context, pattern and interaction; analysis should connect precise evidence to local effect and whole-text meaning.",
-      "hint": "Use its development in the text."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le03-t-005",
@@ -473,9 +1849,173 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "explain_irony",
-    "question": "What should be checked when applying explain irony in literary devices, language and meaning?",
-    "audio_prompt": "What should be checked when applying explain irony in literary devices, language and meaning?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a farmers market profile, someone writes, “Symbol assigned fixed dictionary meaning.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a farmers market profile, someone writes, “Symbol assigned fixed dictionary meaning.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use its development in the text",
+        "is_correct": true
+      },
+      {
+        "text": "Symbol assigned fixed dictionary meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use its development in the text The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-t-006",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "irony",
+    "question": "Which response would hold up under close reading? A emergency-preparedness video includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A emergency-preparedness video includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of irony.",
+        "is_correct": false
+      },
+      {
+        "text": "Critique and reader tension",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Critique and reader tension",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-t-007",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "structural_repetition",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “links scenes and invites comparison” would be most useful in a cycling safety infographic?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “links scenes and invites comparison” would be most useful in a cycling safety infographic?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that structural repetition always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-t-008",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "irony",
+    "question": "Which choice uses the concept without overgeneralising? A river-health podcast uses the idea “gap between appearance, expectation, statement or knowledge and another reality.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A river-health podcast uses the idea “gap between appearance, expectation, statement or knowledge and another reality.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "literary device",
+        "is_correct": false
+      },
+      {
+        "text": "motif",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "irony",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Irony is the precise term for gap between appearance, expectation, statement or knowledge and another reality.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-t-009",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "literary_devices_language_and_meaning",
+    "question": "A town festival website needs a concise example of Literary Devices, Language and Meaning. Which choice best fits?",
+    "audio_prompt": "A town festival website needs a concise example of Literary Devices, Language and Meaning. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -486,33 +2026,242 @@
         "is_correct": true
       },
       {
-        "text": "Technique name treated as analysis",
+        "text": "Symbol assigned fixed dictionary meaning",
         "is_correct": false
       },
       {
-        "text": "Explain evidence, effect and significance",
+        "text": "Simply name metaphor without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
-      "hint": "Explain evidence, effect and significance."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le03-t-006",
+    "id": "ac9e7le03-t-010",
     "curriculum_code": "AC9E7LE03",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "connect_sound_syntax",
-    "question": "Which response best uses connect sound/syntax in literary devices, language and meaning?",
-    "audio_prompt": "Which response best uses connect sound/syntax in literary devices, language and meaning?",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a youth radio interview, someone writes, “Technique name treated as analysis.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a youth radio interview, someone writes, “Technique name treated as analysis.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Technique name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "Explain evidence, effect and significance",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Explain evidence, effect and significance The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-t-011",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "irony",
+    "question": "Which answer is best supported in this new situation? A coastal restoration article includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A coastal restoration article includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of irony.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Critique and reader tension",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Critique and reader tension",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-t-012",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "structural_repetition",
+    "question": "Use the evidence in this public transport campaign. Which interpretation of “links scenes and invites comparison” would be most useful in a public transport campaign?",
+    "audio_prompt": "Use the evidence in this public transport campaign. Which interpretation of “links scenes and invites comparison” would be most useful in a public transport campaign?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that structural repetition always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-t-013",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "motif",
+    "question": "Choose the most precise analysis for this unfamiliar example. A regional museum audio guide uses the idea “recurring element developing an idea.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A regional museum audio guide uses the idea “recurring element developing an idea.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "motif",
+        "is_correct": true
+      },
+      {
+        "text": "literary device",
+        "is_correct": false
+      },
+      {
+        "text": "irony",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Motif is the precise term for recurring element developing an idea.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-t-014",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "literary_devices_language_and_meaning",
+    "question": "Which response would hold up under close reading? A wildlife rescue webpage needs a concise example of Literary Devices, Language and Meaning. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A wildlife rescue webpage needs a concise example of Literary Devices, Language and Meaning. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Technique name treated as analysis",
+        "is_correct": false
+      },
+      {
+        "text": "The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name metaphor without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The recurring compass becomes a motif because its changing condition tracks the character's loss of certainty",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le03-t-015",
+    "curriculum_code": "AC9E7LE03",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a local council consultation, someone writes, “One quotation used for whole-text claim.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a local council consultation, someone writes, “One quotation used for whole-text claim.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -523,96 +2272,67 @@
         "is_correct": false
       },
       {
-        "text": "A device does not carry one universal effect. Explain why the pattern matters at this point and how it develops across the text.",
-        "is_correct": true
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
       },
       {
         "text": "Trace pattern or qualify",
-        "is_correct": false
-      },
-      {
-        "text": "Deliberate technique shaping meaning or effect",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A device does not carry one universal effect. Explain why the pattern matters at this point and how it develops across the text.",
-      "hint": "Trace pattern or qualify."
-    }
-  },
-  {
-    "id": "ac9e7le03-t-007",
-    "curriculum_code": "AC9E7LE03",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "build_whole_text_interpretation",
-    "question": "A Year 7 student is working with a text and needs to use build whole text interpretation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use build whole text interpretation. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Sound discussed without performance",
-        "is_correct": false
-      },
-      {
-        "text": "Consider stress, pause and rhythm",
-        "is_correct": false
-      },
-      {
-        "text": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding.",
         "is_correct": true
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Quote selectively and interpret every cited detail. Device lists without argument do not demonstrate understanding.",
-      "hint": "Consider stress, pause and rhythm."
-    }
+      "summary": "Trace pattern or qualify The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le03-t-008",
+    "id": "ac9e7le03-t-016",
     "curriculum_code": "AC9E7LE03",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "analyse_metaphor",
-    "question": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse metaphor. Which option best demonstrates the skill?",
+    "skill": "irony",
+    "question": "Which choice uses the concept without overgeneralising? A heritage trail brochure includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A heritage trail brochure includes “celebration occurs as damage is revealed.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Symbol assigned fixed dictionary meaning",
+        "text": "It is important only because it is an example of irony.",
         "is_correct": false
       },
       {
-        "text": "Use its development in the text",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Deliberate technique shaping meaning or effect",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       },
       {
-        "text": "Literary devices work through context, pattern and interaction; analysis should connect precise evidence to local effect and whole-text meaning.",
+        "text": "Critique and reader tension",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Literary devices work through context, pattern and interaction; analysis should connect precise evidence to local effect and whole-text meaning.",
-      "hint": "Use its development in the text."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Critique and reader tension",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "repair_a_shift",
-    "question": "A Year 7 student is working with a text and needs to use repair a shift. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair a shift. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "tense",
+    "question": "Which term best matches this meaning: “grammatical location of a process in time”?",
+    "audio_prompt": "Which term best matches this meaning: “grammatical location of a process in time”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The expedition ended in 1914; today, researchers continue to analyse its records",
+        "text": "aspect",
+        "is_correct": false
+      },
+      {
+        "text": "tense",
         "is_correct": true
       },
       {
-        "text": "Every verb forced into one tense",
+        "text": "verb group",
         "is_correct": false
       },
       {
-        "text": "Deliberate time changes may require shifts",
-        "is_correct": false
-      },
-      {
-        "text": "Grammatical location of a process in time",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The expedition ended in 1914; today, researchers continue to analyse its records",
-      "hint": "Deliberate time changes may require shifts."
+      "summary": "Tense means grammatical location of a process in time. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Tense, Aspect and Cohesion."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_aspect",
-    "question": "A Year 7 student is working with a text and needs to use identify aspect. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify aspect. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "current_significance",
+    "question": "Read this example: “researchers continue to study.” Which description fits it best?",
+    "audio_prompt": "Read this example: “researchers continue to study.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Time adverb ignored",
+        "text": "historical recount",
         "is_correct": false
       },
       {
-        "text": "A tense shift is not automatically an error. It is coherent when the reference time changes and the reader is oriented.",
+        "text": "ongoing past",
+        "is_correct": false
+      },
+      {
+        "text": "current significance",
         "is_correct": true
       },
       {
-        "text": "Yesterday, now and by then affect interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Grammatical location of a process in time",
+        "text": "future possibility",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A tense shift is not automatically an error. It is coherent when the reference time changes and the reader is oriented.",
-      "hint": "Yesterday, now and by then affect interpretation."
+      "summary": "The example matches current significance. Present relevance",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "use_past_perfect",
-    "question": "A Year 7 student is working with a text and needs to use use past perfect. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use past perfect. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "deliberate",
+    "question": "Which label most accurately describes “The voyage ended in 1914. Today, historians reassess it”?",
+    "audio_prompt": "Which label most accurately describes “The voyage ended in 1914. Today, historians reassess it”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Aspect treated as tense only",
+        "text": "accidental",
         "is_correct": false
       },
       {
-        "text": "Compare was working and had worked",
+        "text": "consistent",
         "is_correct": false
       },
       {
-        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels.",
+        "text": "aspect contrast",
+        "is_correct": false
+      },
+      {
+        "text": "deliberate",
         "is_correct": true
-      },
-      {
-        "text": "Grammatical location of a process in time",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Verb groups also express aspect, modality and voice, not only past/present/future labels.",
-      "hint": "Compare was working and had worked."
+      "summary": "“The voyage ended in 1914. Today, historians reassess it” is best described as deliberate.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_deliberate_present",
-    "question": "A Year 7 student is working with a text and needs to use explain deliberate present. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain deliberate present. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "future_possibility",
+    "question": "Read this example: “may be revised.” Which description fits it best?",
+    "audio_prompt": "Read this example: “may be revised.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Passive voice assumed tense",
-        "is_correct": false
-      },
-      {
-        "text": "Voice and tense are separate systems",
-        "is_correct": false
-      },
-      {
-        "text": "Grammatical location of a process in time",
-        "is_correct": false
-      },
-      {
-        "text": "Tense and aspect create a temporal framework; consistency helps readers track time, while deliberate shifts require clear reasons and signals.",
+        "text": "future possibility",
         "is_correct": true
+      },
+      {
+        "text": "historical recount",
+        "is_correct": false
+      },
+      {
+        "text": "current significance",
+        "is_correct": false
+      },
+      {
+        "text": "ongoing past",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Tense and aspect create a temporal framework; consistency helps readers track time, while deliberate shifts require clear reasons and signals.",
-      "hint": "Voice and tense are separate systems."
+      "summary": "The example matches future possibility. Modal future possibility",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_a_verb_group",
-    "question": "Which statement correctly identifies aspect in tense, aspect and cohesion?",
-    "audio_prompt": "Which statement correctly identifies aspect in tense, aspect and cohesion?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Every verb forced into one tense”?",
+    "audio_prompt": "Which response best corrects this claim: “Every verb forced into one tense”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The expedition ended in 1914; today, researchers continue to analyse its records",
-        "is_correct": true
-      },
-      {
-        "text": "Every verb forced into one tense",
+        "text": "Time adverb ignored",
         "is_correct": false
       },
       {
         "text": "Deliberate time changes may require shifts",
+        "is_correct": true
+      },
+      {
+        "text": "Aspect treated as tense only",
         "is_correct": false
       },
       {
-        "text": "Grammatical location of a process in time",
+        "text": "Passive voice assumed tense",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The expedition ended in 1914; today, researchers continue to analyse its records",
-      "hint": "Deliberate time changes may require shifts."
+      "summary": "Deliberate time changes may require shifts This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "repair_a_shift",
-    "question": "Which choice best describes verb group in tense, aspect and cohesion?",
-    "audio_prompt": "Which choice best describes verb group in tense, aspect and cohesion?",
+    "stage": "recognise",
+    "skill": "verb_group",
+    "question": "Which term best matches this meaning: “main verb plus auxiliaries expressing tense, aspect, modality or voice”?",
+    "audio_prompt": "Which term best matches this meaning: “main verb plus auxiliaries expressing tense, aspect, modality or voice”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Time adverb ignored",
+        "text": "tense",
         "is_correct": false
       },
       {
-        "text": "A tense shift is not automatically an error. It is coherent when the reference time changes and the reader is oriented.",
+        "text": "aspect",
+        "is_correct": false
+      },
+      {
+        "text": "verb group",
         "is_correct": true
       },
       {
-        "text": "Yesterday, now and by then affect interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Grammatical location of a process in time",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A tense shift is not automatically an error. It is coherent when the reference time changes and the reader is oriented.",
-      "hint": "Yesterday, now and by then affect interpretation."
+      "summary": "Verb group means main verb plus auxiliaries expressing tense, aspect, modality or voice. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Tense, Aspect and Cohesion."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_aspect",
-    "question": "What does correct use require for tense in tense, aspect and cohesion?",
-    "audio_prompt": "What does correct use require for tense in tense, aspect and cohesion?",
+    "stage": "recognise",
+    "skill": "current_significance",
+    "question": "While reading a arts festival program, you notice the wording closely. Read this example: “researchers continue to study.” Which description fits it best?",
+    "audio_prompt": "While reading a arts festival program, you notice the wording closely. Read this example: “researchers continue to study.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Aspect treated as tense only",
+        "text": "historical recount",
         "is_correct": false
       },
       {
-        "text": "Compare was working and had worked",
+        "text": "ongoing past",
         "is_correct": false
       },
       {
-        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels.",
+        "text": "future possibility",
+        "is_correct": false
+      },
+      {
+        "text": "current significance",
         "is_correct": true
-      },
-      {
-        "text": "Grammatical location of a process in time",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Verb groups also express aspect, modality and voice, not only past/present/future labels.",
-      "hint": "Compare was working and had worked."
+      "summary": "The example matches current significance. Present relevance",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-p-008",
@@ -285,39 +299,1385 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "use_past_perfect",
-    "question": "A Year 7 student is working with a text and needs to use use past perfect. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use past perfect. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "aspect_contrast",
+    "question": "Which label most accurately describes “had finished before / was finishing when”?",
+    "audio_prompt": "Which label most accurately describes “had finished before / was finishing when”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
+        "text": "aspect contrast",
+        "is_correct": true
+      },
+      {
+        "text": "accidental",
+        "is_correct": false
+      },
+      {
+        "text": "consistent",
+        "is_correct": false
+      },
+      {
+        "text": "deliberate",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“had finished before / was finishing when” is best described as aspect contrast.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-009",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "future_possibility",
+    "question": "While reading a technology showcase, you notice the wording closely. Read this example: “may be revised.” Which description fits it best?",
+    "audio_prompt": "While reading a technology showcase, you notice the wording closely. Read this example: “may be revised.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "historical recount",
+        "is_correct": false
+      },
+      {
+        "text": "future possibility",
+        "is_correct": true
+      },
+      {
+        "text": "current significance",
+        "is_correct": false
+      },
+      {
+        "text": "ongoing past",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The example matches future possibility. Modal future possibility",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-010",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Time adverb ignored”?",
+    "audio_prompt": "Which response best corrects this claim: “Time adverb ignored”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every verb forced into one tense",
+        "is_correct": false
+      },
+      {
+        "text": "Aspect treated as tense only",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": true
+      },
+      {
         "text": "Passive voice assumed tense",
         "is_correct": false
-      },
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Yesterday, now and by then affect interpretation This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-011",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "historical_recount",
+    "question": "Why does “had departed / reached” illustrate historical recount?",
+    "audio_prompt": "Why does “had departed / reached” illustrate historical recount?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
       {
-        "text": "Voice and tense are separate systems",
+        "text": "It is effective simply because it contains the words “had departed /”.",
         "is_correct": false
       },
       {
-        "text": "Grammatical location of a process in time",
+        "text": "It guarantees the same effect for every audience and context.",
         "is_correct": false
       },
       {
-        "text": "Tense and aspect create a temporal framework; consistency helps readers track time, while deliberate shifts require clear reasons and signals.",
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Past sequence",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Tense and aspect create a temporal framework; consistency helps readers track time, while deliberate shifts require clear reasons and signals.",
-      "hint": "Voice and tense are separate systems."
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Past sequence",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-012",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "current_significance",
+    "question": "What is the best explanation of how “researchers continue to study” works?",
+    "audio_prompt": "What is the best explanation of how “researchers continue to study” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Present relevance",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “researchers continue to”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Present relevance",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-013",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "ongoing_past",
+    "question": "Which explanation connects the feature in “was travelling” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “was travelling” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “was travelling”.",
+        "is_correct": false
+      },
+      {
+        "text": "Event in progress",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Event in progress",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-014",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "future_possibility",
+    "question": "What should a careful reader notice about “may be revised”?",
+    "audio_prompt": "What should a careful reader notice about “may be revised”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “may be revised”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Modal future possibility",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Modal future possibility",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-015",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "general_explanation",
+    "question": "How does the example “water evaporates” contribute to meaning?",
+    "audio_prompt": "How does the example “water evaporates” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “water evaporates”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Timeless/general present",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Timeless/general present",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-016",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "accidental",
+    "question": "Why does “The team entered, measures and recorded” illustrate accidental?",
+    "audio_prompt": "Why does “The team entered, measures and recorded” illustrate accidental?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “The team entered,”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Verb groups also express aspect, modality and voice, not only past/present/future labels",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-017",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "consistent",
+    "question": "What is the best explanation of how “The team entered, measured and recorded” works?",
+    "audio_prompt": "What is the best explanation of how “The team entered, measured and recorded” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “The team entered,”.",
+        "is_correct": false
+      },
+      {
+        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Verb groups also express aspect, modality and voice, not only past/present/future labels",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-018",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "deliberate",
+    "question": "Which explanation connects the feature in “The voyage ended in 1914. Today, historians reassess it” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “The voyage ended in 1914. Today, historians reassess it” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “The voyage ended”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Verb groups also express aspect, modality and voice, not only past/present/future labels",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-019",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "aspect_contrast",
+    "question": "What should a careful reader notice about “had finished before / was finishing when”?",
+    "audio_prompt": "What should a careful reader notice about “had finished before / was finishing when”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “had finished before”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Verb groups also express aspect, modality and voice, not only past/present/future labels",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-020",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "historical_recount",
+    "question": "How does the example “had departed / reached” contribute to meaning?",
+    "audio_prompt": "How does the example “had departed / reached” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Past sequence",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “had departed /”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Past sequence",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-021",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Every verb forced into one tense.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Every verb forced into one tense.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every verb forced into one tense",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": true
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Compare was working and had worked",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Deliberate time changes may require shifts The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-022",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Time adverb ignored”?",
+    "audio_prompt": "What is the main problem with this statement: “Time adverb ignored”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Time adverb ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Compare was working and had worked",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Yesterday, now and by then affect interpretation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-023",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Aspect treated as tense only”?",
+    "audio_prompt": "Which correction avoids the misconception in “Aspect treated as tense only”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Aspect treated as tense only",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Compare was working and had worked",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Compare was working and had worked The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-024",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Passive voice assumed tense.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Passive voice assumed tense.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Voice and tense are separate systems",
+        "is_correct": true
+      },
+      {
+        "text": "Passive voice assumed tense",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Voice and tense are separate systems The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-025",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Every verb forced into one tense” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Every verb forced into one tense” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every verb forced into one tense",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": true
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Compare was working and had worked",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Deliberate time changes may require shifts The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-026",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Time adverb ignored.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Time adverb ignored.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Time adverb ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Compare was working and had worked",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Yesterday, now and by then affect interpretation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-027",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Aspect treated as tense only”?",
+    "audio_prompt": "What is the main problem with this statement: “Aspect treated as tense only”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Aspect treated as tense only",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Compare was working and had worked",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Compare was working and had worked The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-028",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Passive voice assumed tense”?",
+    "audio_prompt": "Which correction avoids the misconception in “Passive voice assumed tense”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Voice and tense are separate systems",
+        "is_correct": true
+      },
+      {
+        "text": "Passive voice assumed tense",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Voice and tense are separate systems The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-029",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Every verb forced into one tense.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Every verb forced into one tense.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every verb forced into one tense",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": true
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Compare was working and had worked",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Deliberate time changes may require shifts The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-030",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Time adverb ignored” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Time adverb ignored” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Time adverb ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Compare was working and had worked",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Yesterday, now and by then affect interpretation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-031",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "tense_aspect_and_cohesion",
+    "question": "A technology showcase needs a concise example of Tense, Aspect and Cohesion. Which choice best fits?",
+    "audio_prompt": "A technology showcase needs a concise example of Tense, Aspect and Cohesion. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every verb forced into one tense",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name historical recount without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "The expedition ended in 1914; today, researchers continue to analyse its records",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The expedition ended in 1914; today, researchers continue to analyse its records",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-032",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a canteen survey, someone writes, “Time adverb ignored.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a canteen survey, someone writes, “Time adverb ignored.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Time adverb ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Yesterday, now and by then affect interpretation The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-033",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "ongoing_past",
+    "question": "A school assembly speech includes “was travelling.” Which analysis is strongest?",
+    "audio_prompt": "A school assembly speech includes “was travelling.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of ongoing past.",
+        "is_correct": false
+      },
+      {
+        "text": "Event in progress",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Event in progress",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-034",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "aspect_contrast",
+    "question": "Which interpretation of “had finished before / was finishing when” would be most useful in a media review?",
+    "audio_prompt": "Which interpretation of “had finished before / was finishing when” would be most useful in a media review?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that aspect contrast always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-035",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "aspect",
+    "question": "A geography field report uses the idea “way a process is viewed as ongoing, completed or related to another time.” Which term would make the analysis most precise?",
+    "audio_prompt": "A geography field report uses the idea “way a process is viewed as ongoing, completed or related to another time.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "tense",
+        "is_correct": false
+      },
+      {
+        "text": "verb group",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "aspect",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Aspect is the precise term for way a process is viewed as ongoing, completed or related to another time.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-036",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "tense_aspect_and_cohesion",
+    "question": "A school podcast needs a concise example of Tense, Aspect and Cohesion. Which choice best fits?",
+    "audio_prompt": "A school podcast needs a concise example of Tense, Aspect and Cohesion. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The expedition ended in 1914; today, researchers continue to analyse its records",
+        "is_correct": true
+      },
+      {
+        "text": "Time adverb ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name historical recount without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The expedition ended in 1914; today, researchers continue to analyse its records",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-037",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a local history display, someone writes, “Aspect treated as tense only.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a local history display, someone writes, “Aspect treated as tense only.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Aspect treated as tense only",
+        "is_correct": false
+      },
+      {
+        "text": "Compare was working and had worked",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare was working and had worked The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-038",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "ongoing_past",
+    "question": "A science expo includes “was travelling.” Which analysis is strongest?",
+    "audio_prompt": "A science expo includes “was travelling.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of ongoing past.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Event in progress",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Event in progress",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-039",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "accidental",
+    "question": "Which interpretation of “The team entered, measures and recorded” would be most useful in a library newsletter?",
+    "audio_prompt": "Which interpretation of “The team entered, measures and recorded” would be most useful in a library newsletter?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that accidental always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-p-040",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "tense",
+    "question": "A student council proposal uses the idea “grammatical location of a process in time.” Which term would make the analysis most precise?",
+    "audio_prompt": "A student council proposal uses the idea “grammatical location of a process in time.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "tense",
+        "is_correct": true
+      },
+      {
+        "text": "aspect",
+        "is_correct": false
+      },
+      {
+        "text": "verb group",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Tense is the precise term for grammatical location of a process in time.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "explain_deliberate_present",
-    "question": "A Year 7 student is working with a text and needs to use explain deliberate present. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain deliberate present. Which option best demonstrates the skill?",
+    "skill": "ongoing_past",
+    "question": "A regional sports commentary includes “was travelling.” Which analysis is strongest?",
+    "audio_prompt": "A regional sports commentary includes “was travelling.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The expedition ended in 1914; today, researchers continue to analyse its records",
+        "text": "It is important only because it is an example of ongoing past.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Event in progress",
         "is_correct": true
       },
       {
-        "text": "Every verb forced into one tense",
-        "is_correct": false
-      },
-      {
-        "text": "Deliberate time changes may require shifts",
-        "is_correct": false
-      },
-      {
-        "text": "Grammatical location of a process in time",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The expedition ended in 1914; today, researchers continue to analyse its records",
-      "hint": "Deliberate time changes may require shifts."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Event in progress",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "analyse_a_verb_group",
-    "question": "A Year 7 student is working with a text and needs to use analyse a verb group. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse a verb group. Which option best demonstrates the skill?",
+    "skill": "accidental",
+    "question": "Read the new context carefully. Which interpretation of “The team entered, measures and recorded” would be most useful in a astronomy exhibition?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “The team entered, measures and recorded” would be most useful in a astronomy exhibition?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Time adverb ignored",
+        "text": "It proves that accidental always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "A tense shift is not automatically an error. It is coherent when the reference time changes and the reader is oriented.",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels",
         "is_correct": true
-      },
-      {
-        "text": "Yesterday, now and by then affect interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Grammatical location of a process in time",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A tense shift is not automatically an error. It is coherent when the reference time changes and the reader is oriented.",
-      "hint": "Yesterday, now and by then affect interpretation."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-t-003",
@@ -399,36 +1767,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "repair_a_shift",
-    "question": "A Year 7 student is working with a text and needs to use repair a shift. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair a shift. Which option best demonstrates the skill?",
+    "skill": "tense",
+    "question": "Which answer is best supported in this new situation? A farmers market profile uses the idea “grammatical location of a process in time.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A farmers market profile uses the idea “grammatical location of a process in time.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Aspect treated as tense only",
-        "is_correct": false
-      },
-      {
-        "text": "Compare was working and had worked",
-        "is_correct": false
-      },
-      {
-        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels.",
+        "text": "tense",
         "is_correct": true
       },
       {
-        "text": "Grammatical location of a process in time",
+        "text": "aspect",
+        "is_correct": false
+      },
+      {
+        "text": "verb group",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Verb groups also express aspect, modality and voice, not only past/present/future labels.",
-      "hint": "Compare was working and had worked."
-    }
+      "summary": "Tense is the precise term for grammatical location of a process in time.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la06-t-004",
@@ -436,120 +1808,9 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_aspect",
-    "question": "A Year 7 student is working with a text and needs to use identify aspect. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify aspect. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Passive voice assumed tense",
-        "is_correct": false
-      },
-      {
-        "text": "Voice and tense are separate systems",
-        "is_correct": false
-      },
-      {
-        "text": "Grammatical location of a process in time",
-        "is_correct": false
-      },
-      {
-        "text": "Tense and aspect create a temporal framework; consistency helps readers track time, while deliberate shifts require clear reasons and signals.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Tense and aspect create a temporal framework; consistency helps readers track time, while deliberate shifts require clear reasons and signals.",
-      "hint": "Voice and tense are separate systems."
-    }
-  },
-  {
-    "id": "ac9e7la06-t-005",
-    "curriculum_code": "AC9E7LA06",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "use_past_perfect",
-    "question": "What should be checked when applying use past perfect in tense, aspect and cohesion?",
-    "audio_prompt": "What should be checked when applying use past perfect in tense, aspect and cohesion?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The expedition ended in 1914; today, researchers continue to analyse its records",
-        "is_correct": true
-      },
-      {
-        "text": "Every verb forced into one tense",
-        "is_correct": false
-      },
-      {
-        "text": "Deliberate time changes may require shifts",
-        "is_correct": false
-      },
-      {
-        "text": "Grammatical location of a process in time",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The expedition ended in 1914; today, researchers continue to analyse its records",
-      "hint": "Deliberate time changes may require shifts."
-    }
-  },
-  {
-    "id": "ac9e7la06-t-006",
-    "curriculum_code": "AC9E7LA06",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "explain_deliberate_present",
-    "question": "Which response best uses explain deliberate present in tense, aspect and cohesion?",
-    "audio_prompt": "Which response best uses explain deliberate present in tense, aspect and cohesion?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Time adverb ignored",
-        "is_correct": false
-      },
-      {
-        "text": "A tense shift is not automatically an error. It is coherent when the reference time changes and the reader is oriented.",
-        "is_correct": true
-      },
-      {
-        "text": "Yesterday, now and by then affect interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Grammatical location of a process in time",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A tense shift is not automatically an error. It is coherent when the reference time changes and the reader is oriented.",
-      "hint": "Yesterday, now and by then affect interpretation."
-    }
-  },
-  {
-    "id": "ac9e7la06-t-007",
-    "curriculum_code": "AC9E7LA06",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "analyse_a_verb_group",
-    "question": "A Year 7 student is working with a text and needs to use analyse a verb group. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse a verb group. Which option best demonstrates the skill?",
+    "skill": "tense_aspect_and_cohesion",
+    "question": "Use the evidence in this emergency-preparedness video. A emergency-preparedness video needs a concise example of Tense, Aspect and Cohesion. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this emergency-preparedness video. A emergency-preparedness video needs a concise example of Tense, Aspect and Cohesion. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -560,33 +1821,37 @@
         "is_correct": false
       },
       {
-        "text": "Compare was working and had worked",
-        "is_correct": false
-      },
-      {
-        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels.",
+        "text": "The expedition ended in 1914; today, researchers continue to analyse its records",
         "is_correct": true
       },
       {
-        "text": "Grammatical location of a process in time",
+        "text": "Simply name historical recount without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Verb groups also express aspect, modality and voice, not only past/present/future labels.",
-      "hint": "Compare was working and had worked."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: The expedition ended in 1914; today, researchers continue to analyse its records",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la06-t-008",
+    "id": "ac9e7la06-t-005",
     "curriculum_code": "AC9E7LA06",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "repair_a_shift",
-    "question": "A Year 7 student is working with a text and needs to use repair a shift. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair a shift. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a cycling safety infographic, someone writes, “Passive voice assumed tense.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a cycling safety infographic, someone writes, “Passive voice assumed tense.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -597,22 +1862,477 @@
         "is_correct": false
       },
       {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
         "text": "Voice and tense are separate systems",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Voice and tense are separate systems The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-006",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "ongoing_past",
+    "question": "Which response would hold up under close reading? A river-health podcast includes “was travelling.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A river-health podcast includes “was travelling.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of ongoing past.",
         "is_correct": false
       },
       {
-        "text": "Grammatical location of a process in time",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Tense and aspect create a temporal framework; consistency helps readers track time, while deliberate shifts require clear reasons and signals.",
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Event in progress",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Tense and aspect create a temporal framework; consistency helps readers track time, while deliberate shifts require clear reasons and signals.",
-      "hint": "Voice and tense are separate systems."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Event in progress",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-007",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "consistent",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “The team entered, measured and recorded” would be most useful in a town festival website?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “The team entered, measured and recorded” would be most useful in a town festival website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that consistent always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-008",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "verb_group",
+    "question": "Which choice uses the concept without overgeneralising? A youth radio interview uses the idea “main verb plus auxiliaries expressing tense, aspect, modality or voice.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A youth radio interview uses the idea “main verb plus auxiliaries expressing tense, aspect, modality or voice.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "tense",
+        "is_correct": false
+      },
+      {
+        "text": "verb group",
+        "is_correct": true
+      },
+      {
+        "text": "aspect",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Verb group is the precise term for main verb plus auxiliaries expressing tense, aspect, modality or voice.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-009",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "tense_aspect_and_cohesion",
+    "question": "A coastal restoration article needs a concise example of Tense, Aspect and Cohesion. Which choice best fits?",
+    "audio_prompt": "A coastal restoration article needs a concise example of Tense, Aspect and Cohesion. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Passive voice assumed tense",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name historical recount without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "The expedition ended in 1914; today, researchers continue to analyse its records",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The expedition ended in 1914; today, researchers continue to analyse its records",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-010",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a public transport campaign, someone writes, “Every verb forced into one tense.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a public transport campaign, someone writes, “Every verb forced into one tense.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every verb forced into one tense",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Deliberate time changes may require shifts",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Deliberate time changes may require shifts The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-011",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "ongoing_past",
+    "question": "Which answer is best supported in this new situation? A regional museum audio guide includes “was travelling.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A regional museum audio guide includes “was travelling.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Event in progress",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of ongoing past.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Event in progress",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-012",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "deliberate",
+    "question": "Use the evidence in this wildlife rescue webpage. Which interpretation of “The voyage ended in 1914. Today, historians reassess it” would be most useful in a wildlife rescue webpage?",
+    "audio_prompt": "Use the evidence in this wildlife rescue webpage. Which interpretation of “The voyage ended in 1914. Today, historians reassess it” would be most useful in a wildlife rescue webpage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that deliberate always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Verb groups also express aspect, modality and voice, not only past/present/future labels",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-013",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "aspect",
+    "question": "Choose the most precise analysis for this unfamiliar example. A local council consultation uses the idea “way a process is viewed as ongoing, completed or related to another time.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A local council consultation uses the idea “way a process is viewed as ongoing, completed or related to another time.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "tense",
+        "is_correct": false
+      },
+      {
+        "text": "verb group",
+        "is_correct": false
+      },
+      {
+        "text": "aspect",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Aspect is the precise term for way a process is viewed as ongoing, completed or related to another time.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-014",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "tense_aspect_and_cohesion",
+    "question": "Which response would hold up under close reading? A heritage trail brochure needs a concise example of Tense, Aspect and Cohesion. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A heritage trail brochure needs a concise example of Tense, Aspect and Cohesion. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every verb forced into one tense",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name historical recount without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "The expedition ended in 1914; today, researchers continue to analyse its records",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The expedition ended in 1914; today, researchers continue to analyse its records",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-015",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a community theatre review, someone writes, “Time adverb ignored.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a community theatre review, someone writes, “Time adverb ignored.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yesterday, now and by then affect interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Time adverb ignored",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Yesterday, now and by then affect interpretation The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la06-t-016",
+    "curriculum_code": "AC9E7LA06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "ongoing_past",
+    "question": "Which choice uses the concept without overgeneralising? A water-quality report includes “was travelling.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A water-quality report includes “was travelling.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of ongoing past.",
+        "is_correct": false
+      },
+      {
+        "text": "Event in progress",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Event in progress",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

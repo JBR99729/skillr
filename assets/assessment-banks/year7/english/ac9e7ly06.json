@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "plan_audience_outcome",
-    "question": "A Year 7 student is working with a text and needs to use plan audience outcome. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use plan audience outcome. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "revision",
+    "question": "Which term best matches this meaning: “substantive improvement of meaning and structure”?",
+    "audio_prompt": "Which term best matches this meaning: “substantive improvement of meaning and structure”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A graph should be cited, labelled and interpreted in the surrounding argument",
+        "text": "editing",
+        "is_correct": false
+      },
+      {
+        "text": "revision",
         "is_correct": true
       },
       {
-        "text": "First draft treated as final",
+        "text": "publication",
         "is_correct": false
       },
       {
-        "text": "Use feedback and revision",
-        "is_correct": false
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A graph should be cited, labelled and interpreted in the surrounding argument",
-      "hint": "Use feedback and revision."
+      "summary": "Revision means substantive improvement of meaning and structure. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Creating and Publishing Extended Texts."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "revise_argument",
-    "question": "A Year 7 student is working with a text and needs to use revise argument. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use revise argument. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "draft",
+    "question": "Read this example: “paragraph and multimodal sequence.” Which description fits it best?",
+    "audio_prompt": "Read this example: “paragraph and multimodal sequence.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Visuals added decoratively",
+        "text": "Research/plan",
         "is_correct": false
       },
       {
-        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
+        "text": "Revise",
+        "is_correct": false
+      },
+      {
+        "text": "Draft",
         "is_correct": true
       },
       {
-        "text": "Give them a meaning role",
-        "is_correct": false
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
+        "text": "Edit",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
-      "hint": "Give them a meaning role."
+      "summary": "The example matches Draft. Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "audit_cohesion",
-    "question": "A Year 7 student is working with a text and needs to use audit cohesion. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use audit cohesion. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "paragraph_section",
+    "question": "Which label most accurately describes “Does each develop and connect one idea”?",
+    "audio_prompt": "Which label most accurately describes “Does each develop and connect one idea”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Sources collected after writing",
+        "text": "layer",
         "is_correct": false
       },
       {
-        "text": "Track evidence from research onward",
+        "text": "whole text",
         "is_correct": false
       },
       {
-        "text": "Templates can support organisation but should not dictate content or hide missing reasoning.",
+        "text": "evidence",
+        "is_correct": false
+      },
+      {
+        "text": "paragraph/section",
         "is_correct": true
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Templates can support organisation but should not dictate content or hide missing reasoning.",
-      "hint": "Track evidence from research onward."
+      "summary": "“Does each develop and connect one idea” is best described as paragraph/section.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "integrate_mode",
-    "question": "A Year 7 student is working with a text and needs to use integrate mode. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use integrate mode. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "edit",
+    "question": "Read this example: “sentences, tense, vocabulary, punctuation and spelling.” Which description fits it best?",
+    "audio_prompt": "Read this example: “sentences, tense, vocabulary, punctuation and spelling.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Automated checking trusted completely",
-        "is_correct": false
-      },
-      {
-        "text": "Review context, homophones, claims and layout",
-        "is_correct": false
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
-        "is_correct": false
-      },
-      {
-        "text": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
+        "text": "Edit",
         "is_correct": true
+      },
+      {
+        "text": "Research/plan",
+        "is_correct": false
+      },
+      {
+        "text": "Draft",
+        "is_correct": false
+      },
+      {
+        "text": "Revise",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
-      "hint": "Review context, homophones, claims and layout."
+      "summary": "The example matches Edit. Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "publish_accessibly",
-    "question": "Which statement correctly identifies editing in creating and publishing extended texts?",
-    "audio_prompt": "Which statement correctly identifies editing in creating and publishing extended texts?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “First draft treated as final”?",
+    "audio_prompt": "Which response best corrects this claim: “First draft treated as final”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A graph should be cited, labelled and interpreted in the surrounding argument",
-        "is_correct": true
-      },
-      {
-        "text": "First draft treated as final",
+        "text": "Visuals added decoratively",
         "is_correct": false
       },
       {
         "text": "Use feedback and revision",
+        "is_correct": true
+      },
+      {
+        "text": "Sources collected after writing",
         "is_correct": false
       },
       {
-        "text": "Substantive improvement of meaning and structure",
+        "text": "Automated checking trusted completely",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A graph should be cited, labelled and interpreted in the surrounding argument",
-      "hint": "Use feedback and revision."
+      "summary": "Use feedback and revision This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "plan_audience_outcome",
-    "question": "Which choice best describes publication in creating and publishing extended texts?",
-    "audio_prompt": "Which choice best describes publication in creating and publishing extended texts?",
+    "stage": "recognise",
+    "skill": "publication",
+    "question": "Which term best matches this meaning: “preparation and distribution for an audience”?",
+    "audio_prompt": "Which term best matches this meaning: “preparation and distribution for an audience”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Visuals added decoratively",
+        "text": "revision",
         "is_correct": false
       },
       {
-        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
+        "text": "editing",
+        "is_correct": false
+      },
+      {
+        "text": "publication",
         "is_correct": true
       },
       {
-        "text": "Give them a meaning role",
-        "is_correct": false
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
-      "hint": "Give them a meaning role."
+      "summary": "Publication means preparation and distribution for an audience. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Creating and Publishing Extended Texts."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "revise_argument",
-    "question": "What does correct use require for revision in creating and publishing extended texts?",
-    "audio_prompt": "What does correct use require for revision in creating and publishing extended texts?",
+    "stage": "recognise",
+    "skill": "research_plan",
+    "question": "Read this example: “ideas, evidence, source notes and structure.” Which description fits it best?",
+    "audio_prompt": "Read this example: “ideas, evidence, source notes and structure.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Sources collected after writing",
+        "text": "Draft",
         "is_correct": false
       },
       {
-        "text": "Track evidence from research onward",
+        "text": "Revise",
         "is_correct": false
       },
       {
-        "text": "Templates can support organisation but should not dictate content or hide missing reasoning.",
+        "text": "Edit",
+        "is_correct": false
+      },
+      {
+        "text": "Research/plan",
         "is_correct": true
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Templates can support organisation but should not dictate content or hide missing reasoning.",
-      "hint": "Track evidence from research onward."
+      "summary": "The example matches Research/plan. Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-p-008",
@@ -285,39 +299,1385 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "audit_cohesion",
-    "question": "A Year 7 student is working with a text and needs to use audit cohesion. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use audit cohesion. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "layer",
+    "question": "Which label most accurately describes “question”?",
+    "audio_prompt": "Which label most accurately describes “question”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
+        "text": "layer",
+        "is_correct": true
+      },
+      {
+        "text": "whole text",
+        "is_correct": false
+      },
+      {
+        "text": "paragraph/section",
+        "is_correct": false
+      },
+      {
+        "text": "evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“question” is best described as layer.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-009",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "revise",
+    "question": "Read this example: “argument, cohesion, emphasis and mode integration.” Which description fits it best?",
+    "audio_prompt": "Read this example: “argument, cohesion, emphasis and mode integration.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Research/plan",
+        "is_correct": false
+      },
+      {
+        "text": "Revise",
+        "is_correct": true
+      },
+      {
+        "text": "Draft",
+        "is_correct": false
+      },
+      {
+        "text": "Edit",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The example matches Revise. Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-010",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Visuals added decoratively”?",
+    "audio_prompt": "Which response best corrects this claim: “Visuals added decoratively”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "Sources collected after writing",
+        "is_correct": false
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": true
+      },
+      {
         "text": "Automated checking trusted completely",
         "is_correct": false
-      },
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Give them a meaning role This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-011",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "research_plan",
+    "question": "Why does “ideas, evidence, source notes and structure” illustrate Research/plan?",
+    "audio_prompt": "Why does “ideas, evidence, source notes and structure” illustrate Research/plan?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
       {
-        "text": "Review context, homophones, claims and layout",
+        "text": "It is effective simply because it contains the words “ideas, evidence, source”.",
         "is_correct": false
       },
       {
-        "text": "Substantive improvement of meaning and structure",
+        "text": "It guarantees the same effect for every audience and context.",
         "is_correct": false
       },
       {
-        "text": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
-      "hint": "Review context, homophones, claims and layout."
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-012",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "draft",
+    "question": "What is the best explanation of how “paragraph and multimodal sequence” works?",
+    "audio_prompt": "What is the best explanation of how “paragraph and multimodal sequence” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “paragraph and multimodal”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-013",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "revise",
+    "question": "Which explanation connects the feature in “argument, cohesion, emphasis and mode integration” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “argument, cohesion, emphasis and mode integration” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “argument, cohesion, emphasis”.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-014",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "edit",
+    "question": "What should a careful reader notice about “sentences, tense, vocabulary, punctuation and spelling”?",
+    "audio_prompt": "What should a careful reader notice about “sentences, tense, vocabulary, punctuation and spelling”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “sentences, tense, vocabulary,”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-015",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "publish",
+    "question": "How does the example “layout, captions, attribution and accessibility” contribute to meaning?",
+    "audio_prompt": "How does the example “layout, captions, attribution and accessibility” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “layout, captions, attribution”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-016",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "evaluate",
+    "question": "Why does “audience feedback and next improvement” illustrate Evaluate?",
+    "audio_prompt": "Why does “audience feedback and next improvement” illustrate Evaluate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “audience feedback and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-017",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "layer",
+    "question": "What is the best explanation of how “question” works?",
+    "audio_prompt": "What is the best explanation of how “question” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “question”.",
+        "is_correct": false
+      },
+      {
+        "text": "Templates can support organisation but should not dictate content or hide missing reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Templates can support organisation but should not dictate content or hide missing reasoning",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-018",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "whole_text",
+    "question": "Which explanation connects the feature in “Does structure achieve the purpose” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “Does structure achieve the purpose” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “Does structure achieve”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Templates can support organisation but should not dictate content or hide missing reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Templates can support organisation but should not dictate content or hide missing reasoning",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-019",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "paragraph_section",
+    "question": "What should a careful reader notice about “Does each develop and connect one idea”?",
+    "audio_prompt": "What should a careful reader notice about “Does each develop and connect one idea”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “Does each develop”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Templates can support organisation but should not dictate content or hide missing reasoning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Templates can support organisation but should not dictate content or hide missing reasoning",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-020",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "evidence",
+    "question": "How does the example “Is it relevant, sourced and interpreted” contribute to meaning?",
+    "audio_prompt": "How does the example “Is it relevant, sourced and interpreted” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Templates can support organisation but should not dictate content or hide missing reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “Is it relevant,”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Templates can support organisation but should not dictate content or hide missing reasoning",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-021",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “First draft treated as final.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “First draft treated as final.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": true
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": false
+      },
+      {
+        "text": "Track evidence from research onward",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use feedback and revision The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-022",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Visuals added decoratively”?",
+    "audio_prompt": "What is the main problem with this statement: “Visuals added decoratively”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Visuals added decoratively",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": false
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": true
+      },
+      {
+        "text": "Track evidence from research onward",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Give them a meaning role The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-023",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Sources collected after writing”?",
+    "audio_prompt": "Which correction avoids the misconception in “Sources collected after writing”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sources collected after writing",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": false
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": false
+      },
+      {
+        "text": "Track evidence from research onward",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Track evidence from research onward The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-024",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Automated checking trusted completely.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Automated checking trusted completely.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Review context, homophones, claims and layout",
+        "is_correct": true
+      },
+      {
+        "text": "Automated checking trusted completely",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": false
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Review context, homophones, claims and layout The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-025",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “First draft treated as final” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “First draft treated as final” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": true
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": false
+      },
+      {
+        "text": "Track evidence from research onward",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use feedback and revision The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-026",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Visuals added decoratively.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Visuals added decoratively.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Visuals added decoratively",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": false
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": true
+      },
+      {
+        "text": "Track evidence from research onward",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Give them a meaning role The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-027",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Sources collected after writing”?",
+    "audio_prompt": "What is the main problem with this statement: “Sources collected after writing”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sources collected after writing",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": false
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": false
+      },
+      {
+        "text": "Track evidence from research onward",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Track evidence from research onward The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-028",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Automated checking trusted completely”?",
+    "audio_prompt": "Which correction avoids the misconception in “Automated checking trusted completely”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Review context, homophones, claims and layout",
+        "is_correct": true
+      },
+      {
+        "text": "Automated checking trusted completely",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": false
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Review context, homophones, claims and layout The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-029",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “First draft treated as final.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “First draft treated as final.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": true
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": false
+      },
+      {
+        "text": "Track evidence from research onward",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use feedback and revision The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-030",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Visuals added decoratively” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Visuals added decoratively” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Visuals added decoratively",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": false
+      },
+      {
+        "text": "Give them a meaning role",
+        "is_correct": true
+      },
+      {
+        "text": "Track evidence from research onward",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Give them a meaning role The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-031",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating_and_publishing_extended_texts",
+    "question": "A library newsletter needs a concise example of Creating and Publishing Extended Texts. Which choice best fits?",
+    "audio_prompt": "A library newsletter needs a concise example of Creating and Publishing Extended Texts. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Research/plan without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph should be cited, labelled and interpreted in the surrounding argument",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A graph should be cited, labelled and interpreted in the surrounding argument",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-032",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a student council proposal, someone writes, “Visuals added decoratively.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a student council proposal, someone writes, “Visuals added decoratively.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Give them a meaning role",
+        "is_correct": true
+      },
+      {
+        "text": "Visuals added decoratively",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Give them a meaning role The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-033",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revise",
+    "question": "A sports club notice includes “argument, cohesion, emphasis and mode integration.” Which analysis is strongest?",
+    "audio_prompt": "A sports club notice includes “argument, cohesion, emphasis and mode integration.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Revise.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-034",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "evidence",
+    "question": "Which interpretation of “Is it relevant, sourced and interpreted” would be most useful in a museum exhibit?",
+    "audio_prompt": "Which interpretation of “Is it relevant, sourced and interpreted” would be most useful in a museum exhibit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that evidence always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Templates can support organisation but should not dictate content or hide missing reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-035",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "editing",
+    "question": "A community garden report uses the idea “checking language accuracy and consistency.” Which term would make the analysis most precise?",
+    "audio_prompt": "A community garden report uses the idea “checking language accuracy and consistency.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "revision",
+        "is_correct": false
+      },
+      {
+        "text": "publication",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "editing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Editing is the precise term for checking language accuracy and consistency.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-036",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating_and_publishing_extended_texts",
+    "question": "A class debate needs a concise example of Creating and Publishing Extended Texts. Which choice best fits?",
+    "audio_prompt": "A class debate needs a concise example of Creating and Publishing Extended Texts. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A graph should be cited, labelled and interpreted in the surrounding argument",
+        "is_correct": true
+      },
+      {
+        "text": "Visuals added decoratively",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Evaluate without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A graph should be cited, labelled and interpreted in the surrounding argument",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-037",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a environmental campaign, someone writes, “Sources collected after writing.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a environmental campaign, someone writes, “Sources collected after writing.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sources collected after writing",
+        "is_correct": false
+      },
+      {
+        "text": "Track evidence from research onward",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Track evidence from research onward The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-038",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "draft",
+    "question": "A excursion briefing includes “paragraph and multimodal sequence.” Which analysis is strongest?",
+    "audio_prompt": "A excursion briefing includes “paragraph and multimodal sequence.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Draft.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-039",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "whole_text",
+    "question": "Which interpretation of “Does structure achieve the purpose” would be most useful in a book-club discussion?",
+    "audio_prompt": "Which interpretation of “Does structure achieve the purpose” would be most useful in a book-club discussion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that whole text always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Templates can support organisation but should not dictate content or hide missing reasoning",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-p-040",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "A school website uses the idea “substantive improvement of meaning and structure.” Which term would make the analysis most precise?",
+    "audio_prompt": "A school website uses the idea “substantive improvement of meaning and structure.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "revision",
+        "is_correct": true
+      },
+      {
+        "text": "editing",
+        "is_correct": false
+      },
+      {
+        "text": "publication",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Revision is the precise term for substantive improvement of meaning and structure.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "integrate_mode",
-    "question": "A Year 7 student is working with a text and needs to use integrate mode. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use integrate mode. Which option best demonstrates the skill?",
+    "skill": "draft",
+    "question": "A regional sports commentary includes “paragraph and multimodal sequence.” Which analysis is strongest?",
+    "audio_prompt": "A regional sports commentary includes “paragraph and multimodal sequence.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A graph should be cited, labelled and interpreted in the surrounding argument",
+        "text": "It is important only because it is an example of Draft.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
         "is_correct": true
       },
       {
-        "text": "First draft treated as final",
-        "is_correct": false
-      },
-      {
-        "text": "Use feedback and revision",
-        "is_correct": false
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A graph should be cited, labelled and interpreted in the surrounding argument",
-      "hint": "Use feedback and revision."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "publish_accessibly",
-    "question": "A Year 7 student is working with a text and needs to use publish accessibly. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use publish accessibly. Which option best demonstrates the skill?",
+    "skill": "whole_text",
+    "question": "Read the new context carefully. Which interpretation of “Does structure achieve the purpose” would be most useful in a astronomy exhibition?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “Does structure achieve the purpose” would be most useful in a astronomy exhibition?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Visuals added decoratively",
+        "text": "It proves that whole text always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Templates can support organisation but should not dictate content or hide missing reasoning",
         "is_correct": true
-      },
-      {
-        "text": "Give them a meaning role",
-        "is_correct": false
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
-      "hint": "Give them a meaning role."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-t-003",
@@ -399,36 +1767,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "plan_audience_outcome",
-    "question": "A Year 7 student is working with a text and needs to use plan audience outcome. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use plan audience outcome. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Which answer is best supported in this new situation? A farmers market profile uses the idea “substantive improvement of meaning and structure.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A farmers market profile uses the idea “substantive improvement of meaning and structure.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Sources collected after writing",
-        "is_correct": false
-      },
-      {
-        "text": "Track evidence from research onward",
-        "is_correct": false
-      },
-      {
-        "text": "Templates can support organisation but should not dictate content or hide missing reasoning.",
+        "text": "revision",
         "is_correct": true
       },
       {
-        "text": "Substantive improvement of meaning and structure",
+        "text": "editing",
+        "is_correct": false
+      },
+      {
+        "text": "publication",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Templates can support organisation but should not dictate content or hide missing reasoning.",
-      "hint": "Track evidence from research onward."
-    }
+      "summary": "Revision is the precise term for substantive improvement of meaning and structure.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly06-t-004",
@@ -436,120 +1808,9 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "revise_argument",
-    "question": "A Year 7 student is working with a text and needs to use revise argument. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use revise argument. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Automated checking trusted completely",
-        "is_correct": false
-      },
-      {
-        "text": "Review context, homophones, claims and layout",
-        "is_correct": false
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
-        "is_correct": false
-      },
-      {
-        "text": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
-      "hint": "Review context, homophones, claims and layout."
-    }
-  },
-  {
-    "id": "ac9e7ly06-t-005",
-    "curriculum_code": "AC9E7LY06",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "audit_cohesion",
-    "question": "What should be checked when applying audit cohesion in creating and publishing extended texts?",
-    "audio_prompt": "What should be checked when applying audit cohesion in creating and publishing extended texts?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A graph should be cited, labelled and interpreted in the surrounding argument",
-        "is_correct": true
-      },
-      {
-        "text": "First draft treated as final",
-        "is_correct": false
-      },
-      {
-        "text": "Use feedback and revision",
-        "is_correct": false
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A graph should be cited, labelled and interpreted in the surrounding argument",
-      "hint": "Use feedback and revision."
-    }
-  },
-  {
-    "id": "ac9e7ly06-t-006",
-    "curriculum_code": "AC9E7LY06",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "integrate_mode",
-    "question": "Which response best uses integrate mode in creating and publishing extended texts?",
-    "audio_prompt": "Which response best uses integrate mode in creating and publishing extended texts?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Visuals added decoratively",
-        "is_correct": false
-      },
-      {
-        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
-        "is_correct": true
-      },
-      {
-        "text": "Give them a meaning role",
-        "is_correct": false
-      },
-      {
-        "text": "Substantive improvement of meaning and structure",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting.",
-      "hint": "Give them a meaning role."
-    }
-  },
-  {
-    "id": "ac9e7ly06-t-007",
-    "curriculum_code": "AC9E7LY06",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "publish_accessibly",
-    "question": "A Year 7 student is working with a text and needs to use publish accessibly. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use publish accessibly. Which option best demonstrates the skill?",
+    "skill": "creating_and_publishing_extended_texts",
+    "question": "Use the evidence in this emergency-preparedness video. A emergency-preparedness video needs a concise example of Creating and Publishing Extended Texts. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this emergency-preparedness video. A emergency-preparedness video needs a concise example of Creating and Publishing Extended Texts. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -560,33 +1821,37 @@
         "is_correct": false
       },
       {
-        "text": "Track evidence from research onward",
-        "is_correct": false
-      },
-      {
-        "text": "Templates can support organisation but should not dictate content or hide missing reasoning.",
+        "text": "A graph should be cited, labelled and interpreted in the surrounding argument",
         "is_correct": true
       },
       {
-        "text": "Substantive improvement of meaning and structure",
+        "text": "Simply name Publish without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Templates can support organisation but should not dictate content or hide missing reasoning.",
-      "hint": "Track evidence from research onward."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: A graph should be cited, labelled and interpreted in the surrounding argument",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly06-t-008",
+    "id": "ac9e7ly06-t-005",
     "curriculum_code": "AC9E7LY06",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "plan_audience_outcome",
-    "question": "A Year 7 student is working with a text and needs to use plan audience outcome. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use plan audience outcome. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a cycling safety infographic, someone writes, “Automated checking trusted completely.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a cycling safety infographic, someone writes, “Automated checking trusted completely.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -597,22 +1862,477 @@
         "is_correct": false
       },
       {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
         "text": "Review context, homophones, claims and layout",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Review context, homophones, claims and layout The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-006",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "research_plan",
+    "question": "Which response would hold up under close reading? A river-health podcast includes “ideas, evidence, source notes and structure.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A river-health podcast includes “ideas, evidence, source notes and structure.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Research/plan.",
         "is_correct": false
       },
       {
-        "text": "Substantive improvement of meaning and structure",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Effective composition is recursive: purpose and audience guide planning; revision strengthens ideas and structure; editing checks language and conventions; publishing addresses accessibility and source integrity.",
-      "hint": "Review context, homophones, claims and layout."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-007",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "publication",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “Is it readable, accessible and ethically sourced” would be most useful in a town festival website?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “Is it readable, accessible and ethically sourced” would be most useful in a town festival website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Templates can support organisation but should not dictate content or hide missing reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that publication always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-008",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "publication",
+    "question": "Which choice uses the concept without overgeneralising? A youth radio interview uses the idea “preparation and distribution for an audience.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A youth radio interview uses the idea “preparation and distribution for an audience.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "revision",
+        "is_correct": false
+      },
+      {
+        "text": "publication",
+        "is_correct": true
+      },
+      {
+        "text": "editing",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Publication is the precise term for preparation and distribution for an audience.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-009",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_extended_texts",
+    "question": "A coastal restoration article needs a concise example of Creating and Publishing Extended Texts. Which choice best fits?",
+    "audio_prompt": "A coastal restoration article needs a concise example of Creating and Publishing Extended Texts. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Automated checking trusted completely",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Edit without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph should be cited, labelled and interpreted in the surrounding argument",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A graph should be cited, labelled and interpreted in the surrounding argument",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-010",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a public transport campaign, someone writes, “First draft treated as final.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a public transport campaign, someone writes, “First draft treated as final.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Use feedback and revision",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use feedback and revision The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-011",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "evaluate",
+    "question": "Which answer is best supported in this new situation? A regional museum audio guide includes “audience feedback and next improvement.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A regional museum audio guide includes “audience feedback and next improvement.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of Evaluate.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-012",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sentence",
+    "question": "Use the evidence in this wildlife rescue webpage. Which interpretation of “Are relationships and emphasis controlled” would be most useful in a wildlife rescue webpage?",
+    "audio_prompt": "Use the evidence in this wildlife rescue webpage. Which interpretation of “Are relationships and emphasis controlled” would be most useful in a wildlife rescue webpage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that sentence always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Templates can support organisation but should not dictate content or hide missing reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-013",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "editing",
+    "question": "Choose the most precise analysis for this unfamiliar example. A local council consultation uses the idea “checking language accuracy and consistency.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A local council consultation uses the idea “checking language accuracy and consistency.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "revision",
+        "is_correct": false
+      },
+      {
+        "text": "publication",
+        "is_correct": false
+      },
+      {
+        "text": "editing",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Editing is the precise term for checking language accuracy and consistency.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-014",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_publishing_extended_texts",
+    "question": "Which response would hold up under close reading? A heritage trail brochure needs a concise example of Creating and Publishing Extended Texts. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A heritage trail brochure needs a concise example of Creating and Publishing Extended Texts. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "First draft treated as final",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Revise without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph should be cited, labelled and interpreted in the surrounding argument",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A graph should be cited, labelled and interpreted in the surrounding argument",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-015",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a community theatre review, someone writes, “Visuals added decoratively.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a community theatre review, someone writes, “Visuals added decoratively.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Give them a meaning role",
+        "is_correct": true
+      },
+      {
+        "text": "Visuals added decoratively",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Give them a meaning role The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly06-t-016",
+    "curriculum_code": "AC9E7LY06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "publish",
+    "question": "Which choice uses the concept without overgeneralising? A water-quality report includes “layout, captions, attribution and accessibility.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A water-quality report includes “layout, captions, attribution and accessibility.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Publish.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Do not polish sentences that may be removed during structural revision. Keep evidence traceable to sources throughout drafting",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]
