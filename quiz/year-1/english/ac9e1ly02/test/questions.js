@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly02 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate group roles?",
-    "audioPrompt": "Which response would correctly demonstrate group roles?",
-    "visual": "📖 Demonstrate group roles; 🔎 turn-taking; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate group roles; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001\"></use></svg>",
+    "question": "Which response would correctly show group roles?",
+    "audioPrompt": "Which response would correctly show group roles?",
+    "visual": "📖 show group roles; 🔎 turn-taking; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show group roles; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001",
-      "alt_text": "📖 Demonstrate group roles; 🔎 turn-taking; ✅ choose with evidence"
+      "alt_text": "📖 show group roles; 🔎 turn-taking; ✅ choose with evidence"
     },
     "answers": [
       "All three roles performed distinctly and content remains connected",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly02 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate group roles?",
-    "audioPrompt": "Which tip would help you demonstrate group roles?",
-    "visual": "🧠 Demonstrate group roles; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate group roles; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002\"></use></svg>",
+    "question": "Which tip would help you show group roles?",
+    "audioPrompt": "Which tip would help you show group roles?",
+    "visual": "🧠 show group roles; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show group roles; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002",
-      "alt_text": "🧠 Demonstrate group roles; ➡️ Listen; 💡 helpful strategy"
+      "alt_text": "🧠 show group roles; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
       "Do not use classroom volume and clear pace.",
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly02-t-009",
     "curriculumCode": "AC9E1LY02",
     "bank": "test",
-    "skill": "ac9e1ly02 05 answer",
+    "skill": "ac9e1ly02 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly02 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly02 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show group roles; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show group roles; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-009",
-      "alt_text": "📖 Rule; 🔎 question; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-002",
+      "alt_text": "🧠 show group roles; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
+      "Do not listen for the idea before responding.",
       "Do not use classroom volume and clear pace.",
-      "Add a new idea without responding to the partner.",
-      "Use the rule for this English skill"
+      "Listen for the idea before responding."
     ],
     "correct": 2,
-    "explanation": "Use the rule for this English skill This matches the task.\nHint: Use classroom volume and clear pace.",
+    "explanation": "Listen for the idea before responding. is the useful check. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "Use the rule for this English skill This matches the task.",
-      "hint": "Use classroom volume and clear pace."
+      "summary": "Listen for the idea before responding. is the useful check. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly02-t-010",
     "curriculumCode": "AC9E1LY02",
     "bank": "test",
-    "skill": "ac9e1ly02 05 strategy",
+    "skill": "ac9e1ly02 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Ask/question; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Ask/question; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw a turn tracker; ➡️ Wait turn; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a turn tracker; ➡️ Wait turn; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-010",
-      "alt_text": "🧠 Rule; ➡️ Ask/question; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-004",
+      "alt_text": "🧠 Draw a turn tracker; ➡️ Wait turn; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Add a new idea without responding to the partner.",
-      "Do not listen for the idea before responding."
+      "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question.",
+      "Do not use classroom volume and clear pace.",
+      "Add a new idea without responding to the partner."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Use classroom volume and clear pace.",
+    "explanation": "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question. is the useful check. Use classroom volume and clear pace.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question. is the useful check. Use classroom volume and clear pace.",
       "hint": "Use classroom volume and clear pace."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly02-t-011",
     "curriculumCode": "AC9E1LY02",
     "bank": "test",
-    "skill": "ac9e1ly02 06 answer",
+    "skill": "ac9e1ly02 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly02 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly02 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 turn-taking; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct interrupting behaviour; ➡️ Speak clearly; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct interrupting behaviour; ➡️ Speak clearly; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-011",
-      "alt_text": "📖 Worked example; 🔎 turn-taking; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-006",
+      "alt_text": "🧠 Correct interrupting behaviour; ➡️ Speak clearly; 💡 helpful strategy"
     },
     "answers": [
       "Add a new idea without responding to the partner.",
-      "'I heard Ava say the ramp should be lower",
+      "Look for clear voice and check the whole example.",
       "Do not listen for the idea before responding."
     ],
     "correct": 1,
-    "explanation": "'I heard Ava say the ramp should be lower This matches the task.\nHint: Connect to what was already said.",
+    "explanation": "Look for clear voice and check the whole example. is the useful check. Connect to what was already said.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "'I heard Ava say the ramp should be lower This matches the task.",
+      "summary": "Look for clear voice and check the whole example. is the useful check. Connect to what was already said.",
       "hint": "Connect to what was already said."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly02-t-012",
     "curriculumCode": "AC9E1LY02",
     "bank": "test",
-    "skill": "ac9e1ly02 06 strategy",
+    "skill": "ac9e1ly02 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Evaluate a discussion; ➡️ Respond to idea; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Evaluate a discussion; ➡️ Respond to idea; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Listen; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-008",
+      "alt_text": "🧠 Evaluate a discussion; ➡️ Respond to idea; 💡 helpful strategy"
     },
     "answers": [
       "Do not listen for the idea before responding.",
       "Do not use classroom volume and clear pace.",
-      "Connect to what was already said."
+      "Check that you can respond to others."
     ],
     "correct": 2,
-    "explanation": "Connect to what was already said.\nHint: Connect to what was already said.",
+    "explanation": "Check that you can respond to others. is the useful check. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "Connect to what was already said.",
-      "hint": "Connect to what was already said."
+      "summary": "Check that you can respond to others. is the useful check. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly02-t-013",
     "curriculumCode": "AC9E1LY02",
     "bank": "test",
-    "skill": "ac9e1ly02 07 answer",
+    "skill": "ac9e1ly02 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly02 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly02 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Listening clues; 🔎 listening; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Listening clues; 🔎 listening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-013\"></use></svg>",
+    "question": "A classmate chose “Do not listen for the idea before responding.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not listen for the idea before responding.. Which answer would improve their response?",
+    "visual": "📖 show group roles; 🔎 turn-taking; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show group roles; 🔎 turn-taking; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-013",
-      "alt_text": "📖 Listening clues; 🔎 listening; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-001",
+      "alt_text": "📖 show group roles; 🔎 turn-taking; ✅ choose with evidence"
     },
     "answers": [
-      "Use the listening clues for this English skill",
+      "All three roles performed distinctly and content remains connected",
       "Do not listen for the idea before responding.",
       "Do not use classroom volume and clear pace."
     ],
     "correct": 0,
-    "explanation": "Use the listening clues for this English skill This matches the task.\nHint: Listen for the idea before responding.",
+    "explanation": "All three roles performed distinctly and content remains connected is the stronger response because it uses the target skill. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "Use the listening clues for this English skill This matches the task.",
+      "summary": "All three roles performed distinctly and content remains connected is the stronger response because it uses the target skill. Listen for the idea before responding.",
       "hint": "Listen for the idea before responding."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly02-t-014",
     "curriculumCode": "AC9E1LY02",
     "bank": "test",
-    "skill": "ac9e1ly02 07 strategy",
+    "skill": "ac9e1ly02 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you listening clues?",
-    "audioPrompt": "Which tip would help you listening clues?",
-    "visual": "🧠 Listening clues; ➡️ Wait turn; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Listening clues; ➡️ Wait turn; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-014\"></use></svg>",
+    "question": "A classmate chose “Do not use classroom volume and clear pace.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not use classroom volume and clear pace.. Which answer would improve their response?",
+    "visual": "📖 Draw a turn tracker; 🔎 listening; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a turn tracker; 🔎 listening; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-014",
-      "alt_text": "🧠 Listening clues; ➡️ Wait turn; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-003",
+      "alt_text": "📖 Draw a turn tracker; 🔎 listening; ✅ choose with evidence"
     },
     "answers": [
       "Do not use classroom volume and clear pace.",
-      "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question.",
+      "Shows four equal turn opportunities and a clear, non-competitive method",
       "Add a new idea without responding to the partner."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question.\nHint: Listen for the idea before responding.",
+    "explanation": "Shows four equal turn opportunities and a clear, non-competitive method is the stronger response because it uses the target skill. Use classroom volume and clear pace.\nHint: Use classroom volume and clear pace.",
     "structuredExplanation": {
-      "summary": "Use this routine: Listen → Wait turn → Speak clearly → Respond to idea → Ask/question.",
-      "hint": "Listen for the idea before responding."
+      "summary": "Shows four equal turn opportunities and a clear, non-competitive method is the stronger response because it uses the target skill. Use classroom volume and clear pace.",
+      "hint": "Use classroom volume and clear pace."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly02-t-015",
     "curriculumCode": "AC9E1LY02",
     "bank": "test",
-    "skill": "ac9e1ly02 08 answer",
+    "skill": "ac9e1ly02 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly02 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly02 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 clear voice; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 clear voice; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-015\"></use></svg>",
+    "question": "A classmate chose “Add a new idea without responding to the partner.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Add a new idea without responding to the partner.. Which answer would improve their response?",
+    "visual": "📖 Correct interrupting behaviour; 🔎 clear voice; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct interrupting behaviour; 🔎 clear voice; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-015",
-      "alt_text": "📖 Common trap; 🔎 clear voice; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-005",
+      "alt_text": "📖 Correct interrupting behaviour; 🔎 clear voice; ✅ choose with evidence"
     },
     "answers": [
-      "Do not use classroom volume and clear pace.",
       "Add a new idea without responding to the partner.",
-      "Waiting silently is not enough if you ignore the speaker's idea; a useful response connects to what was said."
+      "Do not listen for the idea before responding.",
+      "Wait/write idea/use agreed signal and acknowledge current speaker; two strategies explained"
     ],
     "correct": 2,
-    "explanation": "Waiting silently is not enough if you ignore the speaker's idea; a useful response connects to what was said. This matches the task.\nHint: Use classroom volume and clear pace.",
+    "explanation": "Wait/write idea/use agreed signal and acknowledge current speaker; two strategies explained is the stronger response because it uses the target skill. Connect to what was already said.\nHint: Connect to what was already said.",
     "structuredExplanation": {
-      "summary": "Waiting silently is not enough if you ignore the speaker's idea; a useful response connects to what was said. This matches the task.",
-      "hint": "Use classroom volume and clear pace."
+      "summary": "Wait/write idea/use agreed signal and acknowledge current speaker; two strategies explained is the stronger response because it uses the target skill. Connect to what was already said.",
+      "hint": "Connect to what was already said."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly02-t-016",
     "curriculumCode": "AC9E1LY02",
     "bank": "test",
-    "skill": "ac9e1ly02 08 strategy",
+    "skill": "ac9e1ly02 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Speak clearly; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Speak clearly; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-016\"></use></svg>",
+    "question": "A classmate chose “Do not listen for the idea before responding.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not listen for the idea before responding.. Which answer would improve their response?",
+    "visual": "📖 Evaluate a discussion; 🔎 response; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Evaluate a discussion; 🔎 response; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Speak clearly; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly02.svg#ac9e1ly02-t-007",
+      "alt_text": "📖 Evaluate a discussion; 🔎 response; ✅ choose with evidence"
     },
     "answers": [
-      "Look for clear voice and check the whole example.",
-      "Add a new idea without responding to the partner.",
-      "Do not listen for the idea before responding."
+      "One practical improvement for each of the five named skills, connected to the scenario",
+      "Do not listen for the idea before responding.",
+      "Do not use classroom volume and clear pace."
     ],
     "correct": 0,
-    "explanation": "Look for clear voice and check the whole example.\nHint: Use classroom volume and clear pace.",
+    "explanation": "One practical improvement for each of the five named skills, connected to the scenario is the stronger response because it uses the target skill. Listen for the idea before responding.\nHint: Listen for the idea before responding.",
     "structuredExplanation": {
-      "summary": "Look for clear voice and check the whole example.",
-      "hint": "Use classroom volume and clear pace."
+      "summary": "One practical improvement for each of the five named skills, connected to the scenario is the stronger response because it uses the target skill. Listen for the idea before responding.",
+      "hint": "Listen for the idea before responding."
     },
     "qualitySchema": "production-v1"
   }

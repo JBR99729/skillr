@@ -6,8 +6,6 @@
 
   const path = window.location.pathname;
 
-  // Site-wide additive UX layer. CSS is tightly scoped to curriculum pages and
-  // the JS only enhances year landing/curriculum hubs; quiz engines are untouched.
   if (!document.querySelector('link[href*="/assets/multi-audience-ux.css"]')) {
     const uxStyle = document.createElement("link");
     uxStyle.rel = "stylesheet";
@@ -21,9 +19,6 @@
     document.head.appendChild(uxScript);
   }
 
-  // This bootstrap is loaded site-wide by pwa-register.js. Use it to ensure
-  // every standard Practice/Test page gets learning analytics, including older
-  // generated pages that do not explicitly load production-question-ui.js.
   const standardQuiz = /^\/quiz\/(?:grade-k|year-\d+)\/(?:math|science|english)\/[^/]+\/(?:practice|test)\/?$/i.test(path);
   if (standardQuiz && !document.querySelector('script[src*="/quiz/assets/production-question-ui.js"]')) {
     const analyticsBase = "/quiz/assets/learning-analytics.js";
@@ -39,7 +34,6 @@
   const isFoundationOrYear1Topic = /^\/(foundation|year1)\//i.test(path);
   const year1EnglishPracticeTest = /^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/(practice|test)\/?$/i.test(path);
   const year1EnglishWorksheet = /^\/quiz\/year-1\/english\/ac9e1[a-z0-9]+\/worksheet\/?$/i.test(path);
-  const year1EnglishTopic = /^\/year1\/english\/ac9e1/i.test(path);
 
   if (!isFoundationOrYear1Topic && !year1EnglishPracticeTest && !year1EnglishWorksheet) return;
 
@@ -56,37 +50,41 @@
     return script;
   }
 
+  function withYear1EnglishStudentFacing(callback) {
+    const loadOverlay = () => {
+      if (window.SkillrYear1EnglishStudentFacing) { callback(); return; }
+      const overlay = loadScript("/assets/year1-english-student-facing.js?v=20260902", "skillr-year1-english-student-facing");
+      overlay?.addEventListener("load", callback, { once:true });
+      setTimeout(() => { if (window.SkillrYear1EnglishStudentFacing) callback(); }, 350);
+    };
+    if (window.SkillrYear1EnglishData) { loadOverlay(); return; }
+    const data = loadScript("/assets/year1-english-data.js?v=2", "skillr-year1-english-data");
+    data?.addEventListener("load", loadOverlay, { once:true });
+    setTimeout(() => { if (window.SkillrYear1EnglishData) loadOverlay(); }, 350);
+  }
+
   if (year1EnglishPracticeTest) {
-    loadScript("/assets/year1-english-practice-quick-read.js?v=1", "skillr-year1-english-quick-read");
+    withYear1EnglishStudentFacing(() => loadScript("/assets/year1-english-practice-quick-read.js?v=3", "skillr-year1-english-quick-read"));
   }
 
   if (year1EnglishWorksheet) {
-    loadScript("/assets/year1-english-worksheet-page.js?v=1", "skillr-year1-english-worksheet");
+    withYear1EnglishStudentFacing(() => loadScript("/assets/year1-english-worksheet-page.js?v=3", "skillr-year1-english-worksheet"));
   }
 
-  if (year1EnglishTopic) {
-    const dataScript = loadScript("/assets/year1-english-data.js?v=1", "skillr-year1-english-data");
-    const loadRenderer = () => loadScript("/assets/year1-english-render.js?v=1", "skillr-year1-english-render");
-    if (window.SkillrYear1EnglishData) loadRenderer();
-    else dataScript?.addEventListener("load", loadRenderer, { once: true });
-    setTimeout(() => { if (window.SkillrYear1EnglishData) loadRenderer(); }, 500);
-  }
+  // Year 1 English Topic Guides are fixed static curriculum pages. Do not load
+  // the legacy runtime renderer here; the authored static rebuild owns them.
 
   function cleanHeadings() {
     document.querySelectorAll("h2,h3").forEach((heading) => {
       const text = (heading.textContent || "").trim();
-      if (/^(?:⚠️\s*)?fix these$/i.test(text)) {
-        heading.textContent = "Common Mix-Ups";
-      }
+      if (/^(?:⚠️\s*)?fix these$/i.test(text)) heading.textContent = "Common Mix-Ups";
     });
   }
 
   function removeWeakFallbackCopy() {
     document.querySelectorAll("p").forEach((paragraph) => {
       const text = (paragraph.textContent || "").replace(/\s+/g, " ").trim();
-      if (/^If not:\s*return to the concrete\/visual teaching model\.?$/i.test(text)) {
-        paragraph.remove();
-      }
+      if (/^If not:\s*return to the concrete\/visual teaching model\.?$/i.test(text)) paragraph.remove();
     });
   }
 

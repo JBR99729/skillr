@@ -9,12 +9,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Read a mixed row—said, the, have, come, one—twice, aiming for smooth accuracy rather than racing.",
     "audioPrompt": "Read a mixed row—said, the, have, come, one—twice, aiming for smooth accuracy rather than racing.",
-    "visual": "📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001\"></use></svg>",
+    "visual": "📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001",
-      "alt_text": "📖 Demonstrate rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
+      "alt_text": "📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
     },
     "answers": [
       "All five read accurately with improved or steady smoothness",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly14 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate rapid accurate reading?",
-    "audioPrompt": "Which tip would help you demonstrate rapid accurate reading?",
-    "visual": "🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002\"></use></svg>",
+    "question": "Which tip would help you show rapid accurate reading?",
+    "audioPrompt": "Which tip would help you show rapid accurate reading?",
+    "visual": "🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002",
-      "alt_text": "🧠 Demonstrate rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
+      "alt_text": "🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
     },
     "answers": [
       "Do not use it in a sentence.",
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly14-t-009",
     "curriculumCode": "AC9E1LY14",
     "bank": "test",
-    "skill": "ac9e1ly14 05 answer",
+    "skill": "ac9e1ly14 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly14 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly14 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 sentence; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 sentence; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-009",
-      "alt_text": "📖 Rule; 🔎 sentence; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-002",
+      "alt_text": "🧠 show rapid accurate reading; ➡️ Read word; 💡 helpful strategy"
     },
     "answers": [
+      "Memorise only the word shape.",
       "Do not use it in a sentence.",
-      "Ignore errors.",
-      "High-frequency words appear often, so readers learn to recognise and write them quickly"
+      "Map sounds and tricky letters."
     ],
     "correct": 2,
-    "explanation": "High-frequency words appear often, so readers learn to recognise and write them quickly This matches the task.\nHint: Use it in a sentence.",
+    "explanation": "Map sounds and tricky letters. is the useful check. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
     "structuredExplanation": {
-      "summary": "High-frequency words appear often, so readers learn to recognise and write them quickly This matches the task.",
-      "hint": "Use it in a sentence."
+      "summary": "Map sounds and tricky letters. is the useful check. Map sounds and tricky letters.",
+      "hint": "Map sounds and tricky letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly14-t-010",
     "curriculumCode": "AC9E1LY14",
     "bank": "test",
-    "skill": "ac9e1ly14 05 strategy",
+    "skill": "ac9e1ly14 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Use in sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Use in sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw meaning contrasts; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw meaning contrasts; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-010",
-      "alt_text": "🧠 Rule; ➡️ Use in sentence; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-004",
+      "alt_text": "🧠 Draw meaning contrasts; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Ignore errors.",
-      "Memorise only the word shape."
+      "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+      "Do not use it in a sentence.",
+      "Ignore errors."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Use it in a sentence.",
+    "explanation": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence. is the useful check. Use it in a sentence.\nHint: Use it in a sentence.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence. is the useful check. Use it in a sentence.",
       "hint": "Use it in a sentence."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly14-t-011",
     "curriculumCode": "AC9E1LY14",
     "bank": "test",
-    "skill": "ac9e1ly14 06 answer",
+    "skill": "ac9e1ly14 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly14 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly14 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 high-frequency; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct visual similarity error; ➡️ Map tricky part; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct visual similarity error; ➡️ Map tricky part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-011",
-      "alt_text": "📖 Worked example; 🔎 high-frequency; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-006",
+      "alt_text": "🧠 Correct visual similarity error; ➡️ Map tricky part; 💡 helpful strategy"
     },
     "answers": [
       "Ignore errors.",
-      "In have, h and v are regular, while the final e does not make a long-a sound",
+      "Look for read and check the whole example.",
       "Memorise only the word shape."
     ],
     "correct": 1,
-    "explanation": "In have, h and v are regular, while the final e does not make a long-a sound This matches the task.\nHint: Cover, write and check carefully.",
+    "explanation": "Look for read and check the whole example. is the useful check. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
     "structuredExplanation": {
-      "summary": "In have, h and v are regular, while the final e does not make a long-a sound This matches the task.",
+      "summary": "Look for read and check the whole example. is the useful check. Cover, write and check carefully.",
       "hint": "Cover, write and check carefully."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly14-t-012",
     "curriculumCode": "AC9E1LY14",
     "bank": "test",
-    "skill": "ac9e1ly14 06 strategy",
+    "skill": "ac9e1ly14 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Read word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Read word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Use a high-frequency word bank; ➡️ Write; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Use a high-frequency word bank; ➡️ Write; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Read word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-008",
+      "alt_text": "🧠 Use a high-frequency word bank; ➡️ Write; 💡 helpful strategy"
     },
     "answers": [
       "Memorise only the word shape.",
       "Do not use it in a sentence.",
-      "Cover, write and check carefully."
+      "Check that you can use in sentences."
     ],
     "correct": 2,
-    "explanation": "Cover, write and check carefully.\nHint: Cover, write and check carefully.",
+    "explanation": "Check that you can use in sentences. is the useful check. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
     "structuredExplanation": {
-      "summary": "Cover, write and check carefully.",
-      "hint": "Cover, write and check carefully."
+      "summary": "Check that you can use in sentences. is the useful check. Map sounds and tricky letters.",
+      "hint": "Map sounds and tricky letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly14-t-013",
     "curriculumCode": "AC9E1LY14",
     "bank": "test",
-    "skill": "ac9e1ly14 07 answer",
+    "skill": "ac9e1ly14 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly14 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly14 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Practice strategy; 🔎 tricky part; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Practice strategy; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-013\"></use></svg>",
+    "question": "A classmate chose “Memorise only the word shape.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Memorise only the word shape.. Which answer would improve their response?",
+    "visual": "📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-013",
-      "alt_text": "📖 Practice strategy; 🔎 tricky part; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-001",
+      "alt_text": "📖 show rapid accurate reading; 🔎 high-frequency; ✅ choose with evidence"
     },
     "answers": [
-      "Read the word in a sentence, notice the tricky part, write it from memory, then compare and correct.",
+      "All five read accurately with improved or steady smoothness",
       "Memorise only the word shape.",
       "Do not use it in a sentence."
     ],
     "correct": 0,
-    "explanation": "Read the word in a sentence, notice the tricky part, write it from memory, then compare and correct. This matches the task.\nHint: Map sounds and tricky letters.",
+    "explanation": "All five read accurately with improved or steady smoothness is the stronger response because it uses the target skill. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
     "structuredExplanation": {
-      "summary": "Read the word in a sentence, notice the tricky part, write it from memory, then compare and correct. This matches the task.",
+      "summary": "All five read accurately with improved or steady smoothness is the stronger response because it uses the target skill. Map sounds and tricky letters.",
       "hint": "Map sounds and tricky letters."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly14-t-014",
     "curriculumCode": "AC9E1LY14",
     "bank": "test",
-    "skill": "ac9e1ly14 07 strategy",
+    "skill": "ac9e1ly14 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you practice strategy?",
-    "audioPrompt": "Which tip would help you practice strategy?",
-    "visual": "🧠 Practice strategy; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Practice strategy; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-014\"></use></svg>",
+    "question": "A classmate chose “Do not use it in a sentence.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not use it in a sentence.. Which answer would improve their response?",
+    "visual": "📖 Draw meaning contrasts; 🔎 tricky part; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw meaning contrasts; 🔎 tricky part; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-014",
-      "alt_text": "🧠 Practice strategy; ➡️ Say word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-003",
+      "alt_text": "📖 Draw meaning contrasts; 🔎 tricky part; ✅ choose with evidence"
     },
     "answers": [
       "Do not use it in a sentence.",
-      "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
+      "Three meanings distinguished and spellings used correctly in age-supported sentences",
       "Ignore errors."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.\nHint: Map sounds and tricky letters.",
+    "explanation": "Three meanings distinguished and spellings used correctly in age-supported sentences is the stronger response because it uses the target skill. Use it in a sentence.\nHint: Use it in a sentence.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read word → Say word → Map tricky part → Write → Use in sentence.",
-      "hint": "Map sounds and tricky letters."
+      "summary": "Three meanings distinguished and spellings used correctly in age-supported sentences is the stronger response because it uses the target skill. Use it in a sentence.",
+      "hint": "Use it in a sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly14-t-015",
     "curriculumCode": "AC9E1LY14",
     "bank": "test",
-    "skill": "ac9e1ly14 08 answer",
+    "skill": "ac9e1ly14 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly14 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly14 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-015\"></use></svg>",
+    "question": "A classmate chose “Ignore errors.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Ignore errors.. Which answer would improve their response?",
+    "visual": "📖 Correct visual similarity error; 🔎 read; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct visual similarity error; 🔎 read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-015",
-      "alt_text": "📖 Common trap; 🔎 read; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-005",
+      "alt_text": "📖 Correct visual similarity error; 🔎 read; ✅ choose with evidence"
     },
     "answers": [
-      "Do not use it in a sentence.",
       "Ignore errors.",
-      "Fast guessing is not mastery; the word must be read accurately and spelled correctly in meaningful text."
+      "Memorise only the word shape.",
+      "Look through all letters, blend/recognise the whole word and check sentence meaning"
     ],
     "correct": 2,
-    "explanation": "Fast guessing is not mastery; the word must be read accurately and spelled correctly in meaningful text. This matches the task.\nHint: Use it in a sentence.",
+    "explanation": "Look through all letters, blend/recognise the whole word and check sentence meaning is the stronger response because it uses the target skill. Cover, write and check carefully.\nHint: Cover, write and check carefully.",
     "structuredExplanation": {
-      "summary": "Fast guessing is not mastery; the word must be read accurately and spelled correctly in meaningful text. This matches the task.",
-      "hint": "Use it in a sentence."
+      "summary": "Look through all letters, blend/recognise the whole word and check sentence meaning is the stronger response because it uses the target skill. Cover, write and check carefully.",
+      "hint": "Cover, write and check carefully."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly14-t-016",
     "curriculumCode": "AC9E1LY14",
     "bank": "test",
-    "skill": "ac9e1ly14 08 strategy",
+    "skill": "ac9e1ly14 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Map tricky part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Map tricky part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-016\"></use></svg>",
+    "question": "A classmate chose “Memorise only the word shape.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Memorise only the word shape.. Which answer would improve their response?",
+    "visual": "📖 Use a high-frequency word bank; 🔎 write; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Use a high-frequency word bank; 🔎 write; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Map tricky part; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly14.svg#ac9e1ly14-t-007",
+      "alt_text": "📖 Use a high-frequency word bank; 🔎 write; ✅ choose with evidence"
     },
     "answers": [
-      "Look for read and check the whole example.",
-      "Ignore errors.",
-      "Memorise only the word shape."
+      "Four coherent sentences; eight appropriate frequent words underlined and accurately spelled after checking",
+      "Memorise only the word shape.",
+      "Do not use it in a sentence."
     ],
     "correct": 0,
-    "explanation": "Look for read and check the whole example.\nHint: Use it in a sentence.",
+    "explanation": "Four coherent sentences; eight appropriate frequent words underlined and accurately spelled after checking is the stronger response because it uses the target skill. Map sounds and tricky letters.\nHint: Map sounds and tricky letters.",
     "structuredExplanation": {
-      "summary": "Look for read and check the whole example.",
-      "hint": "Use it in a sentence."
+      "summary": "Four coherent sentences; eight appropriate frequent words underlined and accurately spelled after checking is the stronger response because it uses the target skill. Map sounds and tricky letters.",
+      "hint": "Map sounds and tricky letters."
     },
     "qualitySchema": "production-v1"
   }

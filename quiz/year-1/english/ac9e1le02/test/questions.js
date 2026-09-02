@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le02 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate two connections?",
-    "audioPrompt": "Which response would correctly demonstrate two connections?",
-    "visual": "📖 Demonstrate two connections; 🔎 connection; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate two connections; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001\"></use></svg>",
+    "question": "Which response would correctly show two connections?",
+    "audioPrompt": "Which response would correctly show two connections?",
+    "visual": "📖 show two connections; 🔎 connection; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two connections; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001",
-      "alt_text": "📖 Demonstrate two connections; 🔎 connection; ✅ choose with evidence"
+      "alt_text": "📖 show two connections; 🔎 connection; ✅ choose with evidence"
     },
     "answers": [
       "Two distinct, relevant connections with brief explanations",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le02 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate two connections?",
-    "audioPrompt": "Which tip would help you demonstrate two connections?",
-    "visual": "🧠 Demonstrate two connections; ➡️ Listen/read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate two connections; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002\"></use></svg>",
+    "question": "Which tip would help you show two connections?",
+    "audioPrompt": "Which tip would help you show two connections?",
+    "visual": "🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002",
-      "alt_text": "🧠 Demonstrate two connections; ➡️ Listen/read; 💡 helpful strategy"
+      "alt_text": "🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy"
     },
     "answers": [
       "Give a connection that is too vague.",
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le02-t-009",
     "curriculumCode": "AC9E1LE02",
     "bank": "test",
-    "skill": "ac9e1le02 05 answer",
+    "skill": "ac9e1le02 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le02 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le02 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 discussion; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 discussion; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-009",
-      "alt_text": "📖 Rule; 🔎 discussion; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-002",
+      "alt_text": "🧠 show two connections; ➡️ Listen/read; 💡 helpful strategy"
     },
     "answers": [
+      "Leave out your thought, feeling or connection.",
       "Give a connection that is too vague.",
-      "Do not listen first, then respond.",
-      "Use the rule for this English skill"
+      "Add your thought, feeling or connection."
     ],
     "correct": 2,
-    "explanation": "Use the rule for this English skill This matches the task.\nHint: Name the part of the text that made the connection.",
+    "explanation": "Add your thought, feeling or connection. is the useful check. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "Use the rule for this English skill This matches the task.",
-      "hint": "Name the part of the text that made the connection."
+      "summary": "Add your thought, feeling or connection. is the useful check. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le02-t-010",
     "curriculumCode": "AC9E1LE02",
     "bank": "test",
-    "skill": "ac9e1le02 05 strategy",
+    "skill": "ac9e1le02 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Listen/read; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Listen/read; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw similarity and difference; ➡️ Notice part; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw similarity and difference; ➡️ Notice part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-010",
-      "alt_text": "🧠 Rule; ➡️ Listen/read; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-004",
+      "alt_text": "🧠 Draw similarity and difference; ➡️ Notice part; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Do not listen first, then respond.",
-      "Leave out your thought, feeling or connection."
+      "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "Give a connection that is too vague.",
+      "Do not listen first, then respond."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Name the part of the text that made the connection.",
+    "explanation": "Use this routine: Listen/read → Notice part → Connect → Explain response. is the useful check. Name the part of the text that made the connection.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response. is the useful check. Name the part of the text that made the connection.",
       "hint": "Name the part of the text that made the connection."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le02-t-011",
     "curriculumCode": "AC9E1LE02",
     "bank": "test",
-    "skill": "ac9e1le02 06 answer",
+    "skill": "ac9e1le02 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le02 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le02 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 connection; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Repair an overclaim; ➡️ Connect; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Repair an overclaim; ➡️ Connect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-011",
-      "alt_text": "📖 Worked example; 🔎 connection; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-006",
+      "alt_text": "🧠 Repair an overclaim; ➡️ Connect; 💡 helpful strategy"
     },
     "answers": [
-      "Do not listen first, then respond.",
-      "'The character felt nervous on the first day",
-      "Leave out your thought, feeling or connection."
+      "The character must feel exactly as I did",
+      "Look for thought and check the whole example.",
+      "Do not listen first, then respond."
     ],
     "correct": 1,
-    "explanation": "'The character felt nervous on the first day This matches the task.\nHint: Listen first, then respond.",
+    "explanation": "Look for thought and check the whole example. is the useful check. Listen first, then respond.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "'The character felt nervous on the first day This matches the task.",
+      "summary": "Look for thought and check the whole example. is the useful check. Listen first, then respond.",
       "hint": "Listen first, then respond."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le02-t-012",
     "curriculumCode": "AC9E1LE02",
     "bank": "test",
-    "skill": "ac9e1le02 06 strategy",
+    "skill": "ac9e1le02 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Notice part; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Notice part; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Build a complete response; ➡️ Explain response; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Build a complete response; ➡️ Explain response; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Notice part; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-008",
+      "alt_text": "🧠 Build a complete response; ➡️ Explain response; 💡 helpful strategy"
     },
     "answers": [
       "Leave out your thought, feeling or connection.",
       "Give a connection that is too vague.",
-      "Listen first, then respond."
+      "Check that you can use text evidence."
     ],
     "correct": 2,
-    "explanation": "Listen first, then respond.\nHint: Listen first, then respond.",
+    "explanation": "Check that you can use text evidence. is the useful check. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "Listen first, then respond.",
-      "hint": "Listen first, then respond."
+      "summary": "Check that you can use text evidence. is the useful check. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le02-t-013",
     "curriculumCode": "AC9E1LE02",
     "bank": "test",
-    "skill": "ac9e1le02 07 answer",
+    "skill": "ac9e1le02 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le02 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le02 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Discussion language; 🔎 feeling; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discussion language; 🔎 feeling; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-013\"></use></svg>",
+    "question": "A classmate chose “Leave out your thought, feeling or connection.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Leave out your thought, feeling or connection.. Which answer would improve their response?",
+    "visual": "📖 show two connections; 🔎 connection; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show two connections; 🔎 connection; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-013",
-      "alt_text": "📖 Discussion language; 🔎 feeling; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-001",
+      "alt_text": "📖 show two connections; 🔎 connection; ✅ choose with evidence"
     },
     "answers": [
-      "Use This reminds me of ___ , Both ___ , Unlike ___ , and I understand the character because ___",
+      "Two distinct, relevant connections with brief explanations",
       "Leave out your thought, feeling or connection.",
       "Give a connection that is too vague."
     ],
     "correct": 0,
-    "explanation": "Use This reminds me of ___ , Both ___ , Unlike ___ , and I understand the character because ___ This matches the task.\nHint: Add your thought, feeling or connection.",
+    "explanation": "Two distinct, relevant connections with brief explanations is the stronger response because it uses the target skill. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "Use This reminds me of ___ , Both ___ , Unlike ___ , and I understand the character because ___ This matches the task.",
+      "summary": "Two distinct, relevant connections with brief explanations is the stronger response because it uses the target skill. Add your thought, feeling or connection.",
       "hint": "Add your thought, feeling or connection."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le02-t-014",
     "curriculumCode": "AC9E1LE02",
     "bank": "test",
-    "skill": "ac9e1le02 07 strategy",
+    "skill": "ac9e1le02 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you discussion language?",
-    "audioPrompt": "Which tip would help you discussion language?",
-    "visual": "🧠 Discussion language; ➡️ Connect; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Discussion language; ➡️ Connect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-014\"></use></svg>",
+    "question": "A classmate chose “Give a connection that is too vague.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Give a connection that is too vague.. Which answer would improve their response?",
+    "visual": "📖 Draw similarity and difference; 🔎 feeling; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw similarity and difference; 🔎 feeling; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-014",
-      "alt_text": "🧠 Discussion language; ➡️ Connect; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-003",
+      "alt_text": "📖 Draw similarity and difference; 🔎 feeling; ✅ choose with evidence"
     },
     "answers": [
       "Give a connection that is too vague.",
-      "Use this routine: Listen/read → Notice part → Connect → Explain response.",
+      "Meaningful shared feature and contrast are clearly tied to the two events",
       "Do not listen first, then respond."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Listen/read → Notice part → Connect → Explain response.\nHint: Add your thought, feeling or connection.",
+    "explanation": "Meaningful shared feature and contrast are clearly tied to the two events is the stronger response because it uses the target skill. Name the part of the text that made the connection.\nHint: Name the part of the text that made the connection.",
     "structuredExplanation": {
-      "summary": "Use this routine: Listen/read → Notice part → Connect → Explain response.",
-      "hint": "Add your thought, feeling or connection."
+      "summary": "Meaningful shared feature and contrast are clearly tied to the two events is the stronger response because it uses the target skill. Name the part of the text that made the connection.",
+      "hint": "Name the part of the text that made the connection."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le02-t-015",
     "curriculumCode": "AC9E1LE02",
     "bank": "test",
-    "skill": "ac9e1le02 08 answer",
+    "skill": "ac9e1le02 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le02 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le02 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 thought; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 thought; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-015\"></use></svg>",
+    "question": "A classmate chose “The character must feel exactly as I did”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose The character must feel exactly as I did. Which answer would improve their response?",
+    "visual": "📖 Repair an overclaim; 🔎 thought; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair an overclaim; 🔎 thought; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-015",
-      "alt_text": "📖 Common trap; 🔎 thought; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-005",
+      "alt_text": "📖 Repair an overclaim; 🔎 thought; ✅ choose with evidence"
     },
     "answers": [
-      "Give a connection that is too vague.",
+      "The character must feel exactly as I did",
       "Do not listen first, then respond.",
-      "A connection must help discuss the text; sharing an unrelated memory does not explain character or event."
+      "Connection suggests possibilities, but character evidence and different circumstances matter"
     ],
     "correct": 2,
-    "explanation": "A connection must help discuss the text; sharing an unrelated memory does not explain character or event. This matches the task.\nHint: Name the part of the text that made the connection.",
+    "explanation": "Connection suggests possibilities, but character evidence and different circumstances matter is the stronger response because it uses the target skill. Listen first, then respond.\nHint: Listen first, then respond.",
     "structuredExplanation": {
-      "summary": "A connection must help discuss the text; sharing an unrelated memory does not explain character or event. This matches the task.",
-      "hint": "Name the part of the text that made the connection."
+      "summary": "Connection suggests possibilities, but character evidence and different circumstances matter is the stronger response because it uses the target skill. Listen first, then respond.",
+      "hint": "Listen first, then respond."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le02-t-016",
     "curriculumCode": "AC9E1LE02",
     "bank": "test",
-    "skill": "ac9e1le02 08 strategy",
+    "skill": "ac9e1le02 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Explain response; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Explain response; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-016\"></use></svg>",
+    "question": "A classmate chose “Leave out your thought, feeling or connection.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Leave out your thought, feeling or connection.. Which answer would improve their response?",
+    "visual": "📖 Build a complete response; 🔎 experience; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Build a complete response; 🔎 experience; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Explain response; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le02.svg#ac9e1le02-t-007",
+      "alt_text": "📖 Build a complete response; 🔎 experience; ✅ choose with evidence"
     },
     "answers": [
-      "Look for thought and check the whole example.",
-      "Do not listen first, then respond.",
-      "Leave out your thought, feeling or connection."
+      "All five elements are present and relevant",
+      "Leave out your thought, feeling or connection.",
+      "Give a connection that is too vague."
     ],
     "correct": 0,
-    "explanation": "Look for thought and check the whole example.\nHint: Name the part of the text that made the connection.",
+    "explanation": "All five elements are present and relevant is the stronger response because it uses the target skill. Add your thought, feeling or connection.\nHint: Add your thought, feeling or connection.",
     "structuredExplanation": {
-      "summary": "Look for thought and check the whole example.",
-      "hint": "Name the part of the text that made the connection."
+      "summary": "All five elements are present and relevant is the stronger response because it uses the target skill. Add your thought, feeling or connection.",
+      "hint": "Add your thought, feeling or connection."
     },
     "qualitySchema": "production-v1"
   }

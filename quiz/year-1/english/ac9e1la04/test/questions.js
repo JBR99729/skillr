@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la04 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate rhythm change?",
-    "audioPrompt": "Which response would correctly demonstrate rhythm change?",
-    "visual": "📖 Demonstrate rhythm change; 🔎 repeat; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate rhythm change; 🔎 repeat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001\"></use></svg>",
+    "question": "Which response would correctly show rhythm change?",
+    "audioPrompt": "Which response would correctly show rhythm change?",
+    "visual": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show rhythm change; 🔎 repeat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001",
-      "alt_text": "📖 Demonstrate rhythm change; 🔎 repeat; ✅ choose with evidence"
+      "alt_text": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence"
     },
     "answers": [
       "Steady version is easier because listeners can predict and follow the rhythm",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la04 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate rhythm change?",
-    "audioPrompt": "Which tip would help you demonstrate rhythm change?",
-    "visual": "🧠 Demonstrate rhythm change; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate rhythm change; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002\"></use></svg>",
+    "question": "Which tip would help you show rhythm change?",
+    "audioPrompt": "Which tip would help you show rhythm change?",
+    "visual": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002",
-      "alt_text": "🧠 Demonstrate rhythm change; ➡️ Listen; 💡 helpful strategy"
+      "alt_text": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
       "Read without rhythm.",
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la04-t-009",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "ac9e1la04 05 answer",
+    "skill": "ac9e1la04 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la04 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la04 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 song; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 song; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-009",
-      "alt_text": "📖 Rule; 🔎 song; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-002",
+      "alt_text": "🧠 show rhythm change; ➡️ Listen; 💡 helpful strategy"
     },
     "answers": [
+      "Choose a word with the same first sound instead of a rhyme.",
       "Read without rhythm.",
-      "Do not listen for words or lines that come back.",
-      "Repetition brings words or lines back, rhyme repeats ending sounds, and rhythm creates a beat"
+      "Rhyme usually matches the ending sound."
     ],
     "correct": 2,
-    "explanation": "Repetition brings words or lines back, rhyme repeats ending sounds, and rhythm creates a beat This matches the task.\nHint: Clap or tap the beat first.",
+    "explanation": "Rhyme usually matches the ending sound. is the useful check. Rhyme usually matches the ending sound.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "Repetition brings words or lines back, rhyme repeats ending sounds, and rhythm creates a beat This matches the task.",
-      "hint": "Clap or tap the beat first."
+      "summary": "Rhyme usually matches the ending sound. is the useful check. Rhyme usually matches the ending sound.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la04-t-010",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "ac9e1la04 05 strategy",
+    "skill": "ac9e1la04 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Perform; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Perform; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw a refrain pattern; ➡️ Clap rhythm; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a refrain pattern; ➡️ Clap rhythm; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-010",
-      "alt_text": "🧠 Rule; ➡️ Perform; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-004",
+      "alt_text": "🧠 Draw a refrain pattern; ➡️ Clap rhythm; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Do not listen for words or lines that come back.",
-      "Choose a word with the same first sound instead of a rhyme."
+      "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.",
+      "Read without rhythm.",
+      "Do not listen for words or lines that come back."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Clap or tap the beat first.",
+    "explanation": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform. is the useful check. Clap or tap the beat first.\nHint: Clap or tap the beat first.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform. is the useful check. Clap or tap the beat first.",
       "hint": "Clap or tap the beat first."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la04-t-011",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "ac9e1la04 06 answer",
+    "skill": "ac9e1la04 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la04 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la04 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 repeat; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 repeat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct spelling-only reasoning; ➡️ Find repeat; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct spelling-only reasoning; ➡️ Find repeat; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-011",
-      "alt_text": "📖 Worked example; 🔎 repeat; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-006",
+      "alt_text": "🧠 Correct spelling-only reasoning; ➡️ Find repeat; 💡 helpful strategy"
     },
     "answers": [
-      "Do not listen for words or lines that come back.",
-      "'Tap your toes, touch your nose' rhymes toes/nose; repeating 'Tap, tap, tap' strengthens the beat.",
-      "Choose a word with the same first sound instead of a rhyme."
+      "ove",
+      "Look for rhythm and check the whole example.",
+      "Do not listen for words or lines that come back."
     ],
     "correct": 1,
-    "explanation": "'Tap your toes, touch your nose' rhymes toes/nose; repeating 'Tap, tap, tap' strengthens the beat. This matches the task.\nHint: Listen for words or lines that come back.",
+    "explanation": "Look for rhythm and check the whole example. is the useful check. Listen for words or lines that come back.\nHint: Listen for words or lines that come back.",
     "structuredExplanation": {
-      "summary": "'Tap your toes, touch your nose' rhymes toes/nose; repeating 'Tap, tap, tap' strengthens the beat. This matches the task.",
+      "summary": "Look for rhythm and check the whole example. is the useful check. Listen for words or lines that come back.",
       "hint": "Listen for words or lines that come back."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la04-t-012",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "ac9e1la04 06 strategy",
+    "skill": "ac9e1la04 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Listen; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Listen; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Analyse a short chant; ➡️ Find rhyme; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a short chant; ➡️ Find rhyme; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Listen; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-008",
+      "alt_text": "🧠 Analyse a short chant; ➡️ Find rhyme; 💡 helpful strategy"
     },
     "answers": [
+      "Turn around, touch the ground; turn around, make no sound",
       "Choose a word with the same first sound instead of a rhyme.",
-      "Read without rhythm.",
-      "Listen for words or lines that come back."
+      "Check that you can perform pattern."
     ],
     "correct": 2,
-    "explanation": "Listen for words or lines that come back.\nHint: Listen for words or lines that come back.",
+    "explanation": "Check that you can perform pattern. is the useful check. Rhyme usually matches the ending sound.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "Listen for words or lines that come back.",
-      "hint": "Listen for words or lines that come back."
+      "summary": "Check that you can perform pattern. is the useful check. Rhyme usually matches the ending sound.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la04-t-013",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "ac9e1la04 07 answer",
+    "skill": "ac9e1la04 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la04 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la04 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Sound clue; 🔎 rhyme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sound clue; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-013\"></use></svg>",
+    "question": "A classmate chose “Choose a word with the same first sound instead of a rhyme.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Choose a word with the same first sound instead of a rhyme.. Which answer would improve their response?",
+    "visual": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show rhythm change; 🔎 repeat; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-013",
-      "alt_text": "📖 Sound clue; 🔎 rhyme; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-001",
+      "alt_text": "📖 show rhythm change; 🔎 repeat; ✅ choose with evidence"
     },
     "answers": [
-      "Rhyme depends on sound, not identical spelling: blue and shoe rhyme, but cough and though do not.",
+      "Steady version is easier because listeners can predict and follow the rhythm",
       "Choose a word with the same first sound instead of a rhyme.",
       "Read without rhythm."
     ],
     "correct": 0,
-    "explanation": "Rhyme depends on sound, not identical spelling: blue and shoe rhyme, but cough and though do not. This matches the task.\nHint: Rhyme usually matches the ending sound.",
+    "explanation": "Steady version is easier because listeners can predict and follow the rhythm is the stronger response because it uses the target skill. Rhyme usually matches the ending sound.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "Rhyme depends on sound, not identical spelling: blue and shoe rhyme, but cough and though do not. This matches the task.",
+      "summary": "Steady version is easier because listeners can predict and follow the rhythm is the stronger response because it uses the target skill. Rhyme usually matches the ending sound.",
       "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la04-t-014",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "ac9e1la04 07 strategy",
+    "skill": "ac9e1la04 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you sound clue?",
-    "audioPrompt": "Which tip would help you sound clue?",
-    "visual": "🧠 Sound clue; ➡️ Clap rhythm; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Sound clue; ➡️ Clap rhythm; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-014\"></use></svg>",
+    "question": "A classmate chose “Read without rhythm.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Read without rhythm.. Which answer would improve their response?",
+    "visual": "📖 Draw a refrain pattern; 🔎 rhyme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a refrain pattern; 🔎 rhyme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-014",
-      "alt_text": "🧠 Sound clue; ➡️ Clap rhythm; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-003",
+      "alt_text": "📖 Draw a refrain pattern; 🔎 rhyme; ✅ choose with evidence"
     },
     "answers": [
       "Read without rhythm.",
-      "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.",
+      "Same refrain follows every verse and repeated text is clearly labelled",
       "Do not listen for words or lines that come back."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.\nHint: Rhyme usually matches the ending sound.",
+    "explanation": "Same refrain follows every verse and repeated text is clearly labelled is the stronger response because it uses the target skill. Clap or tap the beat first.\nHint: Clap or tap the beat first.",
     "structuredExplanation": {
-      "summary": "Use this routine: Listen → Clap rhythm → Find repeat → Find rhyme → Perform.",
-      "hint": "Rhyme usually matches the ending sound."
+      "summary": "Same refrain follows every verse and repeated text is clearly labelled is the stronger response because it uses the target skill. Clap or tap the beat first.",
+      "hint": "Clap or tap the beat first."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la04-t-015",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "ac9e1la04 08 answer",
+    "skill": "ac9e1la04 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la04 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la04 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 rhythm; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 rhythm; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-015\"></use></svg>",
+    "question": "A classmate chose “ove”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose ove. Which answer would improve their response?",
+    "visual": "📖 Correct spelling-only reasoning; 🔎 rhythm; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct spelling-only reasoning; 🔎 rhythm; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-015",
-      "alt_text": "📖 Common trap; 🔎 rhythm; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-005",
+      "alt_text": "📖 Correct spelling-only reasoning; 🔎 rhythm; ✅ choose with evidence"
     },
     "answers": [
-      "Read without rhythm.",
+      "ove",
       "Do not listen for words or lines that come back.",
-      "Words that start alike use alliteration; rhyme usually matches sounds at the end."
+      "Rhyme depends on spoken ending sound; move and love have different vowel sounds"
     ],
     "correct": 2,
-    "explanation": "Words that start alike use alliteration; rhyme usually matches sounds at the end. This matches the task.\nHint: Clap or tap the beat first.",
+    "explanation": "Rhyme depends on spoken ending sound; move and love have different vowel sounds is the stronger response because it uses the target skill. Listen for words or lines that come back.\nHint: Listen for words or lines that come back.",
     "structuredExplanation": {
-      "summary": "Words that start alike use alliteration; rhyme usually matches sounds at the end. This matches the task.",
-      "hint": "Clap or tap the beat first."
+      "summary": "Rhyme depends on spoken ending sound; move and love have different vowel sounds is the stronger response because it uses the target skill. Listen for words or lines that come back.",
+      "hint": "Listen for words or lines that come back."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la04-t-016",
     "curriculumCode": "AC9E1LA04",
     "bank": "test",
-    "skill": "ac9e1la04 08 strategy",
+    "skill": "ac9e1la04 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Find repeat; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Find repeat; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-016\"></use></svg>",
+    "question": "A classmate chose “Turn around, touch the ground; turn around, make no sound”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Turn around, touch the ground; turn around, make no sound. Which answer would improve their response?",
+    "visual": "📖 Analyse a short chant; 🔎 chant; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a short chant; 🔎 chant; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Find repeat; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la04.svg#ac9e1la04-t-007",
+      "alt_text": "📖 Analyse a short chant; 🔎 chant; ✅ choose with evidence"
     },
     "answers": [
-      "Look for rhythm and check the whole example.",
-      "Do not listen for words or lines that come back.",
+      "Repetition: turn around; rhyme: ground/sound; repeated structure supports a predictable beat and cohesion",
+      "Turn around, touch the ground; turn around, make no sound",
       "Choose a word with the same first sound instead of a rhyme."
     ],
     "correct": 0,
-    "explanation": "Look for rhythm and check the whole example.\nHint: Clap or tap the beat first.",
+    "explanation": "Repetition: turn around; rhyme: ground/sound; repeated structure supports a predictable beat and cohesion is the stronger response because it uses the target skill. Rhyme usually matches the ending sound.\nHint: Rhyme usually matches the ending sound.",
     "structuredExplanation": {
-      "summary": "Look for rhythm and check the whole example.",
-      "hint": "Clap or tap the beat first."
+      "summary": "Repetition: turn around; rhyme: ground/sound; repeated structure supports a predictable beat and cohesion is the stronger response because it uses the target skill. Rhyme usually matches the ending sound.",
+      "hint": "Rhyme usually matches the ending sound."
     },
     "qualitySchema": "production-v1"
   }

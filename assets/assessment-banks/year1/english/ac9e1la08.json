@@ -5,7 +5,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_01_answer",
+    "skill": "ac9e1la08_01_recognise",
     "question": "Which response would correctly name an image contribution?",
     "audio_prompt": "Which response would correctly name an image contribution?",
     "visual": {
@@ -32,9 +32,7 @@
       "summary": "It may establish stormy setting, danger or worried mood, supported by visible details This matches the task.",
       "hint": "Explain how the image changes or supports meaning."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
     "id": "AC9E1LA08-P-002",
@@ -42,44 +40,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_01_strategy",
-    "question": "Which tip would help you name an image contribution?",
-    "audio_prompt": "Which tip would help you name an image contribution?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-002",
-      "alt_text": "🧠 Name an image contribution; ➡️ Look at image; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      },
-      {
-        "text": "Explain how the image changes or supports meaning.",
-        "is_correct": true
-      },
-      {
-        "text": "Use one correct image only.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Explain how the image changes or supports meaning.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LA08-P-003",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08_02_answer",
+    "skill": "ac9e1la08_02_recognise",
     "question": "Which response would correctly match image types and jobs?",
     "audio_prompt": "Which response would correctly match image types and jobs?",
     "visual": {
@@ -106,54 +67,15 @@
       "summary": "Each image type matches its purpose-related contribution This matches the task.",
       "hint": "Read words and image together."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA08-P-004",
+    "id": "AC9E1LA08-P-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_02_strategy",
-    "question": "Which tip would help you match image types and jobs?",
-    "audio_prompt": "Which tip would help you match image types and jobs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-004",
-      "alt_text": "🧠 Match image types and jobs; ➡️ Read words; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
-        "is_correct": true
-      },
-      {
-        "text": "Use one correct image only.",
-        "is_correct": false
-      },
-      {
-        "text": "Use describing only.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
-      "hint": "Read words and image together."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LA08-P-005",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08_03_answer",
+    "skill": "ac9e1la08_03_recognise",
     "question": "Which response would correctly compare two frog images?",
     "audio_prompt": "Which response would correctly compare two frog images?",
     "visual": {
@@ -180,52 +102,15 @@
       "summary": "Diagram gives factual parts/features; illustration develops character, setting or event This matches the task.",
       "hint": "Different images can support different meanings."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA08-P-006",
+    "id": "AC9E1LA08-P-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_03_strategy",
-    "question": "Which tip would help you compare two frog images?",
-    "audio_prompt": "Which tip would help you compare two frog images?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-006",
-      "alt_text": "🧠 Compare two frog images; ➡️ Compare message; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use describing only.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for meaning and check the whole example.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for meaning and check the whole example.",
-      "hint": "Different images can support different meanings."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LA08-P-007",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08_04_answer",
+    "skill": "ac9e1la08_04_recognise",
     "question": "Which response would correctly use a caption clue?",
     "audio_prompt": "Which response would correctly use a caption clue?",
     "visual": {
@@ -252,54 +137,15 @@
       "summary": "It identifies time and stage, helping readers interpret the image as evidence of change This matches the task.",
       "hint": "Explain how the image changes or supports meaning."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA08-P-008",
+    "id": "AC9E1LA08-P-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_04_strategy",
-    "question": "Which tip would help you use a caption clue?",
-    "audio_prompt": "Which tip would help you use a caption clue?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-008",
-      "alt_text": "🧠 Use a caption clue; ➡️ Explain effect; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can notice mood/detail.",
-        "is_correct": true
-      },
-      {
-        "text": "Use one correct image only.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can notice mood/detail.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LA08-P-009",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08_05_answer",
+    "skill": "ac9e1la08_05_recognise",
     "question": "Which response would correctly order image reading?",
     "audio_prompt": "Which response would correctly order image reading?",
     "visual": {
@@ -326,54 +172,15 @@
       "summary": "Read title/caption and notice details → connect to text → decide contribution This matches the task.",
       "hint": "Read words and image together."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA08-P-010",
+    "id": "AC9E1LA08-P-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_05_strategy",
-    "question": "Which tip would help you order image reading?",
-    "audio_prompt": "Which tip would help you order image reading?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-010",
-      "alt_text": "🧠 Order image reading; ➡️ Look at image; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sequencing multimodal interpretation.",
-        "is_correct": true
-      },
-      {
-        "text": "Use one correct image only.",
-        "is_correct": false
-      },
-      {
-        "text": "Use describing only.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Sequencing multimodal interpretation.",
-      "hint": "Read words and image together."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LA08-P-011",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08_06_answer",
+    "skill": "ac9e1la08_06_recognise",
     "question": "Which response would correctly draw for two purposes?",
     "audio_prompt": "Which response would correctly draw for two purposes?",
     "visual": {
@@ -400,52 +207,15 @@
       "summary": "Safety image highlights labelled equipment/action This matches the task.",
       "hint": "Different images can support different meanings."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA08-P-012",
+    "id": "AC9E1LA08-P-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_06_strategy",
-    "question": "Which tip would help you draw for two purposes?",
-    "audio_prompt": "Which tip would help you draw for two purposes?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-012",
-      "alt_text": "🧠 Draw for two purposes; ➡️ Read words; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use describing only.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      },
-      {
-        "text": "Different images can support different meanings.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Different images can support different meanings.",
-      "hint": "Different images can support different meanings."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LA08-P-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08_07_answer",
+    "skill": "ac9e1la08_07_recognise",
     "question": "Which response would correctly find unsupported meaning?",
     "audio_prompt": "Which response would correctly find unsupported meaning?",
     "visual": {
@@ -472,52 +242,15 @@
       "summary": "No; it shows one pictured response and may be staged; it cannot prove a universal claim This matches the task.",
       "hint": "Explain how the image changes or supports meaning."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA08-P-014",
+    "id": "AC9E1LA08-P-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_07_strategy",
-    "question": "Which tip would help you find unsupported meaning?",
-    "audio_prompt": "Which tip would help you find unsupported meaning?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-014",
-      "alt_text": "🧠 Find unsupported meaning; ➡️ Compare message; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
-        "is_correct": true
-      },
-      {
-        "text": "Use one correct image only.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
-      "hint": "Explain how the image changes or supports meaning."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LA08-P-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08_08_answer",
+    "skill": "ac9e1la08_08_recognise",
     "question": "Which response would correctly choose an informative image?",
     "audio_prompt": "Which response would correctly choose an informative image?",
     "visual": {
@@ -544,52 +277,15 @@
       "summary": "Step pictures because they show action/order needed to complete the task This matches the task.",
       "hint": "Read words and image together."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA08-P-016",
+    "id": "AC9E1LA08-P-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_08_strategy",
-    "question": "Which tip would help you choose an informative image?",
-    "audio_prompt": "Which tip would help you choose an informative image?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-016",
-      "alt_text": "🧠 Choose an informative image; ➡️ Explain effect; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for meaning and check the whole example.",
-        "is_correct": true
-      },
-      {
-        "text": "Use one correct image only.",
-        "is_correct": false
-      },
-      {
-        "text": "Use describing only.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for meaning and check the whole example.",
-      "hint": "Read words and image together."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LA08-P-017",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08_01_answer",
+    "skill": "ac9e1la08_09_recognise",
     "question": "Which response would correctly infer a character feeling?",
     "audio_prompt": "Which response would correctly infer a character feeling?",
     "visual": {
@@ -616,52 +312,15 @@
       "summary": "A plausible feeling such as sad/disappointed with both visual details cited This matches the task.",
       "hint": "Different images can support different meanings."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA08-P-018",
+    "id": "AC9E1LA08-P-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_01_strategy",
-    "question": "Which tip would help you infer a character feeling?",
-    "audio_prompt": "Which tip would help you infer a character feeling?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-018",
-      "alt_text": "🧠 Infer a character feeling; ➡️ Look at image; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use describing only.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can notice mood/detail.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can notice mood/detail.",
-      "hint": "Different images can support different meanings."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LA08-P-019",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "practice",
-    "skill": "ac9e1la08_02_answer",
+    "skill": "ac9e1la08_10_recognise",
     "question": "Which response would correctly match fresh visuals?",
     "audio_prompt": "Which response would correctly match fresh visuals?",
     "visual": {
@@ -688,8 +347,322 @@
       "summary": "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words This matches the task.",
       "hint": "Explain how the image changes or supports meaning."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
+  },
+  {
+    "id": "AC9E1LA08-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_01_explain",
+    "question": "Which tip would help you name an image contribution?",
+    "audio_prompt": "Which tip would help you name an image contribution?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-002",
+      "alt_text": "🧠 Name an image contribution; ➡️ Look at image; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Ignore words.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how the image changes or supports meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA08-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_02_explain",
+    "question": "Which tip would help you match image types and jobs?",
+    "audio_prompt": "Which tip would help you match image types and jobs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-004",
+      "alt_text": "🧠 Match image types and jobs; ➡️ Read words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      },
+      {
+        "text": "Use describing only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+      "hint": "Read words and image together."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA08-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_03_explain",
+    "question": "Which tip would help you compare two frog images?",
+    "audio_prompt": "Which tip would help you compare two frog images?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-006",
+      "alt_text": "🧠 Compare two frog images; ➡️ Compare message; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use describing only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore words.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for meaning and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for meaning and check the whole example.",
+      "hint": "Different images can support different meanings."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA08-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_04_explain",
+    "question": "Which tip would help you use a caption clue?",
+    "audio_prompt": "Which tip would help you use a caption clue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-008",
+      "alt_text": "🧠 Use a caption clue; ➡️ Explain effect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Ignore words.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice mood/detail.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can notice mood/detail.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA08-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_05_explain",
+    "question": "Which tip would help you order image reading?",
+    "audio_prompt": "Which tip would help you order image reading?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-010",
+      "alt_text": "🧠 Order image reading; ➡️ Look at image; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing multimodal interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      },
+      {
+        "text": "Use describing only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing multimodal interpretation.",
+      "hint": "Read words and image together."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA08-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_06_explain",
+    "question": "Which tip would help you draw for two purposes?",
+    "audio_prompt": "Which tip would help you draw for two purposes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-012",
+      "alt_text": "🧠 Draw for two purposes; ➡️ Read words; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use describing only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore words.",
+        "is_correct": false
+      },
+      {
+        "text": "Different images can support different meanings.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different images can support different meanings.",
+      "hint": "Different images can support different meanings."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA08-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_07_explain",
+    "question": "Which tip would help you find unsupported meaning?",
+    "audio_prompt": "Which tip would help you find unsupported meaning?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-014",
+      "alt_text": "🧠 Find unsupported meaning; ➡️ Compare message; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Ignore words.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA08-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_08_explain",
+    "question": "Which tip would help you choose an informative image?",
+    "audio_prompt": "Which tip would help you choose an informative image?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-016",
+      "alt_text": "🧠 Choose an informative image; ➡️ Explain effect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for meaning and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      },
+      {
+        "text": "Use describing only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for meaning and check the whole example.",
+      "hint": "Read words and image together."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA08-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_09_explain",
+    "question": "Which tip would help you infer a character feeling?",
+    "audio_prompt": "Which tip would help you infer a character feeling?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-018",
+      "alt_text": "🧠 Infer a character feeling; ➡️ Look at image; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use describing only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore words.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice mood/detail.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can notice mood/detail.",
+      "hint": "Different images can support different meanings."
+    },
+    "stage": "explain"
   },
   {
     "id": "AC9E1LA08-P-020",
@@ -697,7 +670,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_02_strategy",
+    "skill": "ac9e1la08_10_explain",
     "question": "Which tip would help you match fresh visuals?",
     "audio_prompt": "Which tip would help you match fresh visuals?",
     "visual": {
@@ -724,8 +697,7 @@
       "summary": "Recognising specialised visual-text features.",
       "hint": "Explain how the image changes or supports meaning."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "explain"
   },
   {
     "id": "AC9E1LA08-P-021",
@@ -733,35 +705,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_03_answer",
-    "question": "Which response would correctly sequence a comic event?",
-    "audio_prompt": "Which response would correctly sequence a comic event?",
+    "skill": "ac9e1la08_01_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-021",
-      "alt_text": "📖 Sequence a comic event; 🔎 image; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-001",
+      "alt_text": "📖 Name an image contribution; 🔎 image; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "inspection → window breaks → Child kicks",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      },
-      {
-        "text": "Child kicks → window breaks → inspection",
+        "text": "It may establish stormy setting, danger or worried meaning, supported by visible details",
         "is_correct": true
+      },
+      {
+        "text": "It may establish stormy setting, danger or worried mood, supported by visible details",
+        "is_correct": false
+      },
+      {
+        "text": "Explain how the image changes or supports meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Child kicks → window breaks → inspection This matches the task.",
-      "hint": "Read words and image together."
+      "summary": "It may establish stormy setting, danger or worried meaning, supported by visible details is the mix-up. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "discriminate"
   },
   {
     "id": "AC9E1LA08-P-022",
@@ -769,17 +740,402 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_03_strategy",
-    "question": "Which tip would help you sequence a comic event?",
-    "audio_prompt": "Which tip would help you sequence a comic event?",
+    "skill": "ac9e1la08_02_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-022",
-      "alt_text": "🧠 Sequence a comic event; ➡️ Compare message; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-003",
+      "alt_text": "📖 Match image types and jobs; 🔎 words; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Read words and image together.",
+        "text": "Each image type matches its purpose-related contribution",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore words.",
+        "is_correct": true
+      },
+      {
+        "text": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ignore words. is the mix-up. Read words and image together.",
+      "hint": "Read words and image together."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA08-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_03_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-005",
+      "alt_text": "📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Diagram gives factual parts/features; illustration develops character, setting or event",
+        "is_correct": false
+      },
+      {
+        "text": "Look for meaning and check the whole example.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use one correct image only. is the mix-up. Different images can support different meanings.",
+      "hint": "Different images can support different meanings."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA08-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_04_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-007",
+      "alt_text": "📖 Use a caption clue; 🔎 mood; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Seedling after 7 days",
+        "is_correct": true
+      },
+      {
+        "text": "It identifies time and stage, helping readers interpret the image as evidence of change",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice mood/detail.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Seedling after 7 days is the mix-up. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA08-P-025",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_05_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-009",
+      "alt_text": "📖 Order image reading; 🔎 detail; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Read title/caption and notice details → connect to text → decide contribution",
+        "is_correct": false
+      },
+      {
+        "text": "decide contribution → connect to text → Read title/caption and notice details",
+        "is_correct": true
+      },
+      {
+        "text": "Sequencing multimodal interpretation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "decide contribution → connect to text → Read title/caption and notice details is the mix-up. Read words and image together.",
+      "hint": "Read words and image together."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA08-P-026",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_06_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-011",
+      "alt_text": "📖 Draw for two purposes; 🔎 image; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Safety image highlights labelled equipment/action",
+        "is_correct": false
+      },
+      {
+        "text": "Different images can support different meanings.",
+        "is_correct": false
+      },
+      {
+        "text": "Safety meaning highlights labelled equipment/action",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Safety meaning highlights labelled equipment/action is the mix-up. Different images can support different meanings.",
+      "hint": "Different images can support different meanings."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA08-P-027",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_07_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-013",
+      "alt_text": "📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use describing only.",
+        "is_correct": true
+      },
+      {
+        "text": "No; it shows one pictured response and may be staged; it cannot prove a universal claim",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use describing only. is the mix-up. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA08-P-028",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_08_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-015",
+      "alt_text": "📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Step pictures because they show action/order needed to complete the task",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore words.",
+        "is_correct": true
+      },
+      {
+        "text": "Look for meaning and check the whole example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ignore words. is the mix-up. Read words and image together.",
+      "hint": "Read words and image together."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA08-P-029",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_09_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-017",
+      "alt_text": "📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "A plausible feeling such as sad/disappointed with both visual details cited",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice mood/detail.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use one correct image only. is the mix-up. Different images can support different meanings.",
+      "hint": "Different images can support different meanings."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA08-P-030",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_10_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-019",
+      "alt_text": "📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Map ↔ detail; close-up ↔ character words; speech bubble ↔ location",
+        "is_correct": true
+      },
+      {
+        "text": "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words",
+        "is_correct": false
+      },
+      {
+        "text": "Recognising specialised visual-text features.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Map ↔ detail; close-up ↔ character words; speech bubble ↔ location is the mix-up. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA08-P-031",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_01_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-001",
+      "alt_text": "📖 Name an image contribution; 🔎 image; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "It may establish stormy setting, danger or worried meaning, supported by visible details",
+        "is_correct": false
+      },
+      {
+        "text": "It may establish stormy setting, danger or worried mood, supported by visible details",
+        "is_correct": true
+      },
+      {
+        "text": "It may establish stormy setting, danger or worried detail, supported by visible details",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It may establish stormy setting, danger or worried mood, supported by visible details uses the skill correctly. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA08-P-032",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_02_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-003",
+      "alt_text": "📖 Match image types and jobs; 🔎 words; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Ignore words.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      },
+      {
+        "text": "Each image type matches its purpose-related contribution",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each image type matches its purpose-related contribution uses the skill correctly. Read words and image together.",
+      "hint": "Read words and image together."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA08-P-033",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_03_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-005",
+      "alt_text": "📖 Compare two frog images; 🔎 meaning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Diagram gives factual parts/features; illustration develops character, setting or event",
         "is_correct": true
       },
       {
@@ -793,33 +1149,32 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Read words and image together.",
-      "hint": "Read words and image together."
+      "summary": "Diagram gives factual parts/features; illustration develops character, setting or event uses the skill correctly. Different images can support different meanings.",
+      "hint": "Different images can support different meanings."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LA08-P-023",
+    "id": "AC9E1LA08-P-034",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_04_answer",
-    "question": "Which response would correctly compare image emphasis?",
-    "audio_prompt": "Which response would correctly compare image emphasis?",
+    "skill": "ac9e1la08_04_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-023",
-      "alt_text": "📖 Compare image emphasis; 🔎 words; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-007",
+      "alt_text": "📖 Use a caption clue; 🔎 mood; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Use one correct image only.",
+        "text": "Seedling after 7 days",
         "is_correct": false
       },
       {
-        "text": "The apple/product; large size creates visual emphasis",
+        "text": "It identifies time and stage, helping readers interpret the image as evidence of change",
         "is_correct": true
       },
       {
@@ -829,29 +1184,28 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The apple/product; large size creates visual emphasis This matches the task.",
-      "hint": "Different images can support different meanings."
+      "summary": "It identifies time and stage, helping readers interpret the image as evidence of change uses the skill correctly. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LA08-P-024",
+    "id": "AC9E1LA08-P-035",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "practice",
-    "skill": "ac9e1la08_04_strategy",
-    "question": "Which tip would help you compare image emphasis?",
-    "audio_prompt": "Which tip would help you compare image emphasis?",
+    "skill": "ac9e1la08_05_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-024",
-      "alt_text": "🧠 Compare image emphasis; ➡️ Explain effect; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-009",
+      "alt_text": "📖 Order image reading; 🔎 detail; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Use describing only.",
+        "text": "decide contribution → connect to text → Read title/caption and notice details",
         "is_correct": false
       },
       {
@@ -859,17 +1213,191 @@
         "is_correct": false
       },
       {
-        "text": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+        "text": "Read title/caption and notice details → connect to text → decide contribution",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
+      "summary": "Read title/caption and notice details → connect to text → decide contribution uses the skill correctly. Read words and image together.",
+      "hint": "Read words and image together."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA08-P-036",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_06_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-011",
+      "alt_text": "📖 Draw for two purposes; 🔎 image; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Safety image highlights labelled equipment/action",
+        "is_correct": true
+      },
+      {
+        "text": "Safety meaning highlights labelled equipment/action",
+        "is_correct": false
+      },
+      {
+        "text": "Safety detail highlights labelled equipment/action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Safety image highlights labelled equipment/action uses the skill correctly. Different images can support different meanings.",
       "hint": "Different images can support different meanings."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA08-P-037",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_07_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-013",
+      "alt_text": "📖 Find unsupported meaning; 🔎 words; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Use describing only.",
+        "is_correct": false
+      },
+      {
+        "text": "No; it shows one pictured response and may be staged; it cannot prove a universal claim",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "No; it shows one pictured response and may be staged; it cannot prove a universal claim uses the skill correctly. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA08-P-038",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_08_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-015",
+      "alt_text": "📖 Choose an informative image; 🔎 meaning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Ignore words.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      },
+      {
+        "text": "Step pictures because they show action/order needed to complete the task",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Step pictures because they show action/order needed to complete the task uses the skill correctly. Read words and image together.",
+      "hint": "Read words and image together."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA08-P-039",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_09_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-017",
+      "alt_text": "📖 Infer a character feeling; 🔎 mood; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "A plausible feeling such as sad/disappointed with both visual details cited",
+        "is_correct": true
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      },
+      {
+        "text": "Use describing only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A plausible feeling such as sad/disappointed with both visual details cited uses the skill correctly. Different images can support different meanings.",
+      "hint": "Different images can support different meanings."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA08-P-040",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "ac9e1la08_10_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-p-019",
+      "alt_text": "📖 Match fresh visuals; 🔎 detail; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Map ↔ detail; close-up ↔ character words; speech bubble ↔ location",
+        "is_correct": false
+      },
+      {
+        "text": "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words",
+        "is_correct": true
+      },
+      {
+        "text": "Use describing only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Map ↔ location; close-up ↔ detail; speech bubble ↔ character words uses the skill correctly. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LA08-T-001",
@@ -878,12 +1406,12 @@
     "curriculum_code": "AC9E1LA08",
     "bank": "test",
     "skill": "ac9e1la08_01_answer",
-    "question": "Which response would correctly demonstrate caption change?",
-    "audio_prompt": "Which response would correctly demonstrate caption change?",
+    "question": "Which response would correctly show caption change?",
+    "audio_prompt": "Which response would correctly show caption change?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001",
-      "alt_text": "📖 Demonstrate caption change; 🔎 image; ✅ choose with evidence"
+      "alt_text": "📖 show caption change; 🔎 image; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -912,12 +1440,12 @@
     "curriculum_code": "AC9E1LA08",
     "bank": "test",
     "skill": "ac9e1la08_01_strategy",
-    "question": "Which tip would help you demonstrate caption change?",
-    "audio_prompt": "Which tip would help you demonstrate caption change?",
+    "question": "Which tip would help you show caption change?",
+    "audio_prompt": "Which tip would help you show caption change?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002",
-      "alt_text": "🧠 Demonstrate caption change; ➡️ Look at image; 💡 helpful strategy"
+      "alt_text": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1149,33 +1677,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "test",
-    "skill": "ac9e1la08_05_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la08 05 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1la08 05 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1la08_01_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-009",
-      "alt_text": "📖 Rule; 🔎 detail; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-002",
+      "alt_text": "🧠 show caption change; ➡️ Look at image; 💡 helpful strategy"
     },
     "answers": [
+      {
+        "text": "Use describing only.",
+        "is_correct": false
+      },
       {
         "text": "Ignore words.",
         "is_correct": false
       },
       {
-        "text": "Use one correct image only.",
-        "is_correct": false
-      },
-      {
-        "text": "Images add meaning differently according to text type: story pictures show character, setting and mood",
+        "text": "Explain how the image changes or supports meaning.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Images add meaning differently according to text type: story pictures show character, setting and mood This matches the task.",
-      "hint": "Read words and image together."
-    }
+      "summary": "Explain how the image changes or supports meaning. is the useful check. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LA08-T-010",
@@ -1183,33 +1712,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "test",
-    "skill": "ac9e1la08_05_strategy",
-    "question": "Which tip would help you rule?",
-    "audio_prompt": "Which tip would help you rule?",
+    "skill": "ac9e1la08_02_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-010",
-      "alt_text": "🧠 Rule; ➡️ Look at image; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-004",
+      "alt_text": "🧠 Draw labelled versus unlabelled; ➡️ Read words; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Using the rule for this English skill.",
+        "text": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
         "is_correct": true
       },
       {
-        "text": "Use one correct image only.",
+        "text": "Ignore words.",
         "is_correct": false
       },
       {
-        "text": "Use describing only.",
+        "text": "Use one correct image only.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect. is the useful check. Read words and image together.",
       "hint": "Read words and image together."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LA08-T-011",
@@ -1217,185 +1747,19 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA08",
     "bank": "test",
-    "skill": "ac9e1la08_06_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la08 06 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1la08 06 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1la08_03_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-011",
-      "alt_text": "📖 Worked example; 🔎 image; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-006",
+      "alt_text": "🧠 Correct a mismatched image; ➡️ Compare message; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Use one correct image only.",
+        "text": "How bees collect nectar",
         "is_correct": false
       },
-      {
-        "text": "Use the worked example for this English skill",
-        "is_correct": true
-      },
-      {
-        "text": "Use describing only.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use the worked example for this English skill This matches the task.",
-      "hint": "Different images can support different meanings."
-    }
-  },
-  {
-    "id": "AC9E1LA08-T-012",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "test",
-    "skill": "ac9e1la08_06_strategy",
-    "question": "Which tip would help you worked example?",
-    "audio_prompt": "Which tip would help you worked example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Read words; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use describing only.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      },
-      {
-        "text": "Different images can support different meanings.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Different images can support different meanings.",
-      "hint": "Different images can support different meanings."
-    }
-  },
-  {
-    "id": "AC9E1LA08-T-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "test",
-    "skill": "ac9e1la08_07_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la08 07 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1la08 07 answer. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-013",
-      "alt_text": "📖 Comparison strategy; 🔎 words; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Use the comparison strategy for this English skill",
-        "is_correct": true
-      },
-      {
-        "text": "Use describing only.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use the comparison strategy for this English skill This matches the task.",
-      "hint": "Explain how the image changes or supports meaning."
-    }
-  },
-  {
-    "id": "AC9E1LA08-T-014",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "test",
-    "skill": "ac9e1la08_07_strategy",
-    "question": "Which tip would help you comparison strategy?",
-    "audio_prompt": "Which tip would help you comparison strategy?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-014",
-      "alt_text": "🧠 Comparison strategy; ➡️ Compare message; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
-        "is_correct": true
-      },
-      {
-        "text": "Use one correct image only.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Look at image → Read words → Compare message → Explain effect.",
-      "hint": "Explain how the image changes or supports meaning."
-    }
-  },
-  {
-    "id": "AC9E1LA08-T-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "test",
-    "skill": "ac9e1la08_08_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la08 08 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1la08 08 answer. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-015",
-      "alt_text": "📖 Common trap; 🔎 meaning; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Ignore words.",
-        "is_correct": false
-      },
-      {
-        "text": "Use one correct image only.",
-        "is_correct": false
-      },
-      {
-        "text": "An attractive image may set mood without proving a factual claim.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "An attractive image may set mood without proving a factual claim. This matches the task.",
-      "hint": "Read words and image together."
-    }
-  },
-  {
-    "id": "AC9E1LA08-T-016",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA08",
-    "bank": "test",
-    "skill": "ac9e1la08_08_strategy",
-    "question": "Which tip would help you common trap?",
-    "audio_prompt": "Which tip would help you common trap?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Explain effect; 💡 helpful strategy"
-    },
-    "answers": [
       {
         "text": "Look for meaning and check the whole example.",
         "is_correct": true
@@ -1403,16 +1767,188 @@
       {
         "text": "Use one correct image only.",
         "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for meaning and check the whole example. is the useful check. Different images can support different meanings.",
+      "hint": "Different images can support different meanings."
+    },
+    "stage": "verify"
+  },
+  {
+    "id": "AC9E1LA08-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "ac9e1la08_04_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-008",
+      "alt_text": "🧠 Analyse three text types; ➡️ Explain effect; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Narrative adds event/meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Narrative adds event/detail",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can notice mood/detail.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can notice mood/detail. is the useful check. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "verify"
+  },
+  {
+    "id": "AC9E1LA08-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "ac9e1la08_01_test_apply",
+    "question": "A classmate chose “Use describing only.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Use describing only.. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-001",
+      "alt_text": "📖 show caption change; 🔎 image; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Factual caption records condition/place/time; story caption builds event/mood, with clear contrast",
+        "is_correct": true
       },
       {
         "text": "Use describing only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore words.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Look for meaning and check the whole example.",
+      "summary": "Factual caption records condition/place/time; story caption builds event/mood, with clear contrast is the stronger response because it uses the target skill. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA08-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "ac9e1la08_02_test_apply",
+    "question": "A classmate chose “Ignore words.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Ignore words.. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-003",
+      "alt_text": "📖 Draw labelled versus unlabelled; 🔎 words; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Ignore words.",
+        "is_correct": false
+      },
+      {
+        "text": "Information version identifies parts; explanation notes labels make factual reference precise",
+        "is_correct": true
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Information version identifies parts; explanation notes labels make factual reference precise is the stronger response because it uses the target skill. Read words and image together.",
       "hint": "Read words and image together."
-    }
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA08-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "ac9e1la08_03_test_apply",
+    "question": "A classmate chose “How bees collect nectar”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose How bees collect nectar. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-005",
+      "alt_text": "📖 Correct a mismatched image; 🔎 meaning; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "How bees collect nectar",
+        "is_correct": false
+      },
+      {
+        "text": "Use one correct image only.",
+        "is_correct": false
+      },
+      {
+        "text": "Beach does not support topic",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Beach does not support topic is the stronger response because it uses the target skill. Different images can support different meanings.",
+      "hint": "Different images can support different meanings."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA08-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "ac9e1la08_04_test_apply",
+    "question": "A classmate chose “Narrative adds event/meaning”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Narrative adds event/meaning. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la08.svg#ac9e1la08-t-007",
+      "alt_text": "📖 Analyse three text types; 🔎 mood; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Narrative adds event/mood",
+        "is_correct": true
+      },
+      {
+        "text": "Narrative adds event/meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Narrative adds event/detail",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Narrative adds event/mood is the stronger response because it uses the target skill. Explain how the image changes or supports meaning.",
+      "hint": "Explain how the image changes or supports meaning."
+    },
+    "stage": "apply"
   }
 ]

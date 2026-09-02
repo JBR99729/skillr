@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la07 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate action and state?",
-    "audioPrompt": "Which response would correctly demonstrate action and state?",
-    "visual": "📖 Demonstrate action and state; 🔎 noun; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate action and state; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001\"></use></svg>",
+    "question": "Which response would correctly show action and state?",
+    "audioPrompt": "Which response would correctly show action and state?",
+    "visual": "📖 show action and state; 🔎 noun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show action and state; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001",
-      "alt_text": "📖 Demonstrate action and state; 🔎 noun; ✅ choose with evidence"
+      "alt_text": "📖 show action and state; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
       "Two complete examples, such as jumps and is/seems, correctly identified",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la07 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate action and state?",
-    "audioPrompt": "Which tip would help you demonstrate action and state?",
-    "visual": "🧠 Demonstrate action and state; ➡️ Read sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate action and state; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002\"></use></svg>",
+    "question": "Which tip would help you show action and state?",
+    "audioPrompt": "Which tip would help you show action and state?",
+    "visual": "🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002",
-      "alt_text": "🧠 Demonstrate action and state; ➡️ Read sentence; 💡 helpful strategy"
+      "alt_text": "🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
       "Treat adjective as noun.",
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la07-t-009",
     "curriculumCode": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07 05 answer",
+    "skill": "ac9e1la07 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la07 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la07 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 pronoun; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 pronoun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-009",
-      "alt_text": "📖 Rule; 🔎 pronoun; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002",
+      "alt_text": "🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
+      "Do not ask what job the word does in the sentence.",
       "Treat adjective as noun.",
-      "Do not find what happens or what is.",
-      "Nouns name people, places or things"
+      "Ask what job the word does in the sentence."
     ],
     "correct": 2,
-    "explanation": "Nouns name people, places or things This matches the task.\nHint: A describing word needs something to describe.",
+    "explanation": "Ask what job the word does in the sentence. is the useful check. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "Nouns name people, places or things This matches the task.",
-      "hint": "A describing word needs something to describe."
+      "summary": "Ask what job the word does in the sentence. is the useful check. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la07-t-010",
     "curriculumCode": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07 05 strategy",
+    "skill": "ac9e1la07 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Read sentence; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Read sentence; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw a word-class map; ➡️ Find word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a word-class map; ➡️ Find word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-010",
-      "alt_text": "🧠 Rule; ➡️ Read sentence; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-004",
+      "alt_text": "🧠 Draw a word-class map; ➡️ Find word; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Do not find what happens or what is.",
-      "Do not ask what job the word does in the sentence."
+      "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+      "Treat adjective as noun.",
+      "Do not find what happens or what is."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: A describing word needs something to describe.",
+    "explanation": "Use this routine: Read sentence → Find word → Ask its job → Name word class. is the useful check. A describing word needs something to describe.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class. is the useful check. A describing word needs something to describe.",
       "hint": "A describing word needs something to describe."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la07-t-011",
     "curriculumCode": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07 06 answer",
+    "skill": "ac9e1la07 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la07 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la07 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 noun; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct a label error; ➡️ Ask its job; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a label error; ➡️ Ask its job; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-011",
-      "alt_text": "📖 Worked example; 🔎 noun; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-006",
+      "alt_text": "🧠 Correct a label error; ➡️ Ask its job; 💡 helpful strategy"
     },
     "answers": [
-      "Do not find what happens or what is.",
-      "Use the worked example for this English skill",
-      "Do not ask what job the word does in the sentence."
+      "The blue boat rocks",
+      "Look for adjective and check the whole example.",
+      "Do not find what happens or what is."
     ],
     "correct": 1,
-    "explanation": "Use the worked example for this English skill This matches the task.\nHint: Find what happens or what is.",
+    "explanation": "Look for adjective and check the whole example. is the useful check. Find what happens or what is.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "Use the worked example for this English skill This matches the task.",
+      "summary": "Look for adjective and check the whole example. is the useful check. Find what happens or what is.",
       "hint": "Find what happens or what is."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la07-t-012",
     "curriculumCode": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07 06 strategy",
+    "skill": "ac9e1la07 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Find word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Find word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Analyse and revise; ➡️ Name word class; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse and revise; ➡️ Name word class; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Find word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-008",
+      "alt_text": "🧠 Analyse and revise; ➡️ Name word class; 💡 helpful strategy"
     },
     "answers": [
+      "He slowly opens the rusty gate at dawn",
       "Do not ask what job the word does in the sentence.",
-      "Treat adjective as noun.",
-      "Find what happens or what is."
+      "Check that you can find adverbs."
     ],
     "correct": 2,
-    "explanation": "Find what happens or what is.\nHint: Find what happens or what is.",
+    "explanation": "Check that you can find adverbs. is the useful check. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "Find what happens or what is.",
-      "hint": "Find what happens or what is."
+      "summary": "Check that you can find adverbs. is the useful check. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la07-t-013",
     "curriculumCode": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07 07 answer",
+    "skill": "ac9e1la07 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la07 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la07 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Word check; 🔎 verb; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Word check; 🔎 verb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-013\"></use></svg>",
+    "question": "A classmate chose “Do not ask what job the word does in the sentence.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not ask what job the word does in the sentence.. Which answer would improve their response?",
+    "visual": "📖 show action and state; 🔎 noun; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show action and state; 🔎 noun; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-013",
-      "alt_text": "📖 Word check; 🔎 verb; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001",
+      "alt_text": "📖 show action and state; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
-      "Ask: Who or what? noun/pronoun",
+      "Two complete examples, such as jumps and is/seems, correctly identified",
       "Do not ask what job the word does in the sentence.",
       "Treat adjective as noun."
     ],
     "correct": 0,
-    "explanation": "Ask: Who or what? noun/pronoun This matches the task.\nHint: Ask what job the word does in the sentence.",
+    "explanation": "Two complete examples, such as jumps and is/seems, correctly identified is the stronger response because it uses the target skill. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "Ask: Who or what? noun/pronoun This matches the task.",
+      "summary": "Two complete examples, such as jumps and is/seems, correctly identified is the stronger response because it uses the target skill. Ask what job the word does in the sentence.",
       "hint": "Ask what job the word does in the sentence."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la07-t-014",
     "curriculumCode": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07 07 strategy",
+    "skill": "ac9e1la07 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you word check?",
-    "audioPrompt": "Which tip would help you word check?",
-    "visual": "🧠 Word check; ➡️ Ask its job; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Word check; ➡️ Ask its job; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-014\"></use></svg>",
+    "question": "A classmate chose “Treat adjective as noun.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Treat adjective as noun.. Which answer would improve their response?",
+    "visual": "📖 Draw a word-class map; 🔎 verb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a word-class map; 🔎 verb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-014",
-      "alt_text": "🧠 Word check; ➡️ Ask its job; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-003",
+      "alt_text": "📖 Draw a word-class map; 🔎 verb; ✅ choose with evidence"
     },
     "answers": [
       "Treat adjective as noun.",
-      "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+      "Five suitable examples placed in correct boxes",
       "Do not find what happens or what is."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Read sentence → Find word → Ask its job → Name word class.\nHint: Ask what job the word does in the sentence.",
+    "explanation": "Five suitable examples placed in correct boxes is the stronger response because it uses the target skill. A describing word needs something to describe.\nHint: A describing word needs something to describe.",
     "structuredExplanation": {
-      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
-      "hint": "Ask what job the word does in the sentence."
+      "summary": "Five suitable examples placed in correct boxes is the stronger response because it uses the target skill. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la07-t-015",
     "curriculumCode": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07 08 answer",
+    "skill": "ac9e1la07 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la07 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la07 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 adjective; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 adjective; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-015\"></use></svg>",
+    "question": "A classmate chose “The blue boat rocks”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose The blue boat rocks. Which answer would improve their response?",
+    "visual": "📖 Correct a label error; 🔎 adjective; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a label error; 🔎 adjective; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-015",
-      "alt_text": "📖 Common trap; 🔎 adjective; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-005",
+      "alt_text": "📖 Correct a label error; 🔎 adjective; ✅ choose with evidence"
     },
     "answers": [
-      "Treat adjective as noun.",
+      "The blue boat rocks",
       "Do not find what happens or what is.",
-      "A word's job depends on its sentence; 'fast' can describe a car or tell how it moves."
+      "Blue adjective; boat noun; rocks verb"
     ],
     "correct": 2,
-    "explanation": "A word's job depends on its sentence; 'fast' can describe a car or tell how it moves. This matches the task.\nHint: A describing word needs something to describe.",
+    "explanation": "Blue adjective; boat noun; rocks verb is the stronger response because it uses the target skill. Find what happens or what is.\nHint: Find what happens or what is.",
     "structuredExplanation": {
-      "summary": "A word's job depends on its sentence; 'fast' can describe a car or tell how it moves. This matches the task.",
-      "hint": "A describing word needs something to describe."
+      "summary": "Blue adjective; boat noun; rocks verb is the stronger response because it uses the target skill. Find what happens or what is.",
+      "hint": "Find what happens or what is."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la07-t-016",
     "curriculumCode": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07 08 strategy",
+    "skill": "ac9e1la07 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Name word class; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Name word class; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-016\"></use></svg>",
+    "question": "A classmate chose “He slowly opens the rusty gate at dawn”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose He slowly opens the rusty gate at dawn. Which answer would improve their response?",
+    "visual": "📖 Analyse and revise; 🔎 adverb; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse and revise; 🔎 adverb; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Name word class; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-007",
+      "alt_text": "📖 Analyse and revise; 🔎 adverb; ✅ choose with evidence"
     },
     "answers": [
-      "Look for adjective and check the whole example.",
-      "Do not find what happens or what is.",
+      "He pronoun; opens verb; rusty adjective; slowly how; at dawn when; replacement preserves grammar and meaning",
+      "He slowly opens the rusty gate at dawn",
       "Do not ask what job the word does in the sentence."
     ],
     "correct": 0,
-    "explanation": "Look for adjective and check the whole example.\nHint: A describing word needs something to describe.",
+    "explanation": "He pronoun; opens verb; rusty adjective; slowly how; at dawn when; replacement preserves grammar and meaning is the stronger response because it uses the target skill. Ask what job the word does in the sentence.\nHint: Ask what job the word does in the sentence.",
     "structuredExplanation": {
-      "summary": "Look for adjective and check the whole example.",
-      "hint": "A describing word needs something to describe."
+      "summary": "He pronoun; opens verb; rusty adjective; slowly how; at dawn when; replacement preserves grammar and meaning is the stronger response because it uses the target skill. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
     "qualitySchema": "production-v1"
   }

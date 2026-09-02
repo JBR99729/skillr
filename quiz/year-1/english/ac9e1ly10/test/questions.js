@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly10 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate a sound chain?",
-    "audioPrompt": "Which response would correctly demonstrate a sound chain?",
-    "visual": "📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001\"></use></svg>",
+    "question": "Which response would correctly show a sound chain?",
+    "audioPrompt": "Which response would correctly show a sound chain?",
+    "visual": "📖 show a sound chain; 🔎 add; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show a sound chain; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001",
-      "alt_text": "📖 Demonstrate a sound chain; 🔎 add; ✅ choose with evidence"
+      "alt_text": "📖 show a sound chain; 🔎 add; ✅ choose with evidence"
     },
     "answers": [
       "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly10 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate a sound chain?",
-    "audioPrompt": "Which tip would help you demonstrate a sound chain?",
-    "visual": "🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002\"></use></svg>",
+    "question": "Which tip would help you show a sound chain?",
+    "audioPrompt": "Which tip would help you show a sound chain?",
+    "visual": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002",
-      "alt_text": "🧠 Demonstrate a sound chain; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       "Change more than one sound.",
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly10-t-009",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 05 answer",
+    "skill": "ac9e1ly10 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly10 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly10 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 final; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 final; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-009",
-      "alt_text": "📖 Rule; 🔎 final; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-002",
+      "alt_text": "🧠 show a sound chain; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
-      "Change more than one sound.",
-      "Forget middle/final sounds.",
-      "Use the rule for this English skill"
+      "dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat",
+      "Change letters silently.",
+      "Say the sounds aloud."
     ],
     "correct": 2,
-    "explanation": "Use the rule for this English skill This matches the task.\nHint: Change only the sound named.",
+    "explanation": "Say the sounds aloud. is the useful check. Say the sounds aloud.\nHint: Say the sounds aloud.",
     "structuredExplanation": {
-      "summary": "Use the rule for this English skill This matches the task.",
-      "hint": "Change only the sound named."
+      "summary": "Say the sounds aloud. is the useful check. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly10-t-010",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 05 strategy",
+    "skill": "ac9e1ly10 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw addition and deletion; ➡️ Change sound; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw addition and deletion; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-010",
-      "alt_text": "🧠 Rule; ➡️ Say word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-004",
+      "alt_text": "🧠 Draw addition and deletion; ➡️ Change sound; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Forget middle/final sounds.",
-      "Change letters silently."
+      "Use this routine: Say word → Change sound → Say new word → Check meaning.",
+      "Accurate 4-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
+      "Accurate 2-to-4 and 4-to-3 phoneme representations, with only /s/ changed"
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Change only the sound named.",
+    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning. is the useful check. Change only the sound named.\nHint: Change only the sound named.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning. is the useful check. Change only the sound named.",
       "hint": "Change only the sound named."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly10-t-011",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 06 answer",
+    "skill": "ac9e1ly10 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly10 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly10 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 add; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct a two-sound change; ➡️ Say new word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a two-sound change; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-011",
-      "alt_text": "📖 Worked example; 🔎 add; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-006",
+      "alt_text": "🧠 Correct a two-sound change; ➡️ Say new word; 💡 helpful strategy"
     },
     "answers": [
-      "Forget middle/final sounds.",
-      "Change the middle /i/ in pin to /e/: /p/ /e/ /n/ makes pen. Only the medial phoneme changes.",
-      "Change letters silently."
+      "peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ → Pet",
+      "Look for substitute and check the whole example.",
+      "Forget middle/final sounds."
     ],
     "correct": 1,
-    "explanation": "Change the middle /i/ in pin to /e/: /p/ /e/ /n/ makes pen. Only the medial phoneme changes. This matches the task.\nHint: Practise start, middle and end positions.",
+    "explanation": "Look for substitute and check the whole example. is the useful check. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
     "structuredExplanation": {
-      "summary": "Change the middle /i/ in pin to /e/: /p/ /e/ /n/ makes pen. Only the medial phoneme changes. This matches the task.",
+      "summary": "Look for substitute and check the whole example. is the useful check. Practise start, middle and end positions.",
       "hint": "Practise start, middle and end positions."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly10-t-012",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 06 strategy",
+    "skill": "ac9e1ly10 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Change sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Change sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Solve a manipulation set; ➡️ Check meaning; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Solve a manipulation set; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Change sound; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-008",
+      "alt_text": "🧠 Solve a manipulation set; ➡️ Check meaning; 💡 helpful strategy"
     },
     "answers": [
+      "/a/), with each operation named → bad (/e/ → /d/) → bed (/t/ → bet (delete /s/) → Best",
       "Change letters silently.",
-      "Change more than one sound.",
-      "Practise start, middle and end positions."
+      "Check that you can change initial sounds."
     ],
     "correct": 2,
-    "explanation": "Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
+    "explanation": "Check that you can change initial sounds. is the useful check. Say the sounds aloud.\nHint: Say the sounds aloud.",
     "structuredExplanation": {
-      "summary": "Practise start, middle and end positions.",
-      "hint": "Practise start, middle and end positions."
+      "summary": "Check that you can change initial sounds. is the useful check. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly10-t-013",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 07 answer",
+    "skill": "ac9e1ly10 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly10 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly10 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Sound strategy; 🔎 delete; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sound strategy; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-013\"></use></svg>",
+    "question": "A classmate chose “dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat. Which answer would improve their response?",
+    "visual": "📖 show a sound chain; 🔎 add; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show a sound chain; 🔎 add; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-013",
-      "alt_text": "📖 Sound strategy; 🔎 delete; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-001",
+      "alt_text": "📖 show a sound chain; 🔎 add; ✅ choose with evidence"
     },
     "answers": [
-      "Say the word, map one token per sound, change the named token, then blend the new sounds and check the word.",
-      "Change letters silently.",
-      "Change more than one sound."
+      "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/",
+      "dog final /t/ to /g/ → dot first /k/ to /d/; dot → cot middle /a/ to /o/; cot → Cat",
+      "Change letters silently."
     ],
     "correct": 0,
-    "explanation": "Say the word, map one token per sound, change the named token, then blend the new sounds and check the word. This matches the task.\nHint: Say the sounds aloud.",
+    "explanation": "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/ is the stronger response because it uses the target skill. Say the sounds aloud.\nHint: Say the sounds aloud.",
     "structuredExplanation": {
-      "summary": "Say the word, map one token per sound, change the named token, then blend the new sounds and check the word. This matches the task.",
+      "summary": "Cat→cot middle /a/ to /o/; cot→dot first /k/ to /d/; dot→dog final /t/ to /g/ is the stronger response because it uses the target skill. Say the sounds aloud.",
       "hint": "Say the sounds aloud."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly10-t-014",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 07 strategy",
+    "skill": "ac9e1ly10 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you sound strategy?",
-    "audioPrompt": "Which tip would help you sound strategy?",
-    "visual": "🧠 Sound strategy; ➡️ Say new word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Sound strategy; ➡️ Say new word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-014\"></use></svg>",
+    "question": "A classmate chose “Accurate 4-to-4 and 4-to-3 phoneme representations, with only /s/ changed”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Accurate 4-to-4 and 4-to-3 phoneme representations, with only /s/ changed. Which answer would improve their response?",
+    "visual": "📖 Draw addition and deletion; 🔎 delete; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw addition and deletion; 🔎 delete; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-014",
-      "alt_text": "🧠 Sound strategy; ➡️ Say new word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-003",
+      "alt_text": "📖 Draw addition and deletion; 🔎 delete; ✅ choose with evidence"
     },
     "answers": [
-      "Change more than one sound.",
-      "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "Forget middle/final sounds."
+      "Accurate 4-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
+      "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed",
+      "Accurate 2-to-4 and 4-to-3 phoneme representations, with only /s/ changed"
     ],
     "correct": 1,
-    "explanation": "Use this routine: Say word → Change sound → Say new word → Check meaning.\nHint: Say the sounds aloud.",
+    "explanation": "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed is the stronger response because it uses the target skill. Change only the sound named.\nHint: Change only the sound named.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Change sound → Say new word → Check meaning.",
-      "hint": "Say the sounds aloud."
+      "summary": "Accurate 3-to-4 and 4-to-3 phoneme representations, with only /s/ changed is the stronger response because it uses the target skill. Change only the sound named.",
+      "hint": "Change only the sound named."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly10-t-015",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 08 answer",
+    "skill": "ac9e1ly10 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly10 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly10 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 substitute; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-015\"></use></svg>",
+    "question": "A classmate chose “peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ → Pet”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ → Pet. Which answer would improve their response?",
+    "visual": "📖 Correct a two-sound change; 🔎 substitute; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a two-sound change; 🔎 substitute; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-015",
-      "alt_text": "📖 Common trap; 🔎 substitute; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-005",
+      "alt_text": "📖 Correct a two-sound change; 🔎 substitute; ✅ choose with evidence"
     },
     "answers": [
-      "Change more than one sound.",
+      "peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ → Pet",
       "Forget middle/final sounds.",
-      "Change only the named phoneme; replacing or reordering extra sounds creates a different task."
+      "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/"
     ],
     "correct": 2,
-    "explanation": "Change only the named phoneme; replacing or reordering extra sounds creates a different task. This matches the task.\nHint: Change only the sound named.",
+    "explanation": "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ is the stronger response because it uses the target skill. Practise start, middle and end positions.\nHint: Practise start, middle and end positions.",
     "structuredExplanation": {
-      "summary": "Change only the named phoneme; replacing or reordering extra sounds creates a different task. This matches the task.",
-      "hint": "Change only the sound named."
+      "summary": "Pet→peg changes only final /t/ to /g/; pig also changes medial /e/ to /i/ is the stronger response because it uses the target skill. Practise start, middle and end positions.",
+      "hint": "Practise start, middle and end positions."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly10-t-016",
     "curriculumCode": "AC9E1LY10",
     "bank": "test",
-    "skill": "ac9e1ly10 08 strategy",
+    "skill": "ac9e1ly10 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Check meaning; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Check meaning; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-016\"></use></svg>",
+    "question": "A classmate chose “/a/), with each operation named → bad (/e/ → /d/) → bed (/t/ → bet (delete /s/) → Best”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose /a/), with each operation named → bad (/e/ → /d/) → bed (/t/ → bet (delete /s/) → Best. Which answer would improve their response?",
+    "visual": "📖 Solve a manipulation set; 🔎 initial; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Solve a manipulation set; 🔎 initial; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Check meaning; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly10.svg#ac9e1ly10-t-007",
+      "alt_text": "📖 Solve a manipulation set; 🔎 initial; ✅ choose with evidence"
     },
     "answers": [
-      "Look for substitute and check the whole example.",
-      "Forget middle/final sounds.",
+      "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named",
+      "/a/), with each operation named → bad (/e/ → /d/) → bed (/t/ → bet (delete /s/) → Best",
       "Change letters silently."
     ],
     "correct": 0,
-    "explanation": "Look for substitute and check the whole example.\nHint: Change only the sound named.",
+    "explanation": "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named is the stronger response because it uses the target skill. Say the sounds aloud.\nHint: Say the sounds aloud.",
     "structuredExplanation": {
-      "summary": "Look for substitute and check the whole example.",
-      "hint": "Change only the sound named."
+      "summary": "Best→bet (delete /s/)→bed (/t/→/d/)→bad (/e/→/a/), with each operation named is the stronger response because it uses the target skill. Say the sounds aloud.",
+      "hint": "Say the sounds aloud."
     },
     "qualitySchema": "production-v1"
   }

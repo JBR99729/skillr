@@ -5,7 +5,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_01_answer",
+    "skill": "ac9e1la07_01_recognise",
     "question": "What is the verb in 'The ducks paddle'?",
     "audio_prompt": "What is the verb in 'The ducks paddle'?",
     "visual": {
@@ -32,9 +32,7 @@
       "summary": "Paddle This matches the task.",
       "hint": "Ask what job the word does in the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
     "id": "AC9E1LA07-P-002",
@@ -42,44 +40,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_01_strategy",
-    "question": "Which tip would help you find the verb?",
-    "audio_prompt": "Which tip would help you find the verb?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-002",
-      "alt_text": "🧠 Find the verb; ➡️ Read sentence; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      },
-      {
-        "text": "Ask what job the word does in the sentence.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not find what happens or what is.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Ask what job the word does in the sentence.",
-      "hint": "Ask what job the word does in the sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LA07-P-003",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "ac9e1la07_02_answer",
+    "skill": "ac9e1la07_02_recognise",
     "question": "Which response would correctly match words and jobs?",
     "audio_prompt": "Which response would correctly match words and jobs?",
     "visual": {
@@ -106,54 +67,15 @@
       "summary": "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail This matches the task.",
       "hint": "A describing word needs something to describe."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA07-P-004",
+    "id": "AC9E1LA07-P-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_02_strategy",
-    "question": "Which tip would help you match words and jobs?",
-    "audio_prompt": "Which tip would help you match words and jobs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-004",
-      "alt_text": "🧠 Match words and jobs; ➡️ Find word; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not find what happens or what is.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not ask what job the word does in the sentence.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
-      "hint": "A describing word needs something to describe."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LA07-P-005",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "ac9e1la07_03_answer",
+    "skill": "ac9e1la07_03_recognise",
     "question": "Which response would correctly sort sentence cards?",
     "audio_prompt": "Which response would correctly sort sentence cards?",
     "visual": {
@@ -180,54 +102,15 @@
       "summary": "Cat noun; sleeps verb; furry adjective; quietly adverb/how This matches the task.",
       "hint": "Find what happens or what is."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA07-P-006",
+    "id": "AC9E1LA07-P-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_03_strategy",
-    "question": "Which tip would help you sort sentence cards?",
-    "audio_prompt": "Which tip would help you sort sentence cards?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-006",
-      "alt_text": "🧠 Sort sentence cards; ➡️ Ask its job; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not ask what job the word does in the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for adjective and check the whole example.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for adjective and check the whole example.",
-      "hint": "Find what happens or what is."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LA07-P-007",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "ac9e1la07_04_answer",
+    "skill": "ac9e1la07_04_recognise",
     "question": "Which response would correctly replace repeated noun?",
     "audio_prompt": "Which response would correctly replace repeated noun?",
     "visual": {
@@ -254,54 +137,15 @@
       "summary": "'Lena found her hat.' This matches the task.",
       "hint": "Ask what job the word does in the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA07-P-008",
+    "id": "AC9E1LA07-P-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_04_strategy",
-    "question": "Which tip would help you replace repeated noun?",
-    "audio_prompt": "Which tip would help you replace repeated noun?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-008",
-      "alt_text": "🧠 Replace repeated noun; ➡️ Name word class; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can find adverbs.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not find what happens or what is.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can find adverbs.",
-      "hint": "Ask what job the word does in the sentence."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LA07-P-009",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "ac9e1la07_05_answer",
+    "skill": "ac9e1la07_05_recognise",
     "question": "Which response would correctly order a detailed sentence?",
     "audio_prompt": "Which response would correctly order a detailed sentence?",
     "visual": {
@@ -328,52 +172,15 @@
       "summary": "The small crab moves quickly. This matches the task.",
       "hint": "A describing word needs something to describe."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA07-P-010",
+    "id": "AC9E1LA07-P-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_05_strategy",
-    "question": "Which tip would help you order a detailed sentence?",
-    "audio_prompt": "Which tip would help you order a detailed sentence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-010",
-      "alt_text": "🧠 Order a detailed sentence; ➡️ Read sentence; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Arranging noun, adjective, verb and adverb.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not find what happens or what is.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not ask what job the word does in the sentence.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Arranging noun, adjective, verb and adverb.",
-      "hint": "A describing word needs something to describe."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LA07-P-011",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "ac9e1la07_06_answer",
+    "skill": "ac9e1la07_06_recognise",
     "question": "Which response would correctly draw word roles?",
     "audio_prompt": "Which response would correctly draw word roles?",
     "visual": {
@@ -400,52 +207,15 @@
       "summary": "Tree noun; tall adjective; bends verb; slowly adverb/how This matches the task.",
       "hint": "Find what happens or what is."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA07-P-012",
+    "id": "AC9E1LA07-P-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_06_strategy",
-    "question": "Which tip would help you draw word roles?",
-    "audio_prompt": "Which tip would help you draw word roles?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-012",
-      "alt_text": "🧠 Draw word roles; ➡️ Find word; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not ask what job the word does in the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      },
-      {
-        "text": "Find what happens or what is.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Find what happens or what is.",
-      "hint": "Find what happens or what is."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LA07-P-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "ac9e1la07_07_answer",
+    "skill": "ac9e1la07_07_recognise",
     "question": "Which response would correctly distinguish two jobs?",
     "audio_prompt": "Which response would correctly distinguish two jobs?",
     "visual": {
@@ -472,52 +242,15 @@
       "summary": "First describes train, so adjective; second tells how it moves, so adverb detail This matches the task.",
       "hint": "Ask what job the word does in the sentence."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA07-P-014",
+    "id": "AC9E1LA07-P-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_07_strategy",
-    "question": "Which tip would help you distinguish two jobs?",
-    "audio_prompt": "Which tip would help you distinguish two jobs?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-014",
-      "alt_text": "🧠 Distinguish two jobs; ➡️ Ask its job; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not find what happens or what is.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
-      "hint": "Ask what job the word does in the sentence."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LA07-P-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "ac9e1la07_08_answer",
+    "skill": "ac9e1la07_08_recognise",
     "question": "Which response would correctly improve a plain sentence?",
     "audio_prompt": "Which response would correctly improve a plain sentence?",
     "visual": {
@@ -544,52 +277,15 @@
       "summary": "'Colourful birds fly quietly above the lake.' with both required additions This matches the task.",
       "hint": "A describing word needs something to describe."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA07-P-016",
+    "id": "AC9E1LA07-P-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_08_strategy",
-    "question": "Which tip would help you improve a plain sentence?",
-    "audio_prompt": "Which tip would help you improve a plain sentence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-016",
-      "alt_text": "🧠 Improve a plain sentence; ➡️ Name word class; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for adjective and check the whole example.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not find what happens or what is.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not ask what job the word does in the sentence.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for adjective and check the whole example.",
-      "hint": "A describing word needs something to describe."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LA07-P-017",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "ac9e1la07_01_answer",
+    "skill": "ac9e1la07_09_recognise",
     "question": "What is the verb in 'The soup is warm'?",
     "audio_prompt": "What is the verb in 'The soup is warm'?",
     "visual": {
@@ -616,52 +312,15 @@
       "summary": "Is; it links the soup with its state This matches the task.",
       "hint": "Find what happens or what is."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LA07-P-018",
+    "id": "AC9E1LA07-P-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_01_strategy",
-    "question": "Which tip would help you find a state verb?",
-    "audio_prompt": "Which tip would help you find a state verb?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-018",
-      "alt_text": "🧠 Find a state verb; ➡️ Read sentence; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not ask what job the word does in the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can find adverbs.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can find adverbs.",
-      "hint": "Find what happens or what is."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LA07-P-019",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "practice",
-    "skill": "ac9e1la07_02_answer",
+    "skill": "ac9e1la07_10_recognise",
     "question": "Which response would correctly match questions and details?",
     "audio_prompt": "Which response would correctly match questions and details?",
     "visual": {
@@ -688,8 +347,322 @@
       "summary": "How ↔ carefully; when ↔ tomorrow; where ↔ outside This matches the task.",
       "hint": "Ask what job the word does in the sentence."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
+  },
+  {
+    "id": "AC9E1LA07-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_01_explain",
+    "question": "Which tip would help you find the verb?",
+    "audio_prompt": "Which tip would help you find the verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-002",
+      "alt_text": "🧠 Find the verb; ➡️ Read sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask what job the word does in the sentence.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA07-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_02_explain",
+    "question": "Which tip would help you match words and jobs?",
+    "audio_prompt": "Which tip would help you match words and jobs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-004",
+      "alt_text": "🧠 Match words and jobs; ➡️ Find word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+      "hint": "A describing word needs something to describe."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA07-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_03_explain",
+    "question": "Which tip would help you sort sentence cards?",
+    "audio_prompt": "Which tip would help you sort sentence cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-006",
+      "alt_text": "🧠 Sort sentence cards; ➡️ Ask its job; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for adjective and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for adjective and check the whole example.",
+      "hint": "Find what happens or what is."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA07-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_04_explain",
+    "question": "Which tip would help you replace repeated noun?",
+    "audio_prompt": "Which tip would help you replace repeated noun?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-008",
+      "alt_text": "🧠 Replace repeated noun; ➡️ Name word class; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can find adverbs.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can find adverbs.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA07-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_05_explain",
+    "question": "Which tip would help you order a detailed sentence?",
+    "audio_prompt": "Which tip would help you order a detailed sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-010",
+      "alt_text": "🧠 Order a detailed sentence; ➡️ Read sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Arranging noun, adjective, verb and adverb.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Arranging noun, adjective, verb and adverb.",
+      "hint": "A describing word needs something to describe."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA07-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_06_explain",
+    "question": "Which tip would help you draw word roles?",
+    "audio_prompt": "Which tip would help you draw word roles?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-012",
+      "alt_text": "🧠 Draw word roles; ➡️ Find word; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Find what happens or what is.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Find what happens or what is.",
+      "hint": "Find what happens or what is."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA07-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_07_explain",
+    "question": "Which tip would help you distinguish two jobs?",
+    "audio_prompt": "Which tip would help you distinguish two jobs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-014",
+      "alt_text": "🧠 Distinguish two jobs; ➡️ Ask its job; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA07-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_08_explain",
+    "question": "Which tip would help you improve a plain sentence?",
+    "audio_prompt": "Which tip would help you improve a plain sentence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-016",
+      "alt_text": "🧠 Improve a plain sentence; ➡️ Name word class; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for adjective and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for adjective and check the whole example.",
+      "hint": "A describing word needs something to describe."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LA07-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_09_explain",
+    "question": "Which tip would help you find a state verb?",
+    "audio_prompt": "Which tip would help you find a state verb?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-018",
+      "alt_text": "🧠 Find a state verb; ➡️ Read sentence; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can find adverbs.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can find adverbs.",
+      "hint": "Find what happens or what is."
+    },
+    "stage": "explain"
   },
   {
     "id": "AC9E1LA07-P-020",
@@ -697,7 +670,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_02_strategy",
+    "skill": "ac9e1la07_10_explain",
     "question": "Which tip would help you match questions and details?",
     "audio_prompt": "Which tip would help you match questions and details?",
     "visual": {
@@ -724,8 +697,7 @@
       "summary": "Classifying adverbial details by meaning.",
       "hint": "Ask what job the word does in the sentence."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "explain"
   },
   {
     "id": "AC9E1LA07-P-021",
@@ -733,35 +705,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_03_answer",
-    "question": "Which response would correctly sequence a pronoun sentence?",
-    "audio_prompt": "Which response would correctly sequence a pronoun sentence?",
+    "skill": "ac9e1la07_01_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-021",
-      "alt_text": "📖 Sequence a pronoun sentence; 🔎 noun; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-001",
+      "alt_text": "📖 Find the verb; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not find what happens or what is.",
-        "is_correct": false
-      },
-      {
-        "text": "They practise together after school.",
+        "text": "The",
         "is_correct": true
+      },
+      {
+        "text": "Paddle",
+        "is_correct": false
+      },
+      {
+        "text": "Ask what job the word does in the sentence.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "They practise together after school. This matches the task.",
-      "hint": "A describing word needs something to describe."
+      "summary": "The is the mix-up. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "discriminate"
   },
   {
     "id": "AC9E1LA07-P-022",
@@ -769,17 +740,402 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_03_strategy",
-    "question": "Which tip would help you sequence a pronoun sentence?",
-    "audio_prompt": "Which tip would help you sequence a pronoun sentence?",
+    "skill": "ac9e1la07_02_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-022",
-      "alt_text": "🧠 Sequence a pronoun sentence; ➡️ Ask its job; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-003",
+      "alt_text": "📖 Match words and jobs; 🔎 verb; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "A describing word needs something to describe.",
+        "text": "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail",
+        "is_correct": false
+      },
+      {
+        "text": "Teacher ↔ pronoun; they ↔ adverb detail; gently ↔ noun",
+        "is_correct": true
+      },
+      {
+        "text": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Teacher ↔ pronoun; they ↔ adverb detail; gently ↔ noun is the mix-up. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA07-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_03_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-005",
+      "alt_text": "📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Cat noun; sleeps verb; furry adjective; quietly adverb/how",
+        "is_correct": false
+      },
+      {
+        "text": "Look for adjective and check the whole example.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Do not find what happens or what is. is the mix-up. Find what happens or what is.",
+      "hint": "Find what happens or what is."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA07-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_04_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-007",
+      "alt_text": "📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Lena found Lena",
+        "is_correct": true
+      },
+      {
+        "text": "'Lena found her hat.'",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can find adverbs.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Lena found Lena is the mix-up. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA07-P-025",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_05_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-009",
+      "alt_text": "📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The small crab moves quickly.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": true
+      },
+      {
+        "text": "Arranging noun, adjective, verb and adverb.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Treat adjective as noun. is the mix-up. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA07-P-026",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_06_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-011",
+      "alt_text": "📖 Draw word roles; 🔎 noun; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Tree noun; tall adjective; bends verb; slowly adverb/how",
+        "is_correct": false
+      },
+      {
+        "text": "Find what happens or what is.",
+        "is_correct": false
+      },
+      {
+        "text": "A tall tree bends slowly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tall tree bends slowly is the mix-up. Find what happens or what is.",
+      "hint": "Find what happens or what is."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA07-P-027",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_07_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-013",
+      "alt_text": "📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The fast train moves fast",
+        "is_correct": true
+      },
+      {
+        "text": "First describes train, so adjective; second tells how it moves, so adverb detail",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The fast train moves fast is the mix-up. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA07-P-028",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_08_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-015",
+      "alt_text": "📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "'Colourful birds fly quietly above the lake.' with both required additions",
+        "is_correct": false
+      },
+      {
+        "text": "Birds fly",
+        "is_correct": true
+      },
+      {
+        "text": "Look for adjective and check the whole example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Birds fly is the mix-up. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA07-P-029",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_09_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-017",
+      "alt_text": "📖 Find a state verb; 🔎 adverb; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Is; it links the soup with its state",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can find adverbs.",
+        "is_correct": false
+      },
+      {
+        "text": "The soup is warm",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The soup is warm is the mix-up. Find what happens or what is.",
+      "hint": "Find what happens or what is."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA07-P-030",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_10_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-019",
+      "alt_text": "📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "How ↔ tomorrow; when ↔ outside; where ↔ carefully",
+        "is_correct": true
+      },
+      {
+        "text": "How ↔ carefully; when ↔ tomorrow; where ↔ outside",
+        "is_correct": false
+      },
+      {
+        "text": "Classifying adverbial details by meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "How ↔ tomorrow; when ↔ outside; where ↔ carefully is the mix-up. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LA07-P-031",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_01_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-001",
+      "alt_text": "📖 Find the verb; 🔎 noun; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The",
+        "is_correct": false
+      },
+      {
+        "text": "Paddle",
+        "is_correct": true
+      },
+      {
+        "text": "ducks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Paddle uses the skill correctly. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA07-P-032",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_02_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-003",
+      "alt_text": "📖 Match words and jobs; 🔎 verb; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Teacher ↔ pronoun; they ↔ adverb detail; gently ↔ noun",
+        "is_correct": false
+      },
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Teacher ↔ noun; they ↔ pronoun; gently ↔ adverb detail uses the skill correctly. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA07-P-033",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_03_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-005",
+      "alt_text": "📖 Sort sentence cards; 🔎 adjective; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Cat noun; sleeps verb; furry adjective; quietly adverb/how",
         "is_correct": true
       },
       {
@@ -793,65 +1149,168 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A describing word needs something to describe.",
-      "hint": "A describing word needs something to describe."
+      "summary": "Cat noun; sleeps verb; furry adjective; quietly adverb/how uses the skill correctly. Find what happens or what is.",
+      "hint": "Find what happens or what is."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LA07-P-023",
+    "id": "AC9E1LA07-P-034",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_04_answer",
-    "question": "Which response would correctly choose a precise adjective?",
-    "audio_prompt": "Which response would correctly choose a precise adjective?",
+    "skill": "ac9e1la07_04_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-023",
-      "alt_text": "📖 Choose a precise adjective; 🔎 verb; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-007",
+      "alt_text": "📖 Replace repeated noun; 🔎 adverb; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "a nice shell",
+        "text": "Lena found Lena",
         "is_correct": false
       },
       {
-        "text": "Any precise suitable adjective such as striped, smooth or tiny",
+        "text": "'Lena found her hat.'",
         "is_correct": true
+      },
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'Lena found her hat.' uses the skill correctly. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA07-P-035",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_05_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-009",
+      "alt_text": "📖 Order a detailed sentence; 🔎 pronoun; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": false
+      },
+      {
+        "text": "The small crab moves quickly.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The small crab moves quickly. uses the skill correctly. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA07-P-036",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_06_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-011",
+      "alt_text": "📖 Draw word roles; 🔎 noun; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Tree noun; tall adjective; bends verb; slowly adverb/how",
+        "is_correct": true
+      },
+      {
+        "text": "A tall tree bends slowly",
+        "is_correct": false
       },
       {
         "text": "Do not find what happens or what is.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Any precise suitable adjective such as striped, smooth or tiny This matches the task.",
+      "summary": "Tree noun; tall adjective; bends verb; slowly adverb/how uses the skill correctly. Find what happens or what is.",
       "hint": "Find what happens or what is."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LA07-P-024",
+    "id": "AC9E1LA07-P-037",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "practice",
-    "skill": "ac9e1la07_04_strategy",
-    "question": "Which tip would help you choose a precise adjective?",
-    "audio_prompt": "Which tip would help you choose a precise adjective?",
+    "skill": "ac9e1la07_07_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-024",
-      "alt_text": "🧠 Choose a precise adjective; ➡️ Name word class; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-013",
+      "alt_text": "📖 Distinguish two jobs; 🔎 verb; ✅ choose with evidence"
     },
     "answers": [
       {
+        "text": "The fast train moves fast",
+        "is_correct": false
+      },
+      {
+        "text": "First describes train, so adjective; second tells how it moves, so adverb detail",
+        "is_correct": true
+      },
+      {
         "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "First describes train, so adjective; second tells how it moves, so adverb detail uses the skill correctly. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA07-P-038",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_08_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-015",
+      "alt_text": "📖 Improve a plain sentence; 🔎 adjective; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Birds fly",
         "is_correct": false
       },
       {
@@ -859,17 +1318,86 @@
         "is_correct": false
       },
       {
-        "text": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+        "text": "'Colourful birds fly quietly above the lake.' with both required additions",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
+      "summary": "'Colourful birds fly quietly above the lake.' with both required additions uses the skill correctly. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA07-P-039",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_09_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-017",
+      "alt_text": "📖 Find a state verb; 🔎 adverb; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Is; it links the soup with its state",
+        "is_correct": true
+      },
+      {
+        "text": "The soup is warm",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Is; it links the soup with its state uses the skill correctly. Find what happens or what is.",
       "hint": "Find what happens or what is."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA07-P-040",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "practice",
+    "skill": "ac9e1la07_10_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-p-019",
+      "alt_text": "📖 Match questions and details; 🔎 pronoun; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "How ↔ tomorrow; when ↔ outside; where ↔ carefully",
+        "is_correct": false
+      },
+      {
+        "text": "How ↔ carefully; when ↔ tomorrow; where ↔ outside",
+        "is_correct": true
+      },
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How ↔ carefully; when ↔ tomorrow; where ↔ outside uses the skill correctly. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LA07-T-001",
@@ -878,12 +1406,12 @@
     "curriculum_code": "AC9E1LA07",
     "bank": "test",
     "skill": "ac9e1la07_01_answer",
-    "question": "Which response would correctly demonstrate action and state?",
-    "audio_prompt": "Which response would correctly demonstrate action and state?",
+    "question": "Which response would correctly show action and state?",
+    "audio_prompt": "Which response would correctly show action and state?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001",
-      "alt_text": "📖 Demonstrate action and state; 🔎 noun; ✅ choose with evidence"
+      "alt_text": "📖 show action and state; 🔎 noun; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -912,12 +1440,12 @@
     "curriculum_code": "AC9E1LA07",
     "bank": "test",
     "skill": "ac9e1la07_01_strategy",
-    "question": "Which tip would help you demonstrate action and state?",
-    "audio_prompt": "Which tip would help you demonstrate action and state?",
+    "question": "Which tip would help you show action and state?",
+    "audio_prompt": "Which tip would help you show action and state?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002",
-      "alt_text": "🧠 Demonstrate action and state; ➡️ Read sentence; 💡 helpful strategy"
+      "alt_text": "🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1149,33 +1677,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07_05_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la07 05 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1la07 05 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1la07_01_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-009",
-      "alt_text": "📖 Rule; 🔎 pronoun; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-002",
+      "alt_text": "🧠 show action and state; ➡️ Read sentence; 💡 helpful strategy"
     },
     "answers": [
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      },
       {
         "text": "Treat adjective as noun.",
         "is_correct": false
       },
       {
-        "text": "Do not find what happens or what is.",
-        "is_correct": false
-      },
-      {
-        "text": "Nouns name people, places or things",
+        "text": "Ask what job the word does in the sentence.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Nouns name people, places or things This matches the task.",
-      "hint": "A describing word needs something to describe."
-    }
+      "summary": "Ask what job the word does in the sentence. is the useful check. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LA07-T-010",
@@ -1183,33 +1712,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07_05_strategy",
-    "question": "Which tip would help you rule?",
-    "audio_prompt": "Which tip would help you rule?",
+    "skill": "ac9e1la07_02_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-010",
-      "alt_text": "🧠 Rule; ➡️ Read sentence; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-004",
+      "alt_text": "🧠 Draw a word-class map; ➡️ Find word; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Using the rule for this English skill.",
+        "text": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
         "is_correct": true
       },
       {
-        "text": "Do not find what happens or what is.",
+        "text": "Treat adjective as noun.",
         "is_correct": false
       },
       {
-        "text": "Do not ask what job the word does in the sentence.",
+        "text": "Do not find what happens or what is.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class. is the useful check. A describing word needs something to describe.",
       "hint": "A describing word needs something to describe."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LA07-T-011",
@@ -1217,185 +1747,19 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LA07",
     "bank": "test",
-    "skill": "ac9e1la07_06_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la07 06 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1la07 06 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1la07_03_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-011",
-      "alt_text": "📖 Worked example; 🔎 noun; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-006",
+      "alt_text": "🧠 Correct a label error; ➡️ Ask its job; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Do not find what happens or what is.",
+        "text": "The blue boat rocks",
         "is_correct": false
       },
-      {
-        "text": "Use the worked example for this English skill",
-        "is_correct": true
-      },
-      {
-        "text": "Do not ask what job the word does in the sentence.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use the worked example for this English skill This matches the task.",
-      "hint": "Find what happens or what is."
-    }
-  },
-  {
-    "id": "AC9E1LA07-T-012",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "test",
-    "skill": "ac9e1la07_06_strategy",
-    "question": "Which tip would help you worked example?",
-    "audio_prompt": "Which tip would help you worked example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Find word; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not ask what job the word does in the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      },
-      {
-        "text": "Find what happens or what is.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Find what happens or what is.",
-      "hint": "Find what happens or what is."
-    }
-  },
-  {
-    "id": "AC9E1LA07-T-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "test",
-    "skill": "ac9e1la07_07_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la07 07 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1la07 07 answer. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-013",
-      "alt_text": "📖 Word check; 🔎 verb; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Ask: Who or what? noun/pronoun",
-        "is_correct": true
-      },
-      {
-        "text": "Do not ask what job the word does in the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Ask: Who or what? noun/pronoun This matches the task.",
-      "hint": "Ask what job the word does in the sentence."
-    }
-  },
-  {
-    "id": "AC9E1LA07-T-014",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "test",
-    "skill": "ac9e1la07_07_strategy",
-    "question": "Which tip would help you word check?",
-    "audio_prompt": "Which tip would help you word check?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-014",
-      "alt_text": "🧠 Word check; ➡️ Ask its job; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not find what happens or what is.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Read sentence → Find word → Ask its job → Name word class.",
-      "hint": "Ask what job the word does in the sentence."
-    }
-  },
-  {
-    "id": "AC9E1LA07-T-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "test",
-    "skill": "ac9e1la07_08_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la07 08 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1la07 08 answer. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-015",
-      "alt_text": "📖 Common trap; 🔎 adjective; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Treat adjective as noun.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not find what happens or what is.",
-        "is_correct": false
-      },
-      {
-        "text": "A word's job depends on its sentence; 'fast' can describe a car or tell how it moves.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A word's job depends on its sentence; 'fast' can describe a car or tell how it moves. This matches the task.",
-      "hint": "A describing word needs something to describe."
-    }
-  },
-  {
-    "id": "AC9E1LA07-T-016",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LA07",
-    "bank": "test",
-    "skill": "ac9e1la07_08_strategy",
-    "question": "Which tip would help you common trap?",
-    "audio_prompt": "Which tip would help you common trap?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Name word class; 💡 helpful strategy"
-    },
-    "answers": [
       {
         "text": "Look for adjective and check the whole example.",
         "is_correct": true
@@ -1403,6 +1767,177 @@
       {
         "text": "Do not find what happens or what is.",
         "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for adjective and check the whole example. is the useful check. Find what happens or what is.",
+      "hint": "Find what happens or what is."
+    },
+    "stage": "verify"
+  },
+  {
+    "id": "AC9E1LA07-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "test",
+    "skill": "ac9e1la07_04_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-008",
+      "alt_text": "🧠 Analyse and revise; ➡️ Name word class; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "He slowly opens the rusty gate at dawn",
+        "is_correct": false
+      },
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can find adverbs.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can find adverbs. is the useful check. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "verify"
+  },
+  {
+    "id": "AC9E1LA07-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "test",
+    "skill": "ac9e1la07_01_test_apply",
+    "question": "A classmate chose “Do not ask what job the word does in the sentence.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Do not ask what job the word does in the sentence.. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-001",
+      "alt_text": "📖 show action and state; 🔎 noun; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Two complete examples, such as jumps and is/seems, correctly identified",
+        "is_correct": true
+      },
+      {
+        "text": "Do not ask what job the word does in the sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Two complete examples, such as jumps and is/seems, correctly identified is the stronger response because it uses the target skill. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA07-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "test",
+    "skill": "ac9e1la07_02_test_apply",
+    "question": "A classmate chose “Treat adjective as noun.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Treat adjective as noun.. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-003",
+      "alt_text": "📖 Draw a word-class map; 🔎 verb; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Treat adjective as noun.",
+        "is_correct": false
+      },
+      {
+        "text": "Five suitable examples placed in correct boxes",
+        "is_correct": true
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Five suitable examples placed in correct boxes is the stronger response because it uses the target skill. A describing word needs something to describe.",
+      "hint": "A describing word needs something to describe."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA07-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "test",
+    "skill": "ac9e1la07_03_test_apply",
+    "question": "A classmate chose “The blue boat rocks”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose The blue boat rocks. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-005",
+      "alt_text": "📖 Correct a label error; 🔎 adjective; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The blue boat rocks",
+        "is_correct": false
+      },
+      {
+        "text": "Do not find what happens or what is.",
+        "is_correct": false
+      },
+      {
+        "text": "Blue adjective; boat noun; rocks verb",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Blue adjective; boat noun; rocks verb is the stronger response because it uses the target skill. Find what happens or what is.",
+      "hint": "Find what happens or what is."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LA07-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA07",
+    "bank": "test",
+    "skill": "ac9e1la07_04_test_apply",
+    "question": "A classmate chose “He slowly opens the rusty gate at dawn”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose He slowly opens the rusty gate at dawn. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la07.svg#ac9e1la07-t-007",
+      "alt_text": "📖 Analyse and revise; 🔎 adverb; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "He pronoun; opens verb; rusty adjective; slowly how; at dawn when; replacement preserves grammar and meaning",
+        "is_correct": true
+      },
+      {
+        "text": "He slowly opens the rusty gate at dawn",
+        "is_correct": false
       },
       {
         "text": "Do not ask what job the word does in the sentence.",
@@ -1411,8 +1946,9 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Look for adjective and check the whole example.",
-      "hint": "A describing word needs something to describe."
-    }
+      "summary": "He pronoun; opens verb; rusty adjective; slowly how; at dawn when; replacement preserves grammar and meaning is the stronger response because it uses the target skill. Ask what job the word does in the sentence.",
+      "hint": "Ask what job the word does in the sentence."
+    },
+    "stage": "apply"
   }
 ]

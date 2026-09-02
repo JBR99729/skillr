@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly11 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate continuous blending?",
-    "audioPrompt": "Which response would correctly demonstrate continuous blending?",
-    "visual": "📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001\"></use></svg>",
+    "question": "Which response would correctly show continuous blending?",
+    "audioPrompt": "Which response would correctly show continuous blending?",
+    "visual": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001",
-      "alt_text": "📖 Demonstrate continuous blending; 🔎 short vowel; ✅ choose with evidence"
+      "alt_text": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence"
     },
     "answers": [
       "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly11 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate continuous blending?",
-    "audioPrompt": "Which tip would help you demonstrate continuous blending?",
-    "visual": "🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002\"></use></svg>",
+    "question": "Which tip would help you show continuous blending?",
+    "audioPrompt": "Which tip would help you show continuous blending?",
+    "visual": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002",
-      "alt_text": "🧠 Demonstrate continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
+      "alt_text": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
     },
     "answers": [
       "Do not look through the whole word.",
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly11-t-009",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 05 answer",
+    "skill": "ac9e1ly11 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly11 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly11 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 blend to read; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 blend to read; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-009",
-      "alt_text": "📖 Rule; 🔎 blend to read; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-002",
+      "alt_text": "🧠 show continuous blending; ➡️ Look at pattern; 💡 helpful strategy"
     },
     "answers": [
+      "Count both letters of a digraph as separate sounds.",
       "Do not look through the whole word.",
-      "Leave out vowel.",
-      "Short and long vowel patterns help read and spell words"
+      "sh/ch/th can make one sound."
     ],
     "correct": 2,
-    "explanation": "Short and long vowel patterns help read and spell words This matches the task.\nHint: Look through the whole word.",
+    "explanation": "sh/ch/th can make one sound. is the useful check. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
     "structuredExplanation": {
-      "summary": "Short and long vowel patterns help read and spell words This matches the task.",
-      "hint": "Look through the whole word."
+      "summary": "sh/ch/th can make one sound. is the useful check. sh/ch/th can make one sound.",
+      "hint": "sh/ch/th can make one sound."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly11-t-010",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 05 strategy",
+    "skill": "ac9e1ly11 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Look at pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Look at pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw a two-syllable map; ➡️ Say sound; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a two-syllable map; ➡️ Say sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-010",
-      "alt_text": "🧠 Rule; ➡️ Look at pattern; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-004",
+      "alt_text": "🧠 Draw a two-syllable map; ➡️ Say sound; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Leave out vowel.",
-      "Count both letters of a digraph as separate sounds."
+      "Use this routine: Look at pattern → Say sound → Blend word → Write/check.",
+      "Do not look through the whole word.",
+      "Leave out vowel."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Look through the whole word.",
+    "explanation": "Use this routine: Look at pattern → Say sound → Blend word → Write/check. is the useful check. Look through the whole word.\nHint: Look through the whole word.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Look at pattern → Say sound → Blend word → Write/check. is the useful check. Look through the whole word.",
       "hint": "Look through the whole word."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly11-t-011",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 06 answer",
+    "skill": "ac9e1ly11 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly11 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly11 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 short vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct a digraph split; ➡️ Blend word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a digraph split; ➡️ Blend word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-011",
-      "alt_text": "📖 Worked example; 🔎 short vowel; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-006",
+      "alt_text": "🧠 Correct a digraph split; ➡️ Blend word; 💡 helpful strategy"
     },
     "answers": [
       "Leave out vowel.",
-      "man has short /a/",
+      "Look for blend and check the whole example.",
       "Count both letters of a digraph as separate sounds."
     ],
     "correct": 1,
-    "explanation": "man has short /a/ This matches the task.\nHint: Every syllable needs a vowel sound.",
+    "explanation": "Look for blend and check the whole example. is the useful check. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
     "structuredExplanation": {
-      "summary": "man has short /a/ This matches the task.",
+      "summary": "Look for blend and check the whole example. is the useful check. Every syllable needs a vowel sound.",
       "hint": "Every syllable needs a vowel sound."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly11-t-012",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 06 strategy",
+    "skill": "ac9e1ly11 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Say sound; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Say sound; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Decode and encode a mixed set; ➡️ Write/check; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Decode and encode a mixed set; ➡️ Write/check; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Say sound; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-008",
+      "alt_text": "🧠 Decode and encode a mixed set; ➡️ Write/check; 💡 helpful strategy"
     },
     "answers": [
       "Count both letters of a digraph as separate sounds.",
       "Do not look through the whole word.",
-      "Every syllable needs a vowel sound."
+      "Check that you can read digraphs."
     ],
     "correct": 2,
-    "explanation": "Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
+    "explanation": "Check that you can read digraphs. is the useful check. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
     "structuredExplanation": {
-      "summary": "Every syllable needs a vowel sound.",
-      "hint": "Every syllable needs a vowel sound."
+      "summary": "Check that you can read digraphs. is the useful check. sh/ch/th can make one sound.",
+      "hint": "sh/ch/th can make one sound."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly11-t-013",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 07 answer",
+    "skill": "ac9e1ly11 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly11 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly11 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Reading strategy; 🔎 long vowel; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Reading strategy; 🔎 long vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-013\"></use></svg>",
+    "question": "A classmate chose “Count both letters of a digraph as separate sounds.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Count both letters of a digraph as separate sounds.. Which answer would improve their response?",
+    "visual": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-013",
-      "alt_text": "📖 Reading strategy; 🔎 long vowel; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-001",
+      "alt_text": "📖 show continuous blending; 🔎 short vowel; ✅ choose with evidence"
     },
     "answers": [
-      "Use the reading strategy for this English skill",
+      "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained",
       "Count both letters of a digraph as separate sounds.",
       "Do not look through the whole word."
     ],
     "correct": 0,
-    "explanation": "Use the reading strategy for this English skill This matches the task.\nHint: sh/ch/th can make one sound.",
+    "explanation": "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained is the stronger response because it uses the target skill. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
     "structuredExplanation": {
-      "summary": "Use the reading strategy for this English skill This matches the task.",
+      "summary": "/r/ /e/ /s/ /t/ blended as rest, with both final blend sounds retained is the stronger response because it uses the target skill. sh/ch/th can make one sound.",
       "hint": "sh/ch/th can make one sound."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly11-t-014",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 07 strategy",
+    "skill": "ac9e1ly11 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you reading strategy?",
-    "audioPrompt": "Which tip would help you reading strategy?",
-    "visual": "🧠 Reading strategy; ➡️ Blend word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Reading strategy; ➡️ Blend word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-014\"></use></svg>",
+    "question": "A classmate chose “Do not look through the whole word.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not look through the whole word.. Which answer would improve their response?",
+    "visual": "📖 Draw a two-syllable map; 🔎 long vowel; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a two-syllable map; 🔎 long vowel; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-014",
-      "alt_text": "🧠 Reading strategy; ➡️ Blend word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-003",
+      "alt_text": "📖 Draw a two-syllable map; 🔎 long vowel; ✅ choose with evidence"
     },
     "answers": [
       "Do not look through the whole word.",
-      "Use this routine: Look at pattern → Say sound → Blend word → Write/check.",
+      "Rabbit split rab/bit; a and i identified as short vowel sounds",
       "Leave out vowel."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Look at pattern → Say sound → Blend word → Write/check.\nHint: sh/ch/th can make one sound.",
+    "explanation": "Rabbit split rab/bit; a and i identified as short vowel sounds is the stronger response because it uses the target skill. Look through the whole word.\nHint: Look through the whole word.",
     "structuredExplanation": {
-      "summary": "Use this routine: Look at pattern → Say sound → Blend word → Write/check.",
-      "hint": "sh/ch/th can make one sound."
+      "summary": "Rabbit split rab/bit; a and i identified as short vowel sounds is the stronger response because it uses the target skill. Look through the whole word.",
+      "hint": "Look through the whole word."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly11-t-015",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 08 answer",
+    "skill": "ac9e1ly11 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly11 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly11 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-015\"></use></svg>",
+    "question": "A classmate chose “Leave out vowel.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Leave out vowel.. Which answer would improve their response?",
+    "visual": "📖 Correct a digraph split; 🔎 blend; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a digraph split; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-015",
-      "alt_text": "📖 Common trap; 🔎 blend; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-005",
+      "alt_text": "📖 Correct a digraph split; 🔎 blend; ✅ choose with evidence"
     },
     "answers": [
-      "Do not look through the whole word.",
       "Leave out vowel.",
-      "A blend is not one sound: in stop, /s/ and /t/ are both heard; in shop, sh is one /sh/ sound."
+      "Count both letters of a digraph as separate sounds.",
+      "Sh represents one /sh/ phoneme; correct segmentation /sh/ /i/ /p/"
     ],
     "correct": 2,
-    "explanation": "A blend is not one sound: in stop, /s/ and /t/ are both heard; in shop, sh is one /sh/ sound. This matches the task.\nHint: Look through the whole word.",
+    "explanation": "Sh represents one /sh/ phoneme; correct segmentation /sh/ /i/ /p/ is the stronger response because it uses the target skill. Every syllable needs a vowel sound.\nHint: Every syllable needs a vowel sound.",
     "structuredExplanation": {
-      "summary": "A blend is not one sound: in stop, /s/ and /t/ are both heard; in shop, sh is one /sh/ sound. This matches the task.",
-      "hint": "Look through the whole word."
+      "summary": "Sh represents one /sh/ phoneme; correct segmentation /sh/ /i/ /p/ is the stronger response because it uses the target skill. Every syllable needs a vowel sound.",
+      "hint": "Every syllable needs a vowel sound."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly11-t-016",
     "curriculumCode": "AC9E1LY11",
     "bank": "test",
-    "skill": "ac9e1ly11 08 strategy",
+    "skill": "ac9e1ly11 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Write/check; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Write/check; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-016\"></use></svg>",
+    "question": "A classmate chose “Count both letters of a digraph as separate sounds.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Count both letters of a digraph as separate sounds.. Which answer would improve their response?",
+    "visual": "📖 Decode and encode a mixed set; 🔎 digraph; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Decode and encode a mixed set; 🔎 digraph; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Write/check; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly11.svg#ac9e1ly11-t-007",
+      "alt_text": "📖 Decode and encode a mixed set; 🔎 digraph; ✅ choose with evidence"
     },
     "answers": [
-      "Look for blend and check the whole example.",
-      "Leave out vowel.",
-      "Count both letters of a digraph as separate sounds."
+      "All four words accurate; fl blend, ch digraph, o_e long /o/, sun/set syllables, with explanations",
+      "Count both letters of a digraph as separate sounds.",
+      "Do not look through the whole word."
     ],
     "correct": 0,
-    "explanation": "Look for blend and check the whole example.\nHint: Look through the whole word.",
+    "explanation": "All four words accurate; fl blend, ch digraph, o_e long /o/, sun/set syllables, with explanations is the stronger response because it uses the target skill. sh/ch/th can make one sound.\nHint: sh/ch/th can make one sound.",
     "structuredExplanation": {
-      "summary": "Look for blend and check the whole example.",
-      "hint": "Look through the whole word."
+      "summary": "All four words accurate; fl blend, ch digraph, o_e long /o/, sun/set syllables, with explanations is the stronger response because it uses the target skill. sh/ch/th can make one sound.",
+      "hint": "sh/ch/th can make one sound."
     },
     "qualitySchema": "production-v1"
   }

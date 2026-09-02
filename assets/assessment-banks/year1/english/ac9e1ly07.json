@@ -5,7 +5,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_01_answer",
+    "skill": "ac9e1ly07_01_recognise",
     "question": "Which sentence best opens a talk: 'Today I will show how seeds grow' or 'That is all'?",
     "audio_prompt": "Which sentence best opens a talk: 'Today I will show how seeds grow' or 'That is all'?",
     "visual": {
@@ -32,9 +32,7 @@
       "summary": "'Today I will show how seeds grow' This matches the task.",
       "hint": "End with a final statement, not just stopping."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
     "id": "AC9E1LY07-P-002",
@@ -42,44 +40,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_01_strategy",
-    "question": "Which tip would help you identify an opening?",
-    "audio_prompt": "Which tip would help you identify an opening?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-002",
-      "alt_text": "🧠 Identify an opening; ➡️ Opening; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Read too fast.",
-        "is_correct": false
-      },
-      {
-        "text": "End with a final statement, not just stopping.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not use gesture that helps meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "End with a final statement, not just stopping.",
-      "hint": "End with a final statement, not just stopping."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY07-P-003",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY07",
-    "bank": "practice",
-    "skill": "ac9e1ly07_02_answer",
+    "skill": "ac9e1ly07_02_recognise",
     "question": "Which response would correctly match presentation parts?",
     "audio_prompt": "Which response would correctly match presentation parts?",
     "visual": {
@@ -106,54 +67,15 @@
       "summary": "Each part matched correctly This matches the task.",
       "hint": "Practise steady pace."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY07-P-004",
+    "id": "AC9E1LY07-P-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_02_strategy",
-    "question": "Which tip would help you match presentation parts?",
-    "audio_prompt": "Which tip would help you match presentation parts?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-004",
-      "alt_text": "🧠 Match presentation parts; ➡️ Middle details; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not use gesture that helps meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out closing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
-      "hint": "Practise steady pace."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY07-P-005",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY07",
-    "bank": "practice",
-    "skill": "ac9e1ly07_03_answer",
+    "skill": "ac9e1ly07_03_recognise",
     "question": "Which response would correctly deliver a three-part talk?",
     "audio_prompt": "Which response would correctly deliver a three-part talk?",
     "visual": {
@@ -180,54 +102,15 @@
       "summary": "All three parts are present and spoken clearly at suitable volume/pace This matches the task.",
       "hint": "Use gesture that helps meaning."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY07-P-006",
+    "id": "AC9E1LY07-P-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_03_strategy",
-    "question": "Which tip would help you deliver a three-part talk?",
-    "audio_prompt": "Which tip would help you deliver a three-part talk?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-006",
-      "alt_text": "🧠 Deliver a three-part talk; ➡️ Concluding statement; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Leave out closing.",
-        "is_correct": false
-      },
-      {
-        "text": "Read too fast.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for closing and check the whole example.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for closing and check the whole example.",
-      "hint": "Use gesture that helps meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY07-P-007",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY07",
-    "bank": "practice",
-    "skill": "ac9e1ly07_04_answer",
+    "skill": "ac9e1ly07_04_recognise",
     "question": "Which response would correctly choose topic vocabulary?",
     "audio_prompt": "Which response would correctly choose topic vocabulary?",
     "visual": {
@@ -254,54 +137,15 @@
       "summary": "Any two such as length, unit, equal, end-to-end; sentence uses one accurately This matches the task.",
       "hint": "End with a final statement, not just stopping."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY07-P-008",
+    "id": "AC9E1LY07-P-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_04_strategy",
-    "question": "Which tip would help you choose topic vocabulary?",
-    "audio_prompt": "Which tip would help you choose topic vocabulary?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-008",
-      "alt_text": "🧠 Choose topic vocabulary; ➡️ Practise voice/gesture; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Read too fast.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can speak clearly.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not use gesture that helps meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can speak clearly.",
-      "hint": "End with a final statement, not just stopping."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY07-P-009",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY07",
-    "bank": "practice",
-    "skill": "ac9e1ly07_05_answer",
+    "skill": "ac9e1ly07_05_recognise",
     "question": "Which response would correctly order presentation cards?",
     "audio_prompt": "Which response would correctly order presentation cards?",
     "visual": {
@@ -328,52 +172,15 @@
       "summary": "Opening → key idea one → key idea two → conclusion This matches the task.",
       "hint": "Practise steady pace."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY07-P-010",
+    "id": "AC9E1LY07-P-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_05_strategy",
-    "question": "Which tip would help you order presentation cards?",
-    "audio_prompt": "Which tip would help you order presentation cards?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-010",
-      "alt_text": "🧠 Order presentation cards; ➡️ Opening; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sequencing a short presentation.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not use gesture that helps meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out closing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Sequencing a short presentation.",
-      "hint": "Practise steady pace."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY07-P-011",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY07",
-    "bank": "practice",
-    "skill": "ac9e1ly07_06_answer",
+    "skill": "ac9e1ly07_06_recognise",
     "question": "Which response would correctly draw one useful slide?",
     "audio_prompt": "Which response would correctly draw one useful slide?",
     "visual": {
@@ -400,52 +207,15 @@
       "summary": "Readable heading, relevant labelled visual and concise layout This matches the task.",
       "hint": "Use gesture that helps meaning."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY07-P-012",
+    "id": "AC9E1LY07-P-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_06_strategy",
-    "question": "Which tip would help you draw one useful slide?",
-    "audio_prompt": "Which tip would help you draw one useful slide?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-012",
-      "alt_text": "🧠 Draw one useful slide; ➡️ Middle details; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Leave out closing.",
-        "is_correct": false
-      },
-      {
-        "text": "Read too fast.",
-        "is_correct": false
-      },
-      {
-        "text": "Use gesture that helps meaning.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Use gesture that helps meaning.",
-      "hint": "Use gesture that helps meaning."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY07-P-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY07",
-    "bank": "practice",
-    "skill": "ac9e1ly07_07_answer",
+    "skill": "ac9e1ly07_07_recognise",
     "question": "Why should a speaker pause briefly after an important idea instead of rushing?",
     "audio_prompt": "Why should a speaker pause briefly after an important idea instead of rushing?",
     "visual": {
@@ -472,52 +242,15 @@
       "summary": "Pause gives audience time to process and highlights the idea This matches the task.",
       "hint": "End with a final statement, not just stopping."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY07-P-014",
+    "id": "AC9E1LY07-P-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_07_strategy",
-    "question": "Which tip would help you adjust pace?",
-    "audio_prompt": "Which tip would help you adjust pace?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-014",
-      "alt_text": "🧠 Adjust pace; ➡️ Concluding statement; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Read too fast.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not use gesture that helps meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
-      "hint": "End with a final statement, not just stopping."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY07-P-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY07",
-    "bank": "practice",
-    "skill": "ac9e1ly07_08_answer",
+    "skill": "ac9e1ly07_08_recognise",
     "question": "Which response would correctly plan purposeful gestures?",
     "audio_prompt": "Which response would correctly plan purposeful gestures?",
     "visual": {
@@ -544,52 +277,15 @@
       "summary": "Uses controlled size/comparison gestures aligned with spoken points This matches the task.",
       "hint": "Practise steady pace."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY07-P-016",
+    "id": "AC9E1LY07-P-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_08_strategy",
-    "question": "Which tip would help you plan purposeful gestures?",
-    "audio_prompt": "Which tip would help you plan purposeful gestures?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-016",
-      "alt_text": "🧠 Plan purposeful gestures; ➡️ Practise voice/gesture; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for closing and check the whole example.",
-        "is_correct": true
-      },
-      {
-        "text": "Do not use gesture that helps meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out closing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for closing and check the whole example.",
-      "hint": "Practise steady pace."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY07-P-017",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY07",
-    "bank": "practice",
-    "skill": "ac9e1ly07_01_answer",
+    "skill": "ac9e1ly07_09_recognise",
     "question": "Which response would correctly write a conclusion?",
     "audio_prompt": "Which response would correctly write a conclusion?",
     "visual": {
@@ -616,52 +312,15 @@
       "summary": "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy' This matches the task.",
       "hint": "Use gesture that helps meaning."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY07-P-018",
+    "id": "AC9E1LY07-P-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_01_strategy",
-    "question": "Which tip would help you write a conclusion?",
-    "audio_prompt": "Which tip would help you write a conclusion?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-018",
-      "alt_text": "🧠 Write a conclusion; ➡️ Opening; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Leave out closing.",
-        "is_correct": false
-      },
-      {
-        "text": "Read too fast.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can speak clearly.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can speak clearly.",
-      "hint": "Use gesture that helps meaning."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY07-P-019",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY07",
-    "bank": "practice",
-    "skill": "ac9e1ly07_02_answer",
+    "skill": "ac9e1ly07_10_recognise",
     "question": "Which response would correctly match delivery problems and fixes?",
     "audio_prompt": "Which response would correctly match delivery problems and fixes?",
     "visual": {
@@ -688,8 +347,322 @@
       "summary": "Each problem matched to appropriate fix This matches the task.",
       "hint": "End with a final statement, not just stopping."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
+  },
+  {
+    "id": "AC9E1LY07-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_01_explain",
+    "question": "Which tip would help you identify an opening?",
+    "audio_prompt": "Which tip would help you identify an opening?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-002",
+      "alt_text": "🧠 Identify an opening; ➡️ Opening; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Read too fast.",
+        "is_correct": false
+      },
+      {
+        "text": "End with a final statement, not just stopping.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY07-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_02_explain",
+    "question": "Which tip would help you match presentation parts?",
+    "audio_prompt": "Which tip would help you match presentation parts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-004",
+      "alt_text": "🧠 Match presentation parts; ➡️ Middle details; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
+      "hint": "Practise steady pace."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY07-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_03_explain",
+    "question": "Which tip would help you deliver a three-part talk?",
+    "audio_prompt": "Which tip would help you deliver a three-part talk?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-006",
+      "alt_text": "🧠 Deliver a three-part talk; ➡️ Concluding statement; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      },
+      {
+        "text": "Read too fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for closing and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for closing and check the whole example.",
+      "hint": "Use gesture that helps meaning."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY07-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_04_explain",
+    "question": "Which tip would help you choose topic vocabulary?",
+    "audio_prompt": "Which tip would help you choose topic vocabulary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-008",
+      "alt_text": "🧠 Choose topic vocabulary; ➡️ Practise voice/gesture; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Read too fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can speak clearly.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can speak clearly.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY07-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_05_explain",
+    "question": "Which tip would help you order presentation cards?",
+    "audio_prompt": "Which tip would help you order presentation cards?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-010",
+      "alt_text": "🧠 Order presentation cards; ➡️ Opening; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing a short presentation.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing a short presentation.",
+      "hint": "Practise steady pace."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY07-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_06_explain",
+    "question": "Which tip would help you draw one useful slide?",
+    "audio_prompt": "Which tip would help you draw one useful slide?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-012",
+      "alt_text": "🧠 Draw one useful slide; ➡️ Middle details; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      },
+      {
+        "text": "Read too fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Use gesture that helps meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use gesture that helps meaning.",
+      "hint": "Use gesture that helps meaning."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY07-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_07_explain",
+    "question": "Which tip would help you adjust pace?",
+    "audio_prompt": "Which tip would help you adjust pace?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-014",
+      "alt_text": "🧠 Adjust pace; ➡️ Concluding statement; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Read too fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY07-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_08_explain",
+    "question": "Which tip would help you plan purposeful gestures?",
+    "audio_prompt": "Which tip would help you plan purposeful gestures?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-016",
+      "alt_text": "🧠 Plan purposeful gestures; ➡️ Practise voice/gesture; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for closing and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for closing and check the whole example.",
+      "hint": "Practise steady pace."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY07-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_09_explain",
+    "question": "Which tip would help you write a conclusion?",
+    "audio_prompt": "Which tip would help you write a conclusion?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-018",
+      "alt_text": "🧠 Write a conclusion; ➡️ Opening; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      },
+      {
+        "text": "Read too fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can speak clearly.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can speak clearly.",
+      "hint": "Use gesture that helps meaning."
+    },
+    "stage": "explain"
   },
   {
     "id": "AC9E1LY07-P-020",
@@ -697,7 +670,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_02_strategy",
+    "skill": "ac9e1ly07_10_explain",
     "question": "Which tip would help you match delivery problems and fixes?",
     "audio_prompt": "Which tip would help you match delivery problems and fixes?",
     "visual": {
@@ -724,8 +697,7 @@
       "summary": "Improving oral delivery.",
       "hint": "End with a final statement, not just stopping."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "explain"
   },
   {
     "id": "AC9E1LY07-P-021",
@@ -733,35 +705,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_03_answer",
-    "question": "Which response would correctly sequence rehearsal?",
-    "audio_prompt": "Which response would correctly sequence rehearsal?",
+    "skill": "ac9e1ly07_01_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-021",
-      "alt_text": "📖 Sequence rehearsal; 🔎 opening; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-001",
+      "alt_text": "📖 Identify an opening; 🔎 opening; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "present → revise/rehearse → seek feedback → Practise",
-        "is_correct": false
-      },
-      {
-        "text": "Read too fast.",
-        "is_correct": false
-      },
-      {
-        "text": "Practise → seek feedback → revise/rehearse → present",
+        "text": "Today I will show how seeds grow",
         "is_correct": true
+      },
+      {
+        "text": "'Today I will show how seeds grow'",
+        "is_correct": false
+      },
+      {
+        "text": "End with a final statement, not just stopping.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Practise → seek feedback → revise/rehearse → present This matches the task.",
-      "hint": "Practise steady pace."
+      "summary": "Today I will show how seeds grow is the mix-up. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "discriminate"
   },
   {
     "id": "AC9E1LY07-P-022",
@@ -769,17 +740,402 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_03_strategy",
-    "question": "Which tip would help you sequence rehearsal?",
-    "audio_prompt": "Which tip would help you sequence rehearsal?",
+    "skill": "ac9e1ly07_02_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-022",
-      "alt_text": "🧠 Sequence rehearsal; ➡️ Concluding statement; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-003",
+      "alt_text": "📖 Match presentation parts; 🔎 middle; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Practise steady pace.",
+        "text": "Each part matched correctly",
+        "is_correct": false
+      },
+      {
+        "text": "Read too fast.",
+        "is_correct": true
+      },
+      {
+        "text": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read too fast. is the mix-up. Practise steady pace.",
+      "hint": "Practise steady pace."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY07-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_03_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-005",
+      "alt_text": "📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "All three parts are present and spoken clearly at suitable volume/pace",
+        "is_correct": false
+      },
+      {
+        "text": "Look for closing and check the whole example.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Do not use gesture that helps meaning. is the mix-up. Use gesture that helps meaning.",
+      "hint": "Use gesture that helps meaning."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY07-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_04_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-007",
+      "alt_text": "📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out closing.",
+        "is_correct": true
+      },
+      {
+        "text": "Any two such as length, unit, equal, end-to-end; sentence uses one accurately",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can speak clearly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Leave out closing. is the mix-up. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY07-P-025",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_05_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-009",
+      "alt_text": "📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Opening → key idea one → key idea two → conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "conclusion → key idea two → key idea one → Opening",
+        "is_correct": true
+      },
+      {
+        "text": "Sequencing a short presentation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "conclusion → key idea two → key idea one → Opening is the mix-up. Practise steady pace.",
+      "hint": "Practise steady pace."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY07-P-026",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_06_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-011",
+      "alt_text": "📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Readable heading, relevant labelled visual and concise layout",
+        "is_correct": false
+      },
+      {
+        "text": "Use gesture that helps meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Do not use gesture that helps meaning. is the mix-up. Use gesture that helps meaning.",
+      "hint": "Use gesture that helps meaning."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY07-P-027",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_07_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-013",
+      "alt_text": "📖 Adjust pace; 🔎 middle; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out closing.",
+        "is_correct": true
+      },
+      {
+        "text": "Pause gives audience time to process and highlights the idea",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Leave out closing. is the mix-up. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY07-P-028",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_08_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-015",
+      "alt_text": "📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Uses controlled size/comparison gestures aligned with spoken points",
+        "is_correct": false
+      },
+      {
+        "text": "Read too fast.",
+        "is_correct": true
+      },
+      {
+        "text": "Look for closing and check the whole example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read too fast. is the mix-up. Practise steady pace.",
+      "hint": "Practise steady pace."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY07-P-029",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_09_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-017",
+      "alt_text": "📖 Write a conclusion; 🔎 volume; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy'",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can speak clearly.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Do not use gesture that helps meaning. is the mix-up. Use gesture that helps meaning.",
+      "hint": "Use gesture that helps meaning."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY07-P-030",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_10_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-019",
+      "alt_text": "📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out closing.",
+        "is_correct": true
+      },
+      {
+        "text": "Each problem matched to appropriate fix",
+        "is_correct": false
+      },
+      {
+        "text": "Improving oral delivery.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Leave out closing. is the mix-up. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY07-P-031",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_01_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-001",
+      "alt_text": "📖 Identify an opening; 🔎 opening; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Today I will show how seeds grow",
+        "is_correct": false
+      },
+      {
+        "text": "'Today I will show how seeds grow'",
+        "is_correct": true
+      },
+      {
+        "text": "That is all",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'Today I will show how seeds grow' uses the skill correctly. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY07-P-032",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_02_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-003",
+      "alt_text": "📖 Match presentation parts; 🔎 middle; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Read too fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Each part matched correctly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each part matched correctly uses the skill correctly. Practise steady pace.",
+      "hint": "Practise steady pace."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY07-P-033",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_03_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-005",
+      "alt_text": "📖 Deliver a three-part talk; 🔎 closing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "All three parts are present and spoken clearly at suitable volume/pace",
         "is_correct": true
       },
       {
@@ -793,65 +1149,63 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Practise steady pace.",
-      "hint": "Practise steady pace."
+      "summary": "All three parts are present and spoken clearly at suitable volume/pace uses the skill correctly. Use gesture that helps meaning.",
+      "hint": "Use gesture that helps meaning."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LY07-P-023",
+    "id": "AC9E1LY07-P-034",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_04_answer",
-    "question": "Which response would correctly explain visual purpose?",
-    "audio_prompt": "Which response would correctly explain visual purpose?",
+    "skill": "ac9e1ly07_04_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-023",
-      "alt_text": "📖 Explain visual purpose; 🔎 middle; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-007",
+      "alt_text": "📖 Choose topic vocabulary; 🔎 volume; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Do not use gesture that helps meaning.",
+        "text": "Leave out closing.",
         "is_correct": false
       },
       {
-        "text": "Makes direction visible and supports the topic word/ spoken explanation",
+        "text": "Any two such as length, unit, equal, end-to-end; sentence uses one accurately",
         "is_correct": true
       },
       {
-        "text": "Leave out closing.",
+        "text": "Read too fast.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Makes direction visible and supports the topic word/ spoken explanation This matches the task.",
-      "hint": "Use gesture that helps meaning."
+      "summary": "Any two such as length, unit, equal, end-to-end; sentence uses one accurately uses the skill correctly. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LY07-P-024",
+    "id": "AC9E1LY07-P-035",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "practice",
-    "skill": "ac9e1ly07_04_strategy",
-    "question": "Which tip would help you explain visual purpose?",
-    "audio_prompt": "Which tip would help you explain visual purpose?",
+    "skill": "ac9e1ly07_05_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-024",
-      "alt_text": "🧠 Explain visual purpose; ➡️ Practise voice/gesture; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-009",
+      "alt_text": "📖 Order presentation cards; 🔎 gesture; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Leave out closing.",
+        "text": "conclusion → key idea two → key idea one → Opening",
         "is_correct": false
       },
       {
@@ -859,17 +1213,191 @@
         "is_correct": false
       },
       {
-        "text": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
+        "text": "Opening → key idea one → key idea two → conclusion",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
+      "summary": "Opening → key idea one → key idea two → conclusion uses the skill correctly. Practise steady pace.",
+      "hint": "Practise steady pace."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY07-P-036",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_06_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-011",
+      "alt_text": "📖 Draw one useful slide; 🔎 opening; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Readable heading, relevant labelled visual and concise layout",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Readable heading, relevant labelled visual and concise layout uses the skill correctly. Use gesture that helps meaning.",
       "hint": "Use gesture that helps meaning."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY07-P-037",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_07_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-013",
+      "alt_text": "📖 Adjust pace; 🔎 middle; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      },
+      {
+        "text": "Pause gives audience time to process and highlights the idea",
+        "is_correct": true
+      },
+      {
+        "text": "Read too fast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Pause gives audience time to process and highlights the idea uses the skill correctly. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY07-P-038",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_08_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-015",
+      "alt_text": "📖 Plan purposeful gestures; 🔎 closing; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Read too fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Uses controlled size/comparison gestures aligned with spoken points",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Uses controlled size/comparison gestures aligned with spoken points uses the skill correctly. Practise steady pace.",
+      "hint": "Practise steady pace."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY07-P-039",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_09_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-017",
+      "alt_text": "📖 Write a conclusion; 🔎 volume; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy'",
+        "is_correct": true
+      },
+      {
+        "text": "Do not use gesture that helps meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A clear summary or call linked to topic, such as 'Clean water helps living things stay healthy' uses the skill correctly. Use gesture that helps meaning.",
+      "hint": "Use gesture that helps meaning."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY07-P-040",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "practice",
+    "skill": "ac9e1ly07_10_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-p-019",
+      "alt_text": "📖 Match delivery problems and fixes; 🔎 gesture; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      },
+      {
+        "text": "Each problem matched to appropriate fix",
+        "is_correct": true
+      },
+      {
+        "text": "Read too fast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each problem matched to appropriate fix uses the skill correctly. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY07-T-001",
@@ -878,12 +1406,12 @@
     "curriculum_code": "AC9E1LY07",
     "bank": "test",
     "skill": "ac9e1ly07_01_answer",
-    "question": "Which response would correctly demonstrate volume choices?",
-    "audio_prompt": "Which response would correctly demonstrate volume choices?",
+    "question": "Which response would correctly show volume choices?",
+    "audio_prompt": "Which response would correctly show volume choices?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-001",
-      "alt_text": "📖 Demonstrate volume choices; 🔎 opening; ✅ choose with evidence"
+      "alt_text": "📖 show volume choices; 🔎 opening; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -912,12 +1440,12 @@
     "curriculum_code": "AC9E1LY07",
     "bank": "test",
     "skill": "ac9e1ly07_01_strategy",
-    "question": "Which tip would help you demonstrate volume choices?",
-    "audio_prompt": "Which tip would help you demonstrate volume choices?",
+    "question": "Which tip would help you show volume choices?",
+    "audio_prompt": "Which tip would help you show volume choices?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-002",
-      "alt_text": "🧠 Demonstrate volume choices; ➡️ Opening; 💡 helpful strategy"
+      "alt_text": "🧠 show volume choices; ➡️ Opening; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1149,33 +1677,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "test",
-    "skill": "ac9e1ly07_05_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly07 05 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly07 05 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly07_01_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-009",
-      "alt_text": "📖 Rule; 🔎 gesture; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-002",
+      "alt_text": "🧠 show volume choices; ➡️ Opening; 💡 helpful strategy"
     },
     "answers": [
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      },
       {
         "text": "Read too fast.",
         "is_correct": false
       },
       {
-        "text": "Do not use gesture that helps meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the rule for this English skill",
+        "text": "End with a final statement, not just stopping.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the rule for this English skill This matches the task.",
-      "hint": "Practise steady pace."
-    }
+      "summary": "End with a final statement, not just stopping. is the useful check. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY07-T-010",
@@ -1183,33 +1712,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "test",
-    "skill": "ac9e1ly07_05_strategy",
-    "question": "Which tip would help you rule?",
-    "audio_prompt": "Which tip would help you rule?",
+    "skill": "ac9e1ly07_02_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-010",
-      "alt_text": "🧠 Rule; ➡️ Opening; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-004",
+      "alt_text": "🧠 Draw cue cards; ➡️ Middle details; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Using the rule for this English skill.",
+        "text": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
         "is_correct": true
       },
       {
-        "text": "Do not use gesture that helps meaning.",
+        "text": "Read too fast.",
         "is_correct": false
       },
       {
-        "text": "Leave out closing.",
+        "text": "Do not use gesture that helps meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture. is the useful check. Practise steady pace.",
       "hint": "Practise steady pace."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY07-T-011",
@@ -1217,13 +1747,13 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "test",
-    "skill": "ac9e1ly07_06_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly07 06 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly07 06 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly07_03_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-011",
-      "alt_text": "📖 Worked example; 🔎 opening; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-006",
+      "alt_text": "🧠 Correct an overloaded presentation; ➡️ Concluding statement; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1231,7 +1761,7 @@
         "is_correct": false
       },
       {
-        "text": "Opening: 'Today I will explain frog needs.' Middle: water, food and shelter",
+        "text": "Look for closing and check the whole example.",
         "is_correct": true
       },
       {
@@ -1241,9 +1771,10 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Opening: 'Today I will explain frog needs.' Middle: water, food and shelter This matches the task.",
+      "summary": "Look for closing and check the whole example. is the useful check. Use gesture that helps meaning.",
       "hint": "Use gesture that helps meaning."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY07-T-012",
@@ -1251,13 +1782,13 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "test",
-    "skill": "ac9e1ly07_06_strategy",
-    "question": "Which tip would help you worked example?",
-    "audio_prompt": "Which tip would help you worked example?",
+    "skill": "ac9e1ly07_04_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Middle details; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-008",
+      "alt_text": "🧠 Plan and deliver a learnt-topic talk; ➡️ Practise voice/gesture; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1269,15 +1800,16 @@
         "is_correct": false
       },
       {
-        "text": "Use gesture that helps meaning.",
+        "text": "Check that you can speak clearly.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use gesture that helps meaning.",
-      "hint": "Use gesture that helps meaning."
-    }
+      "summary": "Check that you can speak clearly. is the useful check. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY07-T-013",
@@ -1285,17 +1817,17 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "test",
-    "skill": "ac9e1ly07_07_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly07 07 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly07 07 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly07_01_test_apply",
+    "question": "A classmate chose “Leave out closing.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Leave out closing.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-013",
-      "alt_text": "📖 Delivery check; 🔎 middle; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-001",
+      "alt_text": "📖 show volume choices; 🔎 opening; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Use audible volume, steady pace, clear words, purposeful gestures and visuals large enough to understand.",
+        "text": "Both are audible for audience size; explanation links volume to distance/room",
         "is_correct": true
       },
       {
@@ -1309,9 +1841,10 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use audible volume, steady pace, clear words, purposeful gestures and visuals large enough to understand. This matches the task.",
+      "summary": "Both are audible for audience size; explanation links volume to distance/room is the stronger response because it uses the target skill. End with a final statement, not just stopping.",
       "hint": "End with a final statement, not just stopping."
-    }
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY07-T-014",
@@ -1319,13 +1852,13 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "test",
-    "skill": "ac9e1ly07_07_strategy",
-    "question": "Which tip would help you delivery check?",
-    "audio_prompt": "Which tip would help you delivery check?",
+    "skill": "ac9e1ly07_02_test_apply",
+    "question": "A classmate chose “Read too fast.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Read too fast.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-014",
-      "alt_text": "🧠 Delivery check; ➡️ Concluding statement; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-003",
+      "alt_text": "📖 Draw cue cards; 🔎 middle; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -1333,7 +1866,7 @@
         "is_correct": false
       },
       {
-        "text": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
+        "text": "Cards cover all sections, sequence logically and use concise cues/topic words",
         "is_correct": true
       },
       {
@@ -1343,9 +1876,10 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use this routine: Opening → Middle details → Concluding statement → Practise voice/gesture.",
-      "hint": "End with a final statement, not just stopping."
-    }
+      "summary": "Cards cover all sections, sequence logically and use concise cues/topic words is the stronger response because it uses the target skill. Practise steady pace.",
+      "hint": "Practise steady pace."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY07-T-015",
@@ -1353,53 +1887,15 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY07",
     "bank": "test",
-    "skill": "ac9e1ly07_08_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly07 08 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly07 08 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly07_03_test_apply",
+    "question": "A classmate chose “Do not use gesture that helps meaning.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Do not use gesture that helps meaning.. Which answer would improve their response?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-015",
-      "alt_text": "📖 Common trap; 🔎 closing; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-005",
+      "alt_text": "📖 Correct an overloaded presentation; 🔎 closing; ✅ choose with evidence"
     },
     "answers": [
-      {
-        "text": "Read too fast.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not use gesture that helps meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the common trap for this English skill",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Use the common trap for this English skill This matches the task.",
-      "hint": "Practise steady pace."
-    }
-  },
-  {
-    "id": "AC9E1LY07-T-016",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY07",
-    "bank": "test",
-    "skill": "ac9e1ly07_08_strategy",
-    "question": "Which tip would help you common trap?",
-    "audio_prompt": "Which tip would help you common trap?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Practise voice/gesture; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for closing and check the whole example.",
-        "is_correct": true
-      },
       {
         "text": "Do not use gesture that helps meaning.",
         "is_correct": false
@@ -1407,12 +1903,52 @@
       {
         "text": "Leave out closing.",
         "is_correct": false
+      },
+      {
+        "text": "Reduce slides/ideas, enlarge/simplify visuals/text and add clear conclusion; any three relevant fixes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reduce slides/ideas, enlarge/simplify visuals/text and add clear conclusion; any three relevant fixes is the stronger response because it uses the target skill. Use gesture that helps meaning.",
+      "hint": "Use gesture that helps meaning."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY07-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY07",
+    "bank": "test",
+    "skill": "ac9e1ly07_04_test_apply",
+    "question": "A classmate chose “Leave out closing.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Leave out closing.. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly07.svg#ac9e1ly07-t-007",
+      "alt_text": "📖 Plan and deliver a learnt-topic talk; 🔎 volume; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "All requested content/structure elements present",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out closing.",
+        "is_correct": false
+      },
+      {
+        "text": "Read too fast.",
+        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Look for closing and check the whole example.",
-      "hint": "Practise steady pace."
-    }
+      "summary": "All requested content/structure elements present is the stronger response because it uses the target skill. End with a final statement, not just stopping.",
+      "hint": "End with a final statement, not just stopping."
+    },
+    "stage": "apply"
   }
 ]

@@ -4,7 +4,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly09-p-001",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 01 answer",
+    "skill": "ac9e1ly09 01 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly segment a cvc word?",
@@ -33,36 +33,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly09-p-002",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 01 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you segment a CVC word?",
-    "audioPrompt": "Which tip would help you segment a CVC word?",
-    "visual": "🧠 Segment a CVC word; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Segment a CVC word; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-002",
-      "alt_text": "🧠 Segment a CVC word; ➡️ Say word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat blend as one sound.",
-      "Listen for phonemes, not letter count.",
-      "Do not blend back."
-    ],
-    "correct": 1,
-    "explanation": "Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
-    "structuredExplanation": {
-      "summary": "Listen for phonemes, not letter count.",
-      "hint": "Listen for phonemes, not letter count."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-003",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 02 answer",
+    "skill": "ac9e1ly09 02 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly match words and sound counts?",
@@ -88,39 +59,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-004",
+    "id": "ac9e1ly09-p-003",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 02 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you match words and sound counts?",
-    "audioPrompt": "Which tip would help you match words and sound counts?",
-    "visual": "🧠 Match words and sound counts; ➡️ Stretch sounds; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match words and sound counts; ➡️ Stretch sounds; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-004",
-      "alt_text": "🧠 Match words and sound counts; ➡️ Stretch sounds; 💡 helpful strategy"
-    },
-    "answers": [
-      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "Do not blend back.",
-      "Do not listen for phonemes, not letter count."
-    ],
-    "correct": 0,
-    "explanation": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.\nHint: /fr/ has /f/ and /r/.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "hint": "/fr/ has /f/ and /r/."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-005",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 03 answer",
+    "skill": "ac9e1ly09 03 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly move sound counters?",
@@ -146,39 +88,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-006",
+    "id": "ac9e1ly09-p-004",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 03 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you move sound counters?",
-    "audioPrompt": "Which tip would help you move sound counters?",
-    "visual": "🧠 Move sound counters; ➡️ Tap phonemes; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Move sound counters; ➡️ Tap phonemes; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-006",
-      "alt_text": "🧠 Move sound counters; ➡️ Tap phonemes; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "Treat blend as one sound.",
-      "Look for cluster and check the whole example."
-    ],
-    "correct": 2,
-    "explanation": "Look for cluster and check the whole example.\nHint: Always say the word again after segmenting.",
-    "structuredExplanation": {
-      "summary": "Look for cluster and check the whole example.",
-      "hint": "Always say the word again after segmenting."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-007",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 04 answer",
+    "skill": "ac9e1ly09 04 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly hear a final cluster?",
@@ -204,39 +117,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-008",
+    "id": "ac9e1ly09-p-005",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 04 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you hear a final cluster?",
-    "audioPrompt": "Which tip would help you hear a final cluster?",
-    "visual": "🧠 Hear a final cluster; ➡️ Blend back; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Hear a final cluster; ➡️ Blend back; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-008",
-      "alt_text": "🧠 Hear a final cluster; ➡️ Blend back; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat blend as one sound.",
-      "Check that you can use sound boxes.",
-      "Do not blend back."
-    ],
-    "correct": 1,
-    "explanation": "Check that you can use sound boxes.\nHint: Listen for phonemes, not letter count.",
-    "structuredExplanation": {
-      "summary": "Check that you can use sound boxes.",
-      "hint": "Listen for phonemes, not letter count."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-009",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 05 answer",
+    "skill": "ac9e1ly09 05 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly order spoken sounds?",
@@ -262,39 +146,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-010",
+    "id": "ac9e1ly09-p-006",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 05 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you order spoken sounds?",
-    "audioPrompt": "Which tip would help you order spoken sounds?",
-    "visual": "🧠 Order spoken sounds; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order spoken sounds; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-010",
-      "alt_text": "🧠 Order spoken sounds; ➡️ Say word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Sequencing phonemes in a word with final blend.",
-      "Do not blend back.",
-      "Do not listen for phonemes, not letter count."
-    ],
-    "correct": 0,
-    "explanation": "Sequencing phonemes in a word with final blend.\nHint: /fr/ has /f/ and /r/.",
-    "structuredExplanation": {
-      "summary": "Sequencing phonemes in a word with final blend.",
-      "hint": "/fr/ has /f/ and /r/."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-011",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 06 answer",
+    "skill": "ac9e1ly09 06 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly draw sound boxes?",
@@ -320,39 +175,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-012",
+    "id": "ac9e1ly09-p-007",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 06 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you draw sound boxes?",
-    "audioPrompt": "Which tip would help you draw sound boxes?",
-    "visual": "🧠 Draw sound boxes; ➡️ Stretch sounds; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw sound boxes; ➡️ Stretch sounds; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-012",
-      "alt_text": "🧠 Draw sound boxes; ➡️ Stretch sounds; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "Treat blend as one sound.",
-      "Always say the word again after segmenting."
-    ],
-    "correct": 2,
-    "explanation": "Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
-    "structuredExplanation": {
-      "summary": "Always say the word again after segmenting.",
-      "hint": "Always say the word again after segmenting."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-013",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 07 answer",
+    "skill": "ac9e1ly09 07 recognise",
     "printable": true,
     "type": "single",
     "question": "Why does wish have three phonemes even though it has four letters?",
@@ -378,39 +204,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-014",
+    "id": "ac9e1ly09-p-008",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 07 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you explain letters versus sounds?",
-    "audioPrompt": "Which tip would help you explain letters versus sounds?",
-    "visual": "🧠 Explain letters versus sounds; ➡️ Tap phonemes; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain letters versus sounds; ➡️ Tap phonemes; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-014",
-      "alt_text": "🧠 Explain letters versus sounds; ➡️ Tap phonemes; 💡 helpful strategy"
-    },
-    "answers": [
-      "Treat blend as one sound.",
-      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "Do not blend back."
-    ],
-    "correct": 1,
-    "explanation": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.\nHint: Listen for phonemes, not letter count.",
-    "structuredExplanation": {
-      "summary": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
-      "hint": "Listen for phonemes, not letter count."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-015",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 08 answer",
+    "skill": "ac9e1ly09 08 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly compare two blends?",
@@ -436,39 +233,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-016",
+    "id": "ac9e1ly09-p-009",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 08 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you compare two blends?",
-    "audioPrompt": "Which tip would help you compare two blends?",
-    "visual": "🧠 Compare two blends; ➡️ Blend back; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare two blends; ➡️ Blend back; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-016",
-      "alt_text": "🧠 Compare two blends; ➡️ Blend back; 💡 helpful strategy"
-    },
-    "answers": [
-      "Look for cluster and check the whole example.",
-      "Do not blend back.",
-      "Do not listen for phonemes, not letter count."
-    ],
-    "correct": 0,
-    "explanation": "Look for cluster and check the whole example.\nHint: /fr/ has /f/ and /r/.",
-    "structuredExplanation": {
-      "summary": "Look for cluster and check the whole example.",
-      "hint": "/fr/ has /f/ and /r/."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-017",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 01 answer",
+    "skill": "ac9e1ly09 09 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly segment a digraph word?",
@@ -494,39 +262,10 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
-    "id": "ac9e1ly09-p-018",
+    "id": "ac9e1ly09-p-010",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 01 strategy",
-    "printable": true,
-    "type": "single",
-    "question": "Which tip would help you segment a digraph word?",
-    "audioPrompt": "Which tip would help you segment a digraph word?",
-    "visual": "🧠 Segment a digraph word; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Segment a digraph word; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-018",
-      "alt_text": "🧠 Segment a digraph word; ➡️ Say word; 💡 helpful strategy"
-    },
-    "answers": [
-      "Do not listen for phonemes, not letter count.",
-      "Treat blend as one sound.",
-      "Check that you can use sound boxes."
-    ],
-    "correct": 2,
-    "explanation": "Check that you can use sound boxes.\nHint: Always say the word again after segmenting.",
-    "structuredExplanation": {
-      "summary": "Check that you can use sound boxes.",
-      "hint": "Always say the word again after segmenting."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e1ly09-p-019",
-    "curriculumCode": "AC9E1LY09",
-    "bank": "practice",
-    "skill": "ac9e1ly09 02 answer",
+    "skill": "ac9e1ly09 10 recognise",
     "printable": true,
     "type": "single",
     "question": "Which response would correctly match clusters and words?",
@@ -552,10 +291,271 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   },
   {
+    "id": "ac9e1ly09-p-011",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 01 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you segment a CVC word?",
+    "audioPrompt": "Which tip would help you segment a CVC word?",
+    "visual": "🧠 Segment a CVC word; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Segment a CVC word; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-002\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-002",
+      "alt_text": "🧠 Segment a CVC word; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat blend as one sound.",
+      "Listen for phonemes, not letter count.",
+      "Do not blend back."
+    ],
+    "correct": 1,
+    "explanation": "Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "structuredExplanation": {
+      "summary": "Listen for phonemes, not letter count.",
+      "hint": "Listen for phonemes, not letter count."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-012",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 02 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you match words and sound counts?",
+    "audioPrompt": "Which tip would help you match words and sound counts?",
+    "visual": "🧠 Match words and sound counts; ➡️ Stretch sounds; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Match words and sound counts; ➡️ Stretch sounds; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-004\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-004",
+      "alt_text": "🧠 Match words and sound counts; ➡️ Stretch sounds; 💡 helpful strategy"
+    },
+    "answers": [
+      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
+      "Do not blend back.",
+      "Do not listen for phonemes, not letter count."
+    ],
+    "correct": 0,
+    "explanation": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.\nHint: /fr/ has /f/ and /r/.",
+    "structuredExplanation": {
+      "summary": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
+      "hint": "/fr/ has /f/ and /r/."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-013",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 03 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you move sound counters?",
+    "audioPrompt": "Which tip would help you move sound counters?",
+    "visual": "🧠 Move sound counters; ➡️ Tap phonemes; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Move sound counters; ➡️ Tap phonemes; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-006\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-006",
+      "alt_text": "🧠 Move sound counters; ➡️ Tap phonemes; 💡 helpful strategy"
+    },
+    "answers": [
+      "Do not listen for phonemes, not letter count.",
+      "Treat blend as one sound.",
+      "Look for cluster and check the whole example."
+    ],
+    "correct": 2,
+    "explanation": "Look for cluster and check the whole example.\nHint: Always say the word again after segmenting.",
+    "structuredExplanation": {
+      "summary": "Look for cluster and check the whole example.",
+      "hint": "Always say the word again after segmenting."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-014",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 04 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you hear a final cluster?",
+    "audioPrompt": "Which tip would help you hear a final cluster?",
+    "visual": "🧠 Hear a final cluster; ➡️ Blend back; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Hear a final cluster; ➡️ Blend back; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-008\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-008",
+      "alt_text": "🧠 Hear a final cluster; ➡️ Blend back; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat blend as one sound.",
+      "Check that you can use sound boxes.",
+      "Do not blend back."
+    ],
+    "correct": 1,
+    "explanation": "Check that you can use sound boxes.\nHint: Listen for phonemes, not letter count.",
+    "structuredExplanation": {
+      "summary": "Check that you can use sound boxes.",
+      "hint": "Listen for phonemes, not letter count."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-015",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 05 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you order spoken sounds?",
+    "audioPrompt": "Which tip would help you order spoken sounds?",
+    "visual": "🧠 Order spoken sounds; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Order spoken sounds; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-010\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-010",
+      "alt_text": "🧠 Order spoken sounds; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      "Sequencing phonemes in a word with final blend.",
+      "Do not blend back.",
+      "Do not listen for phonemes, not letter count."
+    ],
+    "correct": 0,
+    "explanation": "Sequencing phonemes in a word with final blend.\nHint: /fr/ has /f/ and /r/.",
+    "structuredExplanation": {
+      "summary": "Sequencing phonemes in a word with final blend.",
+      "hint": "/fr/ has /f/ and /r/."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-016",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 06 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you draw sound boxes?",
+    "audioPrompt": "Which tip would help you draw sound boxes?",
+    "visual": "🧠 Draw sound boxes; ➡️ Stretch sounds; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw sound boxes; ➡️ Stretch sounds; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-012\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-012",
+      "alt_text": "🧠 Draw sound boxes; ➡️ Stretch sounds; 💡 helpful strategy"
+    },
+    "answers": [
+      "Do not listen for phonemes, not letter count.",
+      "Treat blend as one sound.",
+      "Always say the word again after segmenting."
+    ],
+    "correct": 2,
+    "explanation": "Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
+    "structuredExplanation": {
+      "summary": "Always say the word again after segmenting.",
+      "hint": "Always say the word again after segmenting."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-017",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 07 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you explain letters versus sounds?",
+    "audioPrompt": "Which tip would help you explain letters versus sounds?",
+    "visual": "🧠 Explain letters versus sounds; ➡️ Tap phonemes; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Explain letters versus sounds; ➡️ Tap phonemes; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-014\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-014",
+      "alt_text": "🧠 Explain letters versus sounds; ➡️ Tap phonemes; 💡 helpful strategy"
+    },
+    "answers": [
+      "Treat blend as one sound.",
+      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
+      "Do not blend back."
+    ],
+    "correct": 1,
+    "explanation": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.\nHint: Listen for phonemes, not letter count.",
+    "structuredExplanation": {
+      "summary": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
+      "hint": "Listen for phonemes, not letter count."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-018",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 08 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you compare two blends?",
+    "audioPrompt": "Which tip would help you compare two blends?",
+    "visual": "🧠 Compare two blends; ➡️ Blend back; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare two blends; ➡️ Blend back; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-016\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-016",
+      "alt_text": "🧠 Compare two blends; ➡️ Blend back; 💡 helpful strategy"
+    },
+    "answers": [
+      "Look for cluster and check the whole example.",
+      "Do not blend back.",
+      "Do not listen for phonemes, not letter count."
+    ],
+    "correct": 0,
+    "explanation": "Look for cluster and check the whole example.\nHint: /fr/ has /f/ and /r/.",
+    "structuredExplanation": {
+      "summary": "Look for cluster and check the whole example.",
+      "hint": "/fr/ has /f/ and /r/."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-019",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 09 explain",
+    "printable": true,
+    "type": "single",
+    "question": "Which tip would help you segment a digraph word?",
+    "audioPrompt": "Which tip would help you segment a digraph word?",
+    "visual": "🧠 Segment a digraph word; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Segment a digraph word; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-018\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-018",
+      "alt_text": "🧠 Segment a digraph word; ➡️ Say word; 💡 helpful strategy"
+    },
+    "answers": [
+      "Do not listen for phonemes, not letter count.",
+      "Treat blend as one sound.",
+      "Check that you can use sound boxes."
+    ],
+    "correct": 2,
+    "explanation": "Check that you can use sound boxes.\nHint: Always say the word again after segmenting.",
+    "structuredExplanation": {
+      "summary": "Check that you can use sound boxes.",
+      "hint": "Always say the word again after segmenting."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
     "id": "ac9e1ly09-p-020",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 02 strategy",
+    "skill": "ac9e1ly09 10 explain",
     "printable": true,
     "type": "single",
     "question": "Which tip would help you match clusters and words?",
@@ -584,28 +584,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly09-p-021",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 03 answer",
+    "skill": "ac9e1ly09 01 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly sequence brush sounds?",
-    "audioPrompt": "Which response would correctly sequence brush sounds?",
-    "visual": "📖 Sequence brush sounds; 🔎 phoneme; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Sequence brush sounds; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-021\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-021",
-      "alt_text": "📖 Sequence brush sounds; 🔎 phoneme; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-001",
+      "alt_text": "📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence"
     },
     "answers": [
-      "Treat blend as one sound.",
-      "Do not blend back.",
-      "/b/ /r/ /u/ /sh/"
+      "/m/ /a/ /p/ — 4 phonemes",
+      "/m/ /a/ /p/ — 3 phonemes",
+      "Listen for phonemes, not letter count."
     ],
-    "correct": 2,
-    "explanation": "/b/ /r/ /u/ /sh/ This matches the task.\nHint: /fr/ has /f/ and /r/.",
+    "correct": 0,
+    "explanation": "/m/ /a/ /p/ — 4 phonemes is the mix-up. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
     "structuredExplanation": {
-      "summary": "/b/ /r/ /u/ /sh/ This matches the task.",
-      "hint": "/fr/ has /f/ and /r/."
+      "summary": "/m/ /a/ /p/ — 4 phonemes is the mix-up. Listen for phonemes, not letter count.",
+      "hint": "Listen for phonemes, not letter count."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,27 +613,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly09-p-022",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 03 strategy",
+    "skill": "ac9e1ly09 02 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you sequence brush sounds?",
-    "audioPrompt": "Which tip would help you sequence brush sounds?",
-    "visual": "🧠 Sequence brush sounds; ➡️ Tap phonemes; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Sequence brush sounds; ➡️ Tap phonemes; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-022\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-022",
-      "alt_text": "🧠 Sequence brush sounds; ➡️ Tap phonemes; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-003",
+      "alt_text": "📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence"
     },
     "answers": [
-      "/fr/ has /f/ and /r/.",
-      "Do not blend back.",
-      "Do not listen for phonemes, not letter count."
+      "Sun ↔ 3; stop ↔ 4; fish ↔ 3",
+      "Sun ↔ 4; stop ↔ 3; fish ↔ 3",
+      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back."
     ],
-    "correct": 0,
-    "explanation": "/fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
+    "correct": 1,
+    "explanation": "Sun ↔ 4; stop ↔ 3; fish ↔ 3 is the mix-up. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
     "structuredExplanation": {
-      "summary": "/fr/ has /f/ and /r/.",
+      "summary": "Sun ↔ 4; stop ↔ 3; fish ↔ 3 is the mix-up. /fr/ has /f/ and /r/.",
       "hint": "/fr/ has /f/ and /r/."
     },
     "qualitySchema": "production-v1"
@@ -642,27 +642,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly09-p-023",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 04 answer",
+    "skill": "ac9e1ly09 03 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly count sounds in spoon?",
-    "audioPrompt": "Which response would correctly count sounds in spoon?",
-    "visual": "📖 Count sounds in spoon; 🔎 blend; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Count sounds in spoon; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-023\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Move sound counters; 🔎 cluster; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Move sound counters; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-023",
-      "alt_text": "📖 Count sounds in spoon; 🔎 blend; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-005",
+      "alt_text": "📖 Move sound counters; 🔎 cluster; ✅ choose with evidence"
     },
     "answers": [
-      "/s/ /p/ /oo/ /n/ — 5 phonemes",
-      "/s/ /p/ /oo/ /n/ — 4 phonemes",
-      "/s/ /p/ /oo/ /n/ — 3 phonemes"
+      "/f/ /r/ /o/ /g/ with 4 counters in order",
+      "Look for cluster and check the whole example.",
+      "/f/ /r/ /o/ /g/ with 5 counters in order"
     ],
-    "correct": 1,
-    "explanation": "/s/ /p/ /oo/ /n/ — 4 phonemes This matches the task.\nHint: Always say the word again after segmenting.",
+    "correct": 2,
+    "explanation": "/f/ /r/ /o/ /g/ with 5 counters in order is the mix-up. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
     "structuredExplanation": {
-      "summary": "/s/ /p/ /oo/ /n/ — 4 phonemes This matches the task.",
+      "summary": "/f/ /r/ /o/ /g/ with 5 counters in order is the mix-up. Always say the word again after segmenting.",
       "hint": "Always say the word again after segmenting."
     },
     "qualitySchema": "production-v1"
@@ -671,28 +671,492 @@ window.skillrPracticeQuestions = [
     "id": "ac9e1ly09-p-024",
     "curriculumCode": "AC9E1LY09",
     "bank": "practice",
-    "skill": "ac9e1ly09 04 strategy",
+    "skill": "ac9e1ly09 04 discriminate",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you count sounds in spoon?",
-    "audioPrompt": "Which tip would help you count sounds in spoon?",
-    "visual": "🧠 Count sounds in spoon; ➡️ Blend back; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Count sounds in spoon; ➡️ Blend back; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-024\"></use></svg>",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-024",
-      "alt_text": "🧠 Count sounds in spoon; ➡️ Blend back; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-007",
+      "alt_text": "📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence"
     },
     "answers": [
       "Do not listen for phonemes, not letter count.",
+      "/t/ /e/ /n/ /t/; final sounds /n/ /t/",
+      "Check that you can use sound boxes."
+    ],
+    "correct": 0,
+    "explanation": "Do not listen for phonemes, not letter count. is the mix-up. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "structuredExplanation": {
+      "summary": "Do not listen for phonemes, not letter count. is the mix-up. Listen for phonemes, not letter count.",
+      "hint": "Listen for phonemes, not letter count."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-025",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 05 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-009",
+      "alt_text": "📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence"
+    },
+    "answers": [
+      "/m/ /i/ /l/ /k/",
       "Treat blend as one sound.",
-      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back."
+      "Sequencing phonemes in a word with final blend."
+    ],
+    "correct": 1,
+    "explanation": "Treat blend as one sound. is the mix-up. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
+    "structuredExplanation": {
+      "summary": "Treat blend as one sound. is the mix-up. /fr/ has /f/ and /r/.",
+      "hint": "/fr/ has /f/ and /r/."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-026",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 06 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-011",
+      "alt_text": "📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence"
+    },
+    "answers": [
+      "Four boxes/dots for /k/ /l/ /a/ /p/",
+      "Always say the word again after segmenting.",
+      "Do not blend back."
     ],
     "correct": 2,
-    "explanation": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.\nHint: Always say the word again after segmenting.",
+    "explanation": "Do not blend back. is the mix-up. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back.",
+      "summary": "Do not blend back. is the mix-up. Always say the word again after segmenting.",
       "hint": "Always say the word again after segmenting."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-027",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 07 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-013",
+      "alt_text": "📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence"
+    },
+    "answers": [
+      "Do not listen for phonemes, not letter count.",
+      "sh works together to represent one /sh/ sound: /w/ /i/ /sh/",
+      "Use this routine: Say word → Stretch sounds → Tap phonemes → Blend back."
+    ],
+    "correct": 0,
+    "explanation": "Do not listen for phonemes, not letter count. is the mix-up. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "structuredExplanation": {
+      "summary": "Do not listen for phonemes, not letter count. is the mix-up. Listen for phonemes, not letter count.",
+      "hint": "Listen for phonemes, not letter count."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-028",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 08 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Compare two blends; 🔎 cluster; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two blends; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-015",
+      "alt_text": "📖 Compare two blends; 🔎 cluster; ✅ choose with evidence"
+    },
+    "answers": [
+      "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/",
+      "Treat blend as one sound.",
+      "Look for cluster and check the whole example."
+    ],
+    "correct": 1,
+    "explanation": "Treat blend as one sound. is the mix-up. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
+    "structuredExplanation": {
+      "summary": "Treat blend as one sound. is the mix-up. /fr/ has /f/ and /r/.",
+      "hint": "/fr/ has /f/ and /r/."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-029",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 09 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-017",
+      "alt_text": "📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence"
+    },
+    "answers": [
+      "/ch/ /o/ /p/ — 3 phonemes",
+      "Check that you can use sound boxes.",
+      "/ch/ /o/ /p/ — 4 phonemes"
+    ],
+    "correct": 2,
+    "explanation": "/ch/ /o/ /p/ — 4 phonemes is the mix-up. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
+    "structuredExplanation": {
+      "summary": "/ch/ /o/ /p/ — 4 phonemes is the mix-up. Always say the word again after segmenting.",
+      "hint": "Always say the word again after segmenting."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-030",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 10 discriminate",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audioPrompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": "📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-019",
+      "alt_text": "📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence"
+    },
+    "answers": [
+      "/b//l/ ↔ star; /s//t/ ↔ hand; /n//d/ ↔ blue",
+      "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand",
+      "Recognising consonant clusters in spoken words."
+    ],
+    "correct": 0,
+    "explanation": "/b//l/ ↔ star; /s//t/ ↔ hand; /n//d/ ↔ blue is the mix-up. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "structuredExplanation": {
+      "summary": "/b//l/ ↔ star; /s//t/ ↔ hand; /n//d/ ↔ blue is the mix-up. Listen for phonemes, not letter count.",
+      "hint": "Listen for phonemes, not letter count."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-031",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 01 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-001",
+      "alt_text": "📖 Segment a CVC word; 🔎 phoneme; ✅ choose with evidence"
+    },
+    "answers": [
+      "/m/ /a/ /p/ — 4 phonemes",
+      "/m/ /a/ /p/ — 3 phonemes",
+      "/m/ /a/ /p/ — 2 phonemes"
+    ],
+    "correct": 1,
+    "explanation": "/m/ /a/ /p/ — 3 phonemes uses the skill correctly. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "structuredExplanation": {
+      "summary": "/m/ /a/ /p/ — 3 phonemes uses the skill correctly. Listen for phonemes, not letter count.",
+      "hint": "Listen for phonemes, not letter count."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-032",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 02 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-003\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-003",
+      "alt_text": "📖 Match words and sound counts; 🔎 blend; ✅ choose with evidence"
+    },
+    "answers": [
+      "Sun ↔ 4; stop ↔ 3; fish ↔ 3",
+      "Sun ↔ 4; stop ↔ 4; fish ↔ 3",
+      "Sun ↔ 3; stop ↔ 4; fish ↔ 3"
+    ],
+    "correct": 2,
+    "explanation": "Sun ↔ 3; stop ↔ 4; fish ↔ 3 uses the skill correctly. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
+    "structuredExplanation": {
+      "summary": "Sun ↔ 3; stop ↔ 4; fish ↔ 3 uses the skill correctly. /fr/ has /f/ and /r/.",
+      "hint": "/fr/ has /f/ and /r/."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-033",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 03 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Move sound counters; 🔎 cluster; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Move sound counters; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-005\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-005",
+      "alt_text": "📖 Move sound counters; 🔎 cluster; ✅ choose with evidence"
+    },
+    "answers": [
+      "/f/ /r/ /o/ /g/ with 4 counters in order",
+      "/f/ /r/ /o/ /g/ with 5 counters in order",
+      "/f/ /r/ /o/ /g/ with 3 counters in order"
+    ],
+    "correct": 0,
+    "explanation": "/f/ /r/ /o/ /g/ with 4 counters in order uses the skill correctly. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
+    "structuredExplanation": {
+      "summary": "/f/ /r/ /o/ /g/ with 4 counters in order uses the skill correctly. Always say the word again after segmenting.",
+      "hint": "Always say the word again after segmenting."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-034",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 04 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-007\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-007",
+      "alt_text": "📖 Hear a final cluster; 🔎 segment; ✅ choose with evidence"
+    },
+    "answers": [
+      "Do not listen for phonemes, not letter count.",
+      "/t/ /e/ /n/ /t/; final sounds /n/ /t/",
+      "Treat blend as one sound."
+    ],
+    "correct": 1,
+    "explanation": "/t/ /e/ /n/ /t/; final sounds /n/ /t/ uses the skill correctly. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "structuredExplanation": {
+      "summary": "/t/ /e/ /n/ /t/; final sounds /n/ /t/ uses the skill correctly. Listen for phonemes, not letter count.",
+      "hint": "Listen for phonemes, not letter count."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-035",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 05 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-009\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-009",
+      "alt_text": "📖 Order spoken sounds; 🔎 blend back; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat blend as one sound.",
+      "Do not blend back.",
+      "/m/ /i/ /l/ /k/"
+    ],
+    "correct": 2,
+    "explanation": "/m/ /i/ /l/ /k/ uses the skill correctly. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
+    "structuredExplanation": {
+      "summary": "/m/ /i/ /l/ /k/ uses the skill correctly. /fr/ has /f/ and /r/.",
+      "hint": "/fr/ has /f/ and /r/."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-036",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 06 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-011\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-011",
+      "alt_text": "📖 Draw sound boxes; 🔎 phoneme; ✅ choose with evidence"
+    },
+    "answers": [
+      "Four boxes/dots for /k/ /l/ /a/ /p/",
+      "Do not blend back.",
+      "Do not listen for phonemes, not letter count."
+    ],
+    "correct": 0,
+    "explanation": "Four boxes/dots for /k/ /l/ /a/ /p/ uses the skill correctly. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
+    "structuredExplanation": {
+      "summary": "Four boxes/dots for /k/ /l/ /a/ /p/ uses the skill correctly. Always say the word again after segmenting.",
+      "hint": "Always say the word again after segmenting."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-037",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 07 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-013\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-013",
+      "alt_text": "📖 Explain letters versus sounds; 🔎 blend; ✅ choose with evidence"
+    },
+    "answers": [
+      "Do not listen for phonemes, not letter count.",
+      "sh works together to represent one /sh/ sound: /w/ /i/ /sh/",
+      "Treat blend as one sound."
+    ],
+    "correct": 1,
+    "explanation": "sh works together to represent one /sh/ sound: /w/ /i/ /sh/ uses the skill correctly. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "structuredExplanation": {
+      "summary": "sh works together to represent one /sh/ sound: /w/ /i/ /sh/ uses the skill correctly. Listen for phonemes, not letter count.",
+      "hint": "Listen for phonemes, not letter count."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-038",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 08 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Compare two blends; 🔎 cluster; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two blends; 🔎 cluster; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-015\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-015",
+      "alt_text": "📖 Compare two blends; 🔎 cluster; ✅ choose with evidence"
+    },
+    "answers": [
+      "Treat blend as one sound.",
+      "Do not blend back.",
+      "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/"
+    ],
+    "correct": 2,
+    "explanation": "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/ uses the skill correctly. /fr/ has /f/ and /r/.\nHint: /fr/ has /f/ and /r/.",
+    "structuredExplanation": {
+      "summary": "Slip /s/ /l/ /i/ /p/ starts /s//l/; list /l/ /i/ /s/ /t/ ends /s//t/ uses the skill correctly. /fr/ has /f/ and /r/.",
+      "hint": "/fr/ has /f/ and /r/."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-039",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 09 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-017\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-017",
+      "alt_text": "📖 Segment a digraph word; 🔎 segment; ✅ choose with evidence"
+    },
+    "answers": [
+      "/ch/ /o/ /p/ — 3 phonemes",
+      "/ch/ /o/ /p/ — 4 phonemes",
+      "/ch/ /o/ /p/ — 2 phonemes"
+    ],
+    "correct": 0,
+    "explanation": "/ch/ /o/ /p/ — 3 phonemes uses the skill correctly. Always say the word again after segmenting.\nHint: Always say the word again after segmenting.",
+    "structuredExplanation": {
+      "summary": "/ch/ /o/ /p/ — 3 phonemes uses the skill correctly. Always say the word again after segmenting.",
+      "hint": "Always say the word again after segmenting."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e1ly09-p-040",
+    "curriculumCode": "AC9E1LY09",
+    "bank": "practice",
+    "skill": "ac9e1ly09 10 apply",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would best use this skill in a new example?",
+    "audioPrompt": "Which choice would best use this skill in a new example?",
+    "visual": "📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-019\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly09.svg#ac9e1ly09-p-019",
+      "alt_text": "📖 Match clusters and words; 🔎 blend back; ✅ choose with evidence"
+    },
+    "answers": [
+      "/b//l/ ↔ star; /s//t/ ↔ hand; /n//d/ ↔ blue",
+      "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand",
+      "Do not listen for phonemes, not letter count."
+    ],
+    "correct": 1,
+    "explanation": "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand uses the skill correctly. Listen for phonemes, not letter count.\nHint: Listen for phonemes, not letter count.",
+    "structuredExplanation": {
+      "summary": "/b//l/ ↔ blue; /s//t/ ↔ star; /n//d/ ↔ hand uses the skill correctly. Listen for phonemes, not letter count.",
+      "hint": "Listen for phonemes, not letter count."
     },
     "qualitySchema": "production-v1"
   }

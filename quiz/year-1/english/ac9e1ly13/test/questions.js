@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly13 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate say-segment-write?",
-    "audioPrompt": "Which response would correctly demonstrate say-segment-write?",
-    "visual": "📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001\"></use></svg>",
+    "question": "Which response would correctly show say-segment-write?",
+    "audioPrompt": "Which response would correctly show say-segment-write?",
+    "visual": "📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001",
-      "alt_text": "📖 Demonstrate say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
+      "alt_text": "📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
     },
     "answers": [
       "Says frog, segments /f r o g/, writes f-r-o-g and rereads",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1ly13 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate say-segment-write?",
-    "audioPrompt": "Which tip would help you demonstrate say-segment-write?",
-    "visual": "🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002\"></use></svg>",
+    "question": "Which tip would help you show say-segment-write?",
+    "audioPrompt": "Which tip would help you show say-segment-write?",
+    "visual": "🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002",
-      "alt_text": "🧠 Demonstrate say-segment-write; ➡️ Say word; 💡 helpful strategy"
+      "alt_text": "🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
       "Leave out second syllable.",
@@ -134,13 +134,13 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Do not check the spelling pattern.",
-      "Recognises shared -ight chunk from light/right; correct spelling night",
+      "Notices shared -ight chunk from light/right; correct spelling night",
       "Do not use sound and pattern knowledge."
     ],
     "correct": 1,
-    "explanation": "Recognises shared -ight chunk from light/right; correct spelling night This matches the task.\nHint: Compare with a known word.",
+    "explanation": "Notices shared -ight chunk from light/right; correct spelling night This matches the task.\nHint: Compare with a known word.",
     "structuredExplanation": {
-      "summary": "Recognises shared -ight chunk from light/right; correct spelling night This matches the task.",
+      "summary": "Notices shared -ight chunk from light/right; correct spelling night This matches the task.",
       "hint": "Compare with a known word."
     },
     "qualitySchema": "production-v1"
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly13-t-009",
     "curriculumCode": "AC9E1LY13",
     "bank": "test",
-    "skill": "ac9e1ly13 05 answer",
+    "skill": "ac9e1ly13 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly13 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly13 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 check; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 check; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-009",
-      "alt_text": "📖 Rule; 🔎 check; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-002",
+      "alt_text": "🧠 show say-segment-write; ➡️ Say word; 💡 helpful strategy"
     },
     "answers": [
+      "Do not use sound and pattern knowledge.",
       "Leave out second syllable.",
-      "Do not check the spelling pattern.",
-      "Use the rule for this English skill"
+      "Use sound and pattern knowledge."
     ],
     "correct": 2,
-    "explanation": "Use the rule for this English skill This matches the task.\nHint: Clap and spell both parts.",
+    "explanation": "Use sound and pattern knowledge. is the useful check. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
     "structuredExplanation": {
-      "summary": "Use the rule for this English skill This matches the task.",
-      "hint": "Clap and spell both parts."
+      "summary": "Use sound and pattern knowledge. is the useful check. Use sound and pattern knowledge.",
+      "hint": "Use sound and pattern knowledge."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly13-t-010",
     "curriculumCode": "AC9E1LY13",
     "bank": "test",
-    "skill": "ac9e1ly13 05 strategy",
+    "skill": "ac9e1ly13 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Check; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Check; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw syllable boxes; ➡️ Segment sounds/syllables; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw syllable boxes; ➡️ Segment sounds/syllables; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-010",
-      "alt_text": "🧠 Rule; ➡️ Check; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-004",
+      "alt_text": "🧠 Draw syllable boxes; ➡️ Segment sounds/syllables; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Do not check the spelling pattern.",
-      "Do not use sound and pattern knowledge."
+      "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+      "Leave out second syllable.",
+      "Do not check the spelling pattern."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Clap and spell both parts.",
+    "explanation": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check. is the useful check. Clap and spell both parts.\nHint: Clap and spell both parts.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check. is the useful check. Clap and spell both parts.",
       "hint": "Clap and spell both parts."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly13-t-011",
     "curriculumCode": "AC9E1LY13",
     "bank": "test",
-    "skill": "ac9e1ly13 06 answer",
+    "skill": "ac9e1ly13 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly13 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly13 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 letter pattern; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct a pattern error; ➡️ Choose pattern; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct a pattern error; ➡️ Choose pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-011",
-      "alt_text": "📖 Worked example; 🔎 letter pattern; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-006",
+      "alt_text": "🧠 Correct a pattern error; ➡️ Choose pattern; 💡 helpful strategy"
     },
     "answers": [
       "Do not check the spelling pattern.",
-      "sunset splits sun/set",
+      "Look for segment and check the whole example.",
       "Do not use sound and pattern knowledge."
     ],
     "correct": 1,
-    "explanation": "sunset splits sun/set This matches the task.\nHint: Compare with a known word.",
+    "explanation": "Look for segment and check the whole example. is the useful check. Compare with a known word.\nHint: Compare with a known word.",
     "structuredExplanation": {
-      "summary": "sunset splits sun/set This matches the task.",
+      "summary": "Look for segment and check the whole example. is the useful check. Compare with a known word.",
       "hint": "Compare with a known word."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly13-t-012",
     "curriculumCode": "AC9E1LY13",
     "bank": "test",
-    "skill": "ac9e1ly13 06 strategy",
+    "skill": "ac9e1ly13 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Say word; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Say word; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Spell and justify a mixed list; ➡️ Write; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Spell and justify a mixed list; ➡️ Write; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Say word; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-008",
+      "alt_text": "🧠 Spell and justify a mixed list; ➡️ Write; 💡 helpful strategy"
     },
     "answers": [
       "Do not use sound and pattern knowledge.",
       "Leave out second syllable.",
-      "Compare with a known word."
+      "Check that you can segment before spelling."
     ],
     "correct": 2,
-    "explanation": "Compare with a known word.\nHint: Compare with a known word.",
+    "explanation": "Check that you can segment before spelling. is the useful check. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
     "structuredExplanation": {
-      "summary": "Compare with a known word.",
-      "hint": "Compare with a known word."
+      "summary": "Check that you can segment before spelling. is the useful check. Use sound and pattern knowledge.",
+      "hint": "Use sound and pattern knowledge."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly13-t-013",
     "curriculumCode": "AC9E1LY13",
     "bank": "test",
-    "skill": "ac9e1ly13 07 answer",
+    "skill": "ac9e1ly13 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly13 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly13 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Pattern clue; 🔎 syllable; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Pattern clue; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-013\"></use></svg>",
+    "question": "A classmate chose “Do not use sound and pattern knowledge.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not use sound and pattern knowledge.. Which answer would improve their response?",
+    "visual": "📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-013",
-      "alt_text": "📖 Pattern clue; 🔎 syllable; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-001",
+      "alt_text": "📖 show say-segment-write; 🔎 letter pattern; ✅ choose with evidence"
     },
     "answers": [
-      "Word families share chunks such as -at, -ake or -ight; blends such as bl and st keep both consonants.",
+      "Says frog, segments /f r o g/, writes f-r-o-g and rereads",
       "Do not use sound and pattern knowledge.",
       "Leave out second syllable."
     ],
     "correct": 0,
-    "explanation": "Word families share chunks such as -at, -ake or -ight; blends such as bl and st keep both consonants. This matches the task.\nHint: Use sound and pattern knowledge.",
+    "explanation": "Says frog, segments /f r o g/, writes f-r-o-g and rereads is the stronger response because it uses the target skill. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
     "structuredExplanation": {
-      "summary": "Word families share chunks such as -at, -ake or -ight; blends such as bl and st keep both consonants. This matches the task.",
+      "summary": "Says frog, segments /f r o g/, writes f-r-o-g and rereads is the stronger response because it uses the target skill. Use sound and pattern knowledge.",
       "hint": "Use sound and pattern knowledge."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly13-t-014",
     "curriculumCode": "AC9E1LY13",
     "bank": "test",
-    "skill": "ac9e1ly13 07 strategy",
+    "skill": "ac9e1ly13 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you pattern clue?",
-    "audioPrompt": "Which tip would help you pattern clue?",
-    "visual": "🧠 Pattern clue; ➡️ Segment sounds/syllables; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Pattern clue; ➡️ Segment sounds/syllables; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-014\"></use></svg>",
+    "question": "A classmate chose “Leave out second syllable.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Leave out second syllable.. Which answer would improve their response?",
+    "visual": "📖 Draw syllable boxes; 🔎 syllable; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw syllable boxes; 🔎 syllable; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-014",
-      "alt_text": "🧠 Pattern clue; ➡️ Segment sounds/syllables; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-003",
+      "alt_text": "📖 Draw syllable boxes; 🔎 syllable; ✅ choose with evidence"
     },
     "answers": [
       "Leave out second syllable.",
-      "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
+      "Rab | bit, complete spelling with a and i identified",
       "Do not check the spelling pattern."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.\nHint: Use sound and pattern knowledge.",
+    "explanation": "Rab | bit, complete spelling with a and i identified is the stronger response because it uses the target skill. Clap and spell both parts.\nHint: Clap and spell both parts.",
     "structuredExplanation": {
-      "summary": "Use this routine: Say word → Segment sounds/syllables → Choose pattern → Write → Check.",
-      "hint": "Use sound and pattern knowledge."
+      "summary": "Rab | bit, complete spelling with a and i identified is the stronger response because it uses the target skill. Clap and spell both parts.",
+      "hint": "Clap and spell both parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly13-t-015",
     "curriculumCode": "AC9E1LY13",
     "bank": "test",
-    "skill": "ac9e1ly13 08 answer",
+    "skill": "ac9e1ly13 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly13 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1ly13 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 segment; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-015\"></use></svg>",
+    "question": "A classmate chose “Do not check the spelling pattern.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not check the spelling pattern.. Which answer would improve their response?",
+    "visual": "📖 Correct a pattern error; 🔎 segment; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct a pattern error; 🔎 segment; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-015",
-      "alt_text": "📖 Common trap; 🔎 segment; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-005",
+      "alt_text": "📖 Correct a pattern error; 🔎 segment; ✅ choose with evidence"
     },
     "answers": [
-      "Leave out second syllable.",
       "Do not check the spelling pattern.",
-      "A word that rhymes may use a different spelling, so check the known pattern and visual word memory."
+      "Do not use sound and pattern knowledge.",
+      "Notices shared -ight chunk from light/right; correct spelling night"
     ],
     "correct": 2,
-    "explanation": "A word that rhymes may use a different spelling, so check the known pattern and visual word memory. This matches the task.\nHint: Clap and spell both parts.",
+    "explanation": "Notices shared -ight chunk from light/right; correct spelling night is the stronger response because it uses the target skill. Compare with a known word.\nHint: Compare with a known word.",
     "structuredExplanation": {
-      "summary": "A word that rhymes may use a different spelling, so check the known pattern and visual word memory. This matches the task.",
-      "hint": "Clap and spell both parts."
+      "summary": "Notices shared -ight chunk from light/right; correct spelling night is the stronger response because it uses the target skill. Compare with a known word.",
+      "hint": "Compare with a known word."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1ly13-t-016",
     "curriculumCode": "AC9E1LY13",
     "bank": "test",
-    "skill": "ac9e1ly13 08 strategy",
+    "skill": "ac9e1ly13 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Choose pattern; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Choose pattern; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-016\"></use></svg>",
+    "question": "A classmate chose “Do not use sound and pattern knowledge.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not use sound and pattern knowledge.. Which answer would improve their response?",
+    "visual": "📖 Spell and justify a mixed list; 🔎 spell; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Spell and justify a mixed list; 🔎 spell; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Choose pattern; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly13.svg#ac9e1ly13-t-007",
+      "alt_text": "📖 Spell and justify a mixed list; 🔎 spell; ✅ choose with evidence"
     },
     "answers": [
-      "Look for segment and check the whole example.",
-      "Do not check the spelling pattern.",
-      "Do not use sound and pattern knowledge."
+      "All four correct; pl blend, sh digraph, sun/set, oa pattern, each explanation accurate",
+      "Do not use sound and pattern knowledge.",
+      "Leave out second syllable."
     ],
     "correct": 0,
-    "explanation": "Look for segment and check the whole example.\nHint: Clap and spell both parts.",
+    "explanation": "All four correct; pl blend, sh digraph, sun/set, oa pattern, each explanation accurate is the stronger response because it uses the target skill. Use sound and pattern knowledge.\nHint: Use sound and pattern knowledge.",
     "structuredExplanation": {
-      "summary": "Look for segment and check the whole example.",
-      "hint": "Clap and spell both parts."
+      "summary": "All four correct; pl blend, sh digraph, sun/set, oa pattern, each explanation accurate is the stronger response because it uses the target skill. Use sound and pattern knowledge.",
+      "hint": "Use sound and pattern knowledge."
     },
     "qualitySchema": "production-v1"
   }

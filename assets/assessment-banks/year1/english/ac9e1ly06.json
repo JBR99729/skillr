@@ -5,7 +5,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_01_answer",
+    "skill": "ac9e1ly06_01_recognise",
     "question": "Which response would correctly add a sentence boundary?",
     "audio_prompt": "Which response would correctly add a sentence boundary?",
     "visual": {
@@ -32,9 +32,7 @@
       "summary": "'The bird landed. It drank water.' with capital and full stops This matches the task.",
       "hint": "Read the text aloud to catch missing words."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
     "id": "AC9E1LY06-P-002",
@@ -42,44 +40,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_01_strategy",
-    "question": "Which tip would help you add a sentence boundary?",
-    "audio_prompt": "Which tip would help you add a sentence boundary?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-002",
-      "alt_text": "🧠 Add a sentence boundary; ➡️ Plan; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Read the text aloud to catch missing words.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Read the text aloud to catch missing words.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY06-P-003",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_02_answer",
+    "skill": "ac9e1ly06_02_recognise",
     "question": "Which response would correctly match purposes and openings?",
     "audio_prompt": "Which response would correctly match purposes and openings?",
     "visual": {
@@ -106,54 +67,15 @@
       "summary": "Each purpose matched correctly This matches the task.",
       "hint": "Check sentence, punctuation and spelling separately."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY06-P-004",
+    "id": "AC9E1LY06-P-003",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_02_strategy",
-    "question": "Which tip would help you match purposes and openings?",
-    "audio_prompt": "Which tip would help you match purposes and openings?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-004",
-      "alt_text": "🧠 Match purposes and openings; ➡️ Write; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY06-P-005",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_03_answer",
+    "skill": "ac9e1ly06_03_recognise",
     "question": "Read the draft 'My dog fast.' aloud and improve it into a grammatical simple sentence.",
     "audio_prompt": "Read the draft 'My dog fast.' aloud and improve it into a grammatical simple sentence.",
     "visual": {
@@ -180,53 +102,15 @@
       "summary": "'My dog runs fast.' adds a suitable verb and complete idea This matches the task.",
       "hint": "Add one precise word from the topic."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY06-P-006",
+    "id": "AC9E1LY06-P-004",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_03_strategy",
-    "question": "Which tip would help you reread aloud?",
-    "audio_prompt": "Which tip would help you reread aloud?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-006",
-      "alt_text": "🧠 Reread aloud; ➡️ Re-read; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for re-read and check the whole example.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Look for re-read and check the whole example.",
-      "hint": "Add one precise word from the topic."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY06-P-007",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_04_answer",
+    "skill": "ac9e1ly06_04_recognise",
     "question": "Which response would correctly choose topic vocabulary?",
     "audio_prompt": "Which response would correctly choose topic vocabulary?",
     "visual": {
@@ -253,54 +137,15 @@
       "summary": "'The hand applied a push that moved the toy car.' This matches the task.",
       "hint": "Read the text aloud to catch missing words."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY06-P-008",
+    "id": "AC9E1LY06-P-005",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_04_strategy",
-    "question": "Which tip would help you choose topic vocabulary?",
-    "audio_prompt": "Which tip would help you choose topic vocabulary?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-008",
-      "alt_text": "🧠 Choose topic vocabulary; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can edit punctuation.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check that you can edit punctuation.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9E1LY06-P-009",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_05_answer",
+    "skill": "ac9e1ly06_05_recognise",
     "question": "Which response would correctly order the writing cycle?",
     "audio_prompt": "Which response would correctly order the writing cycle?",
     "visual": {
@@ -327,53 +172,15 @@
       "summary": "Choose purpose/topic → draft → reread/edit → publish/share This matches the task.",
       "hint": "Check sentence, punctuation and spelling separately."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY06-P-010",
+    "id": "AC9E1LY06-P-006",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_05_strategy",
-    "question": "Which tip would help you order the writing cycle?",
-    "audio_prompt": "Which tip would help you order the writing cycle?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-010",
-      "alt_text": "🧠 Order the writing cycle; ➡️ Publish; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Sequencing creation and editing.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Sequencing creation and editing.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY06-P-011",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_06_answer",
+    "skill": "ac9e1ly06_06_recognise",
     "question": "Which response would correctly draw a multimodal recount?",
     "audio_prompt": "Which response would correctly draw a multimodal recount?",
     "visual": {
@@ -400,52 +207,15 @@
       "summary": "Three logical events, complete sentences and appropriate time words/punctuation This matches the task.",
       "hint": "Add one precise word from the topic."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY06-P-012",
+    "id": "AC9E1LY06-P-007",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_06_strategy",
-    "question": "Which tip would help you draw a multimodal recount?",
-    "audio_prompt": "Which tip would help you draw a multimodal recount?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-012",
-      "alt_text": "🧠 Draw a multimodal recount; ➡️ Plan; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Add one precise word from the topic.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY06-P-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_07_answer",
+    "skill": "ac9e1ly06_07_recognise",
     "question": "Which response would correctly edit an opinion reason?",
     "audio_prompt": "Which response would correctly edit an opinion reason?",
     "visual": {
@@ -472,52 +242,15 @@
       "summary": "'I like the park because its shady trees keep the play area cool.' This matches the task.",
       "hint": "Read the text aloud to catch missing words."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY06-P-014",
+    "id": "AC9E1LY06-P-008",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_07_strategy",
-    "question": "Which tip would help you edit an opinion reason?",
-    "audio_prompt": "Which tip would help you edit an opinion reason?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-014",
-      "alt_text": "🧠 Edit an opinion reason; ➡️ Write; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-      "hint": "Read the text aloud to catch missing words."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY06-P-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_08_answer",
+    "skill": "ac9e1ly06_08_recognise",
     "question": "Which response would correctly check a report paragraph?",
     "audio_prompt": "Which response would correctly check a report paragraph?",
     "visual": {
@@ -544,52 +277,15 @@
       "summary": "'A habitat is a place where living things live. It can provide water, food or shelter.' This matches the task.",
       "hint": "Check sentence, punctuation and spelling separately."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY06-P-016",
+    "id": "AC9E1LY06-P-009",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_08_strategy",
-    "question": "Which tip would help you check a report paragraph?",
-    "audio_prompt": "Which tip would help you check a report paragraph?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-016",
-      "alt_text": "🧠 Check a report paragraph; ➡️ Re-read; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Look for re-read and check the whole example.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Look for re-read and check the whole example.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY06-P-017",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_01_answer",
+    "skill": "ac9e1ly06_09_recognise",
     "question": "Write the word picnic in the sentence 'We packed a ___.' Then reread the sentence.",
     "audio_prompt": "Write the word picnic in the sentence 'We packed a ___.' Then reread the sentence.",
     "visual": {
@@ -616,52 +312,15 @@
       "summary": "Picnic spelled correctly in a complete punctuated sentence This matches the task.",
       "hint": "Add one precise word from the topic."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
   },
   {
-    "id": "AC9E1LY06-P-018",
+    "id": "AC9E1LY06-P-010",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_01_strategy",
-    "question": "Which tip would help you spell a two-syllable word?",
-    "audio_prompt": "Which tip would help you spell a two-syllable word?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-018",
-      "alt_text": "🧠 Spell a two-syllable word; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Check that you can edit punctuation.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that you can edit punctuation.",
-      "hint": "Add one precise word from the topic."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E1LY06-P-019",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "practice",
-    "skill": "ac9e1ly06_02_answer",
+    "skill": "ac9e1ly06_10_recognise",
     "question": "Which response would correctly match editing checks?",
     "audio_prompt": "Which response would correctly match editing checks?",
     "visual": {
@@ -688,8 +347,322 @@
       "summary": "All checks matched correctly This matches the task.",
       "hint": "Read the text aloud to catch missing words."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise"
+  },
+  {
+    "id": "AC9E1LY06-P-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_01_explain",
+    "question": "Which tip would help you add a sentence boundary?",
+    "audio_prompt": "Which tip would help you add a sentence boundary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-002",
+      "alt_text": "🧠 Add a sentence boundary; ➡️ Plan; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not check sentence, punctuation and spelling separately.",
+        "is_correct": false
+      },
+      {
+        "text": "Read the text aloud to catch missing words.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY06-P-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_02_explain",
+    "question": "Which tip would help you match purposes and openings?",
+    "audio_prompt": "Which tip would help you match purposes and openings?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-004",
+      "alt_text": "🧠 Match purposes and openings; ➡️ Write; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+      "hint": "Check sentence, punctuation and spelling separately."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY06-P-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_03_explain",
+    "question": "Which tip would help you reread aloud?",
+    "audio_prompt": "Which tip would help you reread aloud?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-006",
+      "alt_text": "🧠 Reread aloud; ➡️ Re-read; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check sentence, punctuation and spelling separately.",
+        "is_correct": false
+      },
+      {
+        "text": "Look for re-read and check the whole example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Look for re-read and check the whole example.",
+      "hint": "Add one precise word from the topic."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY06-P-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_04_explain",
+    "question": "Which tip would help you choose topic vocabulary?",
+    "audio_prompt": "Which tip would help you choose topic vocabulary?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-008",
+      "alt_text": "🧠 Choose topic vocabulary; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not check sentence, punctuation and spelling separately.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can edit punctuation.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Check that you can edit punctuation.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY06-P-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_05_explain",
+    "question": "Which tip would help you order the writing cycle?",
+    "audio_prompt": "Which tip would help you order the writing cycle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-010",
+      "alt_text": "🧠 Order the writing cycle; ➡️ Publish; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Sequencing creation and editing.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sequencing creation and editing.",
+      "hint": "Check sentence, punctuation and spelling separately."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY06-P-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_06_explain",
+    "question": "Which tip would help you draw a multimodal recount?",
+    "audio_prompt": "Which tip would help you draw a multimodal recount?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-012",
+      "alt_text": "🧠 Draw a multimodal recount; ➡️ Plan; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check sentence, punctuation and spelling separately.",
+        "is_correct": false
+      },
+      {
+        "text": "Add one precise word from the topic.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add one precise word from the topic.",
+      "hint": "Add one precise word from the topic."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY06-P-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_07_explain",
+    "question": "Which tip would help you edit an opinion reason?",
+    "audio_prompt": "Which tip would help you edit an opinion reason?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-014",
+      "alt_text": "🧠 Edit an opinion reason; ➡️ Write; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Do not check sentence, punctuation and spelling separately.",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY06-P-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_08_explain",
+    "question": "Which tip would help you check a report paragraph?",
+    "audio_prompt": "Which tip would help you check a report paragraph?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-016",
+      "alt_text": "🧠 Check a report paragraph; ➡️ Re-read; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Look for re-read and check the whole example.",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Look for re-read and check the whole example.",
+      "hint": "Check sentence, punctuation and spelling separately."
+    },
+    "stage": "explain"
+  },
+  {
+    "id": "AC9E1LY06-P-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_09_explain",
+    "question": "Which tip would help you spell a two-syllable word?",
+    "audio_prompt": "Which tip would help you spell a two-syllable word?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-018",
+      "alt_text": "🧠 Spell a two-syllable word; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check sentence, punctuation and spelling separately.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can edit punctuation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can edit punctuation.",
+      "hint": "Add one precise word from the topic."
+    },
+    "stage": "explain"
   },
   {
     "id": "AC9E1LY06-P-020",
@@ -697,7 +670,7 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_02_strategy",
+    "skill": "ac9e1ly06_10_explain",
     "question": "Which tip would help you match editing checks?",
     "audio_prompt": "Which tip would help you match editing checks?",
     "visual": {
@@ -724,8 +697,7 @@
       "summary": "Recognising editing targets.",
       "hint": "Read the text aloud to catch missing words."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "explain"
   },
   {
     "id": "AC9E1LY06-P-021",
@@ -733,35 +705,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_03_answer",
-    "question": "Which response would correctly sequence a recount?",
-    "audio_prompt": "Which response would correctly sequence a recount?",
+    "skill": "ac9e1ly06_01_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-021",
-      "alt_text": "📖 Sequence a recount; 🔎 plan; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001",
+      "alt_text": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "finally arrived, in complete sentences or a coherent short recount → next walked → First packed",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "First packed → next walked → finally arrived, in complete sentences or a coherent short recount",
+        "text": "The bird landed it drank water",
         "is_correct": true
+      },
+      {
+        "text": "'The bird landed. It drank water.' with capital and full stops",
+        "is_correct": false
+      },
+      {
+        "text": "Read the text aloud to catch missing words.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "First packed → next walked → finally arrived, in complete sentences or a coherent short recount This matches the task.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "The bird landed it drank water is the mix-up. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "discriminate"
   },
   {
     "id": "AC9E1LY06-P-022",
@@ -769,17 +740,507 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_03_strategy",
-    "question": "Which tip would help you sequence a recount?",
-    "audio_prompt": "Which tip would help you sequence a recount?",
+    "skill": "ac9e1ly06_02_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-022",
-      "alt_text": "🧠 Sequence a recount; ➡️ Plan; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003",
+      "alt_text": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Check sentence, punctuation and spelling separately.",
+        "text": "Each purpose matched correctly",
+        "is_correct": false
+      },
+      {
+        "text": "Koalas are ___",
+        "is_correct": true
+      },
+      {
+        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Koalas are ___ is the mix-up. Check sentence, punctuation and spelling separately.",
+      "hint": "Check sentence, punctuation and spelling separately."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY06-P-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_03_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005",
+      "alt_text": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "'My dog runs fast.' adds a suitable verb and complete idea",
+        "is_correct": false
+      },
+      {
+        "text": "Look for re-read and check the whole example.",
+        "is_correct": false
+      },
+      {
+        "text": "My dog fast",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "My dog fast is the mix-up. Add one precise word from the topic.",
+      "hint": "Add one precise word from the topic."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY06-P-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_04_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007",
+      "alt_text": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The thing pushed the car",
+        "is_correct": true
+      },
+      {
+        "text": "'The hand applied a push that moved the toy car.'",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can edit punctuation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The thing pushed the car is the mix-up. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY06-P-025",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_05_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009",
+      "alt_text": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Choose purpose/topic → draft → reread/edit → publish/share",
+        "is_correct": false
+      },
+      {
+        "text": "publish/share → reread/edit → draft → Choose purpose/topic",
+        "is_correct": true
+      },
+      {
+        "text": "Sequencing creation and editing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "publish/share → reread/edit → draft → Choose purpose/topic is the mix-up. Check sentence, punctuation and spelling separately.",
+      "hint": "Check sentence, punctuation and spelling separately."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY06-P-026",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_06_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011",
+      "alt_text": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Three logical events, complete sentences and appropriate time words/punctuation",
+        "is_correct": false
+      },
+      {
+        "text": "Add one precise word from the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Leave out one precise word from the topic. is the mix-up. Add one precise word from the topic.",
+      "hint": "Add one precise word from the topic."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY06-P-027",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_07_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013",
+      "alt_text": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "I like the park. It is good",
+        "is_correct": true
+      },
+      {
+        "text": "'I like the park because its shady trees keep the play area cool.'",
+        "is_correct": false
+      },
+      {
+        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "I like the park. It is good is the mix-up. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY06-P-028",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_08_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015",
+      "alt_text": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "'A habitat is a place where living things live. It can provide water, food or shelter.'",
+        "is_correct": false
+      },
+      {
+        "text": "A habitat is a place living things live. it gives water food or shelter",
+        "is_correct": true
+      },
+      {
+        "text": "Look for re-read and check the whole example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A habitat is a place living things live. it gives water food or shelter is the mix-up. Check sentence, punctuation and spelling separately.",
+      "hint": "Check sentence, punctuation and spelling separately."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY06-P-029",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_09_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017",
+      "alt_text": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Picnic spelled correctly in a complete punctuated sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can edit punctuation.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed a ___",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "We packed a ___ is the mix-up. Add one precise word from the topic.",
+      "hint": "Add one precise word from the topic."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY06-P-030",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_10_discriminate",
+    "question": "Which choice is a mix-up to avoid for this skill?",
+    "audio_prompt": "Which choice is a mix-up to avoid for this skill?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019",
+      "alt_text": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": true
+      },
+      {
+        "text": "All checks matched correctly",
+        "is_correct": false
+      },
+      {
+        "text": "Recognising editing targets.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Leave out re-reading. is the mix-up. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "discriminate"
+  },
+  {
+    "id": "AC9E1LY06-P-031",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_01_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-001",
+      "alt_text": "📖 Add a sentence boundary; 🔎 plan; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The bird landed it drank water",
+        "is_correct": false
+      },
+      {
+        "text": "'The bird landed. It drank water.' with capital and full stops",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'The bird landed. It drank water.' with capital and full stops uses the skill correctly. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY06-P-032",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_02_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-003",
+      "alt_text": "📖 Match purposes and openings; 🔎 write; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Koalas are ___",
+        "is_correct": false
+      },
+      {
+        "text": "I think ___ because ___",
+        "is_correct": false
+      },
+      {
+        "text": "Each purpose matched correctly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each purpose matched correctly uses the skill correctly. Check sentence, punctuation and spelling separately.",
+      "hint": "Check sentence, punctuation and spelling separately."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY06-P-033",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_03_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-005",
+      "alt_text": "📖 Reread aloud; 🔎 re-read; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "'My dog runs fast.' adds a suitable verb and complete idea",
+        "is_correct": true
+      },
+      {
+        "text": "My dog fast",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "'My dog runs fast.' adds a suitable verb and complete idea uses the skill correctly. Add one precise word from the topic.",
+      "hint": "Add one precise word from the topic."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY06-P-034",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_04_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-007",
+      "alt_text": "📖 Choose topic vocabulary; 🔎 edit; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "The thing pushed the car",
+        "is_correct": false
+      },
+      {
+        "text": "'The hand applied a push that moved the toy car.'",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "'The hand applied a push that moved the toy car.' uses the skill correctly. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY06-P-035",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_05_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-009",
+      "alt_text": "📖 Order the writing cycle; 🔎 topic word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "publish/share → reread/edit → draft → Choose purpose/topic",
+        "is_correct": false
+      },
+      {
+        "text": "Do not check sentence, punctuation and spelling separately.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose purpose/topic → draft → reread/edit → publish/share",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose purpose/topic → draft → reread/edit → publish/share uses the skill correctly. Check sentence, punctuation and spelling separately.",
+      "hint": "Check sentence, punctuation and spelling separately."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY06-P-036",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_06_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-011",
+      "alt_text": "📖 Draw a multimodal recount; 🔎 plan; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Three logical events, complete sentences and appropriate time words/punctuation",
         "is_correct": true
       },
       {
@@ -793,33 +1254,32 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check sentence, punctuation and spelling separately.",
-      "hint": "Check sentence, punctuation and spelling separately."
+      "summary": "Three logical events, complete sentences and appropriate time words/punctuation uses the skill correctly. Add one precise word from the topic.",
+      "hint": "Add one precise word from the topic."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LY06-P-023",
+    "id": "AC9E1LY06-P-037",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_04_answer",
-    "question": "Which response would correctly add a useful caption?",
-    "audio_prompt": "Which response would correctly add a useful caption?",
+    "skill": "ac9e1ly06_07_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-023",
-      "alt_text": "📖 Add a useful caption; 🔎 write; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-013",
+      "alt_text": "📖 Edit an opinion reason; 🔎 write; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "I like the park. It is good",
         "is_correct": false
       },
       {
-        "text": "'Roots absorb water from the soil.' with accurate meaning and punctuation",
+        "text": "'I like the park because its shady trees keep the play area cool.'",
         "is_correct": true
       },
       {
@@ -829,29 +1289,28 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "'Roots absorb water from the soil.' with accurate meaning and punctuation This matches the task.",
-      "hint": "Add one precise word from the topic."
+      "summary": "'I like the park because its shady trees keep the play area cool.' uses the skill correctly. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
   },
   {
-    "id": "AC9E1LY06-P-024",
+    "id": "AC9E1LY06-P-038",
     "subject": "english",
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "practice",
-    "skill": "ac9e1ly06_04_strategy",
-    "question": "Which tip would help you add a useful caption?",
-    "audio_prompt": "Which tip would help you add a useful caption?",
+    "skill": "ac9e1ly06_08_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-024",
-      "alt_text": "🧠 Add a useful caption; ➡️ Write; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-015",
+      "alt_text": "📖 Check a report paragraph; 🔎 re-read; ✅ choose with evidence"
     },
     "answers": [
       {
-        "text": "Leave out re-reading.",
+        "text": "A habitat is a place living things live. it gives water food or shelter",
         "is_correct": false
       },
       {
@@ -859,17 +1318,86 @@
         "is_correct": false
       },
       {
-        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+        "text": "'A habitat is a place where living things live. It can provide water, food or shelter.'",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
+      "summary": "'A habitat is a place where living things live. It can provide water, food or shelter.' uses the skill correctly. Check sentence, punctuation and spelling separately.",
+      "hint": "Check sentence, punctuation and spelling separately."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY06-P-039",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_09_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-017",
+      "alt_text": "📖 Spell a two-syllable word; 🔎 edit; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Picnic spelled correctly in a complete punctuated sentence",
+        "is_correct": true
+      },
+      {
+        "text": "We packed a ___",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Picnic spelled correctly in a complete punctuated sentence uses the skill correctly. Add one precise word from the topic.",
       "hint": "Add one precise word from the topic."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY06-P-040",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "practice",
+    "skill": "ac9e1ly06_10_apply",
+    "question": "Which choice would best use this skill in a new example?",
+    "audio_prompt": "Which choice would best use this skill in a new example?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-p-019",
+      "alt_text": "📖 Match editing checks; 🔎 topic word; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      },
+      {
+        "text": "All checks matched correctly",
+        "is_correct": true
+      },
+      {
+        "text": "Do not check sentence, punctuation and spelling separately.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "All checks matched correctly uses the skill correctly. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "apply"
   },
   {
     "id": "AC9E1LY06-T-001",
@@ -878,12 +1406,12 @@
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
     "skill": "ac9e1ly06_01_answer",
-    "question": "Which response would correctly demonstrate a meaning edit?",
-    "audio_prompt": "Which response would correctly demonstrate a meaning edit?",
+    "question": "Which response would correctly show a meaning edit?",
+    "audio_prompt": "Which response would correctly show a meaning edit?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001",
-      "alt_text": "📖 Demonstrate a meaning edit; 🔎 plan; ✅ choose with evidence"
+      "alt_text": "📖 show a meaning edit; 🔎 plan; ✅ choose with evidence"
     },
     "answers": [
       {
@@ -912,12 +1440,12 @@
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
     "skill": "ac9e1ly06_01_strategy",
-    "question": "Which tip would help you demonstrate a meaning edit?",
-    "audio_prompt": "Which tip would help you demonstrate a meaning edit?",
+    "question": "Which tip would help you show a meaning edit?",
+    "audio_prompt": "Which tip would help you show a meaning edit?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002",
-      "alt_text": "🧠 Demonstrate a meaning edit; ➡️ Plan; 💡 helpful strategy"
+      "alt_text": "🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy"
     },
     "answers": [
       {
@@ -1027,7 +1555,7 @@
         "is_correct": false
       },
       {
-        "text": "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
+        "text": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
         "is_correct": true
       },
       {
@@ -1037,7 +1565,7 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identifies persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report This matches the task.",
+      "summary": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report This matches the task.",
       "hint": "Add one precise word from the topic."
     }
   },
@@ -1149,33 +1677,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_05_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly06 05 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly06 05 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly06_01_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-009",
-      "alt_text": "📖 Rule; 🔎 topic word; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-002",
+      "alt_text": "🧠 show a meaning edit; ➡️ Plan; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Do not check sentence, punctuation and spelling separately.",
+        "text": "The tiny elephant fit in my pocket",
         "is_correct": false
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "Leave out re-reading.",
         "is_correct": false
       },
       {
-        "text": "Use the rule for this English skill",
+        "text": "Read the text aloud to catch missing words.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use the rule for this English skill This matches the task.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    }
+      "summary": "Read the text aloud to catch missing words. is the useful check. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY06-T-010",
@@ -1183,33 +1712,34 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_05_strategy",
-    "question": "Which tip would help you rule?",
-    "audio_prompt": "Which tip would help you rule?",
+    "skill": "ac9e1ly06_02_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-010",
-      "alt_text": "🧠 Rule; ➡️ Publish; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-004",
+      "alt_text": "🧠 Draw an editing checklist; ➡️ Write; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Using the rule for this English skill.",
+        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
         "is_correct": true
       },
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "Do not check sentence, punctuation and spelling separately.",
         "is_correct": false
       },
       {
-        "text": "Leave out re-reading.",
+        "text": "Leave out one precise word from the topic.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish. is the useful check. Check sentence, punctuation and spelling separately.",
       "hint": "Check sentence, punctuation and spelling separately."
-    }
+    },
+    "stage": "verify"
   },
   {
     "id": "AC9E1LY06-T-011",
@@ -1217,185 +1747,19 @@
     "year_level": "Year 1",
     "curriculum_code": "AC9E1LY06",
     "bank": "test",
-    "skill": "ac9e1ly06_06_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly06 06 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly06 06 answer. Which option best demonstrates the skill?",
+    "skill": "ac9e1ly06_03_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-011",
-      "alt_text": "📖 Worked example; 🔎 plan; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-006",
+      "alt_text": "🧠 Correct purpose mixing; ➡️ Re-read; 💡 helpful strategy"
     },
     "answers": [
       {
-        "text": "Leave out one precise word from the topic.",
+        "text": "You must buy a frog",
         "is_correct": false
       },
-      {
-        "text": "Draft: 'frogs live near water they eat insects'",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Draft: 'frogs live near water they eat insects' This matches the task.",
-      "hint": "Add one precise word from the topic."
-    }
-  },
-  {
-    "id": "AC9E1LY06-T-012",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "test",
-    "skill": "ac9e1ly06_06_strategy",
-    "question": "Which tip would help you worked example?",
-    "audio_prompt": "Which tip would help you worked example?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Plan; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Add one precise word from the topic.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Add one precise word from the topic.",
-      "hint": "Add one precise word from the topic."
-    }
-  },
-  {
-    "id": "AC9E1LY06-T-013",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "test",
-    "skill": "ac9e1ly06_07_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly06 07 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly06 07 answer. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-013",
-      "alt_text": "📖 Purpose patterns; 🔎 write; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "A report groups facts, an opinion states a view and reasons, and a recount orders events with time words.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out re-reading.",
-        "is_correct": false
-      },
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A report groups facts, an opinion states a view and reasons, and a recount orders events with time words. This matches the task.",
-      "hint": "Read the text aloud to catch missing words."
-    }
-  },
-  {
-    "id": "AC9E1LY06-T-014",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "test",
-    "skill": "ac9e1ly06_07_strategy",
-    "question": "Which tip would help you purpose patterns?",
-    "audio_prompt": "Which tip would help you purpose patterns?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-014",
-      "alt_text": "🧠 Purpose patterns; ➡️ Write; 💡 helpful strategy"
-    },
-    "answers": [
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-        "is_correct": true
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use this routine: Plan → Write → Re-read → Edit sentence/punctuation/spelling → Publish.",
-      "hint": "Read the text aloud to catch missing words."
-    }
-  },
-  {
-    "id": "AC9E1LY06-T-015",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "test",
-    "skill": "ac9e1ly06_08_answer",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1ly06 08 answer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 1 student is working with a text and needs to use ac9e1ly06 08 answer. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-015",
-      "alt_text": "📖 Common trap; 🔎 re-read; ✅ choose with evidence"
-    },
-    "answers": [
-      {
-        "text": "Do not check sentence, punctuation and spelling separately.",
-        "is_correct": false
-      },
-      {
-        "text": "Leave out one precise word from the topic.",
-        "is_correct": false
-      },
-      {
-        "text": "Editing is more than neat copying; reread to find and fix meaning, grammar, punctuation and spelling.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Editing is more than neat copying; reread to find and fix meaning, grammar, punctuation and spelling. This matches the task.",
-      "hint": "Check sentence, punctuation and spelling separately."
-    }
-  },
-  {
-    "id": "AC9E1LY06-T-016",
-    "subject": "english",
-    "year_level": "Year 1",
-    "curriculum_code": "AC9E1LY06",
-    "bank": "test",
-    "skill": "ac9e1ly06_08_strategy",
-    "question": "Which tip would help you common trap?",
-    "audio_prompt": "Which tip would help you common trap?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Re-read; 💡 helpful strategy"
-    },
-    "answers": [
       {
         "text": "Look for re-read and check the whole example.",
         "is_correct": true
@@ -1403,6 +1767,72 @@
       {
         "text": "Leave out one precise word from the topic.",
         "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Look for re-read and check the whole example. is the useful check. Add one precise word from the topic.",
+      "hint": "Add one precise word from the topic."
+    },
+    "stage": "verify"
+  },
+  {
+    "id": "AC9E1LY06-T-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "test",
+    "skill": "ac9e1ly06_04_test_verify",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audio_prompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-008",
+      "alt_text": "🧠 Create and edit three forms; ➡️ Edit sentence/punctuation/spelling; 💡 helpful strategy"
+    },
+    "answers": [
+      {
+        "text": "rain",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that you can edit punctuation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check that you can edit punctuation. is the useful check. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "verify"
+  },
+  {
+    "id": "AC9E1LY06-T-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "test",
+    "skill": "ac9e1ly06_01_test_apply",
+    "question": "A classmate chose “The tiny elephant fit in my pocket”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose The tiny elephant fit in my pocket. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-001",
+      "alt_text": "📖 show a meaning edit; 🔎 plan; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "For factual report, revise inaccurate claim",
+        "is_correct": true
+      },
+      {
+        "text": "The tiny elephant fit in my pocket",
+        "is_correct": false
       },
       {
         "text": "Leave out re-reading.",
@@ -1411,8 +1841,114 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Look for re-read and check the whole example.",
+      "summary": "For factual report, revise inaccurate claim is the stronger response because it uses the target skill. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY06-T-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "test",
+    "skill": "ac9e1ly06_02_test_apply",
+    "question": "A classmate chose “Do not check sentence, punctuation and spelling separately.”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose Do not check sentence, punctuation and spelling separately.. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-003",
+      "alt_text": "📖 Draw an editing checklist; 🔎 write; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Do not check sentence, punctuation and spelling separately.",
+        "is_correct": false
+      },
+      {
+        "text": "Five accurate checks and a sentence demonstrably reviewed/corrected",
+        "is_correct": true
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Five accurate checks and a sentence demonstrably reviewed/corrected is the stronger response because it uses the target skill. Check sentence, punctuation and spelling separately.",
       "hint": "Check sentence, punctuation and spelling separately."
-    }
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY06-T-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "test",
+    "skill": "ac9e1ly06_03_test_apply",
+    "question": "A classmate chose “You must buy a frog”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose You must buy a frog. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-005",
+      "alt_text": "📖 Correct purpose mixing; 🔎 re-read; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "You must buy a frog",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out one precise word from the topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Names persuasive/unrelated intrusions; plans grouped factual sections/captions suited to report is the stronger response because it uses the target skill. Add one precise word from the topic.",
+      "hint": "Add one precise word from the topic."
+    },
+    "stage": "apply"
+  },
+  {
+    "id": "AC9E1LY06-T-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY06",
+    "bank": "test",
+    "skill": "ac9e1ly06_04_test_apply",
+    "question": "A classmate chose “rain”. Which answer would improve their response?",
+    "audio_prompt": "A classmate chose rain. Which answer would improve their response?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1ly06.svg#ac9e1ly06-t-007",
+      "alt_text": "📖 Create and edit three forms; 🔎 edit; ✅ choose with evidence"
+    },
+    "answers": [
+      {
+        "text": "Forms suit all three purposes",
+        "is_correct": true
+      },
+      {
+        "text": "rain",
+        "is_correct": false
+      },
+      {
+        "text": "Leave out re-reading.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Forms suit all three purposes is the stronger response because it uses the target skill. Read the text aloud to catch missing words.",
+      "hint": "Read the text aloud to catch missing words."
+    },
+    "stage": "apply"
   }
 ]

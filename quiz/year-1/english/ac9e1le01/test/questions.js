@@ -7,14 +7,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le01 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate character movement?",
-    "audioPrompt": "Which response would correctly demonstrate character movement?",
-    "visual": "📖 Demonstrate character movement; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate character movement; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001\"></use></svg>",
+    "question": "Which response would correctly show character movement?",
+    "audioPrompt": "Which response would correctly show character movement?",
+    "visual": "📖 show character movement; 🔎 character; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show character movement; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001",
-      "alt_text": "📖 Demonstrate character movement; 🔎 character; ✅ choose with evidence"
+      "alt_text": "📖 show character movement; 🔎 character; ✅ choose with evidence"
     },
     "answers": [
       "Gives distinct pose/line/movement details for both and connects them to pace/feeling",
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1le01 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate character movement?",
-    "audioPrompt": "Which tip would help you demonstrate character movement?",
-    "visual": "🧠 Demonstrate character movement; ➡️ Notice words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate character movement; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002\"></use></svg>",
+    "question": "Which tip would help you show character movement?",
+    "audioPrompt": "Which tip would help you show character movement?",
+    "visual": "🧠 show character movement; ➡️ Notice words; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show character movement; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002",
-      "alt_text": "🧠 Demonstrate character movement; ➡️ Notice words; 💡 helpful strategy"
+      "alt_text": "🧠 show character movement; ➡️ Notice words; 💡 helpful strategy"
     },
     "answers": [
       "Do not use both language and image where available.",
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le01-t-009",
     "curriculumCode": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01 05 answer",
+    "skill": "ac9e1le01 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le01 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le01 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 image clue; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 image clue; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show character movement; ➡️ Notice words; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show character movement; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-009",
-      "alt_text": "📖 Rule; 🔎 image clue; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-002",
+      "alt_text": "🧠 show character movement; ➡️ Notice words; 💡 helpful strategy"
     },
     "answers": [
+      "Give an opinion without evidence from the text.",
       "Do not use both language and image where available.",
-      "Mix event and setting.",
-      "Authors use naming words, actions, dialogue and description"
+      "Point to words or image clues."
     ],
     "correct": 2,
-    "explanation": "Authors use naming words, actions, dialogue and description This matches the task.\nHint: Use both language and image where available.",
+    "explanation": "Point to words or image clues. is the useful check. Point to words or image clues.\nHint: Point to words or image clues.",
     "structuredExplanation": {
-      "summary": "Authors use naming words, actions, dialogue and description This matches the task.",
-      "hint": "Use both language and image where available."
+      "summary": "Point to words or image clues. is the useful check. Point to words or image clues.",
+      "hint": "Point to words or image clues."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le01-t-010",
     "curriculumCode": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01 05 strategy",
+    "skill": "ac9e1le01 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Notice words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Notice words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw paired settings; ➡️ Notice images; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw paired settings; ➡️ Notice images; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-010",
-      "alt_text": "🧠 Rule; ➡️ Notice words; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-004",
+      "alt_text": "🧠 Draw paired settings; ➡️ Notice images; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Mix event and setting.",
-      "Give an opinion without evidence from the text."
+      "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
+      "Do not use both language and image where available.",
+      "Mix event and setting."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Use both language and image where available.",
+    "explanation": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect. is the useful check. Use both language and image where available.\nHint: Use both language and image where available.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect. is the useful check. Use both language and image where available.",
       "hint": "Use both language and image where available."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le01-t-011",
     "curriculumCode": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01 06 answer",
+    "skill": "ac9e1le01 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le01 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le01 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 character; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Correct an unsupported claim; ➡️ Name character/setting/event; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Correct an unsupported claim; ➡️ Name character/setting/event; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-011",
-      "alt_text": "📖 Worked example; 🔎 character; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-006",
+      "alt_text": "🧠 Correct an unsupported claim; ➡️ Name character/setting/event; 💡 helpful strategy"
     },
     "answers": [
       "Mix event and setting.",
-      "Use the worked example for this English skill",
+      "Look for event and check the whole example.",
       "Give an opinion without evidence from the text."
     ],
     "correct": 1,
-    "explanation": "Use the worked example for this English skill This matches the task.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "Look for event and check the whole example. is the useful check. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
     "structuredExplanation": {
-      "summary": "Use the worked example for this English skill This matches the task.",
+      "summary": "Look for event and check the whole example. is the useful check. Setting is where/when; event is what happens.",
       "hint": "Setting is where/when; event is what happens."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le01-t-012",
     "curriculumCode": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01 06 strategy",
+    "skill": "ac9e1le01 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Notice images; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Notice images; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Analyse a multimodal moment; ➡️ Explain effect; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Analyse a multimodal moment; ➡️ Explain effect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Notice images; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-008",
+      "alt_text": "🧠 Analyse a multimodal moment; ➡️ Explain effect; 💡 helpful strategy"
     },
     "answers": [
+      "Ari lifted the lid slowly",
       "Give an opinion without evidence from the text.",
-      "Do not use both language and image where available.",
-      "Setting is where/when; event is what happens."
+      "Check that you can use word evidence."
     ],
     "correct": 2,
-    "explanation": "Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
+    "explanation": "Check that you can use word evidence. is the useful check. Point to words or image clues.\nHint: Point to words or image clues.",
     "structuredExplanation": {
-      "summary": "Setting is where/when; event is what happens.",
-      "hint": "Setting is where/when; event is what happens."
+      "summary": "Check that you can use word evidence. is the useful check. Point to words or image clues.",
+      "hint": "Point to words or image clues."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1le01-t-013",
     "curriculumCode": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01 07 answer",
+    "skill": "ac9e1le01 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le01 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le01 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Discussion clue; 🔎 setting; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Discussion clue; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-013\"></use></svg>",
+    "question": "A classmate chose “Give an opinion without evidence from the text.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Give an opinion without evidence from the text.. Which answer would improve their response?",
+    "visual": "📖 show character movement; 🔎 character; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show character movement; 🔎 character; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-013",
-      "alt_text": "📖 Discussion clue; 🔎 setting; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-001",
+      "alt_text": "📖 show character movement; 🔎 character; ✅ choose with evidence"
     },
     "answers": [
-      "Use the discussion clue for this English skill",
+      "Gives distinct pose/line/movement details for both and connects them to pace/feeling",
       "Give an opinion without evidence from the text.",
       "Do not use both language and image where available."
     ],
     "correct": 0,
-    "explanation": "Use the discussion clue for this English skill This matches the task.\nHint: Point to words or image clues.",
+    "explanation": "Gives distinct pose/line/movement details for both and connects them to pace/feeling is the stronger response because it uses the target skill. Point to words or image clues.\nHint: Point to words or image clues.",
     "structuredExplanation": {
-      "summary": "Use the discussion clue for this English skill This matches the task.",
+      "summary": "Gives distinct pose/line/movement details for both and connects them to pace/feeling is the stronger response because it uses the target skill. Point to words or image clues.",
       "hint": "Point to words or image clues."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le01-t-014",
     "curriculumCode": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01 07 strategy",
+    "skill": "ac9e1le01 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you discussion clue?",
-    "audioPrompt": "Which tip would help you discussion clue?",
-    "visual": "🧠 Discussion clue; ➡️ Name character/setting/event; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Discussion clue; ➡️ Name character/setting/event; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-014\"></use></svg>",
+    "question": "A classmate chose “Do not use both language and image where available.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not use both language and image where available.. Which answer would improve their response?",
+    "visual": "📖 Draw paired settings; 🔎 setting; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw paired settings; 🔎 setting; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-014",
-      "alt_text": "🧠 Discussion clue; ➡️ Name character/setting/event; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-003",
+      "alt_text": "📖 Draw paired settings; 🔎 setting; ✅ choose with evidence"
     },
     "answers": [
       "Do not use both language and image where available.",
-      "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
+      "Two recognisable versions with at least two purposeful changes such as light, viewpoint, shadows or activity",
       "Mix event and setting."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.\nHint: Point to words or image clues.",
+    "explanation": "Two recognisable versions with at least two purposeful changes such as light, viewpoint, shadows or activity is the stronger response because it uses the target skill. Use both language and image where available.\nHint: Use both language and image where available.",
     "structuredExplanation": {
-      "summary": "Use this routine: Notice words → Notice images → Name character/setting/event → Explain effect.",
-      "hint": "Point to words or image clues."
+      "summary": "Two recognisable versions with at least two purposeful changes such as light, viewpoint, shadows or activity is the stronger response because it uses the target skill. Use both language and image where available.",
+      "hint": "Use both language and image where available."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le01-t-015",
     "curriculumCode": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01 08 answer",
+    "skill": "ac9e1le01 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1le01 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1le01 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 event; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-015\"></use></svg>",
+    "question": "A classmate chose “Mix event and setting.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Mix event and setting.. Which answer would improve their response?",
+    "visual": "📖 Correct an unsupported claim; 🔎 event; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Correct an unsupported claim; 🔎 event; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-015",
-      "alt_text": "📖 Common trap; 🔎 event; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-005",
+      "alt_text": "📖 Correct an unsupported claim; 🔎 event; ✅ choose with evidence"
     },
     "answers": [
-      "Do not use both language and image where available.",
       "Mix event and setting.",
-      "An image may add information not stated in the words, but readers should point to evidence before inferring."
+      "Give an opinion without evidence from the text.",
+      "Clothing colour alone does not prove personality; use actions, words, expressions and events as evidence"
     ],
     "correct": 2,
-    "explanation": "An image may add information not stated in the words, but readers should point to evidence before inferring. This matches the task.\nHint: Use both language and image where available.",
+    "explanation": "Clothing colour alone does not prove personality; use actions, words, expressions and events as evidence is the stronger response because it uses the target skill. Setting is where/when; event is what happens.\nHint: Setting is where/when; event is what happens.",
     "structuredExplanation": {
-      "summary": "An image may add information not stated in the words, but readers should point to evidence before inferring. This matches the task.",
-      "hint": "Use both language and image where available."
+      "summary": "Clothing colour alone does not prove personality; use actions, words, expressions and events as evidence is the stronger response because it uses the target skill. Setting is where/when; event is what happens.",
+      "hint": "Setting is where/when; event is what happens."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1le01-t-016",
     "curriculumCode": "AC9E1LE01",
     "bank": "test",
-    "skill": "ac9e1le01 08 strategy",
+    "skill": "ac9e1le01 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Explain effect; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Explain effect; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-016\"></use></svg>",
+    "question": "A classmate chose “Ari lifted the lid slowly”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Ari lifted the lid slowly. Which answer would improve their response?",
+    "visual": "📖 Analyse a multimodal moment; 🔎 words; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Analyse a multimodal moment; 🔎 words; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Explain effect; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1le01.svg#ac9e1le01-t-007",
+      "alt_text": "📖 Analyse a multimodal moment; 🔎 words; ✅ choose with evidence"
     },
     "answers": [
-      "Look for event and check the whole example.",
-      "Mix event and setting.",
+      "Slowly builds suspense",
+      "Ari lifted the lid slowly",
       "Give an opinion without evidence from the text."
     ],
     "correct": 0,
-    "explanation": "Look for event and check the whole example.\nHint: Use both language and image where available.",
+    "explanation": "Slowly builds suspense is the stronger response because it uses the target skill. Point to words or image clues.\nHint: Point to words or image clues.",
     "structuredExplanation": {
-      "summary": "Look for event and check the whole example.",
-      "hint": "Use both language and image where available."
+      "summary": "Slowly builds suspense is the stronger response because it uses the target skill. Point to words or image clues.",
+      "hint": "Point to words or image clues."
     },
     "qualitySchema": "production-v1"
   }

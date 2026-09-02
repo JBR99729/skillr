@@ -1,0 +1,63 @@
+name: Generate Year 1 English student-facing content
+
+on:
+  pull_request:
+    paths:
+      - 'assets/year1-english-student-facing.js'
+      - 'assets/foundation-topic-language.js'
+      - 'scripts/build_year1_english_quality_banks.mjs'
+      - 'scripts/rebuild_year1_english_student_facing.mjs'
+      - 'scripts/polish_year1_english_student_facing.mjs'
+      - 'scripts/rebuild_year1_english_static_student_facing.mjs'
+      - 'scripts/validate_year1_english_student_facing.mjs'
+      - '.github/workflows/generate-year1-english-student-facing.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify Year 1 English authored sources
+        run: |
+          test -f assets/year1-english-data.js
+          test -f assets/year1-english-student-facing.js
+          test -f scripts/build_year1_english_quality_banks.mjs
+          test -f scripts/publish_year1_english_quality_banks.mjs
+          test -f scripts/rebuild_year1_english_student_facing.mjs
+          test -f scripts/polish_year1_english_student_facing.mjs
+          test -f scripts/rebuild_year1_english_static_student_facing.mjs
+          test -f scripts/validate_year1_english_student_facing.mjs
+      - name: Rebuild and polish 40-question practice banks
+        run: node scripts/polish_year1_english_student_facing.mjs
+      - name: Rebuild static Topic Guides and Classroom Views
+        run: node scripts/rebuild_year1_english_static_student_facing.mjs
+      - name: Validate Year 1 English student-facing content
+        run: node scripts/validate_year1_english_student_facing.mjs
+      - name: Validate static curriculum architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Commit generated Year 1 English resources
+        shell: bash
+        run: |
+          git add assets/assessment-banks/year1/english \
+                  assets/assessment-visuals/year1-english-*.svg \
+                  quiz/year-1/english \
+                  year1/english
+          if git diff --cached --quiet; then
+            echo 'Generated Year 1 English output is already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Generate Year 1 English student-facing resources'
+          git push origin HEAD:${GITHUB_HEAD_REF}

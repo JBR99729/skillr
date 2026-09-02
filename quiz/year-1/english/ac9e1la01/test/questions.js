@@ -7,24 +7,24 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la01 01 answer",
     "printable": true,
     "type": "single",
-    "question": "Which response would correctly demonstrate question and command?",
-    "audioPrompt": "Which response would correctly demonstrate question and command?",
-    "visual": "📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001\"></use></svg>",
+    "question": "Which response would correctly show question and command?",
+    "audioPrompt": "Which response would correctly show question and command?",
+    "visual": "📖 show question and command; 🔎 question; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show question and command; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001",
-      "alt_text": "📖 Demonstrate question and command; 🔎 question; ✅ choose with evidence"
+      "alt_text": "📖 show question and command; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "Uses question form/polite tone versus concise urgent command with matching expression/gesture",
+      "Uses question form and polite tone versus concise urgent command with matching expression or gesture",
       "Check only the words.",
       "Do not use polite wording when asking someone to do something."
     ],
     "correct": 0,
-    "explanation": "Uses question form/polite tone versus concise urgent command with matching expression/gesture This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "Uses question form and polite tone versus concise urgent command with matching expression or gesture This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
     "structuredExplanation": {
-      "summary": "Uses question form/polite tone versus concise urgent command with matching expression/gesture This matches the task.",
+      "summary": "Uses question form and polite tone versus concise urgent command with matching expression or gesture This matches the task.",
       "hint": "Also notice face, gesture, voice and relationship."
     },
     "qualitySchema": "production-v1"
@@ -36,14 +36,14 @@ window.skillrTestQuestions = [
     "skill": "ac9e1la01 01 strategy",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you demonstrate question and command?",
-    "audioPrompt": "Which tip would help you demonstrate question and command?",
-    "visual": "🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002\"></use></svg>",
+    "question": "Which tip would help you show question and command?",
+    "audioPrompt": "Which tip would help you show question and command?",
+    "visual": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002",
-      "alt_text": "🧠 Demonstrate question and command; ➡️ Notice purpose; 💡 helpful strategy"
+      "alt_text": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy"
     },
     "answers": [
       "Do not use polite wording when asking someone to do something.",
@@ -191,14 +191,14 @@ window.skillrTestQuestions = [
       "alt_text": "📖 Compare two deliveries; 🔎 command; ✅ choose with evidence"
     },
     "answers": [
-      "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation",
+      "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation",
       "Can you come here",
       "Check only the words."
     ],
     "correct": 0,
-    "explanation": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
     "structuredExplanation": {
-      "summary": "Contrasts at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.",
+      "summary": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation This matches the task.",
       "hint": "Also notice face, gesture, voice and relationship."
     },
     "qualitySchema": "production-v1"
@@ -236,28 +236,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la01-t-009",
     "curriculumCode": "AC9E1LA01",
     "bank": "test",
-    "skill": "ac9e1la01 05 answer",
+    "skill": "ac9e1la01 01 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la01 05 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la01 05 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Rule; 🔎 gesture; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Rule; 🔎 gesture; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-009\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-009",
-      "alt_text": "📖 Rule; 🔎 gesture; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-002",
+      "alt_text": "🧠 show question and command; ➡️ Notice purpose; 💡 helpful strategy"
     },
     "answers": [
+      "Check only the words.",
       "Do not use polite wording when asking someone to do something.",
-      "Use one voice for every purpose.",
-      "Words, voice, facial expression and gesture work together"
+      "notice face, gesture, voice and relationship."
     ],
     "correct": 2,
-    "explanation": "Words, voice, facial expression and gesture work together This matches the task.\nHint: Use polite wording when asking someone to do something.",
+    "explanation": "notice face, gesture, voice and relationship. is the useful check. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
     "structuredExplanation": {
-      "summary": "Words, voice, facial expression and gesture work together This matches the task.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "notice face, gesture, voice and relationship. is the useful check. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,27 +265,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la01-t-010",
     "curriculumCode": "AC9E1LA01",
     "bank": "test",
-    "skill": "ac9e1la01 05 strategy",
+    "skill": "ac9e1la01 02 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you rule?",
-    "audioPrompt": "Which tip would help you rule?",
-    "visual": "🧠 Rule; ➡️ Notice purpose; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Rule; ➡️ Notice purpose; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-010\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Draw a three-panel interaction; ➡️ Choose words; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Draw a three-panel interaction; ➡️ Choose words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-010",
-      "alt_text": "🧠 Rule; ➡️ Notice purpose; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-004",
+      "alt_text": "🧠 Draw a three-panel interaction; ➡️ Choose words; 💡 helpful strategy"
     },
     "answers": [
-      "Using the rule for this English skill.",
-      "Use one voice for every purpose.",
-      "Check only the words."
+      "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+      "Do not use polite wording when asking someone to do something.",
+      "Use one voice for every purpose."
     ],
     "correct": 0,
-    "explanation": "Using the rule for this English skill.\nHint: Use polite wording when asking someone to do something.",
+    "explanation": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response. is the useful check. Use polite wording when asking someone to do something.\nHint: Use polite wording when asking someone to do something.",
     "structuredExplanation": {
-      "summary": "Using the rule for this English skill.",
+      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response. is the useful check. Use polite wording when asking someone to do something.",
       "hint": "Use polite wording when asking someone to do something."
     },
     "qualitySchema": "production-v1"
@@ -294,27 +294,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la01-t-011",
     "curriculumCode": "AC9E1LA01",
     "bank": "test",
-    "skill": "ac9e1la01 06 answer",
+    "skill": "ac9e1la01 03 test verify",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la01 06 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la01 06 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Worked example; 🔎 question; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Worked example; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-011\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Repair an impolite exchange; ➡️ Use voice/gesture; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Repair an impolite exchange; ➡️ Use voice/gesture; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-011",
-      "alt_text": "📖 Worked example; 🔎 question; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-006",
+      "alt_text": "🧠 Repair an impolite exchange; ➡️ Use voice/gesture; 💡 helpful strategy"
     },
     "answers": [
-      "Use one voice for every purpose.",
-      "'Could you pass the blue pencil, please?' with an open hand is a polite request",
-      "Check only the words."
+      "Move",
+      "Look for request and check the whole example.",
+      "Use one voice for every purpose."
     ],
     "correct": 1,
-    "explanation": "'Could you pass the blue pencil, please?' with an open hand is a polite request This matches the task.\nHint: Change volume, tone or gesture to match meaning.",
+    "explanation": "Look for request and check the whole example. is the useful check. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
     "structuredExplanation": {
-      "summary": "'Could you pass the blue pencil, please?' with an open hand is a polite request This matches the task.",
+      "summary": "Look for request and check the whole example. is the useful check. Change volume, tone or gesture to match meaning.",
       "hint": "Change volume, tone or gesture to match meaning."
     },
     "qualitySchema": "production-v1"
@@ -323,28 +323,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la01-t-012",
     "curriculumCode": "AC9E1LA01",
     "bank": "test",
-    "skill": "ac9e1la01 06 strategy",
+    "skill": "ac9e1la01 04 test verify",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you worked example?",
-    "audioPrompt": "Which tip would help you worked example?",
-    "visual": "🧠 Worked example; ➡️ Choose words; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Worked example; ➡️ Choose words; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-012\"></use></svg>",
+    "question": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "audioPrompt": "A classmate is unsure about this example. Which tip would help them check it carefully?",
+    "visual": "🧠 Compare two deliveries; ➡️ Check response; 💡 helpful strategy",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Compare two deliveries; ➡️ Check response; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-012",
-      "alt_text": "🧠 Worked example; ➡️ Choose words; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-008",
+      "alt_text": "🧠 Compare two deliveries; ➡️ Check response; 💡 helpful strategy"
     },
     "answers": [
+      "Can you come here",
       "Check only the words.",
-      "Do not use polite wording when asking someone to do something.",
-      "Change volume, tone or gesture to match meaning."
+      "Check that you can notice gesture/facial expression."
     ],
     "correct": 2,
-    "explanation": "Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
+    "explanation": "Check that you can notice gesture/facial expression. is the useful check. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
     "structuredExplanation": {
-      "summary": "Change volume, tone or gesture to match meaning.",
-      "hint": "Change volume, tone or gesture to match meaning."
+      "summary": "Check that you can notice gesture/facial expression. is the useful check. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,27 +352,27 @@ window.skillrTestQuestions = [
     "id": "ac9e1la01-t-013",
     "curriculumCode": "AC9E1LA01",
     "bank": "test",
-    "skill": "ac9e1la01 07 answer",
+    "skill": "ac9e1la01 01 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la01 07 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la01 07 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Key clue; 🔎 offer; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Key clue; 🔎 offer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-013\"></use></svg>",
+    "question": "A classmate chose “Check only the words.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Check only the words.. Which answer would improve their response?",
+    "visual": "📖 show question and command; 🔎 question; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 show question and command; 🔎 question; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-013",
-      "alt_text": "📖 Key clue; 🔎 offer; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-001",
+      "alt_text": "📖 show question and command; 🔎 question; ✅ choose with evidence"
     },
     "answers": [
-      "Use the key clue for this English skill",
+      "Uses question form and polite tone versus concise urgent command with matching expression or gesture",
       "Check only the words.",
       "Do not use polite wording when asking someone to do something."
     ],
     "correct": 0,
-    "explanation": "Use the key clue for this English skill This matches the task.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "Uses question form and polite tone versus concise urgent command with matching expression or gesture is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
     "structuredExplanation": {
-      "summary": "Use the key clue for this English skill This matches the task.",
+      "summary": "Uses question form and polite tone versus concise urgent command with matching expression or gesture is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
       "hint": "Also notice face, gesture, voice and relationship."
     },
     "qualitySchema": "production-v1"
@@ -381,28 +381,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la01-t-014",
     "curriculumCode": "AC9E1LA01",
     "bank": "test",
-    "skill": "ac9e1la01 07 strategy",
+    "skill": "ac9e1la01 02 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you key clue?",
-    "audioPrompt": "Which tip would help you key clue?",
-    "visual": "🧠 Key clue; ➡️ Use voice/gesture; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Key clue; ➡️ Use voice/gesture; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-014\"></use></svg>",
+    "question": "A classmate chose “Do not use polite wording when asking someone to do something.”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Do not use polite wording when asking someone to do something.. Which answer would improve their response?",
+    "visual": "📖 Draw a three-panel interaction; 🔎 offer; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Draw a three-panel interaction; 🔎 offer; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-014",
-      "alt_text": "🧠 Key clue; ➡️ Use voice/gesture; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-003",
+      "alt_text": "📖 Draw a three-panel interaction; 🔎 offer; ✅ choose with evidence"
     },
     "answers": [
       "Do not use polite wording when asking someone to do something.",
-      "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
+      "Panels show question, information with gesture, and acknowledgement in logical order",
       "Use one voice for every purpose."
     ],
     "correct": 1,
-    "explanation": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.\nHint: Also notice face, gesture, voice and relationship.",
+    "explanation": "Panels show question, information with gesture, and acknowledgement in logical order is the stronger response because it uses the target skill. Use polite wording when asking someone to do something.\nHint: Use polite wording when asking someone to do something.",
     "structuredExplanation": {
-      "summary": "Use this routine: Notice purpose → Choose words → Use voice/gesture → Check response.",
-      "hint": "Also notice face, gesture, voice and relationship."
+      "summary": "Panels show question, information with gesture, and acknowledgement in logical order is the stronger response because it uses the target skill. Use polite wording when asking someone to do something.",
+      "hint": "Use polite wording when asking someone to do something."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la01-t-015",
     "curriculumCode": "AC9E1LA01",
     "bank": "test",
-    "skill": "ac9e1la01 08 answer",
+    "skill": "ac9e1la01 03 test apply",
     "printable": true,
     "type": "single",
-    "question": "A Year 1 student is working with a text and needs to use ac9e1la01 08 answer. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 1 student is working with a text and needs to use ac9e1la01 08 answer. Which option best demonstrates the skill?",
-    "visual": "📖 Common trap; 🔎 request; ✅ choose with evidence",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Common trap; 🔎 request; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-015\"></use></svg>",
+    "question": "A classmate chose “Move”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Move. Which answer would improve their response?",
+    "visual": "📖 Repair an impolite exchange; 🔎 request; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Repair an impolite exchange; 🔎 request; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-005\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-015",
-      "alt_text": "📖 Common trap; 🔎 request; ✅ choose with evidence"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-005",
+      "alt_text": "📖 Repair an impolite exchange; 🔎 request; ✅ choose with evidence"
     },
     "answers": [
-      "Do not use polite wording when asking someone to do something.",
+      "Move",
       "Use one voice for every purpose.",
-      "The same words can sound friendly, surprised or cross when voice and expression change."
+      "Example 'Excuse me, could I please get past?' with calm voice and non-threatening gesture"
     ],
     "correct": 2,
-    "explanation": "The same words can sound friendly, surprised or cross when voice and expression change. This matches the task.\nHint: Use polite wording when asking someone to do something.",
+    "explanation": "Example 'Excuse me, could I please get past?' with calm voice and non-threatening gesture is the stronger response because it uses the target skill. Change volume, tone or gesture to match meaning.\nHint: Change volume, tone or gesture to match meaning.",
     "structuredExplanation": {
-      "summary": "The same words can sound friendly, surprised or cross when voice and expression change. This matches the task.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "Example 'Excuse me, could I please get past?' with calm voice and non-threatening gesture is the stronger response because it uses the target skill. Change volume, tone or gesture to match meaning.",
+      "hint": "Change volume, tone or gesture to match meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrTestQuestions = [
     "id": "ac9e1la01-t-016",
     "curriculumCode": "AC9E1LA01",
     "bank": "test",
-    "skill": "ac9e1la01 08 strategy",
+    "skill": "ac9e1la01 04 test apply",
     "printable": true,
     "type": "single",
-    "question": "Which tip would help you common trap?",
-    "audioPrompt": "Which tip would help you common trap?",
-    "visual": "🧠 Common trap; ➡️ Check response; 💡 helpful strategy",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"🧠 Common trap; ➡️ Check response; 💡 helpful strategy\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-016\"></use></svg>",
+    "question": "A classmate chose “Can you come here”. Which answer would improve their response?",
+    "audioPrompt": "A classmate chose Can you come here. Which answer would improve their response?",
+    "visual": "📖 Compare two deliveries; 🔎 command; ✅ choose with evidence",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"📖 Compare two deliveries; 🔎 command; ✅ choose with evidence\"><use href=\"/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-016",
-      "alt_text": "🧠 Common trap; ➡️ Check response; 💡 helpful strategy"
+      "asset_path": "/assets/assessment-visuals/year1-english-ac9e1la01.svg#ac9e1la01-t-007",
+      "alt_text": "📖 Compare two deliveries; 🔎 command; ✅ choose with evidence"
     },
     "answers": [
-      "Look for request and check the whole example.",
-      "Use one voice for every purpose.",
+      "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation",
+      "Can you come here",
       "Check only the words."
     ],
     "correct": 0,
-    "explanation": "Look for request and check the whole example.\nHint: Use polite wording when asking someone to do something.",
+    "explanation": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.\nHint: Also notice face, gesture, voice and relationship.",
     "structuredExplanation": {
-      "summary": "Look for request and check the whole example.",
-      "hint": "Use polite wording when asking someone to do something."
+      "summary": "Shows the difference between at least two delivery cues for both meanings and connects them to listener interpretation is the stronger response because it uses the target skill. Also notice face, gesture, voice and relationship.",
+      "hint": "Also notice face, gesture, voice and relationship."
     },
     "qualitySchema": "production-v1"
   }

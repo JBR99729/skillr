@@ -1,0 +1,1 @@
+Year 1 English scope: 30 codes across Language, Literature and Literacy; 40 progressive practice MCQs per code; 10-question printable worksheet per code; aligned topic and classroom display; separate 16-question test source range.
