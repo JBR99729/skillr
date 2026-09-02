@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_the_focus_of_a_sentence_can_be_changed_through_using_the_passive_voice_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which sentence is in the passive voice?",
+    "audio_prompt": "Which sentence is in the passive voice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
+        "text": "The council closed the footbridge after the storm.",
+        "is_correct": false
+      },
+      {
+        "text": "The footbridge was closed after the storm.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Residents avoided the footbridge after the storm.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The storm damaged the footbridge.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
-      "hint": "A writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text."
+      "summary": "“The footbridge was closed” places the affected thing first and uses a form of “be” plus the past participle.",
+      "hint": "Look for what receives the action."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_recognising_how_authors_sometimes_use_verbless_clauses_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which version puts the damaged oval, rather than the vandals, in focus?",
+    "audio_prompt": "Which version puts the damaged oval, rather than the vandals, in focus?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Vandals damaged the oval fence overnight.",
         "is_correct": false
       },
       {
-        "text": "recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”",
+        "text": "The oval fence was damaged overnight.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Vandals were near the oval overnight.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The oval fence damaged overnight.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”",
-      "hint": "A writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text."
+      "summary": "The passive version begins with “The oval fence”, shifting attention to the affected object and allowing the actor to be omitted.",
+      "hint": "Ask what appears in subject position."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_recognising_that_a_sentence_can_begin_with_a_coordinating_conjunction_for_stylistic_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which sentence contains a deliberate verbless fragment?",
+    "audio_prompt": "Which sentence contains a deliberate verbless fragment?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The train arrived late again.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Across the platform, commuters waited.",
         "is_correct": false
       },
       {
-        "text": "recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”",
+        "text": "No warning. Just silence.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The announcement confused everyone.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”",
-      "hint": "A writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text."
+      "summary": "“No warning. Just silence.” uses verbless fragments to create abrupt emphasis.",
+      "hint": "A verbless fragment lacks a finite verb but can still be purposeful."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_the_focus_of_a_sentence_can_be_changed_through_using_the_passive_voice_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which sentence deliberately begins with a coordinating conjunction?",
+    "audio_prompt": "Which sentence deliberately begins with a coordinating conjunction?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Because the road was wet, traffic slowed.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
+        "text": "And then the lights went out.",
         "is_correct": true
+      },
+      {
+        "text": "Although it was late, they stayed.",
+        "is_correct": false
+      },
+      {
+        "text": "When the bell rang, everyone left.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
-      "hint": "A writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text."
+      "summary": "“And” is a coordinating conjunction used at the start for continuity and emphasis.",
+      "hint": "Look for and, but, or, so, yet, for, nor at the beginning."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_recognising_how_authors_sometimes_use_verbless_clauses_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which rewrite changes active voice to passive voice?",
+    "audio_prompt": "Which rewrite changes active voice to passive voice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”",
+        "text": "Volunteers planted 300 seedlings. → Three hundred seedlings were planted by volunteers.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Volunteers planted 300 seedlings. → Volunteers were planting seedlings.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Volunteers planted 300 seedlings. → Planting seedlings, volunteers worked.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Volunteers planted 300 seedlings. → The seedlings grew quickly.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”",
-      "hint": "A writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text."
+      "summary": "The object “300 seedlings” becomes the subject and the action is expressed with “were planted”.",
+      "hint": "Track what receives the action."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_recognising_that_a_sentence_can_begin_with_a_coordinating_conjunction_for_stylistic_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "In “The final decision was announced at noon”, what information is foregrounded?",
+    "audio_prompt": "In “The final decision was announced at noon”, what information is foregrounded?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Who made the decision",
         "is_correct": false
       },
       {
-        "text": "recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”",
+        "text": "The decision itself",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The location of the meeting",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The reason for the decision",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”",
-      "hint": "A writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text."
+      "summary": "The passive sentence places “The final decision” first, making it the grammatical focus.",
+      "hint": "What does the sentence begin with?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-p-007",
@@ -245,38 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_the_focus_of_a_sentence_can_be_changed_through_using_the_passive_voice_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which option is a complete sentence rather than a verbless fragment?",
+    "audio_prompt": "Which option is a complete sentence rather than a verbless fragment?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A freezing morning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Beyond the last house.",
         "is_correct": false
       },
       {
-        "text": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
+        "text": "The siren sounded twice.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "No chance of shelter.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
-      "hint": "A writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text."
+      "summary": "“The siren sounded twice” has a finite verb and forms a complete clause.",
+      "hint": "Find the option with a finite verb."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-p-008",
@@ -284,38 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_recognising_how_authors_sometimes_use_verbless_clauses_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which opening uses “But” for a deliberate contrast with the previous sentence?",
+    "audio_prompt": "Which opening uses “But” for a deliberate contrast with the previous sentence?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”",
+        "text": "But the second survey told a different story.",
         "is_correct": true
+      },
+      {
+        "text": "Because the second survey told a different story.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the second survey told a different story.",
+        "is_correct": false
+      },
+      {
+        "text": "The second survey, however, told a different story.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”",
-      "hint": "A writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text."
+      "summary": "Sentence-initial “But” directly carries the contrast across the sentence boundary.",
+      "hint": "Look for the coordinating conjunction."
     },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-009",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which sentence most clearly hides the actor?",
+    "audio_prompt": "Which sentence most clearly hides the actor?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The department misplaced the files.",
+        "is_correct": false
+      },
+      {
+        "text": "The files were misplaced.",
+        "is_correct": true
+      },
+      {
+        "text": "The files disappeared from the desk.",
+        "is_correct": false
+      },
+      {
+        "text": "Someone misplaced the files.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The passive construction omits who misplaced the files, making the actor less visible.",
+      "hint": "Notice whether the doer is named."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-010",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which extract uses fragments to slow attention onto separate details?",
+    "audio_prompt": "Which extract uses fragments to slow attention onto separate details?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rain hammered the roof and flooded the gutter.",
+        "is_correct": false
+      },
+      {
+        "text": "Rain. Tin roof. One leaking bucket.",
+        "is_correct": true
+      },
+      {
+        "text": "The rain hammered the roof while water pooled inside.",
+        "is_correct": false
+      },
+      {
+        "text": "Because rain hammered the roof, the family moved the bucket.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The short verbless fragments isolate each detail and create a stop-start rhythm.",
+      "hint": "Look for compressed units without finite verbs."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-011",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Why might a news report say “Three homes were evacuated” instead of “Police evacuated three homes”?",
+    "audio_prompt": "Why might a news report say “Three homes were evacuated” instead of “Police evacuated three homes”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To foreground the affected homes rather than the actor",
+        "is_correct": true
+      },
+      {
+        "text": "To make the sentence future tense",
+        "is_correct": false
+      },
+      {
+        "text": "To prove police acted incorrectly",
+        "is_correct": false
+      },
+      {
+        "text": "To remove all factual information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Passive voice can shift attention from the doer to the people or things affected.",
+      "hint": "Compare what each version puts first."
+    },
+    "stage": "explain",
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-012",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A report states, “Mistakes were made during the rollout.” What is a likely effect of omitting the actor?",
+    "audio_prompt": "A report states, “Mistakes were made during the rollout.” What is a likely effect of omitting the actor?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Responsibility becomes less direct",
+        "is_correct": true
+      },
+      {
+        "text": "The sentence becomes more precise about who acted",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence becomes a question",
+        "is_correct": false
+      },
+      {
+        "text": "The event is shown as imaginary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Without an actor, the wording acknowledges the action while making responsibility less explicit.",
+      "hint": "Ask who is missing from the sentence."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-013",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Why is “One last chance.” effective after several long sentences in a narrative?",
+    "audio_prompt": "Why is “One last chance.” effective after several long sentences in a narrative?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its fragmentary brevity gives the idea extra weight",
+        "is_correct": true
+      },
+      {
+        "text": "It introduces a detailed explanation",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the chronology unclear",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the sentence to passive voice",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The short verbless fragment breaks the previous rhythm and isolates the key idea.",
+      "hint": "Compare its length and structure with nearby sentences."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-014",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "What effect does the opening “And still the river kept rising.” create after a paragraph about failed sandbagging?",
+    "audio_prompt": "What effect does the opening “And still the river kept rising.” create after a paragraph about failed sandbagging?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It stresses continuation despite what came before",
+        "is_correct": true
+      },
+      {
+        "text": "It introduces an unrelated topic",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the contrast between events",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the river caused the sandbagging",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Initial “And” links the new sentence to the accumulating events and emphasises persistence.",
+      "hint": "Think about the relationship with the previous sentence."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-015",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Why might an emergency notice prefer “The building must be evacuated immediately” to “Staff must evacuate the building immediately”?",
+    "audio_prompt": "Why might an emergency notice prefer “The building must be evacuated immediately” to “Staff must evacuate the building immediately”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It foregrounds the required state of the building and the action itself",
+        "is_correct": true
+      },
+      {
+        "text": "It sounds more personal and conversational",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies exactly which staff member is responsible",
+        "is_correct": false
+      },
+      {
+        "text": "It removes urgency",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The passive construction centres the building and required action rather than the people carrying it out.",
+      "hint": "Look at what the notice makes most prominent."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-016",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "In a memoir, what can fragments such as “No map. No signal. No idea.” add?",
+    "audio_prompt": "In a memoir, what can fragments such as “No map. No signal. No idea.” add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A clipped rhythm that conveys stress or urgency",
+        "is_correct": true
+      },
+      {
+        "text": "A formal explanation of causes",
+        "is_correct": false
+      },
+      {
+        "text": "A neutral scientific tone",
+        "is_correct": false
+      },
+      {
+        "text": "A clear passive construction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The repeated fragments compress information and mimic a pressured thought pattern.",
+      "hint": "Read the rhythm aloud."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-017",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A student writes, “The grant was rejected.” Why is “passive voice is always vague” an inaccurate comment?",
+    "audio_prompt": "A student writes, “The grant was rejected.” Why is “passive voice is always vague” an inaccurate comment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Passive voice can be precise when the actor is unimportant or already known",
+        "is_correct": true
+      },
+      {
+        "text": "Passive voice never changes focus",
+        "is_correct": false
+      },
+      {
+        "text": "Passive voice cannot include an actor",
+        "is_correct": false
+      },
+      {
+        "text": "Passive voice is only used in fiction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Passive voice is a choice about focus; it may omit an actor, but it can also be precise and appropriate.",
+      "hint": "Do not confuse a grammatical form with one possible effect."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-018",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Why might a columnist begin a sentence with “But”?",
+    "audio_prompt": "Why might a columnist begin a sentence with “But”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To give the contrast a sharper, more conversational turn",
+        "is_correct": true
+      },
+      {
+        "text": "To make the sentence grammatically impossible",
+        "is_correct": false
+      },
+      {
+        "text": "To remove the connection with the previous idea",
+        "is_correct": false
+      },
+      {
+        "text": "To turn the sentence into reported speech",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sentence-initial “But” can foreground a turn in argument and create a direct, energetic rhythm.",
+      "hint": "Think about emphasis, not a blanket rule."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-019",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Why does “The medals were presented by the Governor-General” retain more agency information than “The medals were presented”?",
+    "audio_prompt": "Why does “The medals were presented by the Governor-General” retain more agency information than “The medals were presented”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It names the actor in a by-phrase",
+        "is_correct": true
+      },
+      {
+        "text": "It changes into active voice",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the action",
+        "is_correct": false
+      },
+      {
+        "text": "It uses a verbless clause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both are passive, but the by-phrase explicitly identifies who performed the action.",
+      "hint": "Passive voice can still name the actor."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-020",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A novel shifts from “She searched every room for an hour” to “Nothing.” What does the fragment mainly do?",
+    "audio_prompt": "A novel shifts from “She searched every room for an hour” to “Nothing.” What does the fragment mainly do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It delivers the result with abrupt emphasis",
+        "is_correct": true
+      },
+      {
+        "text": "It explains how the search was conducted",
+        "is_correct": false
+      },
+      {
+        "text": "It introduces a new character",
+        "is_correct": false
+      },
+      {
+        "text": "It turns the action into passive voice",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The one-word fragment interrupts the longer sentence pattern so the failed result lands sharply.",
+      "hint": "Notice the contrast in length and rhythm."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-021",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which analysis of “The budget was approved yesterday” is most accurate?",
+    "audio_prompt": "Which analysis of “The budget was approved yesterday” is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is passive and foregrounds the budget; the actor may be omitted because the result matters more",
+        "is_correct": true
+      },
+      {
+        "text": "It is active because “budget” comes first",
+        "is_correct": false
+      },
+      {
+        "text": "It is a fragment because no person is named",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the writer is hiding wrongdoing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The grammatical fact is passive voice; any claim about concealment needs contextual evidence.",
+      "hint": "Separate structure from interpretation."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-022",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which claim about sentence fragments is strongest?",
+    "audio_prompt": "Which claim about sentence fragments is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Fragments can be effective when their incompleteness creates a deliberate rhythm or emphasis",
+        "is_correct": true
+      },
+      {
+        "text": "Fragments are always errors",
+        "is_correct": false
+      },
+      {
+        "text": "Fragments are always more formal than full sentences",
+        "is_correct": false
+      },
+      {
+        "text": "Any sentence under five words is a fragment",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A fragment is not automatically wrong; deliberate fragments can shape pace, voice and emphasis.",
+      "hint": "Judge purpose and context."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-023",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which sentence uses passive voice without hiding who acted?",
+    "audio_prompt": "Which sentence uses passive voice without hiding who acted?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The mural was painted by local artists.",
+        "is_correct": true
+      },
+      {
+        "text": "Local artists painted the mural.",
+        "is_correct": false
+      },
+      {
+        "text": "The mural brightened the laneway.",
+        "is_correct": false
+      },
+      {
+        "text": "Painting the mural, local artists worked all weekend.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sentence is passive but retains the actor through “by local artists”.",
+      "hint": "Passive does not necessarily mean actorless."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-024",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which explanation best distinguishes “But the data changed” from “Although the data changed”?",
+    "audio_prompt": "Which explanation best distinguishes “But the data changed” from “Although the data changed”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The first is an independent sentence beginning with a coordinator; the second begins a dependent clause",
+        "is_correct": true
+      },
+      {
+        "text": "Both are fragments",
+        "is_correct": false
+      },
+      {
+        "text": "The first is passive and the second active",
+        "is_correct": false
+      },
+      {
+        "text": "Only the second expresses contrast",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“But” coordinates an independent clause with preceding discourse; “Although” subordinates its clause.",
+      "hint": "Check whether the clause can stand alone."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-025",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A company statement says, “Procedures were not followed.” Which interpretation is careful rather than overclaimed?",
+    "audio_prompt": "A company statement says, “Procedures were not followed.” Which interpretation is careful rather than overclaimed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The passive wording leaves the responsible actor unstated, which can reduce emphasis on who failed to act",
+        "is_correct": true
+      },
+      {
+        "text": "The company definitely intended to deceive readers",
+        "is_correct": false
+      },
+      {
+        "text": "Passive voice proves nobody knows what happened",
+        "is_correct": false
+      },
+      {
+        "text": "The wording is neutral because passive voice has no effect",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The grammar makes the actor less prominent; motive requires additional evidence.",
+      "hint": "Describe what the language does before inferring intent."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-026",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which revision creates the sharpest narrative pause?",
+    "audio_prompt": "Which revision creates the sharpest narrative pause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "She reached the door. Locked.",
+        "is_correct": true
+      },
+      {
+        "text": "She reached the locked door quickly.",
+        "is_correct": false
+      },
+      {
+        "text": "She quickly reached the door, which was locked.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the door was locked, she stopped.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The isolated fragment “Locked.” creates a sudden pause and foregrounds the obstacle.",
+      "hint": "Look for the strongest structural break."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-027",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which pair best shows a change in focus rather than a change in basic event?",
+    "audio_prompt": "Which pair best shows a change in focus rather than a change in basic event?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The storm damaged the roof.” / “The roof was damaged by the storm.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The storm damaged the roof.” / “The roof collapsed.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The storm arrived.” / “The roof leaked.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The storm was loud.” / “The roof was old.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both sentences describe the same action and participants but organise them differently through voice.",
+      "hint": "Keep the event constant and compare grammar."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-028",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which use of sentence-initial “So” is most effective in a persuasive speech?",
+    "audio_prompt": "Which use of sentence-initial “So” is most effective in a persuasive speech?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "After presenting three transport problems: “So what should the council do next?”",
+        "is_correct": true
+      },
+      {
+        "text": "At the beginning of an unrelated new topic: “So penguins live in Antarctica.”",
+        "is_correct": false
+      },
+      {
+        "text": "Inside a quotation where no link is intended",
+        "is_correct": false
+      },
+      {
+        "text": "Before a sentence that contradicts the previous point without explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“So” works when it signals a consequence or next step from ideas already established.",
+      "hint": "Check whether the logical link is real."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-029",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which analysis of “No lights. No traffic. Only stars.” is most precise?",
+    "audio_prompt": "Which analysis of “No lights. No traffic. Only stars.” is most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The verbless fragments isolate visual details and create a quiet, suspended rhythm",
+        "is_correct": true
+      },
+      {
+        "text": "The passive voice hides the actor",
+        "is_correct": false
+      },
+      {
+        "text": "The conjunction creates a causal link",
+        "is_correct": false
+      },
+      {
+        "text": "The extract is incorrect because every sentence needs a verb",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The effect comes from repeated fragments and compressed rhythm, not passive voice or conjunction.",
+      "hint": "Name the actual structure before discussing effect."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-030",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which revision best makes responsibility explicit?",
+    "audio_prompt": "Which revision best makes responsibility explicit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The contractor failed to complete the safety check.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The safety check was not completed.”",
+        "is_correct": false
+      },
+      {
+        "text": "“A safety check remained incomplete.”",
+        "is_correct": false
+      },
+      {
+        "text": "“There was an incomplete safety check.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The active sentence names the actor and action directly.",
+      "hint": "Choose the version that answers “who did what?”."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-031",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A school newsletter wants to emphasise the achievement rather than the organisers. Which sentence is best?",
+    "audio_prompt": "A school newsletter wants to emphasise the achievement rather than the organisers. Which sentence is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“More than $8,000 was raised for the food pantry.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The SRC raised more than $8,000 for the food pantry.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The SRC members, who organised the event, raised money.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Raising money, the SRC organised a fundraiser.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The passive version foregrounds the amount raised and the outcome.",
+      "hint": "Put the desired focus first."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-032",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A journalist wants to challenge a vague statement that says “Errors were made.” Which follow-up question is most useful?",
+    "audio_prompt": "A journalist wants to challenge a vague statement that says “Errors were made.” Which follow-up question is most useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Who made the errors, and what decisions led to them?”",
+        "is_correct": true
+      },
+      {
+        "text": "“Was passive voice used?”",
+        "is_correct": false
+      },
+      {
+        "text": "“How many words are in the sentence?”",
+        "is_correct": false
+      },
+      {
+        "text": "“Could the sentence be shorter?”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The passive statement leaves agency unspecified, so the key factual gap is responsibility.",
+      "hint": "Ask what information the grammar leaves out."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-033",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A thriller scene needs a sudden visual beat after a long description of an empty house. Which line best fits?",
+    "audio_prompt": "A thriller scene needs a sudden visual beat after a long description of an empty house. Which line best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“A footprint.”",
+        "is_correct": true
+      },
+      {
+        "text": "“There was a footprint near the door.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Someone had apparently left a footprint near the door.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The footprint had been left near the door by someone.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The fragment isolates the discovery and creates an abrupt shift in pace.",
+      "hint": "For a sudden beat, less syntax can create more impact."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-034",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A student wants a conversational turn in an opinion piece after conceding a strong counterargument. Which opening is most effective?",
+    "audio_prompt": "A student wants a conversational turn in an opinion piece after conceding a strong counterargument. Which opening is most effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“But that is not the whole story.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Although that is not the whole story.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Being not the whole story.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The whole story was not being that.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sentence-initial “But” gives the rebuttal an immediate, direct turn.",
+      "hint": "Choose a clear coordinator that signals contrast."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-035",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A museum label should focus on the object rather than the archaeologists. Which wording is strongest?",
+    "audio_prompt": "A museum label should focus on the object rather than the archaeologists. Which wording is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The canoe was recovered from Lake Burley Griffin in 1978.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Archaeologists recovered the canoe from Lake Burley Griffin in 1978.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Recovering the canoe, archaeologists worked in 1978.”",
+        "is_correct": false
+      },
+      {
+        "text": "“There was recovery of a canoe by archaeologists.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The passive construction keeps the canoe in subject position while still giving the key event and date.",
+      "hint": "Foreground the object visitors are viewing."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-036",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A memoir paragraph ends with the narrator learning their flight is cancelled. Which final line creates the strongest deflated rhythm?",
+    "audio_prompt": "A memoir paragraph ends with the narrator learning their flight is cancelled. Which final line creates the strongest deflated rhythm?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“No flight. No hotel. No plan.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The flight was cancelled and there was no hotel booking or plan.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Because the flight was cancelled, we lacked accommodation.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Our plans were affected by the cancellation of the flight.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sequence of fragments compresses the consequences into a blunt, deflated rhythm.",
+      "hint": "Match structure to emotional effect."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-037",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A council report needs to make the responsible body unmistakable. Which sentence should it use?",
+    "audio_prompt": "A council report needs to make the responsible body unmistakable. Which sentence should it use?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The transport unit failed to inspect the bridge on schedule.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The bridge was not inspected on schedule.”",
+        "is_correct": false
+      },
+      {
+        "text": "“An inspection was missed.”",
+        "is_correct": false
+      },
+      {
+        "text": "“There was a failure to inspect.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The active sentence explicitly names the responsible actor.",
+      "hint": "When accountability matters, name the doer."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-038",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A feature article wants to link a surprising final point to the previous paragraph with an informal sense of addition. Which opening works best?",
+    "audio_prompt": "A feature article wants to link a surprising final point to the previous paragraph with an informal sense of addition. Which opening works best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“And there is one more complication.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Because there is one more complication.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Although there is one more complication.”",
+        "is_correct": false
+      },
+      {
+        "text": "“One more complication having existed.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Initial “And” can deliberately extend the previous line of thought in a conversational style.",
+      "hint": "Use the coordinator that adds rather than subordinates."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-039",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A campaign caption must be punchy beneath a photo of an overflowing bin. Which line best uses a fragment?",
+    "audio_prompt": "A campaign caption must be punchy beneath a photo of an overflowing bin. Which line best uses a fragment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“One weekend. Forty bags of litter.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Forty bags of litter were collected over one weekend by volunteers.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Volunteers collected forty bags of litter over one weekend.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Because one weekend produced forty bags of litter.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The two compact fragments foreground the scale through a stark comparison.",
+      "hint": "A caption can trade full syntax for impact."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-p-040",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A science explainer wants to foreground the discovery, while still naming the researchers. Which sentence is best?",
+    "audio_prompt": "A science explainer wants to foreground the discovery, while still naming the researchers. Which sentence is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“A new frog species was identified by researchers in Queensland.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Researchers in Queensland identified a new frog species.”",
+        "is_correct": false
+      },
+      {
+        "text": "“There was identification of a frog species.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Identifying a frog species, Queensland researchers worked.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The passive construction puts the discovery first and retains the researchers in a by-phrase.",
+      "hint": "Passive voice can foreground an outcome without deleting agency."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_recognising_that_a_sentence_can_begin_with_a_coordinating_conjunction_for_stylistic_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A surf-club report says, “Two rescue boards were damaged during the storm.” What does the passive voice foreground?",
+    "audio_prompt": "A surf-club report says, “Two rescue boards were damaged during the storm.” What does the passive voice foreground?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”",
+        "text": "The damaged boards",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Who damaged them",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The exact wind speed",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The club president",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”",
-      "hint": "A writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text."
-    }
+      "summary": "The passive construction places the boards first and does not identify an actor.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_the_focus_of_a_sentence_can_be_changed_through_using_the_passive_voice_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which sentence most directly makes agency visible?",
+    "audio_prompt": "Which sentence most directly makes agency visible?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
+        "text": "“The organisers cancelled the concert at 6 pm.”",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "“The concert was cancelled at 6 pm.”",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "“Cancellation occurred at 6 pm.”",
+        "is_correct": false
+      },
+      {
+        "text": "“There was a cancellation at 6 pm.”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
-      "hint": "A writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text."
-    }
+      "summary": "The active sentence explicitly names the organisers as the doers.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_recognising_how_authors_sometimes_use_verbless_clauses_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A novel ends a tense paragraph with “Too late.” What is the main effect?",
+    "audio_prompt": "A novel ends a tense paragraph with “Too late.” What is the main effect?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”",
+        "text": "The verbless fragment creates abrupt finality",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The phrase explains the cause in detail",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase uses passive voice",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase introduces a new speaker",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”",
-      "hint": "A writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text."
-    }
+      "summary": "The fragment breaks the flow and compresses the outcome into two emphatic words.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_recognising_that_a_sentence_can_begin_with_a_coordinating_conjunction_for_stylistic_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which opening best signals a sharp contrast with the previous sentence?",
+    "audio_prompt": "Which opening best signals a sharp contrast with the previous sentence?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”",
+        "text": "“But the second witness remembered it differently.”",
         "is_correct": true
+      },
+      {
+        "text": "“Because the second witness remembered it differently.”",
+        "is_correct": false
+      },
+      {
+        "text": "“When the second witness remembered it differently.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The second witness, remembering differently.”",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”",
-      "hint": "A writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text."
-    }
+      "summary": "Initial “But” gives the contrast immediate prominence.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_the_focus_of_a_sentence_can_be_changed_through_using_the_passive_voice_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A hospital statement says, “Incorrect labels were attached to three samples.” Which question best tests the missing agency?",
+    "audio_prompt": "A hospital statement says, “Incorrect labels were attached to three samples.” Which question best tests the missing agency?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
+        "text": "“Who attached the labels?”",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "“Were there three samples?”",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "“Was the statement written today?”",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "“Does the sentence contain an adjective?”",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
-      "hint": "A writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text."
-    }
+      "summary": "The passive sentence identifies the action and affected items but not the actor.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_recognising_how_authors_sometimes_use_verbless_clauses_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which sentence is passive but still names the actor?",
+    "audio_prompt": "Which sentence is passive but still names the actor?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”",
+        "text": "“The winning design was selected by a community panel.”",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "“A community panel selected the winning design.”",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "“The winning design impressed the panel.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Selecting the design, the panel voted.”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "recognising how authors sometimes use verbless clauses for effect; for example, “And what about the other woman? With her dark glasses and briefcase.”",
-      "hint": "A writer or speaker can use audience to shape recognising how authors sometimes use verbless clauses for effect and influence how an audience understands the text."
-    }
+      "summary": "The by-phrase keeps the actor visible even though the sentence is passive.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_recognising_that_a_sentence_can_begin_with_a_coordinating_conjunction_for_stylistic_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A travel feature describes an outback night: “No engines. No streetlights. Just wind.” Why use these fragments?",
+    "audio_prompt": "A travel feature describes an outback night: “No engines. No streetlights. Just wind.” Why use these fragments?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”",
+        "text": "To isolate sensory absences and slow the rhythm",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "To identify who caused the silence",
+        "is_correct": false
+      },
+      {
+        "text": "To make the passage more technical",
+        "is_correct": false
+      },
+      {
+        "text": "To show future tense",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "recognising that a sentence can begin with a coordinating conjunction for stylistic effect; for example, “And she went on planning how she would manage it.”",
-      "hint": "A writer or speaker can use relationship to shape recognising that a sentence can begin with a coordinating conjunction for stylistic effect and influence how an audience understands the text."
-    }
+      "summary": "The short verbless units make each detail register separately.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la05-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_recognising_how_the_focus_of_a_sentence_can_be_changed_through_using_the_passive_voice_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which revision best foregrounds the result of a fundraising drive?",
+    "audio_prompt": "Which revision best foregrounds the result of a fundraising drive?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
+        "text": "“A record $42,000 was raised for flood relief.”",
         "is_correct": true
+      },
+      {
+        "text": "“Local businesses raised a record $42,000 for flood relief.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Raising funds, local businesses supported flood relief.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Local businesses were enthusiastic about flood relief.”",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "recognising how the focus of a sentence can be changed through using the passive voice; for example, compare active “The police had caught the thief.” with passive “The thief had been caught.”",
-      "hint": "A writer or speaker can use word choice to shape recognising how the focus of a sentence can be changed through using the passive voice and influence how an audience understands the text."
-    }
+      "summary": "The passive version places the amount and achievement first.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-t-009",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A commentary says, “And then everything changed.” What does the initial conjunction mainly do?",
+    "audio_prompt": "A commentary says, “And then everything changed.” What does the initial conjunction mainly do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Links the turning point to the sequence already being narrated",
+        "is_correct": true
+      },
+      {
+        "text": "Makes the sentence dependent",
+        "is_correct": false
+      },
+      {
+        "text": "Turns the sentence passive",
+        "is_correct": false
+      },
+      {
+        "text": "Removes chronological connection",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“And” carries the narrative forward while giving the new turn emphasis.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-t-010",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which interpretation of “The documents were deleted” is most defensible from grammar alone?",
+    "audio_prompt": "Which interpretation of “The documents were deleted” is most defensible from grammar alone?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The deletion is foregrounded while the person responsible is unstated",
+        "is_correct": true
+      },
+      {
+        "text": "The writer is definitely lying",
+        "is_correct": false
+      },
+      {
+        "text": "Nobody knows who deleted them",
+        "is_correct": false
+      },
+      {
+        "text": "The deletion happened accidentally",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Grammar shows the actor is omitted; motive or circumstances need evidence.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-t-011",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A student edits “The committee approved the proposal” to “The proposal was approved by the committee.” What changed most?",
+    "audio_prompt": "A student edits “The committee approved the proposal” to “The proposal was approved by the committee.” What changed most?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The focus moved from committee to proposal",
+        "is_correct": true
+      },
+      {
+        "text": "The event changed completely",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence became a fragment",
+        "is_correct": false
+      },
+      {
+        "text": "The committee disappeared from the sentence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The participants remain the same, but passive voice changes which one occupies subject position.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-t-012",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which sentence uses a fragment most effectively to create shock?",
+    "audio_prompt": "Which sentence uses a fragment most effectively to create shock?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The door opened. Nobody.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The door opened and nobody was there.”",
+        "is_correct": false
+      },
+      {
+        "text": "“When the door opened, nobody was there.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Nobody was there when the door opened slowly.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The isolated “Nobody.” creates a sharp break after the action.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-t-013",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A policy brief needs maximum clarity about responsibility. Which option is strongest?",
+    "audio_prompt": "A policy brief needs maximum clarity about responsibility. Which option is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The department will publish the audit on Friday.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The audit will be published on Friday.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Publication will occur on Friday.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Friday will see publication of the audit.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The active construction names who is responsible for the action.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-t-014",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which sentence-initial conjunction is best for adding a final supporting point after two previous reasons?",
+    "audio_prompt": "Which sentence-initial conjunction is best for adding a final supporting point after two previous reasons?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“And the proposal would also reduce maintenance costs.”",
+        "is_correct": true
+      },
+      {
+        "text": "“But the proposal would also reduce maintenance costs.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Nor the proposal would also reduce maintenance costs.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Yet the proposal would also reduce maintenance costs.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“And” signals addition and connects the final reason with the preceding support.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-t-015",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "A sports profile reads, “One kick. One chance. Ten seconds left.” What does the structure achieve?",
+    "audio_prompt": "A sports profile reads, “One kick. One chance. Ten seconds left.” What does the structure achieve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Compressed fragments heighten pressure by isolating each element",
+        "is_correct": true
+      },
+      {
+        "text": "Passive voice hides the player",
+        "is_correct": false
+      },
+      {
+        "text": "Subordination slows the event into explanation",
+        "is_correct": false
+      },
+      {
+        "text": "The syntax makes the passage neutral",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The fragment sequence creates a clipped countdown-like rhythm.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la05-t-016",
+    "curriculum_code": "AC9E10LA05",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "sentence structure, passive voice and stylistic fragments",
+    "question": "Which revision best keeps the artwork as the focus while naming its creator?",
+    "audio_prompt": "Which revision best keeps the artwork as the focus while naming its creator?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The mural was designed by Yolŋu artist Marika Yunupingu.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Yolŋu artist Marika Yunupingu designed the mural.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Designing the mural, Marika Yunupingu worked.”",
+        "is_correct": false
+      },
+      {
+        "text": "“There was a mural design by Marika Yunupingu.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The passive construction foregrounds the mural and retains the creator in a by-phrase.",
+      "hint": "Identify the grammatical choice first, then judge what it foregrounds or changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
