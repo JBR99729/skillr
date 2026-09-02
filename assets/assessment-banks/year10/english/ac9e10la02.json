@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_explicit_expressions_of_values_when_evaluating_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A restaurant review says, “The service was careless and disrespectful.” What is the clearest evaluative feature?",
+    "audio_prompt": "A restaurant review says, “The service was careless and disrespectful.” What is the clearest evaluative feature?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying explicit expressions of values when evaluating",
+        "text": "an explicit negative judgement",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "an implied value only",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "a neutral description",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "a factual measurement",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying explicit expressions of values when evaluating",
-      "hint": "A writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text."
+      "summary": "The adjectives “careless” and “disrespectful” openly state the reviewer’s negative judgement.",
+      "hint": "Look for wording that directly tells you what the writer approves or disapproves of."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la02-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_subtle_or_implied_values_communicated_through_language_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "In a community newsletter, a writer calls the restored wetlands “a precious local asset”. What does “precious” do?",
+    "audio_prompt": "In a community newsletter, a writer calls the restored wetlands “a precious local asset”. What does “precious” do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
+        "text": "It explicitly values the wetlands positively",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It removes all evaluation from the sentence",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It only identifies the location",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the wetlands have financial value",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
-      "hint": "A writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text."
+      "summary": "“Precious” is openly approving language, so the value judgement is explicit rather than hidden.",
+      "hint": "Ask whether the writer’s approval is directly stated."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la02-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_explicit_expressions_of_values_when_evaluating_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A sports column describes a captain as “steady under pressure”. Which value is expressed most clearly?",
+    "audio_prompt": "A sports column describes a captain as “steady under pressure”. Which value is expressed most clearly?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "identifying explicit expressions of values when evaluating",
+        "text": "self-control is admirable",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "speed is admirable",
+        "is_correct": false
+      },
+      {
+        "text": "fame is admirable",
+        "is_correct": false
+      },
+      {
+        "text": "risk-taking is admirable",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying explicit expressions of values when evaluating",
-      "hint": "A writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text."
+      "summary": "The praise focuses on composure, so the sentence values self-control under pressure.",
+      "hint": "Match the praise to the quality actually named."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la02-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_subtle_or_implied_values_communicated_through_language_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A report refers to a group of young protesters only as “teenagers blocking traffic”. What is the most important implied effect to notice?",
+    "audio_prompt": "A report refers to a group of young protesters only as “teenagers blocking traffic”. What is the most important implied effect to notice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
+        "text": "their age is foregrounded in a way that may diminish their authority",
         "is_correct": true
+      },
+      {
+        "text": "their exact ages are scientifically established",
+        "is_correct": false
+      },
+      {
+        "text": "the writer explicitly praises their protest",
+        "is_correct": false
+      },
+      {
+        "text": "the phrase is completely value-free",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
-      "hint": "A writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text."
+      "summary": "Naming them by age instead of role or purpose can subtly frame them as less authoritative or mature.",
+      "hint": "Consider what the label makes prominent and what it leaves out."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la02-p-005",
@@ -165,38 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_explicit_expressions_of_values_when_evaluating_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A review states, “The documentary courageously confronts an issue others avoid.” Which word carries the strongest explicit approval?",
+    "audio_prompt": "A review states, “The documentary courageously confronts an issue others avoid.” Which word carries the strongest explicit approval?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying explicit expressions of values when evaluating",
+        "text": "courageously",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "documentary",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "issue",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "others",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying explicit expressions of values when evaluating",
-      "hint": "A writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text."
+      "summary": "“Courageously” directly praises the documentary’s approach.",
+      "hint": "Find the word that clearly evaluates rather than merely identifies."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la02-p-006",
@@ -204,38 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_subtle_or_implied_values_communicated_through_language_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A news headline calls a council proposal a “scheme”. Why might that word matter?",
+    "audio_prompt": "A news headline calls a council proposal a “scheme”. Why might that word matter?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
+        "text": "It can imply suspicion or questionable motives",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It is always a neutral synonym for plan",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It proves the proposal is illegal",
+        "is_correct": false
+      },
+      {
+        "text": "It describes the proposal’s length",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
-      "hint": "A writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text."
+      "summary": "“Scheme” can carry a suspicious or negative connotation, subtly shaping evaluation without an overt accusation.",
+      "hint": "Think about the connotations a near-synonym can bring."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la02-p-007",
@@ -243,39 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_explicit_expressions_of_values_when_evaluating_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A café review says, “At $19 for toast, the menu certainly knows its worth.” What kind of evaluation is this?",
+    "audio_prompt": "A café review says, “At $19 for toast, the menu certainly knows its worth.” What kind of evaluation is this?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "identifying explicit expressions of values when evaluating",
+        "text": "ironic criticism",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral pricing information",
+        "is_correct": false
+      },
+      {
+        "text": "direct praise",
+        "is_correct": false
+      },
+      {
+        "text": "technical description",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying explicit expressions of values when evaluating",
-      "hint": "A writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text."
+      "summary": "The apparently positive phrase “knows its worth” is ironic in context and implies the prices are excessive.",
+      "hint": "Compare the literal wording with the context."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la02-p-008",
@@ -283,39 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_subtle_or_implied_values_communicated_through_language_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A profile describes a volunteer as “quietly persistent”. What is being valued?",
+    "audio_prompt": "A profile describes a volunteer as “quietly persistent”. What is being valued?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
+        "text": "consistent effort without self-promotion",
         "is_correct": true
+      },
+      {
+        "text": "public popularity",
+        "is_correct": false
+      },
+      {
+        "text": "physical strength",
+        "is_correct": false
+      },
+      {
+        "text": "formal authority",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
-      "hint": "A writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text."
+      "summary": "The phrase praises sustained effort and modesty.",
+      "hint": "Focus on the qualities suggested by both words together."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
+  },
+  {
+    "id": "ac9e10la02-p-009",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A commentary says, “Even the smallest towns deserve reliable public transport.” Which value is most explicit?",
+    "audio_prompt": "A commentary says, “Even the smallest towns deserve reliable public transport.” Which value is most explicit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "fair access matters regardless of location",
+        "is_correct": true
+      },
+      {
+        "text": "large cities should receive all funding",
+        "is_correct": false
+      },
+      {
+        "text": "small towns are inefficient",
+        "is_correct": false
+      },
+      {
+        "text": "transport should be private",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Deserve” directly expresses a value of fairness and entitlement to access.",
+      "hint": "Look for the principle behind the evaluative verb."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
+  },
+  {
+    "id": "ac9e10la02-p-010",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A film review calls a character “refreshingly ordinary”. What does the phrase suggest?",
+    "audio_prompt": "A film review calls a character “refreshingly ordinary”. What does the phrase suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "ordinariness is presented as a positive contrast",
+        "is_correct": true
+      },
+      {
+        "text": "the character is boring and worthless",
+        "is_correct": false
+      },
+      {
+        "text": "the reviewer gives no judgement",
+        "is_correct": false
+      },
+      {
+        "text": "the character is literally cold",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Refreshingly” turns “ordinary” into praise by suggesting welcome relief from a familiar type.",
+      "hint": "Notice how one word changes the value of another."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
+  },
+  {
+    "id": "ac9e10la02-p-011",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A local paper writes, “The new library is a sensible investment in a growing suburb.” Why is the evaluation explicit?",
+    "audio_prompt": "A local paper writes, “The new library is a sensible investment in a growing suburb.” Why is the evaluation explicit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“sensible” openly approves the decision",
+        "is_correct": true
+      },
+      {
+        "text": "“library” is an emotional word",
+        "is_correct": false
+      },
+      {
+        "text": "“growing suburb” automatically means success",
+        "is_correct": false
+      },
+      {
+        "text": "the sentence contains a noun",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adjective “sensible” directly tells readers how the writer judges the investment.",
+      "hint": "Find the word that states the judgement rather than implying it."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la02-p-012",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A feature labels a struggling business owner “another casualty of the rent rise”. How does “casualty” shape evaluation?",
+    "audio_prompt": "A feature labels a struggling business owner “another casualty of the rent rise”. How does “casualty” shape evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It implies the owner has been harmed by forces beyond their control",
+        "is_correct": true
+      },
+      {
+        "text": "It neutrally records the rent amount",
+        "is_correct": false
+      },
+      {
+        "text": "It praises the landlord directly",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the owner seem powerful",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Casualty” borrows from the language of injury or conflict, positioning the owner as someone harmed by the situation.",
+      "hint": "Ask what associations the label brings with it."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la02-p-013",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A reviewer writes, “The novel refuses to offer a neat ending.” Which interpretation best explains the value in “refuses”?",
+    "audio_prompt": "A reviewer writes, “The novel refuses to offer a neat ending.” Which interpretation best explains the value in “refuses”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can suggest deliberate artistic resistance rather than simple failure",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the author forgot to finish the novel",
+        "is_correct": false
+      },
+      {
+        "text": "It is purely factual and cannot evaluate",
+        "is_correct": false
+      },
+      {
+        "text": "It always expresses approval",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Refuses” presents the choice as deliberate and resistant; whether that is admired depends on the surrounding review.",
+      "hint": "Separate what the verb implies from whether the overall judgement is positive or negative."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la02-p-014",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A columnist says, “Families were pushed out as rents climbed.” Why is “pushed out” evaluative?",
+    "audio_prompt": "A columnist says, “Families were pushed out as rents climbed.” Why is “pushed out” evaluative?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It frames relocation as forced rather than freely chosen",
+        "is_correct": true
+      },
+      {
+        "text": "It provides an exact measure of rent increases",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the sentence less emotional",
+        "is_correct": false
+      },
+      {
+        "text": "It proves every family left",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Pushed out” implies pressure and lack of choice, encouraging sympathy with affected families.",
+      "hint": "Compare the phrase with a neutral alternative such as “moved away”."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la02-p-015",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "An editorial calls a policy “ambitious but uneven”. What does this combination achieve?",
+    "audio_prompt": "An editorial calls a policy “ambitious but uneven”. What does this combination achieve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It balances approval of the goal with criticism of the execution",
+        "is_correct": true
+      },
+      {
+        "text": "It gives only positive evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "It gives only negative evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids judgement entirely",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Ambitious” values the scale positively, while “uneven” criticises inconsistency, creating a qualified judgement.",
+      "hint": "Track the value carried by each evaluative word."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la02-p-016",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A review describes an actor’s performance as “restrained”. Why can context change the value of this word?",
+    "audio_prompt": "A review describes an actor’s performance as “restrained”. Why can context change the value of this word?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It may praise subtle control or criticise lack of energy depending on surrounding evidence",
+        "is_correct": true
+      },
+      {
+        "text": "It always means the performance was excellent",
+        "is_correct": false
+      },
+      {
+        "text": "It is a technical term with one fixed value",
+        "is_correct": false
+      },
+      {
+        "text": "It only describes costume",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Restrained” can be approving or critical; nearby comments reveal whether control is admired or energy is seen as missing.",
+      "hint": "Some evaluative words depend on context rather than carrying one fixed judgement."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la02-p-017",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A social media post says, “Real locals know this beach should stay untouched.” How does “real locals” communicate values?",
+    "audio_prompt": "A social media post says, “Real locals know this beach should stay untouched.” How does “real locals” communicate values?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It implies some people’s views count as more authentic than others",
+        "is_correct": true
+      },
+      {
+        "text": "It neutrally describes every resident",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a legal definition of residency",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids excluding anyone",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The phrase creates an authenticity test and can marginalise people who disagree.",
+      "hint": "Ask who is included as legitimate and who is pushed outside the group."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la02-p-018",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A critic writes, “The film gives its teenage characters the dignity of being complicated.” What value is expressed?",
+    "audio_prompt": "A critic writes, “The film gives its teenage characters the dignity of being complicated.” What value is expressed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "complex representation is preferable to stereotyping",
+        "is_correct": true
+      },
+      {
+        "text": "teenagers should be simple characters",
+        "is_correct": false
+      },
+      {
+        "text": "dignity depends on wealth",
+        "is_correct": false
+      },
+      {
+        "text": "complicated plots are always better",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sentence explicitly values nuanced representation by linking complexity with dignity.",
+      "hint": "Identify what the writer treats as worthy or respectful."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la02-p-019",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A travel article calls a remote town “sleepy”. Why is this not automatically neutral?",
+    "audio_prompt": "A travel article calls a remote town “sleepy”. Why is this not automatically neutral?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The word can imply charm or dullness depending on the article’s tone",
+        "is_correct": true
+      },
+      {
+        "text": "It gives the town’s population",
+        "is_correct": false
+      },
+      {
+        "text": "It always praises quiet places",
+        "is_correct": false
+      },
+      {
+        "text": "It always insults rural communities",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Sleepy” carries connotations that can be affectionate or dismissive, so context determines its evaluative force.",
+      "hint": "Check the nearby language before deciding the direction of the judgement."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la02-p-020",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A newspaper writes, “The minister finally acknowledged the delays.” What does “finally” imply?",
+    "audio_prompt": "A newspaper writes, “The minister finally acknowledged the delays.” What does “finally” imply?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The acknowledgement should have happened earlier",
+        "is_correct": true
+      },
+      {
+        "text": "The acknowledgement happened immediately",
+        "is_correct": false
+      },
+      {
+        "text": "the delays are unimportant",
+        "is_correct": false
+      },
+      {
+        "text": "the minister is being praised without reservation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Finally” implies impatience and criticism by suggesting the response was overdue.",
+      "hint": "Small adverbs can carry strong implied judgement."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la02-p-021",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "Which sentence is the most neutral description of the same event?",
+    "audio_prompt": "Which sentence is the most neutral description of the same event?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The council approved the redevelopment by six votes to three.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The council wisely approved the redevelopment.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The council surrendered to developers.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The council finally did the right thing.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first sentence reports the decision and vote without adding approving or disapproving language.",
+      "hint": "Remove words that tell readers how to judge the decision."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la02-p-022",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A critic calls a film “provocative”. Which analysis is most careful?",
+    "audio_prompt": "A critic calls a film “provocative”. Which analysis is most careful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The word signals strong evaluation, but its positive or negative force depends on the surrounding review",
+        "is_correct": true
+      },
+      {
+        "text": "The word is always praise",
+        "is_correct": false
+      },
+      {
+        "text": "The word is always criticism",
+        "is_correct": false
+      },
+      {
+        "text": "The word has no evaluative effect",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Provocative” can admire challenge or criticise sensationalism, so context is needed.",
+      "hint": "Avoid giving context-sensitive words a fixed value."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la02-p-023",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "Which option best explains the difference between “residents” and “ratepayers” in an argument about council spending?",
+    "audio_prompt": "Which option best explains the difference between “residents” and “ratepayers” in an argument about council spending?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Ratepayers” foregrounds financial contribution and may imply special standing in the debate",
+        "is_correct": true
+      },
+      {
+        "text": "The terms are always interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "“Residents” is automatically negative",
+        "is_correct": false
+      },
+      {
+        "text": "“Ratepayers” proves who pays the most tax",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Choosing “ratepayers” frames people through payment to council, which can subtly privilege a financial basis for authority.",
+      "hint": "Ask what identity each label makes relevant."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la02-p-024",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A report says a company “shed 200 jobs”. Why is “shed” different from “dismissed 200 workers”?",
+    "audio_prompt": "A report says a company “shed 200 jobs”. Why is “shed” different from “dismissed 200 workers”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Shed” can make job losses sound impersonal and organisational rather than centred on people",
+        "is_correct": true
+      },
+      {
+        "text": "“Shed” always makes the event more emotional",
+        "is_correct": false
+      },
+      {
+        "text": "Both phrases have exactly the same connotations",
+        "is_correct": false
+      },
+      {
+        "text": "“Dismissed” means workers resigned",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Shed” frames jobs as something the organisation removes, reducing attention to the people affected.",
+      "hint": "Compare what each verb makes visible."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la02-p-025",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "Which claim overstates the effect of evaluative language?",
+    "audio_prompt": "Which claim overstates the effect of evaluative language?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The adjective guarantees every reader will agree with the writer.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The adjective signals the writer’s approval.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The wording may encourage readers to view the decision positively.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The evaluation is explicit because the judgement is directly stated.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Language can position an audience, but it cannot guarantee a uniform response.",
+      "hint": "Prefer claims about likely positioning over claims about certain reactions."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la02-p-026",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A headline says, “Council splashes $2 million on park upgrade.” Which neutral rewrite best removes the implied judgement?",
+    "audio_prompt": "A headline says, “Council splashes $2 million on park upgrade.” Which neutral rewrite best removes the implied judgement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Council allocates $2 million to park upgrade.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Council wastes $2 million on park upgrade.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Council proudly spends $2 million on park upgrade.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Council recklessly throws $2 million at park upgrade.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Allocates” reports the spending decision without the wasteful connotations of “splashes”.",
+      "hint": "Replace loaded verbs with precise descriptive ones."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la02-p-027",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "Which reading of “traditional” is strongest in a restaurant review?",
+    "audio_prompt": "Which reading of “traditional” is strongest in a restaurant review?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its value depends on whether the reviewer presents continuity as authentic or outdated",
+        "is_correct": true
+      },
+      {
+        "text": "It always means high quality",
+        "is_correct": false
+      },
+      {
+        "text": "It always means old-fashioned and bad",
+        "is_correct": false
+      },
+      {
+        "text": "It is never evaluative",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Traditional” can praise authenticity or criticise lack of innovation, so surrounding evidence matters.",
+      "hint": "Do not assume a connotation without checking context."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la02-p-028",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A commentary refers to “concerned parents” but “activists” on the other side. What is the most precise analysis?",
+    "audio_prompt": "A commentary refers to “concerned parents” but “activists” on the other side. What is the most precise analysis?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The labels may humanise one group through a family role while making the other seem more ideological",
+        "is_correct": true
+      },
+      {
+        "text": "Both labels are perfectly equivalent",
+        "is_correct": false
+      },
+      {
+        "text": "“Activists” is always an insult",
+        "is_correct": false
+      },
+      {
+        "text": "“Parents” proves the first group is correct",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different labels foreground different identities and can subtly distribute credibility or sympathy.",
+      "hint": "Compare how each side is named, not just what each side says."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la02-p-029",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "Which sentence makes its value judgement explicit rather than implied?",
+    "audio_prompt": "Which sentence makes its value judgement explicit rather than implied?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The decision was unfair to casual workers.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Casual workers were the last group told.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Management announced the change at 5 pm.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The notice was three paragraphs long.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Unfair” directly states the writer’s judgement.",
+      "hint": "Look for an overt evaluative word."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la02-p-030",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A reviewer writes, “The sequel is efficient.” Which conclusion is safest?",
+    "audio_prompt": "A reviewer writes, “The sequel is efficient.” Which conclusion is safest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The word may be faint praise or criticism of a mechanical quality; context is needed",
+        "is_correct": true
+      },
+      {
+        "text": "The reviewer definitely loved the sequel",
+        "is_correct": false
+      },
+      {
+        "text": "The reviewer definitely hated the sequel",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence is purely objective",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Efficient” can sound approving or lukewarm, so a strong interpretation checks the wider review.",
+      "hint": "When a word is ambiguous, do not pretend its value is fixed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la02-p-031",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "You are revising a school article that should report a uniform-policy change neutrally. Which sentence fits best?",
+    "audio_prompt": "You are revising a school article that should report a uniform-policy change neutrally. Which sentence fits best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The school introduced the revised uniform policy on Monday.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The school finally fixed its ridiculous uniform rules on Monday.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The school imposed its harsh new uniform policy on Monday.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The school sensibly updated the uniform policy on Monday.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first sentence reports what happened without embedding praise or criticism.",
+      "hint": "Use descriptive verbs and remove evaluative modifiers."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la02-p-032",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A youth magazine wants to criticise a concert’s ticket prices explicitly. Which sentence does that most directly?",
+    "audio_prompt": "A youth magazine wants to criticise a concert’s ticket prices explicitly. Which sentence does that most directly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The $180 entry price is unreasonable for a three-hour local event.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Tickets went on sale at 9 am.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The event was held beside the river.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Many people checked the ticket page.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Unreasonable” directly states the writer’s negative evaluation of the price.",
+      "hint": "For explicit evaluation, choose wording that openly states the judgement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la02-p-033",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A writer wants to imply, rather than state, that a new apartment tower dominates its street. Which sentence works best?",
+    "audio_prompt": "A writer wants to imply, rather than state, that a new apartment tower dominates its street. Which sentence works best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The tower looms above the row of single-storey shops.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The tower is an unacceptable visual disaster.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The tower has 28 storeys.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The tower was approved in May.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Looms” carries a threatening, overpowering connotation without directly declaring the tower bad.",
+      "hint": "Use connotation to imply a judgement rather than naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la02-p-034",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A review wants to praise a documentary for treating interviewees respectfully without using the word “respectful”. Which line is strongest?",
+    "audio_prompt": "A review wants to praise a documentary for treating interviewees respectfully without using the word “respectful”. Which line is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The camera lingers while people finish their answers, never rushing to fill the silence.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The documentary is respectful.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The documentary contains twelve interviews.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The camera uses three lenses.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first sentence implies respect through a concrete pattern of patient attention.",
+      "hint": "Show the value through a meaningful choice rather than naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la02-p-035",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A council survey summary must avoid marginalising younger respondents. Which wording is best?",
+    "audio_prompt": "A council survey summary must avoid marginalising younger respondents. Which wording is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Younger respondents raised concerns about late-night transport.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Teenagers complained about buses again.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Kids predictably wanted later services.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Immature voices dominated the transport comments.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first sentence identifies the group and their concern without dismissive labels or loaded adverbs.",
+      "hint": "Choose labels that describe rather than belittle."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la02-p-036",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A columnist wants to signal cautious approval of a recycling trial. Which sentence best fits?",
+    "audio_prompt": "A columnist wants to signal cautious approval of a recycling trial. Which sentence best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The early results are promising, although the trial is too small for firm conclusions.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The trial is a flawless success.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The trial proves recycling always works.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Only a fool could question the trial.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Promising” expresses approval while the qualification prevents the judgement from outrunning the evidence.",
+      "hint": "Match the strength of the evaluation to the evidence available."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la02-p-037",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "An arts review wants to criticise a performance as overly polished and emotionally distant. Which wording is most precise?",
+    "audio_prompt": "An arts review wants to criticise a performance as overly polished and emotionally distant. Which wording is most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Technically immaculate, the performance rarely feels alive.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The performance was bad.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The actors wore black costumes.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The performance lasted 95 minutes.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The contrast acknowledges technical skill while explicitly criticising the lack of emotional vitality.",
+      "hint": "Precise evaluation can separate strengths from weaknesses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la02-p-038",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A feature on drought wants to encourage sympathy for farming families without exaggerating. Which sentence is strongest?",
+    "audio_prompt": "A feature on drought wants to encourage sympathy for farming families without exaggerating. Which sentence is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“For some families, another dry season means deciding which long-kept animals they can afford to feed.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Every farmer is being destroyed by the worst disaster imaginable.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Farmers are victims of everything.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Drought exists in rural areas.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sentence uses a concrete consequence to imply hardship without making universal or inflated claims.",
+      "hint": "Specific consequences can communicate values more credibly than extreme labels."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la02-p-039",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A student is revising “The brave residents defeated the greedy developer” for a balanced analysis. Which rewrite is best?",
+    "audio_prompt": "A student is revising “The brave residents defeated the greedy developer” for a balanced analysis. Which rewrite is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Residents opposed the development, while the company argued it would increase housing supply.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Heroic locals stopped a selfish company.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The greedy developer lost.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Everyone knows the residents were right.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first sentence represents both positions without embedding loaded judgements in the labels.",
+      "hint": "Replace praise and blame with the positions or actions actually supported by evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la02-p-040",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A podcast review wants to imply that a host dominates the conversation. Which line is most effective?",
+    "audio_prompt": "A podcast review wants to imply that a host dominates the conversation. Which line is most effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Guests often begin an answer only to hear the host’s voice cut back in.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The host is selfish and rude.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The host uses a microphone.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The episode lasts 48 minutes.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interruption pattern lets listeners infer dominance from behaviour rather than being told the judgement directly.",
+      "hint": "For implied evaluation, choose details that lead readers toward the judgement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
   },
   {
     "id": "ac9e10la02-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_explicit_expressions_of_values_when_evaluating_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A Tasmanian travel review says a walking track is “wonderfully unspoilt”. What is the clearest value judgement?",
+    "audio_prompt": "A Tasmanian travel review says a walking track is “wonderfully unspoilt”. What is the clearest value judgement?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying explicit expressions of values when evaluating",
+        "text": "The reviewer explicitly values the track’s lack of development",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The reviewer criticises the track as unsafe",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The phrase is entirely neutral",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The reviewer proves nobody has altered the track",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying explicit expressions of values when evaluating",
-      "hint": "A writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text."
-    }
+      "summary": "“Wonderfully” openly approves the quality described as “unspoilt”.",
+      "hint": "Identify the word that directly signals approval."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la02-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_subtle_or_implied_values_communicated_through_language_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A report calls a delayed rail project “the government’s latest headache”. What does “headache” imply?",
+    "audio_prompt": "A report calls a delayed rail project “the government’s latest headache”. What does “headache” imply?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
+        "text": "The project is framed as a troublesome problem",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The minister has a medical condition",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The delay is praised",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase gives the exact cost of the project",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
-      "hint": "A writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text."
-    }
+      "summary": "The metaphor casts the project as an ongoing source of difficulty.",
+      "hint": "Think about the associations created by the metaphor."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la02-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_explicit_expressions_of_values_when_evaluating_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A review says, “The café’s tiny menu is focused rather than limited.” What value shift occurs?",
+    "audio_prompt": "A review says, “The café’s tiny menu is focused rather than limited.” What value shift occurs?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "identifying explicit expressions of values when evaluating",
+        "text": "A possible weakness is reframed as deliberate selectivity",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The menu becomes physically larger",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence removes all evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "The reviewer criticises variety more strongly",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying explicit expressions of values when evaluating",
-      "hint": "A writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text."
-    }
+      "summary": "“Focused” gives positive value to the same small range that “limited” could frame negatively.",
+      "hint": "Compare the connotations of the two near-synonyms."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la02-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_subtle_or_implied_values_communicated_through_language_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A columnist writes, “Commuters endured another week of replacement buses.” Which word carries the strongest implied judgement?",
+    "audio_prompt": "A columnist writes, “Commuters endured another week of replacement buses.” Which word carries the strongest implied judgement?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
+        "text": "endured",
         "is_correct": true
+      },
+      {
+        "text": "commuters",
+        "is_correct": false
+      },
+      {
+        "text": "week",
+        "is_correct": false
+      },
+      {
+        "text": "buses",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
-      "hint": "A writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text."
-    }
+      "summary": "“Endured” suggests the experience was difficult or unpleasant.",
+      "hint": "Look for the verb that goes beyond simply reporting what happened."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la02-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_explicit_expressions_of_values_when_evaluating_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A Melbourne arts article calls an exhibition “accessible”. Which interpretation is most careful?",
+    "audio_prompt": "A Melbourne arts article calls an exhibition “accessible”. Which interpretation is most careful?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying explicit expressions of values when evaluating",
+        "text": "It may praise clarity and openness, though the surrounding article is needed to know the exact value",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "It must mean wheelchair access only",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It is always an insult meaning simplistic",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It contains no evaluation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying explicit expressions of values when evaluating",
-      "hint": "A writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text."
-    }
+      "summary": "“Accessible” can carry different positive meanings depending on context, so the wider text matters.",
+      "hint": "Avoid forcing one narrow meaning onto a context-sensitive word."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la02-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_subtle_or_implied_values_communicated_through_language_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "Which sentence reports a school canteen price rise most neutrally?",
+    "audio_prompt": "Which sentence reports a school canteen price rise most neutrally?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
+        "text": "“Prices increased by an average of 8% this term.”",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "“The canteen gouged students with an 8% rise.”",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "“The canteen bravely raised prices by 8%.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Students were hit with another outrageous increase.”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
-      "hint": "A writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text."
-    }
+      "summary": "The first sentence reports the measured change without praise or blame.",
+      "hint": "Strip away words that tell the audience how to feel."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la02-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_identifying_explicit_expressions_of_values_when_evaluating_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A newspaper refers to people opposing a wind farm as “local residents” and supporters as “campaigners”. What should a careful reader notice?",
+    "audio_prompt": "A newspaper refers to people opposing a wind farm as “local residents” and supporters as “campaigners”. What should a careful reader notice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "identifying explicit expressions of values when evaluating",
+        "text": "The different labels may give one group a more ordinary local identity and the other a more political identity",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The labels prove residents are correct",
+        "is_correct": false
+      },
+      {
+        "text": "Campaigner is always a slur",
+        "is_correct": false
+      },
+      {
+        "text": "The wording has no possible evaluative effect",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying explicit expressions of values when evaluating",
-      "hint": "A writer or speaker can use word choice to shape identifying explicit expressions of values when evaluating and influence how an audience understands the text."
-    }
+      "summary": "Labels can subtly distribute normality, legitimacy or ideological identity between groups.",
+      "hint": "Compare how each group is named."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la02-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_identifying_subtle_or_implied_values_communicated_through_language_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A book review states, “The author mercifully avoids a final chapter of explanations.” What does “mercifully” reveal?",
+    "audio_prompt": "A book review states, “The author mercifully avoids a final chapter of explanations.” What does “mercifully” reveal?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
+        "text": "The reviewer explicitly approves the omission",
         "is_correct": true
+      },
+      {
+        "text": "The reviewer wants an extra chapter",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence is factual only",
+        "is_correct": false
+      },
+      {
+        "text": "The reviewer is describing a religious theme",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying subtle or implied values communicated through language; for example, using a term such as “teenager” to refer to an individual rather than using a specific name",
-      "hint": "A writer or speaker can use audience to shape identifying subtle or implied values communicated through language and influence how an audience understands the text."
-    }
+      "summary": "“Mercifully” directly signals relief and approval.",
+      "hint": "Small adverbs can carry the writer’s judgement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la02-t-009",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A coastal development article says luxury houses are “marching up the headland”. What is implied?",
+    "audio_prompt": "A coastal development article says luxury houses are “marching up the headland”. What is implied?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The development is framed as advancing forcefully across the landscape",
+        "is_correct": true
+      },
+      {
+        "text": "The houses are literally moving",
+        "is_correct": false
+      },
+      {
+        "text": "The development is praised as elegant",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence is neutral because it gives no adjective",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The metaphor “marching” suggests forceful, organised encroachment.",
+      "hint": "Look at the associations of the verb, not just its grammar."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la02-t-010",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A critic writes, “The series is polished, perhaps too polished.” What makes this evaluation nuanced?",
+    "audio_prompt": "A critic writes, “The series is polished, perhaps too polished.” What makes this evaluation nuanced?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The repeated word shifts from praise toward criticism through qualification",
+        "is_correct": true
+      },
+      {
+        "text": "The critic gives no opinion",
+        "is_correct": false
+      },
+      {
+        "text": "The second phrase simply repeats the first with identical value",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence only describes editing software",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first “polished” can praise craft, while “too polished” questions whether that polish has become sterile or excessive.",
+      "hint": "Notice how a qualifier can reverse or complicate a value."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la02-t-011",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A youth council article needs to describe opposing views on a curfew without favouring either side. Which wording is strongest?",
+    "audio_prompt": "A youth council article needs to describe opposing views on a curfew without favouring either side. Which wording is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Supporters cite safety concerns; opponents argue the rule would restrict young people unfairly.”",
+        "is_correct": true
+      },
+      {
+        "text": "“Responsible adults support the curfew, while teenagers complain.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Sensible residents back the only realistic option.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Freedom-loving students reject an authoritarian rule.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first sentence attributes each side’s reasoning without loading the group labels.",
+      "hint": "Neutral reporting can still present disagreement clearly."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la02-t-012",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A reviewer wants to imply that a smartphone app is confusing without directly saying “confusing”. Which sentence works best?",
+    "audio_prompt": "A reviewer wants to imply that a smartphone app is confusing without directly saying “confusing”. Which sentence works best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Three menus later, the basic settings are still nowhere in sight.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The app is confusing and badly designed.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The app has a settings menu.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The app was updated in June.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The concrete navigation problem invites the reader to infer confusion.",
+      "hint": "Show the problem through experience rather than naming the judgement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la02-t-013",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A sports article describes a veteran player as “still useful”. Why might the phrase sound faintly dismissive?",
+    "audio_prompt": "A sports article describes a veteran player as “still useful”. Why might the phrase sound faintly dismissive?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“Still” can imply usefulness was not expected to continue",
+        "is_correct": true
+      },
+      {
+        "text": "“Useful” is always an insult",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase directly calls the player useless",
+        "is_correct": false
+      },
+      {
+        "text": "It contains no evaluation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The adverb “still” can suggest surprise that the player retains value, which may diminish the praise.",
+      "hint": "Pay attention to modifiers that change the force of praise."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la02-t-014",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A housing editorial calls renters “families seeking stability” rather than “tenants”. What effect is most plausible?",
+    "audio_prompt": "A housing editorial calls renters “families seeking stability” rather than “tenants”. What effect is most plausible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The wording humanises the group and foregrounds a valued goal",
+        "is_correct": true
+      },
+      {
+        "text": "It provides a legal definition",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the group less sympathetic",
+        "is_correct": false
+      },
+      {
+        "text": "Both labels are identical in effect",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The phrase foregrounds family and stability, encouraging readers to view the issue through human needs.",
+      "hint": "Ask what identity and value the label makes salient."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la02-t-015",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explicit and implied values in evaluation",
+    "question": "Which revision makes an environmental claim more appropriately qualified?",
+    "audio_prompt": "Which revision makes an environmental claim more appropriately qualified?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The evidence indicates the restoration is helping some native species recover.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The restoration has completely fixed the ecosystem.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The project proves every intervention succeeds.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Obviously, nobody can dispute the restoration’s perfection.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first sentence evaluates the result positively while limiting the claim to what the evidence supports.",
+      "hint": "Strong evaluation should not exceed the evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la02-t-016",
+    "curriculum_code": "AC9E10LA02",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "explicit and implied values in evaluation",
+    "question": "A reviewer says a comedy is “unafraid to be silly”. Which analysis best captures the value?",
+    "audio_prompt": "A reviewer says a comedy is “unafraid to be silly”. Which analysis best captures the value?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The wording frames silliness as confidence rather than embarrassment",
+        "is_correct": true
+      },
+      {
+        "text": "The reviewer is definitely criticising immaturity",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence is value-free",
+        "is_correct": false
+      },
+      {
+        "text": "“Unafraid” describes the actors’ physical safety",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Unafraid” positively reframes silliness as deliberate creative confidence.",
+      "hint": "Notice how one evaluative word changes the meaning of the quality that follows."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
