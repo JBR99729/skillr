@@ -4,1415 +4,3399 @@
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A class observation is described as “push or pull between objects”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “push or pull between objects”. Which scientific term best labels it?",
+    "question": "Which word describes a push or pull between objects?",
+    "audio_prompt": "Which word describes a push or pull between objects?",
+    "audioPrompt": "Which word describes a push or pull between objects?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-001",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A class observation is described as “push or pull between objects”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "friction",
-        "is_correct": false
-      },
-      {
-        "text": "force",
+        "text": "Force",
         "is_correct": true
       },
       {
-        "text": "gravity",
+        "text": "Shadow",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Volume",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Force",
+      "Shadow",
+      "Temperature",
+      "Volume"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "force is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A force is a push or pull that can affect motion or shape.",
+      "hint": "Push or pull."
     },
+    "structuredExplanation": {
+      "summary": "A force is a push or pull that can affect motion or shape.",
+      "hint": "Push or pull."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A class observation is described as “contact force that resists relative motion”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “contact force that resists relative motion”. Which scientific term best labels it?",
+    "question": "Which force usually slows a sliding lunchbox on carpet?",
+    "audio_prompt": "Which force usually slows a sliding lunchbox on carpet?",
+    "audioPrompt": "Which force usually slows a sliding lunchbox on carpet?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-002",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A class observation is described as “contact force that resists relative motion”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "gravity",
+        "text": "Light",
         "is_correct": false
       },
       {
-        "text": "magnetic force",
+        "text": "Sound",
         "is_correct": false
       },
       {
-        "text": "friction",
+        "text": "Evaporation",
+        "is_correct": false
+      },
+      {
+        "text": "Friction",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Light",
+      "Sound",
+      "Evaporation",
+      "Friction"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "friction is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Friction is a contact force that resists sliding motion.",
+      "hint": "Contact with surface."
     },
+    "structuredExplanation": {
+      "summary": "Friction is a contact force that resists sliding motion.",
+      "hint": "Contact with surface."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A class observation is described as “attractive force between masses, observed near Earth as downward pull”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “attractive force between masses, observed near Earth as downward pull”. Which scientific term best labels it?",
+    "question": "Which force pulls objects generally downward near Earth?",
+    "audio_prompt": "Which force pulls objects generally downward near Earth?",
+    "audioPrompt": "Which force pulls objects generally downward near Earth?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-003",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A class observation is described as “attractive force between masses, observed near Earth as downward pull”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "gravity",
+        "text": "Sound",
+        "is_correct": false
+      },
+      {
+        "text": "Heat",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity",
         "is_correct": true
       },
       {
-        "text": "magnetic force",
-        "is_correct": false
-      },
-      {
-        "text": "motion",
+        "text": "Friction",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Sound",
+      "Heat",
+      "Gravity",
+      "Friction"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "gravity is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Gravity is the attraction that pulls objects toward Earth.",
+      "hint": "Downward pull."
     },
+    "structuredExplanation": {
+      "summary": "Gravity is the attraction that pulls objects toward Earth.",
+      "hint": "Downward pull."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A class observation is described as “attraction or repulsion involving magnets”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “attraction or repulsion involving magnets”. Which scientific term best labels it?",
+    "question": "Which force can act without the objects touching?",
+    "audio_prompt": "Which force can act without the objects touching?",
+    "audioPrompt": "Which force can act without the objects touching?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-004",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A class observation is described as “attraction or repulsion involving magnets”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "motion",
+        "text": "A rope pull",
         "is_correct": false
       },
       {
-        "text": "magnetic force",
+        "text": "Magnetic force",
         "is_correct": true
       },
       {
-        "text": "force",
+        "text": "Friction",
+        "is_correct": false
+      },
+      {
+        "text": "A hand push",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A rope pull",
+      "Magnetic force",
+      "Friction",
+      "A hand push"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "magnetic force is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Magnetic forces can attract or repel across a gap.",
+      "hint": "No contact needed."
     },
+    "structuredExplanation": {
+      "summary": "Magnetic forces can attract or repel across a gap.",
+      "hint": "No contact needed."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A class observation is described as “change in position over time”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “change in position over time”. Which scientific term best labels it?",
+    "question": "Which situation shows friction?",
+    "audio_prompt": "Which situation shows friction?",
+    "audioPrompt": "Which situation shows friction?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-005",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A class observation is described as “change in position over time”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "force",
-        "is_correct": false
-      },
-      {
-        "text": "friction",
-        "is_correct": false
-      },
-      {
-        "text": "motion",
+        "text": "Bike brakes rubbing to slow a wheel",
         "is_correct": true
+      },
+      {
+        "text": "A magnet pulling a paperclip",
+        "is_correct": false
+      },
+      {
+        "text": "A ball falling from a table",
+        "is_correct": false
+      },
+      {
+        "text": "A light switching on",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Bike brakes rubbing to slow a wheel",
+      "A magnet pulling a paperclip",
+      "A ball falling from a table",
+      "A light switching on"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "motion is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Brakes use contact friction to slow motion.",
+      "hint": "Rubbing surfaces."
     },
+    "structuredExplanation": {
+      "summary": "Brakes use contact friction to slow motion.",
+      "hint": "Rubbing surfaces."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A student needs a heading for this evidence: “push or pull between objects”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “push or pull between objects”. Which heading is most precise?",
+    "question": "Which object is most likely attracted by a classroom magnet?",
+    "audio_prompt": "Which object is most likely attracted by a classroom magnet?",
+    "audioPrompt": "Which object is most likely attracted by a classroom magnet?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-006",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A student needs a heading for this evidence: “push or pull between objects”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "force",
+        "text": "Plastic ruler",
+        "is_correct": false
+      },
+      {
+        "text": "Wooden pencil",
+        "is_correct": false
+      },
+      {
+        "text": "Aluminium foil in every case",
+        "is_correct": false
+      },
+      {
+        "text": "Steel paperclip",
         "is_correct": true
-      },
-      {
-        "text": "gravity",
-        "is_correct": false
-      },
-      {
-        "text": "magnetic force",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Plastic ruler",
+      "Wooden pencil",
+      "Aluminium foil in every case",
+      "Steel paperclip"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "force is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Common magnets strongly attract iron and many steels.",
+      "hint": "Look for iron or steel."
     },
+    "structuredExplanation": {
+      "summary": "Common magnets strongly attract iron and many steels.",
+      "hint": "Look for iron or steel."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A student needs a heading for this evidence: “contact force that resists relative motion”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “contact force that resists relative motion”. Which heading is most precise?",
+    "question": "What can a force do to a moving object?",
+    "audio_prompt": "What can a force do to a moving object?",
+    "audioPrompt": "What can a force do to a moving object?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-007",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A student needs a heading for this evidence: “contact force that resists relative motion”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "magnetic force",
+        "text": "Remove all gravity",
         "is_correct": false
       },
       {
-        "text": "friction",
+        "text": "Turn it into light",
+        "is_correct": false
+      },
+      {
+        "text": "Change its speed or direction",
         "is_correct": true
       },
       {
-        "text": "motion",
+        "text": "Make it stop being matter",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Remove all gravity",
+      "Turn it into light",
+      "Change its speed or direction",
+      "Make it stop being matter"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "friction is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Forces can start, stop, speed up, slow down or change direction.",
+      "hint": "Motion can change."
     },
+    "structuredExplanation": {
+      "summary": "Forces can start, stop, speed up, slow down or change direction.",
+      "hint": "Motion can change."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A student needs a heading for this evidence: “attractive force between masses, observed near Earth as downward pull”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “attractive force between masses, observed near Earth as downward pull”. Which heading is most precise?",
+    "question": "Which investigation changes only the surface?",
+    "audio_prompt": "Which investigation changes only the surface?",
+    "audioPrompt": "Which investigation changes only the surface?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-008",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A student needs a heading for this evidence: “attractive force between masses, observed near Earth as downward pull”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "motion",
+        "text": "Measure one surface in seconds and another in metres",
         "is_correct": false
       },
       {
-        "text": "force",
-        "is_correct": false
-      },
-      {
-        "text": "gravity",
+        "text": "Same toy car and ramp, different floor coverings",
         "is_correct": true
+      },
+      {
+        "text": "Different cars on different ramps",
+        "is_correct": false
+      },
+      {
+        "text": "Push harder on each surface",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Measure one surface in seconds and another in metres",
+      "Same toy car and ramp, different floor coverings",
+      "Different cars on different ramps",
+      "Push harder on each surface"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "gravity is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A fair surface test changes the surface while keeping other important factors the same.",
+      "hint": "One changed factor."
     },
+    "structuredExplanation": {
+      "summary": "A fair surface test changes the surface while keeping other important factors the same.",
+      "hint": "One changed factor."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A student needs a heading for this evidence: “attraction or repulsion involving magnets”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “attraction or repulsion involving magnets”. Which heading is most precise?",
+    "question": "Which pair names a contact force and a non-contact force?",
+    "audio_prompt": "Which pair names a contact force and a non-contact force?",
+    "audioPrompt": "Which pair names a contact force and a non-contact force?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-009",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A student needs a heading for this evidence: “attraction or repulsion involving magnets”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "magnetic force",
+        "text": "Friction and gravity",
         "is_correct": true
       },
       {
-        "text": "force",
+        "text": "Light and colour",
         "is_correct": false
       },
       {
-        "text": "friction",
+        "text": "Sound and temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Shape and mass",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Friction and gravity",
+      "Light and colour",
+      "Sound and temperature",
+      "Shape and mass"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "magnetic force is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Friction requires contact, while gravity can act without contact.",
+      "hint": "Touch versus no touch."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Friction requires contact, while gravity can act without contact.",
+      "hint": "Touch versus no touch."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A student needs a heading for this evidence: “change in position over time”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “change in position over time”. Which heading is most precise?",
+    "question": "What should be repeated in a fair force investigation?",
+    "audio_prompt": "What should be repeated in a fair force investigation?",
+    "audioPrompt": "What should be repeated in a fair force investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-010",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A student needs a heading for this evidence: “change in position over time”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "friction",
+        "text": "The colour of the notebook only",
         "is_correct": false
       },
       {
-        "text": "motion",
+        "text": "The answer before measuring",
+        "is_correct": false
+      },
+      {
+        "text": "The question wording only",
+        "is_correct": false
+      },
+      {
+        "text": "Trials under the same condition",
         "is_correct": true
-      },
-      {
-        "text": "gravity",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The colour of the notebook only",
+      "The answer before measuring",
+      "The question wording only",
+      "Trials under the same condition"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "motion is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Repeated trials help check whether results are reliable.",
+      "hint": "Repeat measurements."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Repeated trials help check whether results are reliable.",
+      "hint": "Repeat measurements."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "During a Year 4 discussion, Student 1 says, “A moving object must have a forward force”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 1 says, “A moving object must have a forward force”. Which response best corrects the science?",
+    "question": "Why does a soccer ball rolling on grass slow down?",
+    "audio_prompt": "Why does a soccer ball rolling on grass slow down?",
+    "audioPrompt": "Why does a soccer ball rolling on grass slow down?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-011",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: During a Year 4 discussion, Student 1 says, “A moving object must have a forward force”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A moving object must have a forward force",
+        "text": "The ball uses up all matter",
         "is_correct": false
       },
       {
-        "text": "Gravity only acts while falling",
+        "text": "The grass becomes magnetic",
         "is_correct": false
       },
       {
-        "text": "An object can continue moving while forces are balanced or after a push ends, although friction may slow it.",
+        "text": "Friction from the grass acts against the motion",
         "is_correct": true
+      },
+      {
+        "text": "Gravity stops acting once it rolls",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "The ball uses up all matter",
+      "The grass becomes magnetic",
+      "Friction from the grass acts against the motion",
+      "Gravity stops acting once it rolls"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "An object can continue moving while forces are balanced or after a push ends, although friction may slow it.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Friction between the ball and grass resists the rolling motion.",
+      "hint": "Surface resists movement."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Friction between the ball and grass resists the rolling motion.",
+      "hint": "Surface resists movement."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "During a Year 4 discussion, Student 2 says, “Gravity only acts while falling”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 2 says, “Gravity only acts while falling”. Which response best corrects the science?",
+    "question": "Why is gravity acting on a book resting on a desk?",
+    "audio_prompt": "Why is gravity acting on a book resting on a desk?",
+    "audioPrompt": "Why is gravity acting on a book resting on a desk?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-012",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: During a Year 4 discussion, Student 2 says, “Gravity only acts while falling”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Gravity acts on objects whether they are falling, supported or moving sideways.",
+        "text": "Books have no mass on desks",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity still pulls downward even when the desk supports the book",
         "is_correct": true
       },
       {
-        "text": "Gravity only acts while falling",
+        "text": "Gravity only acts when objects fall",
         "is_correct": false
       },
       {
-        "text": "All metals are magnetic",
+        "text": "The desk switches gravity off",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Books have no mass on desks",
+      "Gravity still pulls downward even when the desk supports the book",
+      "Gravity only acts when objects fall",
+      "The desk switches gravity off"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Gravity acts on objects whether they are falling, supported or moving sideways.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Gravity acts on objects near Earth whether they are falling or supported.",
+      "hint": "Supported does not mean no gravity."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Gravity acts on objects near Earth whether they are falling or supported.",
+      "hint": "Supported does not mean no gravity."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "During a Year 4 discussion, Student 3 says, “All metals are magnetic”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 3 says, “All metals are magnetic”. Which response best corrects the science?",
+    "question": "Why is “all metals are magnetic” incorrect?",
+    "audio_prompt": "Why is “all metals are magnetic” incorrect?",
+    "audioPrompt": "Why is “all metals are magnetic” incorrect?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-013",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: During a Year 4 discussion, Student 3 says, “All metals are magnetic”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "All metals are magnetic",
-        "is_correct": false
-      },
-      {
-        "text": "Only some materials, such as iron and many steels, respond strongly to common magnets.",
+        "text": "Only some metals and alloys are strongly attracted to common magnets",
         "is_correct": true
       },
       {
-        "text": "A fair test changes several things",
+        "text": "Plastic is the only magnetic material",
+        "is_correct": false
+      },
+      {
+        "text": "Every shiny object is magnetic",
+        "is_correct": false
+      },
+      {
+        "text": "Magnets attract only paper",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Only some metals and alloys are strongly attracted to common magnets",
+      "Plastic is the only magnetic material",
+      "Every shiny object is magnetic",
+      "Magnets attract only paper"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Only some materials, such as iron and many steels, respond strongly to common magnets.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Common magnets attract materials such as iron and many steels, not every metal.",
+      "hint": "Metal is not enough."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Common magnets attract materials such as iron and many steels, not every metal.",
+      "hint": "Metal is not enough."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "During a Year 4 discussion, Student 4 says, “A fair test changes several things”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 4 says, “A fair test changes several things”. Which response best corrects the science?",
+    "question": "Why should the same toy car be used when comparing ramp surfaces?",
+    "audio_prompt": "Why should the same toy car be used when comparing ramp surfaces?",
+    "audioPrompt": "Why should the same toy car be used when comparing ramp surfaces?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-014",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: During a Year 4 discussion, Student 4 says, “A fair test changes several things”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A fair test changes several things",
+        "text": "Different cars always give identical results",
         "is_correct": false
       },
       {
-        "text": "A moving object must have a forward force",
+        "text": "The car colour is the measured variable",
         "is_correct": false
       },
       {
-        "text": "Change one tested factor and control the others.",
+        "text": "The surface would stop being a surface",
+        "is_correct": false
+      },
+      {
+        "text": "Changing the car and the surface together would make the test unfair",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Different cars always give identical results",
+      "The car colour is the measured variable",
+      "The surface would stop being a surface",
+      "Changing the car and the surface together would make the test unfair"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Change one tested factor and control the others.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Keeping the car the same helps show whether the surface caused the difference.",
+      "hint": "Control other factors."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Keeping the car the same helps show whether the surface caused the difference.",
+      "hint": "Control other factors."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A group writes this claim on a poster: “A moving object must have a forward force”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “A moving object must have a forward force”. Which edit makes the claim scientifically accurate?",
+    "question": "Why can a magnet move a paperclip without touching it?",
+    "audio_prompt": "Why can a magnet move a paperclip without touching it?",
+    "audioPrompt": "Why can a magnet move a paperclip without touching it?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-015",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A group writes this claim on a poster: “A moving object must have a forward force”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "An object can continue moving while forces are balanced or after a push ends, although friction may slow it.",
+        "text": "The paperclip is pushed by light",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity only works sideways",
+        "is_correct": false
+      },
+      {
+        "text": "Magnetic force can act across a small distance",
         "is_correct": true
       },
       {
-        "text": "A moving object must have a forward force",
-        "is_correct": false
-      },
-      {
-        "text": "All metals are magnetic",
+        "text": "Friction travels through air to pull it",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "The paperclip is pushed by light",
+      "Gravity only works sideways",
+      "Magnetic force can act across a small distance",
+      "Friction travels through air to pull it"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "An object can continue moving while forces are balanced or after a push ends, although friction may slow it.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Magnetic attraction can act without direct contact between the magnet and paperclip.",
+      "hint": "Non-contact force."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Magnetic attraction can act without direct contact between the magnet and paperclip.",
+      "hint": "Non-contact force."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A group writes this claim on a poster: “Gravity only acts while falling”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Gravity only acts while falling”. Which edit makes the claim scientifically accurate?",
+    "question": "Why does a rough surface usually produce more friction than a smooth surface?",
+    "audio_prompt": "Why does a rough surface usually produce more friction than a smooth surface?",
+    "audioPrompt": "Why does a rough surface usually produce more friction than a smooth surface?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-016",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A group writes this claim on a poster: “Gravity only acts while falling”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Gravity only acts while falling",
+        "text": "Friction only happens in water",
         "is_correct": false
       },
       {
-        "text": "Gravity acts on objects whether they are falling, supported or moving sideways.",
+        "text": "Rough surfaces catch and resist motion more",
         "is_correct": true
       },
       {
-        "text": "A fair test changes several things",
+        "text": "Rough surfaces remove gravity",
+        "is_correct": false
+      },
+      {
+        "text": "Smooth surfaces create magnets",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Friction only happens in water",
+      "Rough surfaces catch and resist motion more",
+      "Rough surfaces remove gravity",
+      "Smooth surfaces create magnets"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Gravity acts on objects whether they are falling, supported or moving sideways.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "More surface interaction can increase friction and reduce sliding distance.",
+      "hint": "More resistance."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "More surface interaction can increase friction and reduce sliding distance.",
+      "hint": "More resistance."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-017",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A group writes this claim on a poster: “All metals are magnetic”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “All metals are magnetic”. Which edit makes the claim scientifically accurate?",
+    "question": "Why is a prediction different from a result in a force test?",
+    "audio_prompt": "Why is a prediction different from a result in a force test?",
+    "audioPrompt": "Why is a prediction different from a result in a force test?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-017",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A group writes this claim on a poster: “All metals are magnetic”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "All metals are magnetic",
-        "is_correct": false
-      },
-      {
-        "text": "A moving object must have a forward force",
-        "is_correct": false
-      },
-      {
-        "text": "Only some materials, such as iron and many steels, respond strongly to common magnets.",
+        "text": "A prediction is expected before testing; a result is measured after testing",
         "is_correct": true
+      },
+      {
+        "text": "A prediction must always be correct",
+        "is_correct": false
+      },
+      {
+        "text": "A result is guessed before the test",
+        "is_correct": false
+      },
+      {
+        "text": "They are the same word",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "A prediction is expected before testing; a result is measured after testing",
+      "A prediction must always be correct",
+      "A result is guessed before the test",
+      "They are the same word"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Only some materials, such as iron and many steels, respond strongly to common magnets.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Predictions are based on prior ideas, while results come from collected evidence.",
+      "hint": "Before versus after."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Predictions are based on prior ideas, while results come from collected evidence.",
+      "hint": "Before versus after."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-018",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A group writes this claim on a poster: “A fair test changes several things”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “A fair test changes several things”. Which edit makes the claim scientifically accurate?",
+    "question": "Why can an object keep moving after a push ends?",
+    "audio_prompt": "Why can an object keep moving after a push ends?",
+    "audioPrompt": "Why can an object keep moving after a push ends?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-018",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A group writes this claim on a poster: “A fair test changes several things”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Change one tested factor and control the others.",
+        "text": "A forward push must stay attached forever",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity disappears during motion",
+        "is_correct": false
+      },
+      {
+        "text": "The object becomes a magnet",
+        "is_correct": false
+      },
+      {
+        "text": "It may continue moving, while forces such as friction gradually slow it",
         "is_correct": true
-      },
-      {
-        "text": "A fair test changes several things",
-        "is_correct": false
-      },
-      {
-        "text": "Gravity only acts while falling",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A forward push must stay attached forever",
+      "Gravity disappears during motion",
+      "The object becomes a magnet",
+      "It may continue moving, while forces such as friction gradually slow it"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Change one tested factor and control the others.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Motion can continue after a push, but other forces can change it.",
+      "hint": "No continuous push required."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Motion can continue after a push, but other forces can change it.",
+      "hint": "No continuous push required."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-019",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "Study the classroom example. Which force usually opposes a sliding object?",
-    "audio_prompt": "Study the classroom example. Which force usually opposes a sliding object?",
+    "question": "Why should magnet-distance tests use the same magnet and paperclip each time?",
+    "audio_prompt": "Why should magnet-distance tests use the same magnet and paperclip each time?",
+    "audioPrompt": "Why should magnet-distance tests use the same magnet and paperclip each time?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-019",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: Study the classroom example. Which force usually opposes a sliding object?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "magnetism only",
+        "text": "So friction is removed from Earth",
         "is_correct": false
       },
       {
-        "text": "friction",
+        "text": "So all metals become magnetic",
+        "is_correct": false
+      },
+      {
+        "text": "So distance is the main changed factor being tested",
         "is_correct": true
       },
       {
-        "text": "light",
+        "text": "So every result is guessed",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "So friction is removed from Earth",
+      "So all metals become magnetic",
+      "So distance is the main changed factor being tested",
+      "So every result is guessed"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "friction",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Controlling the magnet and paperclip makes the comparison fairer.",
+      "hint": "Keep materials same."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Controlling the magnet and paperclip makes the comparison fairer.",
+      "hint": "Keep materials same."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-020",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "Use the investigation evidence. Which investigation is fairest for comparing surfaces?",
-    "audio_prompt": "Use the investigation evidence. Which investigation is fairest for comparing surfaces?",
+    "question": "Why can two opposite magnetic poles attract?",
+    "audio_prompt": "Why can two opposite magnetic poles attract?",
+    "audioPrompt": "Why can two opposite magnetic poles attract?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-020",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: Use the investigation evidence. Which investigation is fairest for comparing surfaces?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Change the object and surface together",
+        "text": "Attraction is caused by evaporation",
         "is_correct": false
       },
       {
-        "text": "Push harder on rough surfaces",
-        "is_correct": false
-      },
-      {
-        "text": "Use the same object, slope and release point on each surface",
+        "text": "Magnetic poles can interact by pulling toward each other",
         "is_correct": true
+      },
+      {
+        "text": "Opposite poles always turn into wood",
+        "is_correct": false
+      },
+      {
+        "text": "Magnets only work when touching",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Attraction is caused by evaporation",
+      "Magnetic poles can interact by pulling toward each other",
+      "Opposite poles always turn into wood",
+      "Magnets only work when touching"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Use the same object, slope and release point on each surface",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Unlike magnetic poles can attract; like poles can repel.",
+      "hint": "Magnet pole rule."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Unlike magnetic poles can attract; like poles can repel.",
+      "hint": "Magnet pole rule."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-021",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "The class is preparing “Surface-friction test”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Surface-friction test”. Which plan would produce useful scientific evidence?",
+    "question": "Which statement is a misconception?",
+    "audio_prompt": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-021",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: The class is preparing “Surface-friction test”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Release the same block or toy from the same point onto different surfaces and compare travel distance.",
+        "text": "A moving object must always have a forward force pushing it",
         "is_correct": true
       },
       {
-        "text": "Begin surface-friction test, change two important conditions together, then compare only the preferred observation.",
+        "text": "Friction can slow a sliding object",
         "is_correct": false
       },
       {
-        "text": "Carry out surface-friction test once, omit the measurements and report the original prediction as the result.",
+        "text": "Gravity can act without contact",
+        "is_correct": false
+      },
+      {
+        "text": "Magnets can attract some steel objects",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A moving object must always have a forward force pushing it",
+      "Friction can slow a sliding object",
+      "Gravity can act without contact",
+      "Magnets can attract some steel objects"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Release the same block or toy from the same point onto different surfaces and compare travel distance.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Objects can continue moving after a push; friction and other forces may then change the motion.",
+      "hint": "Movement does not always mean a continuing push."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Objects can continue moving after a push; friction and other forces may then change the motion.",
+      "hint": "Movement does not always mean a continuing push."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-022",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "The class is preparing “Magnetic-distance test”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Magnetic-distance test”. Which plan would produce useful scientific evidence?",
+    "question": "Which example shows a non-contact force?",
+    "audio_prompt": "Which example shows a non-contact force?",
+    "audioPrompt": "Which example shows a non-contact force?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-022",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: The class is preparing “Magnetic-distance test”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin magnetic-distance test, change two important conditions together, then compare only the preferred observation.",
+        "text": "Sandpaper rubbing a block",
         "is_correct": false
       },
       {
-        "text": "Increase the gap between a magnet and a paperclip, record the greatest attraction distance and repeat.",
+        "text": "A hand pushing a trolley",
+        "is_correct": false
+      },
+      {
+        "text": "A shoe gripping the ground",
+        "is_correct": false
+      },
+      {
+        "text": "A magnet attracting a paperclip across a gap",
         "is_correct": true
-      },
-      {
-        "text": "Carry out magnetic-distance test once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Sandpaper rubbing a block",
+      "A hand pushing a trolley",
+      "A shoe gripping the ground",
+      "A magnet attracting a paperclip across a gap"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Increase the gap between a magnet and a paperclip, record the greatest attraction distance and repeat.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "The magnet acts without touching the paperclip.",
+      "hint": "No touching."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The magnet acts without touching the paperclip.",
+      "hint": "No touching."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-023",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "The class is preparing “Force-arrow diagrams”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Force-arrow diagrams”. Which plan would produce useful scientific evidence?",
+    "question": "Which example shows a contact force?",
+    "audio_prompt": "Which example shows a contact force?",
+    "audioPrompt": "Which example shows a contact force?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-023",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: The class is preparing “Force-arrow diagrams”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin force-arrow diagrams, change two important conditions together, then compare only the preferred observation.",
+        "text": "Magnet repelling magnet",
         "is_correct": false
       },
       {
-        "text": "Carry out force-arrow diagrams once, omit the measurements and report the original prediction as the result.",
+        "text": "Earth attracting the Moon",
         "is_correct": false
       },
       {
-        "text": "Draw arrows showing direction and relative size of forces in a falling, sliding or stationary situation.",
+        "text": "Friction between tyres and road",
         "is_correct": true
+      },
+      {
+        "text": "Gravity pulling a dropped ball",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Magnet repelling magnet",
+      "Earth attracting the Moon",
+      "Friction between tyres and road",
+      "Gravity pulling a dropped ball"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Draw arrows showing direction and relative size of forces in a falling, sliding or stationary situation.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Friction happens when surfaces are in contact.",
+      "hint": "Touching surfaces."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Friction happens when surfaces are in contact.",
+      "hint": "Touching surfaces."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-P-024",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "practice",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A results display includes “Does surface affect slide distance?”. Which interpretation matches that evidence?",
-    "audio_prompt": "A results display includes “Does surface affect slide distance?”. Which interpretation matches that evidence?",
+    "question": "Which test is fairest for comparing friction on carpet and tiles?",
+    "audio_prompt": "Which test is fairest for comparing friction on carpet and tiles?",
+    "audioPrompt": "Which test is fairest for comparing friction on carpet and tiles?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-p-024",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A results display includes “Does surface affect slide distance?”. Which interpretation matches that evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "surface material because distance travelled because object, slope, start point",
+        "text": "Measure carpet in metres and tiles by eye",
+        "is_correct": false
+      },
+      {
+        "text": "Release the same toy car from the same ramp height on each surface",
         "is_correct": true
       },
       {
-        "text": "gap because maximum attraction distance because magnets, object",
+        "text": "Use a heavy truck on carpet and a light car on tiles",
         "is_correct": false
       },
       {
-        "text": "height because time or distance because car, surface, release",
+        "text": "Push harder on the carpet trial",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Measure carpet in metres and tiles by eye",
+      "Release the same toy car from the same ramp height on each surface",
+      "Use a heavy truck on carpet and a light car on tiles",
+      "Push harder on the carpet trial"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Does surface affect slide distance? is linked to surface material because distance travelled because object, slope, start point.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "A fair comparison changes surface and controls other important factors.",
+      "hint": "Same car, ramp and release."
     },
+    "structuredExplanation": {
+      "summary": "A fair comparison changes surface and controls other important factors.",
+      "hint": "Same car, ramp and release."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-025",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "Which result would suggest more friction?",
+    "audio_prompt": "Which result would suggest more friction?",
+    "audioPrompt": "Which result would suggest more friction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The same block travels a shorter distance on the surface",
+        "is_correct": true
+      },
+      {
+        "text": "The block changes colour",
+        "is_correct": false
+      },
+      {
+        "text": "The timer is a different brand",
+        "is_correct": false
+      },
+      {
+        "text": "The surface has a longer name",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The same block travels a shorter distance on the surface",
+      "The block changes colour",
+      "The timer is a different brand",
+      "The surface has a longer name"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Greater friction can reduce the distance travelled under the same starting conditions.",
+      "hint": "More resistance, less travel."
+    },
+    "structuredExplanation": {
+      "summary": "Greater friction can reduce the distance travelled under the same starting conditions.",
+      "hint": "More resistance, less travel."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-026",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "Which material is least likely to be strongly attracted by a common classroom magnet?",
+    "audio_prompt": "Which material is least likely to be strongly attracted by a common classroom magnet?",
+    "audioPrompt": "Which material is least likely to be strongly attracted by a common classroom magnet?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Iron nail",
+        "is_correct": false
+      },
+      {
+        "text": "Steel screw",
+        "is_correct": false
+      },
+      {
+        "text": "Some steel wool",
+        "is_correct": false
+      },
+      {
+        "text": "Wood",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Iron nail",
+      "Steel screw",
+      "Some steel wool",
+      "Wood"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Wood is not strongly attracted to magnets.",
+      "hint": "Not a magnetic metal."
+    },
+    "structuredExplanation": {
+      "summary": "Wood is not strongly attracted to magnets.",
+      "hint": "Not a magnetic metal."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-027",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "Which force-arrow description best fits a falling ball?",
+    "audio_prompt": "Which force-arrow description best fits a falling ball?",
+    "audioPrompt": "Which force-arrow description best fits a falling ball?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Magnetism always pulls it north",
+        "is_correct": false
+      },
+      {
+        "text": "Sound pushes it sideways",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity acts downward",
+        "is_correct": true
+      },
+      {
+        "text": "Friction pushes the ball upward from the table",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Magnetism always pulls it north",
+      "Sound pushes it sideways",
+      "Gravity acts downward",
+      "Friction pushes the ball upward from the table"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Near Earth, gravity pulls falling objects downward.",
+      "hint": "Downward force."
+    },
+    "structuredExplanation": {
+      "summary": "Near Earth, gravity pulls falling objects downward.",
+      "hint": "Downward force."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-028",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "Which statement about a book on a table is most accurate?",
+    "audio_prompt": "Which statement about a book on a table is most accurate?",
+    "audioPrompt": "Which statement about a book on a table is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Friction turns the book into air",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity pulls down while the table pushes up on the book",
+        "is_correct": true
+      },
+      {
+        "text": "No forces act because it is still",
+        "is_correct": false
+      },
+      {
+        "text": "Only magnetic force acts",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Friction turns the book into air",
+      "Gravity pulls down while the table pushes up on the book",
+      "No forces act because it is still",
+      "Only magnetic force acts"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A supported object can have balanced forces acting on it.",
+      "hint": "Still does not mean no forces."
+    },
+    "structuredExplanation": {
+      "summary": "A supported object can have balanced forces acting on it.",
+      "hint": "Still does not mean no forces."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-029",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "Which variable is changed in a magnet-distance investigation?",
+    "audio_prompt": "Which variable is changed in a magnet-distance investigation?",
+    "audioPrompt": "Which variable is changed in a magnet-distance investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Gap between magnet and paperclip",
+        "is_correct": true
+      },
+      {
+        "text": "Colour of the student’s pencil",
+        "is_correct": false
+      },
+      {
+        "text": "Name of the data table",
+        "is_correct": false
+      },
+      {
+        "text": "Day of the week only",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Gap between magnet and paperclip",
+      "Colour of the student’s pencil",
+      "Name of the data table",
+      "Day of the week only"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The tested variable is the distance between the magnet and paperclip.",
+      "hint": "Changed gap."
+    },
+    "structuredExplanation": {
+      "summary": "The tested variable is the distance between the magnet and paperclip.",
+      "hint": "Changed gap."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-030",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "Which conclusion is best supported by repeated trials?",
+    "audio_prompt": "Which conclusion is best supported by repeated trials?",
+    "audioPrompt": "Which conclusion is best supported by repeated trials?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Tile is always best everywhere after one try",
+        "is_correct": false
+      },
+      {
+        "text": "The carpet was boring",
+        "is_correct": false
+      },
+      {
+        "text": "The car liked the tile",
+        "is_correct": false
+      },
+      {
+        "text": "The car usually travelled farther on tile than carpet under the same conditions",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Tile is always best everywhere after one try",
+      "The carpet was boring",
+      "The car liked the tile",
+      "The car usually travelled farther on tile than carpet under the same conditions"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Repeated measurements under controlled conditions support a cautious comparison.",
+      "hint": "Use evidence, not preference."
+    },
+    "structuredExplanation": {
+      "summary": "Repeated measurements under controlled conditions support a cautious comparison.",
+      "hint": "Use evidence, not preference."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-031",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "A toy car travels 2 metres on tile but 80 centimetres on carpet from the same ramp. What is the best explanation?",
+    "audio_prompt": "A toy car travels 2 metres on tile but 80 centimetres on carpet from the same ramp. What is the best explanation?",
+    "audioPrompt": "A toy car travels 2 metres on tile but 80 centimetres on carpet from the same ramp. What is the best explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The car stopped being matter on carpet",
+        "is_correct": false
+      },
+      {
+        "text": "Tile made the car magnetic",
+        "is_correct": false
+      },
+      {
+        "text": "Carpet produced more friction and slowed the car sooner",
+        "is_correct": true
+      },
+      {
+        "text": "Gravity was absent on the tile",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The car stopped being matter on carpet",
+      "Tile made the car magnetic",
+      "Carpet produced more friction and slowed the car sooner",
+      "Gravity was absent on the tile"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The shorter travel distance on carpet suggests greater friction.",
+      "hint": "Same test, different surface."
+    },
+    "structuredExplanation": {
+      "summary": "The shorter travel distance on carpet suggests greater friction.",
+      "hint": "Same test, different surface."
+    },
+    "stage": "apply",
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-032",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "A student drops a rubber and says gravity started only after release. What is the best correction?",
+    "audio_prompt": "A student drops a rubber and says gravity started only after release. What is the best correction?",
+    "audioPrompt": "A student drops a rubber and says gravity started only after release. What is the best correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Gravity is a contact push",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity acted before and after release; the hand was supporting the rubber before release",
+        "is_correct": true
+      },
+      {
+        "text": "Gravity only works in air",
+        "is_correct": false
+      },
+      {
+        "text": "The hand created gravity",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Gravity is a contact push",
+      "Gravity acted before and after release; the hand was supporting the rubber before release",
+      "Gravity only works in air",
+      "The hand created gravity"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Gravity acts on the rubber while held and while falling, but support changes its motion.",
+      "hint": "Support does not switch gravity off."
+    },
+    "structuredExplanation": {
+      "summary": "Gravity acts on the rubber while held and while falling, but support changes its motion.",
+      "hint": "Support does not switch gravity off."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-033",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "You want to test whether ramp height affects car distance. What should you keep the same?",
+    "audio_prompt": "You want to test whether ramp height affects car distance. What should you keep the same?",
+    "audioPrompt": "You want to test whether ramp height affects car distance. What should you keep the same?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Car, surface and release method",
+        "is_correct": true
+      },
+      {
+        "text": "Car, surface and ramp height",
+        "is_correct": false
+      },
+      {
+        "text": "Distance travelled and colour",
+        "is_correct": false
+      },
+      {
+        "text": "All variables including the one being tested",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Car, surface and release method",
+      "Car, surface and ramp height",
+      "Distance travelled and colour",
+      "All variables including the one being tested"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A fair test changes ramp height and controls other relevant factors.",
+      "hint": "Keep non-tested factors same."
+    },
+    "structuredExplanation": {
+      "summary": "A fair test changes ramp height and controls other relevant factors.",
+      "hint": "Keep non-tested factors same."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-034",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "A magnet attracts a steel pin but not a plastic button. What does this show?",
+    "audio_prompt": "A magnet attracts a steel pin but not a plastic button. What does this show?",
+    "audioPrompt": "A magnet attracts a steel pin but not a plastic button. What does this show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "All materials are magnetic",
+        "is_correct": false
+      },
+      {
+        "text": "Plastic is a stronger magnet",
+        "is_correct": false
+      },
+      {
+        "text": "Friction caused the attraction",
+        "is_correct": false
+      },
+      {
+        "text": "Magnetic force depends on the material",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "All materials are magnetic",
+      "Plastic is a stronger magnet",
+      "Friction caused the attraction",
+      "Magnetic force depends on the material"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Common magnets attract some materials but not others.",
+      "hint": "Material matters."
+    },
+    "structuredExplanation": {
+      "summary": "Common magnets attract some materials but not others.",
+      "hint": "Material matters."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-035",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "A skateboard slows on rough concrete. Which force is most responsible?",
+    "audio_prompt": "A skateboard slows on rough concrete. Which force is most responsible?",
+    "audioPrompt": "A skateboard slows on rough concrete. Which force is most responsible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Precipitation under the wheels",
+        "is_correct": false
+      },
+      {
+        "text": "Light pushing backward",
+        "is_correct": false
+      },
+      {
+        "text": "Friction opposing the motion",
+        "is_correct": true
+      },
+      {
+        "text": "Magnetism from the sky",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Precipitation under the wheels",
+      "Light pushing backward",
+      "Friction opposing the motion",
+      "Magnetism from the sky"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Friction between wheels and concrete resists motion.",
+      "hint": "Contact resistance."
+    },
+    "structuredExplanation": {
+      "summary": "Friction between wheels and concrete resists motion.",
+      "hint": "Contact resistance."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-036",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "A class gets distances of 85 cm, 82 cm and 87 cm for the same surface. Why repeat trials?",
+    "audio_prompt": "A class gets distances of 85 cm, 82 cm and 87 cm for the same surface. Why repeat trials?",
+    "audioPrompt": "A class gets distances of 85 cm, 82 cm and 87 cm for the same surface. Why repeat trials?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Repeats prove the prediction before testing",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated trials help judge the usual result despite small variations",
+        "is_correct": true
+      },
+      {
+        "text": "Repeats make gravity stronger",
+        "is_correct": false
+      },
+      {
+        "text": "Repeats remove the need to measure",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Repeats prove the prediction before testing",
+      "Repeated trials help judge the usual result despite small variations",
+      "Repeats make gravity stronger",
+      "Repeats remove the need to measure"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Motion tests can vary, so repeats improve confidence in the pattern.",
+      "hint": "Check reliability."
+    },
+    "structuredExplanation": {
+      "summary": "Motion tests can vary, so repeats improve confidence in the pattern.",
+      "hint": "Check reliability."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-037",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "Two magnets push apart when brought near each other. Which explanation fits?",
+    "audio_prompt": "Two magnets push apart when brought near each other. Which explanation fits?",
+    "audioPrompt": "Two magnets push apart when brought near each other. Which explanation fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Like poles can repel without touching",
+        "is_correct": true
+      },
+      {
+        "text": "Friction between the magnets pulls them together",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity changes into sound",
+        "is_correct": false
+      },
+      {
+        "text": "All poles attract only",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Like poles can repel without touching",
+      "Friction between the magnets pulls them together",
+      "Gravity changes into sound",
+      "All poles attract only"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Like magnetic poles can exert a repelling force across a gap.",
+      "hint": "Repel across distance."
+    },
+    "structuredExplanation": {
+      "summary": "Like magnetic poles can exert a repelling force across a gap.",
+      "hint": "Repel across distance."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-038",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "A box is pushed across lino and then carpet with the same push. It stops sooner on carpet. What changed?",
+    "audio_prompt": "A box is pushed across lino and then carpet with the same push. It stops sooner on carpet. What changed?",
+    "audioPrompt": "A box is pushed across lino and then carpet with the same push. It stops sooner on carpet. What changed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The box became a producer",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity stopped on lino",
+        "is_correct": false
+      },
+      {
+        "text": "The push changed into heat only",
+        "is_correct": false
+      },
+      {
+        "text": "The surface, which affected friction",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The box became a producer",
+      "Gravity stopped on lino",
+      "The push changed into heat only",
+      "The surface, which affected friction"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The carpet surface likely increased friction compared with lino.",
+      "hint": "Surface affects resistance."
+    },
+    "structuredExplanation": {
+      "summary": "The carpet surface likely increased friction compared with lino.",
+      "hint": "Surface affects resistance."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-039",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "A student measures magnet attraction using a different paperclip each time. Why is this a problem?",
+    "audio_prompt": "A student measures magnet attraction using a different paperclip each time. Why is this a problem?",
+    "audioPrompt": "A student measures magnet attraction using a different paperclip each time. Why is this a problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It proves all metals are magnetic",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the changed variable",
+        "is_correct": false
+      },
+      {
+        "text": "Changing the paperclip could affect the result, so the comparison is less fair",
+        "is_correct": true
+      },
+      {
+        "text": "Different paperclips make the test safer automatically",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It proves all metals are magnetic",
+      "It removes the changed variable",
+      "Changing the paperclip could affect the result, so the comparison is less fair",
+      "Different paperclips make the test safer automatically"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Uncontrolled material differences can influence magnet tests.",
+      "hint": "Control the object being attracted."
+    },
+    "structuredExplanation": {
+      "summary": "Uncontrolled material differences can influence magnet tests.",
+      "hint": "Control the object being attracted."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U03-P-040",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional_gravitational_and_magnetic_forces",
+    "question": "A ball rolls to the right while slowing down. Which force direction best represents friction?",
+    "audio_prompt": "A ball rolls to the right while slowing down. Which force direction best represents friction?",
+    "audioPrompt": "A ball rolls to the right while slowing down. Which force direction best represents friction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "No direction because it is invisible",
+        "is_correct": false
+      },
+      {
+        "text": "To the left, opposite the motion",
+        "is_correct": true
+      },
+      {
+        "text": "To the right, speeding it up",
+        "is_correct": false
+      },
+      {
+        "text": "Straight upward as gravity",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "No direction because it is invisible",
+      "To the left, opposite the motion",
+      "To the right, speeding it up",
+      "Straight upward as gravity"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Friction commonly acts opposite the direction of sliding or rolling motion.",
+      "hint": "Opposes motion."
+    },
+    "structuredExplanation": {
+      "summary": "Friction commonly acts opposite the direction of sliding or rolling motion.",
+      "hint": "Opposes motion."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-001",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A museum activity card says, “push or pull between objects”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “push or pull between objects”. Which scientific term belongs on the card?",
+    "question": "A student rubs an eraser across paper and it slows. Which force resists the motion?",
+    "audio_prompt": "A student rubs an eraser across paper and it slows. Which force resists the motion?",
+    "audioPrompt": "A student rubs an eraser across paper and it slows. Which force resists the motion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-001",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A museum activity card says, “push or pull between objects”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "friction",
+        "text": "Magnetic force",
         "is_correct": false
       },
       {
-        "text": "force",
+        "text": "Condensation",
+        "is_correct": false
+      },
+      {
+        "text": "Friction",
         "is_correct": true
       },
       {
-        "text": "gravity",
+        "text": "Gravity only",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Magnetic force",
+      "Condensation",
+      "Friction",
+      "Gravity only"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "force is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Friction between the eraser and paper resists sliding.",
+      "hint": "Rubbing surfaces."
+    },
+    "structuredExplanation": {
+      "summary": "Friction between the eraser and paper resists sliding.",
+      "hint": "Rubbing surfaces."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A museum activity card says, “contact force that resists relative motion”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “contact force that resists relative motion”. Which scientific term belongs on the card?",
+    "question": "A dropped tennis ball falls toward the ground. Which force causes this downward motion?",
+    "audio_prompt": "A dropped tennis ball falls toward the ground. Which force causes this downward motion?",
+    "audioPrompt": "A dropped tennis ball falls toward the ground. Which force causes this downward motion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-002",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A museum activity card says, “contact force that resists relative motion”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "gravity",
+        "text": "Sound from the bounce",
         "is_correct": false
       },
       {
-        "text": "magnetic force",
-        "is_correct": false
-      },
-      {
-        "text": "friction",
+        "text": "Gravity",
         "is_correct": true
+      },
+      {
+        "text": "Friction from the grass only",
+        "is_correct": false
+      },
+      {
+        "text": "Magnetism from the net",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Sound from the bounce",
+      "Gravity",
+      "Friction from the grass only",
+      "Magnetism from the net"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "friction is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Gravity pulls objects near Earth downward.",
+      "hint": "Downward attraction."
+    },
+    "structuredExplanation": {
+      "summary": "Gravity pulls objects near Earth downward.",
+      "hint": "Downward attraction."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A museum activity card says, “attractive force between masses, observed near Earth as downward pull”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “attractive force between masses, observed near Earth as downward pull”. Which scientific term belongs on the card?",
+    "question": "Which investigation best compares magnet strength at different distances?",
+    "audio_prompt": "Which investigation best compares magnet strength at different distances?",
+    "audioPrompt": "Which investigation best compares magnet strength at different distances?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-003",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A museum activity card says, “attractive force between masses, observed near Earth as downward pull”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "gravity",
+        "text": "Use the same magnet and paperclip while changing only the gap",
         "is_correct": true
       },
       {
-        "text": "magnetic force",
+        "text": "Use different magnets and different clips each time",
         "is_correct": false
       },
       {
-        "text": "motion",
+        "text": "Change the surface and the distance together",
+        "is_correct": false
+      },
+      {
+        "text": "Guess the distance by colour",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Use the same magnet and paperclip while changing only the gap",
+      "Use different magnets and different clips each time",
+      "Change the surface and the distance together",
+      "Guess the distance by colour"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "gravity is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "A fair distance test changes the gap and controls the materials.",
+      "hint": "One changed variable."
+    },
+    "structuredExplanation": {
+      "summary": "A fair distance test changes the gap and controls the materials.",
+      "hint": "One changed variable."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A museum activity card says, “attraction or repulsion involving magnets”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “attraction or repulsion involving magnets”. Which scientific term belongs on the card?",
+    "question": "Why might a sled move farther on smooth plastic than rough grass?",
+    "audio_prompt": "Why might a sled move farther on smooth plastic than rough grass?",
+    "audioPrompt": "Why might a sled move farther on smooth plastic than rough grass?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-004",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A museum activity card says, “attraction or repulsion involving magnets”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "motion",
+        "text": "Gravity is stronger on grass only",
         "is_correct": false
       },
       {
-        "text": "magnetic force",
+        "text": "Plastic is always magnetic",
+        "is_correct": false
+      },
+      {
+        "text": "Grass turns motion into water",
+        "is_correct": false
+      },
+      {
+        "text": "The smooth plastic may produce less friction",
         "is_correct": true
-      },
-      {
-        "text": "force",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Gravity is stronger on grass only",
+      "Plastic is always magnetic",
+      "Grass turns motion into water",
+      "The smooth plastic may produce less friction"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "magnetic force is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Less friction lets the sled travel farther under similar starting conditions.",
+      "hint": "Less resistance."
+    },
+    "structuredExplanation": {
+      "summary": "Less friction lets the sled travel farther under similar starting conditions.",
+      "hint": "Less resistance."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A museum activity card says, “change in position over time”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “change in position over time”. Which scientific term belongs on the card?",
+    "question": "Which object is most likely attracted by a common magnet?",
+    "audio_prompt": "Which object is most likely attracted by a common magnet?",
+    "audioPrompt": "Which object is most likely attracted by a common magnet?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-005",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A museum activity card says, “change in position over time”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "force",
+        "text": "Rubber band",
         "is_correct": false
       },
       {
-        "text": "friction",
+        "text": "Paper worksheet",
         "is_correct": false
       },
       {
-        "text": "motion",
+        "text": "Iron nail",
         "is_correct": true
+      },
+      {
+        "text": "Glass marble",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Rubber band",
+      "Paper worksheet",
+      "Iron nail",
+      "Glass marble"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "motion is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Iron is strongly attracted to common magnets.",
+      "hint": "Magnetic material."
+    },
+    "structuredExplanation": {
+      "summary": "Iron is strongly attracted to common magnets.",
+      "hint": "Magnetic material."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A different class records this conclusion: “A moving object must have a forward force”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “A moving object must have a forward force”. Which feedback would improve it most?",
+    "question": "A chair is still on the floor. Which statement is best?",
+    "audio_prompt": "A chair is still on the floor. Which statement is best?",
+    "audioPrompt": "A chair is still on the floor. Which statement is best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-006",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A different class records this conclusion: “A moving object must have a forward force”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "An object can continue moving while forces are balanced or after a push ends, although friction may slow it.",
+        "text": "Friction makes the chair weightless",
+        "is_correct": false
+      },
+      {
+        "text": "Forces can act even when the chair is not moving",
         "is_correct": true
       },
       {
-        "text": "A moving object must have a forward force",
+        "text": "No forces act on still objects",
         "is_correct": false
       },
       {
-        "text": "Gravity only acts while falling",
+        "text": "Gravity only acts when falling",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Friction makes the chair weightless",
+      "Forces can act even when the chair is not moving",
+      "No forces act on still objects",
+      "Gravity only acts when falling"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "An object can continue moving while forces are balanced or after a push ends, although friction may slow it.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Still objects can have forces balanced or opposed by supports.",
+      "hint": "Still can have forces."
+    },
+    "structuredExplanation": {
+      "summary": "Still objects can have forces balanced or opposed by supports.",
+      "hint": "Still can have forces."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A different class records this conclusion: “Gravity only acts while falling”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Gravity only acts while falling”. Which feedback would improve it most?",
+    "question": "Two north poles of magnets are pushed close together. What may happen?",
+    "audio_prompt": "Two north poles of magnets are pushed close together. What may happen?",
+    "audioPrompt": "Two north poles of magnets are pushed close together. What may happen?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-007",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A different class records this conclusion: “Gravity only acts while falling”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Gravity only acts while falling",
-        "is_correct": false
-      },
-      {
-        "text": "Gravity acts on objects whether they are falling, supported or moving sideways.",
+        "text": "They repel",
         "is_correct": true
       },
       {
-        "text": "All metals are magnetic",
+        "text": "They evaporate",
+        "is_correct": false
+      },
+      {
+        "text": "They become wood",
+        "is_correct": false
+      },
+      {
+        "text": "They lose all gravity",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "They repel",
+      "They evaporate",
+      "They become wood",
+      "They lose all gravity"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Gravity acts on objects whether they are falling, supported or moving sideways.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Like magnetic poles can repel each other.",
+      "hint": "Like poles."
+    },
+    "structuredExplanation": {
+      "summary": "Like magnetic poles can repel each other.",
+      "hint": "Like poles."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A different class records this conclusion: “All metals are magnetic”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “All metals are magnetic”. Which feedback would improve it most?",
+    "question": "Which answer names one contact force and one non-contact force?",
+    "audio_prompt": "Which answer names one contact force and one non-contact force?",
+    "audioPrompt": "Which answer names one contact force and one non-contact force?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-008",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A different class records this conclusion: “All metals are magnetic”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "All metals are magnetic",
+        "text": "Friction and rubbing only",
         "is_correct": false
       },
       {
-        "text": "A fair test changes several things",
+        "text": "Gravity and magnetism only as contact forces",
         "is_correct": false
       },
       {
-        "text": "Only some materials, such as iron and many steels, respond strongly to common magnets.",
+        "text": "Sound and colour",
+        "is_correct": false
+      },
+      {
+        "text": "Friction and magnetic force",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Friction and rubbing only",
+      "Gravity and magnetism only as contact forces",
+      "Sound and colour",
+      "Friction and magnetic force"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Only some materials, such as iron and many steels, respond strongly to common magnets.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Friction needs contact; magnetic force can act across a gap.",
+      "hint": "Touch and no touch."
+    },
+    "structuredExplanation": {
+      "summary": "Friction needs contact; magnetic force can act across a gap.",
+      "hint": "Touch and no touch."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A different class records this conclusion: “A fair test changes several things”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “A fair test changes several things”. Which feedback would improve it most?",
+    "question": "A toy car travels different distances in three trials on the same ramp. What should the class do?",
+    "audio_prompt": "A toy car travels different distances in three trials on the same ramp. What should the class do?",
+    "audioPrompt": "A toy car travels different distances in three trials on the same ramp. What should the class do?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-009",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A different class records this conclusion: “A fair test changes several things”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Change one tested factor and control the others.",
+        "text": "Change the car every time",
+        "is_correct": false
+      },
+      {
+        "text": "Stop measuring distance",
+        "is_correct": false
+      },
+      {
+        "text": "Record repeats and compare the pattern or average",
         "is_correct": true
       },
       {
-        "text": "A fair test changes several things",
-        "is_correct": false
-      },
-      {
-        "text": "A moving object must have a forward force",
+        "text": "Keep only the favourite number",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Change the car every time",
+      "Stop measuring distance",
+      "Record repeats and compare the pattern or average",
+      "Keep only the favourite number"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Change one tested factor and control the others.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Repeated trials help deal with variation in motion data.",
+      "hint": "Use all repeats."
+    },
+    "structuredExplanation": {
+      "summary": "Repeated trials help deal with variation in motion data.",
+      "hint": "Use all repeats."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A new field-note example asks: Which force usually opposes a sliding object?",
-    "audio_prompt": "A new field-note example asks: Which force usually opposes a sliding object?",
+    "question": "Which statement about a rolling marble is most accurate?",
+    "audio_prompt": "Which statement about a rolling marble is most accurate?",
+    "audioPrompt": "Which statement about a rolling marble is most accurate?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-010",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A new field-note example asks: Which force usually opposes a sliding object?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "magnetism only",
+        "text": "It is moved only by magnetism",
         "is_correct": false
       },
       {
-        "text": "friction",
+        "text": "It can keep moving after the push, then friction may slow it",
         "is_correct": true
       },
       {
-        "text": "light",
+        "text": "It needs a hand pushing it every second",
+        "is_correct": false
+      },
+      {
+        "text": "Gravity stops existing while it rolls",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "It is moved only by magnetism",
+      "It can keep moving after the push, then friction may slow it",
+      "It needs a hand pushing it every second",
+      "Gravity stops existing while it rolls"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "friction",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "An object can continue moving after a push, while other forces affect it.",
+      "hint": "Push can end before motion ends."
+    },
+    "structuredExplanation": {
+      "summary": "An object can continue moving after a push, while other forces affect it.",
+      "hint": "Push can end before motion ends."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A new design task asks: Which investigation is fairest for comparing surfaces?",
-    "audio_prompt": "A new design task asks: Which investigation is fairest for comparing surfaces?",
+    "question": "A group tests carpet with a heavy truck and tiles with a light car. Why is the comparison weak?",
+    "audio_prompt": "A group tests carpet with a heavy truck and tiles with a light car. Why is the comparison weak?",
+    "audioPrompt": "A group tests carpet with a heavy truck and tiles with a light car. Why is the comparison weak?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-011",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A new design task asks: Which investigation is fairest for comparing surfaces?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Change the object and surface together",
-        "is_correct": false
-      },
-      {
-        "text": "Push harder on rough surfaces",
-        "is_correct": false
-      },
-      {
-        "text": "Use the same object, slope and release point on each surface",
+        "text": "They changed both object and surface",
         "is_correct": true
+      },
+      {
+        "text": "They measured too carefully",
+        "is_correct": false
+      },
+      {
+        "text": "They repeated too many times",
+        "is_correct": false
+      },
+      {
+        "text": "They used only contact forces",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "They changed both object and surface",
+      "They measured too carefully",
+      "They repeated too many times",
+      "They used only contact forces"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Use the same object, slope and release point on each surface",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "Changing more than one important factor makes it hard to know what caused the result.",
+      "hint": "More than one variable changed."
+    },
+    "structuredExplanation": {
+      "summary": "Changing more than one important factor makes it hard to know what caused the result.",
+      "hint": "More than one variable changed."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A new group wants to adapt “Surface-friction test”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Surface-friction test”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which force usually points opposite a sliding block’s motion?",
+    "audio_prompt": "Which force usually points opposite a sliding block’s motion?",
+    "audioPrompt": "Which force usually points opposite a sliding block’s motion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-012",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A new group wants to adapt “Surface-friction test”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Release the same block or toy from the same point onto different surfaces and compare travel distance.",
+        "text": "Gravity always sideways",
+        "is_correct": false
+      },
+      {
+        "text": "Light",
+        "is_correct": false
+      },
+      {
+        "text": "Magnetism only upward",
+        "is_correct": false
+      },
+      {
+        "text": "Friction",
         "is_correct": true
-      },
-      {
-        "text": "Begin surface-friction test, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out surface-friction test once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Gravity always sideways",
+      "Light",
+      "Magnetism only upward",
+      "Friction"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Release the same block or toy from the same point onto different surfaces and compare travel distance.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Friction commonly acts opposite sliding motion.",
+      "hint": "Opposes sliding."
+    },
+    "structuredExplanation": {
+      "summary": "Friction commonly acts opposite sliding motion.",
+      "hint": "Opposes sliding."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A new group wants to adapt “Magnetic-distance test”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Magnetic-distance test”. Which method keeps the investigation focused and reviewable?",
+    "question": "A paperclip jumps to a magnet before touching it. What does this show?",
+    "audio_prompt": "A paperclip jumps to a magnet before touching it. What does this show?",
+    "audioPrompt": "A paperclip jumps to a magnet before touching it. What does this show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-013",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A new group wants to adapt “Magnetic-distance test”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin magnetic-distance test, change two important conditions together, then compare only the preferred observation.",
+        "text": "The paperclip made its own food",
         "is_correct": false
       },
       {
-        "text": "Increase the gap between a magnet and a paperclip, record the greatest attraction distance and repeat.",
+        "text": "Gravity stopped acting",
+        "is_correct": false
+      },
+      {
+        "text": "Magnetic force can act across a distance",
         "is_correct": true
       },
       {
-        "text": "Carry out magnetic-distance test once, omit the measurements and report the original prediction as the result.",
+        "text": "Friction pulled it through air",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The paperclip made its own food",
+      "Gravity stopped acting",
+      "Magnetic force can act across a distance",
+      "Friction pulled it through air"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Increase the gap between a magnet and a paperclip, record the greatest attraction distance and repeat.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Magnetic attraction can work without contact.",
+      "hint": "Across a gap."
+    },
+    "structuredExplanation": {
+      "summary": "Magnetic attraction can work without contact.",
+      "hint": "Across a gap."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A new group wants to adapt “Force-arrow diagrams”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Force-arrow diagrams”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which fair-test control matters when comparing ramp heights?",
+    "audio_prompt": "Which fair-test control matters when comparing ramp heights?",
+    "audioPrompt": "Which fair-test control matters when comparing ramp heights?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-014",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A new group wants to adapt “Force-arrow diagrams”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin force-arrow diagrams, change two important conditions together, then compare only the preferred observation.",
+        "text": "Change surface and height together",
         "is_correct": false
       },
       {
-        "text": "Carry out force-arrow diagrams once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Draw arrows showing direction and relative size of forces in a falling, sliding or stationary situation.",
+        "text": "Use the same car and release method",
         "is_correct": true
+      },
+      {
+        "text": "Use a new car each height",
+        "is_correct": false
+      },
+      {
+        "text": "Measure distance differently each height",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Change surface and height together",
+      "Use the same car and release method",
+      "Use a new car each height",
+      "Measure distance differently each height"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Draw arrows showing direction and relative size of forces in a falling, sliding or stationary situation.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Keeping the car and release the same helps isolate ramp height.",
+      "hint": "Control other factors."
+    },
+    "structuredExplanation": {
+      "summary": "Keeping the car and release the same helps isolate ramp height.",
+      "hint": "Control other factors."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A new frictional, gravitational and magnetic forces investigation reports “Does surface affect slide distance?”. Which conclusion is best supported by the display?",
-    "audio_prompt": "A new frictional, gravitational and magnetic forces investigation reports “Does surface affect slide distance?”. Which conclusion is best supported by the display?",
+    "question": "Why is “all shiny metals are magnetic” unreliable?",
+    "audio_prompt": "Why is “all shiny metals are magnetic” unreliable?",
+    "audioPrompt": "Why is “all shiny metals are magnetic” unreliable?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-015",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A new frictional, gravitational and magnetic forces investigation reports “Does surface affect slide distance?”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "surface material because distance travelled because object, slope, start point",
+        "text": "Shininess does not show whether a material is attracted by a magnet",
         "is_correct": true
       },
       {
-        "text": "gap because maximum attraction distance because magnets, object",
+        "text": "Shiny objects are never metal",
         "is_correct": false
       },
       {
-        "text": "height because time or distance because car, surface, release",
+        "text": "Magnets only attract plastic",
+        "is_correct": false
+      },
+      {
+        "text": "All non-shiny objects are magnets",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Shininess does not show whether a material is attracted by a magnet",
+      "Shiny objects are never metal",
+      "Magnets only attract plastic",
+      "All non-shiny objects are magnets"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Does surface affect slide distance? is linked to surface material because distance travelled because object, slope, start point.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+      "summary": "Magnetic response depends on material, not appearance alone.",
+      "hint": "Test material, not shine."
+    },
+    "structuredExplanation": {
+      "summary": "Magnetic response depends on material, not appearance alone.",
+      "hint": "Test material, not shine."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4U03-T-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4U03",
+    "curriculumCode": "AC9S4U03",
     "bank": "test",
     "skill": "frictional_gravitational_and_magnetic_forces",
-    "question": "A new frictional, gravitational and magnetic forces investigation reports “Does magnet distance affect attraction?”. Which conclusion is best supported by the display?",
-    "audio_prompt": "A new frictional, gravitational and magnetic forces investigation reports “Does magnet distance affect attraction?”. Which conclusion is best supported by the display?",
+    "question": "A netball changes direction when a player pushes it sideways. What did the force do?",
+    "audio_prompt": "A netball changes direction when a player pushes it sideways. What did the force do?",
+    "audioPrompt": "A netball changes direction when a player pushes it sideways. What did the force do?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03.svg#ac9s4u03-t-016",
-      "alt_text": "A force diagram showing friction, gravity and magnetic force directions. Question context: A new frictional, gravitational and magnetic forces investigation reports “Does magnet distance affect attraction?”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "surface material because distance travelled because object, slope, start point",
+        "text": "Removed all motion forever",
         "is_correct": false
       },
       {
-        "text": "gap because maximum attraction distance because magnets, object",
+        "text": "Made gravity disappear",
+        "is_correct": false
+      },
+      {
+        "text": "Changed the ball into a magnet",
+        "is_correct": false
+      },
+      {
+        "text": "Changed the ball’s direction of motion",
         "is_correct": true
-      },
-      {
-        "text": "height because time or distance because car, surface, release",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Removed all motion forever",
+      "Made gravity disappear",
+      "Changed the ball into a magnet",
+      "Changed the ball’s direction of motion"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Does magnet distance affect attraction? is linked to gap because maximum attraction distance because magnets, object.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+      "summary": "A sideways push can change an object’s direction.",
+      "hint": "Forces can change direction."
+    },
+    "structuredExplanation": {
+      "summary": "A sideways push can change an object’s direction.",
+      "hint": "Forces can change direction."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]
