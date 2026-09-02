@@ -2,11 +2,12 @@ import fs from'node:fs';import path from'node:path';
 import * as sfi03 from'./foundation_science_actual/ac9sfi03_authored.mjs';
 import * as sfi04 from'./foundation_science_actual/ac9sfi04_authored.mjs';
 import * as sfi05 from'./foundation_science_actual/ac9sfi05_authored.mjs';
+import {test as sfi05Test} from'./foundation_science_actual/ac9sfi05_test_authored.mjs';
 import * as sfu01 from'./foundation_science_actual/ac9sfu01_authored.mjs';
 import * as sfu02 from'./foundation_science_actual/ac9sfu02_authored.mjs';
 import * as sfu03 from'./foundation_science_actual/ac9sfu03_authored.mjs';
 const root=process.cwd();
-const banks={AC9SFI03:[sfi03,'record observations and identify patterns'],AC9SFI04:[sfi04,'compare observations with predictions'],AC9SFI05:[sfi05,'share science questions predictions observations and ideas'],AC9SFU01:[sfu01,'observe and group plant and animal external features'],AC9SFU02:[sfu02,'describe how size shape and material influence movement'],AC9SFU03:[sfu03,'recognise objects materials and observable properties']};
+const banks={AC9SFI03:[sfi03,'record observations and identify patterns'],AC9SFI04:[sfi04,'compare observations with predictions'],AC9SFI05:[{practice:sfi05.practice,test:sfi05Test},'share science questions predictions observations and ideas'],AC9SFU01:[sfu01,'observe and group plant and animal external features'],AC9SFU02:[sfu02,'describe how size shape and material influence movement'],AC9SFU03:[sfu03,'recognise objects materials and observable properties']};
 const stages=['recognise','explain','discriminate','apply'],norm=s=>s.toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
 function rotateAnswers(a,c,shift){const out=[];for(let j=0;j<a.length;j++)out.push(a[(j-shift+4)%4]);return[out,(c+shift)%4]}
 for(const [code,[src,skill]] of Object.entries(banks)){
