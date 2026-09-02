@@ -98,8 +98,8 @@ for (const code of codes) {
     const questionWindow = { location:{ pathname:`/${questionFile}` } };
     new vm.Script(read(questionFile), { filename:questionFile }).runInNewContext({ window:questionWindow });
     const bank = isPractice ? questionWindow.skillrPracticeQuestions : questionWindow.skillrTestQuestions;
-    const expectedBankLength = isPractice ? 24 : 16;
-    assert(Array.isArray(bank) && bank.length === expectedBankLength, `${code} ${mode}: expected preserved ${expectedBankLength}-question bank`);
+    const expectedBankLength = isPractice ? 40 : 16;
+    assert(Array.isArray(bank) && bank.length === expectedBankLength, `${code} ${mode}: expected actual ${expectedBankLength}-question bank`);
     assert(bank?.every((question) => question.curriculumCode === code), `${code} ${mode}: bank contains another code`);
     assert(new Set((bank || []).map((question) => question.id)).size === expectedBankLength, `${code} ${mode}: question IDs must stay unique`);
   }
