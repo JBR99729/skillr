@@ -1,3 +1,4 @@
+// Year 7 actual-bank validation: counts, progression, context separation and answer integrity.
 import fs from 'node:fs';
 import path from 'node:path';
 import vm from 'node:vm';
