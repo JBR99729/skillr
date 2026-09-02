@@ -1,469 +1,435 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9s2i01-t-001",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "What normally comes after posing a question?",
-    "audioPrompt": "What normally comes after posing a question?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: What normally comes after posing a question?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: What normally comes after posing a question?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-001",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: What normally comes after posing a question?"
-    },
+    "question": "A child notices wet clothes dry faster outdoors on breezy days. Which question could investigate the pattern?",
+    "audioPrompt": "A child notices wet clothes dry faster outdoors on breezy days. Which question could investigate the pattern?",
+    "visual": "",
     "answers": [
-      "write the result before testing",
-      "make a reasoned prediction",
-      "change every factor"
+      "Do clothes like being outside?",
+      "Why is blue a good colour?",
+      "Does moving air affect how quickly the same wet cloth dries?",
+      "Is wind the best weather?"
     ],
-    "correct": 1,
-    "explanation": "A prediction states the expected outcome before investigation.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Drying time can be observed while moving air is compared.\nHint: Choose the question with measurable evidence.",
     "structuredExplanation": {
-      "summary": "A prediction states the expected outcome before investigation.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Drying time can be observed while moving air is compared.",
+      "hint": "Choose the question with measurable evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-002",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student answers “write the result before testing”. Read the evidence in this question and choose the better answer: What normally comes after posing a question?",
-    "audioPrompt": "A student answers “write the result before testing”. Read the evidence in this question and choose the better answer: What normally comes after posing a question?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: What normally comes after posing a question?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: What normally comes after posing a question?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-002",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: What normally comes after posing a question?"
-    },
+    "question": "Two identical ice cubes are placed in sun and shade. Which is the best prediction before starting?",
+    "audioPrompt": "Two identical ice cubes are placed in sun and shade. Which is the best prediction before starting?",
+    "visual": "",
     "answers": [
-      "write the result before testing",
-      "change every factor",
-      "make a reasoned prediction"
+      "Sunlight will make the cube larger forever.",
+      "The cube in sunlight may melt faster because it receives more heating.",
+      "Both cubes must melt in exactly 10 seconds.",
+      "The shaded cube will turn into metal."
     ],
-    "correct": 2,
-    "explanation": "A prediction states the expected outcome before investigation.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 1,
+    "explanation": "A good prediction states an expected result and a relevant reason.\nHint: Look for an expected result plus why.",
     "structuredExplanation": {
-      "summary": "A prediction states the expected outcome before investigation.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "A good prediction states an expected result and a relevant reason.",
+      "hint": "Look for an expected result plus why."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-003",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which reason is strongest?",
-    "audioPrompt": "Which reason is strongest?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: Which reason is strongest?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: Which reason is strongest?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-003",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which reason is strongest?"
-    },
+    "question": "A class sees more birds near a feeder in the morning than at lunch. Which follow-up question is testable?",
+    "audioPrompt": "A class sees more birds near a feeder in the morning than at lunch. Which follow-up question is testable?",
+    "visual": "",
     "answers": [
-      "I observed the same pattern on three days",
-      "I chose randomly",
-      "my friend likes it"
+      "Are more birds counted at the feeder in the morning than at lunch over several days?",
+      "Which bird has the nicest song?",
+      "Do birds enjoy mornings?",
+      "Why are birds clever?"
     ],
     "correct": 0,
-    "explanation": "Repeated relevant observation is evidence.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Bird counts at set times can be observed and compared.\nHint: Choose a question that tells you what to count.",
     "structuredExplanation": {
-      "summary": "Repeated relevant observation is evidence.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Bird counts at set times can be observed and compared.",
+      "hint": "Choose a question that tells you what to count."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-004",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student answers “I chose randomly”. Read the evidence in this question and choose the better answer: Which reason is strongest?",
-    "audioPrompt": "A student answers “I chose randomly”. Read the evidence in this question and choose the better answer: Which reason is strongest?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: Which reason is strongest?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: Which reason is strongest?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-004",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which reason is strongest?"
-    },
+    "question": "A student predicts a ball will bounce higher on concrete than grass. What evidence would test the prediction?",
+    "audioPrompt": "A student predicts a ball will bounce higher on concrete than grass. What evidence would test the prediction?",
+    "visual": "",
     "answers": [
-      "I chose randomly",
-      "I observed the same pattern on three days",
-      "my friend likes it"
+      "Record the ball colour only.",
+      "Ask which surface looks better.",
+      "Change the ball after every bounce.",
+      "Measure or compare the bounce height on each surface."
     ],
-    "correct": 1,
-    "explanation": "Repeated relevant observation is evidence.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "The prediction is about bounce height, so that is the outcome to observe.\nHint: Match the evidence to the prediction.",
     "structuredExplanation": {
-      "summary": "Repeated relevant observation is evidence.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "The prediction is about bounce height, so that is the outcome to observe.",
+      "hint": "Match the evidence to the prediction."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-005",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question is focused enough?",
-    "audioPrompt": "Which question is focused enough?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: Which question is focused enough?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: Which question is focused enough?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-005",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question is focused enough?"
-    },
+    "question": "A child asks whether larger paper planes fly farther. What must be clear before testing?",
+    "audioPrompt": "A child asks whether larger paper planes fly farther. What must be clear before testing?",
+    "visual": "",
     "answers": [
-      "How does everything affect everything?",
-      "Why is science?",
-      "Does cup material affect how quickly ice melts?"
+      "Which result the child wants.",
+      "How to make every plane a different shape and material.",
+      "What counts as larger and how flight distance will be compared.",
+      "Which plane is prettiest."
     ],
     "correct": 2,
-    "explanation": "It names one factor and one outcome.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Clear variables and observations make the question testable.\nHint: Identify what must be measured or controlled.",
     "structuredExplanation": {
-      "summary": "It names one factor and one outcome.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Clear variables and observations make the question testable.",
+      "hint": "Identify what must be measured or controlled."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-006",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student answers “How does everything affect everything?”. Read the evidence in this question and choose the better answer: Which question is focused enough?",
-    "audioPrompt": "A student answers “How does everything affect everything?”. Read the evidence in this question and choose the better answer: Which question is focused enough?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: Which question is focused enough?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: Which question is focused enough?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-006",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Which question is focused enough?"
-    },
+    "question": "A prediction says, “The dark fabric may warm faster in sunlight.” Which result would support it?",
+    "audioPrompt": "A prediction says, “The dark fabric may warm faster in sunlight.” Which result would support it?",
+    "visual": "",
     "answers": [
-      "Does cup material affect how quickly ice melts?",
-      "How does everything affect everything?",
-      "Why is science?"
+      "The thermometer is blue.",
+      "The dark fabric reaches a higher temperature sooner in the test.",
+      "The light fabric has a nicer pattern.",
+      "Both fabrics are the same size."
     ],
-    "correct": 0,
-    "explanation": "It names one factor and one outcome.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 1,
+    "explanation": "Supporting evidence must match the predicted outcome.\nHint: Look for the measured result connected to warming.",
     "structuredExplanation": {
-      "summary": "It names one factor and one outcome.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Supporting evidence must match the predicted outcome.",
+      "hint": "Look for the measured result connected to warming."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-007",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A pattern does not always prove cause. What should students do?",
-    "audioPrompt": "A pattern does not always prove cause. What should students do?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: A pattern does not always prove cause. What should students do?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: A pattern does not always prove cause. What should students do?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-007",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A pattern does not always prove cause. What should students do?"
-    },
+    "question": "A class observes that magnets pick up paper clips but not wooden craft sticks. Which prediction is reasonable?",
+    "audioPrompt": "A class observes that magnets pick up paper clips but not wooden craft sticks. Which prediction is reasonable?",
+    "visual": "",
     "answers": [
-      "announce cause immediately",
-      "test the relationship fairly",
-      "ignore observations"
+      "Another similar metal paper clip may also be attracted.",
+      "Every object in the room will be attracted.",
+      "Wood will always become metal.",
+      "The magnet will stop being a magnet after one use."
     ],
-    "correct": 1,
-    "explanation": "A fair investigation checks the proposed relationship.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "Predictions should stay close to the observed evidence.\nHint: Avoid an overgeneralised claim.",
     "structuredExplanation": {
-      "summary": "A fair investigation checks the proposed relationship.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Predictions should stay close to the observed evidence.",
+      "hint": "Avoid an overgeneralised claim."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-008",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student answers “announce cause immediately”. Read the evidence in this question and choose the better answer: A pattern does not always prove cause. What should students do?",
-    "audioPrompt": "A student answers “announce cause immediately”. Read the evidence in this question and choose the better answer: A pattern does not always prove cause. What should students do?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: A pattern does not always prove cause. What should students do?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: A pattern does not always prove cause. What should students do?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-008",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A pattern does not always prove cause. What should students do?"
-    },
+    "question": "Which question would need changing before it can be investigated scientifically?",
+    "audioPrompt": "Which question would need changing before it can be investigated scientifically?",
+    "visual": "",
     "answers": [
-      "announce cause immediately",
-      "ignore observations",
-      "test the relationship fairly"
+      "Which rock is heaviest?",
+      "Which rock is roughest to touch?",
+      "Which rock absorbs the most drops of water?",
+      "Which rock is the most beautiful?"
     ],
-    "correct": 2,
-    "explanation": "A fair investigation checks the proposed relationship.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "Beauty is mainly an opinion, while the other features can be observed or measured.\nHint: Choose the question based on personal preference.",
     "structuredExplanation": {
-      "summary": "A fair investigation checks the proposed relationship.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Beauty is mainly an opinion, while the other features can be observed or measured.",
+      "hint": "Choose the question based on personal preference."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-009",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Why write a prediction before testing?",
-    "audioPrompt": "Why write a prediction before testing?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: Why write a prediction before testing?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: Why write a prediction before testing?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-009",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Why write a prediction before testing?"
-    },
+    "question": "A student asks, “Does the amount of water affect plant growth?” Which prediction is best?",
+    "audioPrompt": "A student asks, “Does the amount of water affect plant growth?” Which prediction is best?",
+    "visual": "",
     "answers": [
-      "so it can be compared with the result",
-      "so it can be changed later",
-      "to avoid observing"
+      "Water always makes every plant grow fastest.",
+      "Plants do not need observations.",
+      "Plants given a suitable amount of water may grow more than plants given too little.",
+      "All plants given water will be exactly 20 cm tall."
     ],
-    "correct": 0,
-    "explanation": "A written prediction supports honest comparison.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "The prediction is cautious, testable and linked to plant needs.\nHint: Prefer a testable may statement.",
     "structuredExplanation": {
-      "summary": "A written prediction supports honest comparison.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "The prediction is cautious, testable and linked to plant needs.",
+      "hint": "Prefer a testable may statement."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-010",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student answers “so it can be changed later”. Read the evidence in this question and choose the better answer: Why write a prediction before testing?",
-    "audioPrompt": "A student answers “so it can be changed later”. Read the evidence in this question and choose the better answer: Why write a prediction before testing?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: Why write a prediction before testing?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: Why write a prediction before testing?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-010",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Why write a prediction before testing?"
-    },
+    "question": "A class notices a metal spoon feels cooler than a wooden spoon in the same room. What is a useful next question?",
+    "audioPrompt": "A class notices a metal spoon feels cooler than a wooden spoon in the same room. What is a useful next question?",
+    "visual": "",
     "answers": [
-      "so it can be changed later",
-      "so it can be compared with the result",
-      "to avoid observing"
+      "Why is metal shiny?",
+      "Do different materials feel equally cool when kept in the same place?",
+      "Which spoon has the best name?",
+      "Can spoons think?"
     ],
     "correct": 1,
-    "explanation": "A written prediction supports honest comparison.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "explanation": "The question follows directly from an observation and can be compared.\nHint: Use the observed difference to form the question.",
     "structuredExplanation": {
-      "summary": "A written prediction supports honest comparison.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "The question follows directly from an observation and can be compared.",
+      "hint": "Use the observed difference to form the question."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-011",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A test gives an unexpected result. What can happen next?",
-    "audioPrompt": "A test gives an unexpected result. What can happen next?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: A test gives an unexpected result. What can happen next?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: A test gives an unexpected result. What can happen next?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-011",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A test gives an unexpected result. What can happen next?"
-    },
+    "question": "A child predicts that adding more books to a toy bridge will make it bend more. Which result would not support the prediction?",
+    "audioPrompt": "A child predicts that adding more books to a toy bridge will make it bend more. Which result would not support the prediction?",
+    "visual": "",
     "answers": [
-      "hide the result",
-      "change it to match",
-      "pose a new question"
+      "The bridge bends less as more books are added.",
+      "The bridge bends more after each added book.",
+      "The bridge starts nearly straight.",
+      "The number of books is recorded."
     ],
-    "correct": 2,
-    "explanation": "Unexpected evidence can lead to further inquiry.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "A result in the opposite direction does not support the predicted pattern.\nHint: Look for the opposite outcome.",
     "structuredExplanation": {
-      "summary": "Unexpected evidence can lead to further inquiry.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "A result in the opposite direction does not support the predicted pattern.",
+      "hint": "Look for the opposite outcome."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-012",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student answers “hide the result”. Read the evidence in this question and choose the better answer: A test gives an unexpected result. What can happen next?",
-    "audioPrompt": "A student answers “hide the result”. Read the evidence in this question and choose the better answer: A test gives an unexpected result. What can happen next?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: A test gives an unexpected result. What can happen next?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: A test gives an unexpected result. What can happen next?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-012",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: A test gives an unexpected result. What can happen next?"
-    },
+    "question": "A class wants to ask whether sound becomes softer with distance. Which question is clearest?",
+    "audioPrompt": "A class wants to ask whether sound becomes softer with distance. Which question is clearest?",
+    "visual": "",
     "answers": [
-      "pose a new question",
-      "hide the result",
-      "change it to match"
+      "Is sound good?",
+      "Why is music fun?",
+      "Which student hears best?",
+      "How does the loudness heard change as the listener moves farther from the same sound source?"
     ],
-    "correct": 0,
-    "explanation": "Unexpected evidence can lead to further inquiry.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "The clear question identifies what changes and what is observed.\nHint: Look for distance and loudness in the same question.",
     "structuredExplanation": {
-      "summary": "Unexpected evidence can lead to further inquiry.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "The clear question identifies what changes and what is observed.",
+      "hint": "Look for distance and loudness in the same question."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-013",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "The class wants to compare two paper towels. Which question can they explore by observing or safely testing?",
-    "audioPrompt": "The class wants to compare two paper towels. Which question can they explore by observing or safely testing?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-013",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?"
-    },
+    "question": "A student writes a prediction after seeing the results. Why is this a problem?",
+    "audioPrompt": "A student writes a prediction after seeing the results. Why is this a problem?",
+    "visual": "",
     "answers": [
-      "Which towel is the happiest?",
-      "Which towel absorbs more water?",
-      "Which towel has the best name?"
+      "Results should always be changed to fit predictions.",
+      "The order never matters in science.",
+      "A prediction should be made before the test so it can be compared with the result.",
+      "Predictions are only allowed after results."
     ],
-    "correct": 1,
-    "explanation": "How much water each towel absorbs can be observed and compared.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Predictions are statements made before evidence from the test is known.\nHint: Think about when a prediction is made.",
     "structuredExplanation": {
-      "summary": "How much water each towel absorbs can be observed and compared.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Predictions are statements made before evidence from the test is known.",
+      "hint": "Think about when a prediction is made."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-014",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Which towel is the happiest?”. Read the evidence in this question and choose the better answer: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?",
-    "audioPrompt": "A student answers “Which towel is the happiest?”. Read the evidence in this question and choose the better answer: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-014",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: The class wants to compare two paper towels. Which question can they explore by observing or safely testing?"
-    },
+    "question": "A child notices a plant by the window leans toward the light. Which prediction could be checked?",
+    "audioPrompt": "A child notices a plant by the window leans toward the light. Which prediction could be checked?",
+    "visual": "",
     "answers": [
-      "Which towel is the happiest?",
-      "Which towel has the best name?",
-      "Which towel absorbs more water?"
+      "The window will move toward the plant.",
+      "If the pot is turned, new growth may bend toward the light again.",
+      "The plant will become a lamp.",
+      "Every leaf will fall immediately."
     ],
-    "correct": 2,
-    "explanation": "How much water each towel absorbs can be observed and compared.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 1,
+    "explanation": "The prediction extends the observed response to a new test.\nHint: Choose the idea that can be checked by observation.",
     "structuredExplanation": {
-      "summary": "How much water each towel absorbs can be observed and compared.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "The prediction extends the observed response to a new test.",
+      "hint": "Choose the idea that can be checked by observation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-015",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "Before testing two ramps, which sentence is a reasoned prediction?",
-    "audioPrompt": "Before testing two ramps, which sentence is a reasoned prediction?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: Before testing two ramps, which sentence is a reasoned prediction?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: Before testing two ramps, which sentence is a reasoned prediction?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-015",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Before testing two ramps, which sentence is a reasoned prediction?"
-    },
+    "question": "Which statement is a result rather than a prediction?",
+    "audioPrompt": "Which statement is a result rather than a prediction?",
+    "visual": "",
     "answers": [
-      "The higher ramp may make the car roll farther because it did last time",
-      "The car rolled 2 metres",
-      "The blue car is my favourite"
+      "The car travelled 85 cm on the smooth ramp.",
+      "The car may travel farther on the smooth ramp.",
+      "I think the smooth ramp will be faster.",
+      "The ball might bounce higher on concrete."
     ],
     "correct": 0,
-    "explanation": "A prediction states what may happen and gives a reason before testing.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "A result reports what was actually observed or measured.\nHint: Look for a completed measurement.",
     "structuredExplanation": {
-      "summary": "A prediction states what may happen and gives a reason before testing.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "A result reports what was actually observed or measured.",
+      "hint": "Look for a completed measurement."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i01-t-016",
     "curriculumCode": "AC9S2I01",
     "bank": "test",
-    "skill": "pose questions and predict",
+    "skill": "questions and reasoned predictions",
     "printable": true,
     "type": "single",
-    "question": "A student answers “The car rolled 2 metres”. Read the evidence in this question and choose the better answer: Before testing two ramps, which sentence is a reasoned prediction?",
-    "audioPrompt": "A student answers “The car rolled 2 metres”. Read the evidence in this question and choose the better answer: Before testing two ramps, which sentence is a reasoned prediction?",
-    "visual": "An observation leading to a testable question and a reasoned prediction. Question context: Before testing two ramps, which sentence is a reasoned prediction?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An observation leading to a testable question and a reasoned prediction. Question context: Before testing two ramps, which sentence is a reasoned prediction?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i01.svg#ac9s2i01-t-016",
-      "alt_text": "An observation leading to a testable question and a reasoned prediction. Question context: Before testing two ramps, which sentence is a reasoned prediction?"
-    },
+    "question": "A prediction is not supported by the results. What should the student do?",
+    "audioPrompt": "A prediction is not supported by the results. What should the student do?",
+    "visual": "",
     "answers": [
-      "The car rolled 2 metres",
-      "The higher ramp may make the car roll farther because it did last time",
-      "The blue car is my favourite"
+      "Change the result to match the prediction.",
+      "Hide the result.",
+      "Repeat until the preferred answer appears.",
+      "Record the result accurately and explain that the prediction was not supported."
     ],
-    "correct": 1,
-    "explanation": "A prediction states what may happen and gives a reason before testing.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "Science reports evidence honestly even when it differs from a prediction.\nHint: Choose the action that keeps the evidence unchanged.",
     "structuredExplanation": {
-      "summary": "A prediction states what may happen and gives a reason before testing.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Science reports evidence honestly even when it differs from a prediction.",
+      "hint": "Choose the action that keeps the evidence unchanged."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

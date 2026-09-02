@@ -4,697 +4,1120 @@ window.skillrPracticeQuestions = [
     "id": "ac9s2h01-p-001",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Which activity uses science to keep food safe?",
     "audioPrompt": "Which activity uses science to keep food safe?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Which activity uses science to keep food safe?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Which activity uses science to keep food safe?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-001",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Which activity uses science to keep food safe?"
-    },
+    "visual": "",
     "answers": [
       "putting milk in a refrigerator",
       "leaving milk in sunlight",
-      "guessing whether it is cold"
+      "guessing whether it is cold",
+      "choosing by label colour"
     ],
     "correct": 0,
-    "explanation": "Cooling slows changes that can spoil food.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Cooling slows changes that can spoil food.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Cooling slows changes that can spoil food.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-002",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Dark clouds have brought rain on three afternoons. What is a sensible prediction today?",
     "audioPrompt": "Dark clouds have brought rain on three afternoons. What is a sensible prediction today?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Dark clouds have brought rain on three afternoons. What is a sensible prediction today?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Dark clouds have brought rain on three afternoons. What is a sensible prediction today?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-002",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Dark clouds have brought rain on three afternoons. What is a sensible prediction today?"
-    },
+    "visual": "",
     "answers": [
       "rain is impossible",
-      "rain may occur again",
-      "clouds are made by umbrellas"
+      "clouds are made by umbrellas",
+      "the time must stop",
+      "rain may occur again"
     ],
-    "correct": 1,
-    "explanation": "A repeated weather pattern can support a cautious prediction.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 3,
+    "explanation": "A repeated weather pattern can support a cautious prediction.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "A repeated weather pattern can support a cautious prediction.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-003",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "A gardener checks dry soil before watering. How is science being used?",
     "audioPrompt": "A gardener checks dry soil before watering. How is science being used?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A gardener checks dry soil before watering. How is science being used?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A gardener checks dry soil before watering. How is science being used?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-003",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A gardener checks dry soil before watering. How is science being used?"
-    },
+    "visual": "",
     "answers": [
-      "the plant is asked to choose",
       "water is added randomly",
-      "observation guides a decision"
+      "soil colour proves plant age",
+      "observation guides a decision",
+      "the plant is asked to choose"
     ],
     "correct": 2,
-    "explanation": "The gardener uses visible evidence.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "The gardener uses visible evidence.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "The gardener uses visible evidence.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-004",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Why does a cook use a timer?",
     "audioPrompt": "Why does a cook use a timer?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why does a cook use a timer?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why does a cook use a timer?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-004",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why does a cook use a timer?"
-    },
+    "visual": "",
     "answers": [
+      "to make heat disappear",
       "to measure cooking time consistently",
       "to change food into metal",
       "to predict without checking"
     ],
-    "correct": 0,
-    "explanation": "Measurement helps people cook safely and consistently.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 1,
+    "explanation": "Measurement helps people cook safely and consistently.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Measurement helps people cook safely and consistently.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-005",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "A forecast says a cold front is arriving. Which choice uses science?",
     "audioPrompt": "A forecast says a cold front is arriving. Which choice uses science?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A forecast says a cold front is arriving. Which choice uses science?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A forecast says a cold front is arriving. Which choice uses science?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-005",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A forecast says a cold front is arriving. Which choice uses science?"
-    },
+    "visual": "",
     "answers": [
-      "ignore the forecast",
       "take a warm jacket",
-      "wear wet clothes"
+      "ignore the forecast",
+      "wear wet clothes",
+      "choose only by favourite colour"
     ],
-    "correct": 1,
-    "explanation": "Forecast evidence helps people prepare.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "Forecast evidence helps people prepare.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Forecast evidence helps people prepare.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-006",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "How does science help make a bicycle helmet useful?",
     "audioPrompt": "How does science help make a bicycle helmet useful?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: How does science help make a bicycle helmet useful?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: How does science help make a bicycle helmet useful?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-006",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: How does science help make a bicycle helmet useful?"
-    },
+    "visual": "",
     "answers": [
       "helmets are chosen by magic",
       "every material protects equally",
+      "colour alone stops injury",
       "materials are tested for protection"
     ],
-    "correct": 2,
-    "explanation": "Testing helps designers choose protective shapes and materials.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 3,
+    "explanation": "Testing helps designers choose protective shapes and materials.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Testing helps designers choose protective shapes and materials.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-007",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "A playground is hottest where there is no shade. What action follows the evidence?",
     "audioPrompt": "A playground is hottest where there is no shade. What action follows the evidence?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A playground is hottest where there is no shade. What action follows the evidence?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A playground is hottest where there is no shade. What action follows the evidence?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-007",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A playground is hottest where there is no shade. What action follows the evidence?"
-    },
+    "visual": "",
     "answers": [
+      "paint a random number",
+      "claim temperature never changes",
       "add shade where people play",
-      "remove every tree",
-      "paint a random number"
+      "remove every tree"
     ],
-    "correct": 0,
-    "explanation": "Temperature patterns guide safer design.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Temperature patterns guide safer design.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Temperature patterns guide safer design.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-008",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Traffic lights use a repeating sequence. What helps people predict the next signal?",
     "audioPrompt": "Traffic lights use a repeating sequence. What helps people predict the next signal?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Traffic lights use a repeating sequence. What helps people predict the next signal?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Traffic lights use a repeating sequence. What helps people predict the next signal?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-008",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Traffic lights use a repeating sequence. What helps people predict the next signal?"
-    },
+    "visual": "",
     "answers": [
-      "a random guess",
+      "the driver's name",
       "the observed colour pattern",
+      "a random guess",
       "the weather only"
     ],
     "correct": 1,
-    "explanation": "A known sequence supports prediction.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "A known sequence supports prediction.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "A known sequence supports prediction.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-009",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Why are some medicines kept in a cool place?",
     "audioPrompt": "Why are some medicines kept in a cool place?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why are some medicines kept in a cool place?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why are some medicines kept in a cool place?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-009",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why are some medicines kept in a cool place?"
-    },
+    "visual": "",
     "answers": [
+      "scientific instructions protect their quality",
       "cold labels look nicer",
       "all liquids must freeze",
-      "scientific instructions protect their quality"
+      "temperature never affects materials"
     ],
-    "correct": 2,
-    "explanation": "Science informs safe storage conditions.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "Science informs safe storage conditions.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Science informs safe storage conditions.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-010",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "How does science support handwashing before eating?",
     "audioPrompt": "How does science support handwashing before eating?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: How does science support handwashing before eating?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: How does science support handwashing before eating?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-010",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: How does science support handwashing before eating?"
-    },
+    "visual": "",
     "answers": [
-      "washing removes dirt and many germs",
       "water makes hands invisible",
-      "soap changes skin into plastic"
+      "soap changes skin into plastic",
+      "germs are only colours",
+      "washing removes dirt and many germs"
     ],
-    "correct": 0,
-    "explanation": "Evidence shows washing supports hygiene.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 3,
+    "explanation": "Evidence shows washing supports hygiene.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Evidence shows washing supports hygiene.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-011",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Which tool helps people measure air temperature?",
     "audioPrompt": "Which tool helps people measure air temperature?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Which tool helps people measure air temperature?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Which tool helps people measure air temperature?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-011",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Which tool helps people measure air temperature?"
-    },
+    "visual": "",
     "answers": [
-      "paintbrush",
+      "ruler for sound",
+      "magnifying mirror",
       "thermometer",
-      "ruler for sound"
+      "paintbrush"
     ],
-    "correct": 1,
-    "explanation": "A thermometer provides temperature data.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "A thermometer provides temperature data.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "A thermometer provides temperature data.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-012",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Which daily tool keeps food cool?",
     "audioPrompt": "Which daily tool keeps food cool?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Which daily tool keeps food cool?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Which daily tool keeps food cool?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-012",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Which daily tool keeps food cool?"
-    },
+    "visual": "",
     "answers": [
+      "pencil case",
+      "refrigerator",
       "toaster",
-      "lamp",
-      "refrigerator"
+      "lamp"
     ],
-    "correct": 2,
-    "explanation": "A refrigerator transfers heat away to keep food cool.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 1,
+    "explanation": "A refrigerator transfers heat away to keep food cool.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "A refrigerator transfers heat away to keep food cool.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-013",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "A prediction is scientific when it is based on —",
     "audioPrompt": "A prediction is scientific when it is based on —",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A prediction is scientific when it is based on —",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A prediction is scientific when it is based on —\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-013",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A prediction is scientific when it is based on —"
-    },
+    "visual": "",
     "answers": [
       "observations or a pattern",
       "a wish",
-      "the longest answer"
+      "the longest answer",
+      "a favourite object"
     ],
     "correct": 0,
-    "explanation": "Evidence separates a prediction from a random guess.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Evidence separates a prediction from a random guess.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Evidence separates a prediction from a random guess.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-014",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "After predicting rain, what should a child do next?",
     "audioPrompt": "After predicting rain, what should a child do next?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: After predicting rain, what should a child do next?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: After predicting rain, what should a child do next?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-014",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: After predicting rain, what should a child do next?"
-    },
+    "visual": "",
     "answers": [
       "change the prediction secretly",
-      "observe and record what happens",
-      "claim it rained without looking"
+      "claim it rained without looking",
+      "throw away the evidence",
+      "observe and record what happens"
     ],
-    "correct": 1,
-    "explanation": "Checking compares the prediction with the outcome.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 3,
+    "explanation": "Checking compares the prediction with the outcome.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Checking compares the prediction with the outcome.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-015",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "A farmer uses rainfall records before planting. What is the record used for?",
     "audioPrompt": "A farmer uses rainfall records before planting. What is the record used for?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A farmer uses rainfall records before planting. What is the record used for?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A farmer uses rainfall records before planting. What is the record used for?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-015",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A farmer uses rainfall records before planting. What is the record used for?"
-    },
+    "visual": "",
     "answers": [
-      "to make clouds obey",
       "to change seeds into rocks",
-      "to guide a prediction and decision"
+      "to avoid all observation",
+      "to guide a prediction and decision",
+      "to make clouds obey"
     ],
     "correct": 2,
-    "explanation": "Past data can guide future choices.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Past data can guide future choices.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Past data can guide future choices.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-016",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Why do fire services use weather measurements?",
     "audioPrompt": "Why do fire services use weather measurements?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why do fire services use weather measurements?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why do fire services use weather measurements?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-016",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why do fire services use weather measurements?"
-    },
+    "visual": "",
     "answers": [
+      "to guess without evidence",
       "to estimate changing fire danger",
       "to choose truck colours",
       "to stop wind completely"
     ],
-    "correct": 0,
-    "explanation": "Temperature, wind and dryness help assess risk.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 1,
+    "explanation": "Temperature, wind and dryness help assess risk.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Temperature, wind and dryness help assess risk.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-017",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "A high UV forecast leads a family to use hats and shade. This is —",
     "audioPrompt": "A high UV forecast leads a family to use hats and shade. This is —",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A high UV forecast leads a family to use hats and shade. This is —",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A high UV forecast leads a family to use hats and shade. This is —\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-017",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A high UV forecast leads a family to use hats and shade. This is —"
-    },
+    "visual": "",
     "answers": [
-      "a random colour choice",
       "science guiding a safety choice",
-      "proof the Sun is a planet"
+      "a random colour choice",
+      "proof the Sun is a planet",
+      "a way to make UV visible"
     ],
-    "correct": 1,
-    "explanation": "Forecast information supports protection.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "Forecast information supports protection.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Forecast information supports protection.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-018",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Why might a builder compare waterproof materials?",
     "audioPrompt": "Why might a builder compare waterproof materials?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why might a builder compare waterproof materials?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why might a builder compare waterproof materials?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-018",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why might a builder compare waterproof materials?"
-    },
+    "visual": "",
     "answers": [
       "to prove all materials are identical",
       "to make rain stop",
+      "to choose the loudest material",
       "to choose material suited to rain"
     ],
-    "correct": 2,
-    "explanation": "Property tests help meet a practical need.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 3,
+    "explanation": "Property tests help meet a practical need.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Property tests help meet a practical need.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-019",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Why does a dentist recommend brushing teeth?",
     "audioPrompt": "Why does a dentist recommend brushing teeth?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why does a dentist recommend brushing teeth?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why does a dentist recommend brushing teeth?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-019",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why does a dentist recommend brushing teeth?"
-    },
+    "visual": "",
     "answers": [
+      "because brushes predict weather",
+      "only because toothpaste is coloured",
       "evidence shows it removes food and plaque",
-      "to change teeth into metal",
-      "because brushes predict weather"
+      "to change teeth into metal"
     ],
-    "correct": 0,
-    "explanation": "Health advice is based on observations and research.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Health advice is based on observations and research.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Health advice is based on observations and research.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-020",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "A water bowl empties faster on hot days. What prediction fits the pattern?",
     "audioPrompt": "A water bowl empties faster on hot days. What prediction fits the pattern?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A water bowl empties faster on hot days. What prediction fits the pattern?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A water bowl empties faster on hot days. What prediction fits the pattern?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-020",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: A water bowl empties faster on hot days. What prediction fits the pattern?"
-    },
+    "visual": "",
     "answers": [
-      "water will turn solid",
+      "hot days stop evaporation",
       "the pet may need water checked more often",
+      "water will turn solid",
       "the bowl becomes smaller"
     ],
     "correct": 1,
-    "explanation": "Repeated observations guide care.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Repeated observations guide care.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Repeated observations guide care.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-021",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Why switch off an unused light?",
     "audioPrompt": "Why switch off an unused light?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why switch off an unused light?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why switch off an unused light?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-021",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why switch off an unused light?"
-    },
+    "visual": "",
     "answers": [
+      "to reduce electrical energy use",
       "to make the room orbit",
       "to change glass into wood",
-      "to reduce electrical energy use"
+      "because light has no energy"
     ],
-    "correct": 2,
-    "explanation": "Scientific understanding supports energy choices.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "Scientific understanding supports energy choices.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Scientific understanding supports energy choices.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-022",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Why are items sorted by material before recycling?",
     "audioPrompt": "Why are items sorted by material before recycling?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why are items sorted by material before recycling?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why are items sorted by material before recycling?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-022",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why are items sorted by material before recycling?"
-    },
+    "visual": "",
     "answers": [
-      "different materials need different processing",
       "all materials are the same",
-      "colour is the only property"
+      "colour is the only property",
+      "sorting changes rubbish into food",
+      "different materials need different processing"
     ],
-    "correct": 0,
-    "explanation": "Material knowledge guides the process.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 3,
+    "explanation": "Material knowledge guides the process.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Material knowledge guides the process.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-023",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Why might a weather prediction be wrong?",
     "audioPrompt": "Why might a weather prediction be wrong?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why might a weather prediction be wrong?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why might a weather prediction be wrong?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-023",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why might a weather prediction be wrong?"
-    },
+    "visual": "",
     "answers": [
-      "science never uses evidence",
+      "clouds always lie",
+      "measurements change the past",
       "patterns suggest outcomes but do not guarantee them",
-      "clouds always lie"
+      "science never uses evidence"
     ],
-    "correct": 1,
-    "explanation": "Predictions are evidence-based possibilities, not certainties.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Predictions are evidence-based possibilities, not certainties.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "Predictions are evidence-based possibilities, not certainties.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2h01-p-024",
     "curriculumCode": "AC9S2H01",
     "bank": "practice",
-    "skill": "apply science in daily life",
+    "skill": "science in daily life and evidence-based predictions",
     "printable": true,
     "type": "single",
     "question": "Why is one hot day not enough to prove every tomorrow will be hot?",
     "audioPrompt": "Why is one hot day not enough to prove every tomorrow will be hot?",
-    "visual": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why is one hot day not enough to prove every tomorrow will be hot?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why is one hot day not enough to prove every tomorrow will be hot?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2h01.svg#ac9s2h01-p-024",
-      "alt_text": "People using observations, tools and repeated patterns to make a daily-life prediction. Question context: Why is one hot day not enough to prove every tomorrow will be hot?"
-    },
+    "visual": "",
     "answers": [
+      "temperature cannot be measured",
+      "a pattern needs repeated observations",
       "one observation proves everything",
-      "tomorrow has already happened",
-      "a pattern needs repeated observations"
+      "tomorrow has already happened"
     ],
-    "correct": 2,
-    "explanation": "More evidence is needed before claiming a pattern.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 1,
+    "explanation": "More evidence is needed before claiming a pattern.\nHint: Use the observations and science idea in the question.",
     "structuredExplanation": {
       "summary": "More evidence is needed before claiming a pattern.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-025",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Why do communities test drinking water?",
+    "audioPrompt": "Why do communities test drinking water?",
+    "visual": "",
+    "answers": [
+      "to check whether it is safe",
+      "to choose its favourite colour",
+      "to make it louder",
+      "to predict without samples"
+    ],
+    "correct": 0,
+    "explanation": "Tests provide evidence about water quality.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Tests provide evidence about water quality.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-026",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A nurse measures temperature rather than touching a forehead only. Why?",
+    "audioPrompt": "A nurse measures temperature rather than touching a forehead only. Why?",
+    "visual": "",
+    "answers": [
+      "numbers cure illness",
+      "touch can never observe anything",
+      "thermometers make heat",
+      "a tool gives a comparable measurement"
+    ],
+    "correct": 3,
+    "explanation": "Measurements support clearer decisions.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Measurements support clearer decisions.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-027",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Why are tyres tested on wet surfaces?",
+    "audioPrompt": "Why are tyres tested on wet surfaces?",
+    "visual": "",
+    "answers": [
+      "to prove rubber is water",
+      "to choose a logo",
+      "to check grip in rainy conditions",
+      "to make roads dry"
+    ],
+    "correct": 2,
+    "explanation": "Testing helps designers improve safety.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Testing helps designers improve safety.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-028",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Several winter mornings are cold. Which prediction is reasonable?",
+    "audioPrompt": "Several winter mornings are cold. Which prediction is reasonable?",
+    "visual": "",
+    "answers": [
+      "cold is a material",
+      "another winter morning may also be cold",
+      "every winter day is identical",
+      "summer cannot return"
+    ],
+    "correct": 1,
+    "explanation": "Seasonal experience can support a cautious prediction.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Seasonal experience can support a cautious prediction.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-029",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which person uses science in daily work?",
+    "audioPrompt": "Which person uses science in daily work?",
+    "visual": "",
+    "answers": [
+      "a mechanic testing why a machine stopped",
+      "a person refusing all evidence",
+      "someone changing results",
+      "someone choosing only by luck"
+    ],
+    "correct": 0,
+    "explanation": "Many jobs use observation and testing.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Many jobs use observation and testing.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-030",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice uses stronger evidence?",
+    "audioPrompt": "Which choice uses stronger evidence?",
+    "visual": "",
+    "answers": [
+      "take one because blue is lucky",
+      "ignore dark clouds and radar",
+      "claim weather cannot change",
+      "take an umbrella after checking rain radar"
+    ],
+    "correct": 3,
+    "explanation": "Several relevant observations strengthen a decision.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Several relevant observations strengthen a decision.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-031",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which wording is scientifically careful?",
+    "audioPrompt": "Which wording is scientifically careful?",
+    "visual": "",
+    "answers": [
+      "It will happen with no reason",
+      "Evidence is never needed",
+      "It may happen because this pattern repeated",
+      "It must happen because I want it"
+    ],
+    "correct": 2,
+    "explanation": "May recognises that predictions are not guarantees.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "May recognises that predictions are not guarantees.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-032",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement is correct?",
+    "audioPrompt": "Which statement is correct?",
+    "visual": "",
+    "answers": [
+      "daily decisions cannot use evidence",
+      "science is used at home, school and in communities",
+      "science happens only in laboratories",
+      "children never use science"
+    ],
+    "correct": 1,
+    "explanation": "Science supports many ordinary choices and solutions.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Science supports many ordinary choices and solutions.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-033",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A family checks the weather forecast before hanging washing outside. How is science helping?",
+    "audioPrompt": "A family checks the weather forecast before hanging washing outside. How is science helping?",
+    "visual": "",
+    "answers": [
+      "It uses observations and patterns to guide a decision.",
+      "It guarantees the weather cannot change.",
+      "It makes the clothes dry without sunlight.",
+      "It replaces the need to look outside."
+    ],
+    "correct": 0,
+    "explanation": "Weather forecasts use collected observations and patterns to make useful predictions.\nHint: Choose the answer that connects evidence with a practical choice.",
+    "structuredExplanation": {
+      "summary": "Weather forecasts use collected observations and patterns to make useful predictions.",
+      "hint": "Choose the answer that connects evidence with a practical choice."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-034",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A baker uses a timer so muffins cook for the same length of time each batch. Why is this useful?",
+    "audioPrompt": "A baker uses a timer so muffins cook for the same length of time each batch. Why is this useful?",
+    "visual": "",
+    "answers": [
+      "It makes every muffin exactly the same size.",
+      "It changes the oven into a measuring tool.",
+      "It proves hotter ovens are always better.",
+      "It helps keep the cooking process consistent."
+    ],
+    "correct": 3,
+    "explanation": "Timers help people measure and repeat a process consistently.\nHint: Think about what the timer measures.",
+    "structuredExplanation": {
+      "summary": "Timers help people measure and repeat a process consistently.",
+      "hint": "Think about what the timer measures."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-035",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A gardener notices seedlings near a sunny window grow toward the light. What could the gardener do with this observation?",
+    "audioPrompt": "A gardener notices seedlings near a sunny window grow toward the light. What could the gardener do with this observation?",
+    "visual": "",
+    "answers": [
+      "Assume every plant grows at exactly the same speed.",
+      "Keep the plants in complete darkness.",
+      "Move pots regularly so plants receive light more evenly.",
+      "Stop recording because the pattern is useless."
+    ],
+    "correct": 2,
+    "explanation": "Observations can guide practical actions such as changing where plants are placed.\nHint: Use the observed pattern to choose a sensible action.",
+    "structuredExplanation": {
+      "summary": "Observations can guide practical actions such as changing where plants are placed.",
+      "hint": "Use the observed pattern to choose a sensible action."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-036",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A cyclist sees dark clouds and checks a rain radar before leaving. Which part is scientific?",
+    "audioPrompt": "A cyclist sees dark clouds and checks a rain radar before leaving. Which part is scientific?",
+    "visual": "",
+    "answers": [
+      "Guessing without checking anything.",
+      "Using current observations to judge whether rain is likely.",
+      "Choosing the brightest helmet.",
+      "Riding faster than usual."
+    ],
+    "correct": 1,
+    "explanation": "Science can use current weather evidence to support everyday decisions.\nHint: Look for the option based on evidence.",
+    "structuredExplanation": {
+      "summary": "Science can use current weather evidence to support everyday decisions.",
+      "hint": "Look for the option based on evidence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-037",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A nurse measures a patient’s temperature twice. Why repeat the measurement?",
+    "audioPrompt": "A nurse measures a patient’s temperature twice. Why repeat the measurement?",
+    "visual": "",
+    "answers": [
+      "To check whether the reading is consistent.",
+      "To make the thermometer warmer.",
+      "To guarantee the patient feels better.",
+      "To change the first result."
+    ],
+    "correct": 0,
+    "explanation": "Repeating a measurement can check whether a result is reliable.\nHint: Think about why repeated evidence is useful.",
+    "structuredExplanation": {
+      "summary": "Repeating a measurement can check whether a result is reliable.",
+      "hint": "Think about why repeated evidence is useful."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-038",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A class sees that puddles usually shrink on warm sunny days. Which prediction best uses that pattern?",
+    "audioPrompt": "A class sees that puddles usually shrink on warm sunny days. Which prediction best uses that pattern?",
+    "visual": "",
+    "answers": [
+      "Every puddle will disappear in one minute.",
+      "Rain can never occur after sunshine.",
+      "Warm days always have no clouds.",
+      "A puddle may shrink again on another warm sunny day."
+    ],
+    "correct": 3,
+    "explanation": "A sensible prediction stays close to the repeated pattern that was observed.\nHint: Avoid answers that claim more than the evidence shows.",
+    "structuredExplanation": {
+      "summary": "A sensible prediction stays close to the repeated pattern that was observed.",
+      "hint": "Avoid answers that claim more than the evidence shows."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-039",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A pet owner records how much water a dog drinks each hot day. What can the record help reveal?",
+    "audioPrompt": "A pet owner records how much water a dog drinks each hot day. What can the record help reveal?",
+    "visual": "",
+    "answers": [
+      "Exactly what every dog will do.",
+      "Whether water has stopped being a liquid.",
+      "Whether there is a pattern between hotter days and water use.",
+      "The dog’s favourite colour."
+    ],
+    "correct": 2,
+    "explanation": "Records collected over time can reveal useful patterns.\nHint: Look for a relationship that the recorded data could show.",
+    "structuredExplanation": {
+      "summary": "Records collected over time can reveal useful patterns.",
+      "hint": "Look for a relationship that the recorded data could show."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2h01-p-040",
+    "curriculumCode": "AC9S2H01",
+    "bank": "practice",
+    "skill": "science in daily life and evidence-based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "A mechanic listens to an unusual bicycle-chain sound before checking the chain. What science skill is being used first?",
+    "audioPrompt": "A mechanic listens to an unusual bicycle-chain sound before checking the chain. What science skill is being used first?",
+    "visual": "",
+    "answers": [
+      "Ignoring evidence.",
+      "Making an observation.",
+      "Changing the result.",
+      "Choosing a conclusion before checking."
+    ],
+    "correct": 1,
+    "explanation": "Listening carefully is an observation that can guide what to investigate next.\nHint: Identify what happens before any conclusion is made.",
+    "structuredExplanation": {
+      "summary": "Listening carefully is an observation that can guide what to investigate next.",
+      "hint": "Identify what happens before any conclusion is made."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

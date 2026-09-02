@@ -1,1418 +1,1554 @@
 [
   {
-    "id": "AC9S2U01-P-001",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-001",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "A space picture shows a blue world with land and oceans. What is it?",
-    "audio_prompt": "A space picture shows a blue world with land and oceans. What is it?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-001",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A space picture shows a blue world with land and oceans. What is it?"
-    },
+    "audioPrompt": "A space picture shows a blue world with land and oceans. What is it?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Sun, a star",
-        "is_correct": false
-      },
-      {
-        "text": "Earth, a planet",
-        "is_correct": true
-      },
-      {
-        "text": "the Moon, a planet",
-        "is_correct": false
-      }
+      "Earth, a planet",
+      "the Sun, a star",
+      "the Moon, a planet",
+      "a cloud"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 0,
+    "explanation": "Earth is the planet where we live.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Earth is the planet where we live.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-002",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-002",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Which statement correctly names the bright object at the centre of our solar system?",
-    "audio_prompt": "Which statement correctly names the bright object at the centre of our solar system?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-002",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which statement correctly names the bright object at the centre of our solar system?"
-    },
+    "audioPrompt": "Which statement correctly names the bright object at the centre of our solar system?",
+    "visual": "",
     "answers": [
-      {
-        "text": "The Sun is a planet",
-        "is_correct": false
-      },
-      {
-        "text": "The Sun is a moon",
-        "is_correct": false
-      },
-      {
-        "text": "The Sun is a star",
-        "is_correct": true
-      }
+      "The Sun is a planet",
+      "The Sun is a moon",
+      "The Sun is a cloud",
+      "The Sun is a star"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 3,
+    "explanation": "The Sun is a star that gives Earth light and heat.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "The Sun is a star that gives Earth light and heat.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-003",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-003",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
-    "question": "In a model, what small rocky object travels around Earth?",
-    "audio_prompt": "In a model, what small rocky object travels around Earth?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-003",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: In a model, what small rocky object travels around Earth?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "The small rocky object shown travelling around Earth is the —",
+    "audioPrompt": "The small rocky object shown travelling around Earth is the —",
+    "visual": "",
     "answers": [
-      {
-        "text": "Moon",
-        "is_correct": true
-      },
-      {
-        "text": "Sun",
-        "is_correct": false
-      },
-      {
-        "text": "north star",
-        "is_correct": false
-      }
+      "north star",
+      "cloud",
+      "Moon",
+      "Sun"
     ],
-    "correct_index": 0,
-    "explanation": {
+    "correct": 2,
+    "explanation": "The Moon is Earth's natural satellite.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "The Moon is Earth's natural satellite.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-004",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-004",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
-    "question": "A model shows Earth moving along a path around the Sun. What movement does the model show?",
-    "audio_prompt": "A model shows Earth moving along a path around the Sun. What movement does the model show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-004",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A model shows Earth moving along a path around the Sun. What movement does the model show?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "What does it mean when Earth orbits the Sun?",
+    "audioPrompt": "What does it mean when Earth orbits the Sun?",
+    "visual": "",
     "answers": [
-      {
-        "text": "Earth sits inside the Sun",
-        "is_correct": false
-      },
-      {
-        "text": "Earth travels around the Sun",
-        "is_correct": true
-      },
-      {
-        "text": "the Sun switches off",
-        "is_correct": false
-      }
+      "Earth becomes a star",
+      "Earth travels around the Sun",
+      "Earth sits inside the Sun",
+      "the Sun switches off"
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The path represents Earth travelling around the Sun.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+    "correct": 1,
+    "explanation": "Orbit means to travel around another body.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Orbit means to travel around another body.",
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-005",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-005",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "At breakfast the Sun appears low, near lunch it appears higher, and late afternoon it appears low again. What is this?",
-    "audio_prompt": "At breakfast the Sun appears low, near lunch it appears higher, and late afternoon it appears low again. What is this?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-005",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: At breakfast the Sun appears low, near lunch it appears higher, and late afternoon it appears low again. What is this?"
-    },
+    "audioPrompt": "At breakfast the Sun appears low, near lunch it appears higher, and late afternoon it appears low again. What is this?",
+    "visual": "",
     "answers": [
-      {
-        "text": "three different Suns",
-        "is_correct": false
-      },
-      {
-        "text": "the Sun changing into the Moon",
-        "is_correct": false
-      },
-      {
-        "text": "a repeating daily sky pattern",
-        "is_correct": true
-      }
+      "a repeating daily sky pattern",
+      "three different Suns",
+      "the Sun changing into the Moon",
+      "no pattern"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 0,
+    "explanation": "The Sun's apparent position follows a daily pattern.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "The Sun's apparent position follows a daily pattern.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-006",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-006",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Which observation best compares the Sun's apparent position in morning and late afternoon?",
-    "audio_prompt": "Which observation best compares the Sun's apparent position in morning and late afternoon?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-006",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which observation best compares the Sun's apparent position in morning and late afternoon?"
-    },
+    "audioPrompt": "Which observation best compares the Sun's apparent position in morning and late afternoon?",
+    "visual": "",
     "answers": [
-      {
-        "text": "It appears on different sides of the sky",
-        "is_correct": true
-      },
-      {
-        "text": "It stays in exactly one spot",
-        "is_correct": false
-      },
-      {
-        "text": "It becomes a planet",
-        "is_correct": false
-      }
+      "It stays in exactly one spot",
+      "It becomes a planet",
+      "It can be safely stared at",
+      "It appears on different sides of the sky"
     ],
-    "correct_index": 0,
-    "explanation": {
+    "correct": 3,
+    "explanation": "From Earth, the Sun appears to move across the sky.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "From Earth, the Sun appears to move across the sky.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-007",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-007",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Which is a safe way to investigate a Sun pattern?",
-    "audio_prompt": "Which is a safe way to investigate a Sun pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-007",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which is a safe way to investigate a Sun pattern?"
-    },
+    "audioPrompt": "Which is a safe way to investigate a Sun pattern?",
+    "visual": "",
     "answers": [
-      {
-        "text": "look straight at the Sun",
-        "is_correct": false
-      },
-      {
-        "text": "mark the end of a shadow at different times",
-        "is_correct": true
-      },
-      {
-        "text": "use binoculars to stare at it",
-        "is_correct": false
-      }
+      "use binoculars to stare at it",
+      "touch a hot lamp",
+      "mark the end of a shadow at different times",
+      "look straight at the Sun"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 2,
+    "explanation": "Shadows provide visible evidence without looking at the Sun.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Shadows provide visible evidence without looking at the Sun.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-008",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-008",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "The same pole has a long shadow in the morning and a shorter one near midday. What changed?",
-    "audio_prompt": "The same pole has a long shadow in the morning and a shorter one near midday. What changed?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-008",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: The same pole has a long shadow in the morning and a shorter one near midday. What changed?"
-    },
+    "audioPrompt": "The same pole has a long shadow in the morning and a shorter one near midday. What changed?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the pole's material",
-        "is_correct": false
-      },
-      {
-        "text": "Earth stopped turning",
-        "is_correct": false
-      },
-      {
-        "text": "the Sun's apparent position",
-        "is_correct": true
-      }
+      "the pole became shorter",
+      "the Sun's apparent position",
+      "the pole's material",
+      "Earth stopped turning"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 1,
+    "explanation": "Shadow length changes as the Sun appears at different heights.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Shadow length changes as the Sun appears at different heights.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-009",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-009",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Why record the Moon on several evenings instead of once?",
-    "audio_prompt": "Why record the Moon on several evenings instead of once?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-009",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Why record the Moon on several evenings instead of once?"
-    },
+    "audioPrompt": "Why record the Moon on several evenings instead of once?",
+    "visual": "",
     "answers": [
-      {
-        "text": "to find a pattern over time",
-        "is_correct": true
-      },
-      {
-        "text": "to make the Moon move",
-        "is_correct": false
-      },
-      {
-        "text": "to turn night into day",
-        "is_correct": false
-      }
+      "to find a pattern over time",
+      "to make the Moon move",
+      "to turn night into day",
+      "because one drawing proves every night"
     ],
-    "correct_index": 0,
-    "explanation": {
+    "correct": 0,
+    "explanation": "Repeated observations help reveal change and patterns.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Repeated observations help reveal change and patterns.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-010",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-010",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Which object is often visible as a bright round or curved shape at night?",
-    "audio_prompt": "Which object is often visible as a bright round or curved shape at night?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-010",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which object is often visible as a bright round or curved shape at night?"
-    },
+    "audioPrompt": "Which object is often visible as a bright round or curved shape at night?",
+    "visual": "",
     "answers": [
-      {
-        "text": "Earth's core",
-        "is_correct": false
-      },
-      {
-        "text": "the Moon",
-        "is_correct": true
-      },
-      {
-        "text": "an ocean",
-        "is_correct": false
-      }
+      "Earth's core",
+      "an ocean",
+      "a tree root",
+      "the Moon"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 3,
+    "explanation": "The Moon can appear round or curved from Earth.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "The Moon can appear round or curved from Earth.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-011",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-011",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Mina says Earth is a star because it is in space. Which correction is accurate?",
-    "audio_prompt": "Mina says Earth is a star because it is in space. Which correction is accurate?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-011",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Mina says Earth is a star because it is in space. Which correction is accurate?"
-    },
+    "audioPrompt": "Mina says Earth is a star because it is in space. Which correction is accurate?",
+    "visual": "",
     "answers": [
-      {
-        "text": "everything in space is a star",
-        "is_correct": false
-      },
-      {
-        "text": "Earth is a moon",
-        "is_correct": false
-      },
-      {
-        "text": "Earth is a planet; the Sun is a star",
-        "is_correct": true
-      }
+      "Earth is a moon",
+      "the Sun is a planet",
+      "Earth is a planet; the Sun is a star",
+      "everything in space is a star"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 2,
+    "explanation": "Location in space does not make an object a star.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Location in space does not make an object a star.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-012",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-012",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Which order matches a usual clear-day pattern?",
-    "audio_prompt": "Which order matches a usual clear-day pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-012",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which order matches a usual clear-day pattern?"
-    },
+    "audioPrompt": "Which order matches a usual clear-day pattern?",
+    "visual": "",
     "answers": [
-      {
-        "text": "morning, midday, evening",
-        "is_correct": true
-      },
-      {
-        "text": "evening, morning, midday",
-        "is_correct": false
-      },
-      {
-        "text": "midday, midnight, morning",
-        "is_correct": false
-      }
+      "summer, morning, star",
+      "morning, midday, evening",
+      "evening, morning, midday",
+      "midday, midnight, morning"
     ],
-    "correct_index": 0,
-    "explanation": {
+    "correct": 1,
+    "explanation": "A day progresses from morning through midday to evening.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "A day progresses from morning through midday to evening.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-013",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-013",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "A child marks one shadow at 9 am and another at noon. What evidence should be compared?",
-    "audio_prompt": "A child marks one shadow at 9 am and another at noon. What evidence should be compared?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-013",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A child marks one shadow at 9 am and another at noon. What evidence should be compared?"
-    },
+    "audioPrompt": "A child marks one shadow at 9 am and another at noon. What evidence should be compared?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the child's shoe colour",
-        "is_correct": false
-      },
-      {
-        "text": "shadow direction and length",
-        "is_correct": true
-      },
-      {
-        "text": "the pole's name",
-        "is_correct": false
-      }
+      "shadow direction and length",
+      "the child's shoe colour",
+      "the pole's name",
+      "the day of their birthday"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 0,
+    "explanation": "Direction and length are observable shadow features.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Direction and length are observable shadow features.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-014",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-014",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "In a model, a small ball moves around an Earth ball. What does the small ball represent?",
-    "audio_prompt": "In a model, a small ball moves around an Earth ball. What does the small ball represent?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-014",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: In a model, a small ball moves around an Earth ball. What does the small ball represent?"
-    },
+    "audioPrompt": "In a model, a small ball moves around an Earth ball. What does the small ball represent?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Sun",
-        "is_correct": false
-      },
-      {
-        "text": "another Earth",
-        "is_correct": false
-      },
-      {
-        "text": "the Moon",
-        "is_correct": true
-      }
+      "the Sun",
+      "another Earth",
+      "a shadow",
+      "the Moon"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 3,
+    "explanation": "The Moon travels around Earth.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "The Moon travels around Earth.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-015",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-015",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
-    "question": "Earth and Mars both travel around the Sun. How should they be classified?",
-    "audio_prompt": "Earth and Mars both travel around the Sun. How should they be classified?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-015",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Earth and Mars both travel around the Sun. How should they be classified?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which word names a large object such as Earth that travels around a star?",
+    "audioPrompt": "Which word names a large object such as Earth that travels around a star?",
+    "visual": "",
     "answers": [
-      {
-        "text": "as planets",
-        "is_correct": true
-      },
-      {
-        "text": "as shadows",
-        "is_correct": false
-      },
-      {
-        "text": "as clouds",
-        "is_correct": false
-      }
+      "weather",
+      "sound",
+      "planet",
+      "shadow"
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Earth and Mars are planets that travel around a star.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+    "correct": 2,
+    "explanation": "Earth is a planet because it travels around the Sun.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Earth is a planet because it travels around the Sun.",
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-016",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-016",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Which object is the nearest star to Earth?",
-    "audio_prompt": "Which object is the nearest star to Earth?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-016",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which object is the nearest star to Earth?"
-    },
+    "audioPrompt": "Which object is the nearest star to Earth?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Moon",
-        "is_correct": false
-      },
-      {
-        "text": "the Sun",
-        "is_correct": true
-      },
-      {
-        "text": "Mars",
-        "is_correct": false
-      }
+      "a satellite dish",
+      "the Sun",
+      "the Moon",
+      "Mars"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 1,
+    "explanation": "The Sun is Earth's nearest star.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "The Sun is Earth's nearest star.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-017",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-017",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
-    "question": "A small rocky object is seen travelling around Earth. Which object is it?",
-    "audio_prompt": "A small rocky object is seen travelling around Earth. Which object is it?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-017",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A small rocky object is seen travelling around Earth. Which object is it?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "What is Earth's natural satellite?",
+    "audioPrompt": "What is Earth's natural satellite?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Sun",
-        "is_correct": false
-      },
-      {
-        "text": "Venus",
-        "is_correct": false
-      },
-      {
-        "text": "the Moon",
-        "is_correct": true
-      }
+      "the Moon",
+      "the Sun",
+      "Venus",
+      "a cloud"
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The Moon is the natural object that travels around Earth.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+    "correct": 0,
+    "explanation": "The Moon naturally travels around Earth.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "The Moon naturally travels around Earth.",
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-018",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-018",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Why do we say the Sun appears to move across our sky?",
-    "audio_prompt": "Why do we say the Sun appears to move across our sky?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-018",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Why do we say the Sun appears to move across our sky?"
-    },
+    "audioPrompt": "Why do we say the Sun appears to move across our sky?",
+    "visual": "",
     "answers": [
-      {
-        "text": "we observe it in changing positions",
-        "is_correct": true
-      },
-      {
-        "text": "the Sun rolls along the ground",
-        "is_correct": false
-      },
-      {
-        "text": "the Sun is carried by clouds",
-        "is_correct": false
-      }
+      "the Sun rolls along the ground",
+      "the Sun is carried by clouds",
+      "Earth stops each noon",
+      "we observe it in changing positions"
     ],
-    "correct_index": 0,
-    "explanation": {
+    "correct": 3,
+    "explanation": "Appears describes what an observer on Earth sees.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Appears describes what an observer on Earth sees.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-019",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-019",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Kai says the Sun switches off at night. What is the better idea?",
-    "audio_prompt": "Kai says the Sun switches off at night. What is the better idea?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-019",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Kai says the Sun switches off at night. What is the better idea?"
-    },
+    "audioPrompt": "Kai says the Sun switches off at night. What is the better idea?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Sun runs out of light nightly",
-        "is_correct": false
-      },
-      {
-        "text": "our part of Earth turns away from the Sun",
-        "is_correct": true
-      },
-      {
-        "text": "the Moon covers the Sun every night",
-        "is_correct": false
-      }
+      "the Moon covers the Sun every night",
+      "stars turn the Sun off",
+      "our part of Earth turns away from the Sun",
+      "the Sun runs out of light nightly"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 2,
+    "explanation": "The Sun keeps shining while Earth turns.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "The Sun keeps shining while Earth turns.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-020",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-020",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Which statement about the Moon is correct?",
-    "audio_prompt": "Which statement about the Moon is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-020",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which statement about the Moon is correct?"
-    },
+    "audioPrompt": "Which statement about the Moon is correct?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Moon is a small Sun",
-        "is_correct": false
-      },
-      {
-        "text": "the Moon makes all its own sunlight",
-        "is_correct": false
-      },
-      {
-        "text": "we see sunlight reflected from the Moon",
-        "is_correct": true
-      }
+      "the Moon is a cloud",
+      "we see sunlight reflected from the Moon",
+      "the Moon is a small Sun",
+      "the Moon makes all its own sunlight"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 1,
+    "explanation": "The Moon reflects light from the Sun.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "The Moon reflects light from the Sun.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-021",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-021",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Which record would best show a changing Moon pattern?",
-    "audio_prompt": "Which record would best show a changing Moon pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-021",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which record would best show a changing Moon pattern?"
-    },
+    "audioPrompt": "Which record would best show a changing Moon pattern?",
+    "visual": "",
     "answers": [
-      {
-        "text": "dated drawings made at the same evening time",
-        "is_correct": true
-      },
-      {
-        "text": "one undated picture",
-        "is_correct": false
-      },
-      {
-        "text": "a list of favourite planets",
-        "is_correct": false
-      }
+      "dated drawings made at the same evening time",
+      "one undated picture",
+      "a list of favourite planets",
+      "a daytime sound chart"
     ],
-    "correct_index": 0,
-    "explanation": {
+    "correct": 0,
+    "explanation": "Dates and a similar viewing time make changes comparable.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Dates and a similar viewing time make changes comparable.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-022",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-022",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "A pole's shadow was shortest near midday on three clear days. What is a sensible prediction for another clear day?",
-    "audio_prompt": "A pole's shadow was shortest near midday on three clear days. What is a sensible prediction for another clear day?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-022",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A pole's shadow was shortest near midday on three clear days. What is a sensible prediction for another clear day?"
-    },
+    "audioPrompt": "A pole's shadow was shortest near midday on three clear days. What is a sensible prediction for another clear day?",
+    "visual": "",
     "answers": [
-      {
-        "text": "there will be no shadow all day",
-        "is_correct": false
-      },
-      {
-        "text": "it may again be shortest near midday",
-        "is_correct": true
-      },
-      {
-        "text": "the pole will become a star",
-        "is_correct": false
-      }
+      "there will be no shadow all day",
+      "the pole will become a star",
+      "night will begin at lunch",
+      "it may again be shortest near midday"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 3,
+    "explanation": "Repeated evidence supports the prediction.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Repeated evidence supports the prediction.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-023",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-p-023",
+    "curriculumCode": "AC9S2U01",
     "bank": "practice",
-    "skill": "observe_sky_patterns",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
     "question": "Two children draw the Moon from different places at the same time. What should they do first?",
-    "audio_prompt": "Two children draw the Moon from different places at the same time. What should they do first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-023",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Two children draw the Moon from different places at the same time. What should they do first?"
-    },
+    "audioPrompt": "Two children draw the Moon from different places at the same time. What should they do first?",
+    "visual": "",
     "answers": [
-      {
-        "text": "choose the prettiest drawing",
-        "is_correct": false
-      },
-      {
-        "text": "erase any difference",
-        "is_correct": false
-      },
-      {
-        "text": "compare the visible shape and position they recorded",
-        "is_correct": true
-      }
+      "erase any difference",
+      "claim both are wrong",
+      "compare the visible shape and position they recorded",
+      "choose the prettiest drawing"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 2,
+    "explanation": "Comparing observations can reveal shared evidence or differences.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Comparing observations can reveal shared evidence or differences.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-024",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which object is not a planet?",
+    "audioPrompt": "Which object is not a planet?",
+    "visual": "",
+    "answers": [
+      "Venus",
+      "the Sun",
+      "Earth",
+      "Mars"
+    ],
+    "correct": 1,
+    "explanation": "The Sun is a star, not a planet.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "The Sun is a star, not a planet.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-025",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which relationship is correct?",
+    "audioPrompt": "Which relationship is correct?",
+    "visual": "",
+    "answers": [
+      "Earth travels around the Sun",
+      "the Sun travels around the Moon",
+      "Earth travels around a tree",
+      "the Moon is inside Earth"
+    ],
+    "correct": 0,
+    "explanation": "Earth's orbit is around the Sun.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Earth's orbit is around the Sun.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-026",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A classroom model uses a basketball for the Sun and a marble for Earth. What does the model help show?",
+    "audioPrompt": "A classroom model uses a basketball for the Sun and a marble for Earth. What does the model help show?",
+    "visual": "",
+    "answers": [
+      "their exact real sizes",
+      "Earth is made of glass",
+      "the Sun can fit in a room",
+      "the objects have very different sizes"
+    ],
+    "correct": 3,
+    "explanation": "Models represent ideas but are not the real objects.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Models represent ideas but are not the real objects.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-027",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Why can many stars be seen more easily at night?",
+    "audioPrompt": "Why can many stars be seen more easily at night?",
+    "visual": "",
+    "answers": [
+      "the Moon creates the stars",
+      "all clouds become stars",
+      "the sky is darker when our side faces away from the Sun",
+      "stars only exist at night"
+    ],
+    "correct": 2,
+    "explanation": "A darker sky makes star light easier to see.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "A darker sky makes star light easier to see.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-028",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A bright object keeps the same round outline while thin clouds pass in front. Which is the scientific observation?",
+    "audioPrompt": "A bright object keeps the same round outline while thin clouds pass in front. Which is the scientific observation?",
+    "visual": "",
+    "answers": [
+      "the Sun was inside the cloud",
+      "the clouds moved across the Moon",
+      "the Moon became a cloud",
+      "Earth stopped moving"
+    ],
+    "correct": 1,
+    "explanation": "The evidence shows two separate objects.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "The evidence shows two separate objects.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-029",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which change happens over about one day?",
+    "audioPrompt": "Which change happens over about one day?",
+    "visual": "",
+    "answers": [
+      "the Sun appears to cross the sky",
+      "Earth completes an orbit of the Sun",
+      "a new planet forms",
+      "the Moon becomes the Sun"
+    ],
+    "correct": 0,
+    "explanation": "The apparent daily Sun path repeats over a day.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "The apparent daily Sun path repeats over a day.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-030",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "About what does Earth complete in one year?",
+    "audioPrompt": "About what does Earth complete in one year?",
+    "visual": "",
+    "answers": [
+      "one orbit around the Moon",
+      "one trip through a cloud",
+      "one daily shadow",
+      "one orbit around the Sun"
+    ],
+    "correct": 3,
+    "explanation": "A year is linked to Earth's orbit around the Sun.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "A year is linked to Earth's orbit around the Sun.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-031",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A photograph taken from space shows Earth as curved. What can the photo support?",
+    "audioPrompt": "A photograph taken from space shows Earth as curved. What can the photo support?",
+    "visual": "",
+    "answers": [
+      "Earth is the Sun",
+      "oceans are in space",
+      "Earth is round like a ball",
+      "Earth is a flat square"
+    ],
+    "correct": 2,
+    "explanation": "Space images provide visible evidence of Earth's curved shape.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Space images provide visible evidence of Earth's curved shape.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-032",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A student wants a closer look at the Sun. What should they do?",
+    "audioPrompt": "A student wants a closer look at the Sun. What should they do?",
+    "visual": "",
+    "answers": [
+      "use ordinary sunglasses to stare",
+      "use teacher-provided safe images or approved equipment",
+      "stare with bare eyes",
+      "look through a magnifier"
+    ],
+    "correct": 1,
+    "explanation": "Direct viewing can damage eyes; use approved safe methods.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Direct viewing can damage eyes; use approved safe methods.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-033",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Why can we see the Moon even though it is not a star?",
+    "audioPrompt": "Why can we see the Moon even though it is not a star?",
+    "visual": "",
+    "answers": [
+      "It reflects light from the Sun.",
+      "It makes all its own sunlight.",
+      "It is a cloud with a lamp inside.",
+      "It glows because Earth switches off."
+    ],
+    "correct": 0,
+    "explanation": "The Moon is visible because sunlight reflects from its surface.\nHint: Think about where moonlight comes from.",
+    "structuredExplanation": {
+      "summary": "The Moon is visible because sunlight reflects from its surface.",
+      "hint": "Think about where moonlight comes from."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-034",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A shadow is shortest near midday and longer later. What can this tell us?",
+    "audioPrompt": "A shadow is shortest near midday and longer later. What can this tell us?",
+    "visual": "",
+    "answers": [
+      "The object has changed material.",
+      "Earth has stopped moving.",
+      "The shadow has its own light.",
+      "The Sun’s apparent position in the sky has changed."
+    ],
+    "correct": 3,
+    "explanation": "Shadow length changes as the Sun appears at different heights.\nHint: Connect the shadow to the Sun’s apparent position.",
+    "structuredExplanation": {
+      "summary": "Shadow length changes as the Sun appears at different heights.",
+      "hint": "Connect the shadow to the Sun’s apparent position."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-035",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which object travels around Earth naturally?",
+    "audioPrompt": "Which object travels around Earth naturally?",
+    "visual": "",
+    "answers": [
+      "Mars.",
+      "A cloud.",
+      "The Moon.",
+      "The Sun."
+    ],
+    "correct": 2,
+    "explanation": "The Moon is Earth’s natural satellite.\nHint: Choose Earth’s natural satellite.",
+    "structuredExplanation": {
+      "summary": "The Moon is Earth’s natural satellite.",
+      "hint": "Choose Earth’s natural satellite."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-036",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which observation is safest for studying the Sun’s daily pattern?",
+    "audioPrompt": "Which observation is safest for studying the Sun’s daily pattern?",
+    "visual": "",
+    "answers": [
+      "Use a magnifying glass to look at the Sun.",
+      "Record the direction and length of a shadow at set times.",
+      "Stare directly at the Sun.",
+      "Look through binoculars at the Sun."
+    ],
+    "correct": 1,
+    "explanation": "Shadows provide evidence without unsafe direct viewing.\nHint: Choose an indirect observation method.",
+    "structuredExplanation": {
+      "summary": "Shadows provide evidence without unsafe direct viewing.",
+      "hint": "Choose an indirect observation method."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-037",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Why do stars become easier to see after sunset?",
+    "audioPrompt": "Why do stars become easier to see after sunset?",
+    "visual": "",
+    "answers": [
+      "The sky becomes darker as our part of Earth faces away from the Sun.",
+      "Stars switch on only at night.",
+      "The Moon creates the stars.",
+      "Clouds turn into stars."
+    ],
+    "correct": 0,
+    "explanation": "A darker sky makes the light from stars easier to notice.\nHint: Think about brightness of the sky.",
+    "structuredExplanation": {
+      "summary": "A darker sky makes the light from stars easier to notice.",
+      "hint": "Think about brightness of the sky."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-038",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A space model uses a large ball for the Sun and a smaller ball for Earth. What idea can the model show?",
+    "audioPrompt": "A space model uses a large ball for the Sun and a smaller ball for Earth. What idea can the model show?",
+    "visual": "",
+    "answers": [
+      "The exact real sizes fit in a classroom.",
+      "Earth is made of the same material as the model ball.",
+      "The Sun is inside Earth.",
+      "Earth is much smaller than the Sun."
+    ],
+    "correct": 3,
+    "explanation": "Models can represent relative size even when not to exact scale.\nHint: Think about what models represent, not what they are made from.",
+    "structuredExplanation": {
+      "summary": "Models can represent relative size even when not to exact scale.",
+      "hint": "Think about what models represent, not what they are made from."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-039",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "What repeats over about one day?",
+    "audioPrompt": "What repeats over about one day?",
+    "visual": "",
+    "answers": [
+      "The Moon becomes the Sun.",
+      "A new planet forms.",
+      "The Sun appears to move across the sky and day changes to night.",
+      "Earth completes one orbit around the Sun."
+    ],
+    "correct": 2,
+    "explanation": "Earth’s rotation produces the daily cycle we observe.\nHint: Choose the daily pattern.",
+    "structuredExplanation": {
+      "summary": "Earth’s rotation produces the daily cycle we observe.",
+      "hint": "Choose the daily pattern."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-p-040",
+    "curriculumCode": "AC9S2U01",
+    "bank": "practice",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "What is linked to Earth taking about one year?",
+    "audioPrompt": "What is linked to Earth taking about one year?",
+    "visual": "",
+    "answers": [
+      "One shadow measurement.",
+      "One orbit around the Sun.",
+      "One trip around the Moon.",
+      "One sunrise."
+    ],
+    "correct": 1,
+    "explanation": "A year is associated with Earth completing an orbit around the Sun.\nHint: Think about the longer repeating cycle.",
+    "structuredExplanation": {
+      "summary": "A year is associated with Earth completing an orbit around the Sun.",
+      "hint": "Think about the longer repeating cycle."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-001",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A child says, “The Moon is a star because it shines.” Which correction is best?",
+    "audioPrompt": "A child says, “The Moon is a star because it shines.” Which correction is best?",
+    "visual": "",
+    "answers": [
+      "Anything bright is a star.",
+      "The Moon makes daylight.",
+      "The Moon is not a star; we see sunlight reflected from it.",
+      "The Moon is a tiny Sun."
+    ],
+    "correct": 2,
+    "explanation": "Brightness alone does not make an object a star.\nHint: Identify the source of moonlight.",
+    "structuredExplanation": {
+      "summary": "Brightness alone does not make an object a star.",
+      "hint": "Identify the source of moonlight."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-P-024",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
-    "bank": "practice",
-    "skill": "observe_sky_patterns",
-    "question": "Which object is not a planet?",
-    "audio_prompt": "Which object is not a planet?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-p-024",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which object is not a planet?"
-    },
-    "answers": [
-      {
-        "text": "the Sun",
-        "is_correct": true
-      },
-      {
-        "text": "Earth",
-        "is_correct": false
-      },
-      {
-        "text": "Mars",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The Sun is a star, not a planet.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S2U01-T-001",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-002",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "Which relationship is correct?",
-    "audio_prompt": "Which relationship is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-001",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which relationship is correct?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "At 8 am a pole shadow points west; later it points east. What changed?",
+    "audioPrompt": "At 8 am a pole shadow points west; later it points east. What changed?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Sun travels around the Moon",
-        "is_correct": false
-      },
-      {
-        "text": "Earth travels around the Sun",
-        "is_correct": true
-      },
-      {
-        "text": "Earth travels around a tree",
-        "is_correct": false
-      }
+      "The shadow chose a new direction.",
+      "The Sun’s apparent position across the sky.",
+      "The pole became magnetic.",
+      "The ground rotated around the pole only."
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Earth's orbit is around the Sun.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 1,
+    "explanation": "As Earth turns, the Sun appears in different sky positions and shadows change direction.\nHint: Connect shadow direction to the apparent Sun path.",
+    "structuredExplanation": {
+      "summary": "As Earth turns, the Sun appears in different sky positions and shadows change direction.",
+      "hint": "Connect shadow direction to the apparent Sun path."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-002",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-003",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A student answers “the Sun travels around the Moon”. Read the evidence in this question and choose the better answer: Which relationship is correct?",
-    "audio_prompt": "A student answers “the Sun travels around the Moon”. Read the evidence in this question and choose the better answer: Which relationship is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-002",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which relationship is correct?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement about Earth is correct?",
+    "audioPrompt": "Which statement about Earth is correct?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Sun travels around the Moon",
-        "is_correct": false
-      },
-      {
-        "text": "Earth travels around a tree",
-        "is_correct": false
-      },
-      {
-        "text": "Earth travels around the Sun",
-        "is_correct": true
-      }
+      "Earth is a planet that travels around the Sun.",
+      "Earth is a star that makes its own light.",
+      "Earth travels around the Moon once each day.",
+      "Earth is inside the Sun."
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Earth's orbit is around the Sun.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 0,
+    "explanation": "Earth is one of the planets orbiting the Sun.\nHint: Choose the correct space relationship.",
+    "structuredExplanation": {
+      "summary": "Earth is one of the planets orbiting the Sun.",
+      "hint": "Choose the correct space relationship."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-003",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-004",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A classroom model uses a basketball for the Sun and a marble for Earth. What does the model help show?",
-    "audio_prompt": "A classroom model uses a basketball for the Sun and a marble for Earth. What does the model help show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-003",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A classroom model uses a basketball for the Sun and a marble for Earth. What does the model help show?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A Moon drawing series shows a thin crescent, half-lit shape and nearly round shape on different dates. What does the series show?",
+    "audioPrompt": "A Moon drawing series shows a thin crescent, half-lit shape and nearly round shape on different dates. What does the series show?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the objects have very different sizes",
-        "is_correct": true
-      },
-      {
-        "text": "their exact real sizes",
-        "is_correct": false
-      },
-      {
-        "text": "Earth is made of glass",
-        "is_correct": false
-      }
+      "The Moon becomes a different object each night.",
+      "Clouds permanently remove pieces of the Moon.",
+      "The Moon grows and shrinks in actual size each week.",
+      "The Moon’s visible shape changes in a pattern over time."
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Models represent ideas but are not the real objects.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 3,
+    "explanation": "The Moon’s phases are changes in the lit portion visible from Earth.\nHint: Look for a repeating appearance pattern.",
+    "structuredExplanation": {
+      "summary": "The Moon’s phases are changes in the lit portion visible from Earth.",
+      "hint": "Look for a repeating appearance pattern."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-004",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-005",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A student answers “their exact real sizes”. Read the evidence in this question and choose the better answer: A classroom model uses a basketball for the Sun and a marble for Earth. What does the model help show?",
-    "audio_prompt": "A student answers “their exact real sizes”. Read the evidence in this question and choose the better answer: A classroom model uses a basketball for the Sun and a marble for Earth. What does the model help show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-004",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A classroom model uses a basketball for the Sun and a marble for Earth. What does the model help show?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Why should Moon observations be made at similar times when comparing nights?",
+    "audioPrompt": "Why should Moon observations be made at similar times when comparing nights?",
+    "visual": "",
     "answers": [
-      {
-        "text": "their exact real sizes",
-        "is_correct": false
-      },
-      {
-        "text": "the objects have very different sizes",
-        "is_correct": true
-      },
-      {
-        "text": "Earth is made of glass",
-        "is_correct": false
-      }
+      "It makes the Moon brighter.",
+      "It guarantees identical weather.",
+      "It makes the observations more comparable.",
+      "It forces the Moon into the same position."
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Models represent ideas but are not the real objects.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 2,
+    "explanation": "Keeping observation time similar reduces one source of variation.\nHint: Think about consistency.",
+    "structuredExplanation": {
+      "summary": "Keeping observation time similar reduces one source of variation.",
+      "hint": "Think about consistency."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-005",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-006",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "Why can many stars be seen more easily at night?",
-    "audio_prompt": "Why can many stars be seen more easily at night?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-005",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Why can many stars be seen more easily at night?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A child sees the Sun low in the east in the morning. What is a sensible later observation on a clear day?",
+    "audioPrompt": "A child sees the Sun low in the east in the morning. What is a sensible later observation on a clear day?",
+    "visual": "",
     "answers": [
-      {
-        "text": "stars only exist at night",
-        "is_correct": false
-      },
-      {
-        "text": "the Moon creates the stars",
-        "is_correct": false
-      },
-      {
-        "text": "the sky is darker when our side faces away from the Sun",
-        "is_correct": true
-      }
+      "Earth will stop turning.",
+      "The Sun may appear higher and farther across the sky.",
+      "The Sun will become the Moon at noon.",
+      "The Sun will fall onto the ground."
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A darker sky makes star light easier to see.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 1,
+    "explanation": "The Sun’s apparent position follows a daily pattern.\nHint: Extend the observed daily pattern.",
+    "structuredExplanation": {
+      "summary": "The Sun’s apparent position follows a daily pattern.",
+      "hint": "Extend the observed daily pattern."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-006",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-007",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A student answers “stars only exist at night”. Read the evidence in this question and choose the better answer: Why can many stars be seen more easily at night?",
-    "audio_prompt": "A student answers “stars only exist at night”. Read the evidence in this question and choose the better answer: Why can many stars be seen more easily at night?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-006",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Why can many stars be seen more easily at night?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "What causes day and night on Earth?",
+    "audioPrompt": "What causes day and night on Earth?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the sky is darker when our side faces away from the Sun",
-        "is_correct": true
-      },
-      {
-        "text": "stars only exist at night",
-        "is_correct": false
-      },
-      {
-        "text": "the Moon creates the stars",
-        "is_correct": false
-      }
+      "Earth rotates, so different parts face toward or away from the Sun.",
+      "The Sun switches off each night.",
+      "The Moon covers the Sun every evening.",
+      "Clouds block the Sun for exactly half a day."
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A darker sky makes star light easier to see.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 0,
+    "explanation": "Earth’s rotation changes which parts are illuminated by the Sun.\nHint: Think about Earth turning.",
+    "structuredExplanation": {
+      "summary": "Earth’s rotation changes which parts are illuminated by the Sun.",
+      "hint": "Think about Earth turning."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-007",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-008",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A bright object keeps the same round outline while thin clouds pass in front. Which is the scientific observation?",
-    "audio_prompt": "A bright object keeps the same round outline while thin clouds pass in front. Which is the scientific observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-007",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A bright object keeps the same round outline while thin clouds pass in front. Which is the scientific observation?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A classroom model shows Earth orbiting the Sun. What should students remember about the model?",
+    "audioPrompt": "A classroom model shows Earth orbiting the Sun. What should students remember about the model?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Moon became a cloud",
-        "is_correct": false
-      },
-      {
-        "text": "the clouds moved across the Moon",
-        "is_correct": true
-      },
-      {
-        "text": "Earth stopped moving",
-        "is_correct": false
-      }
+      "Every classroom model has exact space distances.",
+      "The model balls are real planets.",
+      "A model cannot show any useful science idea.",
+      "It represents the relationship but may not show exact sizes or distances."
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The evidence shows two separate objects.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 3,
+    "explanation": "Models simplify real systems to help explain relationships.\nHint: Recognise both usefulness and limits.",
+    "structuredExplanation": {
+      "summary": "Models simplify real systems to help explain relationships.",
+      "hint": "Recognise both usefulness and limits."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-008",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-009",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A student answers “the Moon became a cloud”. Read the evidence in this question and choose the better answer: A bright object keeps the same round outline while thin clouds pass in front. Which is the scientific observation?",
-    "audio_prompt": "A student answers “the Moon became a cloud”. Read the evidence in this question and choose the better answer: A bright object keeps the same round outline while thin clouds pass in front. Which is the scientific observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-008",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A bright object keeps the same round outline while thin clouds pass in front. Which is the scientific observation?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which observation provides evidence of a daily sky pattern?",
+    "audioPrompt": "Which observation provides evidence of a daily sky pattern?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Moon became a cloud",
-        "is_correct": false
-      },
-      {
-        "text": "Earth stopped moving",
-        "is_correct": false
-      },
-      {
-        "text": "the clouds moved across the Moon",
-        "is_correct": true
-      }
+      "A list of favourite planets.",
+      "A sound recording from indoors.",
+      "Sun-position drawings made at 9 am, noon and 3 pm on several clear days.",
+      "One drawing with no time."
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The evidence shows two separate objects.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 2,
+    "explanation": "Repeated timed observations can reveal a daily pattern.\nHint: Look for repeated observations over a day.",
+    "structuredExplanation": {
+      "summary": "Repeated timed observations can reveal a daily pattern.",
+      "hint": "Look for repeated observations over a day."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-009",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-010",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "Which change happens over about one day?",
-    "audio_prompt": "Which change happens over about one day?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-009",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which change happens over about one day?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Why must people never look directly at the Sun without approved protection?",
+    "audioPrompt": "Why must people never look directly at the Sun without approved protection?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the Sun appears to cross the sky",
-        "is_correct": true
-      },
-      {
-        "text": "Earth completes an orbit of the Sun",
-        "is_correct": false
-      },
-      {
-        "text": "a new planet forms",
-        "is_correct": false
-      }
+      "The Moon will disappear.",
+      "Bright sunlight can damage the eyes.",
+      "The Sun can pull people into space.",
+      "Looking makes the Sun hotter."
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The apparent daily Sun path repeats over a day.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 1,
+    "explanation": "Direct solar viewing can cause serious eye injury.\nHint: Choose the genuine safety reason.",
+    "structuredExplanation": {
+      "summary": "Direct solar viewing can cause serious eye injury.",
+      "hint": "Choose the genuine safety reason."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-010",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-011",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A student answers “Earth completes an orbit of the Sun”. Read the evidence in this question and choose the better answer: Which change happens over about one day?",
-    "audio_prompt": "A student answers “Earth completes an orbit of the Sun”. Read the evidence in this question and choose the better answer: Which change happens over about one day?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-010",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: Which change happens over about one day?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Earth and Mars are both called planets. What do they have in common?",
+    "audioPrompt": "Earth and Mars are both called planets. What do they have in common?",
+    "visual": "",
     "answers": [
-      {
-        "text": "Earth completes an orbit of the Sun",
-        "is_correct": false
-      },
-      {
-        "text": "the Sun appears to cross the sky",
-        "is_correct": true
-      },
-      {
-        "text": "a new planet forms",
-        "is_correct": false
-      }
+      "They travel around the Sun.",
+      "They are both stars.",
+      "They both travel around Earth.",
+      "They make their own sunlight."
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The apparent daily Sun path repeats over a day.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 0,
+    "explanation": "Planets in our solar system orbit the Sun.\nHint: Use the defining relationship.",
+    "structuredExplanation": {
+      "summary": "Planets in our solar system orbit the Sun.",
+      "hint": "Use the defining relationship."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-011",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-012",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "About what does Earth complete in one year?",
-    "audio_prompt": "About what does Earth complete in one year?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-011",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: About what does Earth complete in one year?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which object is a star?",
+    "audioPrompt": "Which object is a star?",
+    "visual": "",
     "answers": [
-      {
-        "text": "one orbit around the Moon",
-        "is_correct": false
-      },
-      {
-        "text": "one trip through a cloud",
-        "is_correct": false
-      },
-      {
-        "text": "one orbit around the Sun",
-        "is_correct": true
-      }
+      "Earth.",
+      "The Moon.",
+      "Mars.",
+      "The Sun."
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A year is linked to Earth's orbit around the Sun.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 3,
+    "explanation": "The Sun is the star at the centre of our solar system.\nHint: Identify the object that produces its own light.",
+    "structuredExplanation": {
+      "summary": "The Sun is the star at the centre of our solar system.",
+      "hint": "Identify the object that produces its own light."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-012",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-013",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A student answers “one orbit around the Moon”. Read the evidence in this question and choose the better answer: About what does Earth complete in one year?",
-    "audio_prompt": "A student answers “one orbit around the Moon”. Read the evidence in this question and choose the better answer: About what does Earth complete in one year?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-012",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: About what does Earth complete in one year?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "If the sky is cloudy, why might a shadow investigation be difficult?",
+    "audioPrompt": "If the sky is cloudy, why might a shadow investigation be difficult?",
+    "visual": "",
     "answers": [
-      {
-        "text": "one orbit around the Sun",
-        "is_correct": true
-      },
-      {
-        "text": "one orbit around the Moon",
-        "is_correct": false
-      },
-      {
-        "text": "one trip through a cloud",
-        "is_correct": false
-      }
+      "The pole changes length.",
+      "Shadows only exist in winter.",
+      "The Sun may not produce a clear shadow to measure.",
+      "Clouds stop Earth rotating."
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A year is linked to Earth's orbit around the Sun.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 2,
+    "explanation": "Diffuse light from clouds can make shadows faint or unclear.\nHint: Think about what is needed for a distinct shadow.",
+    "structuredExplanation": {
+      "summary": "Diffuse light from clouds can make shadows faint or unclear.",
+      "hint": "Think about what is needed for a distinct shadow."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-013",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-014",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A photograph taken from space shows Earth as curved. What can the photo support?",
-    "audio_prompt": "A photograph taken from space shows Earth as curved. What can the photo support?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-013",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A photograph taken from space shows Earth as curved. What can the photo support?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A photograph from space shows Earth as curved. What claim does this evidence support?",
+    "audioPrompt": "A photograph from space shows Earth as curved. What claim does this evidence support?",
+    "visual": "",
     "answers": [
-      {
-        "text": "Earth is a flat square",
-        "is_correct": false
-      },
-      {
-        "text": "Earth is round like a ball",
-        "is_correct": true
-      },
-      {
-        "text": "Earth is the Sun",
-        "is_correct": false
-      }
+      "Earth is smaller than the Moon.",
+      "Earth is roughly spherical rather than a flat square.",
+      "Earth is a star.",
+      "Earth has no oceans."
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Space images provide visible evidence of Earth's curved shape.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 1,
+    "explanation": "Space images show Earth’s curved shape.\nHint: Use only what the photograph can support.",
+    "structuredExplanation": {
+      "summary": "Space images show Earth’s curved shape.",
+      "hint": "Use only what the photograph can support."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-014",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-015",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A student answers “Earth is a flat square”. Read the evidence in this question and choose the better answer: A photograph taken from space shows Earth as curved. What can the photo support?",
-    "audio_prompt": "A student answers “Earth is a flat square”. Read the evidence in this question and choose the better answer: A photograph taken from space shows Earth as curved. What can the photo support?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-014",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A photograph taken from space shows Earth as curved. What can the photo support?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which pattern takes longer: one day-night cycle or one Earth orbit around the Sun?",
+    "audioPrompt": "Which pattern takes longer: one day-night cycle or one Earth orbit around the Sun?",
+    "visual": "",
     "answers": [
-      {
-        "text": "Earth is a flat square",
-        "is_correct": false
-      },
-      {
-        "text": "Earth is the Sun",
-        "is_correct": false
-      },
-      {
-        "text": "Earth is round like a ball",
-        "is_correct": true
-      }
+      "One Earth orbit around the Sun.",
+      "One day-night cycle.",
+      "They always take exactly the same time.",
+      "Neither involves repeating change."
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Space images provide visible evidence of Earth's curved shape.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 0,
+    "explanation": "A day is about one rotation; a year is about one orbit.\nHint: Compare day and year timescales.",
+    "structuredExplanation": {
+      "summary": "A day is about one rotation; a year is about one orbit.",
+      "hint": "Compare day and year timescales."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2U01-T-015",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
+    "id": "ac9s2u01-t-016",
+    "curriculumCode": "AC9S2U01",
     "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A student wants a closer look at the Sun. What should they do?",
-    "audio_prompt": "A student wants a closer look at the Sun. What should they do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-015",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A student wants a closer look at the Sun. What should they do?"
-    },
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A child says stars are gone during the day. What is the better explanation?",
+    "audioPrompt": "A child says stars are gone during the day. What is the better explanation?",
+    "visual": "",
     "answers": [
-      {
-        "text": "use teacher-provided safe images or approved equipment",
-        "is_correct": true
-      },
-      {
-        "text": "stare with bare eyes",
-        "is_correct": false
-      },
-      {
-        "text": "look through a magnifier",
-        "is_correct": false
-      }
+      "Stars disappear from space each morning.",
+      "The Sun eats the stars.",
+      "Daytime clouds become stars at night.",
+      "Many stars are still there, but the bright daytime sky makes them hard to see."
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Direct viewing can damage eyes; use approved safe methods.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
-  },
-  {
-    "id": "AC9S2U01-T-016",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2U01",
-    "bank": "test",
-    "skill": "observe_sky_patterns",
-    "question": "A student answers “stare with bare eyes”. Read the evidence in this question and choose the better answer: A student wants a closer look at the Sun. What should they do?",
-    "audio_prompt": "A student answers “stare with bare eyes”. Read the evidence in this question and choose the better answer: A student wants a closer look at the Sun. What should they do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u01.svg#ac9s2u01-t-016",
-      "alt_text": "A classroom model of Earth, the Moon and the Sun used to observe sky patterns. Question context: A student wants a closer look at the Sun. What should they do?"
+    "correct": 3,
+    "explanation": "Sunlight scattered in our atmosphere brightens the daytime sky and hides faint stars from view.\nHint: Separate visibility from existence.",
+    "structuredExplanation": {
+      "summary": "Sunlight scattered in our atmosphere brightens the daytime sky and hides faint stars from view.",
+      "hint": "Separate visibility from existence."
     },
-    "answers": [
-      {
-        "text": "stare with bare eyes",
-        "is_correct": false
-      },
-      {
-        "text": "use teacher-provided safe images or approved equipment",
-        "is_correct": true
-      },
-      {
-        "text": "look through a magnifier",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Direct viewing can damage eyes; use approved safe methods.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ]
