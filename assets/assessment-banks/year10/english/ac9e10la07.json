@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "A documentary interview places a politician half in shadow while the background is brightly lit. What visual choice is most noticeable?",
+    "audio_prompt": "A documentary interview places a politician half in shadow while the background is brightly lit. What visual choice is most noticeable?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "contrast between light and shadow",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "high camera angle",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "symmetrical composition",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "shallow depth of field",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
+      "summary": "The strongest feature is the split lighting, which visually divides the face and can complicate how the person is represented.",
+      "hint": "Focus on the most obvious visual contrast."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "A sports photograph shows an injured player in a wide shot with an empty stadium around them. What does the wide framing emphasise?",
+    "audio_prompt": "A sports photograph shows an injured player in a wide shot with an empty stadium around them. What does the wide framing emphasise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "isolation",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "speed",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "authority",
+        "is_correct": false
+      },
+      {
+        "text": "humour",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
+      "summary": "The large amount of empty space makes the player appear small and alone within the scene.",
+      "hint": "Ask what the surrounding space makes you notice."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-p-003",
@@ -85,38 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text?",
+    "skill": "visual representation and nuance",
+    "question": "A campaign poster places one child in sharp focus while a crowd behind is blurred. Which feature directs attention to the child?",
+    "audio_prompt": "A campaign poster places one child in sharp focus while a crowd behind is blurred. Which feature directs attention to the child?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "selective focus",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "low angle",
+        "is_correct": false
+      },
+      {
+        "text": "monochrome colour",
+        "is_correct": false
+      },
+      {
+        "text": "symmetry",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
+      "summary": "Sharp focus against a blurred background makes the child the most salient part of the image.",
+      "hint": "Which element is visually clearest?"
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-p-004",
@@ -124,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text?",
+    "skill": "visual representation and nuance",
+    "question": "A film frames a manager from below as they enter a meeting. What effect is most commonly associated with this low angle?",
+    "audio_prompt": "A film frames a manager from below as they enter a meeting. What effect is most commonly associated with this low angle?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "greater visual dominance",
         "is_correct": true
+      },
+      {
+        "text": "greater vulnerability",
+        "is_correct": false
+      },
+      {
+        "text": "physical distance",
+        "is_correct": false
+      },
+      {
+        "text": "comic awkwardness",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
+      "summary": "Looking upward at a subject can make them appear larger and more imposing.",
+      "hint": "Think about who seems visually powerful."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-p-005",
@@ -164,39 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "A news image centres a protest sign while the protesters’ faces are cropped out. What does the composition foreground?",
+    "audio_prompt": "A news image centres a protest sign while the protesters’ faces are cropped out. What does the composition foreground?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "the message on the sign",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "individual identities",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "the surrounding architecture",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "the photographer",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
+      "summary": "Central placement and cropping shift attention from individual people to the written message.",
+      "hint": "What remains most visible?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-p-006",
@@ -204,39 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "A graphic novel changes from warm colours in family scenes to cold blue-grey tones when the protagonist is alone. What visual feature creates this contrast?",
+    "audio_prompt": "A graphic novel changes from warm colours in family scenes to cold blue-grey tones when the protagonist is alone. What visual feature creates this contrast?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "colour palette",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "camera movement",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "font weight",
+        "is_correct": false
+      },
+      {
+        "text": "speech volume",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
+      "summary": "The shift in palette creates a visual distinction between emotional situations.",
+      "hint": "Look for the feature involving colour choices."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-p-007",
@@ -244,39 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "A portrait has the subject looking directly at the camera. Which feature is this?",
+    "audio_prompt": "A portrait has the subject looking directly at the camera. Which feature is this?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "direct gaze",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "bird’s-eye view",
+        "is_correct": false
+      },
+      {
+        "text": "negative space",
+        "is_correct": false
+      },
+      {
+        "text": "motion blur",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
+      "summary": "Direct gaze occurs when the represented person appears to look at the viewer.",
+      "hint": "Where are the subject’s eyes directed?"
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-p-008",
@@ -284,39 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "An advertisement makes the product much larger than all surrounding objects. Which visual feature is being manipulated?",
+    "audio_prompt": "An advertisement makes the product much larger than all surrounding objects. Which visual feature is being manipulated?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "scale",
         "is_correct": true
+      },
+      {
+        "text": "texture",
+        "is_correct": false
+      },
+      {
+        "text": "gaze",
+        "is_correct": false
+      },
+      {
+        "text": "horizon line",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
+      "summary": "Exaggerated size makes the product visually dominant.",
+      "hint": "Compare relative sizes."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-009",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A photograph uses a fence in the foreground between the viewer and a family behind it. What visual idea does the fence most directly suggest?",
+    "audio_prompt": "A photograph uses a fence in the foreground between the viewer and a family behind it. What visual idea does the fence most directly suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "separation or restriction",
+        "is_correct": true
+      },
+      {
+        "text": "celebration",
+        "is_correct": false
+      },
+      {
+        "text": "speed",
+        "is_correct": false
+      },
+      {
+        "text": "neutrality",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A physical barrier in the frame can symbolically reinforce distance, exclusion or restricted access.",
+      "hint": "Consider what a barrier does literally."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-010",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A film still places two characters at opposite edges of the frame with empty space between them. What relationship is visually suggested?",
+    "audio_prompt": "A film still places two characters at opposite edges of the frame with empty space between them. What relationship is visually suggested?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "distance or tension",
+        "is_correct": true
+      },
+      {
+        "text": "complete agreement",
+        "is_correct": false
+      },
+      {
+        "text": "shared authority",
+        "is_correct": false
+      },
+      {
+        "text": "fast movement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The separated placement and empty space visually reinforce emotional or social distance.",
+      "hint": "Notice how far apart the characters are positioned."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-011",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "Why might a filmmaker show a wealthy apartment in soft golden light but the street below in harsh fluorescent light?",
+    "audio_prompt": "Why might a filmmaker show a wealthy apartment in soft golden light but the street below in harsh fluorescent light?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The contrast can create a nuanced representation of comfort and inequality within the same place.",
+        "is_correct": true
+      },
+      {
+        "text": "The lighting proves wealthy people are morally good.",
+        "is_correct": false
+      },
+      {
+        "text": "The two lighting styles have no representational effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Fluorescent light always means a scene is set at night.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contrasting lighting can attach different emotional qualities to connected spaces, inviting comparison rather than stating a simple judgement.",
+      "hint": "Explain how the two spaces are positioned differently."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-012",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A photo essay repeatedly shows a drought-affected farmer in both exhausted close-ups and confident wide shots at work. Why is this more nuanced than using only distressed close-ups?",
+    "audio_prompt": "A photo essay repeatedly shows a drought-affected farmer in both exhausted close-ups and confident wide shots at work. Why is this more nuanced than using only distressed close-ups?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It represents vulnerability and agency rather than reducing the farmer to a single trait.",
+        "is_correct": true
+      },
+      {
+        "text": "It removes all emotion from the representation.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the farmer never struggles.",
+        "is_correct": false
+      },
+      {
+        "text": "Wide shots are always more truthful than close-ups.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using contrasting framings can show different dimensions of a person’s experience and avoid a one-note portrayal.",
+      "hint": "Look for complexity rather than a single stereotype."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-013",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A magazine cover shows a celebrity smiling, but their reflection in a mirror looks serious. What does this visual contrast invite the viewer to consider?",
+    "audio_prompt": "A magazine cover shows a celebrity smiling, but their reflection in a mirror looks serious. What does this visual contrast invite the viewer to consider?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a difference between public image and private feeling",
+        "is_correct": true
+      },
+      {
+        "text": "that mirrors always distort faces",
+        "is_correct": false
+      },
+      {
+        "text": "that the celebrity is two different people",
+        "is_correct": false
+      },
+      {
+        "text": "that smiling is dishonest in every context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The contrasting expressions can suggest tension between outward presentation and inner experience.",
+      "hint": "Compare the two versions of the same person."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-014",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "Why can cropping change a representation even when the original photo is unchanged?",
+    "audio_prompt": "Why can cropping change a representation even when the original photo is unchanged?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It controls what context the audience can see and therefore what interpretations seem likely.",
+        "is_correct": true
+      },
+      {
+        "text": "Cropping changes the historical event itself.",
+        "is_correct": false
+      },
+      {
+        "text": "Cropping makes every image deceptive.",
+        "is_correct": false
+      },
+      {
+        "text": "Cropping only affects image size, never meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Removing surrounding details can alter emphasis and hide contextual information, changing how a subject is read.",
+      "hint": "Ask what disappears outside the frame."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-015",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A refugee-story webpage alternates formal ID-style portraits with candid family photos. What does this combination achieve?",
+    "audio_prompt": "A refugee-story webpage alternates formal ID-style portraits with candid family photos. What does this combination achieve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It balances official identity with personal relationships and everyday life.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves formal photographs are inaccurate.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the page visually inconsistent and therefore meaningless.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes cultural context from the story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different visual modes can complicate a representation by showing both institutional and personal dimensions.",
+      "hint": "What different aspects of identity does each image type show?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-016",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A character is often filmed through doorways and windows before finally being shown in an unobstructed close-up. What change may this represent?",
+    "audio_prompt": "A character is often filmed through doorways and windows before finally being shown in an unobstructed close-up. What change may this represent?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "movement from emotional distance or constraint toward openness",
+        "is_correct": true
+      },
+      {
+        "text": "a change from day to night",
+        "is_correct": false
+      },
+      {
+        "text": "a shift from comedy to documentary",
+        "is_correct": false
+      },
+      {
+        "text": "proof that the character has moved house",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated barriers can symbolise restriction; removing them can visually mark a change in the character’s state or relationships.",
+      "hint": "Track what happens to the visual barriers."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-017",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A news graphic uses a muted map but a bright red circle around one suburb. Why is the suburb likely to feel especially significant?",
+    "audio_prompt": "A news graphic uses a muted map but a bright red circle around one suburb. Why is the suburb likely to feel especially significant?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Colour contrast makes it highly salient.",
+        "is_correct": true
+      },
+      {
+        "text": "The map becomes more historically accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Red automatically proves danger.",
+        "is_correct": false
+      },
+      {
+        "text": "Muted colours remove all other information.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Strong contrast draws the eye and gives the highlighted area visual priority.",
+      "hint": "Which element stands out first?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-018",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A film shows a strict teacher in a low-angle shot during discipline, then later at eye level while comforting a student. Why is the angle shift meaningful?",
+    "audio_prompt": "A film shows a strict teacher in a low-angle shot during discipline, then later at eye level while comforting a student. Why is the angle shift meaningful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It complicates the teacher’s representation by moving from authority to a more equal, human interaction.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the teacher loses their job.",
+        "is_correct": false
+      },
+      {
+        "text": "Eye-level shots always make characters weak.",
+        "is_correct": false
+      },
+      {
+        "text": "The change only prevents visual repetition.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The shift in viewpoint can alter the power relationship and reveal another side of the character.",
+      "hint": "Compare how powerful the teacher appears in each shot."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-019",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A charity campaign shows hands repairing a flood-damaged home rather than close-ups of crying residents. What representation does this choice support?",
+    "audio_prompt": "A charity campaign shows hands repairing a flood-damaged home rather than close-ups of crying residents. What representation does this choice support?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "community action and capability rather than helplessness alone",
+        "is_correct": true
+      },
+      {
+        "text": "complete absence of hardship",
+        "is_correct": false
+      },
+      {
+        "text": "proof that the flood caused little damage",
+        "is_correct": false
+      },
+      {
+        "text": "a purely comic response to disaster",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Showing constructive action can represent affected people as active participants, not only as victims.",
+      "hint": "What can the people in the image do, not just feel?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-020",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A graphic memoir leaves one panel almost entirely white after a traumatic revelation. Why can the empty space be meaningful?",
+    "audio_prompt": "A graphic memoir leaves one panel almost entirely white after a traumatic revelation. Why can the empty space be meaningful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can create pause, shock or emotional absence without adding literal detail.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the artist forgot to finish the page.",
+        "is_correct": false
+      },
+      {
+        "text": "White space always represents happiness.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the previous panel irrelevant.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Negative space can slow reading and let absence itself carry emotional weight.",
+      "hint": "Consider what the lack of detail makes the reader feel."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-021",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "Which analysis avoids overclaiming the effect of a dark colour palette?",
+    "audio_prompt": "Which analysis avoids overclaiming the effect of a dark colour palette?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It may create unease or seriousness depending on the surrounding imagery and context.",
+        "is_correct": true
+      },
+      {
+        "text": "Dark colours always prove a character is evil.",
+        "is_correct": false
+      },
+      {
+        "text": "Every viewer will feel exactly the same emotion.",
+        "is_correct": false
+      },
+      {
+        "text": "Colour has no role in representation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visual effects are contextual; strong analysis links the palette to evidence without claiming one fixed response.",
+      "hint": "Avoid “always” and “everyone”."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-022",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "Two photos show the same rally. One is tightly cropped around an angry face; the other is a wide shot of families and signs. Which claim is strongest?",
+    "audio_prompt": "Two photos show the same rally. One is tightly cropped around an angry face; the other is a wide shot of families and signs. Which claim is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different framing can produce different impressions of the same event by selecting different evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "One of the photographs must be fake.",
+        "is_correct": false
+      },
+      {
+        "text": "Wide shots are always neutral while close-ups are biased.",
+        "is_correct": false
+      },
+      {
+        "text": "The event itself changes according to the camera distance.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Framing selects what viewers see, so different valid images can still construct different representations.",
+      "hint": "Separate the event from how it is framed."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-023",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "Which visual choice most clearly challenges a stereotype of teenagers as disengaged?",
+    "audio_prompt": "Which visual choice most clearly challenges a stereotype of teenagers as disengaged?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A sequence showing teenagers organising, debating and repairing community equipment",
+        "is_correct": true
+      },
+      {
+        "text": "A single image of a teenager looking at a phone",
+        "is_correct": false
+      },
+      {
+        "text": "A blurred school corridor with no people",
+        "is_correct": false
+      },
+      {
+        "text": "A close-up of an empty desk",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Showing sustained purposeful action directly counters a representation of passivity or disengagement.",
+      "hint": "Choose evidence that provides an alternative pattern of behaviour."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-024",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A poster shows a tiny person beneath a huge office tower. Which interpretation is best supported?",
+    "audio_prompt": "A poster shows a tiny person beneath a huge office tower. Which interpretation is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The scale contrast can make the institution seem overwhelming relative to the individual.",
+        "is_correct": true
+      },
+      {
+        "text": "The person is literally smaller than normal humans.",
+        "is_correct": false
+      },
+      {
+        "text": "The building is necessarily corrupt.",
+        "is_correct": false
+      },
+      {
+        "text": "The image proves the person dislikes architecture.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Relative scale can symbolically represent unequal power without proving a specific moral judgement.",
+      "hint": "Interpret the visual relationship without inventing facts."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-025",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "Which statement about direct gaze is most accurate?",
+    "audio_prompt": "Which statement about direct gaze is most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can create confrontation, connection or appeal depending on expression and context.",
+        "is_correct": true
+      },
+      {
+        "text": "It always makes the subject aggressive.",
+        "is_correct": false
+      },
+      {
+        "text": "It always makes the viewer trust the subject.",
+        "is_correct": false
+      },
+      {
+        "text": "It has no effect unless text appears beside the image.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Direct gaze is a resource whose meaning changes with facial expression, framing and purpose.",
+      "hint": "Do not treat one feature as having one universal effect."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-026",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A filmmaker wants to represent a character as watched and constrained. Which framing is strongest?",
+    "audio_prompt": "A filmmaker wants to represent a character as watched and constrained. Which framing is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Show the character through security-camera screens and narrow doorframes.",
+        "is_correct": true
+      },
+      {
+        "text": "Use only bright establishing shots of open fields.",
+        "is_correct": false
+      },
+      {
+        "text": "Place the character in the centre of an empty beach.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a neutral passport-style portrait.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Frames within frames and surveillance imagery visually reinforce observation and restriction.",
+      "hint": "Look for barriers and monitoring."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-027",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "Which analysis best explains a split-screen showing a politician’s speech beside footage of overflowing bins?",
+    "audio_prompt": "Which analysis best explains a split-screen showing a politician’s speech beside footage of overflowing bins?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The juxtaposition invites viewers to compare the claim with visual evidence that may complicate it.",
+        "is_correct": true
+      },
+      {
+        "text": "The footage automatically proves every word is false.",
+        "is_correct": false
+      },
+      {
+        "text": "Split-screen always creates humour.",
+        "is_correct": false
+      },
+      {
+        "text": "The two images cannot influence each other because they are separate.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Juxtaposition produces meaning through comparison, but interpretation should still remain evidence-based rather than absolute.",
+      "hint": "Ask what comparison the layout invites."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-028",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A tourism ad uses saturated colours for one beach but muted colours for a nearby industrial area. What is the key representational issue?",
+    "audio_prompt": "A tourism ad uses saturated colours for one beach but muted colours for a nearby industrial area. What is the key representational issue?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The colour treatment may selectively idealise one place and diminish another.",
+        "is_correct": true
+      },
+      {
+        "text": "Saturated colour makes the beach physically warmer.",
+        "is_correct": false
+      },
+      {
+        "text": "Muted colour proves the industrial area is unsafe.",
+        "is_correct": false
+      },
+      {
+        "text": "Colour choices cannot shape place representation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different colour treatment can position locations unequally and steer viewers toward preferred impressions.",
+      "hint": "Compare how each place is visually valued."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-029",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "Which image would create the most complex representation of a winning athlete?",
+    "audio_prompt": "Which image would create the most complex representation of a winning athlete?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A sequence showing celebration, exhaustion and helping an injured rival",
+        "is_correct": true
+      },
+      {
+        "text": "Only a trophy held above the athlete’s head",
+        "is_correct": false
+      },
+      {
+        "text": "Only the final score on a screen",
+        "is_correct": false
+      },
+      {
+        "text": "Only a smiling publicity portrait",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multiple contrasting moments show achievement alongside physical cost and sportsmanship, creating a more layered portrayal.",
+      "hint": "Look for more than one dimension of the person."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-030",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A documentary uses archival footage with no sound, then adds present-day audio interviews over it. What is the strongest analysis?",
+    "audio_prompt": "A documentary uses archival footage with no sound, then adds present-day audio interviews over it. What is the strongest analysis?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The combination connects past images with current interpretation, allowing memory and evidence to interact.",
+        "is_correct": true
+      },
+      {
+        "text": "The archival footage becomes fictional once new audio is added.",
+        "is_correct": false
+      },
+      {
+        "text": "Silence always means the past was peaceful.",
+        "is_correct": false
+      },
+      {
+        "text": "The interview audio can only describe what is visible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Layering modes can make historical images carry new meaning through contemporary voices and reflection.",
+      "hint": "Think about how one mode reframes another."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-031",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "You are designing a poster about youth homelessness and want to avoid representing young people only as helpless. Which visual plan is strongest?",
+    "audio_prompt": "You are designing a poster about youth homelessness and want to avoid representing young people only as helpless. Which visual plan is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Combine portraits with images of young people studying, working and speaking at a housing forum.",
+        "is_correct": true
+      },
+      {
+        "text": "Use only shadowed images of people sitting alone.",
+        "is_correct": false
+      },
+      {
+        "text": "Crop out every face and show only abandoned belongings.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one dramatic image of a person crying.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Combining hardship with agency and participation creates a fuller representation and avoids reducing people to victimhood.",
+      "hint": "Show challenge and capability together."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-032",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A school documentary wants to show that a principal is both authoritative and approachable. Which sequence best supports that?",
+    "audio_prompt": "A school documentary wants to show that a principal is both authoritative and approachable. Which sequence best supports that?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a low-angle assembly shot, then an eye-level conversation with students.",
+        "is_correct": true
+      },
+      {
+        "text": "Use low-angle shots in every scene.",
+        "is_correct": false
+      },
+      {
+        "text": "Use distant silhouettes only.",
+        "is_correct": false
+      },
+      {
+        "text": "Never show the principal with other people.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contrasting angles and contexts can represent institutional authority alongside interpersonal equality.",
+      "hint": "Use different visual relationships for different roles."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-033",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A website about bushfire recovery wants visitors to notice rebuilding rather than only destruction. Which hero image is best?",
+    "audio_prompt": "A website about bushfire recovery wants visitors to notice rebuilding rather than only destruction. Which hero image is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A wide image showing burnt trees beside residents rebuilding a community hall.",
+        "is_correct": true
+      },
+      {
+        "text": "A tightly cropped image of ash only.",
+        "is_correct": false
+      },
+      {
+        "text": "A black screen with no visual context.",
+        "is_correct": false
+      },
+      {
+        "text": "A stock image of an unrelated city skyline.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Placing damage and rebuilding together visually acknowledges loss while foregrounding recovery and agency.",
+      "hint": "Choose an image that carries both parts of the story."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-034",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A graphic novel scene must show a friendship becoming strained without dialogue. Which layout works best?",
+    "audio_prompt": "A graphic novel scene must show a friendship becoming strained without dialogue. Which layout works best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Gradually increase the physical space between the characters across successive panels.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep both characters touching in every panel.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the characters with unrelated scenery.",
+        "is_correct": false
+      },
+      {
+        "text": "Use identical close-ups with no change in position.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Increasing separation is a visual pattern that can represent growing emotional distance without words.",
+      "hint": "Let composition change with the relationship."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-035",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "An online article questions whether a redevelopment benefits everyone. Which image choice best supports a nuanced argument?",
+    "audio_prompt": "An online article questions whether a redevelopment benefits everyone. Which image choice best supports a nuanced argument?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Show the new plaza alongside nearby shop closures and residents using the space.",
+        "is_correct": true
+      },
+      {
+        "text": "Show only a glossy architectural rendering.",
+        "is_correct": false
+      },
+      {
+        "text": "Show only a broken footpath from before construction.",
+        "is_correct": false
+      },
+      {
+        "text": "Use no images because visual evidence cannot be analytical.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contrasting benefits and costs visually supports a complex evaluation rather than a one-sided representation.",
+      "hint": "Include evidence for more than one perspective."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-036",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A photographer wants a portrait to feel collaborative rather than intrusive. Which choice is most suitable?",
+    "audio_prompt": "A photographer wants a portrait to feel collaborative rather than intrusive. Which choice is most suitable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Eye-level framing with the subject meeting the camera on their own terms.",
+        "is_correct": true
+      },
+      {
+        "text": "A hidden telephoto image through a fence.",
+        "is_correct": false
+      },
+      {
+        "text": "An extreme high angle from above.",
+        "is_correct": false
+      },
+      {
+        "text": "Cropping the subject’s face without explanation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Eye-level, direct engagement can position the subject with greater visual equality and agency.",
+      "hint": "Consider the power relationship between camera and subject."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-037",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A documentary about a mining town wants to show economic dependence without portraying residents as identical. Which visual strategy is strongest?",
+    "audio_prompt": "A documentary about a mining town wants to show economic dependence without portraying residents as identical. Which visual strategy is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Combine mine imagery with varied portraits, homes, businesses and community spaces.",
+        "is_correct": true
+      },
+      {
+        "text": "Use only aerial shots of the mine.",
+        "is_correct": false
+      },
+      {
+        "text": "Show one resident repeatedly and treat them as representative of everyone.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only company advertising footage.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Varied visual evidence connects the mine to the town while preserving differences among people and spaces.",
+      "hint": "Avoid letting one image stand for an entire community."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-038",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A climate infographic must draw attention to one rapidly warming region without implying the rest of Australia is unaffected. Which design is best?",
+    "audio_prompt": "A climate infographic must draw attention to one rapidly warming region without implying the rest of Australia is unaffected. Which design is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Highlight the region strongly while keeping readable data for all other regions.",
+        "is_correct": true
+      },
+      {
+        "text": "Colour only the highlighted region and remove all other data.",
+        "is_correct": false
+      },
+      {
+        "text": "Make every other region invisible.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a warning icon with no map or comparison values.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Salience can guide attention while retaining context, preventing the highlighted area from being misread as the only affected place.",
+      "hint": "Emphasise without erasing comparison."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-039",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A short film wants to suggest that a character feels trapped at work. Which repeated visual motif would be most effective?",
+    "audio_prompt": "A short film wants to suggest that a character feels trapped at work. Which repeated visual motif would be most effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Frame the character behind glass partitions, doorframes and grid-like shadows.",
+        "is_correct": true
+      },
+      {
+        "text": "Use open landscapes in every workplace scene.",
+        "is_correct": false
+      },
+      {
+        "text": "Show only close-ups of office plants.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every shot brightly symmetrical with no barriers.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeated barriers and enclosing lines can visually reinforce confinement across scenes.",
+      "hint": "Choose a motif that repeatedly encloses the character."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-p-040",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "visual representation and nuance",
+    "question": "A news editor has two legitimate images of the same march: one close-up of confrontation and one wide shot showing a mostly peaceful crowd. What is the most responsible choice?",
+    "audio_prompt": "A news editor has two legitimate images of the same march: one close-up of confrontation and one wide shot showing a mostly peaceful crowd. What is the most responsible choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use the image that fits the article’s evidence and caption it with enough context to avoid misleading readers.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the most dramatic image regardless of the article.",
+        "is_correct": false
+      },
+      {
+        "text": "Always use the wide shot because wide shots are unbiased.",
+        "is_correct": false
+      },
+      {
+        "text": "Combine either image with a caption that claims more than it shows.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Responsible visual selection considers representativeness, evidence and context rather than drama alone.",
+      "hint": "Match the image to the article’s supported account."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-t-001",
@@ -324,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "What is the correct way to apply a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text?",
-    "audio_prompt": "What is the correct way to apply a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text?",
+    "skill": "visual representation and nuance",
+    "question": "A documentary shows a mayor in a polished office, then cuts to the same person helping stack sandbags in rain. What does the contrast mainly add?",
+    "audio_prompt": "A documentary shows a mayor in a polished office, then cuts to the same person helping stack sandbags in rain. What does the contrast mainly add?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "A more layered representation across formal and practical roles",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Proof that the mayor dislikes the office",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A guarantee that the mayor is popular",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A change in historical period",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+      "summary": "The contrasting settings complicate the representation by showing the subject operating in different roles.",
+      "hint": "Compare what each setting reveals."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-t-002",
@@ -361,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "A portrait places an elderly mechanic centrally, surrounded by tools accumulated over decades. What does the composition most strongly foreground?",
+    "audio_prompt": "A portrait places an elderly mechanic centrally, surrounded by tools accumulated over decades. What does the composition most strongly foreground?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "identity connected to skilled work and experience",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "physical weakness",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "social isolation",
+        "is_correct": false
+      },
+      {
+        "text": "fear of technology",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+      "summary": "Central placement and surrounding objects connect the person visually with expertise and a long working history.",
+      "hint": "Notice what the environment says about the subject."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-t-003",
@@ -398,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text?",
+    "skill": "visual representation and nuance",
+    "question": "A news site uses a close-up of one damaged house to accompany a story about a cyclone affecting an entire region. What should a careful reader remember?",
+    "audio_prompt": "A news site uses a close-up of one damaged house to accompany a story about a cyclone affecting an entire region. What should a careful reader remember?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "The image is emotionally powerful but represents only one part of a much larger event.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The single house proves every building was destroyed.",
+        "is_correct": false
+      },
+      {
+        "text": "Close-ups are always misleading.",
+        "is_correct": false
+      },
+      {
+        "text": "The article cannot include statistics if it has a photo.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+      "summary": "A close-up can intensify impact while narrowing visible context, so it should not be treated as a complete picture of the event.",
+      "hint": "Ask what lies outside the frame."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-t-004",
@@ -435,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "A film repeatedly shows a teenager reflected in bus windows while moving between two homes. What might the reflections contribute?",
+    "audio_prompt": "A film repeatedly shows a teenager reflected in bus windows while moving between two homes. What might the reflections contribute?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "They can suggest divided or unsettled identity during transition.",
         "is_correct": true
+      },
+      {
+        "text": "They prove the teenager has poor eyesight.",
+        "is_correct": false
+      },
+      {
+        "text": "They show that buses are dangerous.",
+        "is_correct": false
+      },
+      {
+        "text": "They remove ambiguity from the character.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+      "summary": "Repeated reflections can visually support ideas of doubleness, uncertainty or shifting identity.",
+      "hint": "Think symbolically about seeing more than one image of the same person."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-t-005",
@@ -472,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text?",
+    "skill": "visual representation and nuance",
+    "question": "An election advertisement photographs its candidate at eye level among commuters rather than alone behind a lectern. What representation is this likely to support?",
+    "audio_prompt": "An election advertisement photographs its candidate at eye level among commuters rather than alone behind a lectern. What representation is this likely to support?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "accessibility and social proximity",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "military authority",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "physical isolation",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "historical distance",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+      "summary": "Eye-level framing and shared space can make the candidate appear closer to ordinary daily life.",
+      "hint": "Look at the relationship between subject and surrounding people."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-t-006",
@@ -509,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "A poster about ocean pollution shows a beautiful reef in the top half and plastic debris in the lower half. What creates the central meaning?",
+    "audio_prompt": "A poster about ocean pollution shows a beautiful reef in the top half and plastic debris in the lower half. What creates the central meaning?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "visual juxtaposition",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "direct gaze",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "low-angle framing",
+        "is_correct": false
+      },
+      {
+        "text": "motion blur",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+      "summary": "The poster asks viewers to compare beauty and damage through the two contrasting images.",
+      "hint": "Meaning comes from the side-by-side contrast."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-t-007",
@@ -546,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "A graphic memoir depicts a family argument in crowded panels, then uses one full-page image of the narrator alone outside. What is the likely effect of the layout change?",
+    "audio_prompt": "A graphic memoir depicts a family argument in crowded panels, then uses one full-page image of the narrator alone outside. What is the likely effect of the layout change?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "It slows the reading pace and gives the isolation greater emotional weight.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It makes the argument less important because it uses more panels.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the narrator leaves permanently.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the memoir into a news report.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+      "summary": "The large single image interrupts the crowded rhythm and makes the moment of separation more salient.",
+      "hint": "Compare pacing before and after the page turn."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la07-t-008",
@@ -583,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_features_of_visual_texts_that_create_nuance_in_representations_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual representation and nuance",
+    "question": "A wildlife campaign photographs a threatened bird at its natural eye level instead of from high above. Why might this matter?",
+    "audio_prompt": "A wildlife campaign photographs a threatened bird at its natural eye level instead of from high above. Why might this matter?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
+        "text": "It can position the animal as a subject to encounter rather than a small object viewed from dominance.",
         "is_correct": true
+      },
+      {
+        "text": "It guarantees viewers will donate.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes all scientific information.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the bird look physically larger than it is.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining features of visual texts that create nuance in representations; for example, analysing the use of light and dark, and evaluating the impact of light and dark on representing duplicity",
-      "hint": "A writer or speaker can use word choice to shape examining features of visual texts that create nuance in representations and influence how an audience understands the text."
-    }
+      "summary": "Eye-level perspective can reduce visual hierarchy and encourage a more direct relationship with the represented subject.",
+      "hint": "Think about camera height and power."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-t-009",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual representation and nuance",
+    "question": "A documentary shows a factory owner speaking while workers are visible through glass behind them. What could the layered composition suggest?",
+    "audio_prompt": "A documentary shows a factory owner speaking while workers are visible through glass behind them. What could the layered composition suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The owner’s account exists alongside the people affected by those decisions.",
+        "is_correct": true
+      },
+      {
+        "text": "The workers are unrelated background decoration.",
+        "is_correct": false
+      },
+      {
+        "text": "Glass always symbolises honesty.",
+        "is_correct": false
+      },
+      {
+        "text": "The owner is necessarily lying.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Keeping workers visible while the owner speaks creates a visual relationship between decision-maker and consequences without proving a single judgement.",
+      "hint": "Ask why both groups are kept in the same frame."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-t-010",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual representation and nuance",
+    "question": "A travel feature uses misty desaturated photos for an inland town but bright saturated photos for the coast. What should a reader question?",
+    "audio_prompt": "A travel feature uses misty desaturated photos for an inland town but bright saturated photos for the coast. What should a reader question?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How colour treatment may be valuing one destination over the other",
+        "is_correct": true
+      },
+      {
+        "text": "Whether the camera can record colour",
+        "is_correct": false
+      },
+      {
+        "text": "Whether inland towns legally require grey images",
+        "is_correct": false
+      },
+      {
+        "text": "Whether bright photos contain more factual information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different colour treatment can shape preference and place identity, so readers should consider how editing affects representation.",
+      "hint": "Compare the visual value assigned to each place."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-t-011",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual representation and nuance",
+    "question": "A film shows a confident speaker in close-up, but places a trembling hand at the edge of the frame. What nuance does this create?",
+    "audio_prompt": "A film shows a confident speaker in close-up, but places a trembling hand at the edge of the frame. What nuance does this create?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Outward confidence is complicated by visible nervousness.",
+        "is_correct": true
+      },
+      {
+        "text": "The speaker is definitely dishonest.",
+        "is_correct": false
+      },
+      {
+        "text": "The hand belongs to another character.",
+        "is_correct": false
+      },
+      {
+        "text": "The close-up removes emotional meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The conflicting cues allow the audience to read confidence and anxiety at the same time.",
+      "hint": "Notice the contradiction between face and body detail."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-t-012",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual representation and nuance",
+    "question": "An article on disability sport uses action photographs, interviews and one image of athletes discussing event access. Which representation is strongest?",
+    "audio_prompt": "An article on disability sport uses action photographs, interviews and one image of athletes discussing event access. Which representation is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Athletes are shown as competitors and as people with expertise about access.",
+        "is_correct": true
+      },
+      {
+        "text": "Athletes are represented only through disability.",
+        "is_correct": false
+      },
+      {
+        "text": "The images prove access problems are solved.",
+        "is_correct": false
+      },
+      {
+        "text": "Action photographs prevent any serious interpretation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The varied images represent skill, agency and lived expertise rather than a single identity category.",
+      "hint": "Look at the range of roles represented."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-t-013",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual representation and nuance",
+    "question": "A historical exhibition enlarges a tiny handwritten note beside an official government notice. What is the likely purpose of the scale choice?",
+    "audio_prompt": "A historical exhibition enlarges a tiny handwritten note beside an official government notice. What is the likely purpose of the scale choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To give a personal voice visual importance alongside an institutional record",
+        "is_correct": true
+      },
+      {
+        "text": "To prove handwriting is more reliable than official documents",
+        "is_correct": false
+      },
+      {
+        "text": "To hide the government notice",
+        "is_correct": false
+      },
+      {
+        "text": "To make both texts the same genre",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Enlargement can make a small personal artefact as visually significant as an official document.",
+      "hint": "Ask whose voice gains salience."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-t-014",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual representation and nuance",
+    "question": "A filmmaker wants viewers to question a character’s apparent certainty. Which visual choice is most effective?",
+    "audio_prompt": "A filmmaker wants viewers to question a character’s apparent certainty. Which visual choice is most effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Show the character speaking confidently while their face is fragmented across multiple mirrors.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a centred eye-level shot with a plain background only.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the character from every scene.",
+        "is_correct": false
+      },
+      {
+        "text": "Use subtitles in a larger font.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fragmented reflections can visually complicate the certainty expressed in speech.",
+      "hint": "Choose a visual that introduces contradiction or instability."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-t-015",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual representation and nuance",
+    "question": "A news package about rising rents shows luxury apartment towers, a crowded inspection queue and a renter packing boxes. Why is this stronger than using only the towers?",
+    "audio_prompt": "A news package about rising rents shows luxury apartment towers, a crowded inspection queue and a renter packing boxes. Why is this stronger than using only the towers?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sequence represents the issue through multiple scales and consequences.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves every renter is being evicted.",
+        "is_correct": false
+      },
+      {
+        "text": "It eliminates the need for any spoken evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the towers visually irrelevant.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The combination moves from built environment to competition to personal impact, creating a more layered account.",
+      "hint": "Look for breadth of visual evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la07-t-016",
+    "curriculum_code": "AC9E10LA07",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual representation and nuance",
+    "question": "A school campaign wants to represent cultural diversity without turning students into symbols of a single background. Which approach is strongest?",
+    "audio_prompt": "A school campaign wants to represent cultural diversity without turning students into symbols of a single background. Which approach is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Show students in varied activities and relationships, with culture present as one part of broader identities.",
+        "is_correct": true
+      },
+      {
+        "text": "Photograph each student only beside a national flag.",
+        "is_correct": false
+      },
+      {
+        "text": "Use one student to stand for an entire community.",
+        "is_correct": false
+      },
+      {
+        "text": "Arrange portraits by stereotypes about clothing and food.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Varied contexts preserve individuality and avoid reducing people to a single cultural marker.",
+      "hint": "Represent people as multidimensional individuals."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
