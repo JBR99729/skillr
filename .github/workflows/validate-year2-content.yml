@@ -78,6 +78,9 @@ jobs:
       - name: Validate Year 2 English assessment banks
         run: |
           for bank in assets/assessment-banks/year2/english/*.json; do
+            case "$bank" in
+              *-qa-log.json) continue ;;
+            esac
             node scripts/validate_production_question_bank.mjs "$bank"
           done
           node scripts/validate_year2_english_quality_banks.mjs
