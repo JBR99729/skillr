@@ -1270,6 +1270,30 @@ h3 {
   }
 }
 
+
+/* Worksheet paper should stay readable on white print/PDF backgrounds. */
+.quiz-app .worksheet-paper,
+.quiz-app .worksheet-paper .worksheet-question,
+.quiz-app .worksheet-paper .question-prompt,
+.quiz-app .worksheet-paper .worksheet-options span,
+.quiz-app .worksheet-paper .match-grid p,
+.quiz-app .worksheet-paper .fill-template,
+.quiz-app .worksheet-paper .response-lines {
+  color: #203047;
+}
+
+@media print {
+  .quiz-app .worksheet-paper,
+  .quiz-app .worksheet-paper .worksheet-question,
+  .quiz-app .worksheet-paper .question-prompt,
+  .quiz-app .worksheet-paper .worksheet-options span,
+  .quiz-app .worksheet-paper .match-grid p,
+  .quiz-app .worksheet-paper .fill-template,
+  .quiz-app .worksheet-paper .response-lines {
+    color: #203047 !important;
+  }
+}
+
 @media print {
   @page { size: A5 portrait; margin: 8mm; }
   body { min-height: 0; background: #fff; }
