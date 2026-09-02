@@ -1,6 +1,6 @@
 export const test=[
 ['At the playground, which action uses a push?',['Sending a swing away from you with your hands.','Pulling a wagon toward you.','Drawing a bucket closer with a rope.','Opening a drawer toward you.'],0,'Sending the swing away from you applies a push.','Which force acts away from you?'],
-['Which action is a pull?',['Drawing a wagon toward you.','Kicking a ball away.','Pressing a button.','Pushing a trolley.'],0,'The wagon moves toward the person.','Toward.'],
+['At a picnic, which action uses a pull?',['Pulling a cooler toward you by its handle.','Pushing a chair under a table.','Pressing a bin lid down.','Kicking a ball away.'],0,'The cooler moves toward you when you pull its handle.','Which force brings the object toward you?'],
 ['What can a force change?',['motion or shape','colour only','material name','number of letters'],0,'Pushes and pulls can change speed, direction, position or shape.','Motion and deformation.'],
 ['Why use the same car when comparing push strength?',['To keep the object constant.','To make the result equal.','To avoid measuring.','Because colour controls force.'],0,'Keeping the object the same makes the comparison fairer.','Control the object.'],
 ['Which surface likely creates most friction?',['rough carpet','smooth tile','polished wood','ice'],0,'Rough carpet usually resists rolling more.','Rougher surface.'],
