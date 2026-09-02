@@ -5,39 +5,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_investigating_the_use_of_symbols_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "visual symbolism",
+    "question": "In this school podcast, what is the most important feature to notice? A poster shows a cracked water bottle shaped like a dry riverbed.",
+    "audio_prompt": "In this school podcast, what is the most important feature to notice? A poster shows a cracked water bottle shaped like a dry riverbed.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
+        "text": "visual metaphor",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "neutral filler",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
-      "hint": "A writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text."
+      "summary": "visual metaphor is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_understanding_the_use_of_symbols_by_first_nations_australians_where_a_symbol_may_have_many_meanings_or_have_different_meanings_across_first_nations_australian_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "visual symbolism",
+    "question": "Read this detail from a Canberra youth forum: A character repeatedly walks beneath a flickering EXIT sign before leaving home. Which description is most precise?",
+    "audio_prompt": "Read this detail from a Canberra youth forum: A character repeatedly walks beneath a flickering EXIT sign before leaving home. Which description is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
+        "text": "unrelated convention",
+        "is_correct": false
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "recurring symbol",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
-      "hint": "A writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text."
+      "summary": "recurring symbol is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_investigating_the_use_of_symbols_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "visual symbolism",
+    "question": "Which label best fits the choice made in this regional newspaper? A photo places one green shoot in the foreground of a burnt paddock.",
+    "audio_prompt": "Which label best fits the choice made in this regional newspaper? A photo places one green shoot in the foreground of a burnt paddock.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
+        "text": "contrast symbol",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
-      "hint": "A writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text."
+      "summary": "contrast symbol is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_understanding_the_use_of_symbols_by_first_nations_australians_where_a_symbol_may_have_many_meanings_or_have_different_meanings_across_first_nations_australian_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "visual symbolism",
+    "question": "A community sport newsletter contains this example: A documentary frames a locked gate between the camera and a public beach. What should a careful reader identify first?",
+    "audio_prompt": "A community sport newsletter contains this example: A documentary frames a locked gate between the camera and a public beach. What should a careful reader identify first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
+        "text": "barrier symbol",
         "is_correct": true
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
-      "hint": "A writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text."
+      "summary": "barrier symbol is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-p-005",
@@ -165,38 +173,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_investigating_the_use_of_symbols_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "visual symbolism",
+    "question": "Look closely at this coastal clean-up page extract: An animation drains colour from the screen as the town river dries. Which feature matters most?",
+    "audio_prompt": "Look closely at this coastal clean-up page extract: An animation drains colour from the screen as the town river dries. Which feature matters most?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
+        "text": "colour symbolism",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
-      "hint": "A writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text."
+      "summary": "colour symbolism is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-p-006",
@@ -204,38 +215,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_understanding_the_use_of_symbols_by_first_nations_australians_where_a_symbol_may_have_many_meanings_or_have_different_meanings_across_first_nations_australian_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "visual symbolism",
+    "question": "What is the clearest way to classify this choice from a student magazine? A school-film scene keeps an empty chair centred after a student moves away.",
+    "audio_prompt": "What is the clearest way to classify this choice from a student magazine? A school-film scene keeps an empty chair centred after a student moves away.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
+        "text": "neutral filler",
+        "is_correct": false
+      },
+      {
+        "text": "formatting accident",
+        "is_correct": false
+      },
+      {
+        "text": "absence symbol",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
-      "hint": "A writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text."
+      "summary": "absence symbol is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-p-007",
@@ -243,39 +257,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_investigating_the_use_of_symbols_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "visual symbolism",
+    "question": "Before interpreting the effect, identify the main choice here: A sports advertisement shows worn boots beside a new trophy.",
+    "audio_prompt": "Before interpreting the effect, identify the main choice here: A sports advertisement shows worn boots beside a new trophy.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
+        "text": "object symbolism",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
-      "hint": "A writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text."
+      "summary": "object symbolism is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-p-008",
@@ -283,39 +299,1385 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_understanding_the_use_of_symbols_by_first_nations_australians_where_a_symbol_may_have_many_meanings_or_have_different_meanings_across_first_nations_australian_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "visual symbolism",
+    "question": "Which option accurately names the technique operating in this public-transport survey? A news graphic surrounds one suburb with red warning triangles.",
+    "audio_prompt": "Which option accurately names the technique operating in this public-transport survey? A news graphic surrounds one suburb with red warning triangles.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "symbolic iconography",
+        "is_correct": true
+      },
+      {
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "symbolic iconography is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-009",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "visual symbolism",
+    "question": "This detail appears in a school captain speech: A film opens and closes on the same platform; the final shot is in sunrise light. What has the creator done?",
+    "audio_prompt": "This detail appears in a school captain speech: A film opens and closes on the same platform; the final shot is in sunrise light. What has the creator done?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "changed recurring image",
+        "is_correct": true
+      },
+      {
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "changed recurring image is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-010",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "visual symbolism",
+    "question": "Which feature is actually present in this neighbourhood campaign example? A cover places a tiny house beneath an oversized price tag.",
+    "audio_prompt": "Which feature is actually present in this neighbourhood campaign example? A cover places a tiny house beneath an oversized price tag.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      },
+      {
+        "text": "background detail",
+        "is_correct": false
+      },
+      {
+        "text": "scale symbolism",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
-      "hint": "A writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text."
+      "summary": "scale symbolism is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-011",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "visual symbolism",
+    "question": "Why does this choice matter in the library zine? A poster shows a cracked water bottle shaped like a dry riverbed.",
+    "audio_prompt": "Why does this choice matter in the library zine? A poster shows a cracked water bottle shaped like a dry riverbed.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "visual metaphor: it links personal water use with drought.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "visual metaphor is the strongest answer because it links personal water use with drought. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-012",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "visual symbolism",
+    "question": "Which explanation best connects the detail to its effect? A character repeatedly walks beneath a flickering EXIT sign before leaving home.",
+    "audio_prompt": "Which explanation best connects the detail to its effect? A character repeatedly walks beneath a flickering EXIT sign before leaving home.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "recurring symbol: it makes the sign represent the possibility of escape.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "recurring symbol is the strongest answer because it makes the sign represent the possibility of escape. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-013",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "visual symbolism",
+    "question": "What does the choice contribute to meaning here? A photo places one green shoot in the foreground of a burnt paddock.",
+    "audio_prompt": "What does the choice contribute to meaning here? A photo places one green shoot in the foreground of a burnt paddock.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "contrast symbol: it uses new growth against destruction to suggest recovery.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "contrast symbol is the strongest answer because it uses new growth against destruction to suggest recovery. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-014",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "visual symbolism",
+    "question": "How is a reader or listener likely to be guided by this choice? A documentary frames a locked gate between the camera and a public beach.",
+    "audio_prompt": "How is a reader or listener likely to be guided by this choice? A documentary frames a locked gate between the camera and a public beach.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "barrier symbol: it turns the gate into a sign of restricted access.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "barrier symbol is the strongest answer because it turns the gate into a sign of restricted access. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-015",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "visual symbolism",
+    "question": "Which explanation is supported by the actual wording or structure? An animation drains colour from the screen as the town river dries.",
+    "audio_prompt": "Which explanation is supported by the actual wording or structure? An animation drains colour from the screen as the town river dries.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "colour symbolism: it uses fading colour to reinforce loss.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "colour symbolism is the strongest answer because it uses fading colour to reinforce loss. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-016",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "visual symbolism",
+    "question": "A reader notices this in a school documentary: A school-film scene keeps an empty chair centred after a student moves away. What is the strongest explanation?",
+    "audio_prompt": "A reader notices this in a school documentary: A school-film scene keeps an empty chair centred after a student moves away. What is the strongest explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "absence symbol: it makes the missing person visually present.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "absence symbol is the strongest answer because it makes the missing person visually present. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-017",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "visual symbolism",
+    "question": "What is gained by using the feature this way? A sports advertisement shows worn boots beside a new trophy.",
+    "audio_prompt": "What is gained by using the feature this way? A sports advertisement shows worn boots beside a new trophy.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "object symbolism: it links the boots with effort behind success.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "object symbolism is the strongest answer because it links the boots with effort behind success. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-018",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "visual symbolism",
+    "question": "Which response goes beyond naming the feature and explains what it does? A news graphic surrounds one suburb with red warning triangles.",
+    "audio_prompt": "Which response goes beyond naming the feature and explains what it does? A news graphic surrounds one suburb with red warning triangles.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "symbolic iconography: it intensifies a sense of risk.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "symbolic iconography is the strongest answer because it intensifies a sense of risk. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-019",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "visual symbolism",
+    "question": "How does this choice help the debate transcript achieve its effect? A film opens and closes on the same platform; the final shot is in sunrise light.",
+    "audio_prompt": "How does this choice help the debate transcript achieve its effect? A film opens and closes on the same platform; the final shot is in sunrise light.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "changed recurring image: it suggests a changed outlook through repeated setting and altered light.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "changed recurring image is the strongest answer because it suggests a changed outlook through repeated setting and altered light. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-020",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "visual symbolism",
+    "question": "Which interpretation best accounts for this detail? A cover places a tiny house beneath an oversized price tag.",
+    "audio_prompt": "Which interpretation best accounts for this detail? A cover places a tiny house beneath an oversized price tag.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "scale symbolism: it communicates pressure from housing costs through exaggerated size.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "scale symbolism is the strongest answer because it communicates pressure from housing costs through exaggerated size. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-021",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "visual symbolism",
+    "question": "Two readers disagree about this detail: A poster shows a cracked water bottle shaped like a dry riverbed. Which interpretation is best supported?",
+    "audio_prompt": "Two readers disagree about this detail: A poster shows a cracked water bottle shaped like a dry riverbed. Which interpretation is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "visual metaphor: it links personal water use with drought.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "visual metaphor is the strongest answer because it links personal water use with drought. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-022",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "visual symbolism",
+    "question": "Which analysis avoids overclaiming about this school newspaper example? A character repeatedly walks beneath a flickering EXIT sign before leaving home.",
+    "audio_prompt": "Which analysis avoids overclaiming about this school newspaper example? A character repeatedly walks beneath a flickering EXIT sign before leaving home.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "recurring symbol: it makes the sign represent the possibility of escape.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "recurring symbol is the strongest answer because it makes the sign represent the possibility of escape. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-023",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "visual symbolism",
+    "question": "Choose the strongest evidence-based reading of this choice: A photo places one green shoot in the foreground of a burnt paddock.",
+    "audio_prompt": "Choose the strongest evidence-based reading of this choice: A photo places one green shoot in the foreground of a burnt paddock.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "contrast symbol: it uses new growth against destruction to suggest recovery.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "contrast symbol is the strongest answer because it uses new growth against destruction to suggest recovery. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-024",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "visual symbolism",
+    "question": "Which response is most precise about both the feature and its effect? A documentary frames a locked gate between the camera and a public beach.",
+    "audio_prompt": "Which response is most precise about both the feature and its effect? A documentary frames a locked gate between the camera and a public beach.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "barrier symbol: it turns the gate into a sign of restricted access.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "barrier symbol is the strongest answer because it turns the gate into a sign of restricted access. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-025",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "visual symbolism",
+    "question": "Which claim could be defended most convincingly using this exact detail? An animation drains colour from the screen as the town river dries.",
+    "audio_prompt": "Which claim could be defended most convincingly using this exact detail? An animation drains colour from the screen as the town river dries.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "colour symbolism: it uses fading colour to reinforce loss.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "colour symbolism is the strongest answer because it uses fading colour to reinforce loss. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-026",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "visual symbolism",
+    "question": "Which interpretation stays closest to what the local sports podcast actually shows? A school-film scene keeps an empty chair centred after a student moves away.",
+    "audio_prompt": "Which interpretation stays closest to what the local sports podcast actually shows? A school-film scene keeps an empty chair centred after a student moves away.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "absence symbol: it makes the missing person visually present.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "absence symbol is the strongest answer because it makes the missing person visually present. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-027",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "visual symbolism",
+    "question": "Which response corrects the common mistake of treating the feature as having one fixed effect? A sports advertisement shows worn boots beside a new trophy.",
+    "audio_prompt": "Which response corrects the common mistake of treating the feature as having one fixed effect? A sports advertisement shows worn boots beside a new trophy.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "object symbolism: it links the boots with effort behind success.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "object symbolism is the strongest answer because it links the boots with effort behind success. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-028",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "visual symbolism",
+    "question": "Which explanation remains convincing when audience and purpose are considered? A news graphic surrounds one suburb with red warning triangles.",
+    "audio_prompt": "Which explanation remains convincing when audience and purpose are considered? A news graphic surrounds one suburb with red warning triangles.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "symbolic iconography: it intensifies a sense of risk.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "symbolic iconography is the strongest answer because it intensifies a sense of risk. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-029",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "visual symbolism",
+    "question": "Which option gives the most defensible analysis of this choice? A film opens and closes on the same platform; the final shot is in sunrise light.",
+    "audio_prompt": "Which option gives the most defensible analysis of this choice? A film opens and closes on the same platform; the final shot is in sunrise light.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "changed recurring image: it suggests a changed outlook through repeated setting and altered light.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "changed recurring image is the strongest answer because it suggests a changed outlook through repeated setting and altered light. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-030",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "visual symbolism",
+    "question": "Which reading distinguishes evidence from assumption most successfully? A cover places a tiny house beneath an oversized price tag.",
+    "audio_prompt": "Which reading distinguishes evidence from assumption most successfully? A cover places a tiny house beneath an oversized price tag.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "scale symbolism: it communicates pressure from housing costs through exaggerated size.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "scale symbolism is the strongest answer because it communicates pressure from housing costs through exaggerated size. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-031",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "visual symbolism",
+    "question": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: A poster shows a cracked water bottle shaped like a dry riverbed.",
+    "audio_prompt": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: A poster shows a cracked water bottle shaped like a dry riverbed.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "visual metaphor: it links personal water use with drought.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "visual metaphor is the strongest answer because it links personal water use with drought. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-032",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "visual symbolism",
+    "question": "Which revision would preserve the intended effect without simply adding complexity? A character repeatedly walks beneath a flickering EXIT sign before leaving home.",
+    "audio_prompt": "Which revision would preserve the intended effect without simply adding complexity? A character repeatedly walks beneath a flickering EXIT sign before leaving home.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "recurring symbol: it makes the sign represent the possibility of escape.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "recurring symbol is the strongest answer because it makes the sign represent the possibility of escape. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-033",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "visual symbolism",
+    "question": "A writer wants a similar effect in a new section. Which principle should guide the revision? A photo places one green shoot in the foreground of a burnt paddock.",
+    "audio_prompt": "A writer wants a similar effect in a new section. Which principle should guide the revision? A photo places one green shoot in the foreground of a burnt paddock.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "contrast symbol: it uses new growth against destruction to suggest recovery.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "contrast symbol is the strongest answer because it uses new growth against destruction to suggest recovery. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-034",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "visual symbolism",
+    "question": "Which editing decision shows deliberate control of the feature demonstrated here? A documentary frames a locked gate between the camera and a public beach.",
+    "audio_prompt": "Which editing decision shows deliberate control of the feature demonstrated here? A documentary frames a locked gate between the camera and a public beach.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "barrier symbol: it turns the gate into a sign of restricted access.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "barrier symbol is the strongest answer because it turns the gate into a sign of restricted access. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-035",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "visual symbolism",
+    "question": "How could a creator build on this choice without merely repeating it? An animation drains colour from the screen as the town river dries.",
+    "audio_prompt": "How could a creator build on this choice without merely repeating it? An animation drains colour from the screen as the town river dries.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "colour symbolism: it uses fading colour to reinforce loss.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "colour symbolism is the strongest answer because it uses fading colour to reinforce loss. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-036",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "visual symbolism",
+    "question": "Which revision would make the effect clearer while keeping it appropriate for the audience? A school-film scene keeps an empty chair centred after a student moves away.",
+    "audio_prompt": "Which revision would make the effect clearer while keeping it appropriate for the audience? A school-film scene keeps an empty chair centred after a student moves away.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "absence symbol: it makes the missing person visually present.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "absence symbol is the strongest answer because it makes the missing person visually present. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-037",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "visual symbolism",
+    "question": "Which alternative best applies the same underlying principle? A sports advertisement shows worn boots beside a new trophy.",
+    "audio_prompt": "Which alternative best applies the same underlying principle? A sports advertisement shows worn boots beside a new trophy.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "object symbolism: it links the boots with effort behind success.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "object symbolism is the strongest answer because it links the boots with effort behind success. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-038",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "visual symbolism",
+    "question": "Which next choice would extend the effect most logically? A news graphic surrounds one suburb with red warning triangles.",
+    "audio_prompt": "Which next choice would extend the effect most logically? A news graphic surrounds one suburb with red warning triangles.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "symbolic iconography: it intensifies a sense of risk.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "symbolic iconography is the strongest answer because it intensifies a sense of risk. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-039",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "visual symbolism",
+    "question": "Which revision best matches audience, purpose and the feature shown here? A film opens and closes on the same platform; the final shot is in sunrise light.",
+    "audio_prompt": "Which revision best matches audience, purpose and the feature shown here? A film opens and closes on the same platform; the final shot is in sunrise light.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "changed recurring image: it suggests a changed outlook through repeated setting and altered light.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "changed recurring image is the strongest answer because it suggests a changed outlook through repeated setting and altered light. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-p-040",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "visual symbolism",
+    "question": "Which editing move would strengthen the text while keeping this effect controlled? A cover places a tiny house beneath an oversized price tag.",
+    "audio_prompt": "Which editing move would strengthen the text while keeping this effect controlled? A cover places a tiny house beneath an oversized price tag.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "scale symbolism: it communicates pressure from housing costs through exaggerated size.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "scale symbolism is the strongest answer because it communicates pressure from housing costs through exaggerated size. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_investigating_the_use_of_symbols_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text?",
+    "skill": "visual symbolism",
+    "question": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: A poster shows a cracked water bottle shaped like a dry riverbed.",
+    "audio_prompt": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: A poster shows a cracked water bottle shaped like a dry riverbed.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
+        "text": "visual metaphor: it links personal water use with drought.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
-      "hint": "A writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text."
-    }
+      "summary": "visual metaphor is the strongest answer because it links personal water use with drought. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_understanding_the_use_of_symbols_by_first_nations_australians_where_a_symbol_may_have_many_meanings_or_have_different_meanings_across_first_nations_australian_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text?",
+    "skill": "visual symbolism",
+    "question": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: A character repeatedly walks beneath a flickering EXIT sign before leaving home. Which response is most convincing?",
+    "audio_prompt": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: A character repeatedly walks beneath a flickering EXIT sign before leaving home. Which response is most convincing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       },
       {
-        "text": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "recurring symbol: it makes the sign represent the possibility of escape.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
-      "hint": "A writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text."
-    }
+      "summary": "recurring symbol is the strongest answer because it makes the sign represent the possibility of escape. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_investigating_the_use_of_symbols_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual symbolism",
+    "question": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: A photo places one green shoot in the foreground of a burnt paddock.",
+    "audio_prompt": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: A photo places one green shoot in the foreground of a burnt paddock.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
+        "text": "contrast symbol: it uses new growth against destruction to suggest recovery.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
-      "hint": "A writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text."
-    }
+      "summary": "contrast symbol is the strongest answer because it uses new growth against destruction to suggest recovery. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_understanding_the_use_of_symbols_by_first_nations_australians_where_a_symbol_may_have_many_meanings_or_have_different_meanings_across_first_nations_australian_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual symbolism",
+    "question": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: A documentary frames a locked gate between the camera and a public beach.",
+    "audio_prompt": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: A documentary frames a locked gate between the camera and a public beach.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
+        "text": "barrier symbol: it turns the gate into a sign of restricted access.",
         "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
-      "hint": "A writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text."
-    }
+      "summary": "barrier symbol is the strongest answer because it turns the gate into a sign of restricted access. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_investigating_the_use_of_symbols_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual symbolism",
+    "question": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: An animation drains colour from the screen as the town river dries.",
+    "audio_prompt": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: An animation drains colour from the screen as the town river dries.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
+        "text": "colour symbolism: it uses fading colour to reinforce loss.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
-      "hint": "A writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text."
-    }
+      "summary": "colour symbolism is the strongest answer because it uses fading colour to reinforce loss. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_understanding_the_use_of_symbols_by_first_nations_australians_where_a_symbol_may_have_many_meanings_or_have_different_meanings_across_first_nations_australian_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual symbolism",
+    "question": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: A school-film scene keeps an empty chair centred after a student moves away.",
+    "audio_prompt": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: A school-film scene keeps an empty chair centred after a student moves away.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       },
       {
-        "text": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "absence symbol: it makes the missing person visually present.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
-      "hint": "A writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text."
-    }
+      "summary": "absence symbol is the strongest answer because it makes the missing person visually present. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_investigating_the_use_of_symbols_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual symbolism",
+    "question": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: A sports advertisement shows worn boots beside a new trophy.",
+    "audio_prompt": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: A sports advertisement shows worn boots beside a new trophy.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
         "is_correct": false
       },
       {
-        "text": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
+        "text": "object symbolism: it links the boots with effort behind success.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "investigating the use of symbols; for example, specific seasons, weather and colours in images, films and picture books, and evaluating their contribution to viewers’ understanding, recognising that visual and verbal symbols have different meanings for different groups and cultures",
-      "hint": "A writer or speaker can use word choice to shape investigating the use of symbols and influence how an audience understands the text."
-    }
+      "summary": "object symbolism is the strongest answer because it links the boots with effort behind success. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la07-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_understanding_the_use_of_symbols_by_first_nations_australians_where_a_symbol_may_have_many_meanings_or_have_different_meanings_across_first_nations_australian_groups_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use audience to shape understanding the use of symbols by first nations australians where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "visual symbolism",
+    "question": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: A news graphic surrounds one suburb with red warning triangles.",
+    "audio_prompt": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: A news graphic surrounds one suburb with red warning triangles.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "symbolic iconography: it intensifies a sense of risk.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "symbolic iconography is the strongest answer because it intensifies a sense of risk. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-t-009",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual symbolism",
+    "question": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: A film opens and closes on the same platform; the final shot is in sunrise light.",
+    "audio_prompt": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: A film opens and closes on the same platform; the final shot is in sunrise light.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "changed recurring image: it suggests a changed outlook through repeated setting and altered light.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "changed recurring image is the strongest answer because it suggests a changed outlook through repeated setting and altered light. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-t-010",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual symbolism",
+    "question": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: A cover places a tiny house beneath an oversized price tag.",
+    "audio_prompt": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: A cover places a tiny house beneath an oversized price tag.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "scale symbolism: it communicates pressure from housing costs through exaggerated size.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "understanding the use of symbols by First Nations Australians, where a symbol may have many meanings or have different meanings across First Nations Australian groups; for example, artwork enables First Nations Australians from a particular Country/Place to identify symbols and interpret the artwork",
-      "hint": "A writer or speaker can use audience to shape understanding the use of symbols by first nations australians, where a symbol may have many meanings or have different meanings across first nations australian groups and influence how an audience understands the text."
-    }
+      "summary": "scale symbolism is the strongest answer because it communicates pressure from housing costs through exaggerated size. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-t-011",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual symbolism",
+    "question": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: A poster shows a cracked water bottle shaped like a dry riverbed.",
+    "audio_prompt": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: A poster shows a cracked water bottle shaped like a dry riverbed.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "visual metaphor: it links personal water use with drought.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "visual metaphor is the strongest answer because it links personal water use with drought. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-t-012",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual symbolism",
+    "question": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: A character repeatedly walks beneath a flickering EXIT sign before leaving home.",
+    "audio_prompt": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: A character repeatedly walks beneath a flickering EXIT sign before leaving home.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "recurring symbol: it makes the sign represent the possibility of escape.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "recurring symbol is the strongest answer because it makes the sign represent the possibility of escape. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-t-013",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual symbolism",
+    "question": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: A photo places one green shoot in the foreground of a burnt paddock.",
+    "audio_prompt": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: A photo places one green shoot in the foreground of a burnt paddock.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "contrast symbol: it uses new growth against destruction to suggest recovery.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "contrast symbol is the strongest answer because it uses new growth against destruction to suggest recovery. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-t-014",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual symbolism",
+    "question": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: A documentary frames a locked gate between the camera and a public beach.",
+    "audio_prompt": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: A documentary frames a locked gate between the camera and a public beach.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "barrier symbol: it turns the gate into a sign of restricted access.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "barrier symbol is the strongest answer because it turns the gate into a sign of restricted access. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-t-015",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual symbolism",
+    "question": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: An animation drains colour from the screen as the town river dries.",
+    "audio_prompt": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: An animation drains colour from the screen as the town river dries.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "colour symbolism: it uses fading colour to reinforce loss.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "colour symbolism is the strongest answer because it uses fading colour to reinforce loss. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la07-t-016",
+    "curriculum_code": "AC9E9LA07",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "visual symbolism",
+    "question": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: A school-film scene keeps an empty chair centred after a student moves away.",
+    "audio_prompt": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: A school-film scene keeps an empty chair centred after a student moves away.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "absence symbol: it makes the missing person visually present.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "absence symbol is the strongest answer because it makes the missing person visually present. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]

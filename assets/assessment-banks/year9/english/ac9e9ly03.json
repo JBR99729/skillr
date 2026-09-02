@@ -5,39 +5,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_the_use_of_language_in_the_coverage_of_a_contentious_issue_in_a_range_of_news_and_social_media_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "language choices, perspective and influence",
+    "question": "In this school podcast, what is the most important feature to notice? A headline says “Families hit by another rate rise”.",
+    "audio_prompt": "In this school podcast, what is the most important feature to notice? A headline says “Families hit by another rate rise”.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
+        "text": "affected-group framing",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "neutral filler",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
-      "hint": "A writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text."
+      "summary": "affected-group framing is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_explaining_how_authors_use_language_features_to_represent_ideas_and_convey_opinions_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "language choices, perspective and influence",
+    "question": "Read this detail from a Canberra youth forum: An editorial calls a policy “a modest first step”. Which description is most precise?",
+    "audio_prompt": "Read this detail from a Canberra youth forum: An editorial calls a policy “a modest first step”. Which description is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "explaining how authors use language features to represent ideas and convey opinions",
+        "text": "unrelated convention",
+        "is_correct": false
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "qualified evaluation",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "explaining how authors use language features to represent ideas and convey opinions",
-      "hint": "A writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text."
+      "summary": "qualified evaluation is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_a_range_of_advocacy_campaign_or_inspirational_speeches_from_films_or_media_and_identifying_language_features_that_influence_the_listener_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing a range of advocacy campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing a range of advocacy campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "language choices, perspective and influence",
+    "question": "Which label best fits the choice made in this regional newspaper? A campaign says “protect our coastline” rather than “regulate development”.",
+    "audio_prompt": "Which label best fits the choice made in this regional newspaper? A campaign says “protect our coastline” rather than “regulate development”.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener",
+        "text": "value framing",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener",
-      "hint": "A writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text."
+      "summary": "value framing is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_the_use_of_language_in_the_coverage_of_a_contentious_issue_in_a_range_of_news_and_social_media_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "language choices, perspective and influence",
+    "question": "A community sport newsletter contains this example: A company says “an operational incident occurred” instead of naming who made the error. What should a careful reader identify first?",
+    "audio_prompt": "A community sport newsletter contains this example: A company says “an operational incident occurred” instead of naming who made the error. What should a careful reader identify first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
+        "text": "agent deletion",
         "is_correct": true
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
-      "hint": "A writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text."
+      "summary": "agent deletion is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_explaining_how_authors_use_language_features_to_represent_ideas_and_convey_opinions_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "language choices, perspective and influence",
+    "question": "Look closely at this coastal clean-up page extract: A review says “for committed fans” rather than “too confusing for newcomers”. Which feature matters most?",
+    "audio_prompt": "Look closely at this coastal clean-up page extract: A review says “for committed fans” rather than “too confusing for newcomers”. Which feature matters most?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "explaining how authors use language features to represent ideas and convey opinions",
+        "text": "audience reframing",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "explaining how authors use language features to represent ideas and convey opinions",
-      "hint": "A writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text."
+      "summary": "audience reframing is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_a_range_of_advocacy_campaign_or_inspirational_speeches_from_films_or_media_and_identifying_language_features_that_influence_the_listener_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing a range of advocacy campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing a range of advocacy campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "language choices, perspective and influence",
+    "question": "What is the clearest way to classify this choice from a student magazine? A charity addresses readers as “neighbours”.",
+    "audio_prompt": "What is the clearest way to classify this choice from a student magazine? A charity addresses readers as “neighbours”.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener",
+        "text": "neutral filler",
+        "is_correct": false
+      },
+      {
+        "text": "formatting accident",
+        "is_correct": false
+      },
+      {
+        "text": "relationship positioning",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener",
-      "hint": "A writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text."
+      "summary": "relationship positioning is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-p-007",
@@ -245,38 +257,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_the_use_of_language_in_the_coverage_of_a_contentious_issue_in_a_range_of_news_and_social_media_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "language choices, perspective and influence",
+    "question": "Before interpreting the effect, identify the main choice here: A report says “approximately 8%”; a campaign says “almost one in ten”.",
+    "audio_prompt": "Before interpreting the effect, identify the main choice here: A report says “approximately 8%”; a campaign says “almost one in ten”.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
+        "text": "numerical framing",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
-      "hint": "A writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text."
+      "summary": "numerical framing is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-p-008",
@@ -284,38 +299,1385 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_explaining_how_authors_use_language_features_to_represent_ideas_and_convey_opinions_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "language choices, perspective and influence",
+    "question": "Which option accurately names the technique operating in this public-transport survey? One speaker says “investment”; another says “spending” for the same budget item.",
+    "audio_prompt": "Which option accurately names the technique operating in this public-transport survey? One speaker says “investment”; another says “spending” for the same budget item.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "lexical framing",
+        "is_correct": true
+      },
+      {
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "lexical framing is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-009",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "language choices, perspective and influence",
+    "question": "This detail appears in a school captain speech: A school notice says “phones remain in bags” rather than “phones are banned”. What has the creator done?",
+    "audio_prompt": "This detail appears in a school captain speech: A school notice says “phones remain in bags” rather than “phones are banned”. What has the creator done?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "low-conflict wording",
+        "is_correct": true
+      },
+      {
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "explaining how authors use language features to represent ideas and convey opinions",
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "low-conflict wording is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-010",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "language choices, perspective and influence",
+    "question": "Which feature is actually present in this neighbourhood campaign example? A social post crops a crowd photo so the empty end of the venue is invisible.",
+    "audio_prompt": "Which feature is actually present in this neighbourhood campaign example? A social post crops a crowd photo so the empty end of the venue is invisible.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      },
+      {
+        "text": "background detail",
+        "is_correct": false
+      },
+      {
+        "text": "visual selection",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "explaining how authors use language features to represent ideas and convey opinions",
-      "hint": "A writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text."
+      "summary": "visual selection is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-011",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "language choices, perspective and influence",
+    "question": "Why does this choice matter in the library zine? A headline says “Families hit by another rate rise”.",
+    "audio_prompt": "Why does this choice matter in the library zine? A headline says “Families hit by another rate rise”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "affected-group framing: it foregrounds people experiencing the impact.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "affected-group framing is the strongest answer because it foregrounds people experiencing the impact. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
     },
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-012",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "language choices, perspective and influence",
+    "question": "Which explanation best connects the detail to its effect? An editorial calls a policy “a modest first step”.",
+    "audio_prompt": "Which explanation best connects the detail to its effect? An editorial calls a policy “a modest first step”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "qualified evaluation: it supports the direction while implying it is insufficient.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "qualified evaluation is the strongest answer because it supports the direction while implying it is insufficient. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-013",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "language choices, perspective and influence",
+    "question": "What does the choice contribute to meaning here? A campaign says “protect our coastline” rather than “regulate development”.",
+    "audio_prompt": "What does the choice contribute to meaning here? A campaign says “protect our coastline” rather than “regulate development”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "value framing: it makes regulation sound like care for something shared.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "value framing is the strongest answer because it makes regulation sound like care for something shared. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-014",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "language choices, perspective and influence",
+    "question": "How is a reader or listener likely to be guided by this choice? A company says “an operational incident occurred” instead of naming who made the error.",
+    "audio_prompt": "How is a reader or listener likely to be guided by this choice? A company says “an operational incident occurred” instead of naming who made the error.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "agent deletion: it reduces attention on responsibility.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "agent deletion is the strongest answer because it reduces attention on responsibility. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-015",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "language choices, perspective and influence",
+    "question": "Which explanation is supported by the actual wording or structure? A review says “for committed fans” rather than “too confusing for newcomers”.",
+    "audio_prompt": "Which explanation is supported by the actual wording or structure? A review says “for committed fans” rather than “too confusing for newcomers”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "audience reframing: it presents difficulty as specialist appeal.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "audience reframing is the strongest answer because it presents difficulty as specialist appeal. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-016",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "language choices, perspective and influence",
+    "question": "A reader notices this in a school documentary: A charity addresses readers as “neighbours”. What is the strongest explanation?",
+    "audio_prompt": "A reader notices this in a school documentary: A charity addresses readers as “neighbours”. What is the strongest explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "relationship positioning: it creates closeness and shared community.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "relationship positioning is the strongest answer because it creates closeness and shared community. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-017",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "language choices, perspective and influence",
+    "question": "What is gained by using the feature this way? A report says “approximately 8%”; a campaign says “almost one in ten”.",
+    "audio_prompt": "What is gained by using the feature this way? A report says “approximately 8%”; a campaign says “almost one in ten”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "numerical framing: it uses equivalent figures to create different impressions of scale.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "numerical framing is the strongest answer because it uses equivalent figures to create different impressions of scale. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-018",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "language choices, perspective and influence",
+    "question": "Which response goes beyond naming the feature and explains what it does? One speaker says “investment”; another says “spending” for the same budget item.",
+    "audio_prompt": "Which response goes beyond naming the feature and explains what it does? One speaker says “investment”; another says “spending” for the same budget item.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "lexical framing: it carries contrasting evaluations of the same action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "lexical framing is the strongest answer because it carries contrasting evaluations of the same action. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-019",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "language choices, perspective and influence",
+    "question": "How does this choice help the debate transcript achieve its effect? A school notice says “phones remain in bags” rather than “phones are banned”.",
+    "audio_prompt": "How does this choice help the debate transcript achieve its effect? A school notice says “phones remain in bags” rather than “phones are banned”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "low-conflict wording: it frames the rule as routine expectation rather than punishment.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "low-conflict wording is the strongest answer because it frames the rule as routine expectation rather than punishment. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-020",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "language choices, perspective and influence",
+    "question": "Which interpretation best accounts for this detail? A social post crops a crowd photo so the empty end of the venue is invisible.",
+    "audio_prompt": "Which interpretation best accounts for this detail? A social post crops a crowd photo so the empty end of the venue is invisible.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "visual selection: it influences how large the event appears.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "visual selection is the strongest answer because it influences how large the event appears. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-021",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "language choices, perspective and influence",
+    "question": "Two readers disagree about this detail: A headline says “Families hit by another rate rise”. Which interpretation is best supported?",
+    "audio_prompt": "Two readers disagree about this detail: A headline says “Families hit by another rate rise”. Which interpretation is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "affected-group framing: it foregrounds people experiencing the impact.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "affected-group framing is the strongest answer because it foregrounds people experiencing the impact. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-022",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "language choices, perspective and influence",
+    "question": "Which analysis avoids overclaiming about this school newspaper example? An editorial calls a policy “a modest first step”.",
+    "audio_prompt": "Which analysis avoids overclaiming about this school newspaper example? An editorial calls a policy “a modest first step”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "qualified evaluation: it supports the direction while implying it is insufficient.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "qualified evaluation is the strongest answer because it supports the direction while implying it is insufficient. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-023",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "language choices, perspective and influence",
+    "question": "Choose the strongest evidence-based reading of this choice: A campaign says “protect our coastline” rather than “regulate development”.",
+    "audio_prompt": "Choose the strongest evidence-based reading of this choice: A campaign says “protect our coastline” rather than “regulate development”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "value framing: it makes regulation sound like care for something shared.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "value framing is the strongest answer because it makes regulation sound like care for something shared. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-024",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "language choices, perspective and influence",
+    "question": "Which response is most precise about both the feature and its effect? A company says “an operational incident occurred” instead of naming who made the error.",
+    "audio_prompt": "Which response is most precise about both the feature and its effect? A company says “an operational incident occurred” instead of naming who made the error.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "agent deletion: it reduces attention on responsibility.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "agent deletion is the strongest answer because it reduces attention on responsibility. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-025",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "language choices, perspective and influence",
+    "question": "Which claim could be defended most convincingly using this exact detail? A review says “for committed fans” rather than “too confusing for newcomers”.",
+    "audio_prompt": "Which claim could be defended most convincingly using this exact detail? A review says “for committed fans” rather than “too confusing for newcomers”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "audience reframing: it presents difficulty as specialist appeal.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "audience reframing is the strongest answer because it presents difficulty as specialist appeal. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-026",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "language choices, perspective and influence",
+    "question": "Which interpretation stays closest to what the local sports podcast actually shows? A charity addresses readers as “neighbours”.",
+    "audio_prompt": "Which interpretation stays closest to what the local sports podcast actually shows? A charity addresses readers as “neighbours”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "relationship positioning: it creates closeness and shared community.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "relationship positioning is the strongest answer because it creates closeness and shared community. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-027",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "language choices, perspective and influence",
+    "question": "Which response corrects the common mistake of treating the feature as having one fixed effect? A report says “approximately 8%”; a campaign says “almost one in ten”.",
+    "audio_prompt": "Which response corrects the common mistake of treating the feature as having one fixed effect? A report says “approximately 8%”; a campaign says “almost one in ten”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "numerical framing: it uses equivalent figures to create different impressions of scale.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "numerical framing is the strongest answer because it uses equivalent figures to create different impressions of scale. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-028",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "language choices, perspective and influence",
+    "question": "Which explanation remains convincing when audience and purpose are considered? One speaker says “investment”; another says “spending” for the same budget item.",
+    "audio_prompt": "Which explanation remains convincing when audience and purpose are considered? One speaker says “investment”; another says “spending” for the same budget item.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "lexical framing: it carries contrasting evaluations of the same action.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "lexical framing is the strongest answer because it carries contrasting evaluations of the same action. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-029",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "language choices, perspective and influence",
+    "question": "Which option gives the most defensible analysis of this choice? A school notice says “phones remain in bags” rather than “phones are banned”.",
+    "audio_prompt": "Which option gives the most defensible analysis of this choice? A school notice says “phones remain in bags” rather than “phones are banned”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "low-conflict wording: it frames the rule as routine expectation rather than punishment.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "low-conflict wording is the strongest answer because it frames the rule as routine expectation rather than punishment. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-030",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "language choices, perspective and influence",
+    "question": "Which reading distinguishes evidence from assumption most successfully? A social post crops a crowd photo so the empty end of the venue is invisible.",
+    "audio_prompt": "Which reading distinguishes evidence from assumption most successfully? A social post crops a crowd photo so the empty end of the venue is invisible.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "visual selection: it influences how large the event appears.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "visual selection is the strongest answer because it influences how large the event appears. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-031",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language choices, perspective and influence",
+    "question": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: A headline says “Families hit by another rate rise”.",
+    "audio_prompt": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: A headline says “Families hit by another rate rise”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "affected-group framing: it foregrounds people experiencing the impact.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "affected-group framing is the strongest answer because it foregrounds people experiencing the impact. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-032",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language choices, perspective and influence",
+    "question": "Which revision would preserve the intended effect without simply adding complexity? An editorial calls a policy “a modest first step”.",
+    "audio_prompt": "Which revision would preserve the intended effect without simply adding complexity? An editorial calls a policy “a modest first step”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "qualified evaluation: it supports the direction while implying it is insufficient.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "qualified evaluation is the strongest answer because it supports the direction while implying it is insufficient. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-033",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language choices, perspective and influence",
+    "question": "A writer wants a similar effect in a new section. Which principle should guide the revision? A campaign says “protect our coastline” rather than “regulate development”.",
+    "audio_prompt": "A writer wants a similar effect in a new section. Which principle should guide the revision? A campaign says “protect our coastline” rather than “regulate development”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "value framing: it makes regulation sound like care for something shared.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "value framing is the strongest answer because it makes regulation sound like care for something shared. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-034",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language choices, perspective and influence",
+    "question": "Which editing decision shows deliberate control of the feature demonstrated here? A company says “an operational incident occurred” instead of naming who made the error.",
+    "audio_prompt": "Which editing decision shows deliberate control of the feature demonstrated here? A company says “an operational incident occurred” instead of naming who made the error.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "agent deletion: it reduces attention on responsibility.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "agent deletion is the strongest answer because it reduces attention on responsibility. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-035",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language choices, perspective and influence",
+    "question": "How could a creator build on this choice without merely repeating it? A review says “for committed fans” rather than “too confusing for newcomers”.",
+    "audio_prompt": "How could a creator build on this choice without merely repeating it? A review says “for committed fans” rather than “too confusing for newcomers”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "audience reframing: it presents difficulty as specialist appeal.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "audience reframing is the strongest answer because it presents difficulty as specialist appeal. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-036",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language choices, perspective and influence",
+    "question": "Which revision would make the effect clearer while keeping it appropriate for the audience? A charity addresses readers as “neighbours”.",
+    "audio_prompt": "Which revision would make the effect clearer while keeping it appropriate for the audience? A charity addresses readers as “neighbours”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "relationship positioning: it creates closeness and shared community.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "relationship positioning is the strongest answer because it creates closeness and shared community. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-037",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language choices, perspective and influence",
+    "question": "Which alternative best applies the same underlying principle? A report says “approximately 8%”; a campaign says “almost one in ten”.",
+    "audio_prompt": "Which alternative best applies the same underlying principle? A report says “approximately 8%”; a campaign says “almost one in ten”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "numerical framing: it uses equivalent figures to create different impressions of scale.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "numerical framing is the strongest answer because it uses equivalent figures to create different impressions of scale. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-038",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language choices, perspective and influence",
+    "question": "Which next choice would extend the effect most logically? One speaker says “investment”; another says “spending” for the same budget item.",
+    "audio_prompt": "Which next choice would extend the effect most logically? One speaker says “investment”; another says “spending” for the same budget item.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "lexical framing: it carries contrasting evaluations of the same action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "lexical framing is the strongest answer because it carries contrasting evaluations of the same action. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-039",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language choices, perspective and influence",
+    "question": "Which revision best matches audience, purpose and the feature shown here? A school notice says “phones remain in bags” rather than “phones are banned”.",
+    "audio_prompt": "Which revision best matches audience, purpose and the feature shown here? A school notice says “phones remain in bags” rather than “phones are banned”.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "low-conflict wording: it frames the rule as routine expectation rather than punishment.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "low-conflict wording is the strongest answer because it frames the rule as routine expectation rather than punishment. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-p-040",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "language choices, perspective and influence",
+    "question": "Which editing move would strengthen the text while keeping this effect controlled? A social post crops a crowd photo so the empty end of the venue is invisible.",
+    "audio_prompt": "Which editing move would strengthen the text while keeping this effect controlled? A social post crops a crowd photo so the empty end of the venue is invisible.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "visual selection: it influences how large the event appears.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "visual selection is the strongest answer because it influences how large the event appears. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_a_range_of_advocacy_campaign_or_inspirational_speeches_from_films_or_media_and_identifying_language_features_that_influence_the_listener_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text?",
+    "skill": "language choices, perspective and influence",
+    "question": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: A headline says ‘Families hit by another rate rise’.",
+    "audio_prompt": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: A headline says ‘Families hit by another rate rise’.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener",
+        "text": "affected-group framing: it foregrounds people experiencing the impact.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener",
-      "hint": "A writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text."
-    }
+      "summary": "affected-group framing is the strongest answer because it foregrounds people experiencing the impact. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_the_use_of_language_in_the_coverage_of_a_contentious_issue_in_a_range_of_news_and_social_media_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language choices, perspective and influence",
+    "question": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: An editorial calls a policy ‘a modest first step’. Which response is most convincing?",
+    "audio_prompt": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: An editorial calls a policy ‘a modest first step’. Which response is most convincing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       },
       {
-        "text": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "qualified evaluation: it supports the direction while implying it is insufficient.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
-      "hint": "A writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text."
-    }
+      "summary": "qualified evaluation is the strongest answer because it supports the direction while implying it is insufficient. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_explaining_how_authors_use_language_features_to_represent_ideas_and_convey_opinions_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language choices, perspective and influence",
+    "question": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: A campaign says ‘protect our coastline’ rather than ‘regulate development’.",
+    "audio_prompt": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: A campaign says ‘protect our coastline’ rather than ‘regulate development’.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "explaining how authors use language features to represent ideas and convey opinions",
+        "text": "value framing: it makes regulation sound like care for something shared.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "explaining how authors use language features to represent ideas and convey opinions",
-      "hint": "A writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text."
-    }
+      "summary": "value framing is the strongest answer because it makes regulation sound like care for something shared. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_a_range_of_advocacy_campaign_or_inspirational_speeches_from_films_or_media_and_identifying_language_features_that_influence_the_listener_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing a range of advocacy campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use evidence to shape comparing a range of advocacy campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language choices, perspective and influence",
+    "question": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: A company says ‘an operational incident occurred’ instead of naming who made the error.",
+    "audio_prompt": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: A company says ‘an operational incident occurred’ instead of naming who made the error.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener",
+        "text": "agent deletion: it reduces attention on responsibility.",
         "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener",
-      "hint": "A writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text."
-    }
+      "summary": "agent deletion is the strongest answer because it reduces attention on responsibility. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_the_use_of_language_in_the_coverage_of_a_contentious_issue_in_a_range_of_news_and_social_media_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text?",
+    "skill": "language choices, perspective and influence",
+    "question": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: A review says ‘for committed fans’ rather than ‘too confusing for newcomers’.",
+    "audio_prompt": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: A review says ‘for committed fans’ rather than ‘too confusing for newcomers’.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
+        "text": "audience reframing: it presents difficulty as specialist appeal.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
-      "hint": "A writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text."
-    }
+      "summary": "audience reframing is the strongest answer because it presents difficulty as specialist appeal. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_explaining_how_authors_use_language_features_to_represent_ideas_and_convey_opinions_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text?",
+    "skill": "language choices, perspective and influence",
+    "question": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: A charity addresses readers as ‘neighbours’.",
+    "audio_prompt": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: A charity addresses readers as ‘neighbours’.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       },
       {
-        "text": "explaining how authors use language features to represent ideas and convey opinions",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "relationship positioning: it creates closeness and shared community.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "explaining how authors use language features to represent ideas and convey opinions",
-      "hint": "A writer or speaker can use structure to shape explaining how authors use language features to represent ideas and convey opinions and influence how an audience understands the text."
-    }
+      "summary": "relationship positioning is the strongest answer because it creates closeness and shared community. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_comparing_a_range_of_advocacy_campaign_or_inspirational_speeches_from_films_or_media_and_identifying_language_features_that_influence_the_listener_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text?",
+    "skill": "language choices, perspective and influence",
+    "question": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: A report says ‘approximately 8%’; a campaign says ‘almost one in ten’.",
+    "audio_prompt": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: A report says ‘approximately 8%’; a campaign says ‘almost one in ten’.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
         "is_correct": false
       },
       {
-        "text": "comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener",
+        "text": "numerical framing: it uses equivalent figures to create different impressions of scale.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener",
-      "hint": "A writer or speaker can use evidence to shape comparing a range of advocacy, campaign or inspirational speeches from films or media and identifying language features that influence the listener and influence how an audience understands the text."
-    }
+      "summary": "numerical framing is the strongest answer because it uses equivalent figures to create different impressions of scale. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9ly03-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_analysing_the_use_of_language_in_the_coverage_of_a_contentious_issue_in_a_range_of_news_and_social_media_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "language choices, perspective and influence",
+    "question": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: One speaker says ‘investment’; another says ‘spending’ for the same budget item.",
+    "audio_prompt": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: One speaker says ‘investment’; another says ‘spending’ for the same budget item.",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "lexical framing: it carries contrasting evaluations of the same action.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "lexical framing is the strongest answer because it carries contrasting evaluations of the same action. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-t-009",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language choices, perspective and influence",
+    "question": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: A school notice says ‘phones remain in bags’ rather than ‘phones are banned’.",
+    "audio_prompt": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: A school notice says ‘phones remain in bags’ rather than ‘phones are banned’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "low-conflict wording: it frames the rule as routine expectation rather than punishment.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "low-conflict wording is the strongest answer because it frames the rule as routine expectation rather than punishment. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-t-010",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language choices, perspective and influence",
+    "question": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: A social post crops a crowd photo so the empty end of the venue is invisible.",
+    "audio_prompt": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: A social post crops a crowd photo so the empty end of the venue is invisible.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "visual selection: it influences how large the event appears.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "analysing the use of language in the coverage of a contentious issue in a range of news and social media",
-      "hint": "A writer or speaker can use purpose to shape analysing the use of language in the coverage of a contentious issue in a range of news and social media and influence how an audience understands the text."
-    }
+      "summary": "visual selection is the strongest answer because it influences how large the event appears. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-t-011",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language choices, perspective and influence",
+    "question": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: A headline says ‘Families hit by another rate rise’.",
+    "audio_prompt": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: A headline says ‘Families hit by another rate rise’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "affected-group framing: it foregrounds people experiencing the impact.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "affected-group framing is the strongest answer because it foregrounds people experiencing the impact. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-t-012",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language choices, perspective and influence",
+    "question": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: An editorial calls a policy ‘a modest first step’.",
+    "audio_prompt": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: An editorial calls a policy ‘a modest first step’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "qualified evaluation: it supports the direction while implying it is insufficient.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "qualified evaluation is the strongest answer because it supports the direction while implying it is insufficient. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-t-013",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language choices, perspective and influence",
+    "question": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: A campaign says ‘protect our coastline’ rather than ‘regulate development’.",
+    "audio_prompt": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: A campaign says ‘protect our coastline’ rather than ‘regulate development’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "value framing: it makes regulation sound like care for something shared.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "value framing is the strongest answer because it makes regulation sound like care for something shared. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-t-014",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language choices, perspective and influence",
+    "question": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: A company says ‘an operational incident occurred’ instead of naming who made the error.",
+    "audio_prompt": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: A company says ‘an operational incident occurred’ instead of naming who made the error.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "agent deletion: it reduces attention on responsibility.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "agent deletion is the strongest answer because it reduces attention on responsibility. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-t-015",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language choices, perspective and influence",
+    "question": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: A review says ‘for committed fans’ rather than ‘too confusing for newcomers’.",
+    "audio_prompt": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: A review says ‘for committed fans’ rather than ‘too confusing for newcomers’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "audience reframing: it presents difficulty as specialist appeal.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "audience reframing is the strongest answer because it presents difficulty as specialist appeal. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9ly03-t-016",
+    "curriculum_code": "AC9E9LY03",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "language choices, perspective and influence",
+    "question": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: A charity addresses readers as ‘neighbours’.",
+    "audio_prompt": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: A charity addresses readers as ‘neighbours’.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "relationship positioning: it creates closeness and shared community.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "relationship positioning is the strongest answer because it creates closeness and shared community. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]

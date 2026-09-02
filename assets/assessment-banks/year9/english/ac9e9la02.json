@@ -5,39 +5,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "direct and indirect evaluation",
+    "question": "In this school podcast, what is the most important feature to notice? “The proposal is reckless.”",
+    "audio_prompt": "In this school podcast, what is the most important feature to notice? “The proposal is reckless.”",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "direct judgement",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "neutral filler",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
+      "summary": "direct judgement is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "direct and indirect evaluation",
+    "question": "Read this detail from a Canberra youth forum: “The plan promises a bridge to nowhere.” Which description is most precise?",
+    "audio_prompt": "Read this detail from a Canberra youth forum: “The plan promises a bridge to nowhere.” Which description is most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "unrelated convention",
+        "is_correct": false
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
+      "summary": "metaphor is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-p-003",
@@ -85,38 +89,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "direct and indirect evaluation",
+    "question": "Which label best fits the choice made in this regional newspaper? “A sparkling triumph of planning — if traffic jams are the goal.”",
+    "audio_prompt": "Which label best fits the choice made in this regional newspaper? “A sparkling triumph of planning — if traffic jams are the goal.”",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "irony",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
+      "summary": "irony is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-p-004",
@@ -124,39 +131,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "direct and indirect evaluation",
+    "question": "A community sport newsletter contains this example: “The tiny clinic carries the hopes of three remote towns.” What should a careful reader identify first?",
+    "audio_prompt": "A community sport newsletter contains this example: “The tiny clinic carries the hopes of three remote towns.” What should a careful reader identify first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "evocative vocabulary",
         "is_correct": true
+      },
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
+      "summary": "evocative vocabulary is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-p-005",
@@ -164,39 +173,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "direct and indirect evaluation",
+    "question": "Look closely at this coastal clean-up page extract: “He entered the debate like David facing Goliath.” Which feature matters most?",
+    "audio_prompt": "Look closely at this coastal clean-up page extract: “He entered the debate like David facing Goliath.” Which feature matters most?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "allusion",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "unimportant wording",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
+      "summary": "allusion is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-p-006",
@@ -204,39 +215,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "direct and indirect evaluation",
+    "question": "What is the clearest way to classify this choice from a student magazine? “The cuts carved the music program to the bone.”",
+    "audio_prompt": "What is the clearest way to classify this choice from a student magazine? “The cuts carved the music program to the bone.”",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "background detail",
         "is_correct": false
       },
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "neutral filler",
+        "is_correct": false
+      },
+      {
+        "text": "formatting accident",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
+      "summary": "metaphor is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-p-007",
@@ -244,39 +257,41 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "direct and indirect evaluation",
+    "question": "Before interpreting the effect, identify the main choice here: “Fortunately, the council finally listened.”",
+    "audio_prompt": "Before interpreting the effect, identify the main choice here: “Fortunately, the council finally listened.”",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "attitudinal adverb",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "neutral filler",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
+      "summary": "attitudinal adverb is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-p-008",
@@ -284,39 +299,1385 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "direct and indirect evaluation",
+    "question": "Which option accurately names the technique operating in this public-transport survey? “Another brilliant idea: closing the pool in summer.”",
+    "audio_prompt": "Which option accurately names the technique operating in this public-transport survey? “Another brilliant idea: closing the pool in summer.”",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "random decoration",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "sarcasm",
+        "is_correct": true
+      },
+      {
+        "text": "formatting accident",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "unrelated convention",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "sarcasm is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-009",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "direct and indirect evaluation",
+    "question": "This detail appears in a school captain speech: “The creek limped through the dry paddocks.” What has the creator done?",
+    "audio_prompt": "This detail appears in a school captain speech: “The creek limped through the dry paddocks.” What has the creator done?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "personification",
+        "is_correct": true
+      },
+      {
+        "text": "unrelated convention",
         "is_correct": false
       },
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "personification is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-010",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "direct and indirect evaluation",
+    "question": "Which feature is actually present in this neighbourhood campaign example? “Only a handful of families can afford the new fees.”",
+    "audio_prompt": "Which feature is actually present in this neighbourhood campaign example? “Only a handful of families can afford the new fees.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "random decoration",
+        "is_correct": false
+      },
+      {
+        "text": "unimportant wording",
+        "is_correct": false
+      },
+      {
+        "text": "background detail",
+        "is_correct": false
+      },
+      {
+        "text": "loaded quantity choice",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
+      "summary": "loaded quantity choice is the most precise label because that is the observable choice in the example.",
+      "hint": "Identify what is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-011",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct and indirect evaluation",
+    "question": "Why does this choice matter in the library zine? “The proposal is reckless.”",
+    "audio_prompt": "Why does this choice matter in the library zine? “The proposal is reckless.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "direct judgement: it states a negative evaluation openly through “reckless”.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "direct judgement is the strongest answer because it states a negative evaluation openly through “reckless”. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-012",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct and indirect evaluation",
+    "question": "Which explanation best connects the detail to its effect? “The plan promises a bridge to nowhere.”",
+    "audio_prompt": "Which explanation best connects the detail to its effect? “The plan promises a bridge to nowhere.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor: it criticises indirectly by suggesting wasted effort.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "metaphor is the strongest answer because it criticises indirectly by suggesting wasted effort. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-013",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct and indirect evaluation",
+    "question": "What does the choice contribute to meaning here? “A sparkling triumph of planning — if traffic jams are the goal.”",
+    "audio_prompt": "What does the choice contribute to meaning here? “A sparkling triumph of planning — if traffic jams are the goal.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "irony: it apparently praises before reversing the judgement.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "irony is the strongest answer because it apparently praises before reversing the judgement. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-014",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct and indirect evaluation",
+    "question": "How is a reader or listener likely to be guided by this choice? “The tiny clinic carries the hopes of three remote towns.”",
+    "audio_prompt": "How is a reader or listener likely to be guided by this choice? “The tiny clinic carries the hopes of three remote towns.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "evocative vocabulary: it invites sympathy and admiration through emotionally weighted words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "evocative vocabulary is the strongest answer because it invites sympathy and admiration through emotionally weighted words. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-015",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct and indirect evaluation",
+    "question": "Which explanation is supported by the actual wording or structure? “He entered the debate like David facing Goliath.”",
+    "audio_prompt": "Which explanation is supported by the actual wording or structure? “He entered the debate like David facing Goliath.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "allusion: it frames one side as an underdog through a familiar cultural reference.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "allusion is the strongest answer because it frames one side as an underdog through a familiar cultural reference. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-016",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct and indirect evaluation",
+    "question": "A reader notices this in a school documentary: “The cuts carved the music program to the bone.” What is the strongest explanation?",
+    "audio_prompt": "A reader notices this in a school documentary: “The cuts carved the music program to the bone.” What is the strongest explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor: it presents the reduction as severe and damaging.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "metaphor is the strongest answer because it presents the reduction as severe and damaging. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-017",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct and indirect evaluation",
+    "question": "What is gained by using the feature this way? “Fortunately, the council finally listened.”",
+    "audio_prompt": "What is gained by using the feature this way? “Fortunately, the council finally listened.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "attitudinal adverb: it signals approval directly through “fortunately”.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "attitudinal adverb is the strongest answer because it signals approval directly through “fortunately”. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-018",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct and indirect evaluation",
+    "question": "Which response goes beyond naming the feature and explains what it does? “Another brilliant idea: closing the pool in summer.”",
+    "audio_prompt": "Which response goes beyond naming the feature and explains what it does? “Another brilliant idea: closing the pool in summer.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "sarcasm: it uses apparently positive wording to communicate criticism.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "sarcasm is the strongest answer because it uses apparently positive wording to communicate criticism. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-019",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct and indirect evaluation",
+    "question": "How does this choice help the debate transcript achieve its effect? “The creek limped through the dry paddocks.”",
+    "audio_prompt": "How does this choice help the debate transcript achieve its effect? “The creek limped through the dry paddocks.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "personification: it makes the creek seem weak and encourages concern.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "personification is the strongest answer because it makes the creek seem weak and encourages concern. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-020",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct and indirect evaluation",
+    "question": "Which interpretation best accounts for this detail? “Only a handful of families can afford the new fees.”",
+    "audio_prompt": "Which interpretation best accounts for this detail? “Only a handful of families can afford the new fees.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "loaded quantity choice: it frames access as worryingly limited.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "loaded quantity choice is the strongest answer because it frames access as worryingly limited. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-021",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "direct and indirect evaluation",
+    "question": "Two readers disagree about this detail: “The proposal is reckless.” Which interpretation is best supported?",
+    "audio_prompt": "Two readers disagree about this detail: “The proposal is reckless.” Which interpretation is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "direct judgement: it states a negative evaluation openly through “reckless”.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "direct judgement is the strongest answer because it states a negative evaluation openly through “reckless”. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-022",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "direct and indirect evaluation",
+    "question": "Which analysis avoids overclaiming about this school newspaper example? “The plan promises a bridge to nowhere.”",
+    "audio_prompt": "Which analysis avoids overclaiming about this school newspaper example? “The plan promises a bridge to nowhere.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor: it criticises indirectly by suggesting wasted effort.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "metaphor is the strongest answer because it criticises indirectly by suggesting wasted effort. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-023",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "direct and indirect evaluation",
+    "question": "Choose the strongest evidence-based reading of this choice: “A sparkling triumph of planning — if traffic jams are the goal.”",
+    "audio_prompt": "Choose the strongest evidence-based reading of this choice: “A sparkling triumph of planning — if traffic jams are the goal.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "irony: it apparently praises before reversing the judgement.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "irony is the strongest answer because it apparently praises before reversing the judgement. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-024",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "direct and indirect evaluation",
+    "question": "Which response is most precise about both the feature and its effect? “The tiny clinic carries the hopes of three remote towns.”",
+    "audio_prompt": "Which response is most precise about both the feature and its effect? “The tiny clinic carries the hopes of three remote towns.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "evocative vocabulary: it invites sympathy and admiration through emotionally weighted words.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "evocative vocabulary is the strongest answer because it invites sympathy and admiration through emotionally weighted words. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-025",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "direct and indirect evaluation",
+    "question": "Which claim could be defended most convincingly using this exact detail? “He entered the debate like David facing Goliath.”",
+    "audio_prompt": "Which claim could be defended most convincingly using this exact detail? “He entered the debate like David facing Goliath.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "allusion: it frames one side as an underdog through a familiar cultural reference.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "allusion is the strongest answer because it frames one side as an underdog through a familiar cultural reference. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-026",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "direct and indirect evaluation",
+    "question": "Which interpretation stays closest to what the local sports podcast actually shows? “The cuts carved the music program to the bone.”",
+    "audio_prompt": "Which interpretation stays closest to what the local sports podcast actually shows? “The cuts carved the music program to the bone.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor: it presents the reduction as severe and damaging.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "metaphor is the strongest answer because it presents the reduction as severe and damaging. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-027",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "direct and indirect evaluation",
+    "question": "Which response corrects the common mistake of treating the feature as having one fixed effect? “Fortunately, the council finally listened.”",
+    "audio_prompt": "Which response corrects the common mistake of treating the feature as having one fixed effect? “Fortunately, the council finally listened.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "attitudinal adverb: it signals approval directly through “fortunately”.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "attitudinal adverb is the strongest answer because it signals approval directly through “fortunately”. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-028",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "direct and indirect evaluation",
+    "question": "Which explanation remains convincing when audience and purpose are considered? “Another brilliant idea: closing the pool in summer.”",
+    "audio_prompt": "Which explanation remains convincing when audience and purpose are considered? “Another brilliant idea: closing the pool in summer.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "sarcasm: it uses apparently positive wording to communicate criticism.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "sarcasm is the strongest answer because it uses apparently positive wording to communicate criticism. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-029",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "direct and indirect evaluation",
+    "question": "Which option gives the most defensible analysis of this choice? “The creek limped through the dry paddocks.”",
+    "audio_prompt": "Which option gives the most defensible analysis of this choice? “The creek limped through the dry paddocks.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "personification: it makes the creek seem weak and encourages concern.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "personification is the strongest answer because it makes the creek seem weak and encourages concern. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-030",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "direct and indirect evaluation",
+    "question": "Which reading distinguishes evidence from assumption most successfully? “Only a handful of families can afford the new fees.”",
+    "audio_prompt": "Which reading distinguishes evidence from assumption most successfully? “Only a handful of families can afford the new fees.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "loaded quantity choice: it frames access as worryingly limited.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "loaded quantity choice is the strongest answer because it frames access as worryingly limited. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-031",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "direct and indirect evaluation",
+    "question": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: “The proposal is reckless.”",
+    "audio_prompt": "You are revising a book-club post. Which decision would use the same idea most purposefully? Starting point: “The proposal is reckless.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "direct judgement: it states a negative evaluation openly through “reckless”.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "direct judgement is the strongest answer because it states a negative evaluation openly through “reckless”. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-032",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "direct and indirect evaluation",
+    "question": "Which revision would preserve the intended effect without simply adding complexity? “The plan promises a bridge to nowhere.”",
+    "audio_prompt": "Which revision would preserve the intended effect without simply adding complexity? “The plan promises a bridge to nowhere.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor: it criticises indirectly by suggesting wasted effort.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "metaphor is the strongest answer because it criticises indirectly by suggesting wasted effort. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-033",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "direct and indirect evaluation",
+    "question": "A writer wants a similar effect in a new section. Which principle should guide the revision? “A sparkling triumph of planning — if traffic jams are the goal.”",
+    "audio_prompt": "A writer wants a similar effect in a new section. Which principle should guide the revision? “A sparkling triumph of planning — if traffic jams are the goal.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "irony: it apparently praises before reversing the judgement.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "irony is the strongest answer because it apparently praises before reversing the judgement. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-034",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "direct and indirect evaluation",
+    "question": "Which editing decision shows deliberate control of the feature demonstrated here? “The tiny clinic carries the hopes of three remote towns.”",
+    "audio_prompt": "Which editing decision shows deliberate control of the feature demonstrated here? “The tiny clinic carries the hopes of three remote towns.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "evocative vocabulary: it invites sympathy and admiration through emotionally weighted words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "evocative vocabulary is the strongest answer because it invites sympathy and admiration through emotionally weighted words. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-035",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "direct and indirect evaluation",
+    "question": "How could a creator build on this choice without merely repeating it? “He entered the debate like David facing Goliath.”",
+    "audio_prompt": "How could a creator build on this choice without merely repeating it? “He entered the debate like David facing Goliath.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "allusion: it frames one side as an underdog through a familiar cultural reference.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "allusion is the strongest answer because it frames one side as an underdog through a familiar cultural reference. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-036",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "direct and indirect evaluation",
+    "question": "Which revision would make the effect clearer while keeping it appropriate for the audience? “The cuts carved the music program to the bone.”",
+    "audio_prompt": "Which revision would make the effect clearer while keeping it appropriate for the audience? “The cuts carved the music program to the bone.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor: it presents the reduction as severe and damaging.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "metaphor is the strongest answer because it presents the reduction as severe and damaging. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-037",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "direct and indirect evaluation",
+    "question": "Which alternative best applies the same underlying principle? “Fortunately, the council finally listened.”",
+    "audio_prompt": "Which alternative best applies the same underlying principle? “Fortunately, the council finally listened.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "attitudinal adverb: it signals approval directly through “fortunately”.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "attitudinal adverb is the strongest answer because it signals approval directly through “fortunately”. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-038",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "direct and indirect evaluation",
+    "question": "Which next choice would extend the effect most logically? “Another brilliant idea: closing the pool in summer.”",
+    "audio_prompt": "Which next choice would extend the effect most logically? “Another brilliant idea: closing the pool in summer.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "sarcasm: it uses apparently positive wording to communicate criticism.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "sarcasm is the strongest answer because it uses apparently positive wording to communicate criticism. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-039",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "direct and indirect evaluation",
+    "question": "Which revision best matches audience, purpose and the feature shown here? “The creek limped through the dry paddocks.”",
+    "audio_prompt": "Which revision best matches audience, purpose and the feature shown here? “The creek limped through the dry paddocks.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "personification: it makes the creek seem weak and encourages concern.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "personification is the strongest answer because it makes the creek seem weak and encourages concern. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-p-040",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "direct and indirect evaluation",
+    "question": "Which editing move would strengthen the text while keeping this effect controlled? “Only a handful of families can afford the new fees.”",
+    "audio_prompt": "Which editing move would strengthen the text while keeping this effect controlled? “Only a handful of families can afford the new fees.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "loaded quantity choice: it frames access as worryingly limited.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "loaded quantity choice is the strongest answer because it frames access as worryingly limited. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-t-001",
@@ -324,36 +1685,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "What is the correct way to apply a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text?",
-    "audio_prompt": "What is the correct way to apply a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text?",
+    "skill": "direct and indirect evaluation",
+    "question": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: ‘The proposal is reckless.’",
+    "audio_prompt": "Which analysis best explains the key choice in this bushfire preparedness video? A new example uses the same kind of deliberate choice: ‘The proposal is reckless.’",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "direct judgement: it states a negative evaluation openly through “reckless”.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+      "summary": "direct judgement is the strongest answer because it states a negative evaluation openly through “reckless”. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-t-002",
@@ -361,36 +1726,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "direct and indirect evaluation",
+    "question": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: ‘The plan promises a bridge to nowhere.’ Which response is most convincing?",
+    "audio_prompt": "Consider this detail from a state library exhibition: In a separate text, the creator makes a comparable move: ‘The plan promises a bridge to nowhere.’ Which response is most convincing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       },
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor: it criticises indirectly by suggesting wasted effort.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+      "summary": "metaphor is the strongest answer because it criticises indirectly by suggesting wasted effort. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-t-003",
@@ -398,36 +1767,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text?",
+    "skill": "direct and indirect evaluation",
+    "question": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: ‘A sparkling triumph of planning — if traffic jams are the goal.’",
+    "audio_prompt": "What is the strongest interpretation of this regional arts review example? A different writer handles the idea this way: ‘A sparkling triumph of planning — if traffic jams are the goal.’",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "irony: it apparently praises before reversing the judgement.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+      "summary": "irony is the strongest answer because it apparently praises before reversing the judgement. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-t-004",
@@ -435,36 +1808,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "direct and indirect evaluation",
+    "question": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: ‘The tiny clinic carries the hopes of three remote towns.’",
+    "audio_prompt": "Which option best explains how the choice works for its likely audience? In an unrelated context, readers encounter this choice: ‘The tiny clinic carries the hopes of three remote towns.’",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "evocative vocabulary: it invites sympathy and admiration through emotionally weighted words.",
         "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+      "summary": "evocative vocabulary is the strongest answer because it invites sympathy and admiration through emotionally weighted words. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-t-005",
@@ -472,36 +1849,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text?",
+    "skill": "direct and indirect evaluation",
+    "question": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: ‘He entered the debate like David facing Goliath.’",
+    "audio_prompt": "Which analysis is best supported by this rail-station campaign detail? A new example uses the same kind of deliberate choice: ‘He entered the debate like David facing Goliath.’",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "allusion: it frames one side as an underdog through a familiar cultural reference.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+      "summary": "allusion is the strongest answer because it frames one side as an underdog through a familiar cultural reference. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-t-006",
@@ -509,36 +1890,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "direct and indirect evaluation",
+    "question": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: ‘The cuts carved the music program to the bone.’",
+    "audio_prompt": "Which response most accurately connects feature and effect here? In a separate text, the creator makes a comparable move: ‘The cuts carved the music program to the bone.’",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
         "is_correct": false
       },
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor: it presents the reduction as severe and damaging.",
         "is_correct": true
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+      "summary": "metaphor is the strongest answer because it presents the reduction as severe and damaging. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-t-007",
@@ -546,36 +1931,40 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "direct and indirect evaluation",
+    "question": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: ‘Fortunately, the council finally listened.’",
+    "audio_prompt": "What does a careful reading of this marine-science feature example suggest? A different writer handles the idea this way: ‘Fortunately, the council finally listened.’",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
         "is_correct": false
       },
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "attitudinal adverb: it signals approval directly through “fortunately”.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Audience and context can be ignored because the feature works independently.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+      "summary": "attitudinal adverb is the strongest answer because it signals approval directly through “fortunately”. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e9la02-t-008",
@@ -583,35 +1972,367 @@
     "year_level": "Year 9",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_comparing_texts_that_use_evaluative_language_in_different_ways_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 9 student is working with a text and needs to use a writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "direct and indirect evaluation",
+    "question": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: ‘Another brilliant idea: closing the pool in summer.’",
+    "audio_prompt": "Which judgement about this choice is supported by the evidence? In an unrelated context, readers encounter this choice: ‘Another brilliant idea: closing the pool in summer.’",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "The choice changes only surface style and cannot influence meaning.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "sarcasm: it uses apparently positive wording to communicate criticism.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "sarcasm is the strongest answer because it uses apparently positive wording to communicate criticism. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-t-009",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "direct and indirect evaluation",
+    "question": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: ‘The creek limped through the dry paddocks.’",
+    "audio_prompt": "Which interpretation is precise enough for this cycling-safety proposal context? A new example uses the same kind of deliberate choice: ‘The creek limped through the dry paddocks.’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "personification: it makes the creek seem weak and encourages concern.",
+        "is_correct": true
+      },
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "personification is the strongest answer because it makes the creek seem weak and encourages concern. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-t-010",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "direct and indirect evaluation",
+    "question": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: ‘Only a handful of families can afford the new fees.’",
+    "audio_prompt": "What is the most defensible explanation of this choice? In a separate text, the creator makes a comparable move: ‘Only a handful of families can afford the new fees.’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "loaded quantity choice: it frames access as worryingly limited.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "comparing texts that use evaluative language in different ways; for example, print advertisements, editorials, talkback radio, podcasts and poetry, and identifying wording that appraises indirectly through evocative language, similes and metaphors that direct readers’ views in particular ways",
-      "hint": "A writer or speaker can use word choice to shape comparing texts that use evaluative language in different ways and influence how an audience understands the text."
-    }
+      "summary": "loaded quantity choice is the strongest answer because it frames access as worryingly limited. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-t-011",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "direct and indirect evaluation",
+    "question": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: ‘The proposal is reckless.’",
+    "audio_prompt": "Which reading takes both the detail and its context into account? A different writer handles the idea this way: ‘The proposal is reckless.’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "direct judgement: it states a negative evaluation openly through “reckless”.",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "direct judgement is the strongest answer because it states a negative evaluation openly through “reckless”. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-t-012",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "direct and indirect evaluation",
+    "question": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: ‘The plan promises a bridge to nowhere.’",
+    "audio_prompt": "Which response avoids a simplistic rule and explains the actual effect? In an unrelated context, readers encounter this choice: ‘The plan promises a bridge to nowhere.’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor: it criticises indirectly by suggesting wasted effort.",
+        "is_correct": true
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "metaphor is the strongest answer because it criticises indirectly by suggesting wasted effort. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-t-013",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "direct and indirect evaluation",
+    "question": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: ‘A sparkling triumph of planning — if traffic jams are the goal.’",
+    "audio_prompt": "What is the best-supported conclusion about this farmers-market profile choice? A new example uses the same kind of deliberate choice: ‘A sparkling triumph of planning — if traffic jams are the goal.’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "irony: it apparently praises before reversing the judgement.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "irony is the strongest answer because it apparently praises before reversing the judgement. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-t-014",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "direct and indirect evaluation",
+    "question": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: ‘The tiny clinic carries the hopes of three remote towns.’",
+    "audio_prompt": "Which option shows the strongest understanding of how the feature works here? In a separate text, the creator makes a comparable move: ‘The tiny clinic carries the hopes of three remote towns.’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The most dramatic interpretation must be correct even when the evidence is weak.",
+        "is_correct": false
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the feature is enough; the surrounding evidence does not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "evocative vocabulary: it invites sympathy and admiration through emotionally weighted words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "evocative vocabulary is the strongest answer because it invites sympathy and admiration through emotionally weighted words. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-t-015",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "direct and indirect evaluation",
+    "question": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: ‘He entered the debate like David facing Goliath.’",
+    "audio_prompt": "Which explanation would survive a close check against the evidence? A different writer handles the idea this way: ‘He entered the debate like David facing Goliath.’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The feature has exactly the same effect in every text, whatever the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Any unusual choice automatically makes a text persuasive and trustworthy.",
+        "is_correct": false
+      },
+      {
+        "text": "allusion: it frames one side as an underdog through a familiar cultural reference.",
+        "is_correct": true
+      },
+      {
+        "text": "Audience and context can be ignored because the feature works independently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "allusion is the strongest answer because it frames one side as an underdog through a familiar cultural reference. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e9la02-t-016",
+    "curriculum_code": "AC9E9LA02",
+    "year_level": "Year 9",
+    "subject": "english",
+    "bank": "test",
+    "skill": "direct and indirect evaluation",
+    "question": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: ‘The cuts carved the music program to the bone.’",
+    "audio_prompt": "Which analysis best matches the creator’s likely purpose in this sports documentary? In an unrelated context, readers encounter this choice: ‘The cuts carved the music program to the bone.’",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The choice changes only surface style and cannot influence meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "metaphor: it presents the reduction as severe and damaging.",
+        "is_correct": true
+      },
+      {
+        "text": "One isolated detail proves the whole interpretation without needing other evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It is effective mainly because it sounds complicated and therefore more intelligent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "metaphor is the strongest answer because it presents the reduction as severe and damaging. The distractors either ignore context, overstate the evidence or confuse complexity with effectiveness.",
+      "hint": "Connect one specific choice to one effect that the evidence supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
