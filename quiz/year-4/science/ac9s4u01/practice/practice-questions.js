@@ -139,8 +139,8 @@ window.skillrPracticeQuestions = [
     "skill": "producers consumers decomposers and food chains",
     "printable": true,
     "type": "single",
-    "question": "Which statement correctly describes a habitat?",
-    "audioPrompt": "Which statement correctly describes a habitat?",
+    "question": "A frog lives among reeds, insects and shallow water at a billabong. What is the billabong for the frog?",
+    "audioPrompt": "A frog lives among reeds, insects and shallow water at a billabong. What is the billabong for the frog?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -148,16 +148,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is the place where organisms live and interact",
-      "It is only a food chain diagram",
-      "It is always a classroom garden bed",
-      "It is any non-living object"
+      "A habitat where it lives and interacts",
+      "Only a food-chain arrow",
+      "A non-living organism",
+      "A producer making food"
     ],
     "correct": 0,
-    "explanation": "A habitat is where living things live, obtain resources and interact.\nHint: Think place for organisms.",
+    "explanation": "The billabong is the frog’s habitat because it is where the frog lives and interacts with other parts of the environment.\nHint: Place where it lives.",
     "structuredExplanation": {
-      "summary": "A habitat is where living things live, obtain resources and interact.",
-      "hint": "Think place for organisms."
+      "summary": "The billabong is the frog’s habitat because it is where the frog lives and interacts with other parts of the environment.",
+      "hint": "Place where it lives."
     },
     "stage": "recognise",
     "difficulty": 1,
