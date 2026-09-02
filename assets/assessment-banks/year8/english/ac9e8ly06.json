@@ -5,39 +5,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_experimenting_with_and_editing_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "In a school podcast script, which option most clearly shows plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "In a school podcast script, which option most clearly shows plan, create, edit and publish written and multimodal texts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "experimenting with and editing text structures and language features; for example, paragraph order and content, and language choices to refine and clarify ideas",
+        "text": "Experimenting with and editing text structures and language features.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "experimenting with and editing text structures and language features; for example, paragraph order and content, and language choices to refine and clarify ideas",
-      "hint": "A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_selecting_vocabulary_to_position_and_persuade_the_reader_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "While reading a community-news article, which choice is the clearest example of plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "While reading a community-news article, which choice is the clearest example of plan, create, edit and publish written and multimodal texts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "selecting vocabulary to position and persuade the reader; for example, adjusting language to show or acknowledge power",
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "selecting vocabulary to position and persuade the reader; for example, adjusting language to show or acknowledge power",
-      "hint": "A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_editing_for_accuracy_of_grammar_spelling_and_punctuation_and_for_meaning_by_experimenting_with_different_order_of_ideas_a_range_of_sentence_structures_literary_devices_and_vocabulary_to_clarify_meaning_for_academic_texts_where_appropriate_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape editing for accuracy of grammar spelling and punctuation and for meaning by experimenting with different order of ideas a range of sentence structures literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape editing for accuracy of grammar spelling and punctuation and for meaning by experimenting with different order of ideas a range of sentence structures literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which option would you identify as an example of plan, create, edit and publish written and multimodal texts in a library book-club discussion?",
+    "audio_prompt": "Which option would you identify as an example of plan, create, edit and publish written and multimodal texts in a library book-club discussion?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": false
       },
       {
-        "text": "editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate",
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Experimenting with and editing text structures and language features.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate",
-      "hint": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text."
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_using_conceptual_maps_or_journals_to_plan_and_reflect_on_each_stage_of_creating_a_written_or_multimodal_text_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "A student council speech is being edited. Which choice best matches plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "A student council speech is being edited. Which choice best matches plan, create, edit and publish written and multimodal texts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Experimenting with and editing text structures and language features.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": false
       },
       {
-        "text": "using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text",
-      "hint": "A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_experimenting_with_and_editing_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which feature in a science-expo explanation best fits the idea of plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "Which feature in a science-expo explanation best fits the idea of plan, create, edit and publish written and multimodal texts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "experimenting with and editing text structures and language features; for example, paragraph order and content, and language choices to refine and clarify ideas",
+        "text": "Experimenting with and editing text structures and language features.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "experimenting with and editing text structures and language features; for example, paragraph order and content, and language choices to refine and clarify ideas",
-      "hint": "A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_selecting_vocabulary_to_position_and_persuade_the_reader_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Look at the four choices for a museum caption. Which one demonstrates plan, create, edit and publish written and multimodal texts most accurately?",
+    "audio_prompt": "Look at the four choices for a museum caption. Which one demonstrates plan, create, edit and publish written and multimodal texts most accurately?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "selecting vocabulary to position and persuade the reader; for example, adjusting language to show or acknowledge power",
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "selecting vocabulary to position and persuade the reader; for example, adjusting language to show or acknowledge power",
-      "hint": "A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_editing_for_accuracy_of_grammar_spelling_and_punctuation_and_for_meaning_by_experimenting_with_different_order_of_ideas_a_range_of_sentence_structures_literary_devices_and_vocabulary_to_clarify_meaning_for_academic_texts_where_appropriate_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape editing for accuracy of grammar spelling and punctuation and for meaning by experimenting with different order of ideas a range of sentence structures literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape editing for accuracy of grammar spelling and punctuation and for meaning by experimenting with different order of ideas a range of sentence structures literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which choice belongs in a local-sport profile if the writer wants to show plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "Which choice belongs in a local-sport profile if the writer wants to show plan, create, edit and publish written and multimodal texts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": false
       },
       {
-        "text": "editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate",
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Experimenting with and editing text structures and language features.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate",
-      "hint": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text."
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-p-008",
@@ -285,39 +299,1385 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_using_conceptual_maps_or_journals_to_plan_and_reflect_on_each_stage_of_creating_a_written_or_multimodal_text_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "A reader notices a deliberate language choice in a school newsletter. Which option best identifies plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "A reader notices a deliberate language choice in a school newsletter. Which option best identifies plan, create, edit and publish written and multimodal texts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Experimenting with and editing text structures and language features.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": false
       },
       {
-        "text": "using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text",
-      "hint": "A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-009",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which option is the strongest match for plan, create, edit and publish written and multimodal texts in a youth radio segment?",
+    "audio_prompt": "Which option is the strongest match for plan, create, edit and publish written and multimodal texts in a youth radio segment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-010",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "For a bushwalking safety page, which choice gives the clearest evidence of plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "For a bushwalking safety page, which choice gives the clearest evidence of plan, create, edit and publish written and multimodal texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-011",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "In a review of an Australian novel, which explanation best shows why plan, create, edit and publish written and multimodal texts matters?",
+    "audio_prompt": "In a review of an Australian novel, which explanation best shows why plan, create, edit and publish written and multimodal texts matters?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-012",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which option best explains the effect of plan, create, edit and publish written and multimodal texts in a documentary storyboard?",
+    "audio_prompt": "Which option best explains the effect of plan, create, edit and publish written and multimodal texts in a documentary storyboard?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-013",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "A reader is explaining plan, create, edit and publish written and multimodal texts in a class debate. Which response connects the feature to meaning most clearly?",
+    "audio_prompt": "A reader is explaining plan, create, edit and publish written and multimodal texts in a class debate. Which response connects the feature to meaning most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-014",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which explanation of plan, create, edit and publish written and multimodal texts would make the strongest sense in a community-festival webpage?",
+    "audio_prompt": "Which explanation of plan, create, edit and publish written and multimodal texts would make the strongest sense in a community-festival webpage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-015",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "How can plan, create, edit and publish written and multimodal texts shape the way an audience understands a wildlife-centre brochure? Choose the best explanation.",
+    "audio_prompt": "How can plan, create, edit and publish written and multimodal texts shape the way an audience understands a wildlife-centre brochure? Choose the best explanation.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-016",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which response goes beyond naming plan, create, edit and publish written and multimodal texts and explains what it does in a historical display?",
+    "audio_prompt": "Which response goes beyond naming plan, create, edit and publish written and multimodal texts and explains what it does in a historical display?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-017",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "For a persuasive letter to council, which statement gives the most precise explanation of plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "For a persuasive letter to council, which statement gives the most precise explanation of plan, create, edit and publish written and multimodal texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-018",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which explanation links plan, create, edit and publish written and multimodal texts to purpose or audience in a school assembly address?",
+    "audio_prompt": "Which explanation links plan, create, edit and publish written and multimodal texts to purpose or audience in a school assembly address?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-019",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "A class is discussing a digital magazine feature. Which comment best explains plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "A class is discussing a digital magazine feature. Which comment best explains plan, create, edit and publish written and multimodal texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-020",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which statement best accounts for the effect of plan, create, edit and publish written and multimodal texts in a public-transport campaign?",
+    "audio_prompt": "Which statement best accounts for the effect of plan, create, edit and publish written and multimodal texts in a public-transport campaign?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-021",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Several comments are made about plan, create, edit and publish written and multimodal texts in a theatre-program note. Which one avoids the common misconception?",
+    "audio_prompt": "Several comments are made about plan, create, edit and publish written and multimodal texts in a theatre-program note. Which one avoids the common misconception?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-022",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which interpretation of plan, create, edit and publish written and multimodal texts in a coastal-care poster is the most accurate?",
+    "audio_prompt": "Which interpretation of plan, create, edit and publish written and multimodal texts in a coastal-care poster is the most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-023",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which option distinguishes a sound analysis of plan, create, edit and publish written and multimodal texts from a superficial one in a short-story workshop?",
+    "audio_prompt": "Which option distinguishes a sound analysis of plan, create, edit and publish written and multimodal texts from a superficial one in a short-story workshop?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-024",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "A reader has made an overgeneralisation about a media-literacy lesson. Which choice gives the more careful view of plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "A reader has made an overgeneralisation about a media-literacy lesson. Which choice gives the more careful view of plan, create, edit and publish written and multimodal texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-025",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which statement about plan, create, edit and publish written and multimodal texts in a local-history podcast is supported rather than assumed?",
+    "audio_prompt": "Which statement about plan, create, edit and publish written and multimodal texts in a local-history podcast is supported rather than assumed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-026",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which option uses evidence and context to interpret plan, create, edit and publish written and multimodal texts in a school website update?",
+    "audio_prompt": "Which option uses evidence and context to interpret plan, create, edit and publish written and multimodal texts in a school website update?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-027",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which response to a graphic-novel discussion shows the best judgement about plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "Which response to a graphic-novel discussion shows the best judgement about plan, create, edit and publish written and multimodal texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-028",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which claim about plan, create, edit and publish written and multimodal texts in a charity campaign is precise enough to defend?",
+    "audio_prompt": "Which claim about plan, create, edit and publish written and multimodal texts in a charity campaign is precise enough to defend?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-029",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which option avoids treating plan, create, edit and publish written and multimodal texts as a rule that always works the same way?",
+    "audio_prompt": "Which option avoids treating plan, create, edit and publish written and multimodal texts as a rule that always works the same way?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-030",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which reading of plan, create, edit and publish written and multimodal texts in a sustainability report is least likely to confuse feature, purpose and effect?",
+    "audio_prompt": "Which reading of plan, create, edit and publish written and multimodal texts in a sustainability report is least likely to confuse feature, purpose and effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-031",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "You are revising an exhibition review. Which choice applies plan, create, edit and publish written and multimodal texts most effectively?",
+    "audio_prompt": "You are revising an exhibition review. Which choice applies plan, create, edit and publish written and multimodal texts most effectively?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-032",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which change would make the strongest use of plan, create, edit and publish written and multimodal texts in a class anthology?",
+    "audio_prompt": "Which change would make the strongest use of plan, create, edit and publish written and multimodal texts in a class anthology?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-033",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "To improve a youth forum post, which option would best apply plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "To improve a youth forum post, which option would best apply plan, create, edit and publish written and multimodal texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-034",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which choice would you use in a tourism information page to control plan, create, edit and publish written and multimodal texts deliberately?",
+    "audio_prompt": "Which choice would you use in a tourism information page to control plan, create, edit and publish written and multimodal texts deliberately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-035",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "A writer wants a spoken presentation to communicate more precisely. Which option best applies plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "A writer wants a spoken presentation to communicate more precisely. Which option best applies plan, create, edit and publish written and multimodal texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-036",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which revision to a feature article shows the most purposeful use of plan, create, edit and publish written and multimodal texts?",
+    "audio_prompt": "Which revision to a feature article shows the most purposeful use of plan, create, edit and publish written and multimodal texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-037",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which option transfers an understanding of plan, create, edit and publish written and multimodal texts to a film-review discussion most successfully?",
+    "audio_prompt": "Which option transfers an understanding of plan, create, edit and publish written and multimodal texts to a film-review discussion most successfully?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-038",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "For a community survey summary, which choice uses plan, create, edit and publish written and multimodal texts in a way that suits audience and purpose?",
+    "audio_prompt": "For a community survey summary, which choice uses plan, create, edit and publish written and multimodal texts in a way that suits audience and purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-039",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which decision would strengthen a reading-journal entry by applying plan, create, edit and publish written and multimodal texts rather than merely naming it?",
+    "audio_prompt": "Which decision would strengthen a reading-journal entry by applying plan, create, edit and publish written and multimodal texts rather than merely naming it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-p-040",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which option is the best practical use of plan, create, edit and publish written and multimodal texts in a school production program?",
+    "audio_prompt": "Which option is the best practical use of plan, create, edit and publish written and multimodal texts in a school production program?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_experimenting_with_and_editing_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text?",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "In a regional newspaper feature, which interpretation of plan, create, edit and publish written and multimodal texts is best supported?",
+    "audio_prompt": "In a regional newspaper feature, which interpretation of plan, create, edit and publish written and multimodal texts is best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "experimenting with and editing text structures and language features; for example, paragraph order and content, and language choices to refine and clarify ideas",
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "experimenting with and editing text structures and language features; for example, paragraph order and content, and language choices to refine and clarify ideas",
-      "hint": "A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
-    }
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_selecting_vocabulary_to_position_and_persuade_the_reader_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text?",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which choice applies an accurate understanding of plan, create, edit and publish written and multimodal texts to an independent book review?",
+    "audio_prompt": "Which choice applies an accurate understanding of plan, create, edit and publish written and multimodal texts to an independent book review?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "selecting vocabulary to position and persuade the reader; for example, adjusting language to show or acknowledge power",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "selecting vocabulary to position and persuade the reader; for example, adjusting language to show or acknowledge power",
-      "hint": "A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
-    }
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-t-003",
@@ -399,36 +1767,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_editing_for_accuracy_of_grammar_spelling_and_punctuation_and_for_meaning_by_experimenting_with_different_order_of_ideas_a_range_of_sentence_structures_literary_devices_and_vocabulary_to_clarify_meaning_for_academic_texts_where_appropriate_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text?",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which explanation of plan, create, edit and publish written and multimodal texts best fits a public-library exhibition?",
+    "audio_prompt": "Which explanation of plan, create, edit and publish written and multimodal texts best fits a public-library exhibition?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Experimenting with and editing text structures and language features.",
         "is_correct": false
       },
       {
-        "text": "editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate",
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate",
-      "hint": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text."
-    }
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-t-004",
@@ -436,36 +1808,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_using_conceptual_maps_or_journals_to_plan_and_reflect_on_each_stage_of_creating_a_written_or_multimodal_text_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text?",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which option gives the strongest analysis of plan, create, edit and publish written and multimodal texts in a council youth consultation?",
+    "audio_prompt": "Which option gives the strongest analysis of plan, create, edit and publish written and multimodal texts in a council youth consultation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text",
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
         "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text",
-      "hint": "A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
-    }
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-t-005",
@@ -473,36 +1849,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_experimenting_with_and_editing_text_structures_and_language_features_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use plan, create, edit and publish written and multimodal texts deliberately?",
+    "audio_prompt": "Which choice would be most effective in an environmental campaign video if the aim is to use plan, create, edit and publish written and multimodal texts deliberately?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "experimenting with and editing text structures and language features; for example, paragraph order and content, and language choices to refine and clarify ideas",
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "experimenting with and editing text structures and language features; for example, paragraph order and content, and language choices to refine and clarify ideas",
-      "hint": "A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
-    }
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-t-006",
@@ -510,36 +1890,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_selecting_vocabulary_to_position_and_persuade_the_reader_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which statement about plan, create, edit and publish written and multimodal texts can be defended from the evidence in a cultural-festival program?",
+    "audio_prompt": "Which statement about plan, create, edit and publish written and multimodal texts can be defended from the evidence in a cultural-festival program?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "selecting vocabulary to position and persuade the reader; for example, adjusting language to show or acknowledge power",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "selecting vocabulary to position and persuade the reader; for example, adjusting language to show or acknowledge power",
-      "hint": "A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
-    }
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-t-007",
@@ -547,36 +1931,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_evidence_to_shape_editing_for_accuracy_of_grammar_spelling_and_punctuation_and_for_meaning_by_experimenting_with_different_order_of_ideas_a_range_of_sentence_structures_literary_devices_and_vocabulary_to_clarify_meaning_for_academic_texts_where_appropriate_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape editing for accuracy of grammar spelling and punctuation and for meaning by experimenting with different order of ideas a range of sentence structures literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape editing for accuracy of grammar spelling and punctuation and for meaning by experimenting with different order of ideas a range of sentence structures literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which response shows the most precise understanding of plan, create, edit and publish written and multimodal texts in a national-park information panel?",
+    "audio_prompt": "Which response shows the most precise understanding of plan, create, edit and publish written and multimodal texts in a national-park information panel?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Experimenting with and editing text structures and language features.",
         "is_correct": false
       },
       {
-        "text": "editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate",
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate",
-      "hint": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures, literary devices and vocabulary to clarify meaning for academic texts where appropriate and influence how an audience understands the text."
-    }
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly06-t-008",
@@ -584,35 +1972,367 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_using_conceptual_maps_or_journals_to_plan_and_reflect_on_each_stage_of_creating_a_written_or_multimodal_text_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which revision would best control plan, create, edit and publish written and multimodal texts in a radio interview transcript?",
+    "audio_prompt": "Which revision would best control plan, create, edit and publish written and multimodal texts in a radio interview transcript?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Selecting vocabulary to position and persuade the reader.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-t-009",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "In a digital news explainer, which interpretation of plan, create, edit and publish written and multimodal texts is best supported?",
+    "audio_prompt": "In a digital news explainer, which interpretation of plan, create, edit and publish written and multimodal texts is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text",
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-t-010",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which choice applies an accurate understanding of plan, create, edit and publish written and multimodal texts to a theatre review?",
+    "audio_prompt": "Which choice applies an accurate understanding of plan, create, edit and publish written and multimodal texts to a theatre review?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": true
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-t-011",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which explanation of plan, create, edit and publish written and multimodal texts best fits a community-history website?",
+    "audio_prompt": "Which explanation of plan, create, edit and publish written and multimodal texts best fits a community-history website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text",
-      "hint": "A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
-    }
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-t-012",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which option gives the strongest analysis of plan, create, edit and publish written and multimodal texts in a sports documentary?",
+    "audio_prompt": "Which option gives the strongest analysis of plan, create, edit and publish written and multimodal texts in a sports documentary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-t-013",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use plan, create, edit and publish written and multimodal texts deliberately?",
+    "audio_prompt": "Which choice would be most effective in a literary magazine extract if the aim is to use plan, create, edit and publish written and multimodal texts deliberately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": true
+      },
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selecting vocabulary to position and persuade the reader. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape selecting vocabulary to position and persuade the reader and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-t-014",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which statement about plan, create, edit and publish written and multimodal texts can be defended from the evidence in a public-service announcement?",
+    "audio_prompt": "Which statement about plan, create, edit and publish written and multimodal texts can be defended from the evidence in a public-service announcement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": true
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Experimenting with and editing text structures and language features. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape experimenting with and editing text structures and language features and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-t-015",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which response shows the most precise understanding of plan, create, edit and publish written and multimodal texts in an online museum exhibit?",
+    "audio_prompt": "Which response shows the most precise understanding of plan, create, edit and publish written and multimodal texts in an online museum exhibit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "Experimenting with and editing text structures and language features.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use audience to shape using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly06-t-016",
+    "curriculum_code": "AC9E8LY06",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "plan, create, edit and publish written and multimodal texts",
+    "question": "Which revision would best control plan, create, edit and publish written and multimodal texts in a youth conference presentation?",
+    "audio_prompt": "Which revision would best control plan, create, edit and publish written and multimodal texts in a youth conference presentation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting vocabulary to position and persuade the reader.",
+        "is_correct": false
+      },
+      {
+        "text": "Using conceptual maps or journals to plan and reflect on each stage of creating a written or multimodal text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape editing for accuracy of grammar, spelling and punctuation, and for meaning by experimenting with different order of ideas, a range of sentence structures,."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v5"
   }
 ]

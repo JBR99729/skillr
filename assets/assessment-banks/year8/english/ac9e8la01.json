@@ -5,39 +5,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
-    "question": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how language shapes relationships and roles",
+    "question": "In a school podcast script, which option most clearly shows a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audio_prompt": "In a school podcast script, which option most clearly shows a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": true
       },
       {
-        "text": "Formal language is always better",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
-      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
-    "question": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how language shapes relationships and roles",
+    "question": "While reading a community-news article, which choice is the clearest example of how language shapes relationships and roles?",
+    "audio_prompt": "While reading a community-news article, which choice is the clearest example of how language shapes relationships and roles?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Slang or acronyms are just lazy language",
+        "text": "Slang or acronyms are just lazy language.",
         "is_correct": false
       },
       {
-        "text": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
-      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
-    "question": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which option would you identify as an example of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a library book-club discussion?",
+    "audio_prompt": "Which option would you identify as an example of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a library book-club discussion?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A map label tells the whole story of Country/Place",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
         "is_correct": false
       },
       {
-        "text": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
-      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
-    "question": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "how language shapes relationships and roles",
+    "question": "A student council speech is being edited. Which choice best matches how language shapes relationships and roles?",
+    "audio_prompt": "A student council speech is being edited. Which choice best matches how language shapes relationships and roles?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Formal language is always better",
+        "text": "Slang or acronyms are just lazy language.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
         "is_correct": false
       },
       {
-        "text": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
-      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-p-005",
@@ -165,38 +173,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
-    "question": "What should you check when using a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
-    "audio_prompt": "What should you check when using a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "stage": "recognise",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which feature in a science-expo explanation best fits the idea of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audio_prompt": "Which feature in a science-expo explanation best fits the idea of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": true
       },
       {
-        "text": "Slang or acronyms are just lazy language",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
-      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-p-006",
@@ -204,38 +215,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
-    "question": "What should you check when using a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
-    "audio_prompt": "What should you check when using a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
+    "stage": "recognise",
+    "skill": "how language shapes relationships and roles",
+    "question": "Look at the four choices for a museum caption. Which one demonstrates how language shapes relationships and roles most accurately?",
+    "audio_prompt": "Look at the four choices for a museum caption. Which one demonstrates how language shapes relationships and roles most accurately?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A map label tells the whole story of Country/Place",
+        "text": "Slang or acronyms are just lazy language.",
         "is_correct": false
       },
       {
-        "text": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
-      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-p-007",
@@ -243,39 +257,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
-    "question": "Which statement best explains a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
-    "audio_prompt": "Which statement best explains a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "stage": "recognise",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which choice belongs in a local-sport profile if the writer wants to show a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audio_prompt": "Which choice belongs in a local-sport profile if the writer wants to show a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Formal language is always better",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
         "is_correct": false
       },
       {
-        "text": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
-      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-p-008",
@@ -283,39 +299,1385 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
-    "question": "Which statement best explains a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
-    "audio_prompt": "Which statement best explains a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
+    "stage": "recognise",
+    "skill": "how language shapes relationships and roles",
+    "question": "A reader notices a deliberate language choice in a school newsletter. Which option best identifies how language shapes relationships and roles?",
+    "audio_prompt": "A reader notices a deliberate language choice in a school newsletter. Which option best identifies how language shapes relationships and roles?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Slang or acronyms are just lazy language",
+        "text": "Slang or acronyms are just lazy language.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
-      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-009",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which option is the strongest match for a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a youth radio segment?",
+    "audio_prompt": "Which option is the strongest match for a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a youth radio segment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-010",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "how language shapes relationships and roles",
+    "question": "For a bushwalking safety page, which choice gives the clearest evidence of how language shapes relationships and roles?",
+    "audio_prompt": "For a bushwalking safety page, which choice gives the clearest evidence of how language shapes relationships and roles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-011",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language shapes relationships and roles",
+    "question": "In a review of an Australian novel, which explanation best shows why a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours matters?",
+    "audio_prompt": "In a review of an Australian novel, which explanation best shows why a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours matters?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-012",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which option best explains the effect of how language shapes relationships and roles in a documentary storyboard?",
+    "audio_prompt": "Which option best explains the effect of how language shapes relationships and roles in a documentary storyboard?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-013",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language shapes relationships and roles",
+    "question": "A reader is explaining a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a class debate. Which response connects the feature to meaning most clearly?",
+    "audio_prompt": "A reader is explaining a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a class debate. Which response connects the feature to meaning most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-014",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which explanation of how language shapes relationships and roles would make the strongest sense in a community-festival webpage?",
+    "audio_prompt": "Which explanation of how language shapes relationships and roles would make the strongest sense in a community-festival webpage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-015",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language shapes relationships and roles",
+    "question": "How can a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours shape the way an audience understands a wildlife-centre brochure? Choose the best explanation.",
+    "audio_prompt": "How can a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours shape the way an audience understands a wildlife-centre brochure? Choose the best explanation.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-016",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which response goes beyond naming how language shapes relationships and roles and explains what it does in a historical display?",
+    "audio_prompt": "Which response goes beyond naming how language shapes relationships and roles and explains what it does in a historical display?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-017",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language shapes relationships and roles",
+    "question": "For a persuasive letter to council, which statement gives the most precise explanation of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audio_prompt": "For a persuasive letter to council, which statement gives the most precise explanation of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-018",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which explanation links how language shapes relationships and roles to purpose or audience in a school assembly address?",
+    "audio_prompt": "Which explanation links how language shapes relationships and roles to purpose or audience in a school assembly address?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-019",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language shapes relationships and roles",
+    "question": "A class is discussing a digital magazine feature. Which comment best explains a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audio_prompt": "A class is discussing a digital magazine feature. Which comment best explains a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-020",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which statement best accounts for the effect of how language shapes relationships and roles in a public-transport campaign?",
+    "audio_prompt": "Which statement best accounts for the effect of how language shapes relationships and roles in a public-transport campaign?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-021",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language shapes relationships and roles",
+    "question": "Several comments are made about a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a theatre-program note. Which one avoids the common misconception?",
+    "audio_prompt": "Several comments are made about a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a theatre-program note. Which one avoids the common misconception?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-022",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which interpretation of how language shapes relationships and roles in a coastal-care poster is the most accurate?",
+    "audio_prompt": "Which interpretation of how language shapes relationships and roles in a coastal-care poster is the most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-023",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which option distinguishes a sound analysis of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours from a superficial one in a short-story workshop?",
+    "audio_prompt": "Which option distinguishes a sound analysis of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours from a superficial one in a short-story workshop?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-024",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language shapes relationships and roles",
+    "question": "A reader has made an overgeneralisation about a media-literacy lesson. Which choice gives the more careful view of how language shapes relationships and roles?",
+    "audio_prompt": "A reader has made an overgeneralisation about a media-literacy lesson. Which choice gives the more careful view of how language shapes relationships and roles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-025",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which statement about a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a local-history podcast is supported rather than assumed?",
+    "audio_prompt": "Which statement about a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a local-history podcast is supported rather than assumed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-026",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which option uses evidence and context to interpret how language shapes relationships and roles in a school website update?",
+    "audio_prompt": "Which option uses evidence and context to interpret how language shapes relationships and roles in a school website update?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-027",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which response to a graphic-novel discussion shows the best judgement about a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audio_prompt": "Which response to a graphic-novel discussion shows the best judgement about a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-028",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which claim about how language shapes relationships and roles in a charity campaign is precise enough to defend?",
+    "audio_prompt": "Which claim about how language shapes relationships and roles in a charity campaign is precise enough to defend?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-029",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which option avoids treating a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours as a rule that always works the same way?",
+    "audio_prompt": "Which option avoids treating a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours as a rule that always works the same way?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-030",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which reading of how language shapes relationships and roles in a sustainability report is least likely to confuse feature, purpose and effect?",
+    "audio_prompt": "Which reading of how language shapes relationships and roles in a sustainability report is least likely to confuse feature, purpose and effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-031",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language shapes relationships and roles",
+    "question": "You are revising an exhibition review. Which choice applies a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours most effectively?",
+    "audio_prompt": "You are revising an exhibition review. Which choice applies a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours most effectively?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-032",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which change would make the strongest use of how language shapes relationships and roles in a class anthology?",
+    "audio_prompt": "Which change would make the strongest use of how language shapes relationships and roles in a class anthology?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-033",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language shapes relationships and roles",
+    "question": "To improve a youth forum post, which option would best apply a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audio_prompt": "To improve a youth forum post, which option would best apply a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-034",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which choice would you use in a tourism information page to control how language shapes relationships and roles deliberately?",
+    "audio_prompt": "Which choice would you use in a tourism information page to control how language shapes relationships and roles deliberately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-035",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language shapes relationships and roles",
+    "question": "A writer wants a spoken presentation to communicate more precisely. Which option best applies a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "audio_prompt": "A writer wants a spoken presentation to communicate more precisely. Which option best applies a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-036",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which revision to a feature article shows the most purposeful use of how language shapes relationships and roles?",
+    "audio_prompt": "Which revision to a feature article shows the most purposeful use of how language shapes relationships and roles?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-037",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which option transfers an understanding of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours to a film-review discussion most successfully?",
+    "audio_prompt": "Which option transfers an understanding of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours to a film-review discussion most successfully?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-038",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language shapes relationships and roles",
+    "question": "For a community survey summary, which choice uses how language shapes relationships and roles in a way that suits audience and purpose?",
+    "audio_prompt": "For a community survey summary, which choice uses how language shapes relationships and roles in a way that suits audience and purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-039",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which decision would strengthen a reading-journal entry by applying a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours rather than merely naming it?",
+    "audio_prompt": "Which decision would strengthen a reading-journal entry by applying a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours rather than merely naming it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-p-040",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which option is the best practical use of how language shapes relationships and roles in a school production program?",
+    "audio_prompt": "Which option is the best practical use of how language shapes relationships and roles in a school production program?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
-    "question": "When would you use a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
-    "audio_prompt": "When would you use a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours?",
+    "skill": "how language shapes relationships and roles",
+    "question": "In a regional newspaper feature, which interpretation of how language shapes relationships and roles is best supported?",
+    "audio_prompt": "In a regional newspaper feature, which interpretation of how language shapes relationships and roles is best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": true
       },
       {
-        "text": "A map label tells the whole story of Country/Place",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
-      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
-    }
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
-    "question": "When would you use a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
-    "audio_prompt": "When would you use a language name on an authoritative map can help students recognise that language, identity and country/place are connected, but it must be discussed carefully and respectfully?",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which choice applies an accurate understanding of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours to an independent book review?",
+    "audio_prompt": "Which choice applies an accurate understanding of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours to an independent book review?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Formal language is always better",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": false
       },
       {
-        "text": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
-      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
-    }
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
-    "question": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which explanation of how language shapes relationships and roles best fits a public-library exhibition?",
+    "audio_prompt": "Which explanation of how language shapes relationships and roles best fits a public-library exhibition?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Slang or acronyms are just lazy language",
+        "text": "Slang or acronyms are just lazy language.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": false
       },
       {
-        "text": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
-      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
-    }
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
-    "question": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which option gives the strongest analysis of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a council youth consultation?",
+    "audio_prompt": "Which option gives the strongest analysis of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a council youth consultation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A map label tells the whole story of Country/Place",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
-      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
-    }
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
-    "question": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use how language shapes relationships and roles deliberately?",
+    "audio_prompt": "Which choice would be most effective in an environmental campaign video if the aim is to use how language shapes relationships and roles deliberately?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": true
       },
       {
-        "text": "Formal language is always better",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
-      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
-    }
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
-    "question": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which statement about a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours can be defended from the evidence in a cultural-festival program?",
+    "audio_prompt": "Which statement about a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours can be defended from the evidence in a cultural-festival program?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Slang or acronyms are just lazy language",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": false
       },
       {
-        "text": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
-      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
-    }
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_group_can_sound_like_a_group_because_members_share_words_shortcuts_and_address_terms_that_carry_shared_values_and_behaviours",
-    "question": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a group can sound like a group because members share words shortcuts and address terms that carry shared values and behaviours. Which option best demonstrates the skill?",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which response shows the most precise understanding of how language shapes relationships and roles in a national-park information panel?",
+    "audio_prompt": "Which response shows the most precise understanding of how language shapes relationships and roles in a national-park information panel?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A map label tells the whole story of Country/Place",
+        "text": "Slang or acronyms are just lazy language.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
         "is_correct": false
       },
       {
-        "text": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "understanding that group identities are formed through language that reflects shared values, beliefs and behaviours, and through language choices that engender solidarity such as specialist terminology, acronyms and terms of address; for example, teenage groups and sportspeople have adopted particular words and ways of communicating",
-      "hint": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
-    }
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8la01-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_language_name_on_an_authoritative_map_can_help_students_recognise_that_language_identity_and_country_place_are_connected_but_it_must_be_discussed_carefully_and_respectfully",
-    "question": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a language name on an authoritative map can help students recognise that language identity and country place are connected but it must be discussed carefully and respectfully. Which option best demonstrates the skill?",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which revision would best control a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a radio interview transcript?",
+    "audio_prompt": "Which revision would best control a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a radio interview transcript?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Formal language is always better",
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-t-009",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language shapes relationships and roles",
+    "question": "In a digital news explainer, which interpretation of how language shapes relationships and roles is best supported?",
+    "audio_prompt": "In a digital news explainer, which interpretation of how language shapes relationships and roles is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
         "is_correct": false
       },
       {
-        "text": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-t-010",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which choice applies an accurate understanding of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours to a theatre review?",
+    "audio_prompt": "Which choice applies an accurate understanding of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours to a theatre review?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-t-011",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which explanation of how language shapes relationships and roles best fits a community-history website?",
+    "audio_prompt": "Which explanation of how language shapes relationships and roles best fits a community-history website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "exploring the Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place",
-      "hint": "A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
-    }
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-t-012",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which option gives the strongest analysis of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a sports documentary?",
+    "audio_prompt": "Which option gives the strongest analysis of a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a sports documentary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-t-013",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use how language shapes relationships and roles deliberately?",
+    "audio_prompt": "Which choice would be most effective in a literary magazine extract if the aim is to use how language shapes relationships and roles deliberately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-t-014",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which statement about a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours can be defended from the evidence in a public-service announcement?",
+    "audio_prompt": "Which statement about a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours can be defended from the evidence in a public-service announcement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-t-015",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which response shows the most precise understanding of how language shapes relationships and roles in an online museum exhibit?",
+    "audio_prompt": "Which response shows the most precise understanding of how language shapes relationships and roles in an online museum exhibit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Slang or acronyms are just lazy language.",
+        "is_correct": false
+      },
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A language name on an authoritative map can help students recognise that language, identity and Country/Place are connected, but it must be discussed carefully and respectfully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8la01-t-016",
+    "curriculum_code": "AC9E8LA01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "how language shapes relationships and roles",
+    "question": "Which revision would best control a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a youth conference presentation?",
+    "audio_prompt": "Which revision would best control a group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours in a youth conference presentation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours.",
+        "is_correct": true
+      },
+      {
+        "text": "The Australian Institute of Aboriginal and Torres Strait Islander Studies Map of Indigenous Australia and identifying language names that inform relationships to Country/Place.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A group can sound like a group because members share words, shortcuts and address terms that carry shared values and behaviours."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v5"
   }
 ]

@@ -5,39 +5,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_and_explaining_how_social_media_texts_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "identify how texts reflect contexts",
+    "question": "In a school podcast script, which option most clearly shows identify how texts reflect contexts?",
+    "audio_prompt": "In a school podcast script, which option most clearly shows identify how texts reflect contexts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying and explaining how social media texts reflect the context in which they are created",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying and explaining how social media texts reflect the context in which they are created",
-      "hint": "A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_how_speeches_for_reconciliation_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "identify how texts reflect contexts",
+    "question": "While reading a community-news article, which choice is the clearest example of identify how texts reflect contexts?",
+    "audio_prompt": "While reading a community-news article, which choice is the clearest example of identify how texts reflect contexts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "identifying how speeches for reconciliation reflect the context in which they are created",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "identifying how speeches for reconciliation reflect the context in which they are created",
-      "hint": "A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_and_explaining_how_social_media_texts_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which option would you identify as an example of identify how texts reflect contexts in a library book-club discussion?",
+    "audio_prompt": "Which option would you identify as an example of identify how texts reflect contexts in a library book-club discussion?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "identifying and explaining how social media texts reflect the context in which they are created",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "identifying and explaining how social media texts reflect the context in which they are created",
-      "hint": "A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_how_speeches_for_reconciliation_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "identify how texts reflect contexts",
+    "question": "A student council speech is being edited. Which choice best matches identify how texts reflect contexts?",
+    "audio_prompt": "A student council speech is being edited. Which choice best matches identify how texts reflect contexts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
         "is_correct": false
       },
       {
-        "text": "identifying how speeches for reconciliation reflect the context in which they are created",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "identifying how speeches for reconciliation reflect the context in which they are created",
-      "hint": "A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-p-005",
@@ -165,38 +173,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_and_explaining_how_social_media_texts_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which feature in a science-expo explanation best fits the idea of identify how texts reflect contexts?",
+    "audio_prompt": "Which feature in a science-expo explanation best fits the idea of identify how texts reflect contexts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying and explaining how social media texts reflect the context in which they are created",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "identifying and explaining how social media texts reflect the context in which they are created",
-      "hint": "A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-p-006",
@@ -204,38 +215,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_how_speeches_for_reconciliation_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "identify how texts reflect contexts",
+    "question": "Look at the four choices for a museum caption. Which one demonstrates identify how texts reflect contexts most accurately?",
+    "audio_prompt": "Look at the four choices for a museum caption. Which one demonstrates identify how texts reflect contexts most accurately?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "identifying how speeches for reconciliation reflect the context in which they are created",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "identifying how speeches for reconciliation reflect the context in which they are created",
-      "hint": "A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-p-007",
@@ -243,39 +257,41 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_and_explaining_how_social_media_texts_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which choice belongs in a local-sport profile if the writer wants to show identify how texts reflect contexts?",
+    "audio_prompt": "Which choice belongs in a local-sport profile if the writer wants to show identify how texts reflect contexts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "identifying and explaining how social media texts reflect the context in which they are created",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "identifying and explaining how social media texts reflect the context in which they are created",
-      "hint": "A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-p-008",
@@ -283,39 +299,1385 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_how_speeches_for_reconciliation_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "Which statement best explains a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text?",
-    "audio_prompt": "Which statement best explains a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text?",
+    "stage": "recognise",
+    "skill": "identify how texts reflect contexts",
+    "question": "A reader notices a deliberate language choice in a school newsletter. Which option best identifies identify how texts reflect contexts?",
+    "audio_prompt": "A reader notices a deliberate language choice in a school newsletter. Which option best identifies identify how texts reflect contexts?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
         "is_correct": false
       },
       {
-        "text": "identifying how speeches for reconciliation reflect the context in which they are created",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "identifying how speeches for reconciliation reflect the context in which they are created",
-      "hint": "A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-009",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which option is the strongest match for identify how texts reflect contexts in a youth radio segment?",
+    "audio_prompt": "Which option is the strongest match for identify how texts reflect contexts in a youth radio segment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-010",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "identify how texts reflect contexts",
+    "question": "For a bushwalking safety page, which choice gives the clearest evidence of identify how texts reflect contexts?",
+    "audio_prompt": "For a bushwalking safety page, which choice gives the clearest evidence of identify how texts reflect contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-011",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "identify how texts reflect contexts",
+    "question": "In a review of an Australian novel, which explanation best shows why identify how texts reflect contexts matters?",
+    "audio_prompt": "In a review of an Australian novel, which explanation best shows why identify how texts reflect contexts matters?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-012",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which option best explains the effect of identify how texts reflect contexts in a documentary storyboard?",
+    "audio_prompt": "Which option best explains the effect of identify how texts reflect contexts in a documentary storyboard?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-013",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "identify how texts reflect contexts",
+    "question": "A reader is explaining identify how texts reflect contexts in a class debate. Which response connects the feature to meaning most clearly?",
+    "audio_prompt": "A reader is explaining identify how texts reflect contexts in a class debate. Which response connects the feature to meaning most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-014",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which explanation of identify how texts reflect contexts would make the strongest sense in a community-festival webpage?",
+    "audio_prompt": "Which explanation of identify how texts reflect contexts would make the strongest sense in a community-festival webpage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-015",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "identify how texts reflect contexts",
+    "question": "How can identify how texts reflect contexts shape the way an audience understands a wildlife-centre brochure? Choose the best explanation.",
+    "audio_prompt": "How can identify how texts reflect contexts shape the way an audience understands a wildlife-centre brochure? Choose the best explanation.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-016",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which response goes beyond naming identify how texts reflect contexts and explains what it does in a historical display?",
+    "audio_prompt": "Which response goes beyond naming identify how texts reflect contexts and explains what it does in a historical display?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-017",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "identify how texts reflect contexts",
+    "question": "For a persuasive letter to council, which statement gives the most precise explanation of identify how texts reflect contexts?",
+    "audio_prompt": "For a persuasive letter to council, which statement gives the most precise explanation of identify how texts reflect contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-018",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which explanation links identify how texts reflect contexts to purpose or audience in a school assembly address?",
+    "audio_prompt": "Which explanation links identify how texts reflect contexts to purpose or audience in a school assembly address?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-019",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "identify how texts reflect contexts",
+    "question": "A class is discussing a digital magazine feature. Which comment best explains identify how texts reflect contexts?",
+    "audio_prompt": "A class is discussing a digital magazine feature. Which comment best explains identify how texts reflect contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-020",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which statement best accounts for the effect of identify how texts reflect contexts in a public-transport campaign?",
+    "audio_prompt": "Which statement best accounts for the effect of identify how texts reflect contexts in a public-transport campaign?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-021",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "identify how texts reflect contexts",
+    "question": "Several comments are made about identify how texts reflect contexts in a theatre-program note. Which one avoids the common misconception?",
+    "audio_prompt": "Several comments are made about identify how texts reflect contexts in a theatre-program note. Which one avoids the common misconception?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-022",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which interpretation of identify how texts reflect contexts in a coastal-care poster is the most accurate?",
+    "audio_prompt": "Which interpretation of identify how texts reflect contexts in a coastal-care poster is the most accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-023",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which option distinguishes a sound analysis of identify how texts reflect contexts from a superficial one in a short-story workshop?",
+    "audio_prompt": "Which option distinguishes a sound analysis of identify how texts reflect contexts from a superficial one in a short-story workshop?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-024",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "identify how texts reflect contexts",
+    "question": "A reader has made an overgeneralisation about a media-literacy lesson. Which choice gives the more careful view of identify how texts reflect contexts?",
+    "audio_prompt": "A reader has made an overgeneralisation about a media-literacy lesson. Which choice gives the more careful view of identify how texts reflect contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-025",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which statement about identify how texts reflect contexts in a local-history podcast is supported rather than assumed?",
+    "audio_prompt": "Which statement about identify how texts reflect contexts in a local-history podcast is supported rather than assumed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-026",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which option uses evidence and context to interpret identify how texts reflect contexts in a school website update?",
+    "audio_prompt": "Which option uses evidence and context to interpret identify how texts reflect contexts in a school website update?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-027",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which response to a graphic-novel discussion shows the best judgement about identify how texts reflect contexts?",
+    "audio_prompt": "Which response to a graphic-novel discussion shows the best judgement about identify how texts reflect contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-028",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which claim about identify how texts reflect contexts in a charity campaign is precise enough to defend?",
+    "audio_prompt": "Which claim about identify how texts reflect contexts in a charity campaign is precise enough to defend?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-029",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which option avoids treating identify how texts reflect contexts as a rule that always works the same way?",
+    "audio_prompt": "Which option avoids treating identify how texts reflect contexts as a rule that always works the same way?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-030",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which reading of identify how texts reflect contexts in a sustainability report is least likely to confuse feature, purpose and effect?",
+    "audio_prompt": "Which reading of identify how texts reflect contexts in a sustainability report is least likely to confuse feature, purpose and effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-031",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify how texts reflect contexts",
+    "question": "You are revising an exhibition review. Which choice applies identify how texts reflect contexts most effectively?",
+    "audio_prompt": "You are revising an exhibition review. Which choice applies identify how texts reflect contexts most effectively?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-032",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which change would make the strongest use of identify how texts reflect contexts in a class anthology?",
+    "audio_prompt": "Which change would make the strongest use of identify how texts reflect contexts in a class anthology?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-033",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify how texts reflect contexts",
+    "question": "To improve a youth forum post, which option would best apply identify how texts reflect contexts?",
+    "audio_prompt": "To improve a youth forum post, which option would best apply identify how texts reflect contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-034",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which choice would you use in a tourism information page to control identify how texts reflect contexts deliberately?",
+    "audio_prompt": "Which choice would you use in a tourism information page to control identify how texts reflect contexts deliberately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-035",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify how texts reflect contexts",
+    "question": "A writer wants a spoken presentation to communicate more precisely. Which option best applies identify how texts reflect contexts?",
+    "audio_prompt": "A writer wants a spoken presentation to communicate more precisely. Which option best applies identify how texts reflect contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-036",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which revision to a feature article shows the most purposeful use of identify how texts reflect contexts?",
+    "audio_prompt": "Which revision to a feature article shows the most purposeful use of identify how texts reflect contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-037",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which option transfers an understanding of identify how texts reflect contexts to a film-review discussion most successfully?",
+    "audio_prompt": "Which option transfers an understanding of identify how texts reflect contexts to a film-review discussion most successfully?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-038",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify how texts reflect contexts",
+    "question": "For a community survey summary, which choice uses identify how texts reflect contexts in a way that suits audience and purpose?",
+    "audio_prompt": "For a community survey summary, which choice uses identify how texts reflect contexts in a way that suits audience and purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-039",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which decision would strengthen a reading-journal entry by applying identify how texts reflect contexts rather than merely naming it?",
+    "audio_prompt": "Which decision would strengthen a reading-journal entry by applying identify how texts reflect contexts rather than merely naming it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-p-040",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which option is the best practical use of identify how texts reflect contexts in a school production program?",
+    "audio_prompt": "Which option is the best practical use of identify how texts reflect contexts in a school production program?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_and_explaining_how_social_media_texts_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text?",
+    "skill": "identify how texts reflect contexts",
+    "question": "In a regional newspaper feature, which interpretation of identify how texts reflect contexts is best supported?",
+    "audio_prompt": "In a regional newspaper feature, which interpretation of identify how texts reflect contexts is best supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying and explaining how social media texts reflect the context in which they are created",
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "identifying and explaining how social media texts reflect the context in which they are created",
-      "hint": "A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
-    }
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_how_speeches_for_reconciliation_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text?",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which choice applies an accurate understanding of identify how texts reflect contexts to an independent book review?",
+    "audio_prompt": "Which choice applies an accurate understanding of identify how texts reflect contexts to an independent book review?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "identifying how speeches for reconciliation reflect the context in which they are created",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "identifying how speeches for reconciliation reflect the context in which they are created",
-      "hint": "A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
-    }
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_and_explaining_how_social_media_texts_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which explanation of identify how texts reflect contexts best fits a public-library exhibition?",
+    "audio_prompt": "Which explanation of identify how texts reflect contexts best fits a public-library exhibition?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "identifying and explaining how social media texts reflect the context in which they are created",
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "identifying and explaining how social media texts reflect the context in which they are created",
-      "hint": "A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
-    }
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_how_speeches_for_reconciliation_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which option gives the strongest analysis of identify how texts reflect contexts in a council youth consultation?",
+    "audio_prompt": "Which option gives the strongest analysis of identify how texts reflect contexts in a council youth consultation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "identifying how speeches for reconciliation reflect the context in which they are created",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "identifying how speeches for reconciliation reflect the context in which they are created",
-      "hint": "A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
-    }
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_and_explaining_how_social_media_texts_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use identify how texts reflect contexts deliberately?",
+    "audio_prompt": "Which choice would be most effective in an environmental campaign video if the aim is to use identify how texts reflect contexts deliberately?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "identifying and explaining how social media texts reflect the context in which they are created",
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "identifying and explaining how social media texts reflect the context in which they are created",
-      "hint": "A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
-    }
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_how_speeches_for_reconciliation_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which statement about identify how texts reflect contexts can be defended from the evidence in a cultural-festival program?",
+    "audio_prompt": "Which statement about identify how texts reflect contexts can be defended from the evidence in a cultural-festival program?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "identifying how speeches for reconciliation reflect the context in which they are created",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "identifying how speeches for reconciliation reflect the context in which they are created",
-      "hint": "A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
-    }
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_purpose_to_shape_identifying_and_explaining_how_social_media_texts_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which response shows the most precise understanding of identify how texts reflect contexts in a national-park information panel?",
+    "audio_prompt": "Which response shows the most precise understanding of identify how texts reflect contexts in a national-park information panel?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "identifying and explaining how social media texts reflect the context in which they are created",
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": true
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "identifying and explaining how social media texts reflect the context in which they are created",
-      "hint": "A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
-    }
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v5"
   },
   {
     "id": "ac9e8ly01-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 8",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_structure_to_shape_identifying_how_speeches_for_reconciliation_reflect_the_context_in_which_they_are_created_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which revision would best control identify how texts reflect contexts in a radio interview transcript?",
+    "audio_prompt": "Which revision would best control identify how texts reflect contexts in a radio interview transcript?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-t-009",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify how texts reflect contexts",
+    "question": "In a digital news explainer, which interpretation of identify how texts reflect contexts is best supported?",
+    "audio_prompt": "In a digital news explainer, which interpretation of identify how texts reflect contexts is best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
         "is_correct": false
       },
       {
-        "text": "identifying how speeches for reconciliation reflect the context in which they are created",
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "It is enough to name the feature; no evidence or explanation of its effect is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-t-010",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which choice applies an accurate understanding of identify how texts reflect contexts to a theatre review?",
+    "audio_prompt": "Which choice applies an accurate understanding of identify how texts reflect contexts to a theatre review?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "The most formal or complicated wording is automatically the most effective choice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-t-011",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which explanation of identify how texts reflect contexts best fits a community-history website?",
+    "audio_prompt": "Which explanation of identify how texts reflect contexts best fits a community-history website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "identifying how speeches for reconciliation reflect the context in which they are created",
-      "hint": "A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
-    }
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-t-012",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which option gives the strongest analysis of identify how texts reflect contexts in a sports documentary?",
+    "audio_prompt": "Which option gives the strongest analysis of identify how texts reflect contexts in a sports documentary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature only changes how the text looks or sounds; it does not shape meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-t-013",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use identify how texts reflect contexts deliberately?",
+    "audio_prompt": "Which choice would be most effective in a literary magazine extract if the aim is to use identify how texts reflect contexts deliberately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "Any interpretation is equally strong, even if it cannot be supported with details from the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-t-014",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which statement about identify how texts reflect contexts can be defended from the evidence in a public-service announcement?",
+    "audio_prompt": "Which statement about identify how texts reflect contexts can be defended from the evidence in a public-service announcement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer should use the feature as often as possible because more of it always improves a text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-t-015",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which response shows the most precise understanding of identify how texts reflect contexts in an online museum exhibit?",
+    "audio_prompt": "Which response shows the most precise understanding of identify how texts reflect contexts in an online museum exhibit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Effect means whether the student personally likes the text.",
+        "is_correct": false
+      },
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "Purpose and audience can be ignored once the feature has been identified.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "How speeches for reconciliation reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use structure to shape identifying how speeches for reconciliation reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v5"
+  },
+  {
+    "id": "ac9e8ly01-t-016",
+    "curriculum_code": "AC9E8LY01",
+    "year_level": "Year 8",
+    "subject": "english",
+    "bank": "test",
+    "skill": "identify how texts reflect contexts",
+    "question": "Which revision would best control identify how texts reflect contexts in a youth conference presentation?",
+    "audio_prompt": "Which revision would best control identify how texts reflect contexts in a youth conference presentation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "And explaining how social media texts reflect the context in which they are created.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature name is enough to prove an interpretation.",
+        "is_correct": false
+      },
+      {
+        "text": "How speeches for reconciliation reflect the context in which they are created.",
+        "is_correct": false
+      },
+      {
+        "text": "The feature has one fixed effect in every text, regardless of audience or purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "And explaining how social media texts reflect the context in which they are created. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+      "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use purpose to shape identifying and explaining how social media texts reflect the context in which they are created and influence how an audience understands the text."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v5"
   }
 ]

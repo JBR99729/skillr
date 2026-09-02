@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e8ly05-t-001",
     "curriculumCode": "AC9E8LY05",
     "bank": "test",
-    "skill": "a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
     "printable": true,
     "type": "single",
-    "question": "Which response correctly uses a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text?",
-    "audioPrompt": "Which response correctly uses a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text?",
+    "question": "In a regional newspaper feature, which interpretation of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… is best supported?",
+    "audioPrompt": "In a regional newspaper feature, which interpretation of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… is best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,27 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story",
-      "A feature name is enough to prove an interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "A feature name is enough to prove an interpretation.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "Determining and applying criteria for evaluating the content of a website."
     ],
-    "correct": 0,
-    "explanation": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story\nHint: A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story",
-      "hint": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1
   },
   {
     "id": "ac9e8ly05-t-002",
     "curriculumCode": "AC9E8LY05",
     "bank": "test",
-    "skill": "a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "question": "Which choice applies an accurate understanding of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… to an independent book review?",
+    "audioPrompt": "Which choice applies an accurate understanding of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… to an independent book review?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +44,27 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text",
-      "reflecting on content by connecting and comparing information across and between texts",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "A feature name is enough to prove an interpretation.",
+      "Determining and applying criteria for evaluating the content of a website.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "The most formal or complicated wording is automatically the most effective choice."
     ],
-    "correct": 1,
-    "explanation": "reflecting on content by connecting and comparing information across and between texts\nHint: A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "reflecting on content by connecting and comparing information across and between texts",
-      "hint": "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2
   },
   {
     "id": "ac9e8ly05-t-003",
     "curriculumCode": "AC9E8LY05",
     "bank": "test",
-    "skill": "a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "question": "Which explanation of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… best fits a public-library exhibition?",
+    "audioPrompt": "Which explanation of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… best fits a public-library exhibition?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +72,27 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness",
-      "The same rule and result apply to every situation without testing"
+      "A feature name is enough to prove an interpretation.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story."
     ],
-    "correct": 2,
-    "explanation": "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness\nHint: A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness",
-      "hint": "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 3,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3
   },
   {
     "id": "ac9e8ly05-t-004",
     "curriculumCode": "AC9E8LY05",
     "bank": "test",
-    "skill": "a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "question": "Which option gives the strongest analysis of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in a council youth consultation?",
+    "audioPrompt": "Which option gives the strongest analysis of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in a council youth consultation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +100,27 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story"
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "A feature name is enough to prove an interpretation.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "Determining and applying criteria for evaluating the content of a website."
     ],
-    "correct": 3,
-    "explanation": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story\nHint: A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story",
-      "hint": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4
   },
   {
     "id": "ac9e8ly05-t-005",
     "curriculumCode": "AC9E8LY05",
     "bank": "test",
-    "skill": "a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
     "printable": true,
     "type": "single",
-    "question": "When would you use a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text?",
-    "audioPrompt": "When would you use a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text?",
+    "question": "Which choice would be most effective in an environmental campaign video if the aim is to use use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… deliberately?",
+    "audioPrompt": "Which choice would be most effective in an environmental campaign video if the aim is to use use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… deliberately?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +128,27 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "reflecting on content by connecting and comparing information across and between texts",
-      "A feature name is enough to prove an interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "A feature name is enough to prove an interpretation.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "Determining and applying criteria for evaluating the content of a website.",
+      "Any interpretation is equally strong, even if it cannot be supported with details from the text."
     ],
-    "correct": 0,
-    "explanation": "reflecting on content by connecting and comparing information across and between texts\nHint: A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "reflecting on content by connecting and comparing information across and between texts",
-      "hint": "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5
   },
   {
     "id": "ac9e8ly05-t-006",
     "curriculumCode": "AC9E8LY05",
     "bank": "test",
-    "skill": "a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
     "printable": true,
     "type": "single",
-    "question": "When would you use a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text?",
-    "audioPrompt": "When would you use a writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text?",
+    "question": "Which statement about use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… can be defended from the evidence in a cultural-festival program?",
+    "audioPrompt": "Which statement about use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… can be defended from the evidence in a cultural-festival program?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +156,27 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text",
-      "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing"
+      "A feature name is enough to prove an interpretation.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "The writer should use the feature as often as possible because more of it always improves a text."
     ],
-    "correct": 1,
-    "explanation": "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness\nHint: A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "determining and applying criteria for evaluating the content of a website; for example, criteria for content and website purpose and its effectiveness",
-      "hint": "A writer or speaker can use structure to shape determining and applying criteria for evaluating the content of a website and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6
   },
   {
     "id": "ac9e8ly05-t-007",
     "curriculumCode": "AC9E8LY05",
     "bank": "test",
-    "skill": "a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
     "printable": true,
     "type": "single",
-    "question": "When would you use a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text?",
-    "audioPrompt": "When would you use a writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text?",
+    "question": "Which response shows the most precise understanding of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in a national-park information panel?",
+    "audioPrompt": "Which response shows the most precise understanding of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in a national-park information panel?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +184,27 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A feature name is enough to prove an interpretation",
-      "The method can be chosen without checking the values or conditions",
-      "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story",
-      "The same rule and result apply to every situation without testing"
+      "A feature name is enough to prove an interpretation.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "Determining and applying criteria for evaluating the content of a website.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story."
     ],
-    "correct": 2,
-    "explanation": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story\nHint: A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story",
-      "hint": "A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience understands the text."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 3,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7
   },
   {
     "id": "ac9e8ly05-t-008",
     "curriculumCode": "AC9E8LY05",
     "bank": "test",
-    "skill": "a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
     "printable": true,
     "type": "single",
-    "question": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 8 student is working with a text and needs to use a writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "question": "Which revision would best control use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in a radio interview transcript?",
+    "audioPrompt": "Which revision would best control use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in a radio interview transcript?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,19 +212,240 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Effect means whether the student personally likes the text",
-      "The method can be chosen without checking the values or conditions",
-      "The same rule and result apply to every situation without testing",
-      "reflecting on content by connecting and comparing information across and between texts"
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "A feature name is enough to prove an interpretation.",
+      "Determining and applying criteria for evaluating the content of a website.",
+      "The feature has one fixed effect in every text, regardless of audience or purpose."
+    ],
+    "correct": 0,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8
+  },
+  {
+    "id": "ac9e8ly05-t-009",
+    "curriculumCode": "AC9E8LY05",
+    "bank": "test",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
+    "printable": true,
+    "type": "single",
+    "question": "In a digital news explainer, which interpretation of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… is best supported?",
+    "audioPrompt": "In a digital news explainer, which interpretation of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… is best supported?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A feature name is enough to prove an interpretation.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "It is enough to name the feature; no evidence or explanation of its effect is needed."
+    ],
+    "correct": 1,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9
+  },
+  {
+    "id": "ac9e8ly05-t-010",
+    "curriculumCode": "AC9E8LY05",
+    "bank": "test",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice applies an accurate understanding of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… to a theatre review?",
+    "audioPrompt": "Which choice applies an accurate understanding of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… to a theatre review?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A feature name is enough to prove an interpretation.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "Determining and applying criteria for evaluating the content of a website."
+    ],
+    "correct": 2,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10
+  },
+  {
+    "id": "ac9e8ly05-t-011",
+    "curriculumCode": "AC9E8LY05",
+    "bank": "test",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
+    "printable": true,
+    "type": "single",
+    "question": "Which explanation of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… best fits a community-history website?",
+    "audioPrompt": "Which explanation of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… best fits a community-history website?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A feature name is enough to prove an interpretation.",
+      "Determining and applying criteria for evaluating the content of a website.",
+      "A single word proves the whole interpretation, even when the surrounding context suggests otherwise.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story."
     ],
     "correct": 3,
-    "explanation": "reflecting on content by connecting and comparing information across and between texts\nHint: A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text.",
-    "structuredExplanation": {
-      "summary": "reflecting on content by connecting and comparing information across and between texts",
-      "hint": "A writer or speaker can use purpose to shape reflecting on content by connecting and comparing information across and between texts and influence how an audience understands the text."
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Do not assume that longer or more formal language is automatically stronger. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11
+  },
+  {
+    "id": "ac9e8ly05-t-012",
+    "curriculumCode": "AC9E8LY05",
+    "bank": "test",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
+    "printable": true,
+    "type": "single",
+    "question": "Which option gives the strongest analysis of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in a sports documentary?",
+    "audioPrompt": "Which option gives the strongest analysis of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in a sports documentary?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
     },
-    "qualitySchema": "production-v1"
+    "answers": [
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "A feature name is enough to prove an interpretation.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "The feature only changes how the text looks or sounds; it does not shape meaning."
+    ],
+    "correct": 0,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Separate what the text actually shows from what a reader merely prefers. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12
+  },
+  {
+    "id": "ac9e8ly05-t-013",
+    "curriculumCode": "AC9E8LY05",
+    "bank": "test",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice would be most effective in a literary magazine extract if the aim is to use use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… deliberately?",
+    "audioPrompt": "Which choice would be most effective in a literary magazine extract if the aim is to use use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… deliberately?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A feature name is enough to prove an interpretation.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "Determining and applying criteria for evaluating the content of a website."
+    ],
+    "correct": 1,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Do not stop at naming the feature. Ask what meaning it creates here. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13
+  },
+  {
+    "id": "ac9e8ly05-t-014",
+    "curriculumCode": "AC9E8LY05",
+    "bank": "test",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement about use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… can be defended from the evidence in a public-service announcement?",
+    "audioPrompt": "Which statement about use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… can be defended from the evidence in a public-service announcement?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A feature name is enough to prove an interpretation.",
+      "Determining and applying criteria for evaluating the content of a website.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "The writer should use the feature as often as possible because more of it always improves a text."
+    ],
+    "correct": 2,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Avoid absolute rules. The effect depends on the words, context, audience and purpose. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14
+  },
+  {
+    "id": "ac9e8ly05-t-015",
+    "curriculumCode": "AC9E8LY05",
+    "bank": "test",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
+    "printable": true,
+    "type": "single",
+    "question": "Which response shows the most precise understanding of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in an online museum exhibit?",
+    "audioPrompt": "Which response shows the most precise understanding of use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in an online museum exhibit?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A feature name is enough to prove an interpretation.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "Purpose and audience can be ignored once the feature has been identified.",
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story."
+    ],
+    "correct": 3,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "Check the whole example before choosing; one familiar term can be a distractor. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15
+  },
+  {
+    "id": "ac9e8ly05-t-016",
+    "curriculumCode": "AC9E8LY05",
+    "bank": "test",
+    "skill": "use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,…",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision would best control use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in a youth conference presentation?",
+    "audioPrompt": "Which revision would best control use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring,… in a youth conference presentation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story.",
+      "A feature name is enough to prove an interpretation.",
+      "Reflecting on content by connecting and comparing information across and between texts.",
+      "Determining and applying criteria for evaluating the content of a website."
+    ],
+    "correct": 0,
+    "explanation": "Analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story. This is the strongest choice because it fits the feature, the evidence and the purpose of the situation.",
+    "hint": "A strong answer connects a specific feature with a specific effect, not a vague judgement. A writer or speaker can use evidence to shape analysing the selection and composition of an image in a text and evaluating its effect on the credibility of the story and influence how an audience.",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
