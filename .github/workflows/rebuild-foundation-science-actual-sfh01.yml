@@ -1,0 +1,37 @@
+name: Rebuild Foundation Science AC9SFH01
+on:
+  push:
+    branches: [content/foundation-science-actual-rebuild]
+    paths:
+      - 'scripts/foundation_science_actual/ac9sfh01_authored.mjs'
+      - 'scripts/materialise_foundation_science_sfh01.mjs'
+      - '.github/workflows/rebuild-foundation-science-actual-sfh01.yml'
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: content/foundation-science-actual-rebuild
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Materialise authored AC9SFH01 bank
+        run: node scripts/materialise_foundation_science_sfh01.mjs
+      - name: Guard Classroom View and worksheets
+        run: |
+          if git status --porcelain | grep -E 'teacher-slides|classroom|/worksheet/'; then
+            echo 'Protected Foundation Science classroom/worksheet content changed unexpectedly'
+            exit 1
+          fi
+      - name: Commit production question banks
+        run: |
+          git config user.name JBR99729
+          git config user.email jbhasker9@gmail.com
+          git add quiz/grade-k/science/ac9sfh01/practice/questions.js quiz/grade-k/science/ac9sfh01/test/questions.js
+          git diff --cached --quiet && exit 1
+          git commit -m 'Rebuild AC9SFH01 actual question bank'
+          git push origin HEAD:content/foundation-science-actual-rebuild
