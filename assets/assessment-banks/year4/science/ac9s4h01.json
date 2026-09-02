@@ -4,1415 +4,3399 @@
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A class observation is described as “proposed answer to a scientific question”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “proposed answer to a scientific question”. Which scientific term best labels it?",
+    "question": "Which statement is scientific evidence?",
+    "audio_prompt": "Which statement is scientific evidence?",
+    "audioPrompt": "Which statement is scientific evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-001",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “proposed answer to a scientific question”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "claim",
+        "text": "The water temperature was 42°C after 5 minutes",
         "is_correct": true
       },
       {
-        "text": "evidence",
+        "text": "The cup looked the nicest",
         "is_correct": false
       },
       {
-        "text": "reasoning",
+        "text": "I wanted the water to be warmer",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone knows black is best",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "The water temperature was 42°C after 5 minutes",
+      "The cup looked the nicest",
+      "I wanted the water to be warmer",
+      "Everyone knows black is best"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "claim is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Scientific evidence is based on observations or measurements that relate to the question.",
+      "hint": "Look for measured data."
     },
+    "structuredExplanation": {
+      "summary": "Scientific evidence is based on observations or measurements that relate to the question.",
+      "hint": "Look for measured data."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A class observation is described as “relevant observations or measurements”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “relevant observations or measurements”. Which scientific term best labels it?",
+    "question": "Which part of an explanation is the claim?",
+    "audio_prompt": "Which part of an explanation is the claim?",
+    "audioPrompt": "Which part of an explanation is the claim?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-002",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “relevant observations or measurements”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reasoning",
+        "text": "A random opinion about the equipment",
         "is_correct": false
       },
       {
-        "text": "evidence",
+        "text": "A list of favourite colours",
+        "is_correct": false
+      },
+      {
+        "text": "A guess with no link to data",
+        "is_correct": false
+      },
+      {
+        "text": "The answer to the investigation question",
         "is_correct": true
-      },
-      {
-        "text": "pattern",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "A random opinion about the equipment",
+      "A list of favourite colours",
+      "A guess with no link to data",
+      "The answer to the investigation question"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "evidence is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A claim states the answer or conclusion being explained.",
+      "hint": "What is being argued?"
     },
+    "structuredExplanation": {
+      "summary": "A claim states the answer or conclusion being explained.",
+      "hint": "What is being argued?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A class observation is described as “link explaining how evidence supports the claim”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “link explaining how evidence supports the claim”. Which scientific term best labels it?",
+    "question": "Which part of an explanation is reasoning?",
+    "audio_prompt": "Which part of an explanation is reasoning?",
+    "audioPrompt": "Which part of an explanation is reasoning?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-003",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “link explaining how evidence supports the claim”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "pattern",
+        "text": "A number copied with no explanation",
         "is_correct": false
       },
       {
-        "text": "limitation",
+        "text": "A personal preference",
         "is_correct": false
       },
       {
-        "text": "reasoning",
+        "text": "The link that shows how evidence supports the claim",
         "is_correct": true
+      },
+      {
+        "text": "The colour of the graph paper",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A number copied with no explanation",
+      "A personal preference",
+      "The link that shows how evidence supports the claim",
+      "The colour of the graph paper"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "reasoning is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Reasoning explains why the evidence supports the claim.",
+      "hint": "Evidence needs a link."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Reasoning explains why the evidence supports the claim.",
+      "hint": "Evidence needs a link."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A class observation is described as “repeated relationship in data”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “repeated relationship in data”. Which scientific term best labels it?",
+    "question": "Which is a pattern in data?",
+    "audio_prompt": "Which is a pattern in data?",
+    "audioPrompt": "Which is a pattern in data?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-004",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “repeated relationship in data”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "pattern",
+        "text": "The title used large letters",
+        "is_correct": false
+      },
+      {
+        "text": "The darker paper was warmer than the lighter paper in all three trials",
         "is_correct": true
       },
       {
-        "text": "limitation",
+        "text": "One student liked dark paper",
         "is_correct": false
       },
       {
-        "text": "claim",
+        "text": "The thermometer was blue",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "The title used large letters",
+      "The darker paper was warmer than the lighter paper in all three trials",
+      "One student liked dark paper",
+      "The thermometer was blue"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "pattern is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A pattern is a repeated relationship in the results.",
+      "hint": "Repeated result."
     },
+    "structuredExplanation": {
+      "summary": "A pattern is a repeated relationship in the results.",
+      "hint": "Repeated result."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A class observation is described as “factor restricting confidence or scope”. Which scientific term best labels it?",
-    "audio_prompt": "A class observation is described as “factor restricting confidence or scope”. Which scientific term best labels it?",
+    "question": "Which statement is most cautious?",
+    "audio_prompt": "Which statement is most cautious?",
+    "audioPrompt": "Which statement is most cautious?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-005",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A class observation is described as “factor restricting confidence or scope”. Which scientific term best labels it?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "claim",
-        "is_correct": false
-      },
-      {
-        "text": "limitation",
+        "text": "In these trials, the dark surface warmed faster",
         "is_correct": true
       },
       {
-        "text": "evidence",
+        "text": "Dark surfaces always warm fastest everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "One reading proves the rule",
+        "is_correct": false
+      },
+      {
+        "text": "No future data could change this",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "In these trials, the dark surface warmed faster",
+      "Dark surfaces always warm fastest everywhere",
+      "One reading proves the rule",
+      "No future data could change this"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "limitation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Cautious science conclusions match the evidence and conditions tested.",
+      "hint": "Avoid always and proves."
     },
+    "structuredExplanation": {
+      "summary": "Cautious science conclusions match the evidence and conditions tested.",
+      "hint": "Avoid always and proves."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A student needs a heading for this evidence: “proposed answer to a scientific question”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “proposed answer to a scientific question”. Which heading is most precise?",
+    "question": "Which would be a limitation of a plant growth test?",
+    "audio_prompt": "Which would be a limitation of a plant growth test?",
+    "audioPrompt": "Which would be a limitation of a plant growth test?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-006",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “proposed answer to a scientific question”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reasoning",
+        "text": "The results were written in a table",
         "is_correct": false
       },
       {
-        "text": "pattern",
+        "text": "The ruler had centimetres marked",
         "is_correct": false
       },
       {
-        "text": "claim",
+        "text": "The question had a clear variable",
+        "is_correct": false
+      },
+      {
+        "text": "Only one plant was tested in each condition",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The results were written in a table",
+      "The ruler had centimetres marked",
+      "The question had a clear variable",
+      "Only one plant was tested in each condition"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "claim is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Testing only one plant reduces confidence because individual differences may affect results.",
+      "hint": "What weakens confidence?"
     },
+    "structuredExplanation": {
+      "summary": "Testing only one plant reduces confidence because individual differences may affect results.",
+      "hint": "What weakens confidence?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A student needs a heading for this evidence: “relevant observations or measurements”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “relevant observations or measurements”. Which heading is most precise?",
+    "question": "Which item is least useful as evidence for which cup keeps water warm?",
+    "audio_prompt": "Which item is least useful as evidence for which cup keeps water warm?",
+    "audioPrompt": "Which item is least useful as evidence for which cup keeps water warm?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-007",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “relevant observations or measurements”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "evidence",
+        "text": "Starting temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated temperature readings",
+        "is_correct": false
+      },
+      {
+        "text": "The cup pattern printed on the outside",
         "is_correct": true
       },
       {
-        "text": "pattern",
-        "is_correct": false
-      },
-      {
-        "text": "limitation",
+        "text": "Temperature after 30 minutes",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Starting temperature",
+      "Repeated temperature readings",
+      "The cup pattern printed on the outside",
+      "Temperature after 30 minutes"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "evidence is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Decoration does not directly answer how well the cup keeps water warm.",
+      "hint": "Relevant to temperature?"
     },
+    "structuredExplanation": {
+      "summary": "Decoration does not directly answer how well the cup keeps water warm.",
+      "hint": "Relevant to temperature?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A student needs a heading for this evidence: “link explaining how evidence supports the claim”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “link explaining how evidence supports the claim”. Which heading is most precise?",
+    "question": "Which action improves confidence in a result?",
+    "audio_prompt": "Which action improves confidence in a result?",
+    "audioPrompt": "Which action improves confidence in a result?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-008",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “link explaining how evidence supports the claim”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "limitation",
+        "text": "Ignore results that disagree",
         "is_correct": false
       },
       {
-        "text": "reasoning",
+        "text": "Repeat the trial under the same conditions",
         "is_correct": true
       },
       {
-        "text": "claim",
+        "text": "Keep only the favourite result",
+        "is_correct": false
+      },
+      {
+        "text": "Change all equipment each time",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Ignore results that disagree",
+      "Repeat the trial under the same conditions",
+      "Keep only the favourite result",
+      "Change all equipment each time"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "reasoning is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Repeated trials can show whether a pattern is reliable.",
+      "hint": "Repeat fairly."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Repeated trials can show whether a pattern is reliable.",
+      "hint": "Repeat fairly."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A student needs a heading for this evidence: “repeated relationship in data”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “repeated relationship in data”. Which heading is most precise?",
+    "question": "Which statement is an opinion rather than evidence?",
+    "audio_prompt": "Which statement is an opinion rather than evidence?",
+    "audioPrompt": "Which statement is an opinion rather than evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-009",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “repeated relationship in data”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "claim",
-        "is_correct": false
-      },
-      {
-        "text": "evidence",
-        "is_correct": false
-      },
-      {
-        "text": "pattern",
+        "text": "The silver cup looks better than the white cup",
         "is_correct": true
+      },
+      {
+        "text": "The silver cup was 38°C after 20 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "The white cup started at 50°C",
+        "is_correct": false
+      },
+      {
+        "text": "The test was repeated three times",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The silver cup looks better than the white cup",
+      "The silver cup was 38°C after 20 minutes",
+      "The white cup started at 50°C",
+      "The test was repeated three times"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "pattern is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Looking better is a preference, not scientific evidence.",
+      "hint": "Preference words."
     },
+    "structuredExplanation": {
+      "summary": "Looking better is a preference, not scientific evidence.",
+      "hint": "Preference words."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A student needs a heading for this evidence: “factor restricting confidence or scope”. Which heading is most precise?",
-    "audio_prompt": "A student needs a heading for this evidence: “factor restricting confidence or scope”. Which heading is most precise?",
+    "question": "What should a graph help students identify?",
+    "audio_prompt": "What should a graph help students identify?",
+    "audioPrompt": "What should a graph help students identify?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-010",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A student needs a heading for this evidence: “factor restricting confidence or scope”. Which heading is most precise?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "limitation",
+        "text": "Only the prettiest colour",
+        "is_correct": false
+      },
+      {
+        "text": "The teacher’s favourite result",
+        "is_correct": false
+      },
+      {
+        "text": "A way to avoid measuring",
+        "is_correct": false
+      },
+      {
+        "text": "Patterns and comparisons in data",
         "is_correct": true
-      },
-      {
-        "text": "evidence",
-        "is_correct": false
-      },
-      {
-        "text": "reasoning",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Only the prettiest colour",
+      "The teacher’s favourite result",
+      "A way to avoid measuring",
+      "Patterns and comparisons in data"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "limitation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Graphs can make patterns and comparisons easier to see.",
+      "hint": "Data display."
     },
+    "structuredExplanation": {
+      "summary": "Graphs can make patterns and comparisons easier to see.",
+      "hint": "Data display."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "During a Year 4 discussion, Student 1 says, “Any number counts as evidence”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 1 says, “Any number counts as evidence”. Which response best corrects the science?",
+    "question": "Why is one temperature reading weak evidence for a general claim?",
+    "audio_prompt": "Why is one temperature reading weak evidence for a general claim?",
+    "audioPrompt": "Why is one temperature reading weak evidence for a general claim?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-011",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 1 says, “Any number counts as evidence”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Any number counts as evidence",
+        "text": "Measurements are never evidence",
         "is_correct": false
       },
       {
-        "text": "Evidence must be relevant to the question and comparison.",
+        "text": "Temperature cannot be compared",
+        "is_correct": false
+      },
+      {
+        "text": "It may not show a repeated pattern or account for variation",
         "is_correct": true
       },
       {
-        "text": "One result proves a universal rule",
+        "text": "One number proves all cases forever",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Measurements are never evidence",
+      "Temperature cannot be compared",
+      "It may not show a repeated pattern or account for variation",
+      "One number proves all cases forever"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Evidence must be relevant to the question and comparison.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A single reading can be affected by error or unusual conditions.",
+      "hint": "Need repeated support."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A single reading can be affected by error or unusual conditions.",
+      "hint": "Need repeated support."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "During a Year 4 discussion, Student 2 says, “One result proves a universal rule”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 2 says, “One result proves a universal rule”. Which response best corrects the science?",
+    "question": "Why should evidence be relevant to the investigation question?",
+    "audio_prompt": "Why should evidence be relevant to the investigation question?",
+    "audioPrompt": "Why should evidence be relevant to the investigation question?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-012",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 2 says, “One result proves a universal rule”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "One result proves a universal rule",
+        "text": "Irrelevant data is always stronger",
         "is_correct": false
       },
       {
-        "text": "Explanation is just a graph description",
-        "is_correct": false
-      },
-      {
-        "text": "Use cautious language and repeated evidence.",
+        "text": "Only relevant data can support the claim being made",
         "is_correct": true
+      },
+      {
+        "text": "Any number supports any claim",
+        "is_correct": false
+      },
+      {
+        "text": "Opinions become evidence when written neatly",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Irrelevant data is always stronger",
+      "Only relevant data can support the claim being made",
+      "Any number supports any claim",
+      "Opinions become evidence when written neatly"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Use cautious language and repeated evidence.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Evidence must connect directly to the claim and question.",
+      "hint": "Does it answer the question?"
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Evidence must connect directly to the claim and question.",
+      "hint": "Does it answer the question?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "During a Year 4 discussion, Student 3 says, “Explanation is just a graph description”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 3 says, “Explanation is just a graph description”. Which response best corrects the science?",
+    "question": "Why does reasoning matter in a scientific explanation?",
+    "audio_prompt": "Why does reasoning matter in a scientific explanation?",
+    "audioPrompt": "Why does reasoning matter in a scientific explanation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-013",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 3 says, “Explanation is just a graph description”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Reasoning must connect the observed pattern to the claim.",
+        "text": "It explains how the data supports the claim",
         "is_correct": true
       },
       {
-        "text": "Explanation is just a graph description",
+        "text": "It replaces the need for data",
         "is_correct": false
       },
       {
-        "text": "Conflicting data is deleted",
+        "text": "It makes opinions become measurements",
+        "is_correct": false
+      },
+      {
+        "text": "It hides limitations",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "It explains how the data supports the claim",
+      "It replaces the need for data",
+      "It makes opinions become measurements",
+      "It hides limitations"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Reasoning must connect the observed pattern to the claim.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Reasoning connects the evidence to the conclusion instead of just listing results.",
+      "hint": "Bridge between data and claim."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Reasoning connects the evidence to the conclusion instead of just listing results.",
+      "hint": "Bridge between data and claim."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "During a Year 4 discussion, Student 4 says, “Conflicting data is deleted”. Which response best corrects the science?",
-    "audio_prompt": "During a Year 4 discussion, Student 4 says, “Conflicting data is deleted”. Which response best corrects the science?",
+    "question": "Why might a class repeat an investigation when two groups get different results?",
+    "audio_prompt": "Why might a class repeat an investigation when two groups get different results?",
+    "audioPrompt": "Why might a class repeat an investigation when two groups get different results?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-014",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: During a Year 4 discussion, Student 4 says, “Conflicting data is deleted”. Which response best corrects the science?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Conflicting data is deleted",
+        "text": "To delete the lower result immediately",
         "is_correct": false
       },
       {
-        "text": "Investigate method, variation and uncertainty.",
+        "text": "To choose the result they like more",
+        "is_correct": false
+      },
+      {
+        "text": "To prove both groups are wrong",
+        "is_correct": false
+      },
+      {
+        "text": "To check methods, variation and whether the pattern is reliable",
         "is_correct": true
-      },
-      {
-        "text": "Any number counts as evidence",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "To delete the lower result immediately",
+      "To choose the result they like more",
+      "To prove both groups are wrong",
+      "To check methods, variation and whether the pattern is reliable"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Investigate method, variation and uncertainty.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Conflicting results should be investigated through method checks and repeated evidence.",
+      "hint": "Do not just delete conflict."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Conflicting results should be investigated through method checks and repeated evidence.",
+      "hint": "Do not just delete conflict."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A group writes this claim on a poster: “Any number counts as evidence”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Any number counts as evidence”. Which edit makes the claim scientifically accurate?",
+    "question": "Why is “the dark surface always warms faster” too strong after a classroom test?",
+    "audio_prompt": "Why is “the dark surface always warms faster” too strong after a classroom test?",
+    "audioPrompt": "Why is “the dark surface always warms faster” too strong after a classroom test?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-015",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Any number counts as evidence”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Any number counts as evidence",
+        "text": "Cautious words are banned in science",
         "is_correct": false
       },
       {
-        "text": "Explanation is just a graph description",
+        "text": "One classroom test covers all materials and weather",
         "is_correct": false
       },
       {
-        "text": "Evidence must be relevant to the question and comparison.",
+        "text": "The test only supports what happened under those conditions",
         "is_correct": true
+      },
+      {
+        "text": "The data can never support any claim",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Cautious words are banned in science",
+      "One classroom test covers all materials and weather",
+      "The test only supports what happened under those conditions",
+      "The data can never support any claim"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Evidence must be relevant to the question and comparison.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Scientific conclusions should not go beyond the evidence collected.",
+      "hint": "Limit the claim."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Scientific conclusions should not go beyond the evidence collected.",
+      "hint": "Limit the claim."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A group writes this claim on a poster: “One result proves a universal rule”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “One result proves a universal rule”. Which edit makes the claim scientifically accurate?",
+    "question": "Why should starting temperature be controlled in a heat comparison?",
+    "audio_prompt": "Why should starting temperature be controlled in a heat comparison?",
+    "audioPrompt": "Why should starting temperature be controlled in a heat comparison?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-016",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “One result proves a universal rule”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Use cautious language and repeated evidence.",
+        "text": "It removes the need to measure time",
+        "is_correct": false
+      },
+      {
+        "text": "Different starting temperatures could affect the final comparison",
         "is_correct": true
       },
       {
-        "text": "One result proves a universal rule",
+        "text": "Starting temperature is only an opinion",
         "is_correct": false
       },
       {
-        "text": "Conflicting data is deleted",
+        "text": "It makes the graph look colourful",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "It removes the need to measure time",
+      "Different starting temperatures could affect the final comparison",
+      "Starting temperature is only an opinion",
+      "It makes the graph look colourful"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Use cautious language and repeated evidence.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A fair comparison needs important starting conditions kept the same.",
+      "hint": "Same starting point."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A fair comparison needs important starting conditions kept the same.",
+      "hint": "Same starting point."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-017",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A group writes this claim on a poster: “Explanation is just a graph description”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Explanation is just a graph description”. Which edit makes the claim scientifically accurate?",
+    "question": "Why can new evidence change a scientific explanation?",
+    "audio_prompt": "Why can new evidence change a scientific explanation?",
+    "audioPrompt": "Why can new evidence change a scientific explanation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-017",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Explanation is just a graph description”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Explanation is just a graph description",
-        "is_correct": false
-      },
-      {
-        "text": "Reasoning must connect the observed pattern to the claim.",
+        "text": "Explanations are refined when better or different evidence is collected",
         "is_correct": true
       },
       {
-        "text": "Any number counts as evidence",
+        "text": "Changing an explanation means science failed",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence should be ignored after the first claim",
+        "is_correct": false
+      },
+      {
+        "text": "Only old data can be used",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Explanations are refined when better or different evidence is collected",
+      "Changing an explanation means science failed",
+      "Evidence should be ignored after the first claim",
+      "Only old data can be used"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Reasoning must connect the observed pattern to the claim.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Science improves by testing explanations against evidence.",
+      "hint": "New data can revise ideas."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Science improves by testing explanations against evidence.",
+      "hint": "New data can revise ideas."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-018",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A group writes this claim on a poster: “Conflicting data is deleted”. Which edit makes the claim scientifically accurate?",
-    "audio_prompt": "A group writes this claim on a poster: “Conflicting data is deleted”. Which edit makes the claim scientifically accurate?",
+    "question": "Why is a bar graph useful for comparing average plant heights?",
+    "audio_prompt": "Why is a bar graph useful for comparing average plant heights?",
+    "audioPrompt": "Why is a bar graph useful for comparing average plant heights?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-018",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A group writes this claim on a poster: “Conflicting data is deleted”. Which edit makes the claim scientifically accurate?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Conflicting data is deleted",
+        "text": "It makes plants grow faster",
         "is_correct": false
       },
       {
-        "text": "One result proves a universal rule",
+        "text": "It replaces all measurements",
         "is_correct": false
       },
       {
-        "text": "Investigate method, variation and uncertainty.",
+        "text": "It hides the smallest result",
+        "is_correct": false
+      },
+      {
+        "text": "It can show differences between groups clearly",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "It makes plants grow faster",
+      "It replaces all measurements",
+      "It hides the smallest result",
+      "It can show differences between groups clearly"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Investigate method, variation and uncertainty.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A graph can display measured differences so patterns are easier to interpret.",
+      "hint": "Shows comparisons."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A graph can display measured differences so patterns are easier to interpret.",
+      "hint": "Shows comparisons."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-019",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "Study the classroom example. Which statement is scientific evidence?",
-    "audio_prompt": "Study the classroom example. Which statement is scientific evidence?",
+    "question": "Why should a conclusion mention a limitation?",
+    "audio_prompt": "Why should a conclusion mention a limitation?",
+    "audioPrompt": "Why should a conclusion mention a limitation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-019",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: Study the classroom example. Which statement is scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The water measured 42°C after 5 minutes",
+        "text": "It proves the investigation is useless",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids explaining the result",
+        "is_correct": false
+      },
+      {
+        "text": "It shows how confident we can be and where the evidence may be weak",
         "is_correct": true
       },
       {
-        "text": "The group reports a change but leaves out the measurement or observation needed to support it.",
-        "is_correct": false
-      },
-      {
-        "text": "I wanted it to be warmer",
+        "text": "It makes the conclusion false",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "It proves the investigation is useless",
+      "It avoids explaining the result",
+      "It shows how confident we can be and where the evidence may be weak",
+      "It makes the conclusion false"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The water measured 42°C after 5 minutes",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Limitations help readers judge how far the evidence can be trusted.",
+      "hint": "Confidence boundary."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Limitations help readers judge how far the evidence can be trusted.",
+      "hint": "Confidence boundary."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-020",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "Use the investigation evidence. Which conclusion is appropriately cautious?",
-    "audio_prompt": "Use the investigation evidence. Which conclusion is appropriately cautious?",
+    "question": "Why is “the cup was red” poor evidence for heat retention?",
+    "audio_prompt": "Why is “the cup was red” poor evidence for heat retention?",
+    "audioPrompt": "Why is “the cup was red” poor evidence for heat retention?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-020",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: Use the investigation evidence. Which conclusion is appropriately cautious?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Dark surfaces always warm fastest everywhere",
+        "text": "A cup colour is always the tested variable",
         "is_correct": false
       },
       {
-        "text": "In our repeated trials, the dark surface warmed faster",
+        "text": "Colour alone does not show how much the temperature changed",
         "is_correct": true
       },
       {
-        "text": "One reading proves the rule",
+        "text": "Red cups cannot be measured",
+        "is_correct": false
+      },
+      {
+        "text": "Heat retention is only about opinions",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A cup colour is always the tested variable",
+      "Colour alone does not show how much the temperature changed",
+      "Red cups cannot be measured",
+      "Heat retention is only about opinions"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "In our repeated trials, the dark surface warmed faster",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Useful evidence for heat retention needs temperature data over time.",
+      "hint": "Relevant measurement."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Useful evidence for heat retention needs temperature data over time.",
+      "hint": "Relevant measurement."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-021",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "The class is preparing “Evidence sort”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Evidence sort”. Which plan would produce useful scientific evidence?",
+    "question": "Which explanation uses claim, evidence and reasoning best?",
+    "audio_prompt": "Which explanation uses claim, evidence and reasoning best?",
+    "audioPrompt": "Which explanation uses claim, evidence and reasoning best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-021",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Evidence sort”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin evidence sort, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out evidence sort once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Sort statements into claim, evidence, reasoning or opinion and explain borderline cases.",
+        "text": "The dark paper warmed more; it reached 44°C while white reached 37°C under the same lamp, so the comparison supports the claim",
         "is_correct": true
+      },
+      {
+        "text": "Dark paper is best because I like it",
+        "is_correct": false
+      },
+      {
+        "text": "The thermometer was on the bench",
+        "is_correct": false
+      },
+      {
+        "text": "White paper was white, so it lost",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The dark paper warmed more; it reached 44°C while white reached 37°C under the same lamp, so the comparison supports the claim",
+      "Dark paper is best because I like it",
+      "The thermometer was on the bench",
+      "White paper was white, so it lost"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Sort statements into claim, evidence, reasoning or opinion and explain borderline cases.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "The best explanation states a claim, cites relevant data and links it to the comparison.",
+      "hint": "Claim plus values plus link."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The best explanation states a claim, cites relevant data and links it to the comparison.",
+      "hint": "Claim plus values plus link."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-022",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "The class is preparing “Graph-to-explanation”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Graph-to-explanation”. Which plan would produce useful scientific evidence?",
+    "question": "Which statement is a misconception?",
+    "audio_prompt": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-022",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Graph-to-explanation”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Use a simple graph to write one cautious claim, cite two values and explain the pattern.",
+        "text": "Evidence must be relevant",
+        "is_correct": false
+      },
+      {
+        "text": "Reasoning links evidence to a claim",
+        "is_correct": false
+      },
+      {
+        "text": "Patterns can support explanations",
+        "is_correct": false
+      },
+      {
+        "text": "Any number can be used as evidence for any scientific claim",
         "is_correct": true
-      },
-      {
-        "text": "Begin graph-to-explanation, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out graph-to-explanation once, omit the measurements and report the original prediction as the result.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Evidence must be relevant",
+      "Reasoning links evidence to a claim",
+      "Patterns can support explanations",
+      "Any number can be used as evidence for any scientific claim"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Use a simple graph to write one cautious claim, cite two values and explain the pattern.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Numbers only count as useful evidence when they are relevant to the question.",
+      "hint": "Relevant data matters."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Numbers only count as useful evidence when they are relevant to the question.",
+      "hint": "Relevant data matters."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-023",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "The class is preparing “Conflicting data review”. Which plan would produce useful scientific evidence?",
-    "audio_prompt": "The class is preparing “Conflicting data review”. Which plan would produce useful scientific evidence?",
+    "question": "Which conclusion is best supported by repeated data?",
+    "audio_prompt": "Which conclusion is best supported by repeated data?",
+    "audioPrompt": "Which conclusion is best supported by repeated data?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-023",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: The class is preparing “Conflicting data review”. Which plan would produce useful scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin conflicting data review, change two important conditions together, then compare only the preferred observation.",
+        "text": "Paper cups can never hold warm water",
         "is_correct": false
       },
       {
-        "text": "Compare two groups’ results, check methods and decide whether to combine, repeat or revise the explanation.",
+        "text": "The graph colour made the cup warmer",
+        "is_correct": false
+      },
+      {
+        "text": "In our three trials, the insulated cup cooled less than the paper cup",
         "is_correct": true
       },
       {
-        "text": "Carry out conflicting data review once, omit the measurements and report the original prediction as the result.",
+        "text": "The insulated cup is best for every drink forever",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Paper cups can never hold warm water",
+      "The graph colour made the cup warmer",
+      "In our three trials, the insulated cup cooled less than the paper cup",
+      "The insulated cup is best for every drink forever"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Compare two groups’ results, check methods and decide whether to combine, repeat or revise the explanation.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "The conclusion stays within the repeated classroom evidence.",
+      "hint": "Cautious scope."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The conclusion stays within the repeated classroom evidence.",
+      "hint": "Cautious scope."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-P-024",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "practice",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A results display includes “data”. Which interpretation matches that evidence?",
-    "audio_prompt": "A results display includes “data”. Which interpretation matches that evidence?",
+    "question": "Which data would best support a claim that soil A drains faster than soil B?",
+    "audio_prompt": "Which data would best support a claim that soil A drains faster than soil B?",
+    "audioPrompt": "Which data would best support a claim that soil A drains faster than soil B?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-p-024",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A results display includes “data”. Which interpretation matches that evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "same conditions because different methods",
+        "text": "The colour of the tray",
         "is_correct": false
       },
       {
-        "text": "in these trials / suggests because always proves",
+        "text": "Time taken for equal water volumes to pass through equal soil amounts",
+        "is_correct": true
+      },
+      {
+        "text": "Which soil looks darker",
         "is_correct": false
       },
       {
-        "text": "several relevant measurements because one selected value",
+        "text": "Which group liked soil A",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The colour of the tray",
+      "Time taken for equal water volumes to pass through equal soil amounts",
+      "Which soil looks darker",
+      "Which group liked soil A"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Drainage rate needs relevant controlled measurements.",
+      "hint": "Measure draining."
+    },
+    "structuredExplanation": {
+      "summary": "Drainage rate needs relevant controlled measurements.",
+      "hint": "Measure draining."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-025",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "Which action is best when one trial is very different from the others?",
+    "audio_prompt": "Which action is best when one trial is very different from the others?",
+    "audioPrompt": "Which action is best when one trial is very different from the others?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Check for method errors and repeat if needed",
+        "is_correct": true
+      },
+      {
+        "text": "Delete it because it is annoying",
+        "is_correct": false
+      },
+      {
+        "text": "Use only that trial for the claim",
+        "is_correct": false
+      },
+      {
+        "text": "Stop writing all results",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Check for method errors and repeat if needed",
+      "Delete it because it is annoying",
+      "Use only that trial for the claim",
+      "Stop writing all results"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Unusual results should be investigated rather than automatically ignored.",
+      "hint": "Check and repeat."
+    },
+    "structuredExplanation": {
+      "summary": "Unusual results should be investigated rather than automatically ignored.",
+      "hint": "Check and repeat."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-026",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "Which phrase shows appropriate uncertainty?",
+    "audio_prompt": "Which phrase shows appropriate uncertainty?",
+    "audioPrompt": "Which phrase shows appropriate uncertainty?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The data proves forever",
+        "is_correct": false
+      },
+      {
+        "text": "It must always happen",
+        "is_correct": false
+      },
+      {
+        "text": "No other result is possible",
+        "is_correct": false
+      },
+      {
+        "text": "The data suggests",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The data proves forever",
+      "It must always happen",
+      "No other result is possible",
+      "The data suggests"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "data is linked to several relevant measurements because one selected value.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "Suggests is cautious and matches limited evidence better than absolute wording.",
+      "hint": "Cautious wording."
     },
+    "structuredExplanation": {
+      "summary": "Suggests is cautious and matches limited evidence better than absolute wording.",
+      "hint": "Cautious wording."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-027",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "Which is a limitation in a magnet test?",
+    "audio_prompt": "Which is a limitation in a magnet test?",
+    "audioPrompt": "Which is a limitation in a magnet test?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The question was about attraction distance",
+        "is_correct": false
+      },
+      {
+        "text": "The same magnet was used each time",
+        "is_correct": false
+      },
+      {
+        "text": "Only one distance was tested",
+        "is_correct": true
+      },
+      {
+        "text": "The results were measured in centimetres",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The question was about attraction distance",
+      "The same magnet was used each time",
+      "Only one distance was tested",
+      "The results were measured in centimetres"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Testing only one distance limits what can be concluded about distance effects.",
+      "hint": "What restricts the claim?"
+    },
+    "structuredExplanation": {
+      "summary": "Testing only one distance limits what can be concluded about distance effects.",
+      "hint": "What restricts the claim?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-028",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "Which statement is reasoning rather than evidence?",
+    "audio_prompt": "Which statement is reasoning rather than evidence?",
+    "audioPrompt": "Which statement is reasoning rather than evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The test lasted 20 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "Because both cups started at 60°C, the lower final temperature shows more cooling",
+        "is_correct": true
+      },
+      {
+        "text": "Cup A ended at 42°C",
+        "is_correct": false
+      },
+      {
+        "text": "Cup B ended at 36°C",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The test lasted 20 minutes",
+      "Because both cups started at 60°C, the lower final temperature shows more cooling",
+      "Cup A ended at 42°C",
+      "Cup B ended at 36°C"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Reasoning explains how the data comparison supports the claim.",
+      "hint": "Explains the link."
+    },
+    "structuredExplanation": {
+      "summary": "Reasoning explains how the data comparison supports the claim.",
+      "hint": "Explains the link."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-029",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "Which data set is stronger for comparing surfaces?",
+    "audio_prompt": "Which data set is stronger for comparing surfaces?",
+    "audioPrompt": "Which data set is stronger for comparing surfaces?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Three distances for each surface using the same car and ramp",
+        "is_correct": true
+      },
+      {
+        "text": "One distance on carpet only",
+        "is_correct": false
+      },
+      {
+        "text": "A drawing of the car",
+        "is_correct": false
+      },
+      {
+        "text": "One pushed trial on tile and one released trial on grass",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Three distances for each surface using the same car and ramp",
+      "One distance on carpet only",
+      "A drawing of the car",
+      "One pushed trial on tile and one released trial on grass"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Repeated controlled data for each surface gives stronger evidence.",
+      "hint": "Repeated fair comparison."
+    },
+    "structuredExplanation": {
+      "summary": "Repeated controlled data for each surface gives stronger evidence.",
+      "hint": "Repeated fair comparison."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-030",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "Which claim goes beyond the evidence?",
+    "audio_prompt": "Which claim goes beyond the evidence?",
+    "audioPrompt": "Which claim goes beyond the evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "In this test, this strip held the most weight",
+        "is_correct": false
+      },
+      {
+        "text": "The strip broke at 12 washers",
+        "is_correct": false
+      },
+      {
+        "text": "We tested equal-width strips",
+        "is_correct": false
+      },
+      {
+        "text": "This material is strongest in every possible situation",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "In this test, this strip held the most weight",
+      "The strip broke at 12 washers",
+      "We tested equal-width strips",
+      "This material is strongest in every possible situation"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A classroom test cannot prove strongest in every situation.",
+      "hint": "Too broad."
+    },
+    "structuredExplanation": {
+      "summary": "A classroom test cannot prove strongest in every situation.",
+      "hint": "Too broad."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-031",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "A class measured bean plants under two light levels for three weeks. Which evidence best supports “more light increased growth”?",
+    "audio_prompt": "A class measured bean plants under two light levels for three weeks. Which evidence best supports “more light increased growth”?",
+    "audioPrompt": "A class measured bean plants under two light levels for three weeks. Which evidence best supports “more light increased growth”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The room had windows",
+        "is_correct": false
+      },
+      {
+        "text": "The seed packets were colourful",
+        "is_correct": false
+      },
+      {
+        "text": "Average height increased more in the higher-light group",
+        "is_correct": true
+      },
+      {
+        "text": "One high-light pot looked nicer",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The room had windows",
+      "The seed packets were colourful",
+      "Average height increased more in the higher-light group",
+      "One high-light pot looked nicer"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The claim needs measured growth data comparing the groups.",
+      "hint": "Compare heights."
+    },
+    "structuredExplanation": {
+      "summary": "The claim needs measured growth data comparing the groups.",
+      "hint": "Compare heights."
+    },
+    "stage": "apply",
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-032",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "Two groups test the same question but one starts with hotter water. What should they check first?",
+    "audio_prompt": "Two groups test the same question but one starts with hotter water. What should they check first?",
+    "audioPrompt": "Two groups test the same question but one starts with hotter water. What should they check first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Whether the graph has a title only",
+        "is_correct": false
+      },
+      {
+        "text": "Whether different starting temperatures made the comparison unfair",
+        "is_correct": true
+      },
+      {
+        "text": "Which cup colour was prettier",
+        "is_correct": false
+      },
+      {
+        "text": "Whether water can be measured",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Whether the graph has a title only",
+      "Whether different starting temperatures made the comparison unfair",
+      "Which cup colour was prettier",
+      "Whether water can be measured"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Different starting conditions can explain different results.",
+      "hint": "Check fairness."
+    },
+    "structuredExplanation": {
+      "summary": "Different starting conditions can explain different results.",
+      "hint": "Check fairness."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-033",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "A student writes, “The rough ramp slowed the toy car. It travelled 40 cm, while on smooth card it travelled 90 cm.” What is missing?",
+    "audio_prompt": "A student writes, “The rough ramp slowed the toy car. It travelled 40 cm, while on smooth card it travelled 90 cm.” What is missing?",
+    "audioPrompt": "A student writes, “The rough ramp slowed the toy car. It travelled 40 cm, while on smooth card it travelled 90 cm.” What is missing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Reasoning that links shorter distance to greater friction",
+        "is_correct": true
+      },
+      {
+        "text": "All evidence values",
+        "is_correct": false
+      },
+      {
+        "text": "The claim",
+        "is_correct": false
+      },
+      {
+        "text": "The measured result",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Reasoning that links shorter distance to greater friction",
+      "All evidence values",
+      "The claim",
+      "The measured result"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The student has a claim and evidence but still needs to explain why the evidence supports the claim.",
+      "hint": "Add the link."
+    },
+    "structuredExplanation": {
+      "summary": "The student has a claim and evidence but still needs to explain why the evidence supports the claim.",
+      "hint": "Add the link."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-034",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "A graph shows three trials where shaded soil stayed cooler than unshaded soil. Which conclusion is best?",
+    "audio_prompt": "A graph shows three trials where shaded soil stayed cooler than unshaded soil. Which conclusion is best?",
+    "audioPrompt": "A graph shows three trials where shaded soil stayed cooler than unshaded soil. Which conclusion is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Shade always makes all soils cold",
+        "is_correct": false
+      },
+      {
+        "text": "The unshaded soil data should be deleted",
+        "is_correct": false
+      },
+      {
+        "text": "Graphs prove results without measurements",
+        "is_correct": false
+      },
+      {
+        "text": "In these trials, shade helped soil stay cooler",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Shade always makes all soils cold",
+      "The unshaded soil data should be deleted",
+      "Graphs prove results without measurements",
+      "In these trials, shade helped soil stay cooler"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The conclusion uses the repeated pattern and cautious wording.",
+      "hint": "Stay within data."
+    },
+    "structuredExplanation": {
+      "summary": "The conclusion uses the repeated pattern and cautious wording.",
+      "hint": "Stay within data."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-035",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "A student claims a sponge is most absorbent because it feels soft. What evidence would be better?",
+    "audio_prompt": "A student claims a sponge is most absorbent because it feels soft. What evidence would be better?",
+    "audioPrompt": "A student claims a sponge is most absorbent because it feels soft. What evidence would be better?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Which sample has the nicest colour",
+        "is_correct": false
+      },
+      {
+        "text": "The brand name only",
+        "is_correct": false
+      },
+      {
+        "text": "Measured water absorbed by equal-sized samples",
+        "is_correct": true
+      },
+      {
+        "text": "How soft the sponge feels",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Which sample has the nicest colour",
+      "The brand name only",
+      "Measured water absorbed by equal-sized samples",
+      "How soft the sponge feels"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Absorbency needs measured water uptake under fair conditions.",
+      "hint": "Measure the property."
+    },
+    "structuredExplanation": {
+      "summary": "Absorbency needs measured water uptake under fair conditions.",
+      "hint": "Measure the property."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-036",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "A class finds one plant in the low-water group grew tallest. What should they do before changing the explanation?",
+    "audio_prompt": "A class finds one plant in the low-water group grew tallest. What should they do before changing the explanation?",
+    "audioPrompt": "A class finds one plant in the low-water group grew tallest. What should they do before changing the explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Claim water never matters",
+        "is_correct": false
+      },
+      {
+        "text": "Look at all trials and check whether it is an unusual result or method issue",
+        "is_correct": true
+      },
+      {
+        "text": "Use that one plant only",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore every other plant",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Claim water never matters",
+      "Look at all trials and check whether it is an unusual result or method issue",
+      "Use that one plant only",
+      "Ignore every other plant"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A single conflicting result should be checked against the whole data pattern.",
+      "hint": "One result versus pattern."
+    },
+    "structuredExplanation": {
+      "summary": "A single conflicting result should be checked against the whole data pattern.",
+      "hint": "One result versus pattern."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-037",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "A thermometer reading is copied incorrectly in one table. How could this affect the explanation?",
+    "audio_prompt": "A thermometer reading is copied incorrectly in one table. How could this affect the explanation?",
+    "audioPrompt": "A thermometer reading is copied incorrectly in one table. How could this affect the explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It could make the evidence appear to support the wrong claim",
+        "is_correct": true
+      },
+      {
+        "text": "It makes reasoning unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the test was perfect",
+        "is_correct": false
+      },
+      {
+        "text": "It changes opinions into data",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It could make the evidence appear to support the wrong claim",
+      "It makes reasoning unnecessary",
+      "It proves the test was perfect",
+      "It changes opinions into data"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Errors in evidence can lead to weak or incorrect conclusions.",
+      "hint": "Bad data can mislead."
+    },
+    "structuredExplanation": {
+      "summary": "Errors in evidence can lead to weak or incorrect conclusions.",
+      "hint": "Bad data can mislead."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-038",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "A group says their parachute design is best after one drop. What would make the explanation stronger?",
+    "audio_prompt": "A group says their parachute design is best after one drop. What would make the explanation stronger?",
+    "audioPrompt": "A group says their parachute design is best after one drop. What would make the explanation stronger?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Choose the nicest-looking parachute",
+        "is_correct": false
+      },
+      {
+        "text": "Drop each parachute from a different height",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore wind and method",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat drops and compare times under the same conditions",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Choose the nicest-looking parachute",
+      "Drop each parachute from a different height",
+      "Ignore wind and method",
+      "Repeat drops and compare times under the same conditions"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Repeated fair trials provide stronger evidence for a design explanation.",
+      "hint": "Repeat fairly."
+    },
+    "structuredExplanation": {
+      "summary": "Repeated fair trials provide stronger evidence for a design explanation.",
+      "hint": "Repeat fairly."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-039",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "A class compares two explanations for the same data. What should they judge first?",
+    "audio_prompt": "A class compares two explanations for the same data. What should they judge first?",
+    "audioPrompt": "A class compares two explanations for the same data. What should they judge first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Which explanation has the funniest words",
+        "is_correct": false
+      },
+      {
+        "text": "Which one avoids all numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Which explanation uses relevant evidence and sound reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "Which explanation is longest",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Which explanation has the funniest words",
+      "Which one avoids all numbers",
+      "Which explanation uses relevant evidence and sound reasoning",
+      "Which explanation is longest"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "A strong explanation is judged by evidence and reasoning, not length or style alone.",
+      "hint": "Evidence quality."
+    },
+    "structuredExplanation": {
+      "summary": "A strong explanation is judged by evidence and reasoning, not length or style alone.",
+      "hint": "Evidence quality."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H01-P-040",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using_data_to_develop_scientific_explanations",
+    "question": "New rainfall data does not match the class prediction. What is the best scientific response?",
+    "audio_prompt": "New rainfall data does not match the class prediction. What is the best scientific response?",
+    "audioPrompt": "New rainfall data does not match the class prediction. What is the best scientific response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Say data cannot change ideas",
+        "is_correct": false
+      },
+      {
+        "text": "Review the method and revise the explanation if the evidence supports it",
+        "is_correct": true
+      },
+      {
+        "text": "Hide the new data",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the first prediction no matter what",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Say data cannot change ideas",
+      "Review the method and revise the explanation if the evidence supports it",
+      "Hide the new data",
+      "Keep the first prediction no matter what"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Scientific explanations can be revised when evidence changes.",
+      "hint": "Evidence can update claims."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific explanations can be revised when evidence changes.",
+      "hint": "Evidence can update claims."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-001",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A museum activity card says, “proposed answer to a scientific question”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “proposed answer to a scientific question”. Which scientific term belongs on the card?",
+    "question": "Which statement is evidence for a cooling investigation?",
+    "audio_prompt": "Which statement is evidence for a cooling investigation?",
+    "audioPrompt": "Which statement is evidence for a cooling investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-001",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “proposed answer to a scientific question”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "claim",
+        "text": "Warm drinks are nice",
+        "is_correct": false
+      },
+      {
+        "text": "The group wanted one cup to win",
+        "is_correct": false
+      },
+      {
+        "text": "The water fell from 58°C to 41°C in 20 minutes",
         "is_correct": true
       },
       {
-        "text": "evidence",
-        "is_correct": false
-      },
-      {
-        "text": "reasoning",
+        "text": "The cup was my favourite colour",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Warm drinks are nice",
+      "The group wanted one cup to win",
+      "The water fell from 58°C to 41°C in 20 minutes",
+      "The cup was my favourite colour"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "claim is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Evidence is relevant measured or observed information.",
+      "hint": "Measured temperature change."
+    },
+    "structuredExplanation": {
+      "summary": "Evidence is relevant measured or observed information.",
+      "hint": "Measured temperature change."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-002",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A museum activity card says, “relevant observations or measurements”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “relevant observations or measurements”. Which scientific term belongs on the card?",
+    "question": "A conclusion says, “This soil drained fastest in our test.” Why is the wording suitable?",
+    "audio_prompt": "A conclusion says, “This soil drained fastest in our test.” Why is the wording suitable?",
+    "audioPrompt": "A conclusion says, “This soil drained fastest in our test.” Why is the wording suitable?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-002",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “relevant observations or measurements”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "reasoning",
+        "text": "It is only an opinion",
         "is_correct": false
       },
       {
-        "text": "evidence",
+        "text": "It matches the evidence without claiming every soil sample everywhere",
         "is_correct": true
       },
       {
-        "text": "pattern",
+        "text": "It proves all soils forever",
+        "is_correct": false
+      },
+      {
+        "text": "It ignores the method",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "It is only an opinion",
+      "It matches the evidence without claiming every soil sample everywhere",
+      "It proves all soils forever",
+      "It ignores the method"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "evidence is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "The wording is cautious and limited to the investigation.",
+      "hint": "Scope fits evidence."
+    },
+    "structuredExplanation": {
+      "summary": "The wording is cautious and limited to the investigation.",
+      "hint": "Scope fits evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-003",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A museum activity card says, “link explaining how evidence supports the claim”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “link explaining how evidence supports the claim”. Which scientific term belongs on the card?",
+    "question": "Which item is reasoning in a plant investigation?",
+    "audio_prompt": "Which item is reasoning in a plant investigation?",
+    "audioPrompt": "Which item is reasoning in a plant investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-003",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “link explaining how evidence supports the claim”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "pattern",
-        "is_correct": false
-      },
-      {
-        "text": "limitation",
-        "is_correct": false
-      },
-      {
-        "text": "reasoning",
+        "text": "Because both groups started at the same height, the taller final average supports the light-growth claim",
         "is_correct": true
+      },
+      {
+        "text": "The sunny plants averaged 18 cm",
+        "is_correct": false
+      },
+      {
+        "text": "The shaded plants averaged 12 cm",
+        "is_correct": false
+      },
+      {
+        "text": "The trial lasted 21 days",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Because both groups started at the same height, the taller final average supports the light-growth claim",
+      "The sunny plants averaged 18 cm",
+      "The shaded plants averaged 12 cm",
+      "The trial lasted 21 days"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "reasoning is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Reasoning links the data comparison to the claim.",
+      "hint": "Explains why data supports claim."
+    },
+    "structuredExplanation": {
+      "summary": "Reasoning links the data comparison to the claim.",
+      "hint": "Explains why data supports claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-004",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A museum activity card says, “repeated relationship in data”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “repeated relationship in data”. Which scientific term belongs on the card?",
+    "question": "Which data would best support “Material A is more flexible”?",
+    "audio_prompt": "Which data would best support “Material A is more flexible”?",
+    "audioPrompt": "Which data would best support “Material A is more flexible”?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-004",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “repeated relationship in data”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "pattern",
+        "text": "Material A was blue",
+        "is_correct": false
+      },
+      {
+        "text": "Material A sounded nicer",
+        "is_correct": false
+      },
+      {
+        "text": "One student guessed it would bend",
+        "is_correct": false
+      },
+      {
+        "text": "Equal strips were bent with the same force and Material A bent farther without cracking",
         "is_correct": true
-      },
-      {
-        "text": "limitation",
-        "is_correct": false
-      },
-      {
-        "text": "claim",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Material A was blue",
+      "Material A sounded nicer",
+      "One student guessed it would bend",
+      "Equal strips were bent with the same force and Material A bent farther without cracking"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "pattern is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Flexibility claims need controlled observations or measurements of bending.",
+      "hint": "Test the property."
+    },
+    "structuredExplanation": {
+      "summary": "Flexibility claims need controlled observations or measurements of bending.",
+      "hint": "Test the property."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-005",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A museum activity card says, “factor restricting confidence or scope”. Which scientific term belongs on the card?",
-    "audio_prompt": "A museum activity card says, “factor restricting confidence or scope”. Which scientific term belongs on the card?",
+    "question": "What should happen if two fair trials give slightly different distances?",
+    "audio_prompt": "What should happen if two fair trials give slightly different distances?",
+    "audioPrompt": "What should happen if two fair trials give slightly different distances?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-005",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “factor restricting confidence or scope”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "claim",
+        "text": "Use only the longest distance",
         "is_correct": false
       },
       {
-        "text": "limitation",
+        "text": "Say measurement is impossible",
+        "is_correct": false
+      },
+      {
+        "text": "Record both and look for the overall pattern with repeats",
         "is_correct": true
       },
       {
-        "text": "evidence",
+        "text": "Delete the lower result automatically",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Use only the longest distance",
+      "Say measurement is impossible",
+      "Record both and look for the overall pattern with repeats",
+      "Delete the lower result automatically"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "limitation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
-    }
+      "summary": "Variation is normal; repeated data helps identify the pattern.",
+      "hint": "Use repeats."
+    },
+    "structuredExplanation": {
+      "summary": "Variation is normal; repeated data helps identify the pattern.",
+      "hint": "Use repeats."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-006",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A different class records this conclusion: “Any number counts as evidence”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Any number counts as evidence”. Which feedback would improve it most?",
+    "question": "Which phrase is too strong for one small class investigation?",
+    "audio_prompt": "Which phrase is too strong for one small class investigation?",
+    "audioPrompt": "Which phrase is too strong for one small class investigation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-006",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Any number counts as evidence”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Any number counts as evidence",
+        "text": "More testing would improve confidence",
         "is_correct": false
       },
       {
-        "text": "One result proves a universal rule",
-        "is_correct": false
-      },
-      {
-        "text": "Evidence must be relevant to the question and comparison.",
+        "text": "This proves the rule for all places and times",
         "is_correct": true
+      },
+      {
+        "text": "The data suggests a pattern",
+        "is_correct": false
+      },
+      {
+        "text": "In these trials",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "More testing would improve confidence",
+      "This proves the rule for all places and times",
+      "The data suggests a pattern",
+      "In these trials"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Evidence must be relevant to the question and comparison.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "A small investigation does not prove a universal rule.",
+      "hint": "Avoid absolute proof."
+    },
+    "structuredExplanation": {
+      "summary": "A small investigation does not prove a universal rule.",
+      "hint": "Avoid absolute proof."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-007",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A different class records this conclusion: “One result proves a universal rule”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “One result proves a universal rule”. Which feedback would improve it most?",
+    "question": "Which is a limitation of testing only sunny days?",
+    "audio_prompt": "Which is a limitation of testing only sunny days?",
+    "audioPrompt": "Which is a limitation of testing only sunny days?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-007",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “One result proves a universal rule”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Use cautious language and repeated evidence.",
+        "text": "The result may not apply to cloudy or windy conditions",
         "is_correct": true
       },
       {
-        "text": "One result proves a universal rule",
+        "text": "The test has too much evidence",
         "is_correct": false
       },
       {
-        "text": "Explanation is just a graph description",
+        "text": "The claim must be perfect",
+        "is_correct": false
+      },
+      {
+        "text": "The graph becomes useless",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "The result may not apply to cloudy or windy conditions",
+      "The test has too much evidence",
+      "The claim must be perfect",
+      "The graph becomes useless"
+    ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Use cautious language and repeated evidence.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Limited conditions reduce how widely a conclusion can be applied.",
+      "hint": "Conditions restrict scope."
+    },
+    "structuredExplanation": {
+      "summary": "Limited conditions reduce how widely a conclusion can be applied.",
+      "hint": "Conditions restrict scope."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-008",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A different class records this conclusion: “Explanation is just a graph description”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Explanation is just a graph description”. Which feedback would improve it most?",
+    "question": "A graph shows the dark surface above the light surface at every time point. What does this show?",
+    "audio_prompt": "A graph shows the dark surface above the light surface at every time point. What does this show?",
+    "audioPrompt": "A graph shows the dark surface above the light surface at every time point. What does this show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-008",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Explanation is just a graph description”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Explanation is just a graph description",
+        "text": "A personal preference for dark colours",
         "is_correct": false
       },
       {
-        "text": "Reasoning must connect the observed pattern to the claim.",
+        "text": "Proof that all dark objects are hottest forever",
+        "is_correct": false
+      },
+      {
+        "text": "No useful comparison",
+        "is_correct": false
+      },
+      {
+        "text": "A repeated pattern supporting faster warming for the dark surface",
         "is_correct": true
-      },
-      {
-        "text": "Conflicting data is deleted",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "A personal preference for dark colours",
+      "Proof that all dark objects are hottest forever",
+      "No useful comparison",
+      "A repeated pattern supporting faster warming for the dark surface"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Reasoning must connect the observed pattern to the claim.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Repeated graph separation can support a cautious warming comparison.",
+      "hint": "Pattern over time."
+    },
+    "structuredExplanation": {
+      "summary": "Repeated graph separation can support a cautious warming comparison.",
+      "hint": "Pattern over time."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-009",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A different class records this conclusion: “Conflicting data is deleted”. Which feedback would improve it most?",
-    "audio_prompt": "A different class records this conclusion: “Conflicting data is deleted”. Which feedback would improve it most?",
+    "question": "Which response to conflicting data is most scientific?",
+    "audio_prompt": "Which response to conflicting data is most scientific?",
+    "audioPrompt": "Which response to conflicting data is most scientific?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-009",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Conflicting data is deleted”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Conflicting data is deleted",
+        "text": "Vote for the most popular result",
         "is_correct": false
       },
       {
-        "text": "Any number counts as evidence",
+        "text": "Use the neatest handwriting",
         "is_correct": false
       },
       {
-        "text": "Investigate method, variation and uncertainty.",
+        "text": "Check methods, repeat if needed and consider whether the claim should change",
         "is_correct": true
+      },
+      {
+        "text": "Erase the group with different results",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Vote for the most popular result",
+      "Use the neatest handwriting",
+      "Check methods, repeat if needed and consider whether the claim should change",
+      "Erase the group with different results"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Investigate method, variation and uncertainty.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
-    }
+      "summary": "Conflicting data should lead to checking and further evidence.",
+      "hint": "Investigate conflict."
+    },
+    "structuredExplanation": {
+      "summary": "Conflicting data should lead to checking and further evidence.",
+      "hint": "Investigate conflict."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-010",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A new field-note example asks: Which statement is scientific evidence?",
-    "audio_prompt": "A new field-note example asks: Which statement is scientific evidence?",
+    "question": "Which evidence is least relevant to whether a cup insulates well?",
+    "audio_prompt": "Which evidence is least relevant to whether a cup insulates well?",
+    "audioPrompt": "Which evidence is least relevant to whether a cup insulates well?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-010",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: Which statement is scientific evidence?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The water measured 42°C after 5 minutes",
+        "text": "Starting water temperature",
+        "is_correct": false
+      },
+      {
+        "text": "The picture printed on the cup",
         "is_correct": true
       },
       {
-        "text": "The group reports a change but leaves out the measurement or observation needed to support it.",
+        "text": "Temperature after 30 minutes",
         "is_correct": false
       },
       {
-        "text": "I wanted it to be warmer",
+        "text": "Cup material",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Starting water temperature",
+      "The picture printed on the cup",
+      "Temperature after 30 minutes",
+      "Cup material"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The water measured 42°C after 5 minutes",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "A printed picture does not measure or explain heat retention.",
+      "hint": "Not about insulation."
+    },
+    "structuredExplanation": {
+      "summary": "A printed picture does not measure or explain heat retention.",
+      "hint": "Not about insulation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-011",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A new design task asks: Which conclusion is appropriately cautious?",
-    "audio_prompt": "A new design task asks: Which conclusion is appropriately cautious?",
+    "question": "A class claim says fertiliser helped plants grow. Which evidence is strongest?",
+    "audio_prompt": "A class claim says fertiliser helped plants grow. Which evidence is strongest?",
+    "audioPrompt": "A class claim says fertiliser helped plants grow. Which evidence is strongest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-011",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which conclusion is appropriately cautious?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Dark surfaces always warm fastest everywhere",
-        "is_correct": false
-      },
-      {
-        "text": "In our repeated trials, the dark surface warmed faster",
+        "text": "Repeated plant-height data comparing fertilised and unfertilised plants under the same conditions",
         "is_correct": true
       },
       {
-        "text": "One reading proves the rule",
+        "text": "A photo of one tall plant only",
+        "is_correct": false
+      },
+      {
+        "text": "A student saying fertiliser sounds helpful",
+        "is_correct": false
+      },
+      {
+        "text": "The packet colour",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Repeated plant-height data comparing fertilised and unfertilised plants under the same conditions",
+      "A photo of one tall plant only",
+      "A student saying fertiliser sounds helpful",
+      "The packet colour"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "In our repeated trials, the dark surface warmed faster",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
-    }
+      "summary": "Controlled repeated growth data directly supports or challenges the claim.",
+      "hint": "Compare groups."
+    },
+    "structuredExplanation": {
+      "summary": "Controlled repeated growth data directly supports or challenges the claim.",
+      "hint": "Compare groups."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-012",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A new group wants to adapt “Evidence sort”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Evidence sort”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which statement best describes a claim?",
+    "audio_prompt": "Which statement best describes a claim?",
+    "audioPrompt": "Which statement best describes a claim?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-012",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Evidence sort”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin evidence sort, change two important conditions together, then compare only the preferred observation.",
+        "text": "A random number from any test",
         "is_correct": false
       },
       {
-        "text": "Carry out evidence sort once, omit the measurements and report the original prediction as the result.",
+        "text": "The equipment list only",
         "is_correct": false
       },
       {
-        "text": "Sort statements into claim, evidence, reasoning or opinion and explain borderline cases.",
+        "text": "The colour chosen for labels",
+        "is_correct": false
+      },
+      {
+        "text": "A proposed answer supported or challenged by evidence",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "A random number from any test",
+      "The equipment list only",
+      "The colour chosen for labels",
+      "A proposed answer supported or challenged by evidence"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Sort statements into claim, evidence, reasoning or opinion and explain borderline cases.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "A claim is the conclusion or answer being argued.",
+      "hint": "Answer to the question."
+    },
+    "structuredExplanation": {
+      "summary": "A claim is the conclusion or answer being argued.",
+      "hint": "Answer to the question."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-013",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A new group wants to adapt “Graph-to-explanation”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Graph-to-explanation”. Which method keeps the investigation focused and reviewable?",
+    "question": "A student lists data but does not explain what it means. What is missing?",
+    "audio_prompt": "A student lists data but does not explain what it means. What is missing?",
+    "audioPrompt": "A student lists data but does not explain what it means. What is missing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-013",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Graph-to-explanation”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Use a simple graph to write one cautious claim, cite two values and explain the pattern.",
+        "text": "A second opinion",
+        "is_correct": false
+      },
+      {
+        "text": "A bigger title",
+        "is_correct": false
+      },
+      {
+        "text": "Reasoning",
         "is_correct": true
       },
       {
-        "text": "Begin graph-to-explanation, change two important conditions together, then compare only the preferred observation.",
-        "is_correct": false
-      },
-      {
-        "text": "Carry out graph-to-explanation once, omit the measurements and report the original prediction as the result.",
+        "text": "Measurement units only",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A second opinion",
+      "A bigger title",
+      "Reasoning",
+      "Measurement units only"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Use a simple graph to write one cautious claim, cite two values and explain the pattern.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Reasoning interprets the evidence and links it to the claim.",
+      "hint": "Data needs explanation."
+    },
+    "structuredExplanation": {
+      "summary": "Reasoning interprets the evidence and links it to the claim.",
+      "hint": "Data needs explanation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-014",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A new group wants to adapt “Conflicting data review”. Which method keeps the investigation focused and reviewable?",
-    "audio_prompt": "A new group wants to adapt “Conflicting data review”. Which method keeps the investigation focused and reviewable?",
+    "question": "Which method gives stronger evidence about magnet distance?",
+    "audio_prompt": "Which method gives stronger evidence about magnet distance?",
+    "audioPrompt": "Which method gives stronger evidence about magnet distance?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-014",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Conflicting data review”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Begin conflicting data review, change two important conditions together, then compare only the preferred observation.",
+        "text": "Change distance and paperclip material together",
         "is_correct": false
       },
       {
-        "text": "Compare two groups’ results, check methods and decide whether to combine, repeat or revise the explanation.",
+        "text": "Test several distances with the same magnet and paperclip, repeating each distance",
         "is_correct": true
       },
       {
-        "text": "Carry out conflicting data review once, omit the measurements and report the original prediction as the result.",
+        "text": "Test one distance once",
+        "is_correct": false
+      },
+      {
+        "text": "Use a new magnet every time",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Change distance and paperclip material together",
+      "Test several distances with the same magnet and paperclip, repeating each distance",
+      "Test one distance once",
+      "Use a new magnet every time"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Compare two groups’ results, check methods and decide whether to combine, repeat or revise the explanation.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
-    }
+      "summary": "Several controlled repeated measurements give stronger evidence.",
+      "hint": "Fair repeats."
+    },
+    "structuredExplanation": {
+      "summary": "Several controlled repeated measurements give stronger evidence.",
+      "hint": "Fair repeats."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-015",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A new using data to develop scientific explanations investigation reports “data”. Which conclusion is best supported by the display?",
-    "audio_prompt": "A new using data to develop scientific explanations investigation reports “data”. Which conclusion is best supported by the display?",
+    "question": "Why can evidence challenge an explanation?",
+    "audio_prompt": "Why can evidence challenge an explanation?",
+    "audioPrompt": "Why can evidence challenge an explanation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-015",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new using data to develop scientific explanations investigation reports “data”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "same conditions because different methods",
-        "is_correct": false
-      },
-      {
-        "text": "in these trials / suggests because always proves",
-        "is_correct": false
-      },
-      {
-        "text": "several relevant measurements because one selected value",
+        "text": "Reliable data may not match the expected pattern",
         "is_correct": true
+      },
+      {
+        "text": "Evidence must always agree with predictions",
+        "is_correct": false
+      },
+      {
+        "text": "Predictions are results",
+        "is_correct": false
+      },
+      {
+        "text": "Claims cannot change",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Reliable data may not match the expected pattern",
+      "Evidence must always agree with predictions",
+      "Predictions are results",
+      "Claims cannot change"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "data is linked to several relevant measurements because one selected value.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+      "summary": "If reliable evidence does not fit, the explanation may need revision.",
+      "hint": "Data can disagree."
+    },
+    "structuredExplanation": {
+      "summary": "If reliable evidence does not fit, the explanation may need revision.",
+      "hint": "Data can disagree."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
     "id": "AC9S4H01-T-016",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H01",
+    "curriculumCode": "AC9S4H01",
     "bank": "test",
     "skill": "using_data_to_develop_scientific_explanations",
-    "question": "A new using data to develop scientific explanations investigation reports “comparison”. Which conclusion is best supported by the display?",
-    "audio_prompt": "A new using data to develop scientific explanations investigation reports “comparison”. Which conclusion is best supported by the display?",
+    "question": "A team says, “Our model explains this creek only during heavy rain.” What have they identified?",
+    "audio_prompt": "A team says, “Our model explains this creek only during heavy rain.” What have they identified?",
+    "audioPrompt": "A team says, “Our model explains this creek only during heavy rain.” What have they identified?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01.svg#ac9s4h01-t-016",
-      "alt_text": "Using Data to Develop Scientific Explanations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new using data to develop scientific explanations investigation reports “comparison”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "same conditions because different methods",
+        "text": "A reason to ignore all data",
+        "is_correct": false
+      },
+      {
+        "text": "A universal proof",
+        "is_correct": false
+      },
+      {
+        "text": "An opinion with no evidence",
+        "is_correct": false
+      },
+      {
+        "text": "A limitation of where the explanation applies",
         "is_correct": true
-      },
-      {
-        "text": "several relevant measurements because one selected value",
-        "is_correct": false
-      },
-      {
-        "text": "in these trials / suggests because always proves",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A reason to ignore all data",
+      "A universal proof",
+      "An opinion with no evidence",
+      "A limitation of where the explanation applies"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "comparison is linked to same conditions because different methods.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
-    }
+      "summary": "They are stating the conditions where the explanation is useful.",
+      "hint": "Boundary of claim."
+    },
+    "structuredExplanation": {
+      "summary": "They are stating the conditions where the explanation is useful.",
+      "hint": "Boundary of claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]
