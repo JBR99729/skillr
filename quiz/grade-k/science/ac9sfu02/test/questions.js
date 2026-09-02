@@ -1,459 +1,419 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9sfu02-t-001",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "link feature to movement",
-    "question": "Which part mainly allows the toy car to roll?",
-    "explanation": "Round wheels rotate against the floor.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "Which object is most likely to roll smoothly?",
+    "explanation": "A marble is round and rolls easily. Hint: Look for a rounded shape.",
+    "structuredExplanation": {
+      "summary": "A marble is round and rolls easily.",
+      "hint": "Look for a rounded shape."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "wheels",
-      "colour",
-      "sticker",
-      "name"
+      "brick",
+      "flat card",
+      "marble",
+      "book"
     ],
-    "correct": 0,
-    "visual": "🚗"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-002",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "describe orientation effect",
-    "question": "How does movement change when a different surface touches the floor?",
-    "explanation": "Orientation changes which surface contacts the floor.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "Which object is most likely to slide?",
+    "explanation": "A block has flat faces that support sliding. Hint: Flat faces.",
+    "structuredExplanation": {
+      "summary": "A block has flat faces that support sliding.",
+      "hint": "Flat faces."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "curved side rolls; flat end rests or tips",
-      "it becomes a new material",
-      "colour controls movement",
-      "nothing can change"
+      "ball",
+      "wheel",
+      "marble",
+      "block"
     ],
-    "correct": 0,
-    "visual": "🧻"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-003",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "identify factor",
-    "question": "Which factor is different?",
-    "explanation": "The description keeps the other features the same.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "What factor mainly explains ball versus cube movement?",
+    "explanation": "Different shapes influence whether objects roll or slide. Hint: Physical feature.",
+    "structuredExplanation": {
+      "summary": "Different shapes influence whether objects roll or slide.",
+      "hint": "Physical feature."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "size",
       "shape",
+      "name",
       "colour",
-      "ramp"
+      "owner"
     ],
     "correct": 0,
-    "visual": "two wooden balls same shape; one small and one large"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-004",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "interpret movement data",
-    "question": "Which interpretation matches the record?",
-    "explanation": "The interpretation uses the observed difference.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "A toy car goes farther on tile than carpet. What factor changed?",
+    "explanation": "The surface changed while the object stayed the same. Hint: What condition was different?",
+    "structuredExplanation": {
+      "summary": "The surface changed while the object stayed the same.",
+      "hint": "What condition was different?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "rubber bounced higher and material differed",
-      "colour caused the result",
-      "there was no difference",
-      "the result proves an always rule"
+      "driver",
+      "surface",
+      "car name",
+      "day"
     ],
-    "correct": 0,
-    "visual": "rubber high | foam low"
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-005",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "predict movement from shape",
-    "question": "What is most likely after a gentle release?",
-    "explanation": "The contacting shape supports this movement.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "Why might rubber wheels grip better than hard smooth plastic?",
+    "explanation": "Material affects contact and friction. Hint: Think tyre material.",
+    "structuredExplanation": {
+      "summary": "Material affects contact and friction.",
+      "hint": "Think tyre material."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "slide on a flat face",
-      "float upward",
-      "melt",
-      "grow"
+      "plastic has no shape",
+      "colour causes grip",
+      "material properties differ",
+      "rubber is always bigger"
     ],
-    "correct": 0,
-    "visual": "▭ ramp"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-006",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "improve comparison",
-    "question": "Why cannot this show one factor alone?",
-    "explanation": "A fair comparison changes one factor.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "Which comparison is fairest for testing shape?",
+    "explanation": "Changing mainly shape makes the comparison clearer. Hint: Change one main factor.",
+    "structuredExplanation": {
+      "summary": "Changing mainly shape makes the comparison clearer.",
+      "hint": "Change one main factor."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "material and surface also differ; keep material, shape and surface the same",
-      "the test is already fair",
-      "colour is the only issue",
-      "movement cannot be observed"
+      "different material and shape",
+      "different slopes and pushes",
+      "different objects with many changes",
+      "same material, different shapes"
     ],
-    "correct": 0,
-    "visual": "small marble on tile and large foam ball on carpet"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-007",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "classify movement",
-    "question": "Which grouping is most reasonable?",
-    "explanation": "The groups use observed movement.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "An egg-shaped toy is likely to:",
+    "explanation": "Its uneven curved shape can cause wobbling. Hint: Not a perfect sphere.",
+    "structuredExplanation": {
+      "summary": "Its uneven curved shape can cause wobbling.",
+      "hint": "Not a perfect sphere."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "wheel and coin may roll; eraser slides; beanbag tumbles",
-      "all objects move the same",
-      "group only by colour",
-      "none can move"
+      "wobble as it rolls",
+      "roll perfectly straight every time",
+      "never move",
+      "only slide"
     ],
     "correct": 0,
-    "visual": "🪙 ◯ ▬ 🫘"
+    "visual": "🥚",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-008",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "decide likely factor",
-    "question": "Which factor is better supported?",
-    "explanation": "Compare objects that share other features.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "Which is a physical factor that can influence movement?",
+    "explanation": "Size can change how an object behaves when moving. Hint: Choose a measurable feature.",
+    "structuredExplanation": {
+      "summary": "Size can change how an object behaves when moving.",
+      "hint": "Choose a measurable feature."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "material is better supported than size",
-      "colour",
-      "name",
-      "time of day"
+      "owner",
+      "size",
+      "nickname",
+      "favourite colour"
     ],
-    "correct": 0,
-    "visual": "A small rubber bounces high; B large cloth no bounce; C large rubber high"
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-009",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "select fair-test plan",
-    "question": "Select the two correct parts of the plan.",
-    "explanation": "The plan changes one factor and records movement.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "A top mainly:",
+    "explanation": "A top rotates around a central point. Hint: Rotation.",
+    "structuredExplanation": {
+      "summary": "A top rotates around a central point.",
+      "hint": "Rotation."
+    },
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "change material",
-      "keep size, shape, height and surface",
-      "Record bounce height",
-      "change every condition"
+      "melts",
+      "floats",
+      "spins",
+      "grows"
     ],
-    "correct": [
-      0,
-      1,
-      2
-    ],
-    "visual": "rubber, foam, cloth balls"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-010",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "compare paths",
-    "question": "Which path matches the shape?",
-    "explanation": "Shape can influence path.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "Which result supports “smooth floor lets the car go farther”?",
+    "explanation": "The car travelled farther on smooth. Hint: Compare distances.",
+    "structuredExplanation": {
+      "summary": "The car travelled farther on smooth.",
+      "hint": "Compare distances."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "wobble or curve",
-      "must float",
-      "must stay still",
-      "colour decides"
+      "smooth 40 cm, rough 90 cm",
+      "both 50 cm",
+      "no measurement",
+      "smooth 100 cm, rough 45 cm"
     ],
-    "correct": 0,
-    "visual": "🥚 ↪"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-011",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "recognise force influence",
-    "question": "Which statement is supported?",
-    "explanation": "The way an object is pushed or released can influence movement.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "A child says colour caused a car to roll farther. What should be checked instead?",
+    "explanation": "Movement explanations should focus on physical factors and fair-test conditions. Hint: What can physically affect motion?",
+    "structuredExplanation": {
+      "summary": "Movement explanations should focus on physical factors and fair-test conditions.",
+      "hint": "What can physically affect motion?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "push/release affects speed and distance",
-      "pushes never matter",
-      "size is the only factor",
-      "objects move without any interaction"
+      "physical features and test conditions",
+      "the colour name spelling",
+      "the child’s favourite colour",
+      "the time of lunch"
     ],
     "correct": 0,
-    "visual": "ball released gently"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-012",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "order fair movement test",
-    "question": "Order the test steps for situation 1.",
-    "explanation": "Change one factor, observe, then compare.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "Which object may tumble because of an irregular shape?",
+    "explanation": "An uneven rock can tumble instead of rolling smoothly. Hint: Irregular surface.",
+    "structuredExplanation": {
+      "summary": "An uneven rock can tumble instead of rolling smoothly.",
+      "hint": "Irregular surface."
+    },
     "printable": true,
-    "type": "order",
-    "items": [
-      "keep other factors the same",
-      "release the objects consistently",
-      "record movement",
-      "compare observations",
-      "choose the factor to change"
+    "type": "single",
+    "answers": [
+      "perfect ball",
+      "rock",
+      "marble",
+      "wheel"
     ],
-    "correct": [
-      "choose the factor to change",
-      "keep other factors the same",
-      "release the objects consistently",
-      "record movement",
-      "compare observations"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-013",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "link feature to movement",
-    "question": "Which part mainly allows the rolling suitcase to roll?",
-    "explanation": "Round wheels rotate against the floor.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "What factor is compared by same-size foam and rubber balls?",
+    "explanation": "The main difference is material. Hint: What changed?",
+    "structuredExplanation": {
+      "summary": "The main difference is material.",
+      "hint": "What changed?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "round wheels",
-      "colour",
-      "sticker",
-      "name"
+      "shape",
+      "name",
+      "material",
+      "size"
     ],
-    "correct": 0,
-    "visual": "🧳"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-014",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "describe orientation effect",
-    "question": "How does movement change when a different surface touches the floor?",
-    "explanation": "Orientation changes which surface contacts the floor.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "What factor is compared by two same-material wheels of different diameters?",
+    "explanation": "The wheels mainly differ in size. Hint: Diameter difference.",
+    "structuredExplanation": {
+      "summary": "The wheels mainly differ in size.",
+      "hint": "Diameter difference."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "curved side rolls; flat base rests",
-      "it becomes a new material",
-      "colour controls movement",
-      "nothing can change"
+      "material",
+      "colour",
+      "surface",
+      "size"
     ],
-    "correct": 0,
-    "visual": "🥫"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-015",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "identify factor",
-    "question": "Which factor is different?",
-    "explanation": "The description keeps the other features the same.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "Which statement is careful?",
+    "explanation": "The first statement stays within the evidence. Hint: Avoid “always”.",
+    "structuredExplanation": {
+      "summary": "The first statement stays within the evidence.",
+      "hint": "Avoid “always”."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "material",
-      "shape",
-      "colour",
-      "ramp"
+      "This wheel rolled farther in our test.",
+      "This wheel will always roll farther everywhere.",
+      "All wheels behave identically.",
+      "One result proves every object."
     ],
     "correct": 0,
-    "visual": "two same-sized round balls; one rubber and one cloth"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu02-t-016",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "interpret movement data",
-    "question": "Which interpretation matches the record?",
-    "explanation": "The interpretation uses the observed difference.",
+    "skill": "describe how size shape and material influence movement",
+    "question": "A beanbag and ball are dropped. The ball bounces; the beanbag does not. What likely matters?",
+    "explanation": "Material and structure affect how objects respond on impact. Hint: Think physical properties.",
+    "structuredExplanation": {
+      "summary": "Material and structure affect how objects respond on impact.",
+      "hint": "Think physical properties."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "movement differed and shape differed",
-      "colour caused the result",
-      "there was no difference",
-      "the result proves an always rule"
+      "who watches",
+      "material and shape",
+      "their names",
+      "the day"
     ],
-    "correct": 0,
-    "visual": "sphere rolls | cube slides"
-  },
-  {
-    "id": "ac9sfu02-t-017",
-    "curriculumCode": "AC9SFU02",
-    "bank": "test",
-    "skill": "predict movement from shape",
-    "question": "What is most likely after a gentle release?",
-    "explanation": "The contacting shape supports this movement.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "roll down the ramp",
-      "float upward",
-      "melt",
-      "grow"
-    ],
-    "correct": 0,
-    "visual": "● ramp"
-  },
-  {
-    "id": "ac9sfu02-t-018",
-    "curriculumCode": "AC9SFU02",
-    "bank": "test",
-    "skill": "improve comparison",
-    "question": "Why cannot this show one factor alone?",
-    "explanation": "A fair comparison changes one factor.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "drop height also differs; use the same drop height",
-      "the test is already fair",
-      "colour is the only issue",
-      "movement cannot be observed"
-    ],
-    "correct": 0,
-    "visual": "rubber ball high drop and cloth ball low drop"
-  },
-  {
-    "id": "ac9sfu02-t-019",
-    "curriculumCode": "AC9SFU02",
-    "bank": "test",
-    "skill": "classify movement",
-    "question": "Which grouping is most reasonable?",
-    "explanation": "The groups use observed movement.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "ball and can roll; book and block slide",
-      "all objects move the same",
-      "group only by colour",
-      "none can move"
-    ],
-    "correct": 0,
-    "visual": "⚽ 🥫 📕 ▭"
-  },
-  {
-    "id": "ac9sfu02-t-020",
-    "curriculumCode": "AC9SFU02",
-    "bank": "test",
-    "skill": "decide likely factor",
-    "question": "Which factor is better supported?",
-    "explanation": "Compare objects that share other features.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "shape is better supported than material",
-      "colour",
-      "name",
-      "time of day"
-    ],
-    "correct": 0,
-    "visual": "A sphere wood rolls; B cube wood slides; C sphere plastic rolls"
-  },
-  {
-    "id": "ac9sfu02-t-021",
-    "curriculumCode": "AC9SFU02",
-    "bank": "test",
-    "skill": "select fair-test plan",
-    "question": "Select the two correct parts of the plan.",
-    "explanation": "The plan changes one factor and records movement.",
-    "printable": true,
-    "type": "multiple",
-    "answers": [
-      "change size",
-      "keep material, shape, ramp and release",
-      "Record travel time",
-      "change every condition"
-    ],
-    "correct": [
-      0,
-      1,
-      2
-    ],
-    "visual": "small and large wooden balls"
-  },
-  {
-    "id": "ac9sfu02-t-022",
-    "curriculumCode": "AC9SFU02",
-    "bank": "test",
-    "skill": "compare paths",
-    "question": "Which path matches the shape?",
-    "explanation": "Shape can influence path.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "roll smoothly and straighter",
-      "must float",
-      "must stay still",
-      "colour decides"
-    ],
-    "correct": 0,
-    "visual": "● →"
-  },
-  {
-    "id": "ac9sfu02-t-023",
-    "curriculumCode": "AC9SFU02",
-    "bank": "test",
-    "skill": "recognise force influence",
-    "question": "Which statement is supported?",
-    "explanation": "The way an object is pushed or released can influence movement.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "stronger push can change movement",
-      "pushes never matter",
-      "size is the only factor",
-      "objects move without any interaction"
-    ],
-    "correct": 0,
-    "visual": "car pushed harder"
-  },
-  {
-    "id": "ac9sfu02-t-024",
-    "curriculumCode": "AC9SFU02",
-    "bank": "test",
-    "skill": "order fair movement test",
-    "question": "Order the test steps for situation 2.",
-    "explanation": "Change one factor, observe, then compare.",
-    "printable": true,
-    "type": "order",
-    "items": [
-      "keep other factors the same",
-      "release the objects consistently",
-      "record movement",
-      "compare observations",
-      "choose the factor to change"
-    ],
-    "correct": [
-      "choose the factor to change",
-      "keep other factors the same",
-      "release the objects consistently",
-      "record movement",
-      "compare observations"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

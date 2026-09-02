@@ -1,451 +1,419 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9sfi05-t-001",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "match medium to evidence",
-    "question": "Which record shares the frog-call rhythm most directly?",
-    "explanation": "The medium preserves the feature being communicated.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "After watching a pond for five minutes, which sentence most clearly reports what the group found?",
+    "explanation": "The sentence reports a direct observation from the pond watch. Hint: Choose what the group actually noticed.",
+    "structuredExplanation": {
+      "summary": "The sentence reports a direct observation from the pond watch.",
+      "hint": "Choose what the group actually noticed."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "a short audio recording",
-      "a blank envelope",
-      "an unrelated list",
-      "an unlabelled colour patch"
+      "Snails are my favourite.",
+      "Maybe it will rain.",
+      "Four snails were beside the pond.",
+      "I think snails will come later."
     ],
-    "correct": 0,
-    "visual": "🐸 ♪♪"
+    "correct": 2,
+    "visual": "🐌",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-002",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "complete prediction",
-    "question": "Turn “Maybe the rubber ball” into a clear prediction.",
-    "explanation": "A clear prediction names the object and expected outcome.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Which report is most precise?",
+    "explanation": "A specific count communicates the evidence clearly. Hint: Use the number.",
+    "structuredExplanation": {
+      "summary": "A specific count communicates the evidence clearly.",
+      "hint": "Use the number."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "I predict the rubber ball will bounce higher than the foam ball",
-      "Something might happen",
-      "The test is finished",
-      "The observation was nice"
+      "There were loads of ants.",
+      "Ants were everywhere maybe.",
+      "The log was interesting.",
+      "We counted 7 ants under the log."
     ],
-    "correct": 0,
-    "visual": "Maybe the rubber ball"
+    "correct": 3,
+    "visual": "🐜",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-003",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "respond to partner",
-    "question": "Partner report: “I counted five ants near crumbs.” Which response is scientific?",
-    "explanation": "A relevant question shows active listening.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Why show a tally chart while speaking?",
+    "explanation": "The visual can support the spoken explanation with the recorded data. Hint: Words and visuals can work together.",
+    "structuredExplanation": {
+      "summary": "The visual can support the spoken explanation with the recorded data.",
+      "hint": "Words and visuals can work together."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "Did you count for a set amount of time?",
-      "I was not listening",
-      "That cannot matter",
-      "Let us change the topic"
+      "It lets listeners see the evidence being explained.",
+      "It makes the result automatically correct.",
+      "It replaces observation.",
+      "It is only decoration."
     ],
     "correct": 0,
-    "visual": "I counted five ants near crumbs"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-004",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "state result",
-    "question": "Which sentence clearly reports the result?",
-    "explanation": "The sentence includes observation and comparison.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Which question best asks for evidence?",
+    "explanation": "The question asks for the recorded observation. Hint: Ask about the investigation.",
+    "structuredExplanation": {
+      "summary": "The question asks for the recorded observation.",
+      "hint": "Ask about the investigation."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The cube slid 40 cm and did not match the rolling prediction",
-      "The prediction must be correct",
-      "Something happened",
-      "The evidence should be hidden"
+      "Was recess fun?",
+      "How many birds did you count?",
+      "Do you like birds?",
+      "Which colour is nicest?"
     ],
-    "correct": 0,
-    "visual": "Prediction: cube rolls | Observation: slid 40 cm"
+    "correct": 1,
+    "visual": "🐦",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-005",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "label model",
-    "question": "Which addition helps viewers understand the flower model?",
-    "explanation": "Labels link model parts to observations.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Which response shows respectful science discussion?",
+    "explanation": "The first response challenges the idea by asking for evidence, not by attacking the person. Hint: Return to evidence.",
+    "structuredExplanation": {
+      "summary": "The first response challenges the idea by asking for evidence, not by attacking the person.",
+      "hint": "Return to evidence."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "arrows and accurate part labels",
-      "glitter over every feature",
-      "a secret code",
-      "a food title"
+      "Only I can be right.",
+      "Stop talking.",
+      "Can you show me the count that supports your idea?",
+      "Your idea is stupid."
     ],
-    "correct": 0,
-    "visual": "🌼"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-006",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "support claim with evidence",
-    "question": "Which sentence uses the record as evidence?",
-    "explanation": "Specific counts support the comparison.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "A child says, “The plant is happiest in sun.” Which follow-up is strongest?",
+    "explanation": "The question asks the child to connect the idea to evidence. Hint: What supports the claim?",
+    "structuredExplanation": {
+      "summary": "The question asks the child to connect the idea to evidence.",
+      "hint": "What supports the claim?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "Eight were counted in the morning and three at lunch",
-      "The first group is best",
-      "The result is obvious",
-      "Numbers are not needed"
+      "Is happiness green?",
+      "Do you like sunny days?",
+      "Should we just agree?",
+      "What did you observe that makes you think that?"
     ],
-    "correct": 0,
-    "visual": "morning birds 8 | lunch birds 3"
+    "correct": 3,
+    "visual": "🌱",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-007",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "choose visual display",
-    "question": "Which visual would share the data clearly?",
-    "explanation": "The display needs labels and the recorded values.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Which poster element is most important for sharing counts?",
+    "explanation": "A labelled chart makes the numerical observations understandable. Hint: Show the evidence.",
+    "structuredExplanation": {
+      "summary": "A labelled chart makes the numerical observations understandable.",
+      "hint": "Show the evidence."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "a labelled bar chart with centimetres",
-      "one unlabelled shape",
-      "a secret code",
-      "an opinion sentence only"
+      "a clear chart with labels",
+      "decorative stars only",
+      "a joke box",
+      "a list of names only"
     ],
     "correct": 0,
-    "visual": "tile 120 cm | carpet 45 cm | grass 30 cm"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-008",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "replace vague language",
-    "question": "Which sentence improves the vague report “The seed grew heaps”?",
-    "explanation": "Specific measures make the report trustworthy.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Which sentence clearly marks an idea rather than a direct observation?",
+    "explanation": "“I think” signals an interpretation or idea. Hint: Direct observations do not need guessing.",
+    "structuredExplanation": {
+      "summary": "“I think” signals an interpretation or idea.",
+      "hint": "Direct observations do not need guessing."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The shoot grew from 2 cm on Monday to 5 cm on Friday",
-      "It was amazing",
-      "Everyone liked it",
-      "A lot happened"
+      "The leaf had holes.",
+      "I think the shade may help the soil stay damp.",
+      "The soil felt damp.",
+      "We counted 4 worms."
     ],
-    "correct": 0,
-    "visual": "The seed grew heaps"
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-009",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "answer critical question honestly",
-    "question": "Which response is most honest about “smooth ramp made the car go farther”?",
-    "explanation": "Communicate both evidence and limitation.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "A report says “Our prediction matched.” What should come next?",
+    "explanation": "The comparison should be supported by the observed result. Hint: Evidence follows the claim.",
+    "structuredExplanation": {
+      "summary": "The comparison should be supported by the observed result.",
+      "hint": "Evidence follows the claim."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The car went farther on the smooth ramp, but push strength may also have differed",
-      "This proves the cause",
-      "No uncertainty exists",
-      "Change the records"
+      "a favourite-colour vote",
+      "a different experiment",
+      "the result showing how it matched",
+      "an unrelated photo"
     ],
-    "correct": 0,
-    "visual": "smooth ramp made the car go farther"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-010",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "share tool safety",
-    "question": "Which safety message belongs in an explanation of the magnifying glass?",
-    "explanation": "Safe instructions are part of clear communication.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Which sentence overclaims?",
+    "explanation": "Today’s observation cannot prove what all bees always do. Hint: Watch for absolute words.",
+    "structuredExplanation": {
+      "summary": "Today’s observation cannot prove what all bees always do.",
+      "hint": "Watch for absolute words."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "kept away from direct sunlight and eyes",
-      "taste the sample",
-      "run while using it",
-      "point it at the Sun"
+      "Yellow had 5 visits and white had 2.",
+      "Bees always choose yellow flowers.",
+      "The yellow count was higher.",
+      "We saw more bees on yellow flowers today."
     ],
-    "correct": 0,
-    "visual": "magnifying glass"
+    "correct": 1,
+    "visual": "🐝",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-011",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "identify report structure",
-    "question": "Which part begins this clear communication order?",
-    "explanation": "The first part prepares the audience.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Why listen to another group’s observation?",
+    "explanation": "Other observers may contribute useful information. Hint: Science can be collaborative.",
+    "structuredExplanation": {
+      "summary": "Other observers may contribute useful information.",
+      "hint": "Science can be collaborative."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "question first",
-      "the last part",
-      "an unrelated opinion",
-      "a hidden key"
+      "It may add evidence or a detail you missed.",
+      "Other groups cannot observe science.",
+      "Listening changes the data.",
+      "Only your group matters."
     ],
     "correct": 0,
-    "visual": "Question → Prediction → Observation → Result"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-012",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "sequence mini-presentation",
-    "question": "Order the presentation parts for test scene 1.",
-    "explanation": "A clear presentation follows the investigation sequence.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Which phrase best begins a prediction when sharing?",
+    "explanation": "“I think” can introduce an expectation before the result. Hint: Expectation language.",
+    "structuredExplanation": {
+      "summary": "“I think” can introduce an expectation before the result.",
+      "hint": "Expectation language."
+    },
     "printable": true,
-    "type": "order",
-    "items": [
-      "share the prediction",
-      "show the observation record",
-      "give the evidence-based result",
-      "invite questions",
-      "state the question"
+    "type": "single",
+    "answers": [
+      "We counted…",
+      "I think…",
+      "I saw…",
+      "The result was…"
     ],
-    "correct": [
-      "state the question",
-      "share the prediction",
-      "show the observation record",
-      "give the evidence-based result",
-      "invite questions"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-013",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "match medium to evidence",
-    "question": "Which record shares the moth-wing pattern most directly?",
-    "explanation": "The medium preserves the feature being communicated.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "What should you do if a classmate asks what “lots” means in your report?",
+    "explanation": "A specific count makes the shared observation clearer. Hint: Replace vague quantity with evidence.",
+    "structuredExplanation": {
+      "summary": "A specific count makes the shared observation clearer.",
+      "hint": "Replace vague quantity with evidence."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "a labelled close-up photograph",
-      "a blank envelope",
-      "an unrelated list",
-      "an unlabelled colour patch"
+      "Change the topic.",
+      "Tell them not to ask.",
+      "Give the actual count if you recorded one.",
+      "Say it means whatever you want."
     ],
-    "correct": 0,
-    "visual": "🦋 🔍"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-014",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "complete prediction",
-    "question": "Turn “Maybe the tile” into a clear prediction.",
-    "explanation": "A clear prediction names the object and expected outcome.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Which statement combines evidence and an idea carefully?",
+    "explanation": "The first statement uses the observation while keeping the interpretation appropriately cautious. Hint: Evidence + “may”.",
+    "structuredExplanation": {
+      "summary": "The first statement uses the observation while keeping the interpretation appropriately cautious.",
+      "hint": "Evidence + “may”."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "I predict the car will travel farther on tile than carpet",
-      "Something might happen",
-      "The test is finished",
-      "The observation was nice"
+      "Worms always live only in damp soil.",
+      "Damp soil creates worms.",
+      "The counts do not matter.",
+      "We counted 6 worms in damp soil and 1 in dry soil, so worms may be easier to find in damp soil here."
     ],
-    "correct": 0,
-    "visual": "Maybe the tile"
+    "correct": 3,
+    "visual": "🪱",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-015",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "respond to partner",
-    "question": "Partner report: “The seedling grew taller.” Which response is scientific?",
-    "explanation": "A relevant question shows active listening.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Which way best shares change over time?",
+    "explanation": "Ordered dated records show how the observation changed over time. Hint: Sequence the evidence.",
+    "structuredExplanation": {
+      "summary": "Ordered dated records show how the observation changed over time.",
+      "hint": "Sequence the evidence."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "What were the two measured heights?",
-      "I was not listening",
-      "That cannot matter",
-      "Let us change the topic"
+      "dated pictures in order",
+      "one random picture",
+      "an unrelated story",
+      "a blank chart"
     ],
     "correct": 0,
-    "visual": "The seedling grew taller"
+    "visual": "🌱",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi05-t-016",
     "curriculumCode": "AC9SFI05",
     "bank": "test",
-    "skill": "state result",
-    "question": "Which sentence clearly reports the result?",
-    "explanation": "The sentence includes observation and comparison.",
+    "skill": "share science questions predictions observations and ideas",
+    "question": "Which closing is strongest?",
+    "explanation": "The conclusion reports the evidence honestly and proposes a sensible next step. Hint: Unexpected results can lead to new tests.",
+    "structuredExplanation": {
+      "summary": "The conclusion reports the evidence honestly and proposes a sensible next step.",
+      "hint": "Unexpected results can lead to new tests."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "Four birds were observed, two more than predicted",
-      "The prediction must be correct",
-      "Something happened",
-      "The evidence should be hidden"
+      "Our prediction is still correct because we like it.",
+      "Our result did not support the prediction, and we want to test the idea again with another fair observation.",
+      "We were wrong so science failed.",
+      "We will hide the result."
     ],
-    "correct": 0,
-    "visual": "Prediction: 2 birds | Observation: 4 birds"
-  },
-  {
-    "id": "ac9sfi05-t-017",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "label model",
-    "question": "Which addition helps viewers understand the toy car model?",
-    "explanation": "Labels link model parts to observations.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "wheel labels and a movement arrow",
-      "glitter over every feature",
-      "a secret code",
-      "a food title"
-    ],
-    "correct": 0,
-    "visual": "🚗 →"
-  },
-  {
-    "id": "ac9sfi05-t-018",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "support claim with evidence",
-    "question": "Which sentence uses the record as evidence?",
-    "explanation": "Specific counts support the comparison.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Six smooth stones and two rough stones were recorded",
-      "The first group is best",
-      "The result is obvious",
-      "Numbers are not needed"
-    ],
-    "correct": 0,
-    "visual": "smooth stones 6 | rough stones 2"
-  },
-  {
-    "id": "ac9sfi05-t-019",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "choose visual display",
-    "question": "Which visual would share the data clearly?",
-    "explanation": "The display needs labels and the recorded values.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "dated drawings and height labels",
-      "one unlabelled shape",
-      "a secret code",
-      "an opinion sentence only"
-    ],
-    "correct": 0,
-    "visual": "Monday 2 cm | Friday 5 cm"
-  },
-  {
-    "id": "ac9sfi05-t-020",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "replace vague language",
-    "question": "Which sentence improves the vague report “The ball went far”?",
-    "explanation": "Specific measures make the report trustworthy.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The car travelled 120 cm on tile",
-      "It was amazing",
-      "Everyone liked it",
-      "A lot happened"
-    ],
-    "correct": 0,
-    "visual": "The ball went far"
-  },
-  {
-    "id": "ac9sfi05-t-021",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "answer critical question honestly",
-    "question": "Which response is most honest about “window plant grew more”?",
-    "explanation": "Communicate both evidence and limitation.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The plant grew more near the window, but other conditions may have differed",
-      "This proves the cause",
-      "No uncertainty exists",
-      "Change the records"
-    ],
-    "correct": 0,
-    "visual": "window plant grew more"
-  },
-  {
-    "id": "ac9sfi05-t-022",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "share tool safety",
-    "question": "Which safety message belongs in an explanation of the binoculars?",
-    "explanation": "Safe instructions are part of clear communication.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "used while standing still and viewing from a safe place",
-      "taste the sample",
-      "run while using it",
-      "point it at the Sun"
-    ],
-    "correct": 0,
-    "visual": "binoculars"
-  },
-  {
-    "id": "ac9sfi05-t-023",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "identify report structure",
-    "question": "Which part begins this clear communication order?",
-    "explanation": "The first part prepares the audience.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "title first",
-      "the last part",
-      "an unrelated opinion",
-      "a hidden key"
-    ],
-    "correct": 0,
-    "visual": "Title → Labels → Evidence → Conclusion"
-  },
-  {
-    "id": "ac9sfi05-t-024",
-    "curriculumCode": "AC9SFI05",
-    "bank": "test",
-    "skill": "sequence mini-presentation",
-    "question": "Order the presentation parts for test scene 2.",
-    "explanation": "A clear presentation follows the investigation sequence.",
-    "printable": true,
-    "type": "order",
-    "items": [
-      "share the prediction",
-      "show the observation record",
-      "give the evidence-based result",
-      "invite questions",
-      "state the question"
-    ],
-    "correct": [
-      "state the question",
-      "share the prediction",
-      "show the observation record",
-      "give the evidence-based result",
-      "invite questions"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

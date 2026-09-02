@@ -1,453 +1,419 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9sfu01-t-001",
     "curriculumCode": "AC9SFU01",
     "bank": "test",
-    "skill": "identify external pair",
-    "question": "Which pair contains only visible external features of the fish?",
-    "explanation": "Both correct features are on the outside.",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which animal has feathers?",
+    "explanation": "A magpie has feathers. Hint: Look at body covering.",
+    "structuredExplanation": {
+      "summary": "A magpie has feathers.",
+      "hint": "Look at body covering."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "fins and scales",
-      "lungs and bones",
-      "memory and hunger",
-      "blood and stomach"
+      "fish",
+      "lizard",
+      "magpie",
+      "cat"
     ],
-    "correct": 0,
-    "visual": "🐟"
+    "correct": 2,
+    "visual": "🐦",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu01-t-002",
     "curriculumCode": "AC9SFU01",
     "bank": "test",
-    "skill": "name plant parts",
-    "question": "Select two visible parts of the seedling.",
-    "explanation": "Both parts can be observed.",
-    "printable": true,
-    "type": "multiple",
-    "answers": [
-      "roots",
-      "leaves",
-      "heartbeat",
-      "thoughts"
-    ],
-    "correct": [
-      0,
-      1
-    ],
-    "visual": "🌱 roots ↓ | leaves ↑"
-  },
-  {
-    "id": "ac9sfu01-t-003",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "select grouping rule",
-    "question": "Which rule explains the grouping?",
-    "explanation": "The rule uses a visible feature.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "visible legs / no visible legs",
-      "alive / not alive",
-      "friendly / unfriendly",
-      "fast / slow"
-    ],
-    "correct": 0,
-    "visual": "🕷️ 🪲 | 🐌 🪱"
-  },
-  {
-    "id": "ac9sfu01-t-004",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "find wrong member",
-    "question": "Which item does not follow the group rule?",
-    "explanation": "The item lacks the named feature.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "mouse",
-      "first item",
-      "second item",
-      "all follow"
-    ],
-    "correct": 0,
-    "visual": "wings: bat, eagle, mouse"
-  },
-  {
-    "id": "ac9sfu01-t-005",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "compare features",
-    "question": "Which comparison is supported?",
-    "explanation": "The comparison uses visible features.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "shape and edge differ",
-      "their thoughts differ",
-      "one is happier",
-      "their hidden organs differ"
-    ],
-    "correct": 0,
-    "visual": "A: long smooth leaf\nB: round jagged leaf"
-  },
-  {
-    "id": "ac9sfu01-t-006",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "use close-up evidence",
-    "question": "Which observation is supported?",
-    "explanation": "The close-up shows surface detail.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The surface has tiny overlapping scales",
-      "it likes the night",
-      "it is hungry",
-      "it remembers flowers"
-    ],
-    "correct": 0,
-    "visual": "🦋 🔍"
-  },
-  {
-    "id": "ac9sfu01-t-007",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "choose hierarchical sort",
-    "question": "Which plan sorts the whole collection using external features?",
-    "explanation": "The plan uses successive observable rules.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "plants / animals, then flowers / no flowers and fur / no fur",
-      "happy / sad, then favourite food",
-      "old / young, then memory",
-      "fast / slow, then thoughts"
-    ],
-    "correct": 0,
-    "visual": "🌹 🌲 🐔 🐢 🍓 🐇"
-  },
-  {
-    "id": "ac9sfu01-t-008",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "overlapping classification",
-    "question": "What is a fair way to show the item belongs to both groups?",
-    "explanation": "Overlapping groups show both true features.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "place it in overlapping fur and bill groups",
-      "force it into neither group",
-      "erase one feature",
-      "choose by colour only"
-    ],
-    "correct": 0,
-    "visual": "🦫"
-  },
-  {
-    "id": "ac9sfu01-t-009",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "find similarity",
-    "question": "Which visible feature can both share?",
-    "explanation": "The feature can be seen on the outside.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "eyes",
-      "memory",
-      "heartbeat",
-      "hunger"
-    ],
-    "correct": 0,
-    "visual": "duck and child"
-  },
-  {
-    "id": "ac9sfu01-t-010",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "identify plant food part",
-    "question": "Which part of the plant is the carrot?",
-    "explanation": "The carrot is a root.",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which plant part is a strawberry?",
+    "explanation": "A strawberry is a fruit. Hint: Which plant part contains seeds?",
+    "structuredExplanation": {
+      "summary": "A strawberry is a fruit.",
+      "hint": "Which plant part contains seeds?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
       "root",
       "leaf",
-      "flower",
-      "bark"
+      "stem",
+      "fruit"
+    ],
+    "correct": 3,
+    "visual": "🍓",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9sfu01-t-003",
+    "curriculumCode": "AC9SFU01",
+    "bank": "test",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which pair both have fur?",
+    "explanation": "Dogs and rabbits both have fur. Hint: Compare coverings.",
+    "structuredExplanation": {
+      "summary": "Dogs and rabbits both have fur.",
+      "hint": "Compare coverings."
+    },
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "dog and rabbit",
+      "duck and fish",
+      "snake and frog",
+      "bird and lizard"
     ],
     "correct": 0,
-    "visual": "🥕"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9sfu01-t-004",
+    "curriculumCode": "AC9SFU01",
+    "bank": "test",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which is an external feature?",
+    "explanation": "Legs can be seen and counted from the outside. Hint: Choose what is visible.",
+    "structuredExplanation": {
+      "summary": "Legs can be seen and counted from the outside.",
+      "hint": "Choose what is visible."
+    },
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "heartbeat",
+      "number of legs",
+      "hunger",
+      "thoughts"
+    ],
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9sfu01-t-005",
+    "curriculumCode": "AC9SFU01",
+    "bank": "test",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which rule best sorts animal pictures scientifically?",
+    "explanation": "Wings are an observable external feature. Hint: Use a feature, not an opinion.",
+    "structuredExplanation": {
+      "summary": "Wings are an observable external feature.",
+      "hint": "Use a feature, not an opinion."
+    },
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "good pet / bad pet",
+      "happy / sad",
+      "has wings / no wings",
+      "cute / not cute"
+    ],
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9sfu01-t-006",
+    "curriculumCode": "AC9SFU01",
+    "bank": "test",
+    "skill": "observe and group plant and animal external features",
+    "question": "A bat belongs in which two groups?",
+    "explanation": "Bats have fur and wings. Hint: Find both visible features.",
+    "structuredExplanation": {
+      "summary": "Bats have fur and wings.",
+      "hint": "Find both visible features."
+    },
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "scales and fins",
+      "feathers and beak",
+      "shell and six legs",
+      "fur and wings"
+    ],
+    "correct": 3,
+    "visual": "🦇",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9sfu01-t-007",
+    "curriculumCode": "AC9SFU01",
+    "bank": "test",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which plant part is spinach?",
+    "explanation": "Spinach is a leafy part of the plant. Hint: Which part do we eat?",
+    "structuredExplanation": {
+      "summary": "Spinach is a leafy part of the plant.",
+      "hint": "Which part do we eat?"
+    },
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "leaf",
+      "root",
+      "fruit",
+      "flower"
+    ],
+    "correct": 0,
+    "visual": "🥬",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9sfu01-t-008",
+    "curriculumCode": "AC9SFU01",
+    "bank": "test",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which tool helps inspect tiny surface details?",
+    "explanation": "A magnifying glass makes small details easier to see. Hint: Close observation tool.",
+    "structuredExplanation": {
+      "summary": "A magnifying glass makes small details easier to see.",
+      "hint": "Close observation tool."
+    },
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "paintbrush",
+      "magnifying glass",
+      "bucket",
+      "spoon"
+    ],
+    "correct": 1,
+    "visual": "🔍",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9sfu01-t-009",
+    "curriculumCode": "AC9SFU01",
+    "bank": "test",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which statement compares bird and fish accurately?",
+    "explanation": "The body coverings differ visibly. Hint: Compare external coverings.",
+    "structuredExplanation": {
+      "summary": "The body coverings differ visibly.",
+      "hint": "Compare external coverings."
+    },
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "Fish have feathers.",
+      "Birds have fins instead of wings.",
+      "Birds have feathers; fish have scales.",
+      "Both always have fur."
+    ],
+    "correct": 2,
+    "visual": "🐦🐟",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9sfu01-t-010",
+    "curriculumCode": "AC9SFU01",
+    "bank": "test",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which item does not belong in “four legs”?",
+    "explanation": "A duck has two legs. Hint: Count visible legs.",
+    "structuredExplanation": {
+      "summary": "A duck has two legs.",
+      "hint": "Count visible legs."
+    },
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "dog",
+      "cat",
+      "duck",
+      "rabbit"
+    ],
+    "correct": 2,
+    "visual": "🐇🐕🐈🦆",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu01-t-011",
     "curriculumCode": "AC9SFU01",
     "bank": "test",
-    "skill": "state common pattern",
-    "question": "Which pattern is supported?",
-    "explanation": "The shared features appear in every example.",
+    "skill": "observe and group plant and animal external features",
+    "question": "Why can one animal appear in two groups?",
+    "explanation": "An animal may satisfy multiple feature rules. Hint: Think bat: fur and wings.",
+    "structuredExplanation": {
+      "summary": "An animal may satisfy multiple feature rules.",
+      "hint": "Think bat: fur and wings."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "fins and scales are shared",
-      "all are the same colour",
-      "all are the same size",
-      "all behave identically"
+      "It can have more than one visible feature.",
+      "Groups have no rules.",
+      "The animal changes body parts.",
+      "Only mistakes overlap."
     ],
     "correct": 0,
-    "visual": "three fish all have fins and scales but different colours"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu01-t-012",
     "curriculumCode": "AC9SFU01",
     "bank": "test",
-    "skill": "sequence a feature sort",
-    "question": "Order the steps for sorting the collection in test 1.",
-    "explanation": "A consistent sort starts with observation and a clear rule.",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which statement is an observation?",
+    "explanation": "Hardness is an observable property of the shell. Hint: Choose what can be checked.",
+    "structuredExplanation": {
+      "summary": "Hardness is an observable property of the shell.",
+      "hint": "Choose what can be checked."
+    },
     "printable": true,
-    "type": "order",
-    "items": [
-      "choose one visible feature rule",
-      "place every item using the rule",
-      "check that each item fits",
-      "look closely at external features"
+    "type": "single",
+    "answers": [
+      "The shell wants water.",
+      "The shell has a hard outside.",
+      "The shell is beautiful.",
+      "The shell is lucky."
     ],
-    "correct": [
-      "look closely at external features",
-      "choose one visible feature rule",
-      "place every item using the rule",
-      "check that each item fits"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 1,
+    "visual": "🐚",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu01-t-013",
     "curriculumCode": "AC9SFU01",
     "bank": "test",
-    "skill": "identify external pair",
-    "question": "Which pair contains only visible external features of the bird?",
-    "explanation": "Both correct features are on the outside.",
+    "skill": "observe and group plant and animal external features",
+    "question": "A child groups leaves by colour when the task is to compare edges. What should they do?",
+    "explanation": "The grouping rule should match the feature being investigated. Hint: Follow the question focus.",
+    "structuredExplanation": {
+      "summary": "The grouping rule should match the feature being investigated.",
+      "hint": "Follow the question focus."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "feathers and beak",
-      "heart and thoughts",
-      "memory and hunger",
-      "blood and stomach"
+      "Sort by favourite.",
+      "Do not sort.",
+      "Use smooth edge / jagged edge instead.",
+      "Keep colour because any rule fits any question."
     ],
-    "correct": 0,
-    "visual": "🐦"
+    "correct": 2,
+    "visual": "🍃",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu01-t-014",
     "curriculumCode": "AC9SFU01",
     "bank": "test",
-    "skill": "name plant parts",
-    "question": "Select two visible parts of the flower.",
-    "explanation": "Both parts can be observed.",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which pair could be grouped by “has scales”?",
+    "explanation": "Fish and snakes have scales. Hint: Compare body coverings.",
+    "structuredExplanation": {
+      "summary": "Fish and snakes have scales.",
+      "hint": "Compare body coverings."
+    },
     "printable": true,
-    "type": "multiple",
+    "type": "single",
     "answers": [
-      "stem",
-      "petals",
-      "heartbeat",
-      "thoughts"
+      "rabbit and cat",
+      "duck and magpie",
+      "dog and human",
+      "fish and snake"
     ],
-    "correct": [
-      0,
-      1
-    ],
-    "visual": "🌼"
+    "correct": 3,
+    "visual": "🐟🐍",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu01-t-015",
     "curriculumCode": "AC9SFU01",
     "bank": "test",
-    "skill": "select grouping rule",
-    "question": "Which rule explains the grouping?",
-    "explanation": "The rule uses a visible feature.",
+    "skill": "observe and group plant and animal external features",
+    "question": "Humans and dogs both have:",
+    "explanation": "Both have visible eyes. Hint: Find a shared external feature.",
+    "structuredExplanation": {
+      "summary": "Both have visible eyes.",
+      "hint": "Find a shared external feature."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "fur / no fur",
-      "alive / not alive",
-      "friendly / unfriendly",
-      "fast / slow"
+      "eyes",
+      "feathers",
+      "fins",
+      "scales"
     ],
     "correct": 0,
-    "visual": "🐈 🐇 | 🦆 🐟"
+    "visual": "🧒🐕",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu01-t-016",
     "curriculumCode": "AC9SFU01",
     "bank": "test",
-    "skill": "find wrong member",
-    "question": "Which item does not follow the group rule?",
-    "explanation": "The item lacks the named feature.",
+    "skill": "observe and group plant and animal external features",
+    "question": "Which conclusion is safest after looking at three pictured animals with wings?",
+    "explanation": "The first statement stays within the observed set. Hint: Do not generalise beyond the evidence.",
+    "structuredExplanation": {
+      "summary": "The first statement stays within the observed set.",
+      "hint": "Do not generalise beyond the evidence."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "lizard",
-      "first item",
-      "second item",
-      "all follow"
+      "Wings prove the animals are birds.",
+      "All three pictured animals have wings.",
+      "Every animal has wings.",
+      "Winged animals are always small."
     ],
-    "correct": 0,
-    "visual": "fur: cat, rabbit, lizard"
-  },
-  {
-    "id": "ac9sfu01-t-017",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "compare features",
-    "question": "Which comparison is supported?",
-    "explanation": "The comparison uses visible features.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "colour and petal number differ",
-      "their thoughts differ",
-      "one is happier",
-      "their hidden organs differ"
-    ],
-    "correct": 0,
-    "visual": "A: red 5-petal flower\nB: yellow many-petal flower"
-  },
-  {
-    "id": "ac9sfu01-t-018",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "use close-up evidence",
-    "question": "Which observation is supported?",
-    "explanation": "The close-up shows surface detail.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The surface has tiny veins",
-      "it likes the night",
-      "it is hungry",
-      "it remembers flowers"
-    ],
-    "correct": 0,
-    "visual": "🌿 🔍"
-  },
-  {
-    "id": "ac9sfu01-t-019",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "choose hierarchical sort",
-    "question": "Which plan sorts the whole collection using external features?",
-    "explanation": "The plan uses successive observable rules.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "plants / animals, then broad / narrow leaves and fur / no fur",
-      "happy / sad, then favourite food",
-      "old / young, then memory",
-      "fast / slow, then thoughts"
-    ],
-    "correct": 0,
-    "visual": "🌿 🌱 🐈 🦆 🍊 🐟"
-  },
-  {
-    "id": "ac9sfu01-t-020",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "overlapping classification",
-    "question": "What is a fair way to show the item belongs to both groups?",
-    "explanation": "Overlapping groups show both true features.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "place it in overlapping fur and wing groups",
-      "force it into neither group",
-      "erase one feature",
-      "choose by colour only"
-    ],
-    "correct": 0,
-    "visual": "🦇"
-  },
-  {
-    "id": "ac9sfu01-t-021",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "find similarity",
-    "question": "Which visible feature can both share?",
-    "explanation": "The feature can be seen on the outside.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "fur",
-      "memory",
-      "heartbeat",
-      "hunger"
-    ],
-    "correct": 0,
-    "visual": "cat and dog"
-  },
-  {
-    "id": "ac9sfu01-t-022",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "identify plant food part",
-    "question": "Which part of the plant is the apple?",
-    "explanation": "The apple is a fruit.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "fruit",
-      "leaf",
-      "flower",
-      "bark"
-    ],
-    "correct": 0,
-    "visual": "🍎"
-  },
-  {
-    "id": "ac9sfu01-t-023",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "state common pattern",
-    "question": "Which pattern is supported?",
-    "explanation": "The shared features appear in every example.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "feathers and beaks are shared",
-      "all are the same colour",
-      "all are the same size",
-      "all behave identically"
-    ],
-    "correct": 0,
-    "visual": "three birds all have feathers and beaks but different sizes"
-  },
-  {
-    "id": "ac9sfu01-t-024",
-    "curriculumCode": "AC9SFU01",
-    "bank": "test",
-    "skill": "sequence a feature sort",
-    "question": "Order the steps for sorting the collection in test 2.",
-    "explanation": "A consistent sort starts with observation and a clear rule.",
-    "printable": true,
-    "type": "order",
-    "items": [
-      "choose one visible feature rule",
-      "place every item using the rule",
-      "check that each item fits",
-      "look closely at external features"
-    ],
-    "correct": [
-      "look closely at external features",
-      "choose one visible feature rule",
-      "place every item using the rule",
-      "check that each item fits"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

@@ -1,447 +1,419 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9sfi04-t-001",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "select observation",
-    "question": "Before: “metal spoon will feel colder.” After: “metal spoon felt colder.” Which is the observation?",
-    "explanation": "The observation reports what was noticed after the test.",
+    "skill": "compare observations with predictions",
+    "question": "Prediction: “More birds will visit the seed feeder.” Result: seed 8 visits, fruit 3 visits. What is the best conclusion?",
+    "explanation": "Eight is more than three, so the observed result matches the predicted comparison. Hint: Compare the counts.",
+    "structuredExplanation": {
+      "summary": "Eight is more than three, so the observed result matches the predicted comparison.",
+      "hint": "Compare the counts."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "metal spoon felt colder",
-      "metal spoon will feel colder",
-      "Both happened before the test",
-      "Neither is a science statement"
+      "The feeders had equal visits.",
+      "No result was recorded.",
+      "The prediction was supported.",
+      "The prediction was not supported."
     ],
-    "correct": 0,
-    "visual": "BEFORE: metal spoon will feel colder\nAFTER: metal spoon felt colder"
+    "correct": 2,
+    "visual": "🐦",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-002",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "compare categories",
-    "question": "Prediction: red and yellow leaves. Observation: red, yellow and brown leaves. Which summary is accurate?",
-    "explanation": "Compare which categories appear in each record.",
+    "skill": "compare observations with predictions",
+    "question": "A child predicted the black paper would feel warmer, but both papers felt the same. What happened?",
+    "explanation": "The expected difference was not observed. Hint: Did one feel warmer?",
+    "structuredExplanation": {
+      "summary": "The expected difference was not observed.",
+      "hint": "Did one feel warmer?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "Red and yellow matched; brown was unexpected",
-      "Everything matched",
-      "Nothing was observed",
-      "The prediction should be changed"
+      "The prediction was not supported.",
+      "Black paper proved warmer forever.",
+      "There was no observation.",
+      "The prediction was supported."
     ],
     "correct": 0,
-    "visual": "P: red and yellow leaves\nO: red, yellow and brown leaves"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-003",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "honest result sentence",
-    "question": "Predicted: boat floats 1 minute. Observed: sank after 20 seconds. Which sentence is honest?",
-    "explanation": "The original records must stay unchanged.",
+    "skill": "compare observations with predictions",
+    "question": "Why keep a prediction written before the test?",
+    "explanation": "The original wording preserves what was expected before evidence was known. Hint: Keep the expectation unchanged.",
+    "structuredExplanation": {
+      "summary": "The original wording preserves what was expected before evidence was known.",
+      "hint": "Keep the expectation unchanged."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The observation did not match; it sank sooner",
-      "Change the result to match",
-      "The prediction is always correct",
-      "No comparison can be made"
+      "So it can be compared honestly with the later observation.",
+      "So it can be edited to match later.",
+      "So results are unnecessary.",
+      "So it becomes a fact."
     ],
     "correct": 0,
-    "visual": "P: boat floats 1 minute | O: sank after 20 seconds"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-004",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "same and different",
-    "question": "Prediction: cone roll straight. Observation: rolled in a curved path. What was the comparison?",
-    "explanation": "One feature can match while another differs.",
+    "skill": "compare observations with predictions",
+    "question": "Prediction: 2 worms. Observation: 5 worms. Which statement is correct?",
+    "explanation": "Five is three more than two. Hint: Compare observed with predicted.",
+    "structuredExplanation": {
+      "summary": "Five is three more than two.",
+      "hint": "Compare observed with predicted."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "rolling matched but the path differed",
-      "all details matched",
-      "no details matched",
-      "the observation happened first"
+      "The observation should be changed to two.",
+      "Three more worms were observed than predicted.",
+      "Three fewer were observed.",
+      "The numbers matched."
     ],
-    "correct": 0,
-    "visual": "P → cone roll straight\nO → rolled in a curved path"
+    "correct": 1,
+    "visual": "🪱",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-005",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "exact table matches",
-    "question": "Which rows match exactly?",
-    "explanation": "Exact matches have the same before and after entry.",
+    "skill": "compare observations with predictions",
+    "question": "Which conclusion is most careful after one matching result?",
+    "explanation": "A single result supports the prediction only within the evidence collected. Hint: Avoid “always”.",
+    "structuredExplanation": {
+      "summary": "A single result supports the prediction only within the evidence collected.",
+      "hint": "Avoid “always”."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "A and C",
-      "A only",
-      "B only",
-      "all rows"
+      "Every future test must match.",
+      "No more evidence is useful.",
+      "The observation supported our prediction in this test.",
+      "The prediction is proven for all time."
     ],
-    "correct": 0,
-    "visual": "A 2→2 | B 3→1 | C 0→0"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-006",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "missing observation",
-    "question": "Note: “The car moved.” Can the class decide whether the prediction matched?",
-    "explanation": "A clear comparison needs specific evidence.",
+    "skill": "compare observations with predictions",
+    "question": "Prediction: “The cotton ball will absorb more water.” Result: cotton 6 drops, sponge 12 drops.",
+    "explanation": "The higher observed absorption was for the sponge, not cotton. Hint: Which material had the larger count?",
+    "structuredExplanation": {
+      "summary": "The higher observed absorption was for the sponge, not cotton.",
+      "hint": "Which material had the larger count?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "No, the record is missing tile and carpet distances",
-      "Yes, the note proves a match",
-      "Yes, movement always matches",
-      "Erase the prediction"
+      "Supported; cotton was tested.",
+      "Supported because cotton is soft.",
+      "No comparison is possible.",
+      "Not supported; the sponge absorbed more."
     ],
-    "correct": 0,
-    "visual": "note: The car moved"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-007",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "numerical comparison",
-    "question": "predicted 5 birds, observed 7. How does the observation compare?",
-    "explanation": "Subtract the two recorded counts.",
+    "skill": "compare observations with predictions",
+    "question": "A prediction said both plants would grow the same amount. Plant A grew 3 cm; Plant B grew 3 cm.",
+    "explanation": "The observed growth amounts are equal, matching the prediction. Hint: Same or different?",
+    "structuredExplanation": {
+      "summary": "The observed growth amounts are equal, matching the prediction.",
+      "hint": "Same or different?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "2 more than predicted",
-      "the same",
-      "no observation",
-      "the prediction occurred later"
+      "The prediction was supported.",
+      "The prediction was not supported.",
+      "Plant A grew more.",
+      "Plant B grew more."
     ],
     "correct": 0,
-    "visual": "predicted 5 birds, observed 7"
+    "visual": "🌱",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-008",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "use dated prediction",
-    "question": "Prediction card: roll | Memory: slide | Observation: slide. Which comparison should be recorded?",
-    "explanation": "Use the record made before the test.",
+    "skill": "compare observations with predictions",
+    "question": "What should you do if the observation surprises you?",
+    "explanation": "Unexpected evidence is still evidence and can guide further thinking. Hint: Science records what happened.",
+    "structuredExplanation": {
+      "summary": "Unexpected evidence is still evidence and can guide further thinking.",
+      "hint": "Science records what happened."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The written prediction did not match",
-      "Memory replaces the card",
-      "Change the observation",
-      "Hide the old prediction"
+      "Say the test did not happen.",
+      "Record it honestly and think about what it means.",
+      "Hide it.",
+      "Change it to the predicted result."
     ],
-    "correct": 0,
-    "visual": "Prediction card: roll | Memory: slide | Observation: slide"
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-009",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "use repeated evidence",
-    "question": "What does this repeated record support?",
-    "explanation": "Repeated observations strengthen the comparison.",
+    "skill": "compare observations with predictions",
+    "question": "Prediction: “The bigger wheel will roll farther.” Result: small wheel 120 cm, big wheel 80 cm.",
+    "explanation": "The smaller wheel travelled farther in this test, opposite to the prediction. Hint: Which wheel actually went farther?",
+    "structuredExplanation": {
+      "summary": "The smaller wheel travelled farther in this test, opposite to the prediction.",
+      "hint": "Which wheel actually went farther?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The repeated result contradicts the prediction",
-      "One result should be erased",
-      "The prediction caused it",
-      "No pattern can be seen"
+      "The wheels travelled equally.",
+      "The result proves size never matters.",
+      "The prediction was not supported.",
+      "The prediction was supported."
     ],
-    "correct": 0,
-    "visual": "three trials all show the small ball higher"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-010",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "choose next question",
-    "question": "Which question follows from the unexpected brown leaf?",
-    "explanation": "A useful next question builds from evidence.",
+    "skill": "compare observations with predictions",
+    "question": "Which is an observation rather than a prediction?",
+    "explanation": "The second sentence reports a completed result. Hint: Which event already happened?",
+    "structuredExplanation": {
+      "summary": "The second sentence reports a completed result.",
+      "hint": "Which event already happened?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "What conditions made the leaf brown?",
-      "Can we ignore it?",
-      "Which result is prettiest?",
-      "Should the prediction be rewritten?"
+      "The leaf dried by lunchtime.",
+      "The leaf may become brown.",
+      "I expect the sun to warm it.",
+      "I think the leaf will dry."
     ],
     "correct": 0,
-    "visual": "unexpected brown leaf"
+    "visual": "🍃",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-011",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "label comparison",
-    "question": "Which label belongs beside the pair?",
-    "explanation": "The label directly compares the records.",
+    "skill": "compare observations with predictions",
+    "question": "Why is “not supported” often better than “wrong forever”?",
+    "explanation": "A result may fail to support a prediction without settling every future situation. Hint: Limit the conclusion to the evidence.",
+    "structuredExplanation": {
+      "summary": "A result may fail to support a prediction without settling every future situation.",
+      "hint": "Limit the conclusion to the evidence."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "matched",
-      "prediction only",
-      "observation missing",
-      "unsafe"
+      "It describes what this evidence showed without claiming too much.",
+      "Predictions cannot be wrong.",
+      "Evidence never matters.",
+      "Forever claims are always scientific."
     ],
     "correct": 0,
-    "visual": "Prediction: 2 birds; Observation: 2 birds"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-012",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "order comparison process",
-    "question": "Order the comparison steps for test situation 1.",
-    "explanation": "Compare the original records in order.",
+    "skill": "compare observations with predictions",
+    "question": "Prediction: 4 flowers open. Observation: 1 flower open.",
+    "explanation": "One is three fewer than four. Hint: Compare the numbers.",
+    "structuredExplanation": {
+      "summary": "One is three fewer than four.",
+      "hint": "Compare the numbers."
+    },
     "printable": true,
-    "type": "order",
-    "items": [
-      "read the recorded observation",
-      "notice what is the same and different",
-      "state whether it matched",
-      "read the original prediction"
+    "type": "single",
+    "answers": [
+      "Four flowers were observed.",
+      "Three fewer flowers opened than predicted.",
+      "Three more opened.",
+      "The counts matched."
     ],
-    "correct": [
-      "read the original prediction",
-      "read the recorded observation",
-      "notice what is the same and different",
-      "state whether it matched"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 1,
+    "visual": "🌼",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-013",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "select observation",
-    "question": "Before: “foam ball will bounce high.” After: “foam ball did not bounce.” Which is the observation?",
-    "explanation": "The observation reports what was noticed after the test.",
+    "skill": "compare observations with predictions",
+    "question": "Which action makes the comparison unfair?",
+    "explanation": "Changing the prediction after the result hides what was actually expected. Hint: Do not rewrite the expectation.",
+    "structuredExplanation": {
+      "summary": "Changing the prediction after the result hides what was actually expected.",
+      "hint": "Do not rewrite the expectation."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "foam ball did not bounce",
-      "foam ball will bounce high",
-      "Both happened before the test",
-      "Neither is a science statement"
+      "Using the recorded observation.",
+      "Saying whether they matched.",
+      "Changing the prediction after seeing the result.",
+      "Reading the original prediction."
     ],
-    "correct": 0,
-    "visual": "BEFORE: foam ball will bounce high\nAFTER: foam ball did not bounce"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-014",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "compare categories",
-    "question": "Prediction: ants and butterflies. Observation: ants and bees. Which summary is accurate?",
-    "explanation": "Compare which categories appear in each record.",
+    "skill": "compare observations with predictions",
+    "question": "Prediction: “The car on smooth cardboard will go farther.” Result: smooth 60 cm, carpet 60 cm.",
+    "explanation": "The prediction expected smooth to be farther, but both distances were equal. Hint: Was there a difference?",
+    "structuredExplanation": {
+      "summary": "The prediction expected smooth to be farther, but both distances were equal.",
+      "hint": "Was there a difference?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "Ants matched; bees were unexpected and butterflies were missing",
-      "Everything matched",
-      "Nothing was observed",
-      "The prediction should be changed"
+      "Supported; smooth was used.",
+      "Supported because 60 is a large number.",
+      "Carpet went farther.",
+      "Not supported; the distances were equal."
     ],
-    "correct": 0,
-    "visual": "P: ants and butterflies\nO: ants and bees"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-015",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "honest result sentence",
-    "question": "Predicted: ball bounces 4 times. Observed: bounced 2 times. Which sentence is honest?",
-    "explanation": "The original records must stay unchanged.",
+    "skill": "compare observations with predictions",
+    "question": "After a prediction is not supported, what is a good next question?",
+    "explanation": "Unexpected results can lead to new investigable questions. Hint: Use evidence to guide the next inquiry.",
+    "structuredExplanation": {
+      "summary": "Unexpected results can lead to new investigable questions.",
+      "hint": "Use evidence to guide the next inquiry."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The observation did not match; it bounced fewer times",
-      "Change the result to match",
-      "The prediction is always correct",
-      "No comparison can be made"
+      "What might have affected the result?",
+      "How can we erase the result?",
+      "Which answer do we prefer?",
+      "How can we make the prediction look correct?"
     ],
     "correct": 0,
-    "visual": "P: ball bounces 4 times | O: bounced 2 times"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfi04-t-016",
     "curriculumCode": "AC9SFI04",
     "bank": "test",
-    "skill": "same and different",
-    "question": "Prediction: ball bounce high. Observation: bounced low. What was the comparison?",
-    "explanation": "One feature can match while another differs.",
+    "skill": "compare observations with predictions",
+    "question": "Prediction: “The sun cup will be warmer.” Result: sun 27°C, shade 22°C. Which statement is strongest?",
+    "explanation": "The measured difference supports the prediction for this observation. Hint: Use the actual measurements without overclaiming.",
+    "structuredExplanation": {
+      "summary": "The measured difference supports the prediction for this observation.",
+      "hint": "Use the actual measurements without overclaiming."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "bouncing matched but the height differed",
-      "all details matched",
-      "no details matched",
-      "the observation happened first"
+      "The prediction caused the temperature.",
+      "The prediction was supported because the sun cup was 5°C warmer in this observation.",
+      "Sun always makes every cup exactly 5°C warmer.",
+      "The shade cup was warmer."
     ],
-    "correct": 0,
-    "visual": "P → ball bounce high\nO → bounced low"
-  },
-  {
-    "id": "ac9sfi04-t-017",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "exact table matches",
-    "question": "Which rows match exactly?",
-    "explanation": "Exact matches have the same before and after entry.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "A and C",
-      "A only",
-      "B only",
-      "all rows"
-    ],
-    "correct": 0,
-    "visual": "A red→red | B blue→green | C 5→5"
-  },
-  {
-    "id": "ac9sfi04-t-018",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "missing observation",
-    "question": "Note: “The plant changed.” Can the class decide whether the prediction matched?",
-    "explanation": "A clear comparison needs specific evidence.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "No, the record is missing predicted and observed leaf counts",
-      "Yes, the note proves a match",
-      "Yes, movement always matches",
-      "Erase the prediction"
-    ],
-    "correct": 0,
-    "visual": "note: The plant changed"
-  },
-  {
-    "id": "ac9sfi04-t-019",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "numerical comparison",
-    "question": "predicted 4 bounces, observed 1. How does the observation compare?",
-    "explanation": "Subtract the two recorded counts.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "3 fewer than predicted",
-      "the same",
-      "no observation",
-      "the prediction occurred later"
-    ],
-    "correct": 0,
-    "visual": "predicted 4 bounces, observed 1"
-  },
-  {
-    "id": "ac9sfi04-t-020",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "use dated prediction",
-    "question": "Prediction card: 2 flowers | Memory: 4 | Observation: 4. Which comparison should be recorded?",
-    "explanation": "Use the record made before the test.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The written prediction did not match",
-      "Memory replaces the card",
-      "Change the observation",
-      "Hide the old prediction"
-    ],
-    "correct": 0,
-    "visual": "Prediction card: 2 flowers | Memory: 4 | Observation: 4"
-  },
-  {
-    "id": "ac9sfi04-t-021",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "use repeated evidence",
-    "question": "What does this repeated record support?",
-    "explanation": "Repeated observations strengthen the comparison.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "The observation is consistent across counts",
-      "One result should be erased",
-      "The prediction caused it",
-      "No pattern can be seen"
-    ],
-    "correct": 0,
-    "visual": "three counts all show 4 ants"
-  },
-  {
-    "id": "ac9sfi04-t-022",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "choose next question",
-    "question": "Which question follows from the unexpected curved roll?",
-    "explanation": "A useful next question builds from evidence.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Does orientation change the path?",
-      "Can we ignore it?",
-      "Which result is prettiest?",
-      "Should the prediction be rewritten?"
-    ],
-    "correct": 0,
-    "visual": "unexpected curved roll"
-  },
-  {
-    "id": "ac9sfi04-t-023",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "label comparison",
-    "question": "Which label belongs beside the pair?",
-    "explanation": "The label directly compares the records.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "did not match",
-      "prediction only",
-      "observation missing",
-      "unsafe"
-    ],
-    "correct": 0,
-    "visual": "Prediction: flower; Observation: leaves"
-  },
-  {
-    "id": "ac9sfi04-t-024",
-    "curriculumCode": "AC9SFI04",
-    "bank": "test",
-    "skill": "order comparison process",
-    "question": "Order the comparison steps for test situation 2.",
-    "explanation": "Compare the original records in order.",
-    "printable": true,
-    "type": "order",
-    "items": [
-      "read the recorded observation",
-      "notice what is the same and different",
-      "state whether it matched",
-      "read the original prediction"
-    ],
-    "correct": [
-      "read the original prediction",
-      "read the recorded observation",
-      "notice what is the same and different",
-      "state whether it matched"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 1,
+    "visual": "☀️",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

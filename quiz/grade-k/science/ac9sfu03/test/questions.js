@@ -1,451 +1,419 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9sfu03-t-001",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "select properties",
-    "question": "Which pair describes the sample?",
-    "explanation": "Both are observable properties.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Which material is usually transparent?",
+    "explanation": "Glass commonly lets light through. Hint: Can you see through it?",
+    "structuredExplanation": {
+      "summary": "Glass commonly lets light through.",
+      "hint": "Can you see through it?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "transparent and hard",
-      "hungry and friendly",
-      "fast and slow",
-      "alive and growing"
+      "wood",
+      "brick",
+      "glass",
+      "wool"
     ],
-    "correct": 0,
-    "visual": "▱"
+    "correct": 2,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-002",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "identify two materials",
-    "question": "Which statement correctly names two materials and parts?",
-    "explanation": "Composite objects can use different materials.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "A craft box has felt, a metal washer, a pebble and a glass bead. Which sample would feel softest?",
+    "explanation": "Felt is soft and flexible compared with the hard samples. Hint: Think about texture.",
+    "structuredExplanation": {
+      "summary": "Felt is soft and flexible compared with the hard samples.",
+      "hint": "Think about texture."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "fabric upper and rubber sole",
-      "every part is metal",
-      "colour is a material",
-      "the object has only one substance"
+      "metal washer",
+      "pebble",
+      "glass bead",
+      "felt"
     ],
-    "correct": 0,
-    "visual": "👟"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-003",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "link property to evidence",
-    "question": "Which observation supports the property?",
-    "explanation": "The statement describes a visible response.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Which object can contain several materials?",
+    "explanation": "A backpack may use fabric, plastic and metal parts. Hint: Different parts.",
+    "structuredExplanation": {
+      "summary": "A backpack may use fabric, plastic and metal parts.",
+      "hint": "Different parts."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "becomes longer when gently pulled and returns",
-      "it changes into metal",
-      "it has thoughts",
-      "colour never changes"
+      "backpack",
+      "plain pebble",
+      "sheet of paper",
+      "glass bead"
     ],
     "correct": 0,
-    "visual": "⭕"
+    "visual": "🎒",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-004",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "correct unsupported label",
-    "question": "Why should the label be changed?",
-    "explanation": "Use only safely observed evidence.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Which property best describes sandpaper?",
+    "explanation": "Sandpaper has a rough surface. Hint: Texture.",
+    "structuredExplanation": {
+      "summary": "Sandpaper has a rough surface.",
+      "hint": "Texture."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The inside was not observed; use hard or opaque outside",
-      "the label is always correct",
-      "hidden properties can be guessed",
-      "evidence is unnecessary"
+      "liquid",
+      "rough",
+      "transparent",
+      "stretchy"
     ],
-    "correct": 0,
-    "visual": "sealed wooden block labelled soft inside"
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-005",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "select material by needs",
-    "question": "Which material meets the stated purpose?",
-    "explanation": "The chosen properties match the job.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Why use a magnifying glass on fabric?",
+    "explanation": "Magnification helps with small visible details. Hint: Close observation.",
+    "structuredExplanation": {
+      "summary": "Magnification helps with small visible details.",
+      "hint": "Close observation."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "clear rigid plastic",
-      "soft clay",
-      "opaque wood",
-      "absorbent tissue"
+      "to make it softer",
+      "to tell who made it",
+      "to see tiny fibres more clearly",
+      "to change the fabric colour"
     ],
-    "correct": 0,
-    "visual": "🏠 ▱"
+    "correct": 2,
+    "visual": "🔍",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-006",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "compare materials",
-    "question": "Which comparison is supported?",
-    "explanation": "The comparison uses safe observations.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Which material best suits a waterproof cover?",
+    "explanation": "Plastic is often water-resistant. Hint: Think rain protection.",
+    "structuredExplanation": {
+      "summary": "Plastic is often water-resistant.",
+      "hint": "Think rain protection."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "both flexible; foil shiny/smooth, fabric woven/dull",
-      "both have thoughts",
-      "one is always best",
-      "colour is the only property"
+      "tissue paper",
+      "cotton wool",
+      "cardboard",
+      "plastic"
     ],
-    "correct": 0,
-    "visual": "foil and cotton fabric"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-007",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "investigate multi-material object",
-    "question": "What is the best plan?",
-    "explanation": "Different parts can need different safe observations.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Which pair is matched correctly?",
+    "explanation": "Rubber is flexible. Hint: Match property to material.",
+    "structuredExplanation": {
+      "summary": "Rubber is flexible.",
+      "hint": "Match property to material."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "observe each part separately with sight and gentle touch",
-      "test every part the same unsafe way",
-      "taste each part",
-      "name one material for the whole object"
+      "rubber—bendy",
+      "glass—furry",
+      "brick—stretchy",
+      "wool—hard"
     ],
     "correct": 0,
-    "visual": "plastic | foam | metal"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-008",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "evaluate material design",
-    "question": "Which choice is better supported?",
-    "explanation": "The choice links material properties to purpose.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Which statement is an observable property?",
+    "explanation": "Shiny is a visible surface property. Hint: Observation, not opinion.",
+    "structuredExplanation": {
+      "summary": "Shiny is a visible surface property.",
+      "hint": "Observation, not opinion."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "rigid plastic better resists spills and keeps shape",
-      "choose only by colour",
-      "both have identical properties",
-      "no properties matter"
+      "The foil is expensive.",
+      "The foil is shiny.",
+      "The foil is nice.",
+      "The foil is lucky."
     ],
-    "correct": 0,
-    "visual": "thin cardboard box vs rigid plastic box"
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-009",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "classify by property",
-    "question": "Which labels and placements are correct?",
-    "explanation": "The sort uses an observable property.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "A shoe has rubber, fabric and metal. What does this show?",
+    "explanation": "Different parts can use different materials. Hint: Parts have different jobs.",
+    "structuredExplanation": {
+      "summary": "Different parts can use different materials.",
+      "hint": "Parts have different jobs."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "transparent / opaque — glass and clear plastic / wood and cardboard",
-      "old / new",
-      "nice / not nice",
-      "inside / outside"
+      "Metal turns into fabric.",
+      "Rubber is not a material.",
+      "One object can use different materials.",
+      "All shoes are made from one material."
     ],
-    "correct": 0,
-    "visual": "glass plastic | wood cardboard"
+    "correct": 2,
+    "visual": "👟",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-010",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "explain material choice",
-    "question": "Why are two materials useful in the saucepan?",
-    "explanation": "Each part needs suitable properties.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Which material would be least suitable for a clear window?",
+    "explanation": "Wool is not transparent. Hint: Need to see through it.",
+    "structuredExplanation": {
+      "summary": "Wool is not transparent.",
+      "hint": "Need to see through it."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "metal bowl for heating and strength; plastic handle for safer holding",
-      "all materials do the same job",
-      "colour is the only reason",
-      "one part is not an object"
+      "glass",
+      "clear plastic",
+      "acrylic",
+      "wool"
     ],
-    "correct": 0,
-    "visual": "🍳"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-011",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "select safe test",
-    "question": "Which investigation is safe and useful?",
-    "explanation": "The plan uses safe sight and gentle touch.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "A bottle is blue. Can colour alone prove it is plastic?",
+    "explanation": "Colour alone is not enough to identify material. Hint: Different materials can share colours.",
+    "structuredExplanation": {
+      "summary": "Colour alone is not enough to identify material.",
+      "hint": "Different materials can share colours."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "look through it, gently check rigidity, record observations",
-      "taste it",
-      "burn it",
-      "break it to see inside"
+      "No",
+      "Yes, blue always means plastic",
+      "Yes, all plastic is blue",
+      "No, because plastic has no colour"
     ],
     "correct": 0,
-    "visual": "unknown clear sheet"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-012",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "order material investigation",
-    "question": "Order the investigation steps for test sample 1.",
-    "explanation": "Evidence comes before the conclusion.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Which sample is likely to be hardest?",
+    "explanation": "Brick is much harder than the soft materials listed. Hint: Resistance to pressing.",
+    "structuredExplanation": {
+      "summary": "Brick is much harder than the soft materials listed.",
+      "hint": "Resistance to pressing."
+    },
     "printable": true,
-    "type": "order",
-    "items": [
-      "observe each material safely",
-      "record property evidence",
-      "compare the properties with the purpose",
-      "state a supported conclusion",
-      "identify the object parts"
+    "type": "single",
+    "answers": [
+      "cotton wool",
+      "brick",
+      "sponge",
+      "felt"
     ],
-    "correct": [
-      "identify the object parts",
-      "observe each material safely",
-      "record property evidence",
-      "compare the properties with the purpose",
-      "state a supported conclusion"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-013",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "select properties",
-    "question": "Which pair describes the sample?",
-    "explanation": "Both are observable properties.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "What property is tested by soaking two fabrics?",
+    "explanation": "The test checks how much liquid each fabric takes in. Hint: What happens to the water?",
+    "structuredExplanation": {
+      "summary": "The test checks how much liquid each fabric takes in.",
+      "hint": "What happens to the water?"
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "soft and flexible",
-      "hungry and friendly",
-      "fast and slow",
-      "alive and growing"
+      "shape",
+      "name",
+      "absorbency",
+      "colour"
     ],
-    "correct": 0,
-    "visual": "🧣"
+    "correct": 2,
+    "visual": "💧",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-014",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "identify two materials",
-    "question": "Which statement correctly names two materials and parts?",
-    "explanation": "Composite objects can use different materials.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Which material is likely thin, shiny and bendy?",
+    "explanation": "Foil matches all three observable properties. Hint: Use the property cluster.",
+    "structuredExplanation": {
+      "summary": "Foil matches all three observable properties.",
+      "hint": "Use the property cluster."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "wood body and rubber eraser",
-      "every part is metal",
-      "colour is a material",
-      "the object has only one substance"
+      "wood",
+      "stone",
+      "wool",
+      "foil"
     ],
-    "correct": 0,
-    "visual": "✏️"
+    "correct": 3,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-015",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "link property to evidence",
-    "question": "Which observation supports the property?",
-    "explanation": "The statement describes a visible response.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Why might a jar lid include rubber?",
+    "explanation": "Rubber can help provide grip and seal. Hint: Think physical function.",
+    "structuredExplanation": {
+      "summary": "Rubber can help provide grip and seal.",
+      "hint": "Think physical function."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "compresses when gently pressed and expands again",
-      "it changes into metal",
-      "it has thoughts",
-      "colour never changes"
+      "for grip and flexibility",
+      "to make it transparent",
+      "to make it furry",
+      "to absorb the drink"
     ],
     "correct": 0,
-    "visual": "🧽"
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9sfu03-t-016",
     "curriculumCode": "AC9SFU03",
     "bank": "test",
-    "skill": "correct unsupported label",
-    "question": "Why should the label be changed?",
-    "explanation": "Use only safely observed evidence.",
+    "skill": "recognise objects materials and observable properties",
+    "question": "Which conclusion is careful?",
+    "explanation": "The first statement stays with observable properties of the sample. Hint: Describe, do not overclaim.",
+    "structuredExplanation": {
+      "summary": "The first statement stays with observable properties of the sample.",
+      "hint": "Describe, do not overclaim."
+    },
     "printable": true,
     "type": "single",
     "answers": [
-      "The test did not show it can never break",
-      "the label is always correct",
-      "hidden properties can be guessed",
-      "evidence is unnecessary"
+      "Visible grain proves the object is old.",
+      "This wood sample is hard and has visible grain.",
+      "All wood everywhere is identical.",
+      "Hard means the object is wood."
     ],
-    "correct": 0,
-    "visual": "clear cup labelled unbreakable"
-  },
-  {
-    "id": "ac9sfu03-t-017",
-    "curriculumCode": "AC9SFU03",
-    "bank": "test",
-    "skill": "select material by needs",
-    "question": "Which material meets the stated purpose?",
-    "explanation": "The chosen properties match the job.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "flexible waterproof plastic",
-      "soft clay",
-      "opaque wood",
-      "absorbent tissue"
-    ],
-    "correct": 0,
-    "visual": "☔"
-  },
-  {
-    "id": "ac9sfu03-t-018",
-    "curriculumCode": "AC9SFU03",
-    "bank": "test",
-    "skill": "compare materials",
-    "question": "Which comparison is supported?",
-    "explanation": "The comparison uses safe observations.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "both transparent; glass hard, plastic may flex",
-      "both have thoughts",
-      "one is always best",
-      "colour is the only property"
-    ],
-    "correct": 0,
-    "visual": "glass and clear plastic"
-  },
-  {
-    "id": "ac9sfu03-t-019",
-    "curriculumCode": "AC9SFU03",
-    "bank": "test",
-    "skill": "investigate multi-material object",
-    "question": "What is the best plan?",
-    "explanation": "Different parts can need different safe observations.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "record properties for each part separately",
-      "test every part the same unsafe way",
-      "taste each part",
-      "name one material for the whole object"
-    ],
-    "correct": 0,
-    "visual": "fabric | rubber | metal"
-  },
-  {
-    "id": "ac9sfu03-t-020",
-    "curriculumCode": "AC9SFU03",
-    "bank": "test",
-    "skill": "evaluate material design",
-    "question": "Which choice is better supported?",
-    "explanation": "The choice links material properties to purpose.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "fabric is more durable and flexible for reuse",
-      "choose only by colour",
-      "both have identical properties",
-      "no properties matter"
-    ],
-    "correct": 0,
-    "visual": "paper bag vs fabric backpack"
-  },
-  {
-    "id": "ac9sfu03-t-021",
-    "curriculumCode": "AC9SFU03",
-    "bank": "test",
-    "skill": "classify by property",
-    "question": "Which labels and placements are correct?",
-    "explanation": "The sort uses an observable property.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "flexible / rigid — fabric and rubber / metal spoon and glass tile",
-      "old / new",
-      "nice / not nice",
-      "inside / outside"
-    ],
-    "correct": 0,
-    "visual": "fabric rubber | metal glass"
-  },
-  {
-    "id": "ac9sfu03-t-022",
-    "curriculumCode": "AC9SFU03",
-    "bank": "test",
-    "skill": "explain material choice",
-    "question": "Why are two materials useful in the shoe?",
-    "explanation": "Each part needs suitable properties.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "fabric upper for flexibility; rubber sole for grip",
-      "all materials do the same job",
-      "colour is the only reason",
-      "one part is not an object"
-    ],
-    "correct": 0,
-    "visual": "👟"
-  },
-  {
-    "id": "ac9sfu03-t-023",
-    "curriculumCode": "AC9SFU03",
-    "bank": "test",
-    "skill": "select safe test",
-    "question": "Which investigation is safe and useful?",
-    "explanation": "The plan uses safe sight and gentle touch.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "look at threads, gently fold, record texture and flexibility",
-      "taste it",
-      "burn it",
-      "break it to see inside"
-    ],
-    "correct": 0,
-    "visual": "unknown fabric"
-  },
-  {
-    "id": "ac9sfu03-t-024",
-    "curriculumCode": "AC9SFU03",
-    "bank": "test",
-    "skill": "order material investigation",
-    "question": "Order the investigation steps for test sample 2.",
-    "explanation": "Evidence comes before the conclusion.",
-    "printable": true,
-    "type": "order",
-    "items": [
-      "observe each material safely",
-      "record property evidence",
-      "compare the properties with the purpose",
-      "state a supported conclusion",
-      "identify the object parts"
-    ],
-    "correct": [
-      "identify the object parts",
-      "observe each material safely",
-      "record property evidence",
-      "compare the properties with the purpose",
-      "state a supported conclusion"
-    ],
-    "instruction": "Move the cards into the correct order."
+    "correct": 1,
+    "visual": "",
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
