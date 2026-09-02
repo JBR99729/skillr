@@ -5,39 +5,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_how_authors_vary_paragraph_structures_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A feature article opens with a one-sentence paragraph: “Then the sirens stopped.” What is the clearest effect of isolating this sentence?",
+    "audio_prompt": "A feature article opens with a one-sentence paragraph: “Then the sirens stopped.” What is the clearest effect of isolating this sentence?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining how authors vary paragraph structures for effect",
+        "text": "It gives the moment extra emphasis and creates a pause",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "It automatically proves the article is factual",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It makes the sentence less important",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It turns the sentence into a heading",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining how authors vary paragraph structures for effect",
-      "hint": "A writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text."
+      "summary": "The one-sentence paragraph separates the moment from surrounding detail, making readers pause on it.",
+      "hint": "Notice what isolation does to pace and emphasis."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la04-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_examining_the_integration_of_paragraphs_and_images_on_websites_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A bushfire website places a map directly beside a paragraph explaining evacuation zones. Why is this pairing useful?",
+    "audio_prompt": "A bushfire website places a map directly beside a paragraph explaining evacuation zones. Why is this pairing useful?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining the integration of paragraphs and images on websites for effect",
+        "text": "Readers can connect the written explanation with the exact locations shown",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The map replaces the need for any written explanation",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The paragraph becomes decorative",
+        "is_correct": false
+      },
+      {
+        "text": "The image guarantees every reader interprets the risk identically",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining the integration of paragraphs and images on websites for effect",
-      "hint": "A writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text."
+      "summary": "The modes work together: the paragraph explains the zones while the map locates them.",
+      "hint": "Ask what each mode contributes that the other cannot."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la04-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_evaluating_the_effect_of_the_integration_of_paragraphs_and_images_in_graphic_novels_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "In a graphic novel, three small panels show a character waiting, then one full-page panel shows the train arriving. What structural change matters most?",
+    "audio_prompt": "In a graphic novel, three small panels show a character waiting, then one full-page panel shows the train arriving. What structural change matters most?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "evaluating the effect of the integration of paragraphs and images in graphic novels",
+        "text": "The sudden expansion in panel size gives the arrival greater impact",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The larger panel makes the event happen more slowly in real time",
+        "is_correct": false
+      },
+      {
+        "text": "Panel size has no effect on emphasis",
+        "is_correct": false
+      },
+      {
+        "text": "The page becomes a non-fiction text",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "evaluating the effect of the integration of paragraphs and images in graphic novels",
-      "hint": "A writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text."
+      "summary": "Changing from small repeated panels to a full-page image visually magnifies the arrival.",
+      "hint": "Look for contrast in scale and pacing."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la04-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_how_authors_vary_paragraph_structures_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A long online article uses short paragraphs under frequent subheadings. What does this structure mainly help readers do?",
+    "audio_prompt": "A long online article uses short paragraphs under frequent subheadings. What does this structure mainly help readers do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining how authors vary paragraph structures for effect",
+        "text": "Scan and navigate the article in manageable sections",
         "is_correct": true
+      },
+      {
+        "text": "Memorise every sentence automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the article’s argument",
+        "is_correct": false
+      },
+      {
+        "text": "Treat every paragraph as equally important",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining how authors vary paragraph structures for effect",
-      "hint": "A writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text."
+      "summary": "Short sections and subheadings help online readers locate and process information.",
+      "hint": "Think about how people move through long webpages."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la04-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_examining_the_integration_of_paragraphs_and_images_on_websites_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A memoir places a photograph after a paragraph describing the same childhood street. What should a reader compare first?",
+    "audio_prompt": "A memoir places a photograph after a paragraph describing the same childhood street. What should a reader compare first?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining the integration of paragraphs and images on websites for effect",
+        "text": "What the photograph confirms, adds to or complicates in the written memory",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "Whether the photograph uses more colours than the paragraph",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Whether the paragraph is longer than the caption",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Whether the image proves the memory is completely objective",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining the integration of paragraphs and images on websites for effect",
-      "hint": "A writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text."
+      "summary": "The key relationship is between what the prose represents and what the image contributes.",
+      "hint": "Compare meaning, not just appearance."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la04-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_evaluating_the_effect_of_the_integration_of_paragraphs_and_images_in_graphic_novels_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A news website breaks a witness account into several short paragraphs instead of one dense block. What is the most likely purpose?",
+    "audio_prompt": "A news website breaks a witness account into several short paragraphs instead of one dense block. What is the most likely purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "evaluating the effect of the integration of paragraphs and images in graphic novels",
+        "text": "To control pacing and make separate details easier to follow",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "To make the witness more reliable",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "To remove the need for evidence",
+        "is_correct": false
+      },
+      {
+        "text": "To make all sentences equally dramatic",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "evaluating the effect of the integration of paragraphs and images in graphic novels",
-      "hint": "A writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text."
+      "summary": "Paragraph breaks can separate stages or details and change reading pace.",
+      "hint": "Track what each break separates."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la04-p-007",
@@ -245,38 +257,41 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_how_authors_vary_paragraph_structures_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A graphic memoir shows a silent panel between two lines of dialogue. What does the silent panel most directly add?",
+    "audio_prompt": "A graphic memoir shows a silent panel between two lines of dialogue. What does the silent panel most directly add?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining how authors vary paragraph structures for effect",
+        "text": "A visual pause in which readers infer reaction or tension",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "A grammar error",
+        "is_correct": false
+      },
+      {
+        "text": "Proof the characters have stopped speaking forever",
+        "is_correct": false
+      },
+      {
+        "text": "A citation for the dialogue",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining how authors vary paragraph structures for effect",
-      "hint": "A writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text."
+      "summary": "The silent panel creates time and invites readers to interpret expression, gesture or setting.",
+      "hint": "Treat silence as a structural choice."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
   },
   {
     "id": "ac9e10la04-p-008",
@@ -284,38 +299,1385 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "practice",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_examining_the_integration_of_paragraphs_and_images_on_websites_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "What should you check when using a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text?",
-    "audio_prompt": "What should you check when using a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "On a conservation webpage, a close-up photo of litter appears before the paragraph giving national waste statistics. What does the sequence do?",
+    "audio_prompt": "On a conservation webpage, a close-up photo of litter appears before the paragraph giving national waste statistics. What does the sequence do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining the integration of paragraphs and images on websites for effect",
+        "text": "It moves from a concrete example to broader information",
         "is_correct": true
+      },
+      {
+        "text": "It turns the statistics into fiction",
+        "is_correct": false
+      },
+      {
+        "text": "It means the image is more accurate than the data",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need to explain the issue",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining the integration of paragraphs and images on websites for effect",
-      "hint": "A writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text."
+      "summary": "The image provides an immediate example before the paragraph broadens the scale.",
+      "hint": "Notice the order in which readers encounter evidence."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
+  },
+  {
+    "id": "ac9e10la04-p-009",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A profile ends with a two-word paragraph: “She stayed.” Why might the writer isolate it?",
+    "audio_prompt": "A profile ends with a two-word paragraph: “She stayed.” Why might the writer isolate it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To make the final decision feel decisive and memorable",
+        "is_correct": true
+      },
+      {
+        "text": "To reduce the importance of the ending",
+        "is_correct": false
+      },
+      {
+        "text": "To show the writer forgot to finish the paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "To make the sentence a quotation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Isolation gives the short statement weight and finality.",
+      "hint": "Ask why the writer did not attach it to the previous paragraph."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
+  },
+  {
+    "id": "ac9e10la04-p-010",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A website places an image gallery between two sections of explanatory text. What is the gallery doing structurally?",
+    "audio_prompt": "A website places an image gallery between two sections of explanatory text. What is the gallery doing structurally?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Interrupting the prose so readers can inspect visual evidence before continuing",
+        "is_correct": true
+      },
+      {
+        "text": "Replacing the argument with decoration",
+        "is_correct": false
+      },
+      {
+        "text": "Guaranteeing the next section is true",
+        "is_correct": false
+      },
+      {
+        "text": "Making paragraph order irrelevant",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The gallery changes the reading sequence and provides a visual stage between written sections.",
+      "hint": "Think about how placement changes the reader’s path."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "recognise"
+  },
+  {
+    "id": "ac9e10la04-p-011",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A sports column uses a long paragraph describing a tense final minute, followed by “Missed.” as a one-word paragraph. Why is this effective?",
+    "audio_prompt": "A sports column uses a long paragraph describing a tense final minute, followed by “Missed.” as a one-word paragraph. Why is this effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The long build-up creates anticipation and the isolated word delivers an abrupt outcome",
+        "is_correct": true
+      },
+      {
+        "text": "The one-word paragraph adds more factual detail than the long paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "The structure proves the writer dislikes the player",
+        "is_correct": false
+      },
+      {
+        "text": "The short paragraph removes suspense",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The contrast in paragraph length shapes pacing: extended suspense is followed by a sharp release.",
+      "hint": "Explain the contrast, not just the short paragraph."
     },
     "difficulty": 2,
-    "sequence_priority": 2
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la04-p-012",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "An online museum page puts a portrait beside a paragraph about the subject’s public achievements, then a caption notes the portrait was commissioned by the subject. Why does the caption matter?",
+    "audio_prompt": "An online museum page puts a portrait beside a paragraph about the subject’s public achievements, then a caption notes the portrait was commissioned by the subject. Why does the caption matter?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It adds context that may make readers question how neutral the portrait is",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the achievements are false",
+        "is_correct": false
+      },
+      {
+        "text": "It turns the portrait into a graph",
+        "is_correct": false
+      },
+      {
+        "text": "It has no relationship to the image",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The caption changes how readers interpret the visual by adding information about its production.",
+      "hint": "Ask whether the caption changes the image’s meaning or credibility."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la04-p-013",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A graphic novel shows a protest crowd in a wide panel, then cuts to a close-up of one frightened face. What does the shift achieve?",
+    "audio_prompt": "A graphic novel shows a protest crowd in a wide panel, then cuts to a close-up of one frightened face. What does the shift achieve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It moves from collective scale to individual experience",
+        "is_correct": true
+      },
+      {
+        "text": "It proves only one person attended",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the event less emotional",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the genre into a biography",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The wide shot establishes the crowd; the close-up personalises the event through one person.",
+      "hint": "Track how framing changes viewpoint."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la04-p-014",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A webpage begins with a large statistic, then follows with three short paragraphs explaining where it came from. Why might this order work?",
+    "audio_prompt": "A webpage begins with a large statistic, then follows with three short paragraphs explaining where it came from. Why might this order work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It captures attention first, then supplies context and evidence",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the statistic true because it appears first",
+        "is_correct": false
+      },
+      {
+        "text": "It prevents readers questioning the number",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need for a source",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The structure foregrounds the headline figure before unpacking its basis.",
+      "hint": "Separate attention-grabbing structure from evidence quality."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la04-p-015",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A travel article alternates a paragraph of description with a photo from the same location. What is the strongest explanation of the pattern?",
+    "audio_prompt": "A travel article alternates a paragraph of description with a photo from the same location. What is the strongest explanation of the pattern?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The repeated text–image pairing lets readers compare verbal description with visual representation as they move through the journey",
+        "is_correct": true
+      },
+      {
+        "text": "The photos make every description objective",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern guarantees readers will like the destination",
+        "is_correct": false
+      },
+      {
+        "text": "The paragraphs are unnecessary because images always communicate more",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Alternation can create a rhythm in which each location is represented in two modes.",
+      "hint": "Explain how the sequence guides reading."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la04-p-016",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A graphic memoir places narration in rectangular boxes while speech appears in balloons. Why is this distinction useful?",
+    "audio_prompt": "A graphic memoir places narration in rectangular boxes while speech appears in balloons. Why is this distinction useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It helps readers separate reflective narration from words spoken in the scene",
+        "is_correct": true
+      },
+      {
+        "text": "It shows narration is always more truthful",
+        "is_correct": false
+      },
+      {
+        "text": "It means speech balloons are optional decoration",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the narrator is not a character",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different containers signal different kinds of language and help readers track layers of the story.",
+      "hint": "Focus on how visual conventions organise meaning."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la04-p-017",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "An editorial groups three objections in separate paragraphs before a final paragraph answering them together. What is the effect?",
+    "audio_prompt": "An editorial groups three objections in separate paragraphs before a final paragraph answering them together. What is the effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Readers can consider each objection separately before seeing the writer’s overall rebuttal",
+        "is_correct": true
+      },
+      {
+        "text": "The objections become the writer’s own position",
+        "is_correct": false
+      },
+      {
+        "text": "Paragraph breaks remove the need for evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The final paragraph must be correct because it comes last",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The paragraph structure stages opposition before synthesis.",
+      "hint": "Describe the reasoning sequence created by the paragraphs."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la04-p-018",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A climate webpage places before-and-after satellite images above a paragraph describing coastline change. Why is this more effective than using the paragraph alone?",
+    "audio_prompt": "A climate webpage places before-and-after satellite images above a paragraph describing coastline change. Why is this more effective than using the paragraph alone?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The images make the change visible while the paragraph can explain scale, timing and significance",
+        "is_correct": true
+      },
+      {
+        "text": "Images are always more trustworthy than words",
+        "is_correct": false
+      },
+      {
+        "text": "The paragraph becomes redundant",
+        "is_correct": false
+      },
+      {
+        "text": "The images prove the cause of the change by themselves",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The visual evidence and explanation perform different but complementary roles.",
+      "hint": "State what each mode contributes."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la04-p-019",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A graphic novel repeats the same street corner across four panels while only the light changes. What can that repetition do?",
+    "audio_prompt": "A graphic novel repeats the same street corner across four panels while only the light changes. What can that repetition do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Show time passing while keeping location constant",
+        "is_correct": true
+      },
+      {
+        "text": "Show four different streets",
+        "is_correct": false
+      },
+      {
+        "text": "Prove no action occurs between panels",
+        "is_correct": false
+      },
+      {
+        "text": "Make the setting irrelevant",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeating the composition helps readers notice the changing light as the key sign of time.",
+      "hint": "Ask what stays constant and what changes."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la04-p-020",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A feature article inserts a short paragraph containing only a question between two sections. Why might the writer do this?",
+    "audio_prompt": "A feature article inserts a short paragraph containing only a question between two sections. Why might the writer do this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "To pivot the discussion and prompt readers to reconsider what follows",
+        "is_correct": true
+      },
+      {
+        "text": "To provide a source citation",
+        "is_correct": false
+      },
+      {
+        "text": "To remove ambiguity from the argument",
+        "is_correct": false
+      },
+      {
+        "text": "To replace the need for a conclusion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An isolated question can act as a structural hinge between sections.",
+      "hint": "Look at what comes before and after the question."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "explain"
+  },
+  {
+    "id": "ac9e10la04-p-021",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "Which analysis best explains a webpage where a photo of a flooded street sits beside the line “Average annual rainfall rose 3%”?",
+    "audio_prompt": "Which analysis best explains a webpage where a photo of a flooded street sits beside the line “Average annual rainfall rose 3%”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The photo makes damage emotionally immediate, while the statistic gives a limited numerical measure; neither alone explains causation",
+        "is_correct": true
+      },
+      {
+        "text": "The photo proves the 3% rise caused the flood",
+        "is_correct": false
+      },
+      {
+        "text": "The statistic makes the photo unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "The image and statistic communicate exactly the same information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Strong analysis distinguishes emotional immediacy from the narrower claim supported by the statistic.",
+      "hint": "Avoid treating visual proximity as proof of cause."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la04-p-022",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A reviewer says a one-sentence paragraph “creates suspense.” Which evidence would best support that claim?",
+    "audio_prompt": "A reviewer says a one-sentence paragraph “creates suspense.” Which evidence would best support that claim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It interrupts a longer sequence immediately before the review reveals the outcome",
+        "is_correct": true
+      },
+      {
+        "text": "It contains exactly eight words",
+        "is_correct": false
+      },
+      {
+        "text": "It appears on the left side of the page",
+        "is_correct": false
+      },
+      {
+        "text": "It uses a common font",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Suspense depends on placement and delayed information, not paragraph length by itself.",
+      "hint": "Connect structure to what information is withheld or delayed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la04-p-023",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "Which statement best avoids overclaiming about a full-page image in a graphic novel?",
+    "audio_prompt": "Which statement best avoids overclaiming about a full-page image in a graphic novel?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its scale foregrounds the moment and may encourage readers to dwell on it longer than surrounding panels",
+        "is_correct": true
+      },
+      {
+        "text": "A full-page image forces every reader to feel shocked",
+        "is_correct": false
+      },
+      {
+        "text": "Large images are always the most important part of a text",
+        "is_correct": false
+      },
+      {
+        "text": "The image proves the event is realistic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Scale can guide attention, but audience response is not guaranteed.",
+      "hint": "Use cautious language about effects."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la04-p-024",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A website places captions far below their images. Which criticism is most precise?",
+    "audio_prompt": "A website places captions far below their images. Which criticism is most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Readers may struggle to match each caption with the correct visual evidence",
+        "is_correct": true
+      },
+      {
+        "text": "The captions become grammatically incorrect",
+        "is_correct": false
+      },
+      {
+        "text": "The images stop being photographs",
+        "is_correct": false
+      },
+      {
+        "text": "The website can no longer contain paragraphs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Poor proximity weakens the connection between image and explanation.",
+      "hint": "Judge the relationship between elements, not unrelated features."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la04-p-025",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "Which revision best improves a dense webpage paragraph without oversimplifying the content?",
+    "audio_prompt": "Which revision best improves a dense webpage paragraph without oversimplifying the content?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Split it where the explanation shifts from causes to consequences, then add a descriptive subheading",
+        "is_correct": true
+      },
+      {
+        "text": "Put every sentence in its own paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the whole paragraph with an emoji",
+        "is_correct": false
+      },
+      {
+        "text": "Delete all evidence so the page is shorter",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A meaningful break should follow the logic of the information, not arbitrary length.",
+      "hint": "Use structure to reflect changes in idea."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la04-p-026",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A graphic narrative uses a black panel after an accident scene. Which interpretation is most defensible?",
+    "audio_prompt": "A graphic narrative uses a black panel after an accident scene. Which interpretation is most defensible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The blankness may create a pause or suggest disorientation, depending on surrounding panels",
+        "is_correct": true
+      },
+      {
+        "text": "Black always symbolises death",
+        "is_correct": false
+      },
+      {
+        "text": "The author forgot to draw the panel",
+        "is_correct": false
+      },
+      {
+        "text": "The panel proves exactly one second has passed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visual choices gain meaning from context; a black panel can signal pause or disruption without having one fixed meaning.",
+      "hint": "Avoid universal symbol claims."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la04-p-027",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "Which pairing shows genuine integration rather than simple repetition?",
+    "audio_prompt": "Which pairing shows genuine integration rather than simple repetition?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A paragraph explains how dunes move while an animation shows the direction and rate of movement over time",
+        "is_correct": true
+      },
+      {
+        "text": "A paragraph says “the beach is windy” beside a photo captioned “the beach is windy”",
+        "is_correct": false
+      },
+      {
+        "text": "A heading repeats the paragraph’s first sentence",
+        "is_correct": false
+      },
+      {
+        "text": "A decorative wave icon appears beside an unrelated statistic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Integration is strongest when modes contribute different but connected information.",
+      "hint": "Look for complementary rather than duplicated meaning."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la04-p-028",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A report uses one long paragraph for background and several short paragraphs for eyewitness accounts. What is the strongest analysis?",
+    "audio_prompt": "A report uses one long paragraph for background and several short paragraphs for eyewitness accounts. What is the strongest analysis?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The contrast separates contextual explanation from individual voices and changes the pace when testimony begins",
+        "is_correct": true
+      },
+      {
+        "text": "Short paragraphs make eyewitnesses more truthful",
+        "is_correct": false
+      },
+      {
+        "text": "Long paragraphs are always formal",
+        "is_correct": false
+      },
+      {
+        "text": "The structure proves the writer agrees with every witness",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Paragraph length and grouping can distinguish functions without guaranteeing credibility.",
+      "hint": "Separate organisational effect from truth claims."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la04-p-029",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A web article places a dramatic image before its headline. Which evaluation is most careful?",
+    "audio_prompt": "A web article places a dramatic image before its headline. Which evaluation is most careful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The image may frame readers’ expectations before they encounter the written claim",
+        "is_correct": true
+      },
+      {
+        "text": "The image determines the only possible interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The headline becomes unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "The order has no effect because images are not language",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Encounter order can prime attention and expectation without fixing interpretation.",
+      "hint": "Think about first impressions, not certainty."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la04-p-030",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "In a graphic novel, speech balloons cross panel borders during an argument. What is the most precise reading?",
+    "audio_prompt": "In a graphic novel, speech balloons cross panel borders during an argument. What is the most precise reading?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The broken boundaries can make the exchange feel intrusive or uncontrolled compared with neatly contained dialogue",
+        "is_correct": true
+      },
+      {
+        "text": "Crossing borders proves the characters are shouting",
+        "is_correct": false
+      },
+      {
+        "text": "Panel borders have no relationship to pacing",
+        "is_correct": false
+      },
+      {
+        "text": "The balloons become narration boxes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Breaking a visual convention can reinforce disorder, but exact emotion still depends on context.",
+      "hint": "Compare the altered convention with the normal layout."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "discriminate"
+  },
+  {
+    "id": "ac9e10la04-p-031",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "You are adapting a printed council brochure about heatwaves into a mobile webpage. Which structural change is most useful?",
+    "audio_prompt": "You are adapting a printed council brochure about heatwaves into a mobile webpage. Which structural change is most useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Break long sections into short titled blocks and place emergency actions near the top",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the same dense two-column layout",
+        "is_correct": false
+      },
+      {
+        "text": "Move all warnings to the bottom so readers finish the background first",
+        "is_correct": false
+      },
+      {
+        "text": "Turn every sentence into a separate pop-up",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Mobile readers need clear hierarchy and quick access to urgent information.",
+      "hint": "Adapt structure to likely reading conditions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la04-p-032",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A student documentary webpage includes a paragraph about river pollution and a photo of foam on the water. What addition would best deepen the text–image relationship?",
+    "audio_prompt": "A student documentary webpage includes a paragraph about river pollution and a photo of foam on the water. What addition would best deepen the text–image relationship?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A caption giving the photo’s date and location, plus text explaining what the foam does and does not prove",
+        "is_correct": true
+      },
+      {
+        "text": "A second identical photo with no caption",
+        "is_correct": false
+      },
+      {
+        "text": "A larger font for the paragraph only",
+        "is_correct": false
+      },
+      {
+        "text": "A decorative border around the image",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Context lets readers use the image as evidence without overinterpreting it.",
+      "hint": "Add information that clarifies evidentiary value."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la04-p-033",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "You want a narrative paragraph to slow down just before a character opens an exam result. Which structure would work best?",
+    "audio_prompt": "You want a narrative paragraph to slow down just before a character opens an exam result. Which structure would work best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use shorter paragraphs that isolate small actions and pauses as the moment approaches",
+        "is_correct": true
+      },
+      {
+        "text": "Combine the entire scene into one uninterrupted paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "Delete all paragraph breaks from the chapter",
+        "is_correct": false
+      },
+      {
+        "text": "Move the result to a footnote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Shorter, separated units can stretch perceived time and focus attention on each action.",
+      "hint": "Match paragraph rhythm to desired pacing."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la04-p-034",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A graphic story needs to show a crowded station suddenly becoming silent after an announcement. Which layout best supports that shift?",
+    "audio_prompt": "A graphic story needs to show a crowded station suddenly becoming silent after an announcement. Which layout best supports that shift?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use several busy small panels, then a wide sparse panel with little or no dialogue",
+        "is_correct": true
+      },
+      {
+        "text": "Use identical crowded panels throughout",
+        "is_correct": false
+      },
+      {
+        "text": "Replace all images with one paragraph of exposition",
+        "is_correct": false
+      },
+      {
+        "text": "Add more speech balloons after the announcement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The visual contrast between density and emptiness can make the silence perceptible.",
+      "hint": "Create contrast in layout as well as content."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la04-p-035",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A school website has a long explanation of subject selection beside a generic stock photo of students. What is the best improvement?",
+    "audio_prompt": "A school website has a long explanation of subject selection beside a generic stock photo of students. What is the best improvement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Replace the decorative image with a labelled pathway diagram that helps explain how choices connect",
+        "is_correct": true
+      },
+      {
+        "text": "Enlarge the stock photo so it fills the screen",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat the first paragraph in the caption",
+        "is_correct": false
+      },
+      {
+        "text": "Remove headings so the page looks simpler",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A useful visual should contribute information, not merely occupy space.",
+      "hint": "Choose a visual that performs a clear explanatory job."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la04-p-036",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "You are editing an online review comparing two Australian streaming series. Which paragraph structure best supports comparison?",
+    "audio_prompt": "You are editing an online review comparing two Australian streaming series. Which paragraph structure best supports comparison?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Organise paragraphs by shared criteria such as pacing, performances and visual style, discussing both series within each criterion",
+        "is_correct": true
+      },
+      {
+        "text": "Write all praise first and all criticism last with no labels",
+        "is_correct": false
+      },
+      {
+        "text": "Use one sentence for each series regardless of evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Put every quotation in a separate paragraph without explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Criterion-based paragraphs make similarities and differences easy to track.",
+      "hint": "Structure comparison around a consistent basis."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la04-p-037",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A graphic memoir includes a page about migration. Which choice best lets image and narration contribute different information?",
+    "audio_prompt": "A graphic memoir includes a page about migration. Which choice best lets image and narration contribute different information?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use narration for the remembered uncertainty while the image shows concrete details of the airport the narrator does not name",
+        "is_correct": true
+      },
+      {
+        "text": "Write the narration as a literal description of every object already visible",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the image and repeat the narration twice",
+        "is_correct": false
+      },
+      {
+        "text": "Use an unrelated city skyline as decoration",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Complementary modes can deepen meaning when one supplies emotion or reflection and the other supplies visual detail.",
+      "hint": "Avoid making one mode merely duplicate the other."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la04-p-038",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A science news page explains coral bleaching. Which placement best supports readers who need to understand a diagram while reading?",
+    "audio_prompt": "A science news page explains coral bleaching. Which placement best supports readers who need to understand a diagram while reading?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Place the labelled diagram beside or immediately after the paragraph that explains the bleaching process",
+        "is_correct": true
+      },
+      {
+        "text": "Put the diagram on a different page with no link",
+        "is_correct": false
+      },
+      {
+        "text": "Place it above an unrelated advertisement",
+        "is_correct": false
+      },
+      {
+        "text": "Use it only as a background image behind text",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Close placement helps readers connect the explanation with the relevant parts of the diagram.",
+      "hint": "Keep related modes near each other."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la04-p-039",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A persuasive article ends with three dense paragraphs repeating similar points. What revision would create a stronger ending?",
+    "audio_prompt": "A persuasive article ends with three dense paragraphs repeating similar points. What revision would create a stronger ending?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Combine the repeated material, then isolate the final consequence or call to action in a concise paragraph",
+        "is_correct": true
+      },
+      {
+        "text": "Add more repeated examples",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the conclusion entirely",
+        "is_correct": false
+      },
+      {
+        "text": "Turn every sentence into a heading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Condensing repetition and isolating the final point can sharpen emphasis.",
+      "hint": "Use paragraphing to create hierarchy, not just shorter blocks."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
+  },
+  {
+    "id": "ac9e10la04-p-040",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "practice",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A graphic narrative shows two characters misunderstanding each other online. Which design choice would most clearly distinguish typed messages from their private thoughts?",
+    "audio_prompt": "A graphic narrative shows two characters misunderstanding each other online. Which design choice would most clearly distinguish typed messages from their private thoughts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use consistent but different visual containers for messages and thoughts",
+        "is_correct": true
+      },
+      {
+        "text": "Put both in identical balloons with no cues",
+        "is_correct": false
+      },
+      {
+        "text": "Change the page size randomly",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all panel borders",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Distinct visual conventions help readers track different channels of communication.",
+      "hint": "Make the mode of each utterance easy to recognise."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "stage": "apply"
   },
   {
     "id": "ac9e10la04-t-001",
@@ -323,36 +1685,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_evaluating_the_effect_of_the_integration_of_paragraphs_and_images_in_graphic_novels_and_influence_how_an_audience_understands_the_text",
-    "question": "Which response correctly uses a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text?",
-    "audio_prompt": "Which response correctly uses a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A regional news site places a drone photo of a dry reservoir above a paragraph reporting water-storage percentages. Which analysis is strongest?",
+    "audio_prompt": "A regional news site places a drone photo of a dry reservoir above a paragraph reporting water-storage percentages. Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "evaluating the effect of the integration of paragraphs and images in graphic novels",
+        "text": "The image establishes visible scale while the paragraph quantifies the situation; together they provide different forms of evidence",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "The image proves the percentages are accurate",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "The paragraph is unnecessary because the image shows everything",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The image guarantees readers will support restrictions",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "evaluating the effect of the integration of paragraphs and images in graphic novels",
-      "hint": "A writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text."
-    }
+      "summary": "The visual and numerical modes complement one another without proving more than either source supports.",
+      "hint": "Identify what each mode contributes and what it cannot prove."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la04-t-002",
@@ -360,36 +1726,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_how_authors_vary_paragraph_structures_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A memoir chapter uses a long reflective paragraph followed by the isolated sentence “I never went back.” What does the structural contrast most likely do?",
+    "audio_prompt": "A memoir chapter uses a long reflective paragraph followed by the isolated sentence “I never went back.” What does the structural contrast most likely do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining how authors vary paragraph structures for effect",
+        "text": "It gives the final decision abrupt weight after extended reflection",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It makes the final sentence less important",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It turns the sentence into dialogue",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the narrator regrets the decision",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining how authors vary paragraph structures for effect",
-      "hint": "A writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text."
-    }
+      "summary": "The short isolated sentence interrupts the reflective flow and foregrounds finality.",
+      "hint": "Compare the rhythm before and after the break."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la04-t-003",
@@ -397,36 +1767,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_examining_the_integration_of_paragraphs_and_images_on_websites_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A public-transport webpage places route maps at the bottom after several screens of explanatory text. What is the clearest design problem?",
+    "audio_prompt": "A public-transport webpage places route maps at the bottom after several screens of explanatory text. What is the clearest design problem?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "examining the integration of paragraphs and images on websites for effect",
+        "text": "Readers must separate the explanation from the visual information needed to use it",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Maps cannot be used on webpages",
+        "is_correct": false
+      },
+      {
+        "text": "The text becomes grammatically incorrect",
+        "is_correct": false
+      },
+      {
+        "text": "The maps make the page too factual",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining the integration of paragraphs and images on websites for effect",
-      "hint": "A writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text."
-    }
+      "summary": "Distance between related modes makes it harder to connect instructions with routes.",
+      "hint": "Consider proximity between linked information."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la04-t-004",
@@ -434,36 +1808,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_evaluating_the_effect_of_the_integration_of_paragraphs_and_images_in_graphic_novels_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "In a graphic novel, a character’s face is shown in four increasingly tight close-ups across consecutive panels. What is the best interpretation?",
+    "audio_prompt": "In a graphic novel, a character’s face is shown in four increasingly tight close-ups across consecutive panels. What is the best interpretation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "evaluating the effect of the integration of paragraphs and images in graphic novels",
+        "text": "The narrowing framing intensifies attention on the character’s reaction",
         "is_correct": true
+      },
+      {
+        "text": "Close-ups prove the character is guilty",
+        "is_correct": false
+      },
+      {
+        "text": "The panels show four different characters",
+        "is_correct": false
+      },
+      {
+        "text": "The sequence removes any sense of time",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "evaluating the effect of the integration of paragraphs and images in graphic novels",
-      "hint": "A writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text."
-    }
+      "summary": "Progressively tighter framing can heighten focus without fixing one specific emotion.",
+      "hint": "Analyse the visual progression, not an unsupported motive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la04-t-005",
@@ -471,36 +1849,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_how_authors_vary_paragraph_structures_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "An online article about rental stress uses a full-width photo between two paragraphs: first causes, then personal stories. What role can the image play structurally?",
+    "audio_prompt": "An online article about rental stress uses a full-width photo between two paragraphs: first causes, then personal stories. What role can the image play structurally?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "examining how authors vary paragraph structures for effect",
+        "text": "It can act as a transition from abstract explanation to lived experience",
         "is_correct": true
       },
       {
-        "text": "A feature name is enough to prove an interpretation",
+        "text": "It proves every renter has the same experience",
         "is_correct": false
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "It makes the first paragraph fictional",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "It removes the need for the second paragraph",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "examining how authors vary paragraph structures for effect",
-      "hint": "A writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text."
-    }
+      "summary": "Placed between sections, an image can bridge different kinds of content.",
+      "hint": "Look at what changes across the image."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la04-t-006",
@@ -508,36 +1890,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_audience_to_shape_examining_the_integration_of_paragraphs_and_images_on_websites_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A reviewer claims that short paragraphs always make a text easier to read. Which response is most accurate?",
+    "audio_prompt": "A reviewer claims that short paragraphs always make a text easier to read. Which response is most accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "examining the integration of paragraphs and images on websites for effect",
+        "text": "Short paragraphs can aid scanning, but too many arbitrary breaks can fragment complex ideas",
         "is_correct": true
       },
       {
-        "text": "The method can be chosen without checking the values or conditions",
+        "text": "Short paragraphs are always clearer",
         "is_correct": false
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "Paragraph length never affects reading",
+        "is_correct": false
+      },
+      {
+        "text": "Long paragraphs are always more academic",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining the integration of paragraphs and images on websites for effect",
-      "hint": "A writer or speaker can use audience to shape examining the integration of paragraphs and images on websites for effect and influence how an audience understands the text."
-    }
+      "summary": "Effectiveness depends on whether paragraph breaks match the logic and reading context.",
+      "hint": "Avoid universal rules about structure."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la04-t-007",
@@ -545,36 +1931,40 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_relationship_to_shape_evaluating_the_effect_of_the_integration_of_paragraphs_and_images_in_graphic_novels_and_influence_how_an_audience_understands_the_text",
-    "question": "When would you use a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text?",
-    "audio_prompt": "When would you use a writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A wildlife website pairs a photo of one injured bird with a paragraph about national population decline. Which caution is most important?",
+    "audio_prompt": "A wildlife website pairs a photo of one injured bird with a paragraph about national population decline. Which caution is most important?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A feature name is enough to prove an interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "evaluating the effect of the integration of paragraphs and images in graphic novels",
+        "text": "The individual image can personalise the issue but does not by itself demonstrate the national trend",
         "is_correct": true
       },
       {
-        "text": "The same rule and result apply to every situation without testing",
+        "text": "The photograph cannot be evidence of anything",
+        "is_correct": false
+      },
+      {
+        "text": "The paragraph must be false because it is broader",
+        "is_correct": false
+      },
+      {
+        "text": "Images and statistics should never appear together",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "evaluating the effect of the integration of paragraphs and images in graphic novels",
-      "hint": "A writer or speaker can use relationship to shape evaluating the effect of the integration of paragraphs and images in graphic novels and influence how an audience understands the text."
-    }
+      "summary": "A single case and a population claim operate at different scales.",
+      "hint": "Distinguish illustration from proof of a trend."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "ac9e10la04-t-008",
@@ -582,35 +1972,367 @@
     "year_level": "Year 10",
     "subject": "english",
     "bank": "test",
-    "skill": "a_writer_or_speaker_can_use_word_choice_to_shape_examining_how_authors_vary_paragraph_structures_for_effect_and_influence_how_an_audience_understands_the_text",
-    "question": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 10 student is working with a text and needs to use a writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text. Which option best demonstrates the skill?",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A graphic memoir uses a page with no panel borders during a traumatic memory, then returns to regular panels. What is a defensible reading?",
+    "audio_prompt": "A graphic memoir uses a page with no panel borders during a traumatic memory, then returns to regular panels. What is a defensible reading?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Effect means whether the student personally likes the text",
-        "is_correct": false
-      },
-      {
-        "text": "The method can be chosen without checking the values or conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The same rule and result apply to every situation without testing",
-        "is_correct": false
-      },
-      {
-        "text": "examining how authors vary paragraph structures for effect",
+        "text": "The temporary loss of boundaries may reflect disruption or instability in the memory",
         "is_correct": true
+      },
+      {
+        "text": "Borderless pages always represent trauma",
+        "is_correct": false
+      },
+      {
+        "text": "The artist forgot the layout rules",
+        "is_correct": false
+      },
+      {
+        "text": "The regular panels prove the memory is false",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "examining how authors vary paragraph structures for effect",
-      "hint": "A writer or speaker can use word choice to shape examining how authors vary paragraph structures for effect and influence how an audience understands the text."
-    }
+      "summary": "Breaking the established layout can suggest disturbance, but meaning still comes from context.",
+      "hint": "Compare the exceptional page with the normal pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la04-t-009",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A council webpage about recycling repeats the same sentence in text, infographic and caption. What is the main weakness?",
+    "audio_prompt": "A council webpage about recycling repeats the same sentence in text, infographic and caption. What is the main weakness?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The modes duplicate information instead of contributing complementary detail",
+        "is_correct": true
+      },
+      {
+        "text": "Repeated information is always misleading",
+        "is_correct": false
+      },
+      {
+        "text": "Infographics should never contain words",
+        "is_correct": false
+      },
+      {
+        "text": "Captions must be longer than paragraphs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multimodal design is stronger when each mode adds something useful.",
+      "hint": "Ask whether the modes add or merely repeat."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la04-t-010",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A feature writer wants the final paragraph to feel contemplative rather than forceful. Which choice best fits?",
+    "audio_prompt": "A feature writer wants the final paragraph to feel contemplative rather than forceful. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use a slightly longer paragraph that returns to an earlier image and leaves the implication open",
+        "is_correct": true
+      },
+      {
+        "text": "End with a one-word command in capitals",
+        "is_correct": false
+      },
+      {
+        "text": "Add five exclamation marks",
+        "is_correct": false
+      },
+      {
+        "text": "List unrelated statistics",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reflective return and open implication support a contemplative ending.",
+      "hint": "Match structure and tone to the intended effect."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la04-t-011",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A mobile news story places a video before any headline or context. What is the strongest evaluation?",
+    "audio_prompt": "A mobile news story places a video before any headline or context. What is the strongest evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The video may capture attention, but without framing readers may not know what to notice or how it relates to the story",
+        "is_correct": true
+      },
+      {
+        "text": "Video is always more effective than text",
+        "is_correct": false
+      },
+      {
+        "text": "The headline becomes irrelevant",
+        "is_correct": false
+      },
+      {
+        "text": "Readers will all interpret the video identically",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multimodal elements need clear relationships, not just prominence.",
+      "hint": "Evaluate both attention and clarity."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la04-t-012",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paragraph structure and text-image integration",
+    "question": "In a graphic narrative, narration describes a family dinner as “ordinary” while the image shows everyone avoiding eye contact. What does the text–image relationship create?",
+    "audio_prompt": "In a graphic narrative, narration describes a family dinner as “ordinary” while the image shows everyone avoiding eye contact. What does the text–image relationship create?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A tension between the narrator’s label and visual evidence that invites readers to question “ordinary”",
+        "is_correct": true
+      },
+      {
+        "text": "The image simply repeats the narration",
+        "is_correct": false
+      },
+      {
+        "text": "The narration proves the image is wrong",
+        "is_correct": false
+      },
+      {
+        "text": "The modes cannot contradict each other",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Contradiction between modes can create irony or uncertainty.",
+      "hint": "Look for agreement, extension or contradiction."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la04-t-013",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A student adapts a printed review into a webpage. Which change best suits online reading while preserving depth?",
+    "audio_prompt": "A student adapts a printed review into a webpage. Which change best suits online reading while preserving depth?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use clear subheadings and expandable evidence sections without deleting the reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "Reduce every paragraph to one sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Replace all analysis with star ratings",
+        "is_correct": false
+      },
+      {
+        "text": "Put the conclusion first and remove evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Digital adaptation can improve navigation without sacrificing analysis.",
+      "hint": "Adapt access, not intellectual depth."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la04-t-014",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A long-form article alternates two-line paragraphs with full-page photographs throughout. Which judgement is most useful?",
+    "audio_prompt": "A long-form article alternates two-line paragraphs with full-page photographs throughout. Which judgement is most useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The repeated pattern may create a slow visual rhythm, but its effectiveness depends on whether each photograph advances the article",
+        "is_correct": true
+      },
+      {
+        "text": "Full-page photographs are automatically persuasive",
+        "is_correct": false
+      },
+      {
+        "text": "Two-line paragraphs are always weak",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern proves the article is unbiased",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A structural pattern should be judged by how well it supports meaning, not by size alone.",
+      "hint": "Evaluate contribution, not just appearance."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la04-t-015",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paragraph structure and text-image integration",
+    "question": "A graphic novel wants readers to notice a character excluded from a group conversation. Which layout is most effective?",
+    "audio_prompt": "A graphic novel wants readers to notice a character excluded from a group conversation. Which layout is most effective?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Place the group across connected panels while isolating the character in a separate narrow panel",
+        "is_correct": true
+      },
+      {
+        "text": "Give every character identical framing",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all spatial relationships",
+        "is_correct": false
+      },
+      {
+        "text": "Put the excluded character in the centre of every group panel",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visual separation can make social exclusion legible through layout.",
+      "hint": "Use spatial organisation to reinforce relationships."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9e10la04-t-016",
+    "curriculum_code": "AC9E10LA04",
+    "year_level": "Year 10",
+    "subject": "english",
+    "bank": "test",
+    "skill": "paragraph structure and text-image integration",
+    "question": "An emergency-information page combines a paragraph, icon set and map. Which design best supports rapid use?",
+    "audio_prompt": "An emergency-information page combines a paragraph, icon set and map. Which design best supports rapid use?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Place each icon beside its matching instruction and keep the map close to location-specific directions",
+        "is_correct": true
+      },
+      {
+        "text": "Put all icons in a decorative footer",
+        "is_correct": false
+      },
+      {
+        "text": "Separate the map from the directions by several unrelated sections",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same icon for every instruction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rapid-use pages need clear proximity and consistent relationships between modes.",
+      "hint": "Design for the reader’s task and likely urgency."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
