@@ -1,17 +1,14 @@
 [
   {
-    "id": "ac9e6ly03-p-001",
+    "id": "AC9E6LY03-P-001",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "identify_stage",
-    "question": "Which response best links structure and language?",
-    "audio_prompt": "Which response best links structure and language?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a class podcast, which response best links structure and language?",
+    "audio_prompt": "In a class podcast, which response best links structure and language?",
     "answers": [
       {
         "text": "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened",
@@ -32,26 +29,1202 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "This choice best demonstrates identify stage in the stated context.",
+      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is the strongest choice because it matches the language feature and the situation.",
       "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-p-002",
+    "id": "AC9E6LY03-P-002",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "text_structure",
-    "question": "Which term means “organisation of stages and phases”?",
-    "audio_prompt": "Which term means “organisation of stages and phases”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "stage": "recognise",
+    "skill": "language_feature",
+    "question": "Which term best matches this meaning: “word, sentence or cohesion choice”?",
+    "audio_prompt": "Which term best matches this meaning: “word, sentence or cohesion choice”?",
+    "answers": [
+      {
+        "text": "text structure",
+        "is_correct": false
+      },
+      {
+        "text": "language feature",
+        "is_correct": true
+      },
+      {
+        "text": "purpose",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "language feature means word, sentence or cohesion choice.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
     },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-003",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "counterpoint",
+    "question": "Read this example from a science investigation: “concessive complex sentence”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a science investigation: “concessive complex sentence”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "opening problem",
+        "is_correct": false
+      },
+      {
+        "text": "reason 1",
+        "is_correct": false
+      },
+      {
+        "text": "counterpoint",
+        "is_correct": true
+      },
+      {
+        "text": "response",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“concessive complex sentence” is an example of counterpoint; here it acknowledges alternative.",
+      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-004",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Visual and verbal modes separated”?",
+    "audio_prompt": "Which correction best fixes this idea: “Visual and verbal modes separated”?",
+    "answers": [
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse interaction.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Analyse interaction. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-005",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "closing",
+    "question": "Which example would be most useful when explaining how structure and language work together in a sports-club discussion?",
+    "audio_prompt": "Which example would be most useful when explaining how structure and language work together in a sports-club discussion?",
+    "answers": [
+      {
+        "text": "summary + direct address",
+        "is_correct": true
+      },
+      {
+        "text": "emotive image + evaluative headline",
+        "is_correct": false
+      },
+      {
+        "text": "topic sentence + data",
+        "is_correct": false
+      },
+      {
+        "text": "concessive complex sentence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This example directly demonstrates closing and can be explained using the language clue in the text.",
+      "hint": "Students explain how stages, paragraph order, sentence patterns, vocabulary, modality, cohesion and multimodal features form a coordinated meaning system."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-006",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "identify_stage",
+    "question": "In a library display, why might a graph appear in a persuasive stage?",
+    "audio_prompt": "In a library display, why might a graph appear in a persuasive stage?",
+    "answers": [
+      {
+        "text": "Because every graph proves causation",
+        "is_correct": false
+      },
+      {
+        "text": "To support a claim while also directing attention",
+        "is_correct": true
+      },
+      {
+        "text": "Only for decoration",
+        "is_correct": false
+      },
+      {
+        "text": "To replace explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“To support a claim while also directing attention” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-007",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "text_structure",
+    "question": "Which term best matches this meaning: “organisation of stages and phases”?",
+    "audio_prompt": "Which term best matches this meaning: “organisation of stages and phases”?",
+    "answers": [
+      {
+        "text": "language feature",
+        "is_correct": false
+      },
+      {
+        "text": "purpose",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "text structure means organisation of stages and phases.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-008",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "counterpoint",
+    "question": "Read this example from a student council meeting: “concessive complex sentence”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a student council meeting: “concessive complex sentence”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "opening problem",
+        "is_correct": false
+      },
+      {
+        "text": "reason 1",
+        "is_correct": false
+      },
+      {
+        "text": "response",
+        "is_correct": false
+      },
+      {
+        "text": "counterpoint",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“concessive complex sentence” is an example of counterpoint; here it acknowledges alternative.",
+      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-009",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Features analysed separately”?",
+    "audio_prompt": "Which correction best fixes this idea: “Features analysed separately”?",
+    "answers": [
+      {
+        "text": "Connect them to stage and purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Connect them to stage and purpose. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-010",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "closing",
+    "question": "Which example would be most useful when explaining how structure and language work together in a environmental campaign?",
+    "audio_prompt": "Which example would be most useful when explaining how structure and language work together in a environmental campaign?",
+    "answers": [
+      {
+        "text": "emotive image + evaluative headline",
+        "is_correct": false
+      },
+      {
+        "text": "summary + direct address",
+        "is_correct": true
+      },
+      {
+        "text": "topic sentence + data",
+        "is_correct": false
+      },
+      {
+        "text": "concessive complex sentence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "This example directly demonstrates closing and can be explained using the language clue in the text.",
+      "hint": "Students explain how stages, paragraph order, sentence patterns, vocabulary, modality, cohesion and multimodal features form a coordinated meaning system."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-011",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "counterpoint",
+    "question": "A museum caption includes “concessive complex sentence”. Why is this an effective example of counterpoint?",
+    "audio_prompt": "A museum caption includes “concessive complex sentence”. Why is this an effective example of counterpoint?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It acknowledges alternative and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature does not work alone. Explain how its placement within the structure changes its effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "concessive complex sentence works because acknowledges alternative.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-012",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use context.” a better rule than “One feature assigned fixed effect” when reading a student council meeting?",
+    "audio_prompt": "Why is “Use context.” a better rule than “One feature assigned fixed effect” when reading a student council meeting?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use context.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-013",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "closing",
+    "question": "A local-history article includes “summary + direct address”. Why is this an effective example of closing?",
+    "audio_prompt": "A local-history article includes “summary + direct address”. Why is this an effective example of closing?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A feature does not work alone. Explain how its placement within the structure changes its effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+        "is_correct": false
+      },
+      {
+        "text": "It prompts action and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "summary + direct address works because prompts action.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-014",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Analyse interaction.” a better rule than “Visual and verbal modes separated” when reading a environmental campaign?",
+    "audio_prompt": "Why is “Analyse interaction.” a better rule than “Visual and verbal modes separated” when reading a environmental campaign?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Analyse interaction.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-015",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "reason_1",
+    "question": "A book-club discussion includes “topic sentence + data”. Why is this an effective example of reason 1?",
+    "audio_prompt": "A book-club discussion includes “topic sentence + data”. Why is this an effective example of reason 1?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It builds evidence and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature does not work alone. Explain how its placement within the structure changes its effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "topic sentence + data works because builds evidence.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-016",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use context.” a better rule than “One feature assigned fixed effect” when reading a excursion briefing?",
+    "audio_prompt": "Why is “Use context.” a better rule than “One feature assigned fixed effect” when reading a excursion briefing?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use context.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-017",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "response",
+    "question": "A design project includes “high-modality recommendation”. Why is this an effective example of response?",
+    "audio_prompt": "A design project includes “high-modality recommendation”. Why is this an effective example of response?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A feature does not work alone. Explain how its placement within the structure changes its effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+        "is_correct": false
+      },
+      {
+        "text": "It reasserts position and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "high-modality recommendation works because reasserts position.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-018",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Analyse interaction.” a better rule than “Visual and verbal modes separated” when reading a weather report?",
+    "audio_prompt": "Why is “Analyse interaction.” a better rule than “Visual and verbal modes separated” when reading a weather report?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Analyse interaction.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-019",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "opening_problem",
+    "question": "A school assembly includes “emotive image + evaluative headline”. Why is this an effective example of opening problem?",
+    "audio_prompt": "A school assembly includes “emotive image + evaluative headline”. Why is this an effective example of opening problem?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates urgency and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "A feature does not work alone. Explain how its placement within the structure changes its effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "emotive image + evaluative headline works because creates urgency.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-020",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use context.” a better rule than “One feature assigned fixed effect” when reading a peer feedback session?",
+    "audio_prompt": "Why is “Use context.” a better rule than “One feature assigned fixed effect” when reading a peer feedback session?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use context.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-021",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A excursion briefing could use either “emotive image + evaluative headline” or “engages and humanises issue”. Which comparison is most accurate?",
+    "audio_prompt": "A excursion briefing could use either “emotive image + evaluative headline” or “engages and humanises issue”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“emotive image + evaluative headline” shows opening problem, while “engages and humanises issue” shows narrative anecdote in speech.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: opening problem versus narrative anecdote in speech.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-022",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Structure summarised but not evaluated” in a design project?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Structure summarised but not evaluated” in a design project?",
+    "answers": [
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      },
+      {
+        "text": "Explain audience guidance.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Explain audience guidance. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-023",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A weather report could use either “concessive complex sentence” or “controls terms and supports claim”. Which comparison is most accurate?",
+    "audio_prompt": "A weather report could use either “concessive complex sentence” or “controls terms and supports claim”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“concessive complex sentence” shows counterpoint, while “controls terms and supports claim” shows definition in argument.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: counterpoint versus definition in argument.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-024",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Features analysed separately” in a school assembly?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Features analysed separately” in a school assembly?",
+    "answers": [
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "Connect them to stage and purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect them to stage and purpose. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-025",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A peer feedback session could use either “summary + direct address” or “provides evidence but may also create salience”. Which comparison is most accurate?",
+    "audio_prompt": "A peer feedback session could use either “summary + direct address” or “provides evidence but may also create salience”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“summary + direct address” shows closing, while “provides evidence but may also create salience” shows graph in campaign.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: closing versus graph in campaign.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-026",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Structure summarised but not evaluated” in a cooking demonstration?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Structure summarised but not evaluated” in a cooking demonstration?",
+    "answers": [
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      },
+      {
+        "text": "Explain audience guidance.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Explain audience guidance. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-027",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A arts review could use either “topic sentence + data” or “engages and humanises issue”. Which comparison is most accurate?",
+    "audio_prompt": "A arts review could use either “topic sentence + data” or “engages and humanises issue”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“topic sentence + data” shows reason 1, while “engages and humanises issue” shows narrative anecdote in speech.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: reason 1 versus narrative anecdote in speech.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-028",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Features analysed separately” in a technology presentation?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Features analysed separately” in a technology presentation?",
+    "answers": [
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "Connect them to stage and purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect them to stage and purpose. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-029",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A playground consultation could use either “high-modality recommendation” or “controls terms and supports claim”. Which comparison is most accurate?",
+    "audio_prompt": "A playground consultation could use either “high-modality recommendation” or “controls terms and supports claim”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“high-modality recommendation” shows response, while “controls terms and supports claim” shows definition in argument.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: response versus definition in argument.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-030",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Structure summarised but not evaluated” in a class podcast?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Structure summarised but not evaluated” in a class podcast?",
+    "answers": [
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      },
+      {
+        "text": "Explain audience guidance.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Explain audience guidance. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-031",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "explain_purpose",
+    "question": "You are editing a community garden proposal. Why might a graph appear in a persuasive stage?",
+    "audio_prompt": "You are editing a community garden proposal. Why might a graph appear in a persuasive stage?",
+    "answers": [
+      {
+        "text": "Because every graph proves causation",
+        "is_correct": false
+      },
+      {
+        "text": "Only for decoration",
+        "is_correct": false
+      },
+      {
+        "text": "To replace explanation",
+        "is_correct": false
+      },
+      {
+        "text": "To support a claim while also directing attention",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“To support a claim while also directing attention” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-032",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "narrative_anecdote_in_speech",
+    "question": "A sports-club discussion needs a clear example of narrative anecdote in speech. Which wording should you choose?",
+    "audio_prompt": "A sports-club discussion needs a clear example of narrative anecdote in speech. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "engages and humanises issue",
+        "is_correct": true
+      },
+      {
+        "text": "controls terms and supports claim",
+        "is_correct": false
+      },
+      {
+        "text": "provides evidence but may also create salience",
+        "is_correct": false
+      },
+      {
+        "text": "emotive image + evaluative headline",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“engages and humanises issue” is the best choice because it demonstrates narrative anecdote in speech in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-033",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "text_structure",
+    "question": "While revising a library display, you need language that matches “organisation of stages and phases”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a library display, you need language that matches “organisation of stages and phases”. Which concept should guide your choice?",
     "answers": [
       {
         "text": "language feature",
@@ -66,32 +1239,30 @@
         "is_correct": false
       },
       {
-        "text": "Features analysed separately",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "text structure means organisation of stages and phases.",
-      "hint": "Match the definition to the most precise term used in How Structure and Language Work Together."
+      "summary": "text structure is the concept that matches organisation of stages and phases.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-p-003",
+    "id": "AC9E6LY03-P-034",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "link_feature_to_stage",
-    "question": "Why might a graph appear in a persuasive stage?",
-    "audio_prompt": "Why might a graph appear in a persuasive stage?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "identify_stage",
+    "question": "You are editing a museum caption. Why might a graph appear in a persuasive stage?",
+    "audio_prompt": "You are editing a museum caption. Why might a graph appear in a persuasive stage?",
     "answers": [
       {
         "text": "Because every graph proves causation",
@@ -112,187 +1283,371 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
+      "summary": "“To support a claim while also directing attention” best fits the purpose and the language evidence in this new situation.",
       "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-p-004",
+    "id": "AC9E6LY03-P-035",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "misconception_repair",
-    "question": "A student says, “Features analysed separately.” Which response best corrects the misunderstanding?",
-    "audio_prompt": "A student says, “Features analysed separately.” Which response best corrects the misunderstanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "narrative_anecdote_in_speech",
+    "question": "A student council meeting needs a clear example of narrative anecdote in speech. Which wording should you choose?",
+    "audio_prompt": "A student council meeting needs a clear example of narrative anecdote in speech. Which wording should you choose?",
     "answers": [
       {
-        "text": "Use context",
+        "text": "controls terms and supports claim",
         "is_correct": false
       },
       {
-        "text": "Explain audience guidance",
+        "text": "provides evidence but may also create salience",
         "is_correct": false
       },
       {
-        "text": "Analyse interaction",
+        "text": "emotive image + evaluative headline",
         "is_correct": false
       },
       {
-        "text": "Connect them to stage and purpose",
+        "text": "engages and humanises issue",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Connect them to stage and purpose",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "“engages and humanises issue” is the best choice because it demonstrates narrative anecdote in speech in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-p-005",
+    "id": "AC9E6LY03-P-036",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_a_persuasive_feature_system",
-    "question": "Which pairing accurately reflects the model for How Structure and Language Work Together?",
-    "audio_prompt": "Which pairing accurately reflects the model for How Structure and Language Work Together?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "text_structure",
+    "question": "While revising a local-history article, you need language that matches “organisation of stages and phases”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a local-history article, you need language that matches “organisation of stages and phases”. Which concept should guide your choice?",
     "answers": [
       {
-        "text": "opening problem → emotive image + evaluative headline → creates urgency",
+        "text": "text structure",
         "is_correct": true
       },
       {
-        "text": "creates urgency → emotive image + evaluative headline → opening problem",
+        "text": "language feature",
         "is_correct": false
       },
       {
-        "text": "reason 1 → topic sentence + data → builds evidence",
+        "text": "purpose",
         "is_correct": false
       },
       {
-        "text": "One feature assigned fixed effect",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
+      "summary": "text structure is the concept that matches organisation of stages and phases.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-p-006",
+    "id": "AC9E6LY03-P-037",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "concept_principle",
-    "question": "Which principle should guide a response about How Structure and Language Work Together?",
-    "audio_prompt": "Which principle should guide a response about How Structure and Language Work Together?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "compare_contexts",
+    "question": "You are editing a environmental campaign. Why might a graph appear in a persuasive stage?",
+    "audio_prompt": "You are editing a environmental campaign. Why might a graph appear in a persuasive stage?",
     "answers": [
       {
-        "text": "Features analysed separately",
+        "text": "Because every graph proves causation",
         "is_correct": false
       },
       {
-        "text": "A feature does not work alone. Explain how its placement within the structure changes its effect",
+        "text": "To support a claim while also directing attention",
         "is_correct": true
       },
       {
-        "text": "One feature assigned fixed effect",
+        "text": "Only for decoration",
         "is_correct": false
       },
       {
-        "text": "Structure summarised but not evaluated",
+        "text": "To replace explanation",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A feature does not work alone. Explain how its placement within the structure changes its effect",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "“To support a claim while also directing attention” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-p-007",
+    "id": "AC9E6LY03-P-038",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "guided_application",
-    "question": "Which plan would best complete this task: Analyse one informative or persuasive text using at least three connected structural and language choices?",
-    "audio_prompt": "Which plan would best complete this task: Analyse one informative or persuasive text using at least three connected structural and language choices?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "narrative_anecdote_in_speech",
+    "question": "A book-club discussion needs a clear example of narrative anecdote in speech. Which wording should you choose?",
+    "audio_prompt": "A book-club discussion needs a clear example of narrative anecdote in speech. Which wording should you choose?",
     "answers": [
       {
-        "text": "List features without explaining their effects.",
+        "text": "controls terms and supports claim",
         "is_correct": false
       },
       {
-        "text": "Give a personal preference without textual evidence.",
+        "text": "provides evidence but may also create salience",
         "is_correct": false
       },
       {
-        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "text": "engages and humanises issue",
         "is_correct": true
       },
       {
-        "text": "Discuss a different topic instead of the stated task.",
+        "text": "emotive image + evaluative headline",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+      "summary": "“engages and humanises issue” is the best choice because it demonstrates narrative anecdote in speech in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-p-008",
+    "id": "AC9E6LY03-P-039",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "reasoning",
-    "question": "Which evidence would best show secure understanding of How Structure and Language Work Together?",
-    "audio_prompt": "Which evidence would best show secure understanding of How Structure and Language Work Together?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "text_structure",
+    "question": "While revising a excursion briefing, you need language that matches “organisation of stages and phases”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a excursion briefing, you need language that matches “organisation of stages and phases”. Which concept should guide your choice?",
     "answers": [
+      {
+        "text": "language feature",
+        "is_correct": false
+      },
+      {
+        "text": "purpose",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "text structure is the concept that matches organisation of stages and phases.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-P-040",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "link_feature_to_stage",
+    "question": "You are editing a design project. Why might a graph appear in a persuasive stage?",
+    "audio_prompt": "You are editing a design project. Why might a graph appear in a persuasive stage?",
+    "answers": [
+      {
+        "text": "To support a claim while also directing attention",
+        "is_correct": true
+      },
+      {
+        "text": "Because every graph proves causation",
+        "is_correct": false
+      },
+      {
+        "text": "Only for decoration",
+        "is_correct": false
+      },
+      {
+        "text": "To replace explanation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“To support a claim while also directing attention” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-001",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "graph_in_campaign",
+    "question": "A community radio segment includes “provides evidence but may also create salience”. Which description best fits this wording?",
+    "audio_prompt": "A community radio segment includes “provides evidence but may also create salience”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "opening problem",
+        "is_correct": false
+      },
+      {
+        "text": "graph in campaign",
+        "is_correct": true
+      },
+      {
+        "text": "reason 1",
+        "is_correct": false
+      },
+      {
+        "text": "counterpoint",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wording best matches graph in campaign.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-002",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "text_structure",
+    "question": "In a wildlife-centre report, which term matches this meaning: “organisation of stages and phases”?",
+    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “organisation of stages and phases”?",
+    "answers": [
+      {
+        "text": "language feature",
+        "is_correct": false
+      },
+      {
+        "text": "purpose",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "text structure is the precise term for organisation of stages and phases.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-003",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "how_structure_and_language_work_together",
+    "question": "For a regional youth forum, which response best links structure and language?",
+    "audio_prompt": "For a regional youth forum, which response best links structure and language?",
+    "answers": [
+      {
+        "text": "The text has although",
+        "is_correct": false
+      },
+      {
+        "text": "The text has paragraphs",
+        "is_correct": false
+      },
+      {
+        "text": "The graph is colourful",
+        "is_correct": false
+      },
+      {
+        "text": "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-004",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a coastal-monitoring update says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a coastal-monitoring update says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Use context.",
+        "is_correct": true
+      },
       {
         "text": "Features analysed separately",
         "is_correct": false
@@ -304,315 +1659,472 @@
       {
         "text": "Structure summarised but not evaluated",
         "is_correct": false
-      },
-      {
-        "text": "Students explain how stages, paragraph order, sentence patterns, vocabulary, modality, cohesion and multimodal features form a coordinated meaning system The response also explains its evidence and limitations.",
-        "is_correct": true
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-t-001",
+    "id": "AC9E6LY03-T-005",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
+    "skill": "definition_in_argument",
+    "question": "A heritage trail guide includes “controls terms and supports claim”. Which description best fits this wording?",
+    "audio_prompt": "A heritage trail guide includes “controls terms and supports claim”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "opening problem",
+        "is_correct": false
+      },
+      {
+        "text": "definition in argument",
+        "is_correct": true
+      },
+      {
+        "text": "reason 1",
+        "is_correct": false
+      },
+      {
+        "text": "counterpoint",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wording best matches definition in argument.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-006",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
     "skill": "language_feature",
-    "question": "In a new text, which definition correctly identifies language feature?",
-    "audio_prompt": "In a new text, which definition correctly identifies language feature?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a public-transport survey, which term matches this meaning: “word, sentence or cohesion choice”?",
+    "audio_prompt": "In a public-transport survey, which term matches this meaning: “word, sentence or cohesion choice”?",
     "answers": [
       {
-        "text": "Word, sentence or cohesion choice",
-        "is_correct": true
-      },
-      {
-        "text": "Organisation of stages and phases",
+        "text": "text structure",
         "is_correct": false
       },
       {
-        "text": "Intended communicative outcome",
+        "text": "purpose",
+        "is_correct": false
+      },
+      {
+        "text": "language feature",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "language feature is the precise term for word, sentence or cohesion choice.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-007",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "how_structure_and_language_work_together",
+    "question": "For a festival review, which response best links structure and language?",
+    "audio_prompt": "For a festival review, which response best links structure and language?",
+    "answers": [
+      {
+        "text": "The text has although",
+        "is_correct": false
+      },
+      {
+        "text": "The text has paragraphs",
+        "is_correct": false
+      },
+      {
+        "text": "The graph is colourful",
+        "is_correct": false
+      },
+      {
+        "text": "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-008",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a emergency-preparedness talk says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Use context.",
+        "is_correct": true
+      },
+      {
+        "text": "Features analysed separately",
         "is_correct": false
       },
       {
         "text": "One feature assigned fixed effect",
         "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "language feature means word, sentence or cohesion choice.",
-      "hint": "Distinguish this term from related features in the unit."
-    }
-  },
-  {
-    "id": "ac9e6ly03-t-002",
-    "curriculum_code": "AC9E6LY03",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "diagnosis",
-    "question": "A response shows this problem: “One feature assigned fixed effect.” What is the most effective revision?",
-    "audio_prompt": "A response shows this problem: “One feature assigned fixed effect.” What is the most effective revision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Connect them to stage and purpose",
-        "is_correct": false
-      },
-      {
-        "text": "Use context",
-        "is_correct": true
-      },
-      {
-        "text": "Explain audience guidance",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the response unchanged because the issue does not affect meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use context",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
-    }
-  },
-  {
-    "id": "ac9e6ly03-t-003",
-    "curriculum_code": "AC9E6LY03",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "analyse_a_persuasive_feature_system",
-    "question": "Which interpretation of this model element is accurate: “reason 1 → topic sentence + data → builds evidence”?",
-    "audio_prompt": "Which interpretation of this model element is accurate: “reason 1 → topic sentence + data → builds evidence”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The first part is decorative and can be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The second part always has the same effect in every text.",
-        "is_correct": false
-      },
-      {
-        "text": "It shows a deliberate relationship within How Structure and Language Work Together, so both parts must be interpreted together.",
-        "is_correct": true
-      },
-      {
-        "text": "The pairing proves that no alternative interpretation is possible.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "A feature does not work alone. Explain how its placement within the structure changes its effect."
-    }
-  },
-  {
-    "id": "ac9e6ly03-t-004",
-    "curriculum_code": "AC9E6LY03",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "compare_feature_function_across_purposes",
-    "question": "When applying How Structure and Language Work Together to an unfamiliar text, which analytical move is strongest?",
-    "audio_prompt": "When applying How Structure and Language Work Together to an unfamiliar text, which analytical move is strongest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name a feature and stop.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every audience responds identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace analysis with an unsupported personal judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
-    }
-  },
-  {
-    "id": "ac9e6ly03-t-005",
-    "curriculum_code": "AC9E6LY03",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "purpose",
-    "question": "Which example best demonstrates an understanding of purpose?",
-    "audio_prompt": "Which example best demonstrates an understanding of purpose?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Intended communicative outcome, identified using evidence from the text.",
-        "is_correct": true
       },
       {
         "text": "Structure summarised but not evaluated",
         "is_correct": false
-      },
-      {
-        "text": "Visual and verbal modes separated",
-        "is_correct": false
-      },
-      {
-        "text": "A general comment that does not use the text.",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "purpose is intended communicative outcome.",
-      "hint": "Select the response that applies the definition and uses evidence."
-    }
+      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-t-006",
+    "id": "AC9E6LY03-T-009",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "transfer",
-    "question": "Which conclusion stays within the evidence when analysing How Structure and Language Work Together?",
-    "audio_prompt": "Which conclusion stays within the evidence when analysing How Structure and Language Work Together?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "narrative_anecdote_in_speech",
+    "question": "A water-saving brochure includes “engages and humanises issue”. Which description best fits this wording?",
+    "audio_prompt": "A water-saving brochure includes “engages and humanises issue”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "This single example proves the rule applies identically everywhere.",
+        "text": "opening problem",
         "is_correct": false
       },
       {
-        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "text": "narrative anecdote in speech",
         "is_correct": true
       },
       {
-        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "text": "reason 1",
         "is_correct": false
       },
       {
-        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "text": "counterpoint",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
-    }
+      "summary": "The wording best matches narrative anecdote in speech.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-t-007",
+    "id": "AC9E6LY03-T-010",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "extended_analysis",
-    "question": "Which response plan best addresses this challenge: Redesign a text for a different purpose, changing structure and features as a coordinated system?",
-    "audio_prompt": "Which response plan best addresses this challenge: Redesign a text for a different purpose, changing structure and features as a coordinated system?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "purpose",
+    "question": "In a local council submission, which term matches this meaning: “intended communicative outcome”?",
+    "audio_prompt": "In a local council submission, which term matches this meaning: “intended communicative outcome”?",
     "answers": [
       {
-        "text": "Copy the lesson example without adapting it.",
+        "text": "text structure",
         "is_correct": false
       },
       {
-        "text": "Add several unrelated features and do not explain them.",
+        "text": "language feature",
         "is_correct": false
       },
       {
-        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "text": "purpose",
         "is_correct": true
       },
       {
-        "text": "Describe the task but do not produce or analyse a response.",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
-    }
+      "summary": "purpose is the precise term for intended communicative outcome.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly03-t-008",
+    "id": "AC9E6LY03-T-011",
     "curriculum_code": "AC9E6LY03",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "critical_evaluation",
-    "question": "Which approach best addresses this evaluation: Compare two texts using similar features in different stages and explain changed effects?",
-    "audio_prompt": "Which approach best addresses this evaluation: Compare two texts using similar features in different stages and explain changed effects?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "how_structure_and_language_work_together",
+    "question": "For a marine-research diary, which response best links structure and language?",
+    "audio_prompt": "For a marine-research diary, which response best links structure and language?",
     "answers": [
       {
-        "text": "Choose a preferred answer before examining evidence.",
+        "text": "The text has although",
         "is_correct": false
       },
       {
-        "text": "Summarise each example without comparing it.",
+        "text": "The text has paragraphs",
         "is_correct": false
       },
       {
-        "text": "Treat one feature as proof of the whole judgement.",
+        "text": "The graph is colourful",
         "is_correct": false
       },
       {
-        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "text": "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
-    }
+      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-012",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a farmers market profile says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a farmers market profile says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Use context.",
+        "is_correct": true
+      },
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-013",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "graph_in_campaign",
+    "question": "A astronomy exhibition includes “provides evidence but may also create salience”. Which description best fits this wording?",
+    "audio_prompt": "A astronomy exhibition includes “provides evidence but may also create salience”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "opening problem",
+        "is_correct": false
+      },
+      {
+        "text": "graph in campaign",
+        "is_correct": true
+      },
+      {
+        "text": "reason 1",
+        "is_correct": false
+      },
+      {
+        "text": "counterpoint",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wording best matches graph in campaign.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-014",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "text_structure",
+    "question": "In a river-restoration update, which term matches this meaning: “organisation of stages and phases”?",
+    "audio_prompt": "In a river-restoration update, which term matches this meaning: “organisation of stages and phases”?",
+    "answers": [
+      {
+        "text": "language feature",
+        "is_correct": false
+      },
+      {
+        "text": "purpose",
+        "is_correct": false
+      },
+      {
+        "text": "text structure",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "text structure is the precise term for organisation of stages and phases.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-015",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "how_structure_and_language_work_together",
+    "question": "For a cycling-safety campaign, which response best links structure and language?",
+    "audio_prompt": "For a cycling-safety campaign, which response best links structure and language?",
+    "answers": [
+      {
+        "text": "The text has although",
+        "is_correct": false
+      },
+      {
+        "text": "The text has paragraphs",
+        "is_correct": false
+      },
+      {
+        "text": "The graph is colourful",
+        "is_correct": false
+      },
+      {
+        "text": "The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“The counterpoint stage uses although to acknowledge an alternative before the claim is strengthened” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid feature spotting. Build a chain from choice to structural role to meaning and audience positioning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY03-T-016",
+    "curriculum_code": "AC9E6LY03",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a neighbourhood history podcast says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “One feature assigned fixed effect”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Use context.",
+        "is_correct": true
+      },
+      {
+        "text": "Features analysed separately",
+        "is_correct": false
+      },
+      {
+        "text": "One feature assigned fixed effect",
+        "is_correct": false
+      },
+      {
+        "text": "Structure summarised but not evaluated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use context. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
   }
 ]

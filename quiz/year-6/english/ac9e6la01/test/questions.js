@@ -1,14 +1,165 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6la01-t-001",
+    "id": "AC9E6LA01-T-001",
     "curriculumCode": "AC9E6LA01",
     "bank": "test",
+    "stage": "verify",
+    "skill": "inclusive authority",
+    "printable": true,
+    "type": "single",
+    "question": "A community radio segment includes “Let us review the criteria together”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “Let us review the criteria together”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "close friend",
+      "inclusive authority",
+      "teacher",
+      "formal request"
+    ],
+    "correct": 1,
+    "explanation": "The wording best matches inclusive authority.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches inclusive authority.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-T-002",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "register",
+    "printable": true,
+    "type": "single",
+    "question": "In a wildlife-centre report, which term matches this meaning: “language variety or style associated with context”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “language variety or style associated with context”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "social distance",
+      "authority",
+      "register",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 2,
+    "explanation": "register is the precise term for language variety or style associated with context.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "register is the precise term for language variety or style associated with context.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-T-003",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "formality social distance and authority",
+    "printable": true,
+    "type": "single",
+    "question": "For a regional youth forum, which request best suits a formal email?",
+    "audioPrompt": "For a regional youth forum, which request best suits a formal email?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Hey, look at this now",
+      "Send it",
+      "Yo, thoughts?",
+      "Could you please review the attached proposal?"
+    ],
+    "correct": 3,
+    "explanation": "“Could you please review the attached proposal?” is supported by the language evidence and purpose of the text.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
+    "structuredExplanation": {
+      "summary": "“Could you please review the attached proposal?” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-T-004",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a coastal-monitoring update says, “Authority always uses commands”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Authority always uses commands”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Questions, inclusive pronouns and modality can exercise authority.",
+      "Formal means complex vocabulary",
+      "Authority always uses commands",
+      "Informal variety is incorrect"
+    ],
+    "correct": 0,
+    "explanation": "Questions, inclusive pronouns and modality can exercise authority. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Questions, inclusive pronouns and modality can exercise authority. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-T-005",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "suitable formal",
+    "printable": true,
+    "type": "single",
+    "question": "A heritage trail guide includes “Could you please review this proposal?”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “Could you please review this proposal?”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "close friend",
+      "suitable formal",
+      "teacher",
+      "formal request"
+    ],
+    "correct": 1,
+    "explanation": "The wording best matches suitable formal.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches suitable formal.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-T-006",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "test",
+    "stage": "verify",
     "skill": "social distance",
     "printable": true,
     "type": "single",
-    "question": "Which pair of speakers has the greatest social distance?",
-    "audioPrompt": "Which pair of speakers has the greatest social distance?",
+    "question": "In a public-transport survey, which term matches this meaning: “degree of familiarity or closeness”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “degree of familiarity or closeness”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +167,119 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A student meeting a visiting judge for the first time",
-      "Two close friends at lunch",
-      "Two siblings at home",
-      "Two teammates who practise together every week"
+      "register",
+      "authority",
+      "social distance",
+      "It does not match the evidence in the example."
     ],
-    "correct": 0,
-    "explanation": "Social distance refers to how familiar or close people are. A student and an unfamiliar visiting judge have the greatest social distance here.\nHint: Think about familiarity and relationship, not physical distance.",
+    "correct": 2,
+    "explanation": "social distance is the precise term for degree of familiarity or closeness.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Social distance refers to how familiar or close people are. A student and an unfamiliar visiting judge have the greatest social distance here.",
-      "hint": "Think about familiarity and relationship, not physical distance."
+      "summary": "social distance is the precise term for degree of familiarity or closeness.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la01-t-002",
+    "id": "AC9E6LA01-T-007",
     "curriculumCode": "AC9E6LA01",
     "bank": "test",
+    "stage": "verify",
+    "skill": "formality social distance and authority",
+    "printable": true,
+    "type": "single",
+    "question": "For a festival review, which request best suits a formal email?",
+    "audioPrompt": "For a festival review, which request best suits a formal email?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Hey, look at this now",
+      "Send it",
+      "Yo, thoughts?",
+      "Could you please review the attached proposal?"
+    ],
+    "correct": 3,
+    "explanation": "“Could you please review the attached proposal?” is supported by the language evidence and purpose of the text.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
+    "structuredExplanation": {
+      "summary": "“Could you please review the attached proposal?” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-T-008",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a emergency-preparedness talk says, “Authority always uses commands”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Authority always uses commands”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Questions, inclusive pronouns and modality can exercise authority.",
+      "Formal means complex vocabulary",
+      "Authority always uses commands",
+      "Informal variety is incorrect"
+    ],
+    "correct": 0,
+    "explanation": "Questions, inclusive pronouns and modality can exercise authority. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Questions, inclusive pronouns and modality can exercise authority. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-T-009",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "overly distant with peer",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “I hereby demand your attendance”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “I hereby demand your attendance”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "close friend",
+      "overly distant with peer",
+      "teacher",
+      "formal request"
+    ],
+    "correct": 1,
+    "explanation": "The wording best matches overly distant with peer.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches overly distant with peer.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-T-010",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "test",
+    "stage": "apply",
     "skill": "authority",
     "printable": true,
     "type": "single",
-    "question": "A teacher says, 'Would everyone please open their books to page 40?' Which statement best explains the teacher's authority?",
-    "audioPrompt": "A teacher says, 'Would everyone please open their books to page 40?' Which statement best explains the teacher's authority?",
+    "question": "In a local council submission, which term matches this meaning: “recognised power, expertise or role in interaction”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “recognised power, expertise or role in interaction”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,57 +287,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The teacher has no authority because the sentence is a question.",
-      "The teacher uses a polite question to direct the class because of their role.",
-      "The teacher is speaking informally because the sentence is short.",
-      "Authority is shown only when someone uses the word 'must'."
-    ],
-    "correct": 1,
-    "explanation": "The teacher's role gives them authority, and that authority can be expressed politely rather than through a direct command.\nHint: Consider both the speaker's role and the form of the sentence.",
-    "structuredExplanation": {
-      "summary": "The teacher's role gives them authority, and that authority can be expressed politely rather than through a direct command.",
-      "hint": "Consider both the speaker's role and the form of the sentence."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6la01-t-003",
-    "curriculumCode": "AC9E6LA01",
-    "bank": "test",
-    "skill": "map one request across social distance",
-    "printable": true,
-    "type": "single",
-    "question": "A student wants the same information from a friend and from the principal. Which pair best shows an appropriate change in formality?",
-    "audioPrompt": "A student wants the same information from a friend and from the principal. Which pair best shows an appropriate change in formality?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Friend: 'I respectfully request the timetable.' Principal: 'Send me the timetable.'",
-      "Friend: 'Give it here.' Principal: 'Give it here.'",
-      "Friend: 'Can you send me the timetable?' Principal: 'Could you please send me a copy of the timetable?'",
-      "Friend: 'Could you please send me a copy?' Principal: 'Yo, send it.'"
+      "register",
+      "social distance",
+      "authority",
+      "It does not match the evidence in the example."
     ],
     "correct": 2,
-    "explanation": "The purpose stays the same, but the wording becomes more formal as social distance and role difference increase.\nHint: Compare directness, politeness and terms of address.",
+    "explanation": "authority is the precise term for recognised power, expertise or role in interaction.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "The purpose stays the same, but the wording becomes more formal as social distance and role difference increase.",
-      "hint": "Compare directness, politeness and terms of address."
+      "summary": "authority is the precise term for recognised power, expertise or role in interaction.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la01-t-004",
+    "id": "AC9E6LA01-T-011",
     "curriculumCode": "AC9E6LA01",
     "bank": "test",
-    "skill": "analyse register mismatch and power",
+    "stage": "apply",
+    "skill": "formality social distance and authority",
     "printable": true,
     "type": "single",
-    "question": "Read this message to a scholarship committee: 'Hey guys, I reckon I'm pretty good, so pick me.' Which revision best suits the audience and purpose?",
-    "audioPrompt": "Read this message to a scholarship committee: 'Hey guys, I reckon I'm pretty good, so pick me.' Which revision best suits the audience and purpose?",
+    "question": "For a marine-research diary, which request best suits a formal email?",
+    "audioPrompt": "For a marine-research diary, which request best suits a formal email?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +317,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Pick me because I said so.",
-      "Hey committee, I'm awesome at this.",
-      "I humbly utilise my extraordinary intellectual capabilities and request selection.",
-      "I believe my experience and commitment make me a strong candidate for the scholarship."
+      "Hey, look at this now",
+      "Send it",
+      "Yo, thoughts?",
+      "Could you please review the attached proposal?"
     ],
     "correct": 3,
-    "explanation": "The final sentence is clear, respectful and appropriately formal without using inflated vocabulary.\nHint: Formality should suit the audience and purpose.",
+    "explanation": "“Could you please review the attached proposal?” is supported by the language evidence and purpose of the text.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
     "structuredExplanation": {
-      "summary": "The final sentence is clear, respectful and appropriately formal without using inflated vocabulary.",
-      "hint": "Formality should suit the audience and purpose."
+      "summary": "“Could you please review the attached proposal?” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la01-t-005",
+    "id": "AC9E6LA01-T-012",
     "curriculumCode": "AC9E6LA01",
     "bank": "test",
-    "skill": "authority",
+    "stage": "apply",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Which sentence most clearly shows authority through expertise rather than through a command?",
-    "audioPrompt": "Which sentence most clearly shows authority through expertise rather than through a command?",
+    "question": "A writer preparing a farmers market profile says, “Authority always uses commands”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “Authority always uses commands”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +347,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "As the school nurse, I recommend washing the cut and covering it with a clean dressing.",
-      "Do it now because I said so.",
-      "Whatever you think is fine.",
-      "My friend told me this once."
+      "Questions, inclusive pronouns and modality can exercise authority.",
+      "Formal means complex vocabulary",
+      "Authority always uses commands",
+      "Informal variety is incorrect"
     ],
     "correct": 0,
-    "explanation": "The school nurse's recognised expertise gives the advice authority even though it is phrased as a recommendation.\nHint: Authority can come from role, knowledge or expertise.",
+    "explanation": "Questions, inclusive pronouns and modality can exercise authority. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "The school nurse's recognised expertise gives the advice authority even though it is phrased as a recommendation.",
-      "hint": "Authority can come from role, knowledge or expertise."
+      "summary": "Questions, inclusive pronouns and modality can exercise authority. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la01-t-006",
+    "id": "AC9E6LA01-T-013",
     "curriculumCode": "AC9E6LA01",
     "bank": "test",
-    "skill": "transfer",
+    "stage": "apply",
+    "skill": "inclusive authority",
     "printable": true,
     "type": "single",
-    "question": "Two students disagree about the sentence 'Could we finish this before lunch?' One says it is always polite; the other says it can also express authority. Which conclusion is best?",
-    "audioPrompt": "Two students disagree about the sentence 'Could we finish this before lunch?' One says it is always polite; the other says it can also express authority. Which conclusion is best?",
+    "question": "A astronomy exhibition includes “Let us review the criteria together”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “Let us review the criteria together”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +377,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It can only be polite because it is a question.",
-      "Its effect depends on who says it, to whom, and in what situation.",
-      "It always shows authority because it contains 'we'.",
-      "The sentence has exactly the same meaning in every context."
+      "close friend",
+      "inclusive authority",
+      "teacher",
+      "formal request"
     ],
     "correct": 1,
-    "explanation": "The same wording can have different effects depending on relationship, role and context.\nHint: Avoid treating one language feature as having one fixed effect everywhere.",
+    "explanation": "The wording best matches inclusive authority.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "The same wording can have different effects depending on relationship, role and context.",
-      "hint": "Avoid treating one language feature as having one fixed effect everywhere."
+      "summary": "The wording best matches inclusive authority.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la01-t-007",
+    "id": "AC9E6LA01-T-014",
     "curriculumCode": "AC9E6LA01",
     "bank": "test",
-    "skill": "extended analysis",
+    "stage": "apply",
+    "skill": "register",
     "printable": true,
     "type": "single",
-    "question": "At the start of a dialogue, a manager says, 'Please take a seat, Ms Tran.' Later the manager says, 'Okay, Mai, let's work this out together.' What does the change most likely suggest?",
-    "audioPrompt": "At the start of a dialogue, a manager says, 'Please take a seat, Ms Tran.' Later the manager says, 'Okay, Mai, let's work this out together.' What does the change most likely suggest?",
+    "question": "In a river-restoration update, which term matches this meaning: “language variety or style associated with context”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “language variety or style associated with context”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +407,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The manager has forgotten how to speak formally.",
-      "The second sentence is incorrect because managers must always be formal.",
-      "The relationship has become less distant and more collaborative.",
-      "The manager no longer has any authority."
+      "social distance",
+      "authority",
+      "register",
+      "It does not match the evidence in the example."
     ],
     "correct": 2,
-    "explanation": "Using a first name, a more conversational tone and inclusive 'let's' suggests reduced social distance while the manager may still retain authority.\nHint: Track how terms of address and interaction style change.",
+    "explanation": "register is the precise term for language variety or style associated with context.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Using a first name, a more conversational tone and inclusive 'let's' suggests reduced social distance while the manager may still retain authority.",
-      "hint": "Track how terms of address and interaction style change."
+      "summary": "register is the precise term for language variety or style associated with context.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la01-t-008",
+    "id": "AC9E6LA01-T-015",
     "curriculumCode": "AC9E6LA01",
     "bank": "test",
-    "skill": "critical evaluation",
+    "stage": "apply",
+    "skill": "formality social distance and authority",
     "printable": true,
     "type": "single",
-    "question": "A student claims, 'People who use formal English are more intelligent than people who use informal varieties.' Which response is most accurate?",
-    "audioPrompt": "A student claims, 'People who use formal English are more intelligent than people who use informal varieties.' Which response is most accurate?",
+    "question": "For a cycling-safety campaign, which request best suits a formal email?",
+    "audioPrompt": "For a cycling-safety campaign, which request best suits a formal email?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +437,48 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The claim is correct because formal English always uses harder words.",
-      "The claim is correct whenever a speaker has authority.",
-      "Informal varieties are incorrect and should not be used.",
-      "Different varieties suit different contexts; a person's language variety does not by itself measure intelligence."
+      "Hey, look at this now",
+      "Send it",
+      "Yo, thoughts?",
+      "Could you please review the attached proposal?"
     ],
     "correct": 3,
-    "explanation": "Language varieties have different conventions and purposes. Formality is about context and relationship, not a measure of intelligence.\nHint: Evaluate whether the claim confuses language choice with a judgement about the speaker.",
+    "explanation": "“Could you please review the attached proposal?” is supported by the language evidence and purpose of the text.\nHint: Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship.",
     "structuredExplanation": {
-      "summary": "Language varieties have different conventions and purposes. Formality is about context and relationship, not a measure of intelligence.",
-      "hint": "Evaluate whether the claim confuses language choice with a judgement about the speaker."
+      "summary": "“Could you please review the attached proposal?” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-T-016",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “Authority always uses commands”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Authority always uses commands”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Questions, inclusive pronouns and modality can exercise authority.",
+      "Formal means complex vocabulary",
+      "Authority always uses commands",
+      "Informal variety is incorrect"
+    ],
+    "correct": 0,
+    "explanation": "Questions, inclusive pronouns and modality can exercise authority. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Questions, inclusive pronouns and modality can exercise authority. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

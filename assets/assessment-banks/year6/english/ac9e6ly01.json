@@ -1,22 +1,15 @@
 [
   {
-    "id": "ac9e6ly01-p-001",
+    "id": "AC9E6LY01-P-001",
     "curriculum_code": "AC9E6LY01",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "compare_headlines",
-    "question": "Which choice most directly frames an event?",
-    "audio_prompt": "Which choice most directly frames an event?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a class podcast, which choice most directly frames an event?",
+    "audio_prompt": "In a class podcast, which choice most directly frames an event?",
     "answers": [
-      {
-        "text": "Selecting a tight image of traffic disruption",
-        "is_correct": true
-      },
       {
         "text": "Including a correct date",
         "is_correct": false
@@ -26,32 +19,1440 @@
         "is_correct": false
       },
       {
+        "text": "Selecting a tight image of traffic disruption",
+        "is_correct": true
+      },
+      {
         "text": "Spelling all names correctly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Selecting a tight image of traffic disruption” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "Both texts may use true details while creating different representations through selection and framing."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-002",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "framing",
+    "question": "Which term best matches this meaning: “selection and arrangement shaping interpretation”?",
+    "audio_prompt": "Which term best matches this meaning: “selection and arrangement shaping interpretation”?",
+    "answers": [
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "positioning",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "framing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "framing means selection and arrangement shaping interpretation.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-003",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "sources",
+    "question": "Read this example from a science investigation: “residents and experts”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a science investigation: “residents and experts”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "sources",
+        "is_correct": true
+      },
+      {
+        "text": "headline",
+        "is_correct": false
+      },
+      {
+        "text": "image",
+        "is_correct": false
+      },
+      {
+        "text": "sequence",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "This choice best demonstrates compare headlines in the stated context.",
+      "summary": "“residents and experts” is an example of sources; here it official spokesperson.",
       "hint": "Both texts may use true details while creating different representations through selection and framing."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-p-002",
+    "id": "AC9E6LY01-P-004",
     "curriculum_code": "AC9E6LY01",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "representation",
-    "question": "Which term means “constructed version of an idea, person or event”?",
-    "audio_prompt": "Which term means “constructed version of an idea, person or event”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Audience effect stated as guaranteed”?",
+    "audio_prompt": "Which correction best fixes this idea: “Audience effect stated as guaranteed”?",
+    "answers": [
+      {
+        "text": "Media text treated as transparent reality",
+        "is_correct": false
+      },
+      {
+        "text": "Use likely or invites.",
+        "is_correct": true
+      },
+      {
+        "text": "Different representation called false automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Image considered self-explanatory",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use likely or invites. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
     },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-005",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "effect",
+    "question": "Which example would be most useful when explaining representation and influence in media texts in a sports-club discussion?",
+    "audio_prompt": "Which example would be most useful when explaining representation and influence in media texts in a sports-club discussion?",
+    "answers": [
+      {
+        "text": "‘Community demands action’",
+        "is_correct": false
+      },
+      {
+        "text": "wide crowd view",
+        "is_correct": false
+      },
+      {
+        "text": "collective concern",
+        "is_correct": true
+      },
+      {
+        "text": "residents and experts",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This example directly demonstrates effect and can be explained using the language clue in the text.",
+      "hint": "Students compare how headlines, source selection, sequencing, images, graphs, sound and evaluative language construct a version of an event and position audiences."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-006",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "compare_headlines",
+    "question": "In a library display, which statement is appropriately qualified?",
+    "audio_prompt": "In a library display, which statement is appropriately qualified?",
+    "answers": [
+      {
+        "text": "Every reader will definitely be angry",
+        "is_correct": false
+      },
+      {
+        "text": "The photograph proves all motives",
+        "is_correct": false
+      },
+      {
+        "text": "The text has no viewpoint",
+        "is_correct": false
+      },
+      {
+        "text": "The headline invites readers to see the event as disruptive",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“The headline invites readers to see the event as disruptive” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "Both texts may use true details while creating different representations through selection and framing."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-007",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "representation",
+    "question": "Which term best matches this meaning: “constructed version of an idea, person or event”?",
+    "audio_prompt": "Which term best matches this meaning: “constructed version of an idea, person or event”?",
+    "answers": [
+      {
+        "text": "representation",
+        "is_correct": true
+      },
+      {
+        "text": "framing",
+        "is_correct": false
+      },
+      {
+        "text": "positioning",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "representation means constructed version of an idea, person or event.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-008",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "sources",
+    "question": "Read this example from a student council meeting: “residents and experts”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a student council meeting: “residents and experts”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "headline",
+        "is_correct": false
+      },
+      {
+        "text": "sources",
+        "is_correct": true
+      },
+      {
+        "text": "image",
+        "is_correct": false
+      },
+      {
+        "text": "sequence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“residents and experts” is an example of sources; here it official spokesperson.",
+      "hint": "Both texts may use true details while creating different representations through selection and framing."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-009",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Media text treated as transparent reality”?",
+    "audio_prompt": "Which correction best fixes this idea: “Media text treated as transparent reality”?",
+    "answers": [
+      {
+        "text": "Media text treated as transparent reality",
+        "is_correct": false
+      },
+      {
+        "text": "Different representation called false automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse construction choices.",
+        "is_correct": true
+      },
+      {
+        "text": "Image considered self-explanatory",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Analyse construction choices. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-010",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "effect",
+    "question": "Which example would be most useful when explaining representation and influence in media texts in a environmental campaign?",
+    "audio_prompt": "Which example would be most useful when explaining representation and influence in media texts in a environmental campaign?",
+    "answers": [
+      {
+        "text": "‘Community demands action’",
+        "is_correct": false
+      },
+      {
+        "text": "wide crowd view",
+        "is_correct": false
+      },
+      {
+        "text": "residents and experts",
+        "is_correct": false
+      },
+      {
+        "text": "collective concern",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "This example directly demonstrates effect and can be explained using the language clue in the text.",
+      "hint": "Students compare how headlines, source selection, sequencing, images, graphs, sound and evaluative language construct a version of an event and position audiences."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-011",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "sources",
+    "question": "A museum caption includes “residents and experts”. Why is this an effective example of sources?",
+    "audio_prompt": "A museum caption includes “residents and experts”. Why is this an effective example of sources?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Both texts may use true details while creating different representations through selection and framing.",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It official spokesperson and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "residents and experts works because official spokesperson.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-012",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a student council meeting?",
+    "audio_prompt": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a student council meeting?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Check factual accuracy and framing separately.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-013",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "effect",
+    "question": "A local-history article includes “collective concern”. Why is this an effective example of effect?",
+    "audio_prompt": "A local-history article includes “collective concern”. Why is this an effective example of effect?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It public inconvenience and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Both texts may use true details while creating different representations through selection and framing.",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "collective concern works because public inconvenience.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-014",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use likely or invites.” a better rule than “Audience effect stated as guaranteed” when reading a environmental campaign?",
+    "audio_prompt": "Why is “Use likely or invites.” a better rule than “Audience effect stated as guaranteed” when reading a environmental campaign?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use likely or invites.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-015",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "image",
+    "question": "A book-club discussion includes “wide crowd view”. Why is this an effective example of image?",
+    "audio_prompt": "A book-club discussion includes “wide crowd view”. Why is this an effective example of image?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Both texts may use true details while creating different representations through selection and framing.",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It tight road-block crop and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "wide crowd view works because tight road-block crop.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-016",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a excursion briefing?",
+    "audio_prompt": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a excursion briefing?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Check factual accuracy and framing separately.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-017",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "sequence",
+    "question": "A design project includes “problem before disruption”. Why is this an effective example of sequence?",
+    "audio_prompt": "A design project includes “problem before disruption”. Why is this an effective example of sequence?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It disruption before issue and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Both texts may use true details while creating different representations through selection and framing.",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "problem before disruption works because disruption before issue.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-018",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use likely or invites.” a better rule than “Audience effect stated as guaranteed” when reading a weather report?",
+    "audio_prompt": "Why is “Use likely or invites.” a better rule than “Audience effect stated as guaranteed” when reading a weather report?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use likely or invites.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-019",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "headline",
+    "question": "A school assembly includes “‘Community demands action’”. Why is this an effective example of headline?",
+    "audio_prompt": "A school assembly includes “‘Community demands action’”. Why is this an effective example of headline?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Both texts may use true details while creating different representations through selection and framing.",
+        "is_correct": false
+      },
+      {
+        "text": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It ‘small protest disrupts traffic’ and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "‘Community demands action’ works because ‘small protest disrupts traffic’.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-020",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a peer feedback session?",
+    "audio_prompt": "Why is “Check factual accuracy and framing separately.” a better rule than “Different representation called false automatically” when reading a peer feedback session?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Check factual accuracy and framing separately.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-021",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A excursion briefing could use either “‘Community demands action’” or “compare selected facts/sources”. Which comparison is most accurate?",
+    "audio_prompt": "A excursion briefing could use either “‘Community demands action’” or “compare selected facts/sources”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“‘Community demands action’” shows headline, while “compare selected facts/sources” shows compare selected facts/sources.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: headline versus compare selected facts/sources.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-022",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a design project?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a design project?",
+    "answers": [
+      {
+        "text": "Media text treated as transparent reality",
+        "is_correct": false
+      },
+      {
+        "text": "Use crop, angle, caption and source.",
+        "is_correct": true
+      },
+      {
+        "text": "Different representation called false automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Image considered self-explanatory",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use crop, angle, caption and source. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-023",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A weather report could use either “residents and experts” or “inspect visuals/data scale”. Which comparison is most accurate?",
+    "audio_prompt": "A weather report could use either “residents and experts” or “inspect visuals/data scale”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“residents and experts” shows sources, while “inspect visuals/data scale” shows inspect visuals/data scale.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: sources versus inspect visuals/data scale.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-024",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Media text treated as transparent reality” in a school assembly?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Media text treated as transparent reality” in a school assembly?",
+    "answers": [
+      {
+        "text": "Media text treated as transparent reality",
+        "is_correct": false
+      },
+      {
+        "text": "Different representation called false automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Image considered self-explanatory",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse construction choices.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Analyse construction choices. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-025",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A peer feedback session could use either “collective concern” or “infer audience position”. Which comparison is most accurate?",
+    "audio_prompt": "A peer feedback session could use either “collective concern” or “infer audience position”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“collective concern” shows effect, while “infer audience position” shows infer audience position.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: effect versus infer audience position.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-026",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a cooking demonstration?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a cooking demonstration?",
+    "answers": [
+      {
+        "text": "Media text treated as transparent reality",
+        "is_correct": false
+      },
+      {
+        "text": "Use crop, angle, caption and source.",
+        "is_correct": true
+      },
+      {
+        "text": "Different representation called false automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Image considered self-explanatory",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use crop, angle, caption and source. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-027",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A arts review could use either “wide crowd view” or “identify represented event”. Which comparison is most accurate?",
+    "audio_prompt": "A arts review could use either “wide crowd view” or “identify represented event”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“wide crowd view” shows image, while “identify represented event” shows identify represented event.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: image versus identify represented event.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-028",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Media text treated as transparent reality” in a technology presentation?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Media text treated as transparent reality” in a technology presentation?",
+    "answers": [
+      {
+        "text": "Media text treated as transparent reality",
+        "is_correct": false
+      },
+      {
+        "text": "Different representation called false automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Image considered self-explanatory",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse construction choices.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Analyse construction choices. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-029",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A playground consultation could use either “problem before disruption” or “analyse headline and evaluation”. Which comparison is most accurate?",
+    "audio_prompt": "A playground consultation could use either “problem before disruption” or “analyse headline and evaluation”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“problem before disruption” shows sequence, while “analyse headline and evaluation” shows analyse headline and evaluation.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: sequence versus analyse headline and evaluation.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-030",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a class podcast?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Image considered self-explanatory” in a class podcast?",
+    "answers": [
+      {
+        "text": "Media text treated as transparent reality",
+        "is_correct": false
+      },
+      {
+        "text": "Use crop, angle, caption and source.",
+        "is_correct": true
+      },
+      {
+        "text": "Different representation called false automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Image considered self-explanatory",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use crop, angle, caption and source. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-031",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "check_sources",
+    "question": "You are editing a community garden proposal. Which statement is appropriately qualified?",
+    "audio_prompt": "You are editing a community garden proposal. Which statement is appropriately qualified?",
+    "answers": [
+      {
+        "text": "Every reader will definitely be angry",
+        "is_correct": false
+      },
+      {
+        "text": "The headline invites readers to see the event as disruptive",
+        "is_correct": true
+      },
+      {
+        "text": "The photograph proves all motives",
+        "is_correct": false
+      },
+      {
+        "text": "The text has no viewpoint",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-032",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "compare_selected_facts_sources",
+    "question": "A sports-club discussion needs a clear example of compare selected facts/sources. Which wording should you choose?",
+    "audio_prompt": "A sports-club discussion needs a clear example of compare selected facts/sources. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "identify represented event",
+        "is_correct": false
+      },
+      {
+        "text": "analyse headline and evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "compare selected facts/sources",
+        "is_correct": true
+      },
+      {
+        "text": "inspect visuals/data scale",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“compare selected facts/sources” is the best choice because it demonstrates compare selected facts/sources in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-033",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representation",
+    "question": "While revising a library display, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a library display, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "framing",
+        "is_correct": false
+      },
+      {
+        "text": "positioning",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "representation is the concept that matches constructed version of an idea, person or event.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-034",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "compare_headlines",
+    "question": "You are editing a museum caption. Which statement is appropriately qualified?",
+    "audio_prompt": "You are editing a museum caption. Which statement is appropriately qualified?",
+    "answers": [
+      {
+        "text": "The headline invites readers to see the event as disruptive",
+        "is_correct": true
+      },
+      {
+        "text": "Every reader will definitely be angry",
+        "is_correct": false
+      },
+      {
+        "text": "The photograph proves all motives",
+        "is_correct": false
+      },
+      {
+        "text": "The text has no viewpoint",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-035",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "notice_sound_sequence",
+    "question": "A student council meeting needs a clear example of notice sound/sequence. Which wording should you choose?",
+    "audio_prompt": "A student council meeting needs a clear example of notice sound/sequence. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "identify represented event",
+        "is_correct": false
+      },
+      {
+        "text": "notice sound/sequence",
+        "is_correct": true
+      },
+      {
+        "text": "compare selected facts/sources",
+        "is_correct": false
+      },
+      {
+        "text": "analyse headline and evaluation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“notice sound/sequence” is the best choice because it demonstrates notice sound/sequence in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-036",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representation",
+    "question": "While revising a local-history article, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a local-history article, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "framing",
+        "is_correct": false
+      },
+      {
+        "text": "positioning",
+        "is_correct": false
+      },
+      {
+        "text": "representation",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "representation is the concept that matches constructed version of an idea, person or event.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-037",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify_omission",
+    "question": "You are editing a environmental campaign. Which statement is appropriately qualified?",
+    "audio_prompt": "You are editing a environmental campaign. Which statement is appropriately qualified?",
+    "answers": [
+      {
+        "text": "Every reader will definitely be angry",
+        "is_correct": false
+      },
+      {
+        "text": "The photograph proves all motives",
+        "is_correct": false
+      },
+      {
+        "text": "The text has no viewpoint",
+        "is_correct": false
+      },
+      {
+        "text": "The headline invites readers to see the event as disruptive",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-038",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify_represented_event",
+    "question": "A book-club discussion needs a clear example of identify represented event. Which wording should you choose?",
+    "audio_prompt": "A book-club discussion needs a clear example of identify represented event. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "identify represented event",
+        "is_correct": true
+      },
+      {
+        "text": "compare selected facts/sources",
+        "is_correct": false
+      },
+      {
+        "text": "analyse headline and evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "inspect visuals/data scale",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“identify represented event” is the best choice because it demonstrates identify represented event in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-P-039",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "representation",
+    "question": "While revising a excursion briefing, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a excursion briefing, you need language that matches “constructed version of an idea, person or event”. Which concept should guide your choice?",
     "answers": [
       {
         "text": "framing",
@@ -66,32 +1467,30 @@
         "is_correct": false
       },
       {
-        "text": "Media text treated as transparent reality",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "representation means constructed version of an idea, person or event.",
-      "hint": "Match the definition to the most precise term used in Representation and Influence in Media Texts."
+      "summary": "representation is the concept that matches constructed version of an idea, person or event.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-p-003",
+    "id": "AC9E6LY01-P-040",
     "curriculum_code": "AC9E6LY01",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "analyse_crop",
-    "question": "Which statement is appropriately qualified?",
-    "audio_prompt": "Which statement is appropriately qualified?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "You are editing a design project. Which statement is appropriately qualified?",
+    "audio_prompt": "You are editing a design project. Which statement is appropriately qualified?",
     "answers": [
       {
         "text": "Every reader will definitely be angry",
@@ -112,186 +1511,138 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
+      "summary": "“The headline invites readers to see the event as disruptive” best fits the purpose and the language evidence in this new situation.",
       "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-p-004",
+    "id": "AC9E6LY01-T-001",
     "curriculum_code": "AC9E6LY01",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "misconception_repair",
-    "question": "A student says, “Media text treated as transparent reality.” Which response best corrects the misunderstanding?",
-    "audio_prompt": "A student says, “Media text treated as transparent reality.” Which response best corrects the misunderstanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "analyse_headline_and_evaluation",
+    "question": "A community radio segment includes “analyse headline and evaluation”. Which description best fits this wording?",
+    "audio_prompt": "A community radio segment includes “analyse headline and evaluation”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "Check factual accuracy and framing separately",
+        "text": "headline",
         "is_correct": false
       },
       {
-        "text": "Use crop, angle, caption and source",
+        "text": "image",
         "is_correct": false
       },
       {
-        "text": "Use likely or invites",
+        "text": "sources",
         "is_correct": false
       },
       {
-        "text": "Analyse construction choices",
+        "text": "analyse headline and evaluation",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Analyse construction choices",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "The wording best matches analyse headline and evaluation.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-p-005",
+    "id": "AC9E6LY01-T-002",
     "curriculum_code": "AC9E6LY01",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "audit_the_representation_of_one_event",
-    "question": "Which pairing accurately reflects the model for Representation and Influence in Media Texts?",
-    "audio_prompt": "Which pairing accurately reflects the model for Representation and Influence in Media Texts?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "representation",
+    "question": "In a wildlife-centre report, which term matches this meaning: “constructed version of an idea, person or event”?",
+    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “constructed version of an idea, person or event”?",
     "answers": [
       {
-        "text": "headline → ‘Community demands action’ → ‘Small protest disrupts traffic’",
+        "text": "representation",
         "is_correct": true
       },
       {
-        "text": "‘Small protest disrupts traffic’ → ‘Community demands action’ → headline",
+        "text": "framing",
         "is_correct": false
       },
       {
-        "text": "image → wide crowd view → tight road-block crop",
+        "text": "positioning",
         "is_correct": false
       },
       {
-        "text": "Different representation called false automatically",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Both texts may use true details while creating different representations through selection and framing."
+      "summary": "representation is the precise term for constructed version of an idea, person or event.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-p-006",
+    "id": "AC9E6LY01-T-003",
     "curriculum_code": "AC9E6LY01",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "concept_principle",
-    "question": "Which principle should guide a response about Representation and Influence in Media Texts?",
-    "audio_prompt": "Which principle should guide a response about Representation and Influence in Media Texts?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "representation_and_influence_in_media_texts",
+    "question": "For a regional youth forum, which choice most directly frames an event?",
+    "audio_prompt": "For a regional youth forum, which choice most directly frames an event?",
     "answers": [
       {
-        "text": "Media text treated as transparent reality",
+        "text": "Including a correct date",
         "is_correct": false
       },
       {
-        "text": "Both texts may use true details while creating different representations through selection and framing",
+        "text": "Selecting a tight image of traffic disruption",
         "is_correct": true
       },
       {
-        "text": "Different representation called false automatically",
+        "text": "Using page numbers",
         "is_correct": false
       },
       {
-        "text": "Image considered self-explanatory",
+        "text": "Spelling all names correctly",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Both texts may use true details while creating different representations through selection and framing",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6ly01-p-007",
-    "curriculum_code": "AC9E6LY01",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "guided_application",
-    "question": "Which plan would best complete this task: Compare two representations of the same event across headline, source, visual and sequence choices?",
-    "audio_prompt": "Which plan would best complete this task: Compare two representations of the same event across headline, source, visual and sequence choices?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "List features without explaining their effects.",
-        "is_correct": false
-      },
-      {
-        "text": "Give a personal preference without textual evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-        "is_correct": true
-      },
-      {
-        "text": "Discuss a different topic instead of the stated task.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
       "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-p-008",
+    "id": "AC9E6LY01-T-004",
     "curriculum_code": "AC9E6LY01",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "reasoning",
-    "question": "Which evidence would best show secure understanding of Representation and Influence in Media Texts?",
-    "audio_prompt": "Which evidence would best show secure understanding of Representation and Influence in Media Texts?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a coastal-monitoring update says, “Different representation called false automatically”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Different representation called false automatically”. Which response is most accurate?",
     "answers": [
       {
         "text": "Media text treated as transparent reality",
@@ -302,317 +1653,478 @@
         "is_correct": false
       },
       {
+        "text": "Check factual accuracy and framing separately.",
+        "is_correct": true
+      },
+      {
         "text": "Image considered self-explanatory",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-005",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "check_omissions_and_limitations",
+    "question": "A heritage trail guide includes “check omissions and limitations”. Which description best fits this wording?",
+    "audio_prompt": "A heritage trail guide includes “check omissions and limitations”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "headline",
         "is_correct": false
       },
       {
-        "text": "Students compare how headlines, source selection, sequencing, images, graphs, sound and evaluative language construct a version of an event and position audiences The response also explains its evidence and limitations.",
+        "text": "image",
+        "is_correct": false
+      },
+      {
+        "text": "sources",
+        "is_correct": false
+      },
+      {
+        "text": "check omissions and limitations",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "The wording best matches check omissions and limitations.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-t-001",
+    "id": "AC9E6LY01-T-006",
     "curriculum_code": "AC9E6LY01",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "framing",
-    "question": "In a new text, which definition correctly identifies framing?",
-    "audio_prompt": "In a new text, which definition correctly identifies framing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a public-transport survey, which term matches this meaning: “selection and arrangement shaping interpretation”?",
+    "audio_prompt": "In a public-transport survey, which term matches this meaning: “selection and arrangement shaping interpretation”?",
     "answers": [
       {
-        "text": "Selection and arrangement shaping interpretation",
+        "text": "framing",
         "is_correct": true
       },
       {
-        "text": "Constructed version of an idea, person or event",
+        "text": "representation",
         "is_correct": false
       },
       {
-        "text": "Ways a text invites audiences to think or feel",
+        "text": "positioning",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "framing is the precise term for selection and arrangement shaping interpretation.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-007",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "representation_and_influence_in_media_texts",
+    "question": "For a festival review, which choice most directly frames an event?",
+    "audio_prompt": "For a festival review, which choice most directly frames an event?",
+    "answers": [
+      {
+        "text": "Including a correct date",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting a tight image of traffic disruption",
+        "is_correct": true
+      },
+      {
+        "text": "Using page numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Spelling all names correctly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-008",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a emergency-preparedness talk says, “Different representation called false automatically”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Different representation called false automatically”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Media text treated as transparent reality",
         "is_correct": false
       },
       {
         "text": "Different representation called false automatically",
         "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "framing means selection and arrangement shaping interpretation.",
-      "hint": "Distinguish this term from related features in the unit."
-    }
-  },
-  {
-    "id": "ac9e6ly01-t-002",
-    "curriculum_code": "AC9E6LY01",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "diagnosis",
-    "question": "A response shows this problem: “Different representation called false automatically.” What is the most effective revision?",
-    "audio_prompt": "A response shows this problem: “Different representation called false automatically.” What is the most effective revision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Analyse construction choices",
-        "is_correct": false
       },
       {
-        "text": "Check factual accuracy and framing separately",
-        "is_correct": true
-      },
-      {
-        "text": "Use crop, angle, caption and source",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the response unchanged because the issue does not affect meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check factual accuracy and framing separately",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
-    }
-  },
-  {
-    "id": "ac9e6ly01-t-003",
-    "curriculum_code": "AC9E6LY01",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "audit_the_representation_of_one_event",
-    "question": "Which interpretation of this model element is accurate: “image → wide crowd view → tight road-block crop”?",
-    "audio_prompt": "Which interpretation of this model element is accurate: “image → wide crowd view → tight road-block crop”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The first part is decorative and can be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The second part always has the same effect in every text.",
-        "is_correct": false
-      },
-      {
-        "text": "It shows a deliberate relationship within Representation and Influence in Media Texts, so both parts must be interpreted together.",
-        "is_correct": true
-      },
-      {
-        "text": "The pairing proves that no alternative interpretation is possible.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "Both texts may use true details while creating different representations through selection and framing."
-    }
-  },
-  {
-    "id": "ac9e6ly01-t-004",
-    "curriculum_code": "AC9E6LY01",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "use_an_influence_analysis_sequence",
-    "question": "When applying Representation and Influence in Media Texts to an unfamiliar text, which analytical move is strongest?",
-    "audio_prompt": "When applying Representation and Influence in Media Texts to an unfamiliar text, which analytical move is strongest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name a feature and stop.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every audience responds identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace analysis with an unsupported personal judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
-    }
-  },
-  {
-    "id": "ac9e6ly01-t-005",
-    "curriculum_code": "AC9E6LY01",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "positioning",
-    "question": "Which example best demonstrates an understanding of positioning?",
-    "audio_prompt": "Which example best demonstrates an understanding of positioning?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Ways a text invites audiences to think or feel, identified using evidence from the text.",
+        "text": "Check factual accuracy and framing separately.",
         "is_correct": true
       },
       {
         "text": "Image considered self-explanatory",
         "is_correct": false
-      },
-      {
-        "text": "Audience effect stated as guaranteed",
-        "is_correct": false
-      },
-      {
-        "text": "A general comment that does not use the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "positioning is ways a text invites audiences to think or feel.",
-      "hint": "Select the response that applies the definition and uses evidence."
-    }
-  },
-  {
-    "id": "ac9e6ly01-t-006",
-    "curriculum_code": "AC9E6LY01",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "transfer",
-    "question": "Which conclusion stays within the evidence when analysing Representation and Influence in Media Texts?",
-    "audio_prompt": "Which conclusion stays within the evidence when analysing Representation and Influence in Media Texts?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "This single example proves the rule applies identically everywhere.",
-        "is_correct": false
-      },
-      {
-        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
-        "is_correct": true
-      },
-      {
-        "text": "The writer's choice guarantees the same reaction from every reader.",
-        "is_correct": false
-      },
-      {
-        "text": "No evidence is needed because the interpretation sounds reasonable.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
-    }
-  },
-  {
-    "id": "ac9e6ly01-t-007",
-    "curriculum_code": "AC9E6LY01",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "extended_analysis",
-    "question": "Which response plan best addresses this challenge: Create two accurate but differently framed reports of one event and annotate audience positioning?",
-    "audio_prompt": "Which response plan best addresses this challenge: Create two accurate but differently framed reports of one event and annotate audience positioning?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Copy the lesson example without adapting it.",
-        "is_correct": false
-      },
-      {
-        "text": "Add several unrelated features and do not explain them.",
-        "is_correct": false
-      },
-      {
-        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-        "is_correct": true
-      },
-      {
-        "text": "Describe the task but do not produce or analyse a response.",
-        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
-    }
+      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-t-008",
+    "id": "AC9E6LY01-T-009",
     "curriculum_code": "AC9E6LY01",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "critical_evaluation",
-    "question": "Which approach best addresses this evaluation: Evaluate how graph scale, image crop and source selection can combine to create a misleading impression?",
-    "audio_prompt": "Which approach best addresses this evaluation: Evaluate how graph scale, image crop and source selection can combine to create a misleading impression?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "inspect_visuals_data_scale",
+    "question": "A water-saving brochure includes “inspect visuals/data scale”. Which description best fits this wording?",
+    "audio_prompt": "A water-saving brochure includes “inspect visuals/data scale”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "Choose a preferred answer before examining evidence.",
+        "text": "headline",
         "is_correct": false
       },
       {
-        "text": "Summarise each example without comparing it.",
+        "text": "image",
         "is_correct": false
       },
       {
-        "text": "Treat one feature as proof of the whole judgement.",
+        "text": "sources",
         "is_correct": false
       },
       {
-        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "text": "inspect visuals/data scale",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
-    }
+      "summary": "The wording best matches inspect visuals/data scale.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-010",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "positioning",
+    "question": "In a local council submission, which term matches this meaning: “ways a text invites audiences to think or feel”?",
+    "audio_prompt": "In a local council submission, which term matches this meaning: “ways a text invites audiences to think or feel”?",
+    "answers": [
+      {
+        "text": "positioning",
+        "is_correct": true
+      },
+      {
+        "text": "representation",
+        "is_correct": false
+      },
+      {
+        "text": "framing",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "positioning is the precise term for ways a text invites audiences to think or feel.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-011",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "representation_and_influence_in_media_texts",
+    "question": "For a marine-research diary, which choice most directly frames an event?",
+    "audio_prompt": "For a marine-research diary, which choice most directly frames an event?",
+    "answers": [
+      {
+        "text": "Including a correct date",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting a tight image of traffic disruption",
+        "is_correct": true
+      },
+      {
+        "text": "Using page numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Spelling all names correctly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-012",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a farmers market profile says, “Different representation called false automatically”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a farmers market profile says, “Different representation called false automatically”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Media text treated as transparent reality",
+        "is_correct": false
+      },
+      {
+        "text": "Different representation called false automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Check factual accuracy and framing separately.",
+        "is_correct": true
+      },
+      {
+        "text": "Image considered self-explanatory",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-013",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "identify_represented_event",
+    "question": "A astronomy exhibition includes “identify represented event”. Which description best fits this wording?",
+    "audio_prompt": "A astronomy exhibition includes “identify represented event”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "headline",
+        "is_correct": false
+      },
+      {
+        "text": "image",
+        "is_correct": false
+      },
+      {
+        "text": "sources",
+        "is_correct": false
+      },
+      {
+        "text": "identify represented event",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The wording best matches identify represented event.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-014",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "representation",
+    "question": "In a river-restoration update, which term matches this meaning: “constructed version of an idea, person or event”?",
+    "audio_prompt": "In a river-restoration update, which term matches this meaning: “constructed version of an idea, person or event”?",
+    "answers": [
+      {
+        "text": "representation",
+        "is_correct": true
+      },
+      {
+        "text": "framing",
+        "is_correct": false
+      },
+      {
+        "text": "positioning",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "representation is the precise term for constructed version of an idea, person or event.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-015",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "representation_and_influence_in_media_texts",
+    "question": "For a cycling-safety campaign, which choice most directly frames an event?",
+    "audio_prompt": "For a cycling-safety campaign, which choice most directly frames an event?",
+    "answers": [
+      {
+        "text": "Including a correct date",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting a tight image of traffic disruption",
+        "is_correct": true
+      },
+      {
+        "text": "Using page numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Spelling all names correctly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-016",
+    "curriculum_code": "AC9E6LY01",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a neighbourhood history podcast says, “Different representation called false automatically”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Different representation called false automatically”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Media text treated as transparent reality",
+        "is_correct": false
+      },
+      {
+        "text": "Different representation called false automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Check factual accuracy and framing separately.",
+        "is_correct": true
+      },
+      {
+        "text": "Image considered self-explanatory",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
   }
 ]

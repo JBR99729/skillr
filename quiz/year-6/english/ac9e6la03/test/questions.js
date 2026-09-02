@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6la03-t-001",
+    "id": "AC9E6LA03-T-001",
     "curriculumCode": "AC9E6LA03",
     "bank": "test",
-    "skill": "text organisation",
+    "stage": "verify",
+    "skill": "stage 2",
     "printable": true,
     "type": "single",
-    "question": "Test example: A science report starts with a question, explains the method, shows the results and finishes with a cautious conclusion. What does this structure help the reader do?",
-    "audioPrompt": "Test example: A science report starts with a question, explains the method, shows the results and finishes with a cautious conclusion. What does this structure help the reader do?",
+    "question": "A community radio segment includes “compare options”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “compare options”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,115 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "They can predict where to find each kind of information.",
-      "It would hide the method from the reader.",
-      "It makes the text imaginative instead of informative.",
-      "It proves the conclusion before evidence is shown."
-    ],
-    "correct": 0,
-    "explanation": "They can predict where to find each kind of information.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "They can predict where to find each kind of information.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6la03-t-002",
-    "curriculumCode": "AC9E6LA03",
-    "bank": "test",
-    "skill": "text organisation",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: Nia is writing a history explanation about why a town changed over time. Which order would help most?",
-    "audioPrompt": "Test example: Nia is writing a history explanation about why a town changed over time. Which order would help most?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It makes the text imaginative instead of informative.",
-      "Give context first, then causes, key events and consequences.",
-      "It proves the conclusion before evidence is shown.",
-      "It removes the need for subject vocabulary."
-    ],
-    "correct": 1,
-    "explanation": "Give context first, then causes, key events and consequences.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "Give context first, then causes, key events and consequences.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6la03-t-003",
-    "curriculumCode": "AC9E6LA03",
-    "bank": "test",
-    "skill": "text organisation",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: A multimodal page has a heading, a timeline, two labelled images and a short conclusion. Which part most clearly helps the reader follow sequence?",
-    "audioPrompt": "Test example: A multimodal page has a heading, a timeline, two labelled images and a short conclusion. Which part most clearly helps the reader follow sequence?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It proves the conclusion before evidence is shown.",
-      "It removes the need for subject vocabulary.",
-      "The timeline.",
-      "It would hide the method from the reader."
-    ],
-    "correct": 2,
-    "explanation": "The timeline.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "The timeline.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6la03-t-004",
-    "curriculumCode": "AC9E6LA03",
-    "bank": "test",
-    "skill": "text organisation",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: A procedure for building a kite begins with materials before steps. Why is that useful?",
-    "audioPrompt": "Test example: A procedure for building a kite begins with materials before steps. Why is that useful?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "It removes the need for subject vocabulary.",
-      "It would hide the method from the reader.",
-      "It makes the text imaginative instead of informative.",
-      "Readers know what they need before they begin."
+      "science investigation",
+      "historical explanation",
+      "argument",
+      "Stage 2"
     ],
     "correct": 3,
-    "explanation": "Readers know what they need before they begin.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches Stage 2.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Readers know what they need before they begin.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches Stage 2.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la03-t-005",
+    "id": "AC9E6LA03-T-002",
     "curriculumCode": "AC9E6LA03",
     "bank": "test",
-    "skill": "text organisation",
+    "stage": "verify",
+    "skill": "stage",
     "printable": true,
     "type": "single",
-    "question": "Test example: Which sentence best explains why a writer might adapt a familiar report structure?",
-    "audioPrompt": "Test example: Which sentence best explains why a writer might adapt a familiar report structure?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “major functional section”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “major functional section”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The writer keeps the purpose clear while making the structure suit the topic and audience.",
-      "It would hide the method from the reader.",
-      "It makes the text imaginative instead of informative.",
-      "It proves the conclusion before evidence is shown."
+      "stage",
+      "phase",
+      "disciplinary language",
+      "It does not match the evidence in the example."
     ],
     "correct": 0,
-    "explanation": "The writer keeps the purpose clear while making the structure suit the topic and audience.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "stage is the precise term for major functional section.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "The writer keeps the purpose clear while making the structure suit the topic and audience.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "stage is the precise term for major functional section.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la03-t-006",
+    "id": "AC9E6LA03-T-003",
     "curriculumCode": "AC9E6LA03",
     "bank": "test",
-    "skill": "text organisation",
+    "stage": "verify",
+    "skill": "organisation of curriculum texts",
     "printable": true,
     "type": "single",
-    "question": "Test example: a student says every stage must be one paragraph. Which example disproves this?",
-    "audioPrompt": "Test example: a student says every stage must be one paragraph. Which example disproves this?",
+    "question": "For a regional youth forum, which sequence best suits a scientific investigation report?",
+    "audioPrompt": "For a regional youth forum, which sequence best suits a scientific investigation report?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes the text imaginative instead of informative.",
-      "A results stage may include a paragraph, a table and a labelled graph.",
-      "It proves the conclusion before evidence is shown.",
-      "It removes the need for subject vocabulary."
+      "orientation, climax, resolution only",
+      "question, method, results, conclusion",
+      "slogan, price, purchase",
+      "greeting, joke, farewell"
     ],
     "correct": 1,
-    "explanation": "A results stage may include a paragraph, a table and a labelled graph.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.\nHint: Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
     "structuredExplanation": {
-      "summary": "A results stage may include a paragraph, a table and a labelled graph.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.",
+      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la03-t-007",
+    "id": "AC9E6LA03-T-004",
     "curriculumCode": "AC9E6LA03",
     "bank": "test",
-    "skill": "text organisation",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: which choice best links text structure to subject purpose?",
-    "audioPrompt": "Test example: which choice best links text structure to subject purpose?",
+    "question": "A writer preparing a coastal-monitoring update says, “Every subject uses one text type”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Every subject uses one text type”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It proves the conclusion before evidence is shown.",
-      "It removes the need for subject vocabulary.",
-      "A science report organises measurements and evidence so claims can be checked.",
-      "It would hide the method from the reader."
+      "Stage equals one paragraph",
+      "Every subject uses one text type",
+      "Purpose determines form.",
+      "Template followed without adaptation"
     ],
     "correct": 2,
-    "explanation": "A science report organises measurements and evidence so claims can be checked.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "A science report organises measurements and evidence so claims can be checked.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la03-t-008",
+    "id": "AC9E6LA03-T-005",
     "curriculumCode": "AC9E6LA03",
     "bank": "test",
-    "skill": "text organisation",
+    "stage": "verify",
+    "skill": "phase",
     "printable": true,
     "type": "single",
-    "question": "Test example: a website explanation uses tabs labelled Cause, Evidence and Impact. What are the tabs doing?",
-    "audioPrompt": "Test example: a website explanation uses tabs labelled Cause, Evidence and Impact. What are the tabs doing?",
+    "question": "A heritage trail guide includes “example → evidence → interpretation”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “example → evidence → interpretation”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +137,348 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It removes the need for subject vocabulary.",
-      "It would hide the method from the reader.",
-      "It makes the text imaginative instead of informative.",
-      "They organise phases of the explanation so readers can move through the ideas."
+      "science investigation",
+      "historical explanation",
+      "argument",
+      "Phase"
     ],
     "correct": 3,
-    "explanation": "They organise phases of the explanation so readers can move through the ideas.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches Phase.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "They organise phases of the explanation so readers can move through the ideas.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches Phase.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-006",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "phase",
+    "printable": true,
+    "type": "single",
+    "question": "In a public-transport survey, which term matches this meaning: “smaller move developing a stage”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “smaller move developing a stage”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "phase",
+      "stage",
+      "disciplinary language",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 0,
+    "explanation": "phase is the precise term for smaller move developing a stage.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "phase is the precise term for smaller move developing a stage.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-007",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "organisation of curriculum texts",
+    "printable": true,
+    "type": "single",
+    "question": "For a festival review, which sequence best suits a scientific investigation report?",
+    "audioPrompt": "For a festival review, which sequence best suits a scientific investigation report?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "orientation, climax, resolution only",
+      "question, method, results, conclusion",
+      "slogan, price, purchase",
+      "greeting, joke, farewell"
+    ],
+    "correct": 1,
+    "explanation": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.\nHint: Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
+    "structuredExplanation": {
+      "summary": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.",
+      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-008",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a emergency-preparedness talk says, “Every subject uses one text type”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Every subject uses one text type”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Stage equals one paragraph",
+      "Every subject uses one text type",
+      "Purpose determines form.",
+      "Template followed without adaptation"
+    ],
+    "correct": 2,
+    "explanation": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-009",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "stage 1",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “explain key concept”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “explain key concept”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "science investigation",
+      "historical explanation",
+      "argument",
+      "Stage 1"
+    ],
+    "correct": 3,
+    "explanation": "The wording best matches Stage 1.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches Stage 1.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-010",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "disciplinary language",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “specialised language patterns of a subject”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “specialised language patterns of a subject”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "disciplinary language",
+      "stage",
+      "phase",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 0,
+    "explanation": "disciplinary language is the precise term for specialised language patterns of a subject.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "disciplinary language is the precise term for specialised language patterns of a subject.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-011",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "organisation of curriculum texts",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, which sequence best suits a scientific investigation report?",
+    "audioPrompt": "For a marine-research diary, which sequence best suits a scientific investigation report?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "orientation, climax, resolution only",
+      "question, method, results, conclusion",
+      "slogan, price, purchase",
+      "greeting, joke, farewell"
+    ],
+    "correct": 1,
+    "explanation": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.\nHint: Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
+    "structuredExplanation": {
+      "summary": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.",
+      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-012",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “Every subject uses one text type”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “Every subject uses one text type”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Stage equals one paragraph",
+      "Every subject uses one text type",
+      "Purpose determines form.",
+      "Template followed without adaptation"
+    ],
+    "correct": 2,
+    "explanation": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-013",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "conclusion",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “synthesise and recommend”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “synthesise and recommend”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "science investigation",
+      "historical explanation",
+      "argument",
+      "Conclusion"
+    ],
+    "correct": 3,
+    "explanation": "The wording best matches Conclusion.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches Conclusion.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-014",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "stage",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “major functional section”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “major functional section”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "stage",
+      "phase",
+      "disciplinary language",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 0,
+    "explanation": "stage is the precise term for major functional section.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "stage is the precise term for major functional section.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-015",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "organisation of curriculum texts",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, which sequence best suits a scientific investigation report?",
+    "audioPrompt": "For a cycling-safety campaign, which sequence best suits a scientific investigation report?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "orientation, climax, resolution only",
+      "question, method, results, conclusion",
+      "slogan, price, purchase",
+      "greeting, joke, farewell"
+    ],
+    "correct": 1,
+    "explanation": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.\nHint: Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts.",
+    "structuredExplanation": {
+      "summary": "“question, method, results, conclusion” is supported by the language evidence and purpose of the text.",
+      "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-T-016",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “Every subject uses one text type”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Every subject uses one text type”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Stage equals one paragraph",
+      "Every subject uses one text type",
+      "Purpose determines form.",
+      "Template followed without adaptation"
+    ],
+    "correct": 2,
+    "explanation": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Purpose determines form. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

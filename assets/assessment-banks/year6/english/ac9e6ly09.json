@@ -1,22 +1,15 @@
 [
   {
-    "id": "ac9e6ly09-p-001",
+    "id": "AC9E6LY09-P-001",
     "curriculum_code": "AC9E6LY09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "identify_root",
-    "question": "What does the root bio commonly relate to?",
-    "audio_prompt": "What does the root bio commonly relate to?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a class podcast, what does the root bio commonly relate to?",
+    "audio_prompt": "In a class podcast, what does the root bio commonly relate to?",
     "answers": [
-      {
-        "text": "life",
-        "is_correct": true
-      },
       {
         "text": "light",
         "is_correct": false
@@ -26,32 +19,1440 @@
         "is_correct": false
       },
       {
+        "text": "life",
+        "is_correct": true
+      },
+      {
         "text": "distance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“life” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-002",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "root",
+    "question": "Which term best matches this meaning: “core historical or meaning element”?",
+    "audio_prompt": "Which term best matches this meaning: “core historical or meaning element”?",
+    "answers": [
+      {
+        "text": "etymology",
+        "is_correct": false
+      },
+      {
+        "text": "morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "root",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "root means core historical or meaning element.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-003",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "spect",
+    "question": "Read this example from a science investigation: “look/see”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a science investigation: “look/see”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "spect",
+        "is_correct": true
+      },
+      {
+        "text": "bio",
+        "is_correct": false
+      },
+      {
+        "text": "geo",
+        "is_correct": false
+      },
+      {
+        "text": "port",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "This choice best demonstrates identify root in the stated context.",
+      "summary": "“look/see” is an example of spect; here it inspect, spectator, perspective.",
       "hint": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-p-002",
+    "id": "AC9E6LY09-P-004",
     "curriculum_code": "AC9E6LY09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "etymology",
-    "question": "Which term means “history and origin of a word”?",
-    "audio_prompt": "Which term means “history and origin of a word”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Dictionary use considered failure”?",
+    "audio_prompt": "Which correction best fixes this idea: “Dictionary use considered failure”?",
+    "answers": [
+      {
+        "text": "Root clue treated as full definition",
+        "is_correct": false
+      },
+      {
+        "text": "Verification is an independent strategy.",
+        "is_correct": true
+      },
+      {
+        "text": "Every apparent string is a true morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "Pronunciation change hides relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Verification is an independent strategy. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
     },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-005",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "scrib_script",
+    "question": "Which example would be most useful when explaining word origins, morphemes and unfamiliar words in a sports-club discussion?",
+    "audio_prompt": "Which example would be most useful when explaining word origins, morphemes and unfamiliar words in a sports-club discussion?",
+    "answers": [
+      {
+        "text": "life",
+        "is_correct": false
+      },
+      {
+        "text": "earth",
+        "is_correct": false
+      },
+      {
+        "text": "write",
+        "is_correct": true
+      },
+      {
+        "text": "look/see",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This example directly demonstrates scrib/script and can be explained using the language clue in the text.",
+      "hint": "Students decompose words into meaningful parts, connect roots across curriculum vocabulary, account for pronunciation or spelling shifts and verify inferred meanings in context and reference sources."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-006",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "identify_root",
+    "question": "In a library display, which word belongs to the spect family?",
+    "audio_prompt": "In a library display, which word belongs to the spect family?",
+    "answers": [
+      {
+        "text": "transport",
+        "is_correct": false
+      },
+      {
+        "text": "biology",
+        "is_correct": false
+      },
+      {
+        "text": "geothermal",
+        "is_correct": false
+      },
+      {
+        "text": "inspect",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“inspect” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-007",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "etymology",
+    "question": "Which term best matches this meaning: “history and origin of a word”?",
+    "audio_prompt": "Which term best matches this meaning: “history and origin of a word”?",
+    "answers": [
+      {
+        "text": "etymology",
+        "is_correct": true
+      },
+      {
+        "text": "root",
+        "is_correct": false
+      },
+      {
+        "text": "morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "etymology means history and origin of a word.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-008",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "spect",
+    "question": "Read this example from a student council meeting: “look/see”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a student council meeting: “look/see”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "bio",
+        "is_correct": false
+      },
+      {
+        "text": "spect",
+        "is_correct": true
+      },
+      {
+        "text": "geo",
+        "is_correct": false
+      },
+      {
+        "text": "port",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“look/see” is an example of spect; here it inspect, spectator, perspective.",
+      "hint": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-009",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Root clue treated as full definition”?",
+    "audio_prompt": "Which correction best fixes this idea: “Root clue treated as full definition”?",
+    "answers": [
+      {
+        "text": "Root clue treated as full definition",
+        "is_correct": false
+      },
+      {
+        "text": "Every apparent string is a true morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "Use affixes and context.",
+        "is_correct": true
+      },
+      {
+        "text": "Pronunciation change hides relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use affixes and context. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-010",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "scrib_script",
+    "question": "Which example would be most useful when explaining word origins, morphemes and unfamiliar words in a environmental campaign?",
+    "audio_prompt": "Which example would be most useful when explaining word origins, morphemes and unfamiliar words in a environmental campaign?",
+    "answers": [
+      {
+        "text": "life",
+        "is_correct": false
+      },
+      {
+        "text": "earth",
+        "is_correct": false
+      },
+      {
+        "text": "look/see",
+        "is_correct": false
+      },
+      {
+        "text": "write",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "This example directly demonstrates scrib/script and can be explained using the language clue in the text.",
+      "hint": "Students decompose words into meaningful parts, connect roots across curriculum vocabulary, account for pronunciation or spelling shifts and verify inferred meanings in context and reference sources."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-011",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "spect",
+    "question": "A museum caption includes “look/see”. Why is this an effective example of spect?",
+    "audio_prompt": "A museum caption includes “look/see”. Why is this an effective example of spect?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin.",
+        "is_correct": false
+      },
+      {
+        "text": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+        "is_correct": false
+      },
+      {
+        "text": "It inspect, spectator, perspective and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "look/see works because inspect, spectator, perspective.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-012",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Check word family and source.” a better rule than “Every apparent string is a true morpheme” when reading a student council meeting?",
+    "audio_prompt": "Why is “Check word family and source.” a better rule than “Every apparent string is a true morpheme” when reading a student council meeting?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Check word family and source.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-013",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "scrib_script",
+    "question": "A local-history article includes “write”. Why is this an effective example of scrib/script?",
+    "audio_prompt": "A local-history article includes “write”. Why is this an effective example of scrib/script?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It describe, manuscript, inscription and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin.",
+        "is_correct": false
+      },
+      {
+        "text": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "write works because describe, manuscript, inscription.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-014",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Verification is an independent strategy.” a better rule than “Dictionary use considered failure” when reading a environmental campaign?",
+    "audio_prompt": "Why is “Verification is an independent strategy.” a better rule than “Dictionary use considered failure” when reading a environmental campaign?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Verification is an independent strategy.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-015",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "geo",
+    "question": "A book-club discussion includes “earth”. Why is this an effective example of geo?",
+    "audio_prompt": "A book-club discussion includes “earth”. Why is this an effective example of geo?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin.",
+        "is_correct": false
+      },
+      {
+        "text": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+        "is_correct": false
+      },
+      {
+        "text": "It geology, geography, geothermal and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "earth works because geology, geography, geothermal.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-016",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Check word family and source.” a better rule than “Every apparent string is a true morpheme” when reading a excursion briefing?",
+    "audio_prompt": "Why is “Check word family and source.” a better rule than “Every apparent string is a true morpheme” when reading a excursion briefing?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Check word family and source.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-017",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "port",
+    "question": "A design project includes “carry”. Why is this an effective example of port?",
+    "audio_prompt": "A design project includes “carry”. Why is this an effective example of port?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It transport, portable, import and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin.",
+        "is_correct": false
+      },
+      {
+        "text": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "carry works because transport, portable, import.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-018",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Verification is an independent strategy.” a better rule than “Dictionary use considered failure” when reading a weather report?",
+    "audio_prompt": "Why is “Verification is an independent strategy.” a better rule than “Dictionary use considered failure” when reading a weather report?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Verification is an independent strategy.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-019",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "bio",
+    "question": "A school assembly includes “life”. Why is this an effective example of bio?",
+    "audio_prompt": "A school assembly includes “life”. Why is this an effective example of bio?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin.",
+        "is_correct": false
+      },
+      {
+        "text": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician.",
+        "is_correct": false
+      },
+      {
+        "text": "It biology, biography, biodegradable and supports the purpose of the text.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "life works because biology, biography, biodegradable.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-020",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Check word family and source.” a better rule than “Every apparent string is a true morpheme” when reading a peer feedback session?",
+    "audio_prompt": "Why is “Check word family and source.” a better rule than “Every apparent string is a true morpheme” when reading a peer feedback session?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Check word family and source.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-021",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A excursion briefing could use either “life” or “noun, verb, adjective?”. Which comparison is most accurate?",
+    "audio_prompt": "A excursion briefing could use either “life” or “noun, verb, adjective?”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“life” shows bio, while “noun, verb, adjective?” shows Check grammar.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: bio versus Check grammar.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-022",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Pronunciation change hides relationship” in a design project?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Pronunciation change hides relationship” in a design project?",
+    "answers": [
+      {
+        "text": "Root clue treated as full definition",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology may preserve spelling.",
+        "is_correct": true
+      },
+      {
+        "text": "Every apparent string is a true morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "Pronunciation change hides relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Morphology may preserve spelling. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-023",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A weather report could use either “look/see” or “related words and spelling”. Which comparison is most accurate?",
+    "audio_prompt": "A weather report could use either “look/see” or “related words and spelling”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“look/see” shows spect, while “related words and spelling” shows Compare family.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: spect versus Compare family.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-024",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Root clue treated as full definition” in a school assembly?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Root clue treated as full definition” in a school assembly?",
+    "answers": [
+      {
+        "text": "Root clue treated as full definition",
+        "is_correct": false
+      },
+      {
+        "text": "Every apparent string is a true morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "Pronunciation change hides relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use affixes and context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use affixes and context. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-025",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A peer feedback session could use either “write” or “write an original sentence”. Which comparison is most accurate?",
+    "audio_prompt": "A peer feedback session could use either “write” or “write an original sentence”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“write” shows scrib/script, while “write an original sentence” shows Use.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: scrib/script versus Use.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-026",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Pronunciation change hides relationship” in a cooking demonstration?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Pronunciation change hides relationship” in a cooking demonstration?",
+    "answers": [
+      {
+        "text": "Root clue treated as full definition",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology may preserve spelling.",
+        "is_correct": true
+      },
+      {
+        "text": "Every apparent string is a true morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "Pronunciation change hides relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Morphology may preserve spelling. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-027",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A arts review could use either “earth” or “noun, verb, adjective?”. Which comparison is most accurate?",
+    "audio_prompt": "A arts review could use either “earth” or “noun, verb, adjective?”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“earth” shows geo, while “noun, verb, adjective?” shows Check grammar.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: geo versus Check grammar.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-028",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Root clue treated as full definition” in a technology presentation?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Root clue treated as full definition” in a technology presentation?",
+    "answers": [
+      {
+        "text": "Root clue treated as full definition",
+        "is_correct": false
+      },
+      {
+        "text": "Every apparent string is a true morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "Pronunciation change hides relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Use affixes and context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use affixes and context. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-029",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A playground consultation could use either “carry” or “related words and spelling”. Which comparison is most accurate?",
+    "audio_prompt": "A playground consultation could use either “carry” or “related words and spelling”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“carry” shows port, while “related words and spelling” shows Compare family.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: port versus Compare family.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-030",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Pronunciation change hides relationship” in a class podcast?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Pronunciation change hides relationship” in a class podcast?",
+    "answers": [
+      {
+        "text": "Root clue treated as full definition",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology may preserve spelling.",
+        "is_correct": true
+      },
+      {
+        "text": "Every apparent string is a true morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "Pronunciation change hides relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Morphology may preserve spelling. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-031",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "infer_word_class",
+    "question": "You are editing a community garden proposal. Which word belongs to the spect family?",
+    "audio_prompt": "You are editing a community garden proposal. Which word belongs to the spect family?",
+    "answers": [
+      {
+        "text": "transport",
+        "is_correct": false
+      },
+      {
+        "text": "inspect",
+        "is_correct": true
+      },
+      {
+        "text": "biology",
+        "is_correct": false
+      },
+      {
+        "text": "geothermal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“inspect” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-032",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "check_grammar",
+    "question": "A sports-club discussion needs a clear example of Check grammar. Which wording should you choose?",
+    "audio_prompt": "A sports-club discussion needs a clear example of Check grammar. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "combine morpheme meanings",
+        "is_correct": false
+      },
+      {
+        "text": "does meaning fit?",
+        "is_correct": false
+      },
+      {
+        "text": "noun, verb, adjective?",
+        "is_correct": true
+      },
+      {
+        "text": "related words and spelling",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“noun, verb, adjective?” is the best choice because it demonstrates Check grammar in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-033",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "etymology",
+    "question": "While revising a library display, you need language that matches “history and origin of a word”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a library display, you need language that matches “history and origin of a word”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "root",
+        "is_correct": false
+      },
+      {
+        "text": "morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "etymology",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "etymology is the concept that matches history and origin of a word.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-034",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify_root",
+    "question": "You are editing a museum caption. Which word belongs to the spect family?",
+    "audio_prompt": "You are editing a museum caption. Which word belongs to the spect family?",
+    "answers": [
+      {
+        "text": "inspect",
+        "is_correct": true
+      },
+      {
+        "text": "transport",
+        "is_correct": false
+      },
+      {
+        "text": "biology",
+        "is_correct": false
+      },
+      {
+        "text": "geothermal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“inspect” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-035",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "verify",
+    "question": "A student council meeting needs a clear example of Verify. Which wording should you choose?",
+    "audio_prompt": "A student council meeting needs a clear example of Verify. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "combine morpheme meanings",
+        "is_correct": false
+      },
+      {
+        "text": "dictionary or trusted subject source",
+        "is_correct": true
+      },
+      {
+        "text": "noun, verb, adjective?",
+        "is_correct": false
+      },
+      {
+        "text": "does meaning fit?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“dictionary or trusted subject source” is the best choice because it demonstrates Verify in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-036",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "etymology",
+    "question": "While revising a local-history article, you need language that matches “history and origin of a word”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a local-history article, you need language that matches “history and origin of a word”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "root",
+        "is_correct": false
+      },
+      {
+        "text": "morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "etymology",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "etymology is the concept that matches history and origin of a word.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-037",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "check_family",
+    "question": "You are editing a environmental campaign. Which word belongs to the spect family?",
+    "audio_prompt": "You are editing a environmental campaign. Which word belongs to the spect family?",
+    "answers": [
+      {
+        "text": "transport",
+        "is_correct": false
+      },
+      {
+        "text": "biology",
+        "is_correct": false
+      },
+      {
+        "text": "geothermal",
+        "is_correct": false
+      },
+      {
+        "text": "inspect",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“inspect” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-038",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "check_grammar",
+    "question": "A book-club discussion needs a clear example of Check grammar. Which wording should you choose?",
+    "audio_prompt": "A book-club discussion needs a clear example of Check grammar. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "noun, verb, adjective?",
+        "is_correct": true
+      },
+      {
+        "text": "combine morpheme meanings",
+        "is_correct": false
+      },
+      {
+        "text": "does meaning fit?",
+        "is_correct": false
+      },
+      {
+        "text": "related words and spelling",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“noun, verb, adjective?” is the best choice because it demonstrates Check grammar in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-P-039",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "etymology",
+    "question": "While revising a excursion briefing, you need language that matches “history and origin of a word”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a excursion briefing, you need language that matches “history and origin of a word”. Which concept should guide your choice?",
     "answers": [
       {
         "text": "root",
@@ -66,32 +1467,30 @@
         "is_correct": false
       },
       {
-        "text": "Root clue treated as full definition",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "etymology means history and origin of a word.",
-      "hint": "Match the definition to the most precise term used in Word Origins, Morphemes and Unfamiliar Words."
+      "summary": "etymology is the concept that matches history and origin of a word.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-p-003",
+    "id": "AC9E6LY09-P-040",
     "curriculum_code": "AC9E6LY09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "combine_morphemes",
-    "question": "Which word belongs to the spect family?",
-    "audio_prompt": "Which word belongs to the spect family?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "You are editing a design project. Which word belongs to the spect family?",
+    "audio_prompt": "You are editing a design project. Which word belongs to the spect family?",
     "answers": [
       {
         "text": "transport",
@@ -112,186 +1511,138 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
+      "summary": "“inspect” best fits the purpose and the language evidence in this new situation.",
       "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-p-004",
+    "id": "AC9E6LY09-T-001",
     "curriculum_code": "AC9E6LY09",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "misconception_repair",
-    "question": "A student says, “Root clue treated as full definition.” Which response best corrects the misunderstanding?",
-    "audio_prompt": "A student says, “Root clue treated as full definition.” Which response best corrects the misunderstanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "read_context",
+    "question": "A community radio segment includes “does meaning fit?”. Which description best fits this wording?",
+    "audio_prompt": "A community radio segment includes “does meaning fit?”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "Check word family and source",
+        "text": "bio",
         "is_correct": false
       },
       {
-        "text": "Morphology may preserve spelling",
+        "text": "geo",
         "is_correct": false
       },
       {
-        "text": "Verification is an independent strategy",
+        "text": "spect",
         "is_correct": false
       },
       {
-        "text": "Use affixes and context",
+        "text": "Read context",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use affixes and context",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "The wording best matches Read context.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-p-005",
+    "id": "AC9E6LY09-T-002",
     "curriculum_code": "AC9E6LY09",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "build_a_root_based_word_network",
-    "question": "Which pairing accurately reflects the model for Word Origins, Morphemes and Unfamiliar Words?",
-    "audio_prompt": "Which pairing accurately reflects the model for Word Origins, Morphemes and Unfamiliar Words?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "etymology",
+    "question": "In a wildlife-centre report, which term matches this meaning: “history and origin of a word”?",
+    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “history and origin of a word”?",
     "answers": [
       {
-        "text": "bio → life → biology, biography, biodegradable",
+        "text": "etymology",
         "is_correct": true
       },
       {
-        "text": "biology, biography, biodegradable → life → bio",
+        "text": "root",
         "is_correct": false
       },
       {
-        "text": "geo → earth → geology, geography, geothermal",
+        "text": "morpheme",
         "is_correct": false
       },
       {
-        "text": "Every apparent string is a true morpheme",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin."
+      "summary": "etymology is the precise term for history and origin of a word.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-p-006",
+    "id": "AC9E6LY09-T-003",
     "curriculum_code": "AC9E6LY09",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "concept_principle",
-    "question": "Which principle should guide a response about Word Origins, Morphemes and Unfamiliar Words?",
-    "audio_prompt": "Which principle should guide a response about Word Origins, Morphemes and Unfamiliar Words?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "word_origins_morphemes_and_unfamiliar_words",
+    "question": "For a regional youth forum, what does the root bio commonly relate to?",
+    "audio_prompt": "For a regional youth forum, what does the root bio commonly relate to?",
     "answers": [
       {
-        "text": "Root clue treated as full definition",
+        "text": "light",
         "is_correct": false
       },
       {
-        "text": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin",
+        "text": "life",
         "is_correct": true
       },
       {
-        "text": "Every apparent string is a true morpheme",
+        "text": "sound",
         "is_correct": false
       },
       {
-        "text": "Pronunciation change hides relationship",
+        "text": "distance",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6ly09-p-007",
-    "curriculum_code": "AC9E6LY09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "guided_application",
-    "question": "Which plan would best complete this task: Analyse three unfamiliar curriculum words using roots, affixes, word class and context, then verify?",
-    "audio_prompt": "Which plan would best complete this task: Analyse three unfamiliar curriculum words using roots, affixes, word class and context, then verify?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "List features without explaining their effects.",
-        "is_correct": false
-      },
-      {
-        "text": "Give a personal preference without textual evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-        "is_correct": true
-      },
-      {
-        "text": "Discuss a different topic instead of the stated task.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
+      "summary": "“life” is supported by the language evidence and purpose of the text.",
       "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-p-008",
+    "id": "AC9E6LY09-T-004",
     "curriculum_code": "AC9E6LY09",
     "year_level": "Year 6",
     "subject": "english",
-    "bank": "practice",
-    "skill": "reasoning",
-    "question": "Which evidence would best show secure understanding of Word Origins, Morphemes and Unfamiliar Words?",
-    "audio_prompt": "Which evidence would best show secure understanding of Word Origins, Morphemes and Unfamiliar Words?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a coastal-monitoring update says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Every apparent string is a true morpheme”. Which response is most accurate?",
     "answers": [
       {
         "text": "Root clue treated as full definition",
@@ -302,317 +1653,478 @@
         "is_correct": false
       },
       {
+        "text": "Check word family and source.",
+        "is_correct": true
+      },
+      {
         "text": "Pronunciation change hides relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-005",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "infer",
+    "question": "A heritage trail guide includes “combine morpheme meanings”. Which description best fits this wording?",
+    "audio_prompt": "A heritage trail guide includes “combine morpheme meanings”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "bio",
         "is_correct": false
       },
       {
-        "text": "Students decompose words into meaningful parts, connect roots across curriculum vocabulary, account for pronunciation or spelling shifts and verify inferred meanings in context and reference sources The response also explains its evidence and limitations.",
+        "text": "geo",
+        "is_correct": false
+      },
+      {
+        "text": "spect",
+        "is_correct": false
+      },
+      {
+        "text": "Infer",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "The wording best matches Infer.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-t-001",
+    "id": "AC9E6LY09-T-006",
     "curriculum_code": "AC9E6LY09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "root",
-    "question": "In a new text, which definition correctly identifies root?",
-    "audio_prompt": "In a new text, which definition correctly identifies root?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a public-transport survey, which term matches this meaning: “core historical or meaning element”?",
+    "audio_prompt": "In a public-transport survey, which term matches this meaning: “core historical or meaning element”?",
     "answers": [
       {
-        "text": "Core historical or meaning element",
+        "text": "root",
         "is_correct": true
       },
       {
-        "text": "History and origin of a word",
+        "text": "etymology",
         "is_correct": false
       },
       {
-        "text": "Smallest meaningful language unit",
+        "text": "morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "root is the precise term for core historical or meaning element.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-007",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "word_origins_morphemes_and_unfamiliar_words",
+    "question": "For a festival review, what does the root bio commonly relate to?",
+    "audio_prompt": "For a festival review, what does the root bio commonly relate to?",
+    "answers": [
+      {
+        "text": "light",
+        "is_correct": false
+      },
+      {
+        "text": "life",
+        "is_correct": true
+      },
+      {
+        "text": "sound",
+        "is_correct": false
+      },
+      {
+        "text": "distance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“life” is supported by the language evidence and purpose of the text.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-008",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a emergency-preparedness talk says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Root clue treated as full definition",
         "is_correct": false
       },
       {
         "text": "Every apparent string is a true morpheme",
         "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "root means core historical or meaning element.",
-      "hint": "Distinguish this term from related features in the unit."
-    }
-  },
-  {
-    "id": "ac9e6ly09-t-002",
-    "curriculum_code": "AC9E6LY09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "diagnosis",
-    "question": "A response shows this problem: “Every apparent string is a true morpheme.” What is the most effective revision?",
-    "audio_prompt": "A response shows this problem: “Every apparent string is a true morpheme.” What is the most effective revision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use affixes and context",
-        "is_correct": false
       },
       {
-        "text": "Check word family and source",
-        "is_correct": true
-      },
-      {
-        "text": "Morphology may preserve spelling",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the response unchanged because the issue does not affect meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Check word family and source",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
-    }
-  },
-  {
-    "id": "ac9e6ly09-t-003",
-    "curriculum_code": "AC9E6LY09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "build_a_root_based_word_network",
-    "question": "Which interpretation of this model element is accurate: “geo → earth → geology, geography, geothermal”?",
-    "audio_prompt": "Which interpretation of this model element is accurate: “geo → earth → geology, geography, geothermal”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The first part is decorative and can be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The second part always has the same effect in every text.",
-        "is_correct": false
-      },
-      {
-        "text": "It shows a deliberate relationship within Word Origins, Morphemes and Unfamiliar Words, so both parts must be interpreted together.",
-        "is_correct": true
-      },
-      {
-        "text": "The pairing proves that no alternative interpretation is possible.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "Roots provide clues, not complete definitions. Prefixes, suffixes and context refine meaning, and spelling may reflect origin."
-    }
-  },
-  {
-    "id": "ac9e6ly09-t-004",
-    "curriculum_code": "AC9E6LY09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "infer_verify_and_spell_an_unfamiliar_word",
-    "question": "When applying Word Origins, Morphemes and Unfamiliar Words to an unfamiliar text, which analytical move is strongest?",
-    "audio_prompt": "When applying Word Origins, Morphemes and Unfamiliar Words to an unfamiliar text, which analytical move is strongest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name a feature and stop.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every audience responds identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace analysis with an unsupported personal judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
-    }
-  },
-  {
-    "id": "ac9e6ly09-t-005",
-    "curriculum_code": "AC9E6LY09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "morpheme",
-    "question": "Which example best demonstrates an understanding of morpheme?",
-    "audio_prompt": "Which example best demonstrates an understanding of morpheme?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Smallest meaningful language unit, identified using evidence from the text.",
+        "text": "Check word family and source.",
         "is_correct": true
       },
       {
         "text": "Pronunciation change hides relationship",
         "is_correct": false
-      },
-      {
-        "text": "Dictionary use considered failure",
-        "is_correct": false
-      },
-      {
-        "text": "A general comment that does not use the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "morpheme is smallest meaningful language unit.",
-      "hint": "Select the response that applies the definition and uses evidence."
-    }
-  },
-  {
-    "id": "ac9e6ly09-t-006",
-    "curriculum_code": "AC9E6LY09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "transfer",
-    "question": "Which conclusion stays within the evidence when analysing Word Origins, Morphemes and Unfamiliar Words?",
-    "audio_prompt": "Which conclusion stays within the evidence when analysing Word Origins, Morphemes and Unfamiliar Words?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "This single example proves the rule applies identically everywhere.",
-        "is_correct": false
-      },
-      {
-        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
-        "is_correct": true
-      },
-      {
-        "text": "The writer's choice guarantees the same reaction from every reader.",
-        "is_correct": false
-      },
-      {
-        "text": "No evidence is needed because the interpretation sounds reasonable.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
-    }
-  },
-  {
-    "id": "ac9e6ly09-t-007",
-    "curriculum_code": "AC9E6LY09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "extended_analysis",
-    "question": "Which response plan best addresses this challenge: Create a cross-subject root network showing how one root generates words with related but specialised meanings?",
-    "audio_prompt": "Which response plan best addresses this challenge: Create a cross-subject root network showing how one root generates words with related but specialised meanings?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Copy the lesson example without adapting it.",
-        "is_correct": false
-      },
-      {
-        "text": "Add several unrelated features and do not explain them.",
-        "is_correct": false
-      },
-      {
-        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-        "is_correct": true
-      },
-      {
-        "text": "Describe the task but do not produce or analyse a response.",
-        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
-    }
+      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly09-t-008",
+    "id": "AC9E6LY09-T-009",
     "curriculum_code": "AC9E6LY09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "critical_evaluation",
-    "question": "Which approach best addresses this evaluation: Investigate a misleading apparent root relationship and explain why etymological verification matters?",
-    "audio_prompt": "Which approach best addresses this evaluation: Investigate a misleading apparent root relationship and explain why etymological verification matters?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "verify",
+    "question": "A water-saving brochure includes “dictionary or trusted subject source”. Which description best fits this wording?",
+    "audio_prompt": "A water-saving brochure includes “dictionary or trusted subject source”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "Choose a preferred answer before examining evidence.",
+        "text": "bio",
         "is_correct": false
       },
       {
-        "text": "Summarise each example without comparing it.",
+        "text": "geo",
         "is_correct": false
       },
       {
-        "text": "Treat one feature as proof of the whole judgement.",
+        "text": "spect",
         "is_correct": false
       },
       {
-        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "text": "Verify",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
-    }
+      "summary": "The wording best matches Verify.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-010",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "morpheme",
+    "question": "In a local council submission, which term matches this meaning: “smallest meaningful language unit”?",
+    "audio_prompt": "In a local council submission, which term matches this meaning: “smallest meaningful language unit”?",
+    "answers": [
+      {
+        "text": "morpheme",
+        "is_correct": true
+      },
+      {
+        "text": "etymology",
+        "is_correct": false
+      },
+      {
+        "text": "root",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "morpheme is the precise term for smallest meaningful language unit.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-011",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "word_origins_morphemes_and_unfamiliar_words",
+    "question": "For a marine-research diary, what does the root bio commonly relate to?",
+    "audio_prompt": "For a marine-research diary, what does the root bio commonly relate to?",
+    "answers": [
+      {
+        "text": "light",
+        "is_correct": false
+      },
+      {
+        "text": "life",
+        "is_correct": true
+      },
+      {
+        "text": "sound",
+        "is_correct": false
+      },
+      {
+        "text": "distance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“life” is supported by the language evidence and purpose of the text.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-012",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a farmers market profile says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a farmers market profile says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Root clue treated as full definition",
+        "is_correct": false
+      },
+      {
+        "text": "Every apparent string is a true morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "Check word family and source.",
+        "is_correct": true
+      },
+      {
+        "text": "Pronunciation change hides relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-013",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "read_context",
+    "question": "A astronomy exhibition includes “does meaning fit?”. Which description best fits this wording?",
+    "audio_prompt": "A astronomy exhibition includes “does meaning fit?”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "bio",
+        "is_correct": false
+      },
+      {
+        "text": "geo",
+        "is_correct": false
+      },
+      {
+        "text": "spect",
+        "is_correct": false
+      },
+      {
+        "text": "Read context",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The wording best matches Read context.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-014",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "etymology",
+    "question": "In a river-restoration update, which term matches this meaning: “history and origin of a word”?",
+    "audio_prompt": "In a river-restoration update, which term matches this meaning: “history and origin of a word”?",
+    "answers": [
+      {
+        "text": "etymology",
+        "is_correct": true
+      },
+      {
+        "text": "root",
+        "is_correct": false
+      },
+      {
+        "text": "morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "etymology is the precise term for history and origin of a word.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-015",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "word_origins_morphemes_and_unfamiliar_words",
+    "question": "For a cycling-safety campaign, what does the root bio commonly relate to?",
+    "audio_prompt": "For a cycling-safety campaign, what does the root bio commonly relate to?",
+    "answers": [
+      {
+        "text": "light",
+        "is_correct": false
+      },
+      {
+        "text": "life",
+        "is_correct": true
+      },
+      {
+        "text": "sound",
+        "is_correct": false
+      },
+      {
+        "text": "distance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“life” is supported by the language evidence and purpose of the text.",
+      "hint": "Morphological analysis supports spelling even when pronunciation changes, such as sign–signal or magic–magician."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY09-T-016",
+    "curriculum_code": "AC9E6LY09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a neighbourhood history podcast says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Every apparent string is a true morpheme”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Root clue treated as full definition",
+        "is_correct": false
+      },
+      {
+        "text": "Every apparent string is a true morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "Check word family and source.",
+        "is_correct": true
+      },
+      {
+        "text": "Pronunciation change hides relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check word family and source. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
   }
 ]

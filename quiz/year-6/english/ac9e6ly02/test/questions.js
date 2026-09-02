@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6ly02-t-001",
+    "id": "AC9E6LY02-T-001",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "discussion skills",
+    "stage": "verify",
+    "skill": "disagreement",
     "printable": true,
     "type": "single",
-    "question": "Test example: which response shows accurate listening?",
-    "audioPrompt": "Test example: which response shows accurate listening?",
+    "question": "A community radio segment includes “My interpretation differs because the data show…”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “My interpretation differs because the data show…”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "So you are saying the garden should be moved because it needs more sunlight.",
-      "Disagree before showing you understood the idea.",
-      "Ask a question that attacks the speaker.",
-      "Give a claim with no reason."
+      "disagreement",
+      "Paraphrase",
+      "Clarify/probe",
+      "Respond"
     ],
     "correct": 0,
-    "explanation": "So you are saying the garden should be moved because it needs more sunlight.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches disagreement.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "So you are saying the garden should be moved because it needs more sunlight.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches disagreement.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly02-t-002",
+    "id": "AC9E6LY02-T-002",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "discussion skills",
+    "stage": "verify",
+    "skill": "paraphrase",
     "printable": true,
     "type": "single",
-    "question": "Test example: question is best for clarifying a claim?",
-    "audioPrompt": "Test example: question is best for clarifying a claim?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “accurate restatement in new words”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “accurate restatement in new words”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ask a question that attacks the speaker.",
-      "Can you explain what evidence supports that point?",
-      "Give a claim with no reason.",
-      "Use the same register in every discussion."
+      "probing question",
+      "paraphrase",
+      "register",
+      "It does not match the evidence in the example."
     ],
     "correct": 1,
-    "explanation": "Can you explain what evidence supports that point?\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "paraphrase is the precise term for accurate restatement in new words.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Can you explain what evidence supports that point?",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "paraphrase is the precise term for accurate restatement in new words.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly02-t-003",
+    "id": "AC9E6LY02-T-003",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "discussion skills",
+    "stage": "verify",
+    "skill": "formal and informal interaction skills",
     "printable": true,
     "type": "single",
-    "question": "Test example: A classmate challenges your idea politely. What is the strongest reply?",
-    "audioPrompt": "Test example: A classmate challenges your idea politely. What is the strongest reply?",
+    "question": "For a regional youth forum, which response paraphrases before challenging?",
+    "audioPrompt": "For a regional youth forum, which response paraphrases before challenging?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Give a claim with no reason.",
-      "Use the same register in every discussion.",
-      "That is a fair concern; I still think my idea works because the survey supports it.",
-      "Disagree before showing you understood the idea."
+      "Wrong",
+      "I was not listening",
+      "So you argue that cost is the main issue; how does the long-term evidence affect that?",
+      "Let me change the topic"
     ],
     "correct": 2,
-    "explanation": "That is a fair concern; I still think my idea works because the survey supports it.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“So you argue that cost is the main issue; how does the long-term evidence affect that?” is supported by the language evidence and purpose of the text.\nHint: Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain.",
     "structuredExplanation": {
-      "summary": "That is a fair concern; I still think my idea works because the survey supports it.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“So you argue that cost is the main issue; how does the long-term evidence affect that?” is supported by the language evidence and purpose of the text.",
+      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly02-t-004",
+    "id": "AC9E6LY02-T-004",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "discussion skills",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: Which sentence uses a suitable formal register in a debate?",
-    "audioPrompt": "Test example: Which sentence uses a suitable formal register in a debate?",
+    "question": "A writer preparing a coastal-monitoring update says, “Question becomes an accusation”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Question becomes an accusation”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the same register in every discussion.",
-      "Disagree before showing you understood the idea.",
-      "Ask a question that attacks the speaker.",
-      "I disagree because the data suggests a different conclusion."
+      "Paraphrase repeats exact wording",
+      "Question becomes an accusation",
+      "Formality confused with silence",
+      "Use neutral inquiry."
     ],
     "correct": 3,
-    "explanation": "I disagree because the data suggests a different conclusion.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Use neutral inquiry. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "I disagree because the data suggests a different conclusion.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Use neutral inquiry. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly02-t-005",
+    "id": "AC9E6LY02-T-005",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "discussion skills",
+    "stage": "verify",
+    "skill": "formal panel",
     "printable": true,
     "type": "single",
-    "question": "Test example: paraphrase before disagreeing?",
-    "audioPrompt": "Test example: paraphrase before disagreeing?",
+    "question": "A heritage trail guide includes “I would like to clarify the evidence behind that claim.”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “I would like to clarify the evidence behind that claim.”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It shows you understood the idea you are responding to.",
-      "Disagree before showing you understood the idea.",
-      "Ask a question that attacks the speaker.",
-      "Give a claim with no reason."
+      "formal panel",
+      "Paraphrase",
+      "Clarify/probe",
+      "Respond"
     ],
     "correct": 0,
-    "explanation": "It shows you understood the idea you are responding to.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches formal panel.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "It shows you understood the idea you are responding to.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches formal panel.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly02-t-006",
+    "id": "AC9E6LY02-T-006",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "discussion skills",
+    "stage": "verify",
+    "skill": "probing question",
     "printable": true,
     "type": "single",
-    "question": "Test example: response gives a reasoned position?",
-    "audioPrompt": "Test example: response gives a reasoned position?",
+    "question": "In a public-transport survey, which term matches this meaning: “question seeking deeper reasoning or evidence”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “question seeking deeper reasoning or evidence”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ask a question that attacks the speaker.",
-      "I support the later start because attendance improved during the trial.",
-      "Give a claim with no reason.",
-      "Use the same register in every discussion."
+      "paraphrase",
+      "probing question",
+      "register",
+      "It does not match the evidence in the example."
     ],
     "correct": 1,
-    "explanation": "I support the later start because attendance improved during the trial.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "probing question is the precise term for question seeking deeper reasoning or evidence.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "I support the later start because attendance improved during the trial.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "probing question is the precise term for question seeking deeper reasoning or evidence.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly02-t-007",
+    "id": "AC9E6LY02-T-007",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "discussion skills",
+    "stage": "verify",
+    "skill": "formal and informal interaction skills",
     "printable": true,
     "type": "single",
-    "question": "Test example: A speaker gives an example that does not match the claim. What should you ask?",
-    "audioPrompt": "Test example: A speaker gives an example that does not match the claim. What should you ask?",
+    "question": "For a festival review, which response paraphrases before challenging?",
+    "audioPrompt": "For a festival review, which response paraphrases before challenging?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Give a claim with no reason.",
-      "Use the same register in every discussion.",
-      "How does that example prove the main point?",
-      "Disagree before showing you understood the idea."
+      "Wrong",
+      "I was not listening",
+      "So you argue that cost is the main issue; how does the long-term evidence affect that?",
+      "Let me change the topic"
     ],
     "correct": 2,
-    "explanation": "How does that example prove the main point?\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“So you argue that cost is the main issue; how does the long-term evidence affect that?” is supported by the language evidence and purpose of the text.\nHint: Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain.",
     "structuredExplanation": {
-      "summary": "How does that example prove the main point?",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“So you argue that cost is the main issue; how does the long-term evidence affect that?” is supported by the language evidence and purpose of the text.",
+      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly02-t-008",
+    "id": "AC9E6LY02-T-008",
     "curriculumCode": "AC9E6LY02",
     "bank": "test",
-    "skill": "discussion skills",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: interaction keeps the discussion constructive?",
-    "audioPrompt": "Test example: interaction keeps the discussion constructive?",
+    "question": "A writer preparing a emergency-preparedness talk says, “Question becomes an accusation”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Question becomes an accusation”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +227,258 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the same register in every discussion.",
-      "Disagree before showing you understood the idea.",
-      "Ask a question that attacks the speaker.",
-      "Building on another idea while adding new evidence."
+      "Paraphrase repeats exact wording",
+      "Question becomes an accusation",
+      "Formality confused with silence",
+      "Use neutral inquiry."
     ],
     "correct": 3,
-    "explanation": "Building on another idea while adding new evidence.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Use neutral inquiry. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "Building on another idea while adding new evidence.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Use neutral inquiry. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY02-T-009",
+    "curriculumCode": "AC9E6LY02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "peer group",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “I see your point; could we also consider…?”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “I see your point; could we also consider…?”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "peer group",
+      "Paraphrase",
+      "Clarify/probe",
+      "Respond"
+    ],
+    "correct": 0,
+    "explanation": "The wording best matches peer group.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches peer group.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY02-T-010",
+    "curriculumCode": "AC9E6LY02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "register",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “language choices suited to context”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “language choices suited to context”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "paraphrase",
+      "register",
+      "probing question",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 1,
+    "explanation": "register is the precise term for language choices suited to context.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "register is the precise term for language choices suited to context.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY02-T-011",
+    "curriculumCode": "AC9E6LY02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "formal and informal interaction skills",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, which response paraphrases before challenging?",
+    "audioPrompt": "For a marine-research diary, which response paraphrases before challenging?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Wrong",
+      "I was not listening",
+      "So you argue that cost is the main issue; how does the long-term evidence affect that?",
+      "Let me change the topic"
+    ],
+    "correct": 2,
+    "explanation": "“So you argue that cost is the main issue; how does the long-term evidence affect that?” is supported by the language evidence and purpose of the text.\nHint: Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain.",
+    "structuredExplanation": {
+      "summary": "“So you argue that cost is the main issue; how does the long-term evidence affect that?” is supported by the language evidence and purpose of the text.",
+      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY02-T-012",
+    "curriculumCode": "AC9E6LY02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “Question becomes an accusation”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “Question becomes an accusation”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Paraphrase repeats exact wording",
+      "Question becomes an accusation",
+      "Formality confused with silence",
+      "Use neutral inquiry."
+    ],
+    "correct": 3,
+    "explanation": "Use neutral inquiry. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use neutral inquiry. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY02-T-013",
+    "curriculumCode": "AC9E6LY02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "synthesis",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “Both contributions suggest…”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “Both contributions suggest…”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "synthesis",
+      "Paraphrase",
+      "Clarify/probe",
+      "Respond"
+    ],
+    "correct": 0,
+    "explanation": "The wording best matches synthesis.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches synthesis.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY02-T-014",
+    "curriculumCode": "AC9E6LY02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "paraphrase",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “accurate restatement in new words”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “accurate restatement in new words”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "probing question",
+      "paraphrase",
+      "register",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 1,
+    "explanation": "paraphrase is the precise term for accurate restatement in new words.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "paraphrase is the precise term for accurate restatement in new words.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY02-T-015",
+    "curriculumCode": "AC9E6LY02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "formal and informal interaction skills",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, which response paraphrases before challenging?",
+    "audioPrompt": "For a cycling-safety campaign, which response paraphrases before challenging?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Wrong",
+      "I was not listening",
+      "So you argue that cost is the main issue; how does the long-term evidence affect that?",
+      "Let me change the topic"
+    ],
+    "correct": 2,
+    "explanation": "“So you argue that cost is the main issue; how does the long-term evidence affect that?” is supported by the language evidence and purpose of the text.\nHint: Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain.",
+    "structuredExplanation": {
+      "summary": "“So you argue that cost is the main issue; how does the long-term evidence affect that?” is supported by the language evidence and purpose of the text.",
+      "hint": "Discussion quality depends on listening, relevance and evidence, not speaking longest or sounding most certain."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY02-T-016",
+    "curriculumCode": "AC9E6LY02",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “Question becomes an accusation”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Question becomes an accusation”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Paraphrase repeats exact wording",
+      "Question becomes an accusation",
+      "Formality confused with silence",
+      "Use neutral inquiry."
+    ],
+    "correct": 3,
+    "explanation": "Use neutral inquiry. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use neutral inquiry. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

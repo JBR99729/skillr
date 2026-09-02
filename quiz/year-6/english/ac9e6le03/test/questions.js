@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6le03-t-001",
+    "id": "AC9E6LE03-T-001",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "authorial style",
+    "stage": "verify",
+    "skill": "individual style",
     "printable": true,
     "type": "single",
-    "question": "Test example: Across three stories, an author often uses short sentences during danger. What style feature is this?",
-    "audioPrompt": "Test example: Across three stories, an author often uses short sentences during danger. What style feature is this?",
+    "question": "A community radio segment includes “distinctive combination and handling”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “distinctive combination and handling”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A pattern in syntax that affects pace.",
-      "One sentence from one story proves the whole style.",
-      "Style means topic only.",
-      "The author’s voice cannot appear across different texts."
+      "individual style",
+      "narration",
+      "syntax",
+      "imagery"
     ],
     "correct": 0,
-    "explanation": "A pattern in syntax that affects pace.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches individual style.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "A pattern in syntax that affects pace.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches individual style.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le03-t-002",
+    "id": "AC9E6LE03-T-002",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
+    "stage": "verify",
     "skill": "authorial style",
     "printable": true,
     "type": "single",
-    "question": "Test example: evidence best shows a recurring authorial voice?",
-    "audioPrompt": "Test example: evidence best shows a recurring authorial voice?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Style means topic only.",
-      "Several narrators use dry jokes when events become tense.",
-      "The author’s voice cannot appear across different texts.",
-      "Pace is unrelated to sentence choices."
+      "narrator",
+      "authorial style",
+      "motif",
+      "It does not match the evidence in the example."
     ],
     "correct": 1,
-    "explanation": "Several narrators use dry jokes when events become tense.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "authorial style is the precise term for recurring distinctive pattern of craft choices.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Several narrators use dry jokes when events become tense.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "authorial style is the precise term for recurring distinctive pattern of craft choices.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le03-t-003",
+    "id": "AC9E6LE03-T-003",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "authorial style",
+    "stage": "verify",
+    "skill": "authorial style and voice",
     "printable": true,
     "type": "single",
-    "question": "Test example: An author often mixes humour with serious moments. What should a reader explain?",
-    "audioPrompt": "Test example: An author often mixes humour with serious moments. What should a reader explain?",
+    "question": "For a regional youth forum, what best supports a claim about authorial style?",
+    "audioPrompt": "For a regional youth forum, what best supports a claim about authorial style?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The author’s voice cannot appear across different texts.",
-      "Pace is unrelated to sentence choices.",
-      "How the humour changes the reader’s response to the serious idea.",
-      "One sentence from one story proves the whole style."
+      "One isolated adjective",
+      "The author’s photograph",
+      "A recurring combination of choices across several texts",
+      "A single plot fact"
     ],
     "correct": 2,
-    "explanation": "How the humour changes the reader’s response to the serious idea.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
     "structuredExplanation": {
-      "summary": "How the humour changes the reader’s response to the serious idea.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le03-t-004",
+    "id": "AC9E6LE03-T-004",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "authorial style",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: statement avoids a weak generalisation about style?",
-    "audioPrompt": "Test example: statement avoids a weak generalisation about style?",
+    "question": "A writer preparing a coastal-monitoring update says, “One quotation defines style”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “One quotation defines style”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Pace is unrelated to sentence choices.",
-      "One sentence from one story proves the whole style.",
-      "Style means topic only.",
-      "In these chapters, the author often uses clipped dialogue to show tension."
+      "Narrator and author treated as identical",
+      "One quotation defines style",
+      "Genre convention credited only to author",
+      "Use patterns across texts."
     ],
     "correct": 3,
-    "explanation": "In these chapters, the author often uses clipped dialogue to show tension.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "In these chapters, the author often uses clipped dialogue to show tension.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le03-t-005",
+    "id": "AC9E6LE03-T-005",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "authorial style",
+    "stage": "verify",
+    "skill": "individual style",
     "printable": true,
     "type": "single",
-    "question": "Test example: repeatedly describes ordinary objects in strange ways. What might this create?",
-    "audioPrompt": "Test example: repeatedly describes ordinary objects in strange ways. What might this create?",
+    "question": "A heritage trail guide includes “distinctive combination and handling”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “distinctive combination and handling”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A distinctive imaginative voice.",
-      "One sentence from one story proves the whole style.",
-      "Style means topic only.",
-      "The author’s voice cannot appear across different texts."
+      "individual style",
+      "narration",
+      "syntax",
+      "imagery"
     ],
     "correct": 0,
-    "explanation": "A distinctive imaginative voice.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches individual style.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "A distinctive imaginative voice.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches individual style.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le03-t-006",
+    "id": "AC9E6LE03-T-006",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "authorial style",
+    "stage": "verify",
+    "skill": "narrator",
     "printable": true,
     "type": "single",
-    "question": "Test example: pair of features could work together to create a fast pace?",
-    "audioPrompt": "Test example: pair of features could work together to create a fast pace?",
+    "question": "In a public-transport survey, which term matches this meaning: “constructed voice presenting a narrative”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “constructed voice presenting a narrative”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Style means topic only.",
-      "Short sentences and quick scene changes.",
-      "The author’s voice cannot appear across different texts.",
-      "Pace is unrelated to sentence choices."
+      "authorial style",
+      "narrator",
+      "motif",
+      "It does not match the evidence in the example."
     ],
     "correct": 1,
-    "explanation": "Short sentences and quick scene changes.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "narrator is the precise term for constructed voice presenting a narrative.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Short sentences and quick scene changes.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "narrator is the precise term for constructed voice presenting a narrative.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le03-t-007",
+    "id": "AC9E6LE03-T-007",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "authorial style",
+    "stage": "verify",
+    "skill": "authorial style and voice",
     "printable": true,
     "type": "single",
-    "question": "Test example: compare more than one text by the same author?",
-    "audioPrompt": "Test example: compare more than one text by the same author?",
+    "question": "For a festival review, what best supports a claim about authorial style?",
+    "audioPrompt": "For a festival review, what best supports a claim about authorial style?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +197,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The author’s voice cannot appear across different texts.",
-      "Pace is unrelated to sentence choices.",
-      "Recurring choices are easier to see across several texts.",
-      "One sentence from one story proves the whole style."
+      "One isolated adjective",
+      "The author’s photograph",
+      "A recurring combination of choices across several texts",
+      "A single plot fact"
     ],
     "correct": 2,
-    "explanation": "Recurring choices are easier to see across several texts.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
     "structuredExplanation": {
-      "summary": "Recurring choices are easier to see across several texts.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6le03-t-008",
+    "id": "AC9E6LE03-T-008",
     "curriculumCode": "AC9E6LE03",
     "bank": "test",
-    "skill": "authorial style",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: comment best explains voice?",
-    "audioPrompt": "Test example: comment best explains voice?",
+    "question": "A writer preparing a emergency-preparedness talk says, “One quotation defines style”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “One quotation defines style”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +227,258 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Pace is unrelated to sentence choices.",
-      "One sentence from one story proves the whole style.",
-      "Style means topic only.",
-      "The narrator sounds curious and slightly sarcastic because of the questions and playful comparisons."
+      "Narrator and author treated as identical",
+      "One quotation defines style",
+      "Genre convention credited only to author",
+      "Use patterns across texts."
     ],
     "correct": 3,
-    "explanation": "The narrator sounds curious and slightly sarcastic because of the questions and playful comparisons.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "The narrator sounds curious and slightly sarcastic because of the questions and playful comparisons.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE03-T-009",
+    "curriculumCode": "AC9E6LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "individual style",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “distinctive combination and handling”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “distinctive combination and handling”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "individual style",
+      "narration",
+      "syntax",
+      "imagery"
+    ],
+    "correct": 0,
+    "explanation": "The wording best matches individual style.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches individual style.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE03-T-010",
+    "curriculumCode": "AC9E6LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "motif",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “recurring image, phrase or idea”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “recurring image, phrase or idea”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "authorial style",
+      "motif",
+      "narrator",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 1,
+    "explanation": "motif is the precise term for recurring image, phrase or idea.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "motif is the precise term for recurring image, phrase or idea.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE03-T-011",
+    "curriculumCode": "AC9E6LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "authorial style and voice",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, what best supports a claim about authorial style?",
+    "audioPrompt": "For a marine-research diary, what best supports a claim about authorial style?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One isolated adjective",
+      "The author’s photograph",
+      "A recurring combination of choices across several texts",
+      "A single plot fact"
+    ],
+    "correct": 2,
+    "explanation": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+    "structuredExplanation": {
+      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE03-T-012",
+    "curriculumCode": "AC9E6LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “One quotation defines style”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “One quotation defines style”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Narrator and author treated as identical",
+      "One quotation defines style",
+      "Genre convention credited only to author",
+      "Use patterns across texts."
+    ],
+    "correct": 3,
+    "explanation": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE03-T-013",
+    "curriculumCode": "AC9E6LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "individual style",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “distinctive combination and handling”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “distinctive combination and handling”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "individual style",
+      "narration",
+      "syntax",
+      "imagery"
+    ],
+    "correct": 0,
+    "explanation": "The wording best matches individual style.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches individual style.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE03-T-014",
+    "curriculumCode": "AC9E6LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "authorial style",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “recurring distinctive pattern of craft choices”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "narrator",
+      "authorial style",
+      "motif",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 1,
+    "explanation": "authorial style is the precise term for recurring distinctive pattern of craft choices.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "authorial style is the precise term for recurring distinctive pattern of craft choices.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE03-T-015",
+    "curriculumCode": "AC9E6LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "authorial style and voice",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, what best supports a claim about authorial style?",
+    "audioPrompt": "For a cycling-safety campaign, what best supports a claim about authorial style?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One isolated adjective",
+      "The author’s photograph",
+      "A recurring combination of choices across several texts",
+      "A single plot fact"
+    ],
+    "correct": 2,
+    "explanation": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.\nHint: Do not infer personality directly from fictional voice. Analyse crafted textual choices.",
+    "structuredExplanation": {
+      "summary": "“A recurring combination of choices across several texts” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not infer personality directly from fictional voice. Analyse crafted textual choices."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE03-T-016",
+    "curriculumCode": "AC9E6LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “One quotation defines style”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “One quotation defines style”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Narrator and author treated as identical",
+      "One quotation defines style",
+      "Genre convention credited only to author",
+      "Use patterns across texts."
+    ],
+    "correct": 3,
+    "explanation": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use patterns across texts. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

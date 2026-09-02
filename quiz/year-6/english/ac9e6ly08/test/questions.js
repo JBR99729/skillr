@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6ly08-t-001",
+    "id": "AC9E6LY08-T-001",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "grapheme phoneme patterns",
+    "stage": "verify",
+    "skill": "mark vowel grapheme patterns",
     "printable": true,
     "type": "single",
-    "question": "Test example: In sign, why is the g not pronounced?",
-    "audioPrompt": "Test example: In sign, why is the g not pronounced?",
+    "question": "A community radio segment includes “mark vowel/grapheme patterns”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “mark vowel/grapheme patterns”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,86 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "English spelling often preserves word history or related forms.",
-      "Spell only by sound and ignore word patterns.",
-      "One letter always has one sound.",
-      "Stress never affects pronunciation."
-    ],
-    "correct": 0,
-    "explanation": "English spelling often preserves word history or related forms.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "English spelling often preserves word history or related forms.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly08-t-002",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "test",
-    "skill": "grapheme phoneme patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: pair shows the same sound spelled differently?",
-    "audioPrompt": "Test example: pair shows the same sound spelled differently?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "One letter always has one sound.",
-      "rain and day",
-      "Stress never affects pronunciation.",
-      "Related words cannot help spelling."
-    ],
-    "correct": 1,
-    "explanation": "rain and day\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "rain and day",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly08-t-003",
-    "curriculumCode": "AC9E6LY08",
-    "bank": "test",
-    "skill": "grapheme phoneme patterns",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: which word has c pronounced as s?",
-    "audioPrompt": "Test example: which word has c pronounced as s?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Stress never affects pronunciation.",
-      "Related words cannot help spelling.",
-      "city",
-      "Spell only by sound and ignore word patterns."
+      "ough",
+      "ch",
+      "mark vowel/grapheme patterns",
+      "c"
     ],
     "correct": 2,
-    "explanation": "city\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches mark vowel/grapheme patterns.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "city",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches mark vowel/grapheme patterns.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-t-004",
+    "id": "AC9E6LY08-T-002",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "grapheme phoneme patterns",
+    "stage": "verify",
+    "skill": "grapheme",
     "printable": true,
     "type": "single",
-    "question": "Test example: check syllables when spelling unfamiliar words?",
-    "audioPrompt": "Test example: check syllables when spelling unfamiliar words?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “letter or letters representing a phoneme”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “letter or letters representing a phoneme”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Related words cannot help spelling.",
-      "Spell only by sound and ignore word patterns.",
-      "One letter always has one sound.",
-      "Syllables help break the word into manageable sound and spelling parts."
+      "phoneme",
+      "stress",
+      "It does not match the evidence in the example.",
+      "grapheme"
     ],
     "correct": 3,
-    "explanation": "Syllables help break the word into manageable sound and spelling parts.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "grapheme is the precise term for letter or letters representing a phoneme.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Syllables help break the word into manageable sound and spelling parts.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "grapheme is the precise term for letter or letters representing a phoneme.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-t-005",
+    "id": "AC9E6LY08-T-003",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "grapheme phoneme patterns",
+    "stage": "verify",
+    "skill": "complex grapheme phoneme patterns",
     "printable": true,
     "type": "single",
-    "question": "Test example: which word changes pronunciation when the suffix is added?",
-    "audioPrompt": "Test example: which word changes pronunciation when the suffix is added?",
+    "question": "For a regional youth forum, which word uses ch with a /k/ sound?",
+    "audioPrompt": "For a regional youth forum, which word uses ch with a /k/ sound?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "produce → production",
-      "Spell only by sound and ignore word patterns.",
-      "One letter always has one sound.",
-      "Stress never affects pronunciation."
+      "chorus",
+      "chair",
+      "chef",
+      "machine"
     ],
     "correct": 0,
-    "explanation": "produce → production\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“chorus” is supported by the language evidence and purpose of the text.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
     "structuredExplanation": {
-      "summary": "produce → production",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“chorus” is supported by the language evidence and purpose of the text.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-t-006",
+    "id": "AC9E6LY08-T-004",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "grapheme phoneme patterns",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: spells nature as nacher. What should they notice?",
-    "audioPrompt": "Test example: spells nature as nacher. What should they notice?",
+    "question": "A writer preparing a coastal-monitoring update says, “Guess from first letters”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Guess from first letters”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "One letter always has one sound.",
-      "The /ch/ sound is spelled t in this word pattern.",
-      "Stress never affects pronunciation.",
-      "Related words cannot help spelling."
+      "One grapheme has one sound",
+      "Process full word.",
+      "Guess from first letters",
+      "Context replaces decoding"
     ],
     "correct": 1,
-    "explanation": "The /ch/ sound is spelled t in this word pattern.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "The /ch/ sound is spelled t in this word pattern.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-t-007",
+    "id": "AC9E6LY08-T-005",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "grapheme phoneme patterns",
+    "stage": "verify",
+    "skill": "verify reference if needed",
     "printable": true,
     "type": "single",
-    "question": "Test example: strategy best helps with the word photograph?",
-    "audioPrompt": "Test example: strategy best helps with the word photograph?",
+    "question": "A heritage trail guide includes “verify reference if needed”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “verify reference if needed”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Stress never affects pronunciation.",
-      "Related words cannot help spelling.",
-      "Connect photo, photograph and photography to meaning and stress changes.",
-      "Spell only by sound and ignore word patterns."
+      "ough",
+      "ch",
+      "verify reference if needed",
+      "c"
     ],
     "correct": 2,
-    "explanation": "Connect photo, photograph and photography to meaning and stress changes.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches verify reference if needed.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Connect photo, photograph and photography to meaning and stress changes.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches verify reference if needed.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-t-008",
+    "id": "AC9E6LY08-T-006",
     "curriculumCode": "AC9E6LY08",
     "bank": "test",
-    "skill": "grapheme phoneme patterns",
+    "stage": "verify",
+    "skill": "phoneme",
     "printable": true,
     "type": "single",
-    "question": "Test example: can one grapheme have more than one pronunciation?",
-    "audioPrompt": "Test example: can one grapheme have more than one pronunciation?",
+    "question": "In a public-transport survey, which term matches this meaning: “smallest contrastive speech sound”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “smallest contrastive speech sound”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +167,318 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Related words cannot help spelling.",
-      "Spell only by sound and ignore word patterns.",
-      "One letter always has one sound.",
-      "English words come from different origins and patterns."
+      "grapheme",
+      "stress",
+      "It does not match the evidence in the example.",
+      "phoneme"
     ],
     "correct": 3,
-    "explanation": "English words come from different origins and patterns.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "phoneme is the precise term for smallest contrastive speech sound.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "English words come from different origins and patterns.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "phoneme is the precise term for smallest contrastive speech sound.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-007",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "complex grapheme phoneme patterns",
+    "printable": true,
+    "type": "single",
+    "question": "For a festival review, which word uses ch with a /k/ sound?",
+    "audioPrompt": "For a festival review, which word uses ch with a /k/ sound?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "chorus",
+      "chair",
+      "chef",
+      "machine"
+    ],
+    "correct": 0,
+    "explanation": "“chorus” is supported by the language evidence and purpose of the text.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "structuredExplanation": {
+      "summary": "“chorus” is supported by the language evidence and purpose of the text.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-008",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a emergency-preparedness talk says, “Guess from first letters”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Guess from first letters”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One grapheme has one sound",
+      "Process full word.",
+      "Guess from first letters",
+      "Context replaces decoding"
+    ],
+    "correct": 1,
+    "explanation": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-009",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "try syllable blend",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “try syllable blend”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “try syllable blend”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "ough",
+      "ch",
+      "try syllable blend",
+      "c"
+    ],
+    "correct": 2,
+    "explanation": "The wording best matches try syllable blend.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches try syllable blend.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-010",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "stress",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “relative prominence of a syllable”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “relative prominence of a syllable”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "grapheme",
+      "phoneme",
+      "It does not match the evidence in the example.",
+      "stress"
+    ],
+    "correct": 3,
+    "explanation": "stress is the precise term for relative prominence of a syllable.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "stress is the precise term for relative prominence of a syllable.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-011",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "complex grapheme phoneme patterns",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, which word uses ch with a /k/ sound?",
+    "audioPrompt": "For a marine-research diary, which word uses ch with a /k/ sound?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "chorus",
+      "chair",
+      "chef",
+      "machine"
+    ],
+    "correct": 0,
+    "explanation": "“chorus” is supported by the language evidence and purpose of the text.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "structuredExplanation": {
+      "summary": "“chorus” is supported by the language evidence and purpose of the text.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-012",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “Guess from first letters”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “Guess from first letters”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One grapheme has one sound",
+      "Process full word.",
+      "Guess from first letters",
+      "Context replaces decoding"
+    ],
+    "correct": 1,
+    "explanation": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-013",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "scan whole word",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “scan whole word”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “scan whole word”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "ough",
+      "ch",
+      "scan whole word",
+      "c"
+    ],
+    "correct": 2,
+    "explanation": "The wording best matches scan whole word.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches scan whole word.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-014",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "grapheme",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “letter or letters representing a phoneme”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “letter or letters representing a phoneme”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "phoneme",
+      "stress",
+      "It does not match the evidence in the example.",
+      "grapheme"
+    ],
+    "correct": 3,
+    "explanation": "grapheme is the precise term for letter or letters representing a phoneme.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "grapheme is the precise term for letter or letters representing a phoneme.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-015",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "complex grapheme phoneme patterns",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, which word uses ch with a /k/ sound?",
+    "audioPrompt": "For a cycling-safety campaign, which word uses ch with a /k/ sound?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "chorus",
+      "chair",
+      "chef",
+      "machine"
+    ],
+    "correct": 0,
+    "explanation": "“chorus” is supported by the language evidence and purpose of the text.\nHint: Context confirms a decoded word but should not replace attention to every important letter pattern.",
+    "structuredExplanation": {
+      "summary": "“chorus” is supported by the language evidence and purpose of the text.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-016",
+    "curriculumCode": "AC9E6LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “Guess from first letters”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Guess from first letters”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One grapheme has one sound",
+      "Process full word.",
+      "Guess from first letters",
+      "Context replaces decoding"
+    ],
+    "correct": 1,
+    "explanation": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

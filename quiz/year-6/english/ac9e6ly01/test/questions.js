@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6ly01-t-001",
+    "id": "AC9E6LY01-T-001",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "media representation",
+    "stage": "verify",
+    "skill": "analyse headline and evaluation",
     "printable": true,
     "type": "single",
-    "question": "Test example: describe the same protest. One says residents gathered; the other says angry crowds swarmed. What changes?",
-    "audioPrompt": "Test example: describe the same protest. One says residents gathered; the other says angry crowds swarmed. What changes?",
+    "question": "A community radio segment includes “analyse headline and evaluation”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “analyse headline and evaluation”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,115 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The second report uses loaded language to position readers negatively.",
-      "The report shows every possible viewpoint neutrally.",
-      "Loaded words do not affect audiences.",
-      "Images cannot influence interpretation."
-    ],
-    "correct": 0,
-    "explanation": "The second report uses loaded language to position readers negatively.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "The second report uses loaded language to position readers negatively.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly01-t-002",
-    "curriculumCode": "AC9E6LY01",
-    "bank": "test",
-    "skill": "media representation",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: A news clip interviews only shop owners about a bike lane. What viewpoint may be missing?",
-    "audioPrompt": "Test example: A news clip interviews only shop owners about a bike lane. What viewpoint may be missing?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Loaded words do not affect audiences.",
-      "Cyclists, pedestrians or residents who support the bike lane.",
-      "Images cannot influence interpretation.",
-      "A graph scale never needs checking."
-    ],
-    "correct": 1,
-    "explanation": "Cyclists, pedestrians or residents who support the bike lane.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "Cyclists, pedestrians or residents who support the bike lane.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly01-t-003",
-    "curriculumCode": "AC9E6LY01",
-    "bank": "test",
-    "skill": "media representation",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: headline is most neutral?",
-    "audioPrompt": "Test example: headline is most neutral?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Images cannot influence interpretation.",
-      "A graph scale never needs checking.",
-      "Council opens new weekend market.",
-      "The report shows every possible viewpoint neutrally."
-    ],
-    "correct": 2,
-    "explanation": "Council opens new weekend market.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "Council opens new weekend market.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly01-t-004",
-    "curriculumCode": "AC9E6LY01",
-    "bank": "test",
-    "skill": "media representation",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: can an image position an audience?",
-    "audioPrompt": "Test example: can an image position an audience?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "A graph scale never needs checking.",
-      "The report shows every possible viewpoint neutrally.",
-      "Loaded words do not affect audiences.",
-      "It can select an angle, facial expression or moment that shapes our response."
+      "headline",
+      "image",
+      "sources",
+      "analyse headline and evaluation"
     ],
     "correct": 3,
-    "explanation": "It can select an angle, facial expression or moment that shapes our response.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches analyse headline and evaluation.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "It can select an angle, facial expression or moment that shapes our response.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches analyse headline and evaluation.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-t-005",
+    "id": "AC9E6LY01-T-002",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "media representation",
+    "stage": "verify",
+    "skill": "representation",
     "printable": true,
     "type": "single",
-    "question": "Test example: starts its vertical scale at 90 instead of 0. What should a reader do?",
-    "audioPrompt": "Test example: starts its vertical scale at 90 instead of 0. What should a reader do?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “constructed version of an idea, person or event”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “constructed version of an idea, person or event”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Check whether the scale makes a small difference look larger.",
-      "The report shows every possible viewpoint neutrally.",
-      "Loaded words do not affect audiences.",
-      "Images cannot influence interpretation."
+      "representation",
+      "framing",
+      "positioning",
+      "It does not match the evidence in the example."
     ],
     "correct": 0,
-    "explanation": "Check whether the scale makes a small difference look larger.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "representation is the precise term for constructed version of an idea, person or event.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Check whether the scale makes a small difference look larger.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "representation is the precise term for constructed version of an idea, person or event.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-t-006",
+    "id": "AC9E6LY01-T-003",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "media representation",
+    "stage": "verify",
+    "skill": "representation and influence in media texts",
     "printable": true,
     "type": "single",
-    "question": "Test example: detail shows sequencing can influence meaning?",
-    "audioPrompt": "Test example: detail shows sequencing can influence meaning?",
+    "question": "For a regional youth forum, which choice most directly frames an event?",
+    "audioPrompt": "For a regional youth forum, which choice most directly frames an event?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Loaded words do not affect audiences.",
-      "Putting damage before interviews may make the event seem more threatening.",
-      "Images cannot influence interpretation.",
-      "A graph scale never needs checking."
+      "Including a correct date",
+      "Selecting a tight image of traffic disruption",
+      "Using page numbers",
+      "Spelling all names correctly"
     ],
     "correct": 1,
-    "explanation": "Putting damage before interviews may make the event seem more threatening.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
     "structuredExplanation": {
-      "summary": "Putting damage before interviews may make the event seem more threatening.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-t-007",
+    "id": "AC9E6LY01-T-004",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "media representation",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: is source selection important in media texts?",
-    "audioPrompt": "Test example: is source selection important in media texts?",
+    "question": "A writer preparing a coastal-monitoring update says, “Different representation called false automatically”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Different representation called false automatically”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Images cannot influence interpretation.",
-      "A graph scale never needs checking.",
-      "Included and excluded voices shape the version of events.",
-      "The report shows every possible viewpoint neutrally."
+      "Media text treated as transparent reality",
+      "Different representation called false automatically",
+      "Check factual accuracy and framing separately.",
+      "Image considered self-explanatory"
     ],
     "correct": 2,
-    "explanation": "Included and excluded voices shape the version of events.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "Included and excluded voices shape the version of events.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly01-t-008",
+    "id": "AC9E6LY01-T-005",
     "curriculumCode": "AC9E6LY01",
     "bank": "test",
-    "skill": "media representation",
+    "stage": "verify",
+    "skill": "check omissions and limitations",
     "printable": true,
     "type": "single",
-    "question": "Test example: statement about representation is accurate?",
-    "audioPrompt": "Test example: statement about representation is accurate?",
+    "question": "A heritage trail guide includes “check omissions and limitations”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “check omissions and limitations”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +137,348 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A graph scale never needs checking.",
-      "The report shows every possible viewpoint neutrally.",
-      "Loaded words do not affect audiences.",
-      "Media texts construct a version of events rather than showing everything neutrally."
+      "headline",
+      "image",
+      "sources",
+      "check omissions and limitations"
     ],
     "correct": 3,
-    "explanation": "Media texts construct a version of events rather than showing everything neutrally.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches check omissions and limitations.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Media texts construct a version of events rather than showing everything neutrally.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches check omissions and limitations.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-006",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "framing",
+    "printable": true,
+    "type": "single",
+    "question": "In a public-transport survey, which term matches this meaning: “selection and arrangement shaping interpretation”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “selection and arrangement shaping interpretation”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "framing",
+      "representation",
+      "positioning",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 0,
+    "explanation": "framing is the precise term for selection and arrangement shaping interpretation.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "framing is the precise term for selection and arrangement shaping interpretation.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-007",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "representation and influence in media texts",
+    "printable": true,
+    "type": "single",
+    "question": "For a festival review, which choice most directly frames an event?",
+    "audioPrompt": "For a festival review, which choice most directly frames an event?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Including a correct date",
+      "Selecting a tight image of traffic disruption",
+      "Using page numbers",
+      "Spelling all names correctly"
+    ],
+    "correct": 1,
+    "explanation": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "structuredExplanation": {
+      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-008",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a emergency-preparedness talk says, “Different representation called false automatically”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Different representation called false automatically”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Media text treated as transparent reality",
+      "Different representation called false automatically",
+      "Check factual accuracy and framing separately.",
+      "Image considered self-explanatory"
+    ],
+    "correct": 2,
+    "explanation": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-009",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "inspect visuals data scale",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “inspect visuals/data scale”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “inspect visuals/data scale”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "headline",
+      "image",
+      "sources",
+      "inspect visuals/data scale"
+    ],
+    "correct": 3,
+    "explanation": "The wording best matches inspect visuals/data scale.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches inspect visuals/data scale.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-010",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "positioning",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “ways a text invites audiences to think or feel”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “ways a text invites audiences to think or feel”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "positioning",
+      "representation",
+      "framing",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 0,
+    "explanation": "positioning is the precise term for ways a text invites audiences to think or feel.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "positioning is the precise term for ways a text invites audiences to think or feel.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-011",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "representation and influence in media texts",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, which choice most directly frames an event?",
+    "audioPrompt": "For a marine-research diary, which choice most directly frames an event?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Including a correct date",
+      "Selecting a tight image of traffic disruption",
+      "Using page numbers",
+      "Spelling all names correctly"
+    ],
+    "correct": 1,
+    "explanation": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "structuredExplanation": {
+      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-012",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “Different representation called false automatically”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “Different representation called false automatically”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Media text treated as transparent reality",
+      "Different representation called false automatically",
+      "Check factual accuracy and framing separately.",
+      "Image considered self-explanatory"
+    ],
+    "correct": 2,
+    "explanation": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-013",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "identify represented event",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “identify represented event”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “identify represented event”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "headline",
+      "image",
+      "sources",
+      "identify represented event"
+    ],
+    "correct": 3,
+    "explanation": "The wording best matches identify represented event.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches identify represented event.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-014",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "representation",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “constructed version of an idea, person or event”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “constructed version of an idea, person or event”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "representation",
+      "framing",
+      "positioning",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 0,
+    "explanation": "representation is the precise term for constructed version of an idea, person or event.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "representation is the precise term for constructed version of an idea, person or event.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-015",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "representation and influence in media texts",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, which choice most directly frames an event?",
+    "audioPrompt": "For a cycling-safety campaign, which choice most directly frames an event?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Including a correct date",
+      "Selecting a tight image of traffic disruption",
+      "Using page numbers",
+      "Spelling all names correctly"
+    ],
+    "correct": 1,
+    "explanation": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.\nHint: Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence.",
+    "structuredExplanation": {
+      "summary": "“Selecting a tight image of traffic disruption” is supported by the language evidence and purpose of the text.",
+      "hint": "Avoid assuming a single intended or actual audience response. Explain likely positioning from evidence."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY01-T-016",
+    "curriculumCode": "AC9E6LY01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “Different representation called false automatically”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Different representation called false automatically”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Media text treated as transparent reality",
+      "Different representation called false automatically",
+      "Check factual accuracy and framing separately.",
+      "Image considered self-explanatory"
+    ],
+    "correct": 2,
+    "explanation": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Check factual accuracy and framing separately. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

@@ -1,25 +1,22 @@
 [
   {
-    "id": "ac9e6ly08-p-001",
+    "id": "AC9E6LY08-P-001",
     "curriculum_code": "AC9E6LY08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "read_an_ough_word",
-    "question": "Which word uses ch with a /k/ sound?",
-    "audio_prompt": "Which word uses ch with a /k/ sound?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a class podcast, which word uses ch with a /k/ sound?",
+    "audio_prompt": "In a class podcast, which word uses ch with a /k/ sound?",
     "answers": [
-      {
-        "text": "chorus",
-        "is_correct": true
-      },
       {
         "text": "chair",
         "is_correct": false
+      },
+      {
+        "text": "chorus",
+        "is_correct": true
       },
       {
         "text": "chef",
@@ -30,68 +27,178 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "This choice best demonstrates read an ough word in the stated context.",
+      "summary": "“chorus” is the strongest choice because it matches the language feature and the situation.",
       "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-p-002",
+    "id": "AC9E6LY08-P-002",
     "curriculum_code": "AC9E6LY08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "grapheme",
-    "question": "Which term means “letter or letters representing a phoneme”?",
-    "audio_prompt": "Which term means “letter or letters representing a phoneme”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "recognise",
+    "skill": "phoneme",
+    "question": "Which term best matches this meaning: “smallest contrastive speech sound”?",
+    "audio_prompt": "Which term best matches this meaning: “smallest contrastive speech sound”?",
     "answers": [
       {
-        "text": "phoneme",
-        "is_correct": false
-      },
-      {
         "text": "grapheme",
-        "is_correct": true
+        "is_correct": false
       },
       {
         "text": "stress",
         "is_correct": false
       },
       {
+        "text": "phoneme",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "phoneme means smallest contrastive speech sound.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-003",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "c",
+    "question": "Read this example from a science investigation: “cat / city”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a science investigation: “cat / city”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "ough",
+        "is_correct": false
+      },
+      {
+        "text": "ch",
+        "is_correct": false
+      },
+      {
+        "text": "g",
+        "is_correct": false
+      },
+      {
+        "text": "c",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“cat / city” is an example of c.",
+      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-004",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Syllables cut at every vowel letter”?",
+    "audio_prompt": "Which correction best fixes this idea: “Syllables cut at every vowel letter”?",
+    "answers": [
+      {
+        "text": "Use spoken syllables and patterns.",
+        "is_correct": true
+      },
+      {
         "text": "One grapheme has one sound",
+        "is_correct": false
+      },
+      {
+        "text": "Guess from first letters",
+        "is_correct": false
+      },
+      {
+        "text": "Context replaces decoding",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use spoken syllables and patterns. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-005",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "tion_sion",
+    "question": "Which example would be most useful when explaining complex grapheme–phoneme patterns in a sports-club discussion?",
+    "audio_prompt": "Which example would be most useful when explaining complex grapheme–phoneme patterns in a sports-club discussion?",
+    "answers": [
+      {
+        "text": "though / through / rough / thought",
+        "is_correct": false
+      },
+      {
+        "text": "action / vision",
+        "is_correct": true
+      },
+      {
+        "text": "chair / chorus / chef",
+        "is_correct": false
+      },
+      {
+        "text": "cat / city",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "grapheme means letter or letters representing a phoneme.",
-      "hint": "Match the definition to the most precise term used in Complex Grapheme–Phoneme Patterns."
+      "summary": "This example directly demonstrates tion/sion and can be explained using the language clue in the text.",
+      "hint": "Students analyse full written patterns, syllables and stress, recognise multiple spellings for sounds and multiple pronunciations for graphemes and cross-check with morphology and context."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-p-003",
+    "id": "AC9E6LY08-P-006",
     "curriculum_code": "AC9E6LY08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_ch_sounds",
-    "question": "What should a reader do after a first pronunciation does not fit?",
-    "audio_prompt": "What should a reader do after a first pronunciation does not fit?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "recognise",
+    "skill": "read_an_ough_word",
+    "question": "In a library display, what should a reader do after a first pronunciation does not fit?",
+    "audio_prompt": "In a library display, what should a reader do after a first pronunciation does not fit?",
     "answers": [
       {
         "text": "Keep the guess",
@@ -112,113 +219,107 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "“Recheck graphemes, morphemes, stress and context” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-p-004",
+    "id": "AC9E6LY08-P-007",
     "curriculum_code": "AC9E6LY08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
+    "skill": "grapheme",
+    "question": "Which term best matches this meaning: “letter or letters representing a phoneme”?",
+    "audio_prompt": "Which term best matches this meaning: “letter or letters representing a phoneme”?",
+    "answers": [
+      {
+        "text": "phoneme",
+        "is_correct": false
+      },
+      {
+        "text": "stress",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "grapheme",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "grapheme means letter or letters representing a phoneme.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-008",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "c",
+    "question": "Read this example from a student council meeting: “cat / city”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a student council meeting: “cat / city”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "c",
+        "is_correct": true
+      },
+      {
+        "text": "ough",
+        "is_correct": false
+      },
+      {
+        "text": "ch",
+        "is_correct": false
+      },
+      {
+        "text": "g",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“cat / city” is an example of c.",
+      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-009",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
     "skill": "misconception_repair",
-    "question": "A student says, “One grapheme has one sound.” Which response best corrects the misunderstanding?",
-    "audio_prompt": "A student says, “One grapheme has one sound.” Which response best corrects the misunderstanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Process full word",
-        "is_correct": false
-      },
-      {
-        "text": "Cross-check written evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Use spoken syllables and patterns",
-        "is_correct": false
-      },
-      {
-        "text": "English patterns vary",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "English patterns vary",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6ly08-p-005",
-    "curriculum_code": "AC9E6LY08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "analyse_complex_sound_letter_patterns",
-    "question": "Which pairing accurately reflects the model for Complex Grapheme–Phoneme Patterns?",
-    "audio_prompt": "Which pairing accurately reflects the model for Complex Grapheme–Phoneme Patterns?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "ough → though / through / rough / thought",
-        "is_correct": true
-      },
-      {
-        "text": "though / through / rough / thought → ough",
-        "is_correct": false
-      },
-      {
-        "text": "ch → chair / chorus / chef",
-        "is_correct": false
-      },
-      {
-        "text": "Guess from first letters",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6ly08-p-006",
-    "curriculum_code": "AC9E6LY08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "concept_principle",
-    "question": "Which principle should guide a response about Complex Grapheme–Phoneme Patterns?",
-    "audio_prompt": "Which principle should guide a response about Complex Grapheme–Phoneme Patterns?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Which correction best fixes this idea: “One grapheme has one sound”?",
+    "audio_prompt": "Which correction best fixes this idea: “One grapheme has one sound”?",
     "answers": [
       {
         "text": "One grapheme has one sound",
         "is_correct": false
       },
       {
-        "text": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology",
+        "text": "English patterns vary.",
         "is_correct": true
       },
       {
@@ -232,67 +333,485 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "English patterns vary. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-p-007",
+    "id": "AC9E6LY08-P-010",
     "curriculum_code": "AC9E6LY08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "guided_application",
-    "question": "Which plan would best complete this task: Analyse three complex words with different grapheme pronunciations and explain context/morphology support?",
-    "audio_prompt": "Which plan would best complete this task: Analyse three complex words with different grapheme pronunciations and explain context/morphology support?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "recognise",
+    "skill": "tion_sion",
+    "question": "Which example would be most useful when explaining complex grapheme–phoneme patterns in a environmental campaign?",
+    "audio_prompt": "Which example would be most useful when explaining complex grapheme–phoneme patterns in a environmental campaign?",
     "answers": [
       {
-        "text": "List features without explaining their effects.",
+        "text": "though / through / rough / thought",
         "is_correct": false
       },
       {
-        "text": "Give a personal preference without textual evidence.",
+        "text": "chair / chorus / chef",
         "is_correct": false
       },
       {
-        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "text": "action / vision",
         "is_correct": true
       },
       {
-        "text": "Discuss a different topic instead of the stated task.",
+        "text": "cat / city",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+      "summary": "This example directly demonstrates tion/sion and can be explained using the language clue in the text.",
+      "hint": "Students analyse full written patterns, syllables and stress, recognise multiple spellings for sounds and multiple pronunciations for graphemes and cross-check with morphology and context."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-p-008",
+    "id": "AC9E6LY08-P-011",
     "curriculum_code": "AC9E6LY08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "reasoning",
-    "question": "Which evidence would best show secure understanding of Complex Grapheme–Phoneme Patterns?",
-    "audio_prompt": "Which evidence would best show secure understanding of Complex Grapheme–Phoneme Patterns?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "explain",
+    "skill": "c",
+    "question": "A museum caption includes “cat / city”. Why is this an effective example of c?",
+    "audio_prompt": "A museum caption includes “cat / city”. Why is this an effective example of c?",
     "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Context confirms a decoded word but should not replace attention to every important letter pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "cat / city works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-012",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a student council meeting?",
+    "audio_prompt": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a student council meeting?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Process full word.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-013",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "tion_sion",
+    "question": "A local-history article includes “action / vision”. Why is this an effective example of tion/sion?",
+    "audio_prompt": "A local-history article includes “action / vision”. Why is this an effective example of tion/sion?",
+    "answers": [
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
+        "is_correct": false
+      },
+      {
+        "text": "Context confirms a decoded word but should not replace attention to every important letter pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "action / vision works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-014",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use spoken syllables and patterns.” a better rule than “Syllables cut at every vowel letter” when reading a environmental campaign?",
+    "audio_prompt": "Why is “Use spoken syllables and patterns.” a better rule than “Syllables cut at every vowel letter” when reading a environmental campaign?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Use spoken syllables and patterns.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-015",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "ch",
+    "question": "A book-club discussion includes “chair / chorus / chef”. Why is this an effective example of ch?",
+    "audio_prompt": "A book-club discussion includes “chair / chorus / chef”. Why is this an effective example of ch?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Context confirms a decoded word but should not replace attention to every important letter pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "chair / chorus / chef works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-016",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a excursion briefing?",
+    "audio_prompt": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a excursion briefing?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Process full word.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-017",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "g",
+    "question": "A design project includes “go / giant”. Why is this an effective example of g?",
+    "audio_prompt": "A design project includes “go / giant”. Why is this an effective example of g?",
+    "answers": [
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
+        "is_correct": false
+      },
+      {
+        "text": "Context confirms a decoded word but should not replace attention to every important letter pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "go / giant works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-018",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use spoken syllables and patterns.” a better rule than “Syllables cut at every vowel letter” when reading a weather report?",
+    "audio_prompt": "Why is “Use spoken syllables and patterns.” a better rule than “Syllables cut at every vowel letter” when reading a weather report?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Use spoken syllables and patterns.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-019",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "ough",
+    "question": "A school assembly includes “though / through / rough / thought”. Why is this an effective example of ough?",
+    "audio_prompt": "A school assembly includes “though / through / rough / thought”. Why is this an effective example of ough?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Context confirms a decoded word but should not replace attention to every important letter pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "though / through / rough / thought works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-020",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a peer feedback session?",
+    "audio_prompt": "Why is “Process full word.” a better rule than “Guess from first letters” when reading a peer feedback session?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Process full word.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-021",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A excursion briefing could use either “though / through / rough / thought” or “identify familiar morphemes”. Which comparison is most accurate?",
+    "audio_prompt": "A excursion briefing could use either “though / through / rough / thought” or “identify familiar morphemes”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      },
+      {
+        "text": "“though / through / rough / thought” shows ough, while “identify familiar morphemes” shows identify familiar morphemes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The important difference is the language function: ough versus identify familiar morphemes.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-022",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Context replaces decoding” in a design project?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Context replaces decoding” in a design project?",
+    "answers": [
+      {
+        "text": "Cross-check written evidence.",
+        "is_correct": true
+      },
       {
         "text": "One grapheme has one sound",
         "is_correct": false
@@ -304,315 +823,1308 @@
       {
         "text": "Context replaces decoding",
         "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cross-check written evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-023",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A weather report could use either “cat / city” or “try syllable blend”. Which comparison is most accurate?",
+    "audio_prompt": "A weather report could use either “cat / city” or “try syllable blend”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
       },
       {
-        "text": "Students analyse full written patterns, syllables and stress, recognise multiple spellings for sounds and multiple pronunciations for graphemes and cross-check with morphology and context The response also explains its evidence and limitations.",
+        "text": "“cat / city” shows c, while “try syllable blend” shows try syllable blend.",
+        "is_correct": true
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The important difference is the language function: c versus try syllable blend.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-024",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “One grapheme has one sound” in a school assembly?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “One grapheme has one sound” in a school assembly?",
+    "answers": [
+      {
+        "text": "One grapheme has one sound",
+        "is_correct": false
+      },
+      {
+        "text": "Guess from first letters",
+        "is_correct": false
+      },
+      {
+        "text": "English patterns vary.",
+        "is_correct": true
+      },
+      {
+        "text": "Context replaces decoding",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "English patterns vary. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-025",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A peer feedback session could use either “action / vision” or “compare word family”. Which comparison is most accurate?",
+    "audio_prompt": "A peer feedback session could use either “action / vision” or “compare word family”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      },
+      {
+        "text": "“action / vision” shows tion/sion, while “compare word family” shows compare word family.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "The important difference is the language function: tion/sion versus compare word family.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-t-001",
+    "id": "AC9E6LY08-P-026",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Context replaces decoding” in a cooking demonstration?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Context replaces decoding” in a cooking demonstration?",
+    "answers": [
+      {
+        "text": "Cross-check written evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "One grapheme has one sound",
+        "is_correct": false
+      },
+      {
+        "text": "Guess from first letters",
+        "is_correct": false
+      },
+      {
+        "text": "Context replaces decoding",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cross-check written evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-027",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A arts review could use either “chair / chorus / chef” or “scan whole word”. Which comparison is most accurate?",
+    "audio_prompt": "A arts review could use either “chair / chorus / chef” or “scan whole word”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "“chair / chorus / chef” shows ch, while “scan whole word” shows scan whole word.",
+        "is_correct": true
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The important difference is the language function: ch versus scan whole word.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-028",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “One grapheme has one sound” in a technology presentation?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “One grapheme has one sound” in a technology presentation?",
+    "answers": [
+      {
+        "text": "One grapheme has one sound",
+        "is_correct": false
+      },
+      {
+        "text": "Guess from first letters",
+        "is_correct": false
+      },
+      {
+        "text": "English patterns vary.",
+        "is_correct": true
+      },
+      {
+        "text": "Context replaces decoding",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "English patterns vary. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-029",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A playground consultation could use either “go / giant” or “mark vowel/grapheme patterns”. Which comparison is most accurate?",
+    "audio_prompt": "A playground consultation could use either “go / giant” or “mark vowel/grapheme patterns”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      },
+      {
+        "text": "“go / giant” shows g, while “mark vowel/grapheme patterns” shows mark vowel/grapheme patterns.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The important difference is the language function: g versus mark vowel/grapheme patterns.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-030",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Context replaces decoding” in a class podcast?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Context replaces decoding” in a class podcast?",
+    "answers": [
+      {
+        "text": "Cross-check written evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "One grapheme has one sound",
+        "is_correct": false
+      },
+      {
+        "text": "Guess from first letters",
+        "is_correct": false
+      },
+      {
+        "text": "Context replaces decoding",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cross-check written evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-031",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "mark_syllables_stress",
+    "question": "You are editing a community garden proposal. What should a reader do after a first pronunciation does not fit?",
+    "audio_prompt": "You are editing a community garden proposal. What should a reader do after a first pronunciation does not fit?",
+    "answers": [
+      {
+        "text": "Recheck graphemes, morphemes, stress and context",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the guess",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the word permanently",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first letter only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-032",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify_familiar_morphemes",
+    "question": "A sports-club discussion needs a clear example of identify familiar morphemes. Which wording should you choose?",
+    "audio_prompt": "A sports-club discussion needs a clear example of identify familiar morphemes. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "scan whole word",
+        "is_correct": false
+      },
+      {
+        "text": "identify familiar morphemes",
+        "is_correct": true
+      },
+      {
+        "text": "mark vowel/grapheme patterns",
+        "is_correct": false
+      },
+      {
+        "text": "try syllable blend",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“identify familiar morphemes” is the best choice because it demonstrates identify familiar morphemes in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-033",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "grapheme",
+    "question": "While revising a library display, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a library display, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "phoneme",
+        "is_correct": false
+      },
+      {
+        "text": "stress",
+        "is_correct": false
+      },
+      {
+        "text": "grapheme",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "grapheme is the concept that matches letter or letters representing a phoneme.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-034",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "read_an_ough_word",
+    "question": "You are editing a museum caption. What should a reader do after a first pronunciation does not fit?",
+    "audio_prompt": "You are editing a museum caption. What should a reader do after a first pronunciation does not fit?",
+    "answers": [
+      {
+        "text": "Keep the guess",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the word permanently",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first letter only",
+        "is_correct": false
+      },
+      {
+        "text": "Recheck graphemes, morphemes, stress and context",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-035",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "check_stress_and_sentence_meaning",
+    "question": "A student council meeting needs a clear example of check stress and sentence meaning. Which wording should you choose?",
+    "audio_prompt": "A student council meeting needs a clear example of check stress and sentence meaning. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "check stress and sentence meaning",
+        "is_correct": true
+      },
+      {
+        "text": "scan whole word",
+        "is_correct": false
+      },
+      {
+        "text": "identify familiar morphemes",
+        "is_correct": false
+      },
+      {
+        "text": "mark vowel/grapheme patterns",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“check stress and sentence meaning” is the best choice because it demonstrates check stress and sentence meaning in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-036",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "grapheme",
+    "question": "While revising a local-history article, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a local-history article, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "phoneme",
+        "is_correct": false
+      },
+      {
+        "text": "grapheme",
+        "is_correct": true
+      },
+      {
+        "text": "stress",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "grapheme is the concept that matches letter or letters representing a phoneme.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-037",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "use_full_word",
+    "question": "You are editing a environmental campaign. What should a reader do after a first pronunciation does not fit?",
+    "audio_prompt": "You are editing a environmental campaign. What should a reader do after a first pronunciation does not fit?",
+    "answers": [
+      {
+        "text": "Keep the guess",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the word permanently",
+        "is_correct": false
+      },
+      {
+        "text": "Recheck graphemes, morphemes, stress and context",
+        "is_correct": true
+      },
+      {
+        "text": "Use the first letter only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-038",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "scan_whole_word",
+    "question": "A book-club discussion needs a clear example of scan whole word. Which wording should you choose?",
+    "audio_prompt": "A book-club discussion needs a clear example of scan whole word. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "identify familiar morphemes",
+        "is_correct": false
+      },
+      {
+        "text": "mark vowel/grapheme patterns",
+        "is_correct": false
+      },
+      {
+        "text": "try syllable blend",
+        "is_correct": false
+      },
+      {
+        "text": "scan whole word",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“scan whole word” is the best choice because it demonstrates scan whole word in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-039",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "grapheme",
+    "question": "While revising a excursion briefing, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a excursion briefing, you need language that matches “letter or letters representing a phoneme”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "grapheme",
+        "is_correct": true
+      },
+      {
+        "text": "phoneme",
+        "is_correct": false
+      },
+      {
+        "text": "stress",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "grapheme is the concept that matches letter or letters representing a phoneme.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-P-040",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "compare_ch_sounds",
+    "question": "You are editing a design project. What should a reader do after a first pronunciation does not fit?",
+    "audio_prompt": "You are editing a design project. What should a reader do after a first pronunciation does not fit?",
+    "answers": [
+      {
+        "text": "Keep the guess",
+        "is_correct": false
+      },
+      {
+        "text": "Recheck graphemes, morphemes, stress and context",
+        "is_correct": true
+      },
+      {
+        "text": "Skip the word permanently",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first letter only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Recheck graphemes, morphemes, stress and context” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-001",
     "curriculum_code": "AC9E6LY08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
+    "skill": "mark_vowel_grapheme_patterns",
+    "question": "A community radio segment includes “mark vowel/grapheme patterns”. Which description best fits this wording?",
+    "audio_prompt": "A community radio segment includes “mark vowel/grapheme patterns”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "ough",
+        "is_correct": false
+      },
+      {
+        "text": "ch",
+        "is_correct": false
+      },
+      {
+        "text": "mark vowel/grapheme patterns",
+        "is_correct": true
+      },
+      {
+        "text": "c",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The wording best matches mark vowel/grapheme patterns.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-002",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "grapheme",
+    "question": "In a wildlife-centre report, which term matches this meaning: “letter or letters representing a phoneme”?",
+    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “letter or letters representing a phoneme”?",
+    "answers": [
+      {
+        "text": "phoneme",
+        "is_correct": false
+      },
+      {
+        "text": "stress",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "grapheme",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "grapheme is the precise term for letter or letters representing a phoneme.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-003",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "complex_grapheme_phoneme_patterns",
+    "question": "For a regional youth forum, which word uses ch with a /k/ sound?",
+    "audio_prompt": "For a regional youth forum, which word uses ch with a /k/ sound?",
+    "answers": [
+      {
+        "text": "chorus",
+        "is_correct": true
+      },
+      {
+        "text": "chair",
+        "is_correct": false
+      },
+      {
+        "text": "chef",
+        "is_correct": false
+      },
+      {
+        "text": "machine",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“chorus” is supported by the language evidence and purpose of the text.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-004",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a coastal-monitoring update says, “Guess from first letters”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Guess from first letters”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "One grapheme has one sound",
+        "is_correct": false
+      },
+      {
+        "text": "Process full word.",
+        "is_correct": true
+      },
+      {
+        "text": "Guess from first letters",
+        "is_correct": false
+      },
+      {
+        "text": "Context replaces decoding",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-005",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "verify_reference_if_needed",
+    "question": "A heritage trail guide includes “verify reference if needed”. Which description best fits this wording?",
+    "audio_prompt": "A heritage trail guide includes “verify reference if needed”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "ough",
+        "is_correct": false
+      },
+      {
+        "text": "ch",
+        "is_correct": false
+      },
+      {
+        "text": "verify reference if needed",
+        "is_correct": true
+      },
+      {
+        "text": "c",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The wording best matches verify reference if needed.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-006",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
     "skill": "phoneme",
-    "question": "In a new text, which definition correctly identifies phoneme?",
-    "audio_prompt": "In a new text, which definition correctly identifies phoneme?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a public-transport survey, which term matches this meaning: “smallest contrastive speech sound”?",
+    "audio_prompt": "In a public-transport survey, which term matches this meaning: “smallest contrastive speech sound”?",
     "answers": [
       {
-        "text": "Smallest contrastive speech sound",
+        "text": "grapheme",
+        "is_correct": false
+      },
+      {
+        "text": "stress",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "phoneme",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "phoneme is the precise term for smallest contrastive speech sound.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-007",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "complex_grapheme_phoneme_patterns",
+    "question": "For a festival review, which word uses ch with a /k/ sound?",
+    "audio_prompt": "For a festival review, which word uses ch with a /k/ sound?",
+    "answers": [
+      {
+        "text": "chorus",
         "is_correct": true
       },
       {
-        "text": "Letter or letters representing a phoneme",
+        "text": "chair",
         "is_correct": false
       },
       {
-        "text": "Relative prominence of a syllable",
+        "text": "chef",
         "is_correct": false
+      },
+      {
+        "text": "machine",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“chorus” is supported by the language evidence and purpose of the text.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-008",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a emergency-preparedness talk says, “Guess from first letters”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Guess from first letters”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "One grapheme has one sound",
+        "is_correct": false
+      },
+      {
+        "text": "Process full word.",
+        "is_correct": true
       },
       {
         "text": "Guess from first letters",
         "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "phoneme means smallest contrastive speech sound.",
-      "hint": "Distinguish this term from related features in the unit."
-    }
-  },
-  {
-    "id": "ac9e6ly08-t-002",
-    "curriculum_code": "AC9E6LY08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "diagnosis",
-    "question": "A response shows this problem: “Guess from first letters.” What is the most effective revision?",
-    "audio_prompt": "A response shows this problem: “Guess from first letters.” What is the most effective revision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "English patterns vary",
-        "is_correct": false
-      },
-      {
-        "text": "Process full word",
-        "is_correct": true
-      },
-      {
-        "text": "Cross-check written evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the response unchanged because the issue does not affect meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Process full word",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
-    }
-  },
-  {
-    "id": "ac9e6ly08-t-003",
-    "curriculum_code": "AC9E6LY08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "analyse_complex_sound_letter_patterns",
-    "question": "Which interpretation of this model element is accurate: “ch → chair / chorus / chef”?",
-    "audio_prompt": "Which interpretation of this model element is accurate: “ch → chair / chorus / chef”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The first part is decorative and can be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The second part always has the same effect in every text.",
-        "is_correct": false
-      },
-      {
-        "text": "It shows a deliberate relationship within Complex Grapheme–Phoneme Patterns, so both parts must be interpreted together.",
-        "is_correct": true
-      },
-      {
-        "text": "The pairing proves that no alternative interpretation is possible.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "The same grapheme can represent different phonemes, often influenced by word origin, position and morphology."
-    }
-  },
-  {
-    "id": "ac9e6ly08-t-004",
-    "curriculum_code": "AC9E6LY08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "use_a_strategic_decoding_and_spelling_routine",
-    "question": "When applying Complex Grapheme–Phoneme Patterns to an unfamiliar text, which analytical move is strongest?",
-    "audio_prompt": "When applying Complex Grapheme–Phoneme Patterns to an unfamiliar text, which analytical move is strongest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name a feature and stop.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every audience responds identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace analysis with an unsupported personal judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
-    }
-  },
-  {
-    "id": "ac9e6ly08-t-005",
-    "curriculum_code": "AC9E6LY08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "stress",
-    "question": "Which example best demonstrates an understanding of stress?",
-    "audio_prompt": "Which example best demonstrates an understanding of stress?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Relative prominence of a syllable, identified using evidence from the text.",
-        "is_correct": true
       },
       {
         "text": "Context replaces decoding",
         "is_correct": false
-      },
-      {
-        "text": "Syllables cut at every vowel letter",
-        "is_correct": false
-      },
-      {
-        "text": "A general comment that does not use the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "stress is relative prominence of a syllable.",
-      "hint": "Select the response that applies the definition and uses evidence."
-    }
-  },
-  {
-    "id": "ac9e6ly08-t-006",
-    "curriculum_code": "AC9E6LY08",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "transfer",
-    "question": "Which conclusion stays within the evidence when analysing Complex Grapheme–Phoneme Patterns?",
-    "audio_prompt": "Which conclusion stays within the evidence when analysing Complex Grapheme–Phoneme Patterns?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "This single example proves the rule applies identically everywhere.",
-        "is_correct": false
-      },
-      {
-        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
-        "is_correct": true
-      },
-      {
-        "text": "The writer's choice guarantees the same reaction from every reader.",
-        "is_correct": false
-      },
-      {
-        "text": "No evidence is needed because the interpretation sounds reasonable.",
-        "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
-    }
+      "summary": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-t-007",
+    "id": "AC9E6LY08-T-009",
     "curriculum_code": "AC9E6LY08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "extended_analysis",
-    "question": "Which response plan best addresses this challenge: Create a teaching map for one variable grapheme using words grouped by pronunciation and origin?",
-    "audio_prompt": "Which response plan best addresses this challenge: Create a teaching map for one variable grapheme using words grouped by pronunciation and origin?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "try_syllable_blend",
+    "question": "A water-saving brochure includes “try syllable blend”. Which description best fits this wording?",
+    "audio_prompt": "A water-saving brochure includes “try syllable blend”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "Copy the lesson example without adapting it.",
+        "text": "ough",
         "is_correct": false
       },
       {
-        "text": "Add several unrelated features and do not explain them.",
+        "text": "ch",
         "is_correct": false
       },
       {
-        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "text": "try syllable blend",
         "is_correct": true
       },
       {
-        "text": "Describe the task but do not produce or analyse a response.",
+        "text": "c",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
-    }
+      "summary": "The wording best matches try syllable blend.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly08-t-008",
+    "id": "AC9E6LY08-T-010",
     "curriculum_code": "AC9E6LY08",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "critical_evaluation",
-    "question": "Which approach best addresses this evaluation: Compare two words with similar spelling but different stress or sound patterns and explain?",
-    "audio_prompt": "Which approach best addresses this evaluation: Compare two words with similar spelling but different stress or sound patterns and explain?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "stress",
+    "question": "In a local council submission, which term matches this meaning: “relative prominence of a syllable”?",
+    "audio_prompt": "In a local council submission, which term matches this meaning: “relative prominence of a syllable”?",
     "answers": [
       {
-        "text": "Choose a preferred answer before examining evidence.",
+        "text": "grapheme",
         "is_correct": false
       },
       {
-        "text": "Summarise each example without comparing it.",
+        "text": "phoneme",
         "is_correct": false
       },
       {
-        "text": "Treat one feature as proof of the whole judgement.",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       },
       {
-        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "text": "stress",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
-    }
+      "summary": "stress is the precise term for relative prominence of a syllable.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-011",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "complex_grapheme_phoneme_patterns",
+    "question": "For a marine-research diary, which word uses ch with a /k/ sound?",
+    "audio_prompt": "For a marine-research diary, which word uses ch with a /k/ sound?",
+    "answers": [
+      {
+        "text": "chorus",
+        "is_correct": true
+      },
+      {
+        "text": "chair",
+        "is_correct": false
+      },
+      {
+        "text": "chef",
+        "is_correct": false
+      },
+      {
+        "text": "machine",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“chorus” is supported by the language evidence and purpose of the text.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-012",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a farmers market profile says, “Guess from first letters”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a farmers market profile says, “Guess from first letters”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "One grapheme has one sound",
+        "is_correct": false
+      },
+      {
+        "text": "Process full word.",
+        "is_correct": true
+      },
+      {
+        "text": "Guess from first letters",
+        "is_correct": false
+      },
+      {
+        "text": "Context replaces decoding",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-013",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "scan_whole_word",
+    "question": "A astronomy exhibition includes “scan whole word”. Which description best fits this wording?",
+    "audio_prompt": "A astronomy exhibition includes “scan whole word”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "ough",
+        "is_correct": false
+      },
+      {
+        "text": "ch",
+        "is_correct": false
+      },
+      {
+        "text": "scan whole word",
+        "is_correct": true
+      },
+      {
+        "text": "c",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The wording best matches scan whole word.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-014",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "grapheme",
+    "question": "In a river-restoration update, which term matches this meaning: “letter or letters representing a phoneme”?",
+    "audio_prompt": "In a river-restoration update, which term matches this meaning: “letter or letters representing a phoneme”?",
+    "answers": [
+      {
+        "text": "phoneme",
+        "is_correct": false
+      },
+      {
+        "text": "stress",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "grapheme",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "grapheme is the precise term for letter or letters representing a phoneme.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-015",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "complex_grapheme_phoneme_patterns",
+    "question": "For a cycling-safety campaign, which word uses ch with a /k/ sound?",
+    "audio_prompt": "For a cycling-safety campaign, which word uses ch with a /k/ sound?",
+    "answers": [
+      {
+        "text": "chorus",
+        "is_correct": true
+      },
+      {
+        "text": "chair",
+        "is_correct": false
+      },
+      {
+        "text": "chef",
+        "is_correct": false
+      },
+      {
+        "text": "machine",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“chorus” is supported by the language evidence and purpose of the text.",
+      "hint": "Context confirms a decoded word but should not replace attention to every important letter pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY08-T-016",
+    "curriculum_code": "AC9E6LY08",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a neighbourhood history podcast says, “Guess from first letters”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Guess from first letters”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "One grapheme has one sound",
+        "is_correct": false
+      },
+      {
+        "text": "Process full word.",
+        "is_correct": true
+      },
+      {
+        "text": "Guess from first letters",
+        "is_correct": false
+      },
+      {
+        "text": "Context replaces decoding",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Process full word. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
   }
 ]

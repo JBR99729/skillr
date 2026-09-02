@@ -1,14 +1,15 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "id": "ac9e6ly07-t-001",
+    "id": "AC9E6LY07-T-001",
     "curriculumCode": "AC9E6LY07",
     "bank": "test",
-    "skill": "presentations",
+    "stage": "verify",
+    "skill": "weak transition",
     "printable": true,
     "type": "single",
-    "question": "Test example: a storyboard for a presentation show?",
-    "audioPrompt": "Test example: a storyboard for a presentation show?",
+    "question": "A community radio segment includes “add signposting”. Which description best fits this wording?",
+    "audioPrompt": "A community radio segment includes “add signposting”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,57 +17,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The order of ideas, visuals and spoken points.",
-      "Put all speaking notes on one slide.",
-      "Ignore timing until presentation day.",
-      "Use visuals that are unrelated to the claim."
-    ],
-    "correct": 0,
-    "explanation": "The order of ideas, visuals and spoken points.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
-    "structuredExplanation": {
-      "summary": "The order of ideas, visuals and spoken points.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
-    },
-    "qualitySchema": "student-facing-v2"
-  },
-  {
-    "id": "ac9e6ly07-t-002",
-    "curriculumCode": "AC9E6LY07",
-    "bank": "test",
-    "skill": "presentations",
-    "printable": true,
-    "type": "single",
-    "question": "Test example: opening best signals the central idea?",
-    "audioPrompt": "Test example: opening best signals the central idea?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Ignore timing until presentation day.",
-      "Today I will show why our class should reduce single-use packaging.",
-      "Use visuals that are unrelated to the claim.",
-      "Jump between ideas without transitions."
+      "opening",
+      "weak transition",
+      "idea 1",
+      "idea 2"
     ],
     "correct": 1,
-    "explanation": "Today I will show why our class should reduce single-use packaging.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches weak transition.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Today I will show why our class should reduce single-use packaging.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches weak transition.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly07-t-003",
+    "id": "AC9E6LY07-T-002",
     "curriculumCode": "AC9E6LY07",
     "bank": "test",
-    "skill": "presentations",
+    "stage": "verify",
+    "skill": "signposting",
     "printable": true,
     "type": "single",
-    "question": "Test example: A slide has six paragraphs of tiny text. What is the best revision?",
-    "audioPrompt": "Test example: A slide has six paragraphs of tiny text. What is the best revision?",
+    "question": "In a wildlife-centre report, which term matches this meaning: “language signalling organisation”?",
+    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “language signalling organisation”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -74,28 +47,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use visuals that are unrelated to the claim.",
-      "Jump between ideas without transitions.",
-      "Use a few key words and explain the detail aloud.",
-      "Put all speaking notes on one slide."
+      "elaboration",
+      "delivery",
+      "signposting",
+      "It does not match the evidence in the example."
     ],
     "correct": 2,
-    "explanation": "Use a few key words and explain the detail aloud.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "signposting is the precise term for language signalling organisation.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Use a few key words and explain the detail aloud.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "signposting is the precise term for language signalling organisation.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly07-t-004",
+    "id": "AC9E6LY07-T-003",
     "curriculumCode": "AC9E6LY07",
     "bank": "test",
-    "skill": "presentations",
+    "stage": "verify",
+    "skill": "spoken and multimodal presentations",
     "printable": true,
     "type": "single",
-    "question": "Test example: rehearse with a timer?",
-    "audioPrompt": "Test example: rehearse with a timer?",
+    "question": "For a regional youth forum, which slide best supports a presentation?",
+    "audioPrompt": "For a regional youth forum, which slide best supports a presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -103,28 +77,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Jump between ideas without transitions.",
-      "Put all speaking notes on one slide.",
-      "Ignore timing until presentation day.",
-      "To check pacing and adjust sections before presenting."
+      "A full script in tiny text",
+      "An unrelated animation",
+      "A blank decorative screen",
+      "A readable graph with a concise heading and spoken explanation"
     ],
     "correct": 3,
-    "explanation": "To check pacing and adjust sections before presenting.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.\nHint: Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
     "structuredExplanation": {
-      "summary": "To check pacing and adjust sections before presenting.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.",
+      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly07-t-005",
+    "id": "AC9E6LY07-T-004",
     "curriculumCode": "AC9E6LY07",
     "bank": "test",
-    "skill": "presentations",
+    "stage": "verify",
+    "skill": "independent misconception check",
     "printable": true,
     "type": "single",
-    "question": "Test example: visual best supports data about lunch waste?",
-    "audioPrompt": "Test example: visual best supports data about lunch waste?",
+    "question": "A writer preparing a coastal-monitoring update says, “Slides duplicate script”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Slides duplicate script”. Which response is most accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -132,28 +107,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A simple bar graph comparing waste from each day.",
-      "Put all speaking notes on one slide.",
-      "Ignore timing until presentation day.",
-      "Use visuals that are unrelated to the claim."
+      "Use models and cues.",
+      "Confidence replaces content",
+      "Slides duplicate script",
+      "Loudest voice considered best"
     ],
     "correct": 0,
-    "explanation": "A simple bar graph comparing waste from each day.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
     "structuredExplanation": {
-      "summary": "A simple bar graph comparing waste from each day.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly07-t-006",
+    "id": "AC9E6LY07-T-005",
     "curriculumCode": "AC9E6LY07",
     "bank": "test",
-    "skill": "presentations",
+    "stage": "verify",
+    "skill": "weak transition",
     "printable": true,
     "type": "single",
-    "question": "Test example: What transition helps listeners follow the structure?",
-    "audioPrompt": "Test example: What transition helps listeners follow the structure?",
+    "question": "A heritage trail guide includes “add signposting”. Which description best fits this wording?",
+    "audioPrompt": "A heritage trail guide includes “add signposting”. Which description best fits this wording?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -161,28 +137,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ignore timing until presentation day.",
-      "Now that we have seen the problem, let us look at one solution.",
-      "Use visuals that are unrelated to the claim.",
-      "Jump between ideas without transitions."
+      "opening",
+      "weak transition",
+      "idea 1",
+      "idea 2"
     ],
     "correct": 1,
-    "explanation": "Now that we have seen the problem, let us look at one solution.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "The wording best matches weak transition.\nHint: Identify the language choice first, then check its effect in this context.",
     "structuredExplanation": {
-      "summary": "Now that we have seen the problem, let us look at one solution.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "The wording best matches weak transition.",
+      "hint": "Identify the language choice first, then check its effect in this context."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly07-t-007",
+    "id": "AC9E6LY07-T-006",
     "curriculumCode": "AC9E6LY07",
     "bank": "test",
-    "skill": "presentations",
+    "stage": "verify",
+    "skill": "elaboration",
     "printable": true,
     "type": "single",
-    "question": "Test example: A presenter speaks too quickly during key evidence. What should they adjust?",
-    "audioPrompt": "Test example: A presenter speaks too quickly during key evidence. What should they adjust?",
+    "question": "In a public-transport survey, which term matches this meaning: “detail or evidence developing an idea”?",
+    "audioPrompt": "In a public-transport survey, which term matches this meaning: “detail or evidence developing an idea”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,28 +167,29 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use visuals that are unrelated to the claim.",
-      "Jump between ideas without transitions.",
-      "Pace and pausing.",
-      "Put all speaking notes on one slide."
+      "signposting",
+      "delivery",
+      "elaboration",
+      "It does not match the evidence in the example."
     ],
     "correct": 2,
-    "explanation": "Pace and pausing.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "elaboration is the precise term for detail or evidence developing an idea.\nHint: Distinguish closely related terms by their definitions.",
     "structuredExplanation": {
-      "summary": "Pace and pausing.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "elaboration is the precise term for detail or evidence developing an idea.",
+      "hint": "Distinguish closely related terms by their definitions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly07-t-008",
+    "id": "AC9E6LY07-T-007",
     "curriculumCode": "AC9E6LY07",
     "bank": "test",
-    "skill": "presentations",
+    "stage": "verify",
+    "skill": "spoken and multimodal presentations",
     "printable": true,
     "type": "single",
-    "question": "Test example: reflection uses rehearsal data well?",
-    "audioPrompt": "Test example: reflection uses rehearsal data well?",
+    "question": "For a festival review, which slide best supports a presentation?",
+    "audioPrompt": "For a festival review, which slide best supports a presentation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -219,18 +197,288 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Jump between ideas without transitions.",
-      "Put all speaking notes on one slide.",
-      "Ignore timing until presentation day.",
-      "Listeners were confused during the graph, so I will add a clearer caption and slow down there."
+      "A full script in tiny text",
+      "An unrelated animation",
+      "A blank decorative screen",
+      "A readable graph with a concise heading and spoken explanation"
     ],
     "correct": 3,
-    "explanation": "Listeners were confused during the graph, so I will add a clearer caption and slow down there.\nHint: Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule.",
+    "explanation": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.\nHint: Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
     "structuredExplanation": {
-      "summary": "Listeners were confused during the graph, so I will add a clearer caption and slow down there.",
-      "hint": "Compare the example with the answer choices. The best answer explains the specific language choice, structure or evidence instead of making a broad rule."
+      "summary": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.",
+      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY07-T-008",
+    "curriculumCode": "AC9E6LY07",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a emergency-preparedness talk says, “Slides duplicate script”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Slides duplicate script”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use models and cues.",
+      "Confidence replaces content",
+      "Slides duplicate script",
+      "Loudest voice considered best"
+    ],
+    "correct": 0,
+    "explanation": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY07-T-009",
+    "curriculumCode": "AC9E6LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "weak transition",
+    "printable": true,
+    "type": "single",
+    "question": "A water-saving brochure includes “add signposting”. Which description best fits this wording?",
+    "audioPrompt": "A water-saving brochure includes “add signposting”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "opening",
+      "weak transition",
+      "idea 1",
+      "idea 2"
+    ],
+    "correct": 1,
+    "explanation": "The wording best matches weak transition.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches weak transition.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY07-T-010",
+    "curriculumCode": "AC9E6LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "delivery",
+    "printable": true,
+    "type": "single",
+    "question": "In a local council submission, which term matches this meaning: “voice, body and timing choices”?",
+    "audioPrompt": "In a local council submission, which term matches this meaning: “voice, body and timing choices”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "signposting",
+      "elaboration",
+      "delivery",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 2,
+    "explanation": "delivery is the precise term for voice, body and timing choices.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "delivery is the precise term for voice, body and timing choices.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY07-T-011",
+    "curriculumCode": "AC9E6LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "spoken and multimodal presentations",
+    "printable": true,
+    "type": "single",
+    "question": "For a marine-research diary, which slide best supports a presentation?",
+    "audioPrompt": "For a marine-research diary, which slide best supports a presentation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A full script in tiny text",
+      "An unrelated animation",
+      "A blank decorative screen",
+      "A readable graph with a concise heading and spoken explanation"
+    ],
+    "correct": 3,
+    "explanation": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.\nHint: Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
+    "structuredExplanation": {
+      "summary": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.",
+      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY07-T-012",
+    "curriculumCode": "AC9E6LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a farmers market profile says, “Slides duplicate script”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a farmers market profile says, “Slides duplicate script”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use models and cues.",
+      "Confidence replaces content",
+      "Slides duplicate script",
+      "Loudest voice considered best"
+    ],
+    "correct": 0,
+    "explanation": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY07-T-013",
+    "curriculumCode": "AC9E6LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "weak transition",
+    "printable": true,
+    "type": "single",
+    "question": "A astronomy exhibition includes “add signposting”. Which description best fits this wording?",
+    "audioPrompt": "A astronomy exhibition includes “add signposting”. Which description best fits this wording?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "opening",
+      "weak transition",
+      "idea 1",
+      "idea 2"
+    ],
+    "correct": 1,
+    "explanation": "The wording best matches weak transition.\nHint: Identify the language choice first, then check its effect in this context.",
+    "structuredExplanation": {
+      "summary": "The wording best matches weak transition.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY07-T-014",
+    "curriculumCode": "AC9E6LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "signposting",
+    "printable": true,
+    "type": "single",
+    "question": "In a river-restoration update, which term matches this meaning: “language signalling organisation”?",
+    "audioPrompt": "In a river-restoration update, which term matches this meaning: “language signalling organisation”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "elaboration",
+      "delivery",
+      "signposting",
+      "It does not match the evidence in the example."
+    ],
+    "correct": 2,
+    "explanation": "signposting is the precise term for language signalling organisation.\nHint: Distinguish closely related terms by their definitions.",
+    "structuredExplanation": {
+      "summary": "signposting is the precise term for language signalling organisation.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY07-T-015",
+    "curriculumCode": "AC9E6LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "spoken and multimodal presentations",
+    "printable": true,
+    "type": "single",
+    "question": "For a cycling-safety campaign, which slide best supports a presentation?",
+    "audioPrompt": "For a cycling-safety campaign, which slide best supports a presentation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A full script in tiny text",
+      "An unrelated animation",
+      "A blank decorative screen",
+      "A readable graph with a concise heading and spoken explanation"
+    ],
+    "correct": 3,
+    "explanation": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.\nHint: Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload.",
+    "structuredExplanation": {
+      "summary": "“A readable graph with a concise heading and spoken explanation” is supported by the language evidence and purpose of the text.",
+      "hint": "Rehearsal tests audience understanding, not just memorisation. Revise content when delivery problems reveal overload."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY07-T-016",
+    "curriculumCode": "AC9E6LY07",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent misconception check",
+    "printable": true,
+    "type": "single",
+    "question": "A writer preparing a neighbourhood history podcast says, “Slides duplicate script”. Which response is most accurate?",
+    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Slides duplicate script”. Which response is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use models and cues.",
+      "Confidence replaces content",
+      "Slides duplicate script",
+      "Loudest voice considered best"
+    ],
+    "correct": 0,
+    "explanation": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "structuredExplanation": {
+      "summary": "Use models and cues. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

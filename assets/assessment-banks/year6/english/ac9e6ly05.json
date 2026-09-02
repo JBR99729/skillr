@@ -1,22 +1,15 @@
 [
   {
-    "id": "ac9e6ly05-p-001",
+    "id": "AC9E6LY05-P-001",
     "curriculum_code": "AC9E6LY05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "build_inference",
-    "question": "Which statement is an inference?",
-    "audio_prompt": "Which statement is an inference?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a class podcast, which statement is an inference?",
+    "audio_prompt": "In a class podcast, which statement is an inference?",
     "answers": [
-      {
-        "text": "The service may face pressure if the decline continues",
-        "is_correct": true
-      },
       {
         "text": "The graph labels 12%",
         "is_correct": false
@@ -26,32 +19,1440 @@
         "is_correct": false
       },
       {
+        "text": "The service may face pressure if the decline continues",
+        "is_correct": true
+      },
+      {
         "text": "The table has four rows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The service may face pressure if the decline continues” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-002",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "monitoring",
+    "question": "Which term best matches this meaning: “checking and regulating understanding”?",
+    "audio_prompt": "Which term best matches this meaning: “checking and regulating understanding”?",
+    "answers": [
+      {
+        "text": "inference",
+        "is_correct": false
+      },
+      {
+        "text": "evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "monitoring",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "monitoring means checking and regulating understanding.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-003",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "predict_question",
+    "question": "Read this example from a science investigation: “predict/question”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a science investigation: “predict/question”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "predict/question",
+        "is_correct": true
+      },
+      {
+        "text": "set purpose",
+        "is_correct": false
+      },
+      {
+        "text": "activate knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "read/view and visualise",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "This choice best demonstrates build inference in the stated context.",
+      "summary": "“predict/question” is an example of predict/question.",
       "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly05-p-002",
+    "id": "AC9E6LY05-P-004",
     "curriculum_code": "AC9E6LY05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "inference",
-    "question": "Which term means “meaning built from evidence and knowledge”?",
-    "audio_prompt": "Which term means “meaning built from evidence and knowledge”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Evaluation equals liking”?",
+    "audio_prompt": "Which correction best fixes this idea: “Evaluation equals liking”?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Use evidence and criteria.",
+        "is_correct": true
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use evidence and criteria. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
     },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-005",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "infer_connect",
+    "question": "Which example would be most useful when explaining comprehension, inference and critical evaluation in a sports-club discussion?",
+    "audio_prompt": "Which example would be most useful when explaining comprehension, inference and critical evaluation in a sports-club discussion?",
+    "answers": [
+      {
+        "text": "set purpose",
+        "is_correct": false
+      },
+      {
+        "text": "activate knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "infer/connect",
+        "is_correct": true
+      },
+      {
+        "text": "predict/question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "This example directly demonstrates infer/connect and can be explained using the language clue in the text.",
+      "hint": "Students select strategies for purpose, integrate literal and implied evidence, revise mental models, summarise relationships and evaluate credibility, craft and representation."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-006",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "build_inference",
+    "question": "In a library display, which is a valid evaluation criterion?",
+    "audio_prompt": "In a library display, which is a valid evaluation criterion?",
+    "answers": [
+      {
+        "text": "whether the reader likes the topic",
+        "is_correct": false
+      },
+      {
+        "text": "the font alone",
+        "is_correct": false
+      },
+      {
+        "text": "personal agreement",
+        "is_correct": false
+      },
+      {
+        "text": "sample quality and evidence transparency",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“sample quality and evidence transparency” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-007",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "inference",
+    "question": "Which term best matches this meaning: “meaning built from evidence and knowledge”?",
+    "audio_prompt": "Which term best matches this meaning: “meaning built from evidence and knowledge”?",
+    "answers": [
+      {
+        "text": "inference",
+        "is_correct": true
+      },
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "inference means meaning built from evidence and knowledge.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-008",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "summarise",
+    "question": "Read this example from a student council meeting: “summarise”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a student council meeting: “summarise”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "set purpose",
+        "is_correct": false
+      },
+      {
+        "text": "summarise",
+        "is_correct": true
+      },
+      {
+        "text": "activate knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "predict/question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“summarise” is an example of summarise.",
+      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-009",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Prediction defended after contradiction”?",
+    "audio_prompt": "Which correction best fixes this idea: “Prediction defended after contradiction”?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Revise with evidence. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-010",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "set_purpose",
+    "question": "Which example would be most useful when explaining comprehension, inference and critical evaluation in a environmental campaign?",
+    "audio_prompt": "Which example would be most useful when explaining comprehension, inference and critical evaluation in a environmental campaign?",
+    "answers": [
+      {
+        "text": "activate knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "predict/question",
+        "is_correct": false
+      },
+      {
+        "text": "read/view and visualise",
+        "is_correct": false
+      },
+      {
+        "text": "set purpose",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "This example directly demonstrates set purpose and can be explained using the language clue in the text.",
+      "hint": "Students select strategies for purpose, integrate literal and implied evidence, revise mental models, summarise relationships and evaluate credibility, craft and representation."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-011",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "predict_question",
+    "question": "A museum caption includes “predict/question”. Why is this an effective example of predict/question?",
+    "audio_prompt": "A museum caption includes “predict/question”. Why is this an effective example of predict/question?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+        "is_correct": false
+      },
+      {
+        "text": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "predict/question works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-012",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a student council meeting?",
+    "audio_prompt": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a student council meeting?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Select central relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-013",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "infer_connect",
+    "question": "A local-history article includes “infer/connect”. Why is this an effective example of infer/connect?",
+    "audio_prompt": "A local-history article includes “infer/connect”. Why is this an effective example of infer/connect?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+        "is_correct": false
+      },
+      {
+        "text": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "infer/connect works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-014",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use evidence and criteria.” a better rule than “Evaluation equals liking” when reading a environmental campaign?",
+    "audio_prompt": "Why is “Use evidence and criteria.” a better rule than “Evaluation equals liking” when reading a environmental campaign?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use evidence and criteria.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-015",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "repair_revise",
+    "question": "A book-club discussion includes “repair/revise”. Why is this an effective example of repair/revise?",
+    "audio_prompt": "A book-club discussion includes “repair/revise”. Why is this an effective example of repair/revise?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+        "is_correct": false
+      },
+      {
+        "text": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "repair/revise works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-016",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a excursion briefing?",
+    "audio_prompt": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a excursion briefing?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Select central relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-017",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "evaluate",
+    "question": "A design project includes “evaluate”. Why is this an effective example of evaluate?",
+    "audio_prompt": "A design project includes “evaluate”. Why is this an effective example of evaluate?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+        "is_correct": false
+      },
+      {
+        "text": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "evaluate works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-018",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use evidence and criteria.” a better rule than “Evaluation equals liking” when reading a weather report?",
+    "audio_prompt": "Why is “Use evidence and criteria.” a better rule than “Evaluation equals liking” when reading a weather report?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use evidence and criteria.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-019",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "activate_knowledge",
+    "question": "A school assembly includes “activate knowledge”. Why is this an effective example of activate knowledge?",
+    "audio_prompt": "A school assembly includes “activate knowledge”. Why is this an effective example of activate knowledge?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question.",
+        "is_correct": false
+      },
+      {
+        "text": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "activate knowledge works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-020",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a peer feedback session?",
+    "audio_prompt": "Why is “Select central relationships.” a better rule than “Summary becomes retell” when reading a peer feedback session?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Select central relationships.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-021",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A excursion briefing could use either “set purpose” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
+    "audio_prompt": "A excursion briefing could use either “set purpose” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“set purpose” shows set purpose, while “The service may face pressure if the trend continues.” shows inference.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: set purpose versus inference.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-022",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a design project?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a design project?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Link it to interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Link it to interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-023",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A weather report could use either “predict/question” or “The axis starts at 80, so I revise my first visual impression.”. Which comparison is most accurate?",
+    "audio_prompt": "A weather report could use either “predict/question” or “The axis starts at 80, so I revise my first visual impression.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“predict/question” shows predict/question, while “The axis starts at 80, so I revise my first visual impression.” shows monitoring.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: predict/question versus monitoring.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-024",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Prediction defended after contradiction” in a school assembly?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Prediction defended after contradiction” in a school assembly?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Revise with evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-025",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A peer feedback session could use either “infer/connect” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
+    "audio_prompt": "A peer feedback session could use either “infer/connect” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“infer/connect” shows infer/connect, while “The service may face pressure if the trend continues.” shows inference.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: infer/connect versus inference.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-026",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a cooking demonstration?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a cooking demonstration?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Link it to interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Link it to interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-027",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A arts review could use either “repair/revise” or “The axis starts at 80, so I revise my first visual impression.”. Which comparison is most accurate?",
+    "audio_prompt": "A arts review could use either “repair/revise” or “The axis starts at 80, so I revise my first visual impression.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“repair/revise” shows repair/revise, while “The axis starts at 80, so I revise my first visual impression.” shows monitoring.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: repair/revise versus monitoring.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-028",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Prediction defended after contradiction” in a technology presentation?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Prediction defended after contradiction” in a technology presentation?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Revise with evidence. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-029",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A playground consultation could use either “evaluate” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
+    "audio_prompt": "A playground consultation could use either “evaluate” or “The service may face pressure if the trend continues.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“evaluate” shows evaluate, while “The service may face pressure if the trend continues.” shows inference.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: evaluate versus inference.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-030",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a class podcast?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Connection becomes unrelated anecdote” in a class podcast?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Link it to interpretation.",
+        "is_correct": true
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Link it to interpretation. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-031",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "repair_misunderstanding",
+    "question": "You are editing a community garden proposal. Which is a valid evaluation criterion?",
+    "audio_prompt": "You are editing a community garden proposal. Which is a valid evaluation criterion?",
+    "answers": [
+      {
+        "text": "whether the reader likes the topic",
+        "is_correct": false
+      },
+      {
+        "text": "sample quality and evidence transparency",
+        "is_correct": true
+      },
+      {
+        "text": "the font alone",
+        "is_correct": false
+      },
+      {
+        "text": "personal agreement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-032",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "inference",
+    "question": "A sports-club discussion needs a clear example of inference. Which wording should you choose?",
+    "audio_prompt": "A sports-club discussion needs a clear example of inference. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "The graph shows a 12% decline.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is limited because the sample excludes rural areas.",
+        "is_correct": false
+      },
+      {
+        "text": "The service may face pressure if the trend continues.",
+        "is_correct": true
+      },
+      {
+        "text": "The axis starts at 80, so I revise my first visual impression.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The service may face pressure if the trend continues.” is the best choice because it demonstrates inference in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-033",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "inference",
+    "question": "While revising a library display, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a library display, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "inference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "inference is the concept that matches meaning built from evidence and knowledge.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-034",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "build_inference",
+    "question": "You are editing a museum caption. Which is a valid evaluation criterion?",
+    "audio_prompt": "You are editing a museum caption. Which is a valid evaluation criterion?",
+    "answers": [
+      {
+        "text": "sample quality and evidence transparency",
+        "is_correct": true
+      },
+      {
+        "text": "whether the reader likes the topic",
+        "is_correct": false
+      },
+      {
+        "text": "the font alone",
+        "is_correct": false
+      },
+      {
+        "text": "personal agreement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-035",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "literal",
+    "question": "A student council meeting needs a clear example of literal. Which wording should you choose?",
+    "audio_prompt": "A student council meeting needs a clear example of literal. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "The service may face pressure if the trend continues.",
+        "is_correct": false
+      },
+      {
+        "text": "The graph shows a 12% decline.",
+        "is_correct": true
+      },
+      {
+        "text": "The claim is limited because the sample excludes rural areas.",
+        "is_correct": false
+      },
+      {
+        "text": "The axis starts at 80, so I revise my first visual impression.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The graph shows a 12% decline.” is the best choice because it demonstrates literal in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-036",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "inference",
+    "question": "While revising a local-history article, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a local-history article, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "inference",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "inference is the concept that matches meaning built from evidence and knowledge.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-037",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "summarise_relationship",
+    "question": "You are editing a environmental campaign. Which is a valid evaluation criterion?",
+    "audio_prompt": "You are editing a environmental campaign. Which is a valid evaluation criterion?",
+    "answers": [
+      {
+        "text": "whether the reader likes the topic",
+        "is_correct": false
+      },
+      {
+        "text": "the font alone",
+        "is_correct": false
+      },
+      {
+        "text": "personal agreement",
+        "is_correct": false
+      },
+      {
+        "text": "sample quality and evidence transparency",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-038",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "monitoring",
+    "question": "A book-club discussion needs a clear example of monitoring. Which wording should you choose?",
+    "audio_prompt": "A book-club discussion needs a clear example of monitoring. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "The axis starts at 80, so I revise my first visual impression.",
+        "is_correct": true
+      },
+      {
+        "text": "The graph shows a 12% decline.",
+        "is_correct": false
+      },
+      {
+        "text": "The service may face pressure if the trend continues.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim is limited because the sample excludes rural areas.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The axis starts at 80, so I revise my first visual impression.” is the best choice because it demonstrates monitoring in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-P-039",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "inference",
+    "question": "While revising a excursion briefing, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a excursion briefing, you need language that matches “meaning built from evidence and knowledge”. Which concept should guide your choice?",
     "answers": [
       {
         "text": "monitoring",
@@ -66,32 +1467,30 @@
         "is_correct": false
       },
       {
-        "text": "Prediction defended after contradiction",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "inference means meaning built from evidence and knowledge.",
-      "hint": "Match the definition to the most precise term used in Comprehension, Inference and Critical Evaluation."
+      "summary": "inference is the concept that matches meaning built from evidence and knowledge.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly05-p-003",
+    "id": "AC9E6LY05-P-040",
     "curriculum_code": "AC9E6LY05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "apply",
     "skill": "revise_prediction",
-    "question": "Which is a valid evaluation criterion?",
-    "audio_prompt": "Which is a valid evaluation criterion?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "You are editing a design project. Which is a valid evaluation criterion?",
+    "audio_prompt": "You are editing a design project. Which is a valid evaluation criterion?",
     "answers": [
       {
         "text": "whether the reader likes the topic",
@@ -112,507 +1511,620 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
+      "summary": "“sample quality and evidence transparency” best fits the purpose and the language evidence in this new situation.",
       "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6ly05-p-004",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "misconception_repair",
-    "question": "A student says, “Prediction defended after contradiction.” Which response best corrects the misunderstanding?",
-    "audio_prompt": "A student says, “Prediction defended after contradiction.” Which response best corrects the misunderstanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Select central relationships",
-        "is_correct": false
-      },
-      {
-        "text": "Link it to interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Use evidence and criteria",
-        "is_correct": false
-      },
-      {
-        "text": "Revise with evidence",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Revise with evidence",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6ly05-p-005",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "use_a_strategic_comprehension_cycle",
-    "question": "Which pairing accurately reflects the model for Comprehension, Inference and Critical Evaluation?",
-    "audio_prompt": "Which pairing accurately reflects the model for Comprehension, Inference and Critical Evaluation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "level → example",
-        "is_correct": true
-      },
-      {
-        "text": "example → level",
-        "is_correct": false
-      },
-      {
-        "text": "literal → The graph shows a 12% decline.",
-        "is_correct": false
-      },
-      {
-        "text": "Summary becomes retell",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6ly05-p-006",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "concept_principle",
-    "question": "Which principle should guide a response about Comprehension, Inference and Critical Evaluation?",
-    "audio_prompt": "Which principle should guide a response about Comprehension, Inference and Critical Evaluation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Prediction defended after contradiction",
-        "is_correct": false
-      },
-      {
-        "text": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question",
-        "is_correct": true
-      },
-      {
-        "text": "Summary becomes retell",
-        "is_correct": false
-      },
-      {
-        "text": "Connection becomes unrelated anecdote",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6ly05-p-007",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "guided_application",
-    "question": "Which plan would best complete this task: Use three purposeful strategies on a complex multimodal text and explain the evidence gained from each?",
-    "audio_prompt": "Which plan would best complete this task: Use three purposeful strategies on a complex multimodal text and explain the evidence gained from each?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "List features without explaining their effects.",
-        "is_correct": false
-      },
-      {
-        "text": "Give a personal preference without textual evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
-        "is_correct": true
-      },
-      {
-        "text": "Discuss a different topic instead of the stated task.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6ly05-p-008",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "reasoning",
-    "question": "Which evidence would best show secure understanding of Comprehension, Inference and Critical Evaluation?",
-    "audio_prompt": "Which evidence would best show secure understanding of Comprehension, Inference and Critical Evaluation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Prediction defended after contradiction",
-        "is_correct": false
-      },
-      {
-        "text": "Summary becomes retell",
-        "is_correct": false
-      },
-      {
-        "text": "Connection becomes unrelated anecdote",
-        "is_correct": false
-      },
-      {
-        "text": "Students select strategies for purpose, integrate literal and implied evidence, revise mental models, summarise relationships and evaluate credibility, craft and representation The response also explains its evidence and limitations.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6ly05-t-001",
+    "id": "AC9E6LY05-T-001",
     "curriculum_code": "AC9E6LY05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "monitoring",
-    "question": "In a new text, which definition correctly identifies monitoring?",
-    "audio_prompt": "In a new text, which definition correctly identifies monitoring?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Checking and regulating understanding",
-        "is_correct": true
-      },
-      {
-        "text": "Meaning built from evidence and knowledge",
-        "is_correct": false
-      },
-      {
-        "text": "Judgement supported by criteria",
-        "is_correct": false
-      },
-      {
-        "text": "Summary becomes retell",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "monitoring means checking and regulating understanding.",
-      "hint": "Distinguish this term from related features in the unit."
-    }
-  },
-  {
-    "id": "ac9e6ly05-t-002",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "diagnosis",
-    "question": "A response shows this problem: “Summary becomes retell.” What is the most effective revision?",
-    "audio_prompt": "A response shows this problem: “Summary becomes retell.” What is the most effective revision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Revise with evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Select central relationships",
-        "is_correct": true
-      },
-      {
-        "text": "Link it to interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the response unchanged because the issue does not affect meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Select central relationships",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
-    }
-  },
-  {
-    "id": "ac9e6ly05-t-003",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "use_a_strategic_comprehension_cycle",
-    "question": "Which interpretation of this model element is accurate: “literal → The graph shows a 12% decline.”?",
-    "audio_prompt": "Which interpretation of this model element is accurate: “literal → The graph shows a 12% decline.”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The first part is decorative and can be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The second part always has the same effect in every text.",
-        "is_correct": false
-      },
-      {
-        "text": "It shows a deliberate relationship within Comprehension, Inference and Critical Evaluation, so both parts must be interpreted together.",
-        "is_correct": true
-      },
-      {
-        "text": "The pairing proves that no alternative interpretation is possible.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "Strategies are chosen tools, not boxes to complete every time. Readers should explain why a strategy helped with a specific difficulty or question."
-    }
-  },
-  {
-    "id": "ac9e6ly05-t-004",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "separate_literal_inferred_and_evaluative_claims",
-    "question": "When applying Comprehension, Inference and Critical Evaluation to an unfamiliar text, which analytical move is strongest?",
-    "audio_prompt": "When applying Comprehension, Inference and Critical Evaluation to an unfamiliar text, which analytical move is strongest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name a feature and stop.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every audience responds identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace analysis with an unsupported personal judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
-    }
-  },
-  {
-    "id": "ac9e6ly05-t-005",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
+    "stage": "verify",
     "skill": "evaluation",
-    "question": "Which example best demonstrates an understanding of evaluation?",
-    "audio_prompt": "Which example best demonstrates an understanding of evaluation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "A community radio segment includes “The claim is limited because the sample excludes rural areas.”. Which description best fits this wording?",
+    "audio_prompt": "A community radio segment includes “The claim is limited because the sample excludes rural areas.”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "Judgement supported by criteria, identified using evidence from the text.",
-        "is_correct": true
-      },
-      {
-        "text": "Connection becomes unrelated anecdote",
+        "text": "set purpose",
         "is_correct": false
       },
       {
-        "text": "Evaluation equals liking",
+        "text": "activate knowledge",
         "is_correct": false
       },
       {
-        "text": "A general comment that does not use the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "evaluation is judgement supported by criteria.",
-      "hint": "Select the response that applies the definition and uses evidence."
-    }
-  },
-  {
-    "id": "ac9e6ly05-t-006",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "transfer",
-    "question": "Which conclusion stays within the evidence when analysing Comprehension, Inference and Critical Evaluation?",
-    "audio_prompt": "Which conclusion stays within the evidence when analysing Comprehension, Inference and Critical Evaluation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "This single example proves the rule applies identically everywhere.",
+        "text": "predict/question",
         "is_correct": false
       },
       {
-        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
-        "is_correct": true
-      },
-      {
-        "text": "The writer's choice guarantees the same reaction from every reader.",
-        "is_correct": false
-      },
-      {
-        "text": "No evidence is needed because the interpretation sounds reasonable.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
-    }
-  },
-  {
-    "id": "ac9e6ly05-t-007",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "extended_analysis",
-    "question": "Which response plan best addresses this challenge: Compare two plausible interpretations of ambiguous evidence and identify what would change the judgement?",
-    "audio_prompt": "Which response plan best addresses this challenge: Compare two plausible interpretations of ambiguous evidence and identify what would change the judgement?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Copy the lesson example without adapting it.",
-        "is_correct": false
-      },
-      {
-        "text": "Add several unrelated features and do not explain them.",
-        "is_correct": false
-      },
-      {
-        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
-        "is_correct": true
-      },
-      {
-        "text": "Describe the task but do not produce or analyse a response.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
-    }
-  },
-  {
-    "id": "ac9e6ly05-t-008",
-    "curriculum_code": "AC9E6LY05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "critical_evaluation",
-    "question": "Which approach best addresses this evaluation: Design a diagnostic guide linking comprehension problems to targeted strategies?",
-    "audio_prompt": "Which approach best addresses this evaluation: Design a diagnostic guide linking comprehension problems to targeted strategies?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Choose a preferred answer before examining evidence.",
-        "is_correct": false
-      },
-      {
-        "text": "Summarise each example without comparing it.",
-        "is_correct": false
-      },
-      {
-        "text": "Treat one feature as proof of the whole judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "text": "evaluation",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
-    }
+      "summary": "The wording best matches evaluation.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-002",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "inference",
+    "question": "In a wildlife-centre report, which term matches this meaning: “meaning built from evidence and knowledge”?",
+    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “meaning built from evidence and knowledge”?",
+    "answers": [
+      {
+        "text": "inference",
+        "is_correct": true
+      },
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "inference is the precise term for meaning built from evidence and knowledge.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-003",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "comprehension_inference_and_critical_evaluation",
+    "question": "For a regional youth forum, which statement is an inference?",
+    "audio_prompt": "For a regional youth forum, which statement is an inference?",
+    "answers": [
+      {
+        "text": "The graph labels 12%",
+        "is_correct": false
+      },
+      {
+        "text": "The service may face pressure if the decline continues",
+        "is_correct": true
+      },
+      {
+        "text": "The heading is Demand",
+        "is_correct": false
+      },
+      {
+        "text": "The table has four rows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The service may face pressure if the decline continues” is supported by the language evidence and purpose of the text.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-004",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a coastal-monitoring update says, “Summary becomes retell”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Summary becomes retell”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Select central relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Select central relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-005",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "evaluation",
+    "question": "A heritage trail guide includes “The claim is limited because the sample excludes rural areas.”. Which description best fits this wording?",
+    "audio_prompt": "A heritage trail guide includes “The claim is limited because the sample excludes rural areas.”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "set purpose",
+        "is_correct": false
+      },
+      {
+        "text": "activate knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "predict/question",
+        "is_correct": false
+      },
+      {
+        "text": "evaluation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The wording best matches evaluation.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-006",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "monitoring",
+    "question": "In a public-transport survey, which term matches this meaning: “checking and regulating understanding”?",
+    "audio_prompt": "In a public-transport survey, which term matches this meaning: “checking and regulating understanding”?",
+    "answers": [
+      {
+        "text": "monitoring",
+        "is_correct": true
+      },
+      {
+        "text": "inference",
+        "is_correct": false
+      },
+      {
+        "text": "evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "monitoring is the precise term for checking and regulating understanding.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-007",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "comprehension_inference_and_critical_evaluation",
+    "question": "For a festival review, which statement is an inference?",
+    "audio_prompt": "For a festival review, which statement is an inference?",
+    "answers": [
+      {
+        "text": "The graph labels 12%",
+        "is_correct": false
+      },
+      {
+        "text": "The service may face pressure if the decline continues",
+        "is_correct": true
+      },
+      {
+        "text": "The heading is Demand",
+        "is_correct": false
+      },
+      {
+        "text": "The table has four rows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The service may face pressure if the decline continues” is supported by the language evidence and purpose of the text.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-008",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a emergency-preparedness talk says, “Summary becomes retell”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Summary becomes retell”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Select central relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Select central relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-009",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "evaluation",
+    "question": "A water-saving brochure includes “The claim is limited because the sample excludes rural areas.”. Which description best fits this wording?",
+    "audio_prompt": "A water-saving brochure includes “The claim is limited because the sample excludes rural areas.”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "set purpose",
+        "is_correct": false
+      },
+      {
+        "text": "activate knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "predict/question",
+        "is_correct": false
+      },
+      {
+        "text": "evaluation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The wording best matches evaluation.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-010",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "evaluation",
+    "question": "In a local council submission, which term matches this meaning: “judgement supported by criteria”?",
+    "audio_prompt": "In a local council submission, which term matches this meaning: “judgement supported by criteria”?",
+    "answers": [
+      {
+        "text": "evaluation",
+        "is_correct": true
+      },
+      {
+        "text": "inference",
+        "is_correct": false
+      },
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "evaluation is the precise term for judgement supported by criteria.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-011",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "comprehension_inference_and_critical_evaluation",
+    "question": "For a marine-research diary, which statement is an inference?",
+    "audio_prompt": "For a marine-research diary, which statement is an inference?",
+    "answers": [
+      {
+        "text": "The graph labels 12%",
+        "is_correct": false
+      },
+      {
+        "text": "The service may face pressure if the decline continues",
+        "is_correct": true
+      },
+      {
+        "text": "The heading is Demand",
+        "is_correct": false
+      },
+      {
+        "text": "The table has four rows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The service may face pressure if the decline continues” is supported by the language evidence and purpose of the text.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-012",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a farmers market profile says, “Summary becomes retell”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a farmers market profile says, “Summary becomes retell”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Select central relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Select central relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-013",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "evaluation",
+    "question": "A astronomy exhibition includes “The claim is limited because the sample excludes rural areas.”. Which description best fits this wording?",
+    "audio_prompt": "A astronomy exhibition includes “The claim is limited because the sample excludes rural areas.”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "set purpose",
+        "is_correct": false
+      },
+      {
+        "text": "activate knowledge",
+        "is_correct": false
+      },
+      {
+        "text": "predict/question",
+        "is_correct": false
+      },
+      {
+        "text": "evaluation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The wording best matches evaluation.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-014",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "inference",
+    "question": "In a river-restoration update, which term matches this meaning: “meaning built from evidence and knowledge”?",
+    "audio_prompt": "In a river-restoration update, which term matches this meaning: “meaning built from evidence and knowledge”?",
+    "answers": [
+      {
+        "text": "inference",
+        "is_correct": true
+      },
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "evaluation",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "inference is the precise term for meaning built from evidence and knowledge.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-015",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "comprehension_inference_and_critical_evaluation",
+    "question": "For a cycling-safety campaign, which statement is an inference?",
+    "audio_prompt": "For a cycling-safety campaign, which statement is an inference?",
+    "answers": [
+      {
+        "text": "The graph labels 12%",
+        "is_correct": false
+      },
+      {
+        "text": "The service may face pressure if the decline continues",
+        "is_correct": true
+      },
+      {
+        "text": "The heading is Demand",
+        "is_correct": false
+      },
+      {
+        "text": "The table has four rows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The service may face pressure if the decline continues” is supported by the language evidence and purpose of the text.",
+      "hint": "Inference uses evidence plus reasoning; evaluation uses criteria and context. Neither is a guess or preference alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LY05-T-016",
+    "curriculum_code": "AC9E6LY05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a neighbourhood history podcast says, “Summary becomes retell”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Summary becomes retell”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Summary becomes retell",
+        "is_correct": false
+      },
+      {
+        "text": "Select central relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Connection becomes unrelated anecdote",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Select central relationships. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
   }
 ]

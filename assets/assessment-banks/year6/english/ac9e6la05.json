@@ -1,17 +1,14 @@
 [
   {
-    "id": "ac9e6la05-p-001",
+    "id": "AC9E6LA05-P-001",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "find_head_noun",
-    "question": "What does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
-    "audio_prompt": "What does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a class podcast, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "audio_prompt": "In a class podcast, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
     "answers": [
       {
         "text": "sensor",
@@ -32,26 +29,1202 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "This choice best demonstrates find head noun in the stated context.",
+      "summary": "“sensor” is the strongest choice because it matches the language feature and the situation.",
       "hint": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’"
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-p-002",
+    "id": "AC9E6LA05-P-002",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "embedded_clause",
-    "question": "Which term means “clause functioning inside another grammatical structure”?",
-    "audio_prompt": "Which term means “clause functioning inside another grammatical structure”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "stage": "recognise",
+    "skill": "relative_clause",
+    "question": "Which term best matches this meaning: “clause often introduced by who, which or that”?",
+    "audio_prompt": "Which term best matches this meaning: “clause often introduced by who, which or that”?",
+    "answers": [
+      {
+        "text": "embedded clause",
+        "is_correct": false
+      },
+      {
+        "text": "relative clause",
+        "is_correct": true
+      },
+      {
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "relative clause means clause often introduced by who, which or that.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
     },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-003",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "main_clause",
+    "question": "Read this example from a science investigation: “was recalibrated”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a science investigation: “was recalibrated”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "embedded clause",
+        "is_correct": false
+      },
+      {
+        "text": "main clause",
+        "is_correct": true
+      },
+      {
+        "text": "restrictive",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“was recalibrated” is an example of main clause.",
+      "hint": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-004",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Core clause lost”?",
+    "audio_prompt": "Which correction best fixes this idea: “Core clause lost”?",
+    "answers": [
+      {
+        "text": "Every dependent clause called embedded",
+        "is_correct": false
+      },
+      {
+        "text": "Head noun unclear",
+        "is_correct": false
+      },
+      {
+        "text": "Commas added to every relative clause",
+        "is_correct": false
+      },
+      {
+        "text": "Remove embedding to test the main structure.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Remove embedding to test the main structure. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-005",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "embedded_clause",
+    "question": "Which example would be most useful when explaining embedded clauses in complex sentences in a sports-club discussion?",
+    "audio_prompt": "Which example would be most useful when explaining embedded clauses in complex sentences in a sports-club discussion?",
+    "answers": [
+      {
+        "text": "that recorded the highest value",
+        "is_correct": true
+      },
+      {
+        "text": "sensor",
+        "is_correct": false
+      },
+      {
+        "text": "was recalibrated",
+        "is_correct": false
+      },
+      {
+        "text": "The students who finished checked results.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This example directly demonstrates embedded clause and can be explained using the language clue in the text.",
+      "hint": "Students identify clauses embedded inside noun groups or other structures, distinguish them from dependent clauses functioning around a main clause and punctuate restrictive and supplementary information clearly."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-006",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "find_head_noun",
+    "question": "In a library display, which version treats the information as supplementary?",
+    "audio_prompt": "In a library display, which version treats the information as supplementary?",
+    "answers": [
+      {
+        "text": "The sensor which failed was new.",
+        "is_correct": false
+      },
+      {
+        "text": "The sensor, which was new, failed.",
+        "is_correct": true
+      },
+      {
+        "text": "Which was new.",
+        "is_correct": false
+      },
+      {
+        "text": "The new sensor",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The sensor, which was new, failed.” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-007",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "embedded_clause",
+    "question": "Which term best matches this meaning: “clause functioning inside another grammatical structure”?",
+    "audio_prompt": "Which term best matches this meaning: “clause functioning inside another grammatical structure”?",
+    "answers": [
+      {
+        "text": "relative clause",
+        "is_correct": false
+      },
+      {
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "embedded clause",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "embedded clause means clause functioning inside another grammatical structure.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-008",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "embedded_clause",
+    "question": "Read this example from a student council meeting: “that recorded the highest value”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a student council meeting: “that recorded the highest value”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "main clause",
+        "is_correct": false
+      },
+      {
+        "text": "restrictive",
+        "is_correct": false
+      },
+      {
+        "text": "embedded clause",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“that recorded the highest value” is an example of embedded clause.",
+      "hint": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-009",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Every dependent clause called embedded”?",
+    "audio_prompt": "Which correction best fixes this idea: “Every dependent clause called embedded”?",
+    "answers": [
+      {
+        "text": "Embedding concerns structural position.",
+        "is_correct": true
+      },
+      {
+        "text": "Every dependent clause called embedded",
+        "is_correct": false
+      },
+      {
+        "text": "Head noun unclear",
+        "is_correct": false
+      },
+      {
+        "text": "Commas added to every relative clause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Embedding concerns structural position. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-010",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "head_noun",
+    "question": "Which example would be most useful when explaining embedded clauses in complex sentences in a environmental campaign?",
+    "audio_prompt": "Which example would be most useful when explaining embedded clauses in complex sentences in a environmental campaign?",
+    "answers": [
+      {
+        "text": "that recorded the highest value",
+        "is_correct": false
+      },
+      {
+        "text": "sensor",
+        "is_correct": true
+      },
+      {
+        "text": "was recalibrated",
+        "is_correct": false
+      },
+      {
+        "text": "The students who finished checked results.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "This example directly demonstrates head noun and can be explained using the language clue in the text.",
+      "hint": "Students identify clauses embedded inside noun groups or other structures, distinguish them from dependent clauses functioning around a main clause and punctuate restrictive and supplementary information clearly."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-011",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "main_clause",
+    "question": "A museum caption includes “was recalibrated”. Why is this an effective example of main clause?",
+    "audio_prompt": "A museum caption includes “was recalibrated”. Why is this an effective example of main clause?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
+        "is_correct": false
+      },
+      {
+        "text": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "was recalibrated works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-012",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Place clause next to the noun expanded.” a better rule than “Head noun unclear” when reading a student council meeting?",
+    "audio_prompt": "Why is “Place clause next to the noun expanded.” a better rule than “Head noun unclear” when reading a student council meeting?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Place clause next to the noun expanded.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-013",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "embedded_clause",
+    "question": "A local-history article includes “that recorded the highest value”. Why is this an effective example of embedded clause?",
+    "audio_prompt": "A local-history article includes “that recorded the highest value”. Why is this an effective example of embedded clause?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
+        "is_correct": false
+      },
+      {
+        "text": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "that recorded the highest value works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-014",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Remove embedding to test the main structure.” a better rule than “Core clause lost” when reading a environmental campaign?",
+    "audio_prompt": "Why is “Remove embedding to test the main structure.” a better rule than “Core clause lost” when reading a environmental campaign?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Remove embedding to test the main structure.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-015",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "head_noun",
+    "question": "A book-club discussion includes “sensor”. Why is this an effective example of head noun?",
+    "audio_prompt": "A book-club discussion includes “sensor”. Why is this an effective example of head noun?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
+        "is_correct": false
+      },
+      {
+        "text": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "sensor works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-016",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Place clause next to the noun expanded.” a better rule than “Head noun unclear” when reading a excursion briefing?",
+    "audio_prompt": "Why is “Place clause next to the noun expanded.” a better rule than “Head noun unclear” when reading a excursion briefing?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Place clause next to the noun expanded.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-017",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "main_clause",
+    "question": "A design project includes “was recalibrated”. Why is this an effective example of main clause?",
+    "audio_prompt": "A design project includes “was recalibrated”. Why is this an effective example of main clause?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
+        "is_correct": false
+      },
+      {
+        "text": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "was recalibrated works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-018",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Remove embedding to test the main structure.” a better rule than “Core clause lost” when reading a weather report?",
+    "audio_prompt": "Why is “Remove embedding to test the main structure.” a better rule than “Core clause lost” when reading a weather report?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Remove embedding to test the main structure.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-019",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "embedded_clause",
+    "question": "A school assembly includes “that recorded the highest value”. Why is this an effective example of embedded clause?",
+    "audio_prompt": "A school assembly includes “that recorded the highest value”. Why is this an effective example of embedded clause?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
+        "is_correct": false
+      },
+      {
+        "text": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "that recorded the highest value works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-020",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Place clause next to the noun expanded.” a better rule than “Head noun unclear” when reading a peer feedback session?",
+    "audio_prompt": "Why is “Place clause next to the noun expanded.” a better rule than “Head noun unclear” when reading a peer feedback session?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Place clause next to the noun expanded.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-021",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A excursion briefing could use either “sensor” or “The students, who had finished, checked results.”. Which comparison is most accurate?",
+    "audio_prompt": "A excursion briefing could use either “sensor” or “The students, who had finished, checked results.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“sensor” shows head noun, while “The students, who had finished, checked results.” shows supplementary.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: head noun versus supplementary.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-022",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Commas added to every relative clause” in a design project?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Commas added to every relative clause” in a design project?",
+    "answers": [
+      {
+        "text": "Every dependent clause called embedded",
+        "is_correct": false
+      },
+      {
+        "text": "Head noun unclear",
+        "is_correct": false
+      },
+      {
+        "text": "Commas added to every relative clause",
+        "is_correct": false
+      },
+      {
+        "text": "Essential and supplementary meanings differ.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Essential and supplementary meanings differ. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-023",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A weather report could use either “was recalibrated” or “The students who finished checked results.”. Which comparison is most accurate?",
+    "audio_prompt": "A weather report could use either “was recalibrated” or “The students who finished checked results.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“was recalibrated” shows main clause, while “The students who finished checked results.” shows restrictive.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: main clause versus restrictive.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-024",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Every dependent clause called embedded” in a school assembly?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Every dependent clause called embedded” in a school assembly?",
+    "answers": [
+      {
+        "text": "Every dependent clause called embedded",
+        "is_correct": false
+      },
+      {
+        "text": "Embedding concerns structural position.",
+        "is_correct": true
+      },
+      {
+        "text": "Head noun unclear",
+        "is_correct": false
+      },
+      {
+        "text": "Commas added to every relative clause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Embedding concerns structural position. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-025",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A peer feedback session could use either “that recorded the highest value” or “The claim that the device was accurate was tested.”. Which comparison is most accurate?",
+    "audio_prompt": "A peer feedback session could use either “that recorded the highest value” or “The claim that the device was accurate was tested.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“that recorded the highest value” shows embedded clause, while “The claim that the device was accurate was tested.” shows embedded report.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: embedded clause versus embedded report.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-026",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Commas added to every relative clause” in a cooking demonstration?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Commas added to every relative clause” in a cooking demonstration?",
+    "answers": [
+      {
+        "text": "Every dependent clause called embedded",
+        "is_correct": false
+      },
+      {
+        "text": "Head noun unclear",
+        "is_correct": false
+      },
+      {
+        "text": "Commas added to every relative clause",
+        "is_correct": false
+      },
+      {
+        "text": "Essential and supplementary meanings differ.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Essential and supplementary meanings differ. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-027",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A arts review could use either “sensor” or “The students, who had finished, checked results.”. Which comparison is most accurate?",
+    "audio_prompt": "A arts review could use either “sensor” or “The students, who had finished, checked results.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“sensor” shows head noun, while “The students, who had finished, checked results.” shows supplementary.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: head noun versus supplementary.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-028",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Every dependent clause called embedded” in a technology presentation?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Every dependent clause called embedded” in a technology presentation?",
+    "answers": [
+      {
+        "text": "Every dependent clause called embedded",
+        "is_correct": false
+      },
+      {
+        "text": "Embedding concerns structural position.",
+        "is_correct": true
+      },
+      {
+        "text": "Head noun unclear",
+        "is_correct": false
+      },
+      {
+        "text": "Commas added to every relative clause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Embedding concerns structural position. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-029",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A playground consultation could use either “was recalibrated” or “The students who finished checked results.”. Which comparison is most accurate?",
+    "audio_prompt": "A playground consultation could use either “was recalibrated” or “The students who finished checked results.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“was recalibrated” shows main clause, while “The students who finished checked results.” shows restrictive.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: main clause versus restrictive.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-030",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Commas added to every relative clause” in a class podcast?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Commas added to every relative clause” in a class podcast?",
+    "answers": [
+      {
+        "text": "Every dependent clause called embedded",
+        "is_correct": false
+      },
+      {
+        "text": "Head noun unclear",
+        "is_correct": false
+      },
+      {
+        "text": "Commas added to every relative clause",
+        "is_correct": false
+      },
+      {
+        "text": "Essential and supplementary meanings differ.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Essential and supplementary meanings differ. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-031",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "compare_comma_meaning",
+    "question": "You are editing a community garden proposal. Which version treats the information as supplementary?",
+    "audio_prompt": "You are editing a community garden proposal. Which version treats the information as supplementary?",
+    "answers": [
+      {
+        "text": "The sensor which failed was new.",
+        "is_correct": false
+      },
+      {
+        "text": "Which was new.",
+        "is_correct": false
+      },
+      {
+        "text": "The new sensor",
+        "is_correct": false
+      },
+      {
+        "text": "The sensor, which was new, failed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“The sensor, which was new, failed.” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-032",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "supplementary",
+    "question": "A sports-club discussion needs a clear example of supplementary. Which wording should you choose?",
+    "audio_prompt": "A sports-club discussion needs a clear example of supplementary. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "The students, who had finished, checked results.",
+        "is_correct": true
+      },
+      {
+        "text": "The students who finished checked results.",
+        "is_correct": false
+      },
+      {
+        "text": "The claim that the device was accurate was tested.",
+        "is_correct": false
+      },
+      {
+        "text": "sensor",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The students, who had finished, checked results.” is the best choice because it demonstrates supplementary in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-033",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "embedded_clause",
+    "question": "While revising a library display, you need language that matches “clause functioning inside another grammatical structure”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a library display, you need language that matches “clause functioning inside another grammatical structure”. Which concept should guide your choice?",
     "answers": [
       {
         "text": "relative clause",
@@ -66,32 +1239,30 @@
         "is_correct": false
       },
       {
-        "text": "Every dependent clause called embedded",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "embedded clause means clause functioning inside another grammatical structure.",
-      "hint": "Match the definition to the most precise term used in Embedded Clauses in Complex Sentences."
+      "summary": "embedded clause is the concept that matches clause functioning inside another grammatical structure.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-p-003",
+    "id": "AC9E6LA05-P-034",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "remove_embedded_clause",
-    "question": "Which version treats the information as supplementary?",
-    "audio_prompt": "Which version treats the information as supplementary?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "find_head_noun",
+    "question": "You are editing a museum caption. Which version treats the information as supplementary?",
+    "audio_prompt": "You are editing a museum caption. Which version treats the information as supplementary?",
     "answers": [
       {
         "text": "The sensor which failed was new.",
@@ -112,187 +1283,371 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
+      "summary": "“The sensor, which was new, failed.” best fits the purpose and the language evidence in this new situation.",
       "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-p-004",
+    "id": "AC9E6LA05-P-035",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "misconception_repair",
-    "question": "A student says, “Every dependent clause called embedded.” Which response best corrects the misunderstanding?",
-    "audio_prompt": "A student says, “Every dependent clause called embedded.” Which response best corrects the misunderstanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "supplementary",
+    "question": "A student council meeting needs a clear example of supplementary. Which wording should you choose?",
+    "audio_prompt": "A student council meeting needs a clear example of supplementary. Which wording should you choose?",
     "answers": [
       {
-        "text": "Place clause next to the noun expanded",
+        "text": "The students who finished checked results.",
         "is_correct": false
       },
       {
-        "text": "Essential and supplementary meanings differ",
+        "text": "The claim that the device was accurate was tested.",
         "is_correct": false
       },
       {
-        "text": "Remove embedding to test the main structure",
+        "text": "sensor",
         "is_correct": false
       },
       {
-        "text": "Embedding concerns structural position",
+        "text": "The students, who had finished, checked results.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Embedding concerns structural position",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "“The students, who had finished, checked results.” is the best choice because it demonstrates supplementary in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-p-005",
+    "id": "AC9E6LA05-P-036",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "embed_a_relative_clause_inside_a_noun_group",
-    "question": "Which pairing accurately reflects the model for Embedded Clauses in Complex Sentences?",
-    "audio_prompt": "Which pairing accurately reflects the model for Embedded Clauses in Complex Sentences?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "embedded_clause",
+    "question": "While revising a local-history article, you need language that matches “clause functioning inside another grammatical structure”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a local-history article, you need language that matches “clause functioning inside another grammatical structure”. Which concept should guide your choice?",
     "answers": [
       {
-        "text": "head noun → sensor",
+        "text": "embedded clause",
         "is_correct": true
       },
       {
-        "text": "sensor → head noun",
+        "text": "relative clause",
         "is_correct": false
       },
       {
-        "text": "embedded clause → that recorded the highest value",
+        "text": "head noun",
         "is_correct": false
       },
       {
-        "text": "Head noun unclear",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’"
+      "summary": "embedded clause is the concept that matches clause functioning inside another grammatical structure.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-p-006",
+    "id": "AC9E6LA05-P-037",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "concept_principle",
-    "question": "Which principle should guide a response about Embedded Clauses in Complex Sentences?",
-    "audio_prompt": "Which principle should guide a response about Embedded Clauses in Complex Sentences?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "identify_restrictive_clause",
+    "question": "You are editing a environmental campaign. Which version treats the information as supplementary?",
+    "audio_prompt": "You are editing a environmental campaign. Which version treats the information as supplementary?",
     "answers": [
       {
-        "text": "Every dependent clause called embedded",
+        "text": "The sensor which failed was new.",
         "is_correct": false
       },
       {
-        "text": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
+        "text": "The sensor, which was new, failed.",
         "is_correct": true
       },
       {
-        "text": "Head noun unclear",
+        "text": "Which was new.",
         "is_correct": false
       },
       {
-        "text": "Commas added to every relative clause",
+        "text": "The new sensor",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "“The sensor, which was new, failed.” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-p-007",
+    "id": "AC9E6LA05-P-038",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "guided_application",
-    "question": "Which plan would best complete this task: Write two versions of a sentence where comma use changes whether a relative clause identifies or merely adds information?",
-    "audio_prompt": "Which plan would best complete this task: Write two versions of a sentence where comma use changes whether a relative clause identifies or merely adds information?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "supplementary",
+    "question": "A book-club discussion needs a clear example of supplementary. Which wording should you choose?",
+    "audio_prompt": "A book-club discussion needs a clear example of supplementary. Which wording should you choose?",
     "answers": [
       {
-        "text": "List features without explaining their effects.",
+        "text": "The students who finished checked results.",
         "is_correct": false
       },
       {
-        "text": "Give a personal preference without textual evidence.",
+        "text": "The claim that the device was accurate was tested.",
         "is_correct": false
       },
       {
-        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "text": "The students, who had finished, checked results.",
         "is_correct": true
       },
       {
-        "text": "Discuss a different topic instead of the stated task.",
+        "text": "sensor",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+      "summary": "“The students, who had finished, checked results.” is the best choice because it demonstrates supplementary in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-p-008",
+    "id": "AC9E6LA05-P-039",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "reasoning",
-    "question": "Which evidence would best show secure understanding of Embedded Clauses in Complex Sentences?",
-    "audio_prompt": "Which evidence would best show secure understanding of Embedded Clauses in Complex Sentences?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "embedded_clause",
+    "question": "While revising a excursion briefing, you need language that matches “clause functioning inside another grammatical structure”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a excursion briefing, you need language that matches “clause functioning inside another grammatical structure”. Which concept should guide your choice?",
     "answers": [
+      {
+        "text": "relative clause",
+        "is_correct": false
+      },
+      {
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "embedded clause",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "embedded clause is the concept that matches clause functioning inside another grammatical structure.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-040",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "remove_embedded_clause",
+    "question": "You are editing a design project. Which version treats the information as supplementary?",
+    "audio_prompt": "You are editing a design project. Which version treats the information as supplementary?",
+    "answers": [
+      {
+        "text": "The sensor, which was new, failed.",
+        "is_correct": true
+      },
+      {
+        "text": "The sensor which failed was new.",
+        "is_correct": false
+      },
+      {
+        "text": "Which was new.",
+        "is_correct": false
+      },
+      {
+        "text": "The new sensor",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The sensor, which was new, failed.” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-001",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "embedded_report",
+    "question": "A community radio segment includes “The claim that the device was accurate was tested.”. Which description best fits this wording?",
+    "audio_prompt": "A community radio segment includes “The claim that the device was accurate was tested.”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "embedded report",
+        "is_correct": true
+      },
+      {
+        "text": "embedded clause",
+        "is_correct": false
+      },
+      {
+        "text": "main clause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wording is embedded report because it clause expands claim.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-002",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "embedded_clause",
+    "question": "In a wildlife-centre report, which term matches this meaning: “clause functioning inside another grammatical structure”?",
+    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “clause functioning inside another grammatical structure”?",
+    "answers": [
+      {
+        "text": "relative clause",
+        "is_correct": false
+      },
+      {
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "embedded clause",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "embedded clause is the precise term for clause functioning inside another grammatical structure.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-003",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "embedded_clauses_in_complex_sentences",
+    "question": "For a regional youth forum, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "audio_prompt": "For a regional youth forum, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "answers": [
+      {
+        "text": "42°C",
+        "is_correct": false
+      },
+      {
+        "text": "checked",
+        "is_correct": false
+      },
+      {
+        "text": "the",
+        "is_correct": false
+      },
+      {
+        "text": "sensor",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“sensor” is supported by the language evidence and purpose of the text.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-004",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a coastal-monitoring update says, “Head noun unclear”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Head noun unclear”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Place clause next to the noun expanded.",
+        "is_correct": true
+      },
       {
         "text": "Every dependent clause called embedded",
         "is_correct": false
@@ -304,315 +1659,472 @@
       {
         "text": "Commas added to every relative clause",
         "is_correct": false
-      },
-      {
-        "text": "Students identify clauses embedded inside noun groups or other structures, distinguish them from dependent clauses functioning around a main clause and punctuate restrictive and supplementary information clearly The response also explains its evidence and limitations.",
-        "is_correct": true
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-t-001",
+    "id": "AC9E6LA05-T-005",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
+    "skill": "restrictive",
+    "question": "A heritage trail guide includes “The students who finished checked results.”. Which description best fits this wording?",
+    "audio_prompt": "A heritage trail guide includes “The students who finished checked results.”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "restrictive",
+        "is_correct": true
+      },
+      {
+        "text": "embedded clause",
+        "is_correct": false
+      },
+      {
+        "text": "main clause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wording is restrictive because it identifies which students.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-006",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
     "skill": "relative_clause",
-    "question": "In a new text, which definition correctly identifies relative clause?",
-    "audio_prompt": "In a new text, which definition correctly identifies relative clause?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a public-transport survey, which term matches this meaning: “clause often introduced by who, which or that”?",
+    "audio_prompt": "In a public-transport survey, which term matches this meaning: “clause often introduced by who, which or that”?",
     "answers": [
       {
-        "text": "Clause often introduced by who, which or that",
-        "is_correct": true
-      },
-      {
-        "text": "Clause functioning inside another grammatical structure",
+        "text": "embedded clause",
         "is_correct": false
       },
       {
-        "text": "Central noun expanded by the clause",
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "relative clause",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "relative clause is the precise term for clause often introduced by who, which or that.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-007",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "embedded_clauses_in_complex_sentences",
+    "question": "For a festival review, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "audio_prompt": "For a festival review, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "answers": [
+      {
+        "text": "42°C",
+        "is_correct": false
+      },
+      {
+        "text": "checked",
+        "is_correct": false
+      },
+      {
+        "text": "the",
+        "is_correct": false
+      },
+      {
+        "text": "sensor",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“sensor” is supported by the language evidence and purpose of the text.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-008",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a emergency-preparedness talk says, “Head noun unclear”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Head noun unclear”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Place clause next to the noun expanded.",
+        "is_correct": true
+      },
+      {
+        "text": "Every dependent clause called embedded",
         "is_correct": false
       },
       {
         "text": "Head noun unclear",
         "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "relative clause means clause often introduced by who, which or that.",
-      "hint": "Distinguish this term from related features in the unit."
-    }
-  },
-  {
-    "id": "ac9e6la05-t-002",
-    "curriculum_code": "AC9E6LA05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "diagnosis",
-    "question": "A response shows this problem: “Head noun unclear.” What is the most effective revision?",
-    "audio_prompt": "A response shows this problem: “Head noun unclear.” What is the most effective revision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Embedding concerns structural position",
-        "is_correct": false
-      },
-      {
-        "text": "Place clause next to the noun expanded",
-        "is_correct": true
-      },
-      {
-        "text": "Essential and supplementary meanings differ",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the response unchanged because the issue does not affect meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Place clause next to the noun expanded",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
-    }
-  },
-  {
-    "id": "ac9e6la05-t-003",
-    "curriculum_code": "AC9E6LA05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "embed_a_relative_clause_inside_a_noun_group",
-    "question": "Which interpretation of this model element is accurate: “embedded clause → that recorded the highest value”?",
-    "audio_prompt": "Which interpretation of this model element is accurate: “embedded clause → that recorded the highest value”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The first part is decorative and can be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The second part always has the same effect in every text.",
-        "is_correct": false
-      },
-      {
-        "text": "It shows a deliberate relationship within Embedded Clauses in Complex Sentences, so both parts must be interpreted together.",
-        "is_correct": true
-      },
-      {
-        "text": "The pairing proves that no alternative interpretation is possible.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "The embedded clause expands ‘sensor’ but is not the main message. Remove it temporarily to reveal the core clause: ‘The sensor was recalibrated.’"
-    }
-  },
-  {
-    "id": "ac9e6la05-t-004",
-    "curriculum_code": "AC9E6LA05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "compare_essential_and_supplementary_embedded_information",
-    "question": "When applying Embedded Clauses in Complex Sentences to an unfamiliar text, which analytical move is strongest?",
-    "audio_prompt": "When applying Embedded Clauses in Complex Sentences to an unfamiliar text, which analytical move is strongest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name a feature and stop.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every audience responds identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace analysis with an unsupported personal judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
-    }
-  },
-  {
-    "id": "ac9e6la05-t-005",
-    "curriculum_code": "AC9E6LA05",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "head_noun",
-    "question": "Which example best demonstrates an understanding of head noun?",
-    "audio_prompt": "Which example best demonstrates an understanding of head noun?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Central noun expanded by the clause, identified using evidence from the text.",
-        "is_correct": true
       },
       {
         "text": "Commas added to every relative clause",
         "is_correct": false
-      },
-      {
-        "text": "Core clause lost",
-        "is_correct": false
-      },
-      {
-        "text": "A general comment that does not use the text.",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "head noun is central noun expanded by the clause.",
-      "hint": "Select the response that applies the definition and uses evidence."
-    }
+      "summary": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-t-006",
+    "id": "AC9E6LA05-T-009",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "transfer",
-    "question": "Which conclusion stays within the evidence when analysing Embedded Clauses in Complex Sentences?",
-    "audio_prompt": "Which conclusion stays within the evidence when analysing Embedded Clauses in Complex Sentences?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "supplementary",
+    "question": "A water-saving brochure includes “The students, who had finished, checked results.”. Which description best fits this wording?",
+    "audio_prompt": "A water-saving brochure includes “The students, who had finished, checked results.”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "This single example proves the rule applies identically everywhere.",
+        "text": "head noun",
         "is_correct": false
       },
       {
-        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "text": "supplementary",
         "is_correct": true
       },
       {
-        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "text": "embedded clause",
         "is_correct": false
       },
       {
-        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "text": "main clause",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
-    }
+      "summary": "The wording is supplementary because it adds information about all named students.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-t-007",
+    "id": "AC9E6LA05-T-010",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "extended_analysis",
-    "question": "Which response plan best addresses this challenge: Analyse a dense sentence containing two levels of embedding and rewrite it for clarity without losing precision?",
-    "audio_prompt": "Which response plan best addresses this challenge: Analyse a dense sentence containing two levels of embedding and rewrite it for clarity without losing precision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "head_noun",
+    "question": "In a local council submission, which term matches this meaning: “central noun expanded by the clause”?",
+    "audio_prompt": "In a local council submission, which term matches this meaning: “central noun expanded by the clause”?",
     "answers": [
       {
-        "text": "Copy the lesson example without adapting it.",
+        "text": "embedded clause",
         "is_correct": false
       },
       {
-        "text": "Add several unrelated features and do not explain them.",
+        "text": "relative clause",
         "is_correct": false
       },
       {
-        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "text": "head noun",
         "is_correct": true
       },
       {
-        "text": "Describe the task but do not produce or analyse a response.",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
-    }
+      "summary": "head noun is the precise term for central noun expanded by the clause.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la05-t-008",
+    "id": "AC9E6LA05-T-011",
     "curriculum_code": "AC9E6LA05",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "critical_evaluation",
-    "question": "Which approach best addresses this evaluation: Compare embedded clauses in scientific definitions and literary character descriptions?",
-    "audio_prompt": "Which approach best addresses this evaluation: Compare embedded clauses in scientific definitions and literary character descriptions?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "embedded_clauses_in_complex_sentences",
+    "question": "For a marine-research diary, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "audio_prompt": "For a marine-research diary, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
     "answers": [
       {
-        "text": "Choose a preferred answer before examining evidence.",
+        "text": "42°C",
         "is_correct": false
       },
       {
-        "text": "Summarise each example without comparing it.",
+        "text": "checked",
         "is_correct": false
       },
       {
-        "text": "Treat one feature as proof of the whole judgement.",
+        "text": "the",
         "is_correct": false
       },
       {
-        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "text": "sensor",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
-    }
+      "summary": "“sensor” is supported by the language evidence and purpose of the text.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-012",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a farmers market profile says, “Head noun unclear”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a farmers market profile says, “Head noun unclear”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Place clause next to the noun expanded.",
+        "is_correct": true
+      },
+      {
+        "text": "Every dependent clause called embedded",
+        "is_correct": false
+      },
+      {
+        "text": "Head noun unclear",
+        "is_correct": false
+      },
+      {
+        "text": "Commas added to every relative clause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-013",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "embedded_report",
+    "question": "A astronomy exhibition includes “The claim that the device was accurate was tested.”. Which description best fits this wording?",
+    "audio_prompt": "A astronomy exhibition includes “The claim that the device was accurate was tested.”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "embedded report",
+        "is_correct": true
+      },
+      {
+        "text": "embedded clause",
+        "is_correct": false
+      },
+      {
+        "text": "main clause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wording is embedded report because it clause expands claim.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-014",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "embedded_clause",
+    "question": "In a river-restoration update, which term matches this meaning: “clause functioning inside another grammatical structure”?",
+    "audio_prompt": "In a river-restoration update, which term matches this meaning: “clause functioning inside another grammatical structure”?",
+    "answers": [
+      {
+        "text": "relative clause",
+        "is_correct": false
+      },
+      {
+        "text": "head noun",
+        "is_correct": false
+      },
+      {
+        "text": "embedded clause",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "embedded clause is the precise term for clause functioning inside another grammatical structure.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-015",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "embedded_clauses_in_complex_sentences",
+    "question": "For a cycling-safety campaign, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "audio_prompt": "For a cycling-safety campaign, what does the embedded clause expand in ‘The sensor that recorded 42°C was checked’?",
+    "answers": [
+      {
+        "text": "42°C",
+        "is_correct": false
+      },
+      {
+        "text": "checked",
+        "is_correct": false
+      },
+      {
+        "text": "the",
+        "is_correct": false
+      },
+      {
+        "text": "sensor",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“sensor” is supported by the language evidence and purpose of the text.",
+      "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-T-016",
+    "curriculum_code": "AC9E6LA05",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a neighbourhood history podcast says, “Head noun unclear”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Head noun unclear”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Place clause next to the noun expanded.",
+        "is_correct": true
+      },
+      {
+        "text": "Every dependent clause called embedded",
+        "is_correct": false
+      },
+      {
+        "text": "Head noun unclear",
+        "is_correct": false
+      },
+      {
+        "text": "Commas added to every relative clause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Place clause next to the noun expanded. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
   }
 ]

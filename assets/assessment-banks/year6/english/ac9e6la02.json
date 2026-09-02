@@ -1,25 +1,22 @@
 [
   {
-    "id": "ac9e6la02-p-001",
+    "id": "AC9E6LA02-P-001",
     "curriculum_code": "AC9E6LA02",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "mark_evaluative_words",
-    "question": "Which sentence is most objective?",
-    "audio_prompt": "Which sentence is most objective?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a class podcast, which sentence is most objective?",
+    "audio_prompt": "In a class podcast, which sentence is most objective?",
     "answers": [
-      {
-        "text": "The survey included 240 respondents",
-        "is_correct": true
-      },
       {
         "text": "The ridiculous survey wasted everyone’s time",
         "is_correct": false
+      },
+      {
+        "text": "The survey included 240 respondents",
+        "is_correct": true
       },
       {
         "text": "The brilliant result proves everything",
@@ -30,68 +27,178 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "This choice best demonstrates mark evaluative words in the stated context.",
+      "summary": "“The survey included 240 respondents” is the strongest choice because it matches the language feature and the situation.",
       "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la02-p-002",
+    "id": "AC9E6LA02-P-002",
     "curriculum_code": "AC9E6LA02",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "objective_language",
-    "question": "Which term means “wording centred on verifiable information”?",
-    "audio_prompt": "Which term means “wording centred on verifiable information”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "recognise",
+    "skill": "subjective_language",
+    "question": "Which term best matches this meaning: “wording expressing evaluation, feeling or viewpoint”?",
+    "audio_prompt": "Which term best matches this meaning: “wording expressing evaluation, feeling or viewpoint”?",
     "answers": [
       {
-        "text": "subjective language",
-        "is_correct": false
-      },
-      {
         "text": "objective language",
-        "is_correct": true
+        "is_correct": false
       },
       {
         "text": "bias",
         "is_correct": false
       },
       {
+        "text": "subjective language",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "subjective language means wording expressing evaluation, feeling or viewpoint.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-003",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "attributed_opinion",
+    "question": "Read this example from a science investigation: “Residents described the cost as excessive.”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a science investigation: “Residents described the cost as excessive.”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "objective-style",
+        "is_correct": false
+      },
+      {
+        "text": "subjective",
+        "is_correct": false
+      },
+      {
+        "text": "biased selection",
+        "is_correct": false
+      },
+      {
+        "text": "attributed opinion",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Residents described the cost as excessive.” is an example of attributed opinion; here it speaker identified.",
+      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-004",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Bias means deliberate dishonesty”?",
+    "audio_prompt": "Which correction best fixes this idea: “Bias means deliberate dishonesty”?",
+    "answers": [
+      {
+        "text": "It may arise from assumptions or methods.",
+        "is_correct": true
+      },
+      {
         "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It may arise from assumptions or methods. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-005",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "objective_style",
+    "question": "Which example would be most useful when explaining objective, subjective and biased language in a sports-club discussion?",
+    "audio_prompt": "Which example would be most useful when explaining objective, subjective and biased language in a sports-club discussion?",
+    "answers": [
+      {
+        "text": "The wasteful proposal costs an outrageous $2.4 million.",
+        "is_correct": false
+      },
+      {
+        "text": "The proposal costs $2.4 million.",
+        "is_correct": true
+      },
+      {
+        "text": "Residents described the cost as excessive.",
+        "is_correct": false
+      },
+      {
+        "text": "Only opposing voices are quoted.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "objective language means wording centred on verifiable information.",
-      "hint": "Match the definition to the most precise term used in Objective, Subjective and Biased Language."
+      "summary": "This example directly demonstrates objective-style and can be explained using the language clue in the text.",
+      "hint": "Students distinguish verifiable information from evaluation, identify loaded wording and selective framing and explain that apparently objective texts may still position readers through evidence choice and omission."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la02-p-003",
+    "id": "AC9E6LA02-P-006",
     "curriculum_code": "AC9E6LA02",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_verifiable_claim",
-    "question": "Which feature can create bias even with neutral wording?",
-    "audio_prompt": "Which feature can create bias even with neutral wording?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "recognise",
+    "skill": "mark_evaluative_words",
+    "question": "In a library display, which feature can create bias even with neutral wording?",
+    "audio_prompt": "In a library display, which feature can create bias even with neutral wording?",
     "answers": [
       {
         "text": "Including units",
@@ -112,113 +219,107 @@
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "“Selecting only one side’s evidence” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la02-p-004",
+    "id": "AC9E6LA02-P-007",
     "curriculum_code": "AC9E6LA02",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
+    "skill": "objective_language",
+    "question": "Which term best matches this meaning: “wording centred on verifiable information”?",
+    "audio_prompt": "Which term best matches this meaning: “wording centred on verifiable information”?",
+    "answers": [
+      {
+        "text": "subjective language",
+        "is_correct": false
+      },
+      {
+        "text": "bias",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "objective language",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "objective language means wording centred on verifiable information.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-008",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "biased_selection",
+    "question": "Read this example from a student council meeting: “Only opposing voices are quoted.”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a student council meeting: “Only opposing voices are quoted.”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "biased selection",
+        "is_correct": true
+      },
+      {
+        "text": "objective-style",
+        "is_correct": false
+      },
+      {
+        "text": "subjective",
+        "is_correct": false
+      },
+      {
+        "text": "attributed opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Only opposing voices are quoted.” is an example of biased selection; here it one-sided evidence.",
+      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-009",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
     "skill": "misconception_repair",
-    "question": "A student says, “Any adjective is subjective.” Which response best corrects the misunderstanding?",
-    "audio_prompt": "A student says, “Any adjective is subjective.” Which response best corrects the misunderstanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Selection and omission can position readers",
-        "is_correct": false
-      },
-      {
-        "text": "Attribution identifies source, not truth",
-        "is_correct": false
-      },
-      {
-        "text": "It may arise from assumptions or methods",
-        "is_correct": false
-      },
-      {
-        "text": "Some adjectives classify observable features",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Some adjectives classify observable features",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6la02-p-005",
-    "curriculum_code": "AC9E6LA02",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "compare_factual_reporting_evaluation_and_bias",
-    "question": "Which pairing accurately reflects the model for Objective, Subjective and Biased Language?",
-    "audio_prompt": "Which pairing accurately reflects the model for Objective, Subjective and Biased Language?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "objective-style → The proposal costs $2.4 million. → verifiable quantity",
-        "is_correct": true
-      },
-      {
-        "text": "verifiable quantity → The proposal costs $2.4 million. → objective-style",
-        "is_correct": false
-      },
-      {
-        "text": "subjective → The wasteful proposal costs an outrageous $2.4 million. → evaluation and emotion",
-        "is_correct": false
-      },
-      {
-        "text": "Neutral tone proves no bias",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e6la02-p-006",
-    "curriculum_code": "AC9E6LA02",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "concept_principle",
-    "question": "Which principle should guide a response about Objective, Subjective and Biased Language?",
-    "audio_prompt": "Which principle should guide a response about Objective, Subjective and Biased Language?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "Which correction best fixes this idea: “Any adjective is subjective”?",
+    "audio_prompt": "Which correction best fixes this idea: “Any adjective is subjective”?",
     "answers": [
       {
         "text": "Any adjective is subjective",
         "is_correct": false
       },
       {
-        "text": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias",
+        "text": "Some adjectives classify observable features.",
         "is_correct": true
       },
       {
@@ -232,67 +333,485 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "Some adjectives classify observable features. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la02-p-007",
+    "id": "AC9E6LA02-P-010",
     "curriculum_code": "AC9E6LA02",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "guided_application",
-    "question": "Which plan would best complete this task: Audit a headline and short report for wording, source selection, visual framing and omitted context?",
-    "audio_prompt": "Which plan would best complete this task: Audit a headline and short report for wording, source selection, visual framing and omitted context?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "recognise",
+    "skill": "subjective",
+    "question": "Which example would be most useful when explaining objective, subjective and biased language in a environmental campaign?",
+    "audio_prompt": "Which example would be most useful when explaining objective, subjective and biased language in a environmental campaign?",
     "answers": [
       {
-        "text": "List features without explaining their effects.",
+        "text": "The proposal costs $2.4 million.",
         "is_correct": false
       },
       {
-        "text": "Give a personal preference without textual evidence.",
+        "text": "Residents described the cost as excessive.",
         "is_correct": false
       },
       {
-        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "text": "The wasteful proposal costs an outrageous $2.4 million.",
         "is_correct": true
       },
       {
-        "text": "Discuss a different topic instead of the stated task.",
+        "text": "Only opposing voices are quoted.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "This example directly demonstrates subjective and can be explained using the language clue in the text.",
+      "hint": "Students distinguish verifiable information from evaluation, identify loaded wording and selective framing and explain that apparently objective texts may still position readers through evidence choice and omission."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la02-p-008",
+    "id": "AC9E6LA02-P-011",
     "curriculum_code": "AC9E6LA02",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "reasoning",
-    "question": "Which evidence would best show secure understanding of Objective, Subjective and Biased Language?",
-    "audio_prompt": "Which evidence would best show secure understanding of Objective, Subjective and Biased Language?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "explain",
+    "skill": "attributed_opinion",
+    "question": "A museum caption includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
+    "audio_prompt": "A museum caption includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
     "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
+        "is_correct": false
+      },
+      {
+        "text": "It speaker identified and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Residents described the cost as excessive. works because speaker identified.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-012",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a student council meeting?",
+    "audio_prompt": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a student council meeting?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Selection and omission can position readers.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-013",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "objective_style",
+    "question": "A local-history article includes “The proposal costs $2.4 million.”. Why is this an effective example of objective-style?",
+    "audio_prompt": "A local-history article includes “The proposal costs $2.4 million.”. Why is this an effective example of objective-style?",
+    "answers": [
+      {
+        "text": "It verifiable quantity and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
+        "is_correct": false
+      },
+      {
+        "text": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The proposal costs $2.4 million. works because verifiable quantity.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-014",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “It may arise from assumptions or methods.” a better rule than “Bias means deliberate dishonesty” when reading a environmental campaign?",
+    "audio_prompt": "Why is “It may arise from assumptions or methods.” a better rule than “Bias means deliberate dishonesty” when reading a environmental campaign?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“It may arise from assumptions or methods.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-015",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "attributed_opinion",
+    "question": "A book-club discussion includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
+    "audio_prompt": "A book-club discussion includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
+        "is_correct": false
+      },
+      {
+        "text": "It speaker identified and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Residents described the cost as excessive. works because speaker identified.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-016",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a excursion briefing?",
+    "audio_prompt": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a excursion briefing?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Selection and omission can position readers.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-017",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "objective_style",
+    "question": "A design project includes “The proposal costs $2.4 million.”. Why is this an effective example of objective-style?",
+    "audio_prompt": "A design project includes “The proposal costs $2.4 million.”. Why is this an effective example of objective-style?",
+    "answers": [
+      {
+        "text": "It verifiable quantity and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
+        "is_correct": false
+      },
+      {
+        "text": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The proposal costs $2.4 million. works because verifiable quantity.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-018",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “It may arise from assumptions or methods.” a better rule than “Bias means deliberate dishonesty” when reading a weather report?",
+    "audio_prompt": "Why is “It may arise from assumptions or methods.” a better rule than “Bias means deliberate dishonesty” when reading a weather report?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“It may arise from assumptions or methods.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-019",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "attributed_opinion",
+    "question": "A school assembly includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
+    "audio_prompt": "A school assembly includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
+        "is_correct": false
+      },
+      {
+        "text": "It speaker identified and supports the purpose of the text.",
+        "is_correct": true
+      },
+      {
+        "text": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Residents described the cost as excessive. works because speaker identified.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-020",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a peer feedback session?",
+    "audio_prompt": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a peer feedback session?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Selection and omission can position readers.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-021",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A excursion briefing could use either “The proposal costs $2.4 million.” or “mark evaluative words”. Which comparison is most accurate?",
+    "audio_prompt": "A excursion briefing could use either “The proposal costs $2.4 million.” or “mark evaluative words”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      },
+      {
+        "text": "“The proposal costs $2.4 million.” shows objective-style, while “mark evaluative words” shows mark evaluative words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The important difference is the language function: objective-style versus mark evaluative words.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-022",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a design project?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a design project?",
+    "answers": [
+      {
+        "text": "Attribution identifies source, not truth.",
+        "is_correct": true
+      },
       {
         "text": "Any adjective is subjective",
         "is_correct": false
@@ -304,315 +823,1308 @@
       {
         "text": "Quoted opinion becomes fact",
         "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Attribution identifies source, not truth. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-023",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A weather report could use either “Residents described the cost as excessive.” or “identify omitted viewpoints/data”. Which comparison is most accurate?",
+    "audio_prompt": "A weather report could use either “Residents described the cost as excessive.” or “identify omitted viewpoints/data”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
       },
       {
-        "text": "Students distinguish verifiable information from evaluation, identify loaded wording and selective framing and explain that apparently objective texts may still position readers through evidence choice and omission The response also explains its evidence and limitations.",
+        "text": "“Residents described the cost as excessive.” shows attributed opinion, while “identify omitted viewpoints/data” shows identify omitted viewpoints/data.",
+        "is_correct": true
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The important difference is the language function: attributed opinion versus identify omitted viewpoints/data.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-024",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Any adjective is subjective” in a school assembly?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Any adjective is subjective” in a school assembly?",
+    "answers": [
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      },
+      {
+        "text": "Some adjectives classify observable features.",
+        "is_correct": true
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Some adjectives classify observable features. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-025",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A peer feedback session could use either “The proposal costs $2.4 million.” or “compare headline with evidence”. Which comparison is most accurate?",
+    "audio_prompt": "A peer feedback session could use either “The proposal costs $2.4 million.” or “compare headline with evidence”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      },
+      {
+        "text": "“The proposal costs $2.4 million.” shows objective-style, while “compare headline with evidence” shows compare headline with evidence.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "The important difference is the language function: objective-style versus compare headline with evidence.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la02-t-001",
+    "id": "AC9E6LA02-P-026",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a cooking demonstration?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a cooking demonstration?",
+    "answers": [
+      {
+        "text": "Attribution identifies source, not truth.",
+        "is_correct": true
+      },
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Attribution identifies source, not truth. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-027",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A arts review could use either “Residents described the cost as excessive.” or “identify claim”. Which comparison is most accurate?",
+    "audio_prompt": "A arts review could use either “Residents described the cost as excessive.” or “identify claim”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "“Residents described the cost as excessive.” shows attributed opinion, while “identify claim” shows identify claim.",
+        "is_correct": true
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The important difference is the language function: attributed opinion versus identify claim.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-028",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Any adjective is subjective” in a technology presentation?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Any adjective is subjective” in a technology presentation?",
+    "answers": [
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      },
+      {
+        "text": "Some adjectives classify observable features.",
+        "is_correct": true
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Some adjectives classify observable features. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-029",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A playground consultation could use either “The proposal costs $2.4 million.” or “check sources and attribution”. Which comparison is most accurate?",
+    "audio_prompt": "A playground consultation could use either “The proposal costs $2.4 million.” or “check sources and attribution”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      },
+      {
+        "text": "“The proposal costs $2.4 million.” shows objective-style, while “check sources and attribution” shows check sources and attribution.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The important difference is the language function: objective-style versus check sources and attribution.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-030",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a class podcast?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a class podcast?",
+    "answers": [
+      {
+        "text": "Attribution identifies source, not truth.",
+        "is_correct": true
+      },
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Attribution identifies source, not truth. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-031",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "check_attribution",
+    "question": "You are editing a community garden proposal. Which feature can create bias even with neutral wording?",
+    "audio_prompt": "You are editing a community garden proposal. Which feature can create bias even with neutral wording?",
+    "answers": [
+      {
+        "text": "Selecting only one side’s evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Including units",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the source",
+        "is_correct": false
+      },
+      {
+        "text": "Using a table accurately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-032",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "mark_evaluative_words",
+    "question": "A sports-club discussion needs a clear example of mark evaluative words. Which wording should you choose?",
+    "audio_prompt": "A sports-club discussion needs a clear example of mark evaluative words. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "identify claim",
+        "is_correct": false
+      },
+      {
+        "text": "mark evaluative words",
+        "is_correct": true
+      },
+      {
+        "text": "check sources and attribution",
+        "is_correct": false
+      },
+      {
+        "text": "identify omitted viewpoints/data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“mark evaluative words” is the best choice because it demonstrates mark evaluative words in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-033",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "objective_language",
+    "question": "While revising a library display, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a library display, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "subjective language",
+        "is_correct": false
+      },
+      {
+        "text": "bias",
+        "is_correct": false
+      },
+      {
+        "text": "objective language",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "objective language is the concept that matches wording centred on verifiable information.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-034",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "mark_evaluative_words",
+    "question": "You are editing a museum caption. Which feature can create bias even with neutral wording?",
+    "audio_prompt": "You are editing a museum caption. Which feature can create bias even with neutral wording?",
+    "answers": [
+      {
+        "text": "Including units",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the source",
+        "is_correct": false
+      },
+      {
+        "text": "Using a table accurately",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting only one side’s evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-035",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "inspect_image_layout",
+    "question": "A student council meeting needs a clear example of inspect image/layout. Which wording should you choose?",
+    "audio_prompt": "A student council meeting needs a clear example of inspect image/layout. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "inspect image/layout",
+        "is_correct": true
+      },
+      {
+        "text": "identify claim",
+        "is_correct": false
+      },
+      {
+        "text": "mark evaluative words",
+        "is_correct": false
+      },
+      {
+        "text": "check sources and attribution",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“inspect image/layout” is the best choice because it demonstrates inspect image/layout in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-036",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "objective_language",
+    "question": "While revising a local-history article, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a local-history article, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "subjective language",
+        "is_correct": false
+      },
+      {
+        "text": "objective language",
+        "is_correct": true
+      },
+      {
+        "text": "bias",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "objective language is the concept that matches wording centred on verifiable information.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-037",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "find_omitted_evidence",
+    "question": "You are editing a environmental campaign. Which feature can create bias even with neutral wording?",
+    "audio_prompt": "You are editing a environmental campaign. Which feature can create bias even with neutral wording?",
+    "answers": [
+      {
+        "text": "Including units",
+        "is_correct": false
+      },
+      {
+        "text": "Naming the source",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting only one side’s evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Using a table accurately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-038",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify_claim",
+    "question": "A book-club discussion needs a clear example of identify claim. Which wording should you choose?",
+    "audio_prompt": "A book-club discussion needs a clear example of identify claim. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "mark evaluative words",
+        "is_correct": false
+      },
+      {
+        "text": "check sources and attribution",
+        "is_correct": false
+      },
+      {
+        "text": "identify omitted viewpoints/data",
+        "is_correct": false
+      },
+      {
+        "text": "identify claim",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“identify claim” is the best choice because it demonstrates identify claim in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-039",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "objective_language",
+    "question": "While revising a excursion briefing, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a excursion briefing, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
+    "answers": [
+      {
+        "text": "objective language",
+        "is_correct": true
+      },
+      {
+        "text": "subjective language",
+        "is_correct": false
+      },
+      {
+        "text": "bias",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "objective language is the concept that matches wording centred on verifiable information.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-040",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "identify_verifiable_claim",
+    "question": "You are editing a design project. Which feature can create bias even with neutral wording?",
+    "audio_prompt": "You are editing a design project. Which feature can create bias even with neutral wording?",
+    "answers": [
+      {
+        "text": "Including units",
+        "is_correct": false
+      },
+      {
+        "text": "Selecting only one side’s evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Naming the source",
+        "is_correct": false
+      },
+      {
+        "text": "Using a table accurately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-001",
     "curriculum_code": "AC9E6LA02",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
+    "skill": "check_sources_and_attribution",
+    "question": "A community radio segment includes “check sources and attribution”. Which description best fits this wording?",
+    "audio_prompt": "A community radio segment includes “check sources and attribution”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "objective-style",
+        "is_correct": false
+      },
+      {
+        "text": "subjective",
+        "is_correct": false
+      },
+      {
+        "text": "check sources and attribution",
+        "is_correct": true
+      },
+      {
+        "text": "attributed opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The wording best matches check sources and attribution.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-002",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "objective_language",
+    "question": "In a wildlife-centre report, which term matches this meaning: “wording centred on verifiable information”?",
+    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “wording centred on verifiable information”?",
+    "answers": [
+      {
+        "text": "subjective language",
+        "is_correct": false
+      },
+      {
+        "text": "bias",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "objective language",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "objective language is the precise term for wording centred on verifiable information.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-003",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "objective_subjective_and_biased_language",
+    "question": "For a regional youth forum, which sentence is most objective?",
+    "audio_prompt": "For a regional youth forum, which sentence is most objective?",
+    "answers": [
+      {
+        "text": "The survey included 240 respondents",
+        "is_correct": true
+      },
+      {
+        "text": "The ridiculous survey wasted everyone’s time",
+        "is_correct": false
+      },
+      {
+        "text": "The brilliant result proves everything",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone hated the survey",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-004",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a coastal-monitoring update says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Selection and omission can position readers.",
+        "is_correct": true
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-005",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "write_limited_judgement",
+    "question": "A heritage trail guide includes “write limited judgement”. Which description best fits this wording?",
+    "audio_prompt": "A heritage trail guide includes “write limited judgement”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "objective-style",
+        "is_correct": false
+      },
+      {
+        "text": "subjective",
+        "is_correct": false
+      },
+      {
+        "text": "write limited judgement",
+        "is_correct": true
+      },
+      {
+        "text": "attributed opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The wording best matches write limited judgement.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-006",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
     "skill": "subjective_language",
-    "question": "In a new text, which definition correctly identifies subjective language?",
-    "audio_prompt": "In a new text, which definition correctly identifies subjective language?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a public-transport survey, which term matches this meaning: “wording expressing evaluation, feeling or viewpoint”?",
+    "audio_prompt": "In a public-transport survey, which term matches this meaning: “wording expressing evaluation, feeling or viewpoint”?",
     "answers": [
       {
-        "text": "Wording expressing evaluation, feeling or viewpoint",
+        "text": "objective language",
+        "is_correct": false
+      },
+      {
+        "text": "bias",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "subjective language",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "subjective language is the precise term for wording expressing evaluation, feeling or viewpoint.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-007",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "objective_subjective_and_biased_language",
+    "question": "For a festival review, which sentence is most objective?",
+    "audio_prompt": "For a festival review, which sentence is most objective?",
+    "answers": [
+      {
+        "text": "The survey included 240 respondents",
         "is_correct": true
       },
       {
-        "text": "Wording centred on verifiable information",
+        "text": "The ridiculous survey wasted everyone’s time",
         "is_correct": false
       },
       {
-        "text": "Systematic positioning or imbalance affecting representation",
+        "text": "The brilliant result proves everything",
         "is_correct": false
+      },
+      {
+        "text": "Everyone hated the survey",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-008",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a emergency-preparedness talk says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Selection and omission can position readers.",
+        "is_correct": true
       },
       {
         "text": "Neutral tone proves no bias",
         "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "subjective language means wording expressing evaluation, feeling or viewpoint.",
-      "hint": "Distinguish this term from related features in the unit."
-    }
-  },
-  {
-    "id": "ac9e6la02-t-002",
-    "curriculum_code": "AC9E6LA02",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "diagnosis",
-    "question": "A response shows this problem: “Neutral tone proves no bias.” What is the most effective revision?",
-    "audio_prompt": "A response shows this problem: “Neutral tone proves no bias.” What is the most effective revision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Some adjectives classify observable features",
-        "is_correct": false
-      },
-      {
-        "text": "Selection and omission can position readers",
-        "is_correct": true
-      },
-      {
-        "text": "Attribution identifies source, not truth",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the response unchanged because the issue does not affect meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Selection and omission can position readers",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
-    }
-  },
-  {
-    "id": "ac9e6la02-t-003",
-    "curriculum_code": "AC9E6LA02",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "compare_factual_reporting_evaluation_and_bias",
-    "question": "Which interpretation of this model element is accurate: “subjective → The wasteful proposal costs an outrageous $2.4 million. → evaluation and emotion”?",
-    "audio_prompt": "Which interpretation of this model element is accurate: “subjective → The wasteful proposal costs an outrageous $2.4 million. → evaluation and emotion”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The first part is decorative and can be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The second part always has the same effect in every text.",
-        "is_correct": false
-      },
-      {
-        "text": "It shows a deliberate relationship within Objective, Subjective and Biased Language, so both parts must be interpreted together.",
-        "is_correct": true
-      },
-      {
-        "text": "The pairing proves that no alternative interpretation is possible.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
-    }
-  },
-  {
-    "id": "ac9e6la02-t-004",
-    "curriculum_code": "AC9E6LA02",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "use_a_bias_audit",
-    "question": "When applying Objective, Subjective and Biased Language to an unfamiliar text, which analytical move is strongest?",
-    "audio_prompt": "When applying Objective, Subjective and Biased Language to an unfamiliar text, which analytical move is strongest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name a feature and stop.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every audience responds identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace analysis with an unsupported personal judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
-    }
-  },
-  {
-    "id": "ac9e6la02-t-005",
-    "curriculum_code": "AC9E6LA02",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "bias",
-    "question": "Which example best demonstrates an understanding of bias?",
-    "audio_prompt": "Which example best demonstrates an understanding of bias?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Systematic positioning or imbalance affecting representation, identified using evidence from the text.",
-        "is_correct": true
       },
       {
         "text": "Quoted opinion becomes fact",
         "is_correct": false
-      },
-      {
-        "text": "Bias means deliberate dishonesty",
-        "is_correct": false
-      },
-      {
-        "text": "A general comment that does not use the text.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "bias is systematic positioning or imbalance affecting representation.",
-      "hint": "Select the response that applies the definition and uses evidence."
-    }
-  },
-  {
-    "id": "ac9e6la02-t-006",
-    "curriculum_code": "AC9E6LA02",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "transfer",
-    "question": "Which conclusion stays within the evidence when analysing Objective, Subjective and Biased Language?",
-    "audio_prompt": "Which conclusion stays within the evidence when analysing Objective, Subjective and Biased Language?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "This single example proves the rule applies identically everywhere.",
-        "is_correct": false
-      },
-      {
-        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
-        "is_correct": true
-      },
-      {
-        "text": "The writer's choice guarantees the same reaction from every reader.",
-        "is_correct": false
-      },
-      {
-        "text": "No evidence is needed because the interpretation sounds reasonable.",
-        "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
-    }
+      "summary": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la02-t-007",
+    "id": "AC9E6LA02-T-009",
     "curriculum_code": "AC9E6LA02",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "extended_analysis",
-    "question": "Which response plan best addresses this challenge: Write objective, openly subjective and subtly biased versions of the same event, then annotate choices?",
-    "audio_prompt": "Which response plan best addresses this challenge: Write objective, openly subjective and subtly biased versions of the same event, then annotate choices?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "identify_omitted_viewpoints_data",
+    "question": "A water-saving brochure includes “identify omitted viewpoints/data”. Which description best fits this wording?",
+    "audio_prompt": "A water-saving brochure includes “identify omitted viewpoints/data”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "Copy the lesson example without adapting it.",
+        "text": "objective-style",
         "is_correct": false
       },
       {
-        "text": "Add several unrelated features and do not explain them.",
+        "text": "subjective",
         "is_correct": false
       },
       {
-        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "text": "identify omitted viewpoints/data",
         "is_correct": true
       },
       {
-        "text": "Describe the task but do not produce or analyse a response.",
+        "text": "attributed opinion",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
-    }
+      "summary": "The wording best matches identify omitted viewpoints/data.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la02-t-008",
+    "id": "AC9E6LA02-T-010",
     "curriculum_code": "AC9E6LA02",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "critical_evaluation",
-    "question": "Which approach best addresses this evaluation: Compare two reports using the same facts but different selection and ordering. Evaluate reader positioning?",
-    "audio_prompt": "Which approach best addresses this evaluation: Compare two reports using the same facts but different selection and ordering. Evaluate reader positioning?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "bias",
+    "question": "In a local council submission, which term matches this meaning: “systematic positioning or imbalance affecting representation”?",
+    "audio_prompt": "In a local council submission, which term matches this meaning: “systematic positioning or imbalance affecting representation”?",
     "answers": [
       {
-        "text": "Choose a preferred answer before examining evidence.",
+        "text": "objective language",
         "is_correct": false
       },
       {
-        "text": "Summarise each example without comparing it.",
+        "text": "subjective language",
         "is_correct": false
       },
       {
-        "text": "Treat one feature as proof of the whole judgement.",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       },
       {
-        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "text": "bias",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
-    }
+      "summary": "bias is the precise term for systematic positioning or imbalance affecting representation.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-011",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "objective_subjective_and_biased_language",
+    "question": "For a marine-research diary, which sentence is most objective?",
+    "audio_prompt": "For a marine-research diary, which sentence is most objective?",
+    "answers": [
+      {
+        "text": "The survey included 240 respondents",
+        "is_correct": true
+      },
+      {
+        "text": "The ridiculous survey wasted everyone’s time",
+        "is_correct": false
+      },
+      {
+        "text": "The brilliant result proves everything",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone hated the survey",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-012",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a farmers market profile says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a farmers market profile says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Selection and omission can position readers.",
+        "is_correct": true
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-013",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "identify_claim",
+    "question": "A astronomy exhibition includes “identify claim”. Which description best fits this wording?",
+    "audio_prompt": "A astronomy exhibition includes “identify claim”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "objective-style",
+        "is_correct": false
+      },
+      {
+        "text": "subjective",
+        "is_correct": false
+      },
+      {
+        "text": "identify claim",
+        "is_correct": true
+      },
+      {
+        "text": "attributed opinion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The wording best matches identify claim.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-014",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "objective_language",
+    "question": "In a river-restoration update, which term matches this meaning: “wording centred on verifiable information”?",
+    "audio_prompt": "In a river-restoration update, which term matches this meaning: “wording centred on verifiable information”?",
+    "answers": [
+      {
+        "text": "subjective language",
+        "is_correct": false
+      },
+      {
+        "text": "bias",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "objective language",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "objective language is the precise term for wording centred on verifiable information.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-015",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "objective_subjective_and_biased_language",
+    "question": "For a cycling-safety campaign, which sentence is most objective?",
+    "audio_prompt": "For a cycling-safety campaign, which sentence is most objective?",
+    "answers": [
+      {
+        "text": "The survey included 240 respondents",
+        "is_correct": true
+      },
+      {
+        "text": "The ridiculous survey wasted everyone’s time",
+        "is_correct": false
+      },
+      {
+        "text": "The brilliant result proves everything",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone hated the survey",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.",
+      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-T-016",
+    "curriculum_code": "AC9E6LA02",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a neighbourhood history podcast says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Any adjective is subjective",
+        "is_correct": false
+      },
+      {
+        "text": "Selection and omission can position readers.",
+        "is_correct": true
+      },
+      {
+        "text": "Neutral tone proves no bias",
+        "is_correct": false
+      },
+      {
+        "text": "Quoted opinion becomes fact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
   }
 ]

@@ -1,57 +1,1230 @@
 [
   {
-    "id": "ac9e6la09-p-001",
+    "id": "AC9E6LA09-P-001",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "punctuate_a_list",
-    "question": "Which sentence is punctuated correctly?",
-    "audio_prompt": "Which sentence is punctuated correctly?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a class podcast, which sentence is punctuated correctly?",
+    "audio_prompt": "In a class podcast, which sentence is punctuated correctly?",
     "answers": [
       {
         "text": "Although the data varied, the pattern remained.",
         "is_correct": true
       },
       {
-        "text": "This response does not address the evidence.",
+        "text": "Although, the data varied the pattern remained.",
         "is_correct": false
       },
       {
-        "text": "This response does not address the stated purpose.",
+        "text": "Although the data, varied the pattern remained.",
         "is_correct": false
       },
       {
-        "text": "This response does not address the language choice.",
+        "text": "Although the data varied the pattern, remained.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "This choice best demonstrates punctuate a list in the stated context.",
+      "summary": "“Although the data varied, the pattern remained.” is the strongest choice because it matches the language feature and the situation.",
       "hint": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-p-002",
+    "id": "AC9E6LA09-P-002",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "comma_splice",
-    "question": "Which term means “incorrect joining of independent clauses by comma alone”?",
-    "audio_prompt": "Which term means “incorrect joining of independent clauses by comma alone”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "stage": "recognise",
+    "skill": "dependent_clause",
+    "question": "Which term best matches this meaning: “clause relying on a main clause”?",
+    "audio_prompt": "Which term best matches this meaning: “clause relying on a main clause”?",
+    "answers": [
+      {
+        "text": "comma splice",
+        "is_correct": false
+      },
+      {
+        "text": "dependent clause",
+        "is_correct": true
+      },
+      {
+        "text": "supplementary information",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "dependent clause means clause relying on a main clause.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
     },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-003",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "supplementary_phrase",
+    "question": "Read this example from a science investigation: “The sensor, after recalibration, gave stable readings.”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a science investigation: “The sensor, after recalibration, gave stable readings.”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "list",
+        "is_correct": false
+      },
+      {
+        "text": "dependent first",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary phrase",
+        "is_correct": true
+      },
+      {
+        "text": "direct address",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The sensor, after recalibration, gave stable readings.” is an example of supplementary phrase.",
+      "hint": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-004",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Subject and verb separated”?",
+    "audio_prompt": "Which correction best fixes this idea: “Subject and verb separated”?",
+    "answers": [
+      {
+        "text": "Comma placed at every pause",
+        "is_correct": false
+      },
+      {
+        "text": "Independent clauses joined by comma alone",
+        "is_correct": false
+      },
+      {
+        "text": "Introductory dependent clause not separated",
+        "is_correct": false
+      },
+      {
+        "text": "Remove unnecessary comma.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Remove unnecessary comma. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-005",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "clarity",
+    "question": "Which example would be most useful when explaining commas for lists, clauses and clarity in a sports-club discussion?",
+    "audio_prompt": "Which example would be most useful when explaining commas for lists, clauses and clarity in a sports-club discussion?",
+    "answers": [
+      {
+        "text": "After eating, the students recorded results.",
+        "is_correct": true
+      },
+      {
+        "text": "We measured mass, volume, temperature and time.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the data varied, the pattern remained.",
+        "is_correct": false
+      },
+      {
+        "text": "The sensor, after recalibration, gave stable readings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "This example directly demonstrates clarity and can be explained using the language clue in the text.",
+      "hint": "Students distinguish list commas, introductory dependent-clause commas, supplementary information and ambiguity-reducing punctuation, while avoiding comma splices."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-006",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "punctuate_a_list",
+    "question": "In a library display, which sentence contains a comma splice?",
+    "audio_prompt": "In a library display, which sentence contains a comma splice?",
+    "answers": [
+      {
+        "text": "The trial ended, and we analysed results.",
+        "is_correct": false
+      },
+      {
+        "text": "The trial ended, we analysed results.",
+        "is_correct": true
+      },
+      {
+        "text": "After the trial ended, we analysed results.",
+        "is_correct": false
+      },
+      {
+        "text": "The trial ended; we analysed results.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“The trial ended, we analysed results.” is the strongest choice because it matches the language feature and the situation.",
+      "hint": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-007",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "comma_splice",
+    "question": "Which term best matches this meaning: “incorrect joining of independent clauses by comma alone”?",
+    "audio_prompt": "Which term best matches this meaning: “incorrect joining of independent clauses by comma alone”?",
+    "answers": [
+      {
+        "text": "dependent clause",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary information",
+        "is_correct": false
+      },
+      {
+        "text": "comma splice",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "comma splice means incorrect joining of independent clauses by comma alone.",
+      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-008",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "supplementary_phrase",
+    "question": "Read this example from a student council meeting: “The sensor, after recalibration, gave stable readings.”. Which label best describes what the language is doing?",
+    "audio_prompt": "Read this example from a student council meeting: “The sensor, after recalibration, gave stable readings.”. Which label best describes what the language is doing?",
+    "answers": [
+      {
+        "text": "list",
+        "is_correct": false
+      },
+      {
+        "text": "dependent first",
+        "is_correct": false
+      },
+      {
+        "text": "direct address",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary phrase",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“The sensor, after recalibration, gave stable readings.” is an example of supplementary phrase.",
+      "hint": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-009",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which correction best fixes this idea: “Comma placed at every pause”?",
+    "audio_prompt": "Which correction best fixes this idea: “Comma placed at every pause”?",
+    "answers": [
+      {
+        "text": "Use grammar and meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Comma placed at every pause",
+        "is_correct": false
+      },
+      {
+        "text": "Independent clauses joined by comma alone",
+        "is_correct": false
+      },
+      {
+        "text": "Introductory dependent clause not separated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use grammar and meaning. This fixes the misconception without creating a new rule that is too broad.",
+      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-010",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "clarity",
+    "question": "Which example would be most useful when explaining commas for lists, clauses and clarity in a environmental campaign?",
+    "audio_prompt": "Which example would be most useful when explaining commas for lists, clauses and clarity in a environmental campaign?",
+    "answers": [
+      {
+        "text": "We measured mass, volume, temperature and time.",
+        "is_correct": false
+      },
+      {
+        "text": "After eating, the students recorded results.",
+        "is_correct": true
+      },
+      {
+        "text": "Although the data varied, the pattern remained.",
+        "is_correct": false
+      },
+      {
+        "text": "The sensor, after recalibration, gave stable readings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "This example directly demonstrates clarity and can be explained using the language clue in the text.",
+      "hint": "Students distinguish list commas, introductory dependent-clause commas, supplementary information and ambiguity-reducing punctuation, while avoiding comma splices."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-011",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "supplementary_phrase",
+    "question": "A museum caption includes “The sensor, after recalibration, gave stable readings.”. Why is this an effective example of supplementary phrase?",
+    "audio_prompt": "A museum caption includes “The sensor, after recalibration, gave stable readings.”. Why is this an effective example of supplementary phrase?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not separate a subject from its verb or insert commas between essential elements without reason.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sensor, after recalibration, gave stable readings. works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-012",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use conjunction, semicolon or full stop.” a better rule than “Independent clauses joined by comma alone” when reading a student council meeting?",
+    "audio_prompt": "Why is “Use conjunction, semicolon or full stop.” a better rule than “Independent clauses joined by comma alone” when reading a student council meeting?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use conjunction, semicolon or full stop.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-013",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "clarity",
+    "question": "A local-history article includes “After eating, the students recorded results.”. Why is this an effective example of clarity?",
+    "audio_prompt": "A local-history article includes “After eating, the students recorded results.”. Why is this an effective example of clarity?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not separate a subject from its verb or insert commas between essential elements without reason.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "After eating, the students recorded results. works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-014",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Remove unnecessary comma.” a better rule than “Subject and verb separated” when reading a environmental campaign?",
+    "audio_prompt": "Why is “Remove unnecessary comma.” a better rule than “Subject and verb separated” when reading a environmental campaign?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Remove unnecessary comma.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-015",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "dependent_first",
+    "question": "A book-club discussion includes “Although the data varied, the pattern remained.”. Why is this an effective example of dependent first?",
+    "audio_prompt": "A book-club discussion includes “Although the data varied, the pattern remained.”. Why is this an effective example of dependent first?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not separate a subject from its verb or insert commas between essential elements without reason.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Although the data varied, the pattern remained. works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-016",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use conjunction, semicolon or full stop.” a better rule than “Independent clauses joined by comma alone” when reading a excursion briefing?",
+    "audio_prompt": "Why is “Use conjunction, semicolon or full stop.” a better rule than “Independent clauses joined by comma alone” when reading a excursion briefing?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use conjunction, semicolon or full stop.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-017",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct_address",
+    "question": "A design project includes “Mina, check the scale.”. Why is this an effective example of direct address?",
+    "audio_prompt": "A design project includes “Mina, check the scale.”. Why is this an effective example of direct address?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not separate a subject from its verb or insert commas between essential elements without reason.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Mina, check the scale. works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-018",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Remove unnecessary comma.” a better rule than “Subject and verb separated” when reading a weather report?",
+    "audio_prompt": "Why is “Remove unnecessary comma.” a better rule than “Subject and verb separated” when reading a weather report?",
+    "answers": [
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“Remove unnecessary comma.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-019",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "list",
+    "question": "A school assembly includes “We measured mass, volume, temperature and time.”. Why is this an effective example of list?",
+    "audio_prompt": "A school assembly includes “We measured mass, volume, temperature and time.”. Why is this an effective example of list?",
+    "answers": [
+      {
+        "text": "It matches the purpose and the language clue in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the intended language choice clear in context.",
+        "is_correct": true
+      },
+      {
+        "text": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear.",
+        "is_correct": false
+      },
+      {
+        "text": "Do not separate a subject from its verb or insert commas between essential elements without reason.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "We measured mass, volume, temperature and time. works because its language choice fits the purpose and context.",
+      "hint": "Name the exact language choice, then explain its effect."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-020",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "misconception_repair",
+    "question": "Why is “Use conjunction, semicolon or full stop.” a better rule than “Independent clauses joined by comma alone” when reading a peer feedback session?",
+    "audio_prompt": "Why is “Use conjunction, semicolon or full stop.” a better rule than “Independent clauses joined by comma alone” when reading a peer feedback session?",
+    "answers": [
+      {
+        "text": "Because the longest rule is always the best one.",
+        "is_correct": false
+      },
+      {
+        "text": "Because exceptions never matter in English.",
+        "is_correct": false
+      },
+      {
+        "text": "Because it keeps the useful distinction without turning it into an absolute rule.",
+        "is_correct": true
+      },
+      {
+        "text": "Because a rule is correct whenever it uses technical words.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Use conjunction, semicolon or full stop.” is more accurate because it responds to context and evidence instead of overgeneralising.",
+      "hint": "Be suspicious of rules using words such as always, never or every."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-021",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A excursion briefing could use either “We measured mass, volume, temperature and time.” or “The trial ended; we analysed results.”. Which comparison is most accurate?",
+    "audio_prompt": "A excursion briefing could use either “We measured mass, volume, temperature and time.” or “The trial ended; we analysed results.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“We measured mass, volume, temperature and time.” shows list, while “The trial ended; we analysed results.” shows repair 2.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: list versus repair 2.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-022",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Introductory dependent clause not separated” in a design project?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Introductory dependent clause not separated” in a design project?",
+    "answers": [
+      {
+        "text": "Comma placed at every pause",
+        "is_correct": false
+      },
+      {
+        "text": "Independent clauses joined by comma alone",
+        "is_correct": false
+      },
+      {
+        "text": "Introductory dependent clause not separated",
+        "is_correct": false
+      },
+      {
+        "text": "Add comma for clarity.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Add comma for clarity. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-023",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A weather report could use either “The sensor, after recalibration, gave stable readings.” or “If the switch is open, the lamp turns off.”. Which comparison is most accurate?",
+    "audio_prompt": "A weather report could use either “The sensor, after recalibration, gave stable readings.” or “If the switch is open, the lamp turns off.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“The sensor, after recalibration, gave stable readings.” shows supplementary phrase, while “If the switch is open, the lamp turns off.” shows missing comma.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: supplementary phrase versus missing comma.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-024",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Comma placed at every pause” in a school assembly?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Comma placed at every pause” in a school assembly?",
+    "answers": [
+      {
+        "text": "Comma placed at every pause",
+        "is_correct": false
+      },
+      {
+        "text": "Use grammar and meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Independent clauses joined by comma alone",
+        "is_correct": false
+      },
+      {
+        "text": "Introductory dependent clause not separated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use grammar and meaning. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-025",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A peer feedback session could use either “After eating, the students recorded results.” or “The trial ended; we analysed results.”. Which comparison is most accurate?",
+    "audio_prompt": "A peer feedback session could use either “After eating, the students recorded results.” or “The trial ended; we analysed results.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“After eating, the students recorded results.” shows clarity, while “The trial ended; we analysed results.” shows repair 2.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: clarity versus repair 2.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-026",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Introductory dependent clause not separated” in a cooking demonstration?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Introductory dependent clause not separated” in a cooking demonstration?",
+    "answers": [
+      {
+        "text": "Comma placed at every pause",
+        "is_correct": false
+      },
+      {
+        "text": "Independent clauses joined by comma alone",
+        "is_correct": false
+      },
+      {
+        "text": "Introductory dependent clause not separated",
+        "is_correct": false
+      },
+      {
+        "text": "Add comma for clarity.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Add comma for clarity. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-027",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A arts review could use either “Although the data varied, the pattern remained.” or “If the switch is open, the lamp turns off.”. Which comparison is most accurate?",
+    "audio_prompt": "A arts review could use either “Although the data varied, the pattern remained.” or “If the switch is open, the lamp turns off.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "“Although the data varied, the pattern remained.” shows dependent first, while “If the switch is open, the lamp turns off.” shows missing comma.",
+        "is_correct": true
+      },
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The important difference is the language function: dependent first versus missing comma.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-028",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Comma placed at every pause” in a technology presentation?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Comma placed at every pause” in a technology presentation?",
+    "answers": [
+      {
+        "text": "Comma placed at every pause",
+        "is_correct": false
+      },
+      {
+        "text": "Use grammar and meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Independent clauses joined by comma alone",
+        "is_correct": false
+      },
+      {
+        "text": "Introductory dependent clause not separated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use grammar and meaning. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-029",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_language_choices",
+    "question": "A playground consultation could use either “Mina, check the scale.” or “The trial ended; we analysed results.”. Which comparison is most accurate?",
+    "audio_prompt": "A playground consultation could use either “Mina, check the scale.” or “The trial ended; we analysed results.”. Which comparison is most accurate?",
+    "answers": [
+      {
+        "text": "Both examples must show exactly the same feature because they appear in one text.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer example is automatically more formal and therefore better.",
+        "is_correct": false
+      },
+      {
+        "text": "“Mina, check the scale.” shows direct address, while “The trial ended; we analysed results.” shows repair 2.",
+        "is_correct": true
+      },
+      {
+        "text": "Neither example can be analysed unless the writer explains the answer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The important difference is the language function: direct address versus repair 2.",
+      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-030",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which statement would help you reject the tempting rule “Introductory dependent clause not separated” in a class podcast?",
+    "audio_prompt": "Which statement would help you reject the tempting rule “Introductory dependent clause not separated” in a class podcast?",
+    "answers": [
+      {
+        "text": "Comma placed at every pause",
+        "is_correct": false
+      },
+      {
+        "text": "Independent clauses joined by comma alone",
+        "is_correct": false
+      },
+      {
+        "text": "Introductory dependent clause not separated",
+        "is_correct": false
+      },
+      {
+        "text": "Add comma for clarity.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Add comma for clarity. The tempting rule fails because it ignores context or makes the pattern absolute.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-031",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "repair_splice",
+    "question": "You are editing a community garden proposal. Which sentence contains a comma splice?",
+    "audio_prompt": "You are editing a community garden proposal. Which sentence contains a comma splice?",
+    "answers": [
+      {
+        "text": "The trial ended, and we analysed results.",
+        "is_correct": false
+      },
+      {
+        "text": "After the trial ended, we analysed results.",
+        "is_correct": false
+      },
+      {
+        "text": "The trial ended; we analysed results.",
+        "is_correct": false
+      },
+      {
+        "text": "The trial ended, we analysed results.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“The trial ended, we analysed results.” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-032",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "repair_2",
+    "question": "A sports-club discussion needs a clear example of repair 2. Which wording should you choose?",
+    "audio_prompt": "A sports-club discussion needs a clear example of repair 2. Which wording should you choose?",
+    "answers": [
+      {
+        "text": "The trial ended; we analysed results.",
+        "is_correct": true
+      },
+      {
+        "text": "The trial ended, and we analysed results.",
+        "is_correct": false
+      },
+      {
+        "text": "The trial ended. We analysed results.",
+        "is_correct": false
+      },
+      {
+        "text": "If the switch is open, the lamp turns off.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The trial ended; we analysed results.” is the best choice because it demonstrates repair 2 in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-033",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comma_splice",
+    "question": "While revising a library display, you need language that matches “incorrect joining of independent clauses by comma alone”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a library display, you need language that matches “incorrect joining of independent clauses by comma alone”. Which concept should guide your choice?",
     "answers": [
       {
         "text": "dependent clause",
@@ -66,32 +1239,30 @@
         "is_correct": false
       },
       {
-        "text": "Comma placed at every pause",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "comma splice means incorrect joining of independent clauses by comma alone.",
-      "hint": "Match the definition to the most precise term used in Commas for Lists, Clauses and Clarity."
+      "summary": "comma splice is the concept that matches incorrect joining of independent clauses by comma alone.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-p-003",
+    "id": "AC9E6LA09-P-034",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "mark_dependent_first_clause",
-    "question": "Which sentence contains a comma splice?",
-    "audio_prompt": "Which sentence contains a comma splice?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "punctuate_a_list",
+    "question": "You are editing a museum caption. Which sentence contains a comma splice?",
+    "audio_prompt": "You are editing a museum caption. Which sentence contains a comma splice?",
     "answers": [
       {
         "text": "The trial ended, and we analysed results.",
@@ -106,193 +1277,377 @@
         "is_correct": true
       },
       {
-        "text": "This response does not address the language choice.",
+        "text": "The trial ended; we analysed results.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "This answer applies the relevant language feature accurately.",
+      "summary": "“The trial ended, we analysed results.” best fits the purpose and the language evidence in this new situation.",
       "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-p-004",
+    "id": "AC9E6LA09-P-035",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "misconception_repair",
-    "question": "A student says, “Comma placed at every pause.” Which response best corrects the misunderstanding?",
-    "audio_prompt": "A student says, “Comma placed at every pause.” Which response best corrects the misunderstanding?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "repair_1",
+    "question": "A student council meeting needs a clear example of repair 1. Which wording should you choose?",
+    "audio_prompt": "A student council meeting needs a clear example of repair 1. Which wording should you choose?",
     "answers": [
       {
-        "text": "Use conjunction, semicolon or full stop",
+        "text": "The trial ended; we analysed results.",
         "is_correct": false
       },
       {
-        "text": "Add comma for clarity",
+        "text": "The trial ended. We analysed results.",
         "is_correct": false
       },
       {
-        "text": "Remove unnecessary comma",
+        "text": "If the switch is open, the lamp turns off.",
         "is_correct": false
       },
       {
-        "text": "Use grammar and meaning",
+        "text": "The trial ended, and we analysed results.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Use grammar and meaning",
-      "hint": "Check the concept boundary, not just whether the wording sounds confident."
+      "summary": "“The trial ended, and we analysed results.” is the best choice because it demonstrates repair 1 in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-p-005",
+    "id": "AC9E6LA09-P-036",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_major_comma_functions",
-    "question": "Which pairing accurately reflects the model for Commas for Lists, Clauses and Clarity?",
-    "audio_prompt": "Which pairing accurately reflects the model for Commas for Lists, Clauses and Clarity?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "comma_splice",
+    "question": "While revising a local-history article, you need language that matches “incorrect joining of independent clauses by comma alone”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a local-history article, you need language that matches “incorrect joining of independent clauses by comma alone”. Which concept should guide your choice?",
     "answers": [
       {
-        "text": "list → We measured mass, volume, temperature and time.",
+        "text": "comma splice",
         "is_correct": true
       },
       {
-        "text": "We measured mass, volume, temperature and time. → list",
+        "text": "dependent clause",
         "is_correct": false
       },
       {
-        "text": "dependent first → Although the data varied, the pattern remained.",
+        "text": "supplementary information",
         "is_correct": false
       },
       {
-        "text": "Independent clauses joined by comma alone",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pairing comes directly from the lesson model and preserves the intended relationship.",
-      "hint": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear."
+      "summary": "comma splice is the concept that matches incorrect joining of independent clauses by comma alone.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-p-006",
+    "id": "AC9E6LA09-P-037",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "concept_principle",
-    "question": "Which principle should guide a response about Commas for Lists, Clauses and Clarity?",
-    "audio_prompt": "Which principle should guide a response about Commas for Lists, Clauses and Clarity?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "set_off_supplementary_phrase",
+    "question": "You are editing a environmental campaign. Which sentence contains a comma splice?",
+    "audio_prompt": "You are editing a environmental campaign. Which sentence contains a comma splice?",
     "answers": [
       {
-        "text": "Comma placed at every pause",
+        "text": "The trial ended, and we analysed results.",
         "is_correct": false
       },
       {
-        "text": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear",
+        "text": "The trial ended, we analysed results.",
         "is_correct": true
       },
       {
-        "text": "Independent clauses joined by comma alone",
+        "text": "After the trial ended, we analysed results.",
         "is_correct": false
       },
       {
-        "text": "Introductory dependent clause not separated",
+        "text": "The trial ended; we analysed results.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear",
-      "hint": "Choose the statement that is accurate across the whole concept, not an overgeneralisation."
+      "summary": "“The trial ended, we analysed results.” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-p-007",
+    "id": "AC9E6LA09-P-038",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "guided_application",
-    "question": "Which plan would best complete this task: Punctuate a paragraph containing lists, introductory clauses, supplementary details and one comma splice, explaining each decision?",
-    "audio_prompt": "Which plan would best complete this task: Punctuate a paragraph containing lists, introductory clauses, supplementary details and one comma splice, explaining each decision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "missing_comma",
+    "question": "A book-club discussion needs a clear example of missing comma. Which wording should you choose?",
+    "audio_prompt": "A book-club discussion needs a clear example of missing comma. Which wording should you choose?",
     "answers": [
       {
-        "text": "List features without explaining their effects.",
+        "text": "The trial ended, and we analysed results.",
         "is_correct": false
       },
       {
-        "text": "Give a personal preference without textual evidence.",
+        "text": "The trial ended; we analysed results.",
         "is_correct": false
       },
       {
-        "text": "Use the named features, relevant evidence and an explanation of how each choice shapes meaning.",
+        "text": "If the switch is open, the lamp turns off.",
         "is_correct": true
       },
       {
-        "text": "Discuss a different topic instead of the stated task.",
+        "text": "The trial ended. We analysed results.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A complete response combines relevant evidence with an explanation tied to the task.",
-      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+      "summary": "“If the switch is open, the lamp turns off.” is the best choice because it demonstrates missing comma in context.",
+      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-p-008",
+    "id": "AC9E6LA09-P-039",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "practice",
-    "skill": "reasoning",
-    "question": "Which evidence would best show secure understanding of Commas for Lists, Clauses and Clarity?",
-    "audio_prompt": "Which evidence would best show secure understanding of Commas for Lists, Clauses and Clarity?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "comma_splice",
+    "question": "While revising a excursion briefing, you need language that matches “incorrect joining of independent clauses by comma alone”. Which concept should guide your choice?",
+    "audio_prompt": "While revising a excursion briefing, you need language that matches “incorrect joining of independent clauses by comma alone”. Which concept should guide your choice?",
     "answers": [
+      {
+        "text": "dependent clause",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary information",
+        "is_correct": false
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      },
+      {
+        "text": "comma splice",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "comma splice is the concept that matches incorrect joining of independent clauses by comma alone.",
+      "hint": "Use the definition to guide the decision, then check it against the sentence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-040",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "mark_dependent_first_clause",
+    "question": "You are editing a design project. Which sentence contains a comma splice?",
+    "audio_prompt": "You are editing a design project. Which sentence contains a comma splice?",
+    "answers": [
+      {
+        "text": "The trial ended, we analysed results.",
+        "is_correct": true
+      },
+      {
+        "text": "The trial ended, and we analysed results.",
+        "is_correct": false
+      },
+      {
+        "text": "After the trial ended, we analysed results.",
+        "is_correct": false
+      },
+      {
+        "text": "The trial ended; we analysed results.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“The trial ended, we analysed results.” best fits the purpose and the language evidence in this new situation.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-001",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "repair_3",
+    "question": "A community radio segment includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "audio_prompt": "A community radio segment includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "list",
+        "is_correct": false
+      },
+      {
+        "text": "repair 3",
+        "is_correct": true
+      },
+      {
+        "text": "dependent first",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary phrase",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wording best matches repair 3.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-002",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "comma_splice",
+    "question": "In a wildlife-centre report, which term matches this meaning: “incorrect joining of independent clauses by comma alone”?",
+    "audio_prompt": "In a wildlife-centre report, which term matches this meaning: “incorrect joining of independent clauses by comma alone”?",
+    "answers": [
+      {
+        "text": "dependent clause",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary information",
+        "is_correct": false
+      },
+      {
+        "text": "comma splice",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "comma splice is the precise term for incorrect joining of independent clauses by comma alone.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-003",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "commas_for_lists_clauses_and_clarity",
+    "question": "For a regional youth forum, which sentence is punctuated correctly?",
+    "audio_prompt": "For a regional youth forum, which sentence is punctuated correctly?",
+    "answers": [
+      {
+        "text": "Although, the data varied the pattern remained.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the data, varied the pattern remained.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the data varied the pattern, remained.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the data varied, the pattern remained.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-004",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a coastal-monitoring update says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a coastal-monitoring update says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Use conjunction, semicolon or full stop.",
+        "is_correct": true
+      },
       {
         "text": "Comma placed at every pause",
         "is_correct": false
@@ -304,315 +1659,472 @@
       {
         "text": "Introductory dependent clause not separated",
         "is_correct": false
-      },
-      {
-        "text": "Students distinguish list commas, introductory dependent-clause commas, supplementary information and ambiguity-reducing punctuation, while avoiding comma splices The response also explains its evidence and limitations.",
-        "is_correct": true
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Secure understanding is visible when a student applies the concept and explains the evidence used.",
-      "hint": "Look for application and explanation rather than a feature name alone."
+      "summary": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-t-001",
+    "id": "AC9E6LA09-T-005",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
+    "skill": "repair_3",
+    "question": "A heritage trail guide includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "audio_prompt": "A heritage trail guide includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "list",
+        "is_correct": false
+      },
+      {
+        "text": "repair 3",
+        "is_correct": true
+      },
+      {
+        "text": "dependent first",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary phrase",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wording best matches repair 3.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-006",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
     "skill": "dependent_clause",
-    "question": "In a new text, which definition correctly identifies dependent clause?",
-    "audio_prompt": "In a new text, which definition correctly identifies dependent clause?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "question": "In a public-transport survey, which term matches this meaning: “clause relying on a main clause”?",
+    "audio_prompt": "In a public-transport survey, which term matches this meaning: “clause relying on a main clause”?",
     "answers": [
       {
-        "text": "Clause relying on a main clause",
-        "is_correct": true
-      },
-      {
-        "text": "Incorrect joining of independent clauses by comma alone",
+        "text": "comma splice",
         "is_correct": false
       },
       {
-        "text": "Non-essential added detail often set off by commas",
+        "text": "supplementary information",
+        "is_correct": false
+      },
+      {
+        "text": "dependent clause",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "dependent clause is the precise term for clause relying on a main clause.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-007",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "commas_for_lists_clauses_and_clarity",
+    "question": "For a festival review, which sentence is punctuated correctly?",
+    "audio_prompt": "For a festival review, which sentence is punctuated correctly?",
+    "answers": [
+      {
+        "text": "Although, the data varied the pattern remained.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the data, varied the pattern remained.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the data varied the pattern, remained.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the data varied, the pattern remained.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-008",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a emergency-preparedness talk says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a emergency-preparedness talk says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Use conjunction, semicolon or full stop.",
+        "is_correct": true
+      },
+      {
+        "text": "Comma placed at every pause",
         "is_correct": false
       },
       {
         "text": "Independent clauses joined by comma alone",
         "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "dependent clause means clause relying on a main clause.",
-      "hint": "Distinguish this term from related features in the unit."
-    }
-  },
-  {
-    "id": "ac9e6la09-t-002",
-    "curriculum_code": "AC9E6LA09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "diagnosis",
-    "question": "A response shows this problem: “Independent clauses joined by comma alone.” What is the most effective revision?",
-    "audio_prompt": "A response shows this problem: “Independent clauses joined by comma alone.” What is the most effective revision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use grammar and meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Use conjunction, semicolon or full stop",
-        "is_correct": true
-      },
-      {
-        "text": "Add comma for clarity",
-        "is_correct": false
-      },
-      {
-        "text": "Keep the response unchanged because the issue does not affect meaning.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use conjunction, semicolon or full stop",
-      "hint": "Choose the repair that directly addresses the diagnosed problem."
-    }
-  },
-  {
-    "id": "ac9e6la09-t-003",
-    "curriculum_code": "AC9E6LA09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "compare_major_comma_functions",
-    "question": "Which interpretation of this model element is accurate: “dependent first → Although the data varied, the pattern remained.”?",
-    "audio_prompt": "Which interpretation of this model element is accurate: “dependent first → Although the data varied, the pattern remained.”?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The first part is decorative and can be ignored.",
-        "is_correct": false
-      },
-      {
-        "text": "The second part always has the same effect in every text.",
-        "is_correct": false
-      },
-      {
-        "text": "It shows a deliberate relationship within Commas for Lists, Clauses and Clarity, so both parts must be interpreted together.",
-        "is_correct": true
-      },
-      {
-        "text": "The pairing proves that no alternative interpretation is possible.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The model links the feature to its contextual function without claiming a universal effect.",
-      "hint": "A comma signals structure, not every spoken pause. Conventions vary slightly, but the grammatical relationship should remain clear."
-    }
-  },
-  {
-    "id": "ac9e6la09-t-004",
-    "curriculum_code": "AC9E6LA09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "identify_and_repair_comma_errors",
-    "question": "When applying Commas for Lists, Clauses and Clarity to an unfamiliar text, which analytical move is strongest?",
-    "audio_prompt": "When applying Commas for Lists, Clauses and Clarity to an unfamiliar text, which analytical move is strongest?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Name a feature and stop.",
-        "is_correct": false
-      },
-      {
-        "text": "Assume every audience responds identically.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace analysis with an unsupported personal judgement.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify the specific choice, cite relevant evidence and explain its contextual effect.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strong analysis connects a specific choice and evidence to a contextual effect.",
-      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
-    }
-  },
-  {
-    "id": "ac9e6la09-t-005",
-    "curriculum_code": "AC9E6LA09",
-    "year_level": "Year 6",
-    "subject": "english",
-    "bank": "test",
-    "skill": "supplementary_information",
-    "question": "Which example best demonstrates an understanding of supplementary information?",
-    "audio_prompt": "Which example best demonstrates an understanding of supplementary information?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Non-essential added detail often set off by commas, identified using evidence from the text.",
-        "is_correct": true
       },
       {
         "text": "Introductory dependent clause not separated",
         "is_correct": false
-      },
-      {
-        "text": "Subject and verb separated",
-        "is_correct": false
-      },
-      {
-        "text": "A general comment that does not use the text.",
-        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "supplementary information is non-essential added detail often set off by commas.",
-      "hint": "Select the response that applies the definition and uses evidence."
-    }
+      "summary": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "verify",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-t-006",
+    "id": "AC9E6LA09-T-009",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "transfer",
-    "question": "Which conclusion stays within the evidence when analysing Commas for Lists, Clauses and Clarity?",
-    "audio_prompt": "Which conclusion stays within the evidence when analysing Commas for Lists, Clauses and Clarity?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "repair_3",
+    "question": "A water-saving brochure includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "audio_prompt": "A water-saving brochure includes “The trial ended. We analysed results.”. Which description best fits this wording?",
     "answers": [
       {
-        "text": "This single example proves the rule applies identically everywhere.",
+        "text": "list",
         "is_correct": false
       },
       {
-        "text": "The evidence supports this interpretation, although context may allow another defensible reading.",
+        "text": "repair 3",
         "is_correct": true
       },
       {
-        "text": "The writer's choice guarantees the same reaction from every reader.",
+        "text": "dependent first",
         "is_correct": false
       },
       {
-        "text": "No evidence is needed because the interpretation sounds reasonable.",
+        "text": "supplementary phrase",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A defensible conclusion uses evidence and acknowledges reasonable limits.",
-      "hint": "Avoid absolute claims unless the evidence genuinely supports them."
-    }
+      "summary": "The wording best matches repair 3.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-t-007",
+    "id": "AC9E6LA09-T-010",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "extended_analysis",
-    "question": "Which response plan best addresses this challenge: Create sentence pairs where comma placement changes meaning, then explain the grammatical distinction?",
-    "audio_prompt": "Which response plan best addresses this challenge: Create sentence pairs where comma placement changes meaning, then explain the grammatical distinction?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "supplementary_information",
+    "question": "In a local council submission, which term matches this meaning: “non-essential added detail often set off by commas”?",
+    "audio_prompt": "In a local council submission, which term matches this meaning: “non-essential added detail often set off by commas”?",
     "answers": [
       {
-        "text": "Copy the lesson example without adapting it.",
+        "text": "comma splice",
         "is_correct": false
       },
       {
-        "text": "Add several unrelated features and do not explain them.",
+        "text": "dependent clause",
         "is_correct": false
       },
       {
-        "text": "Make an original, purposeful choice, apply the unit's techniques consistently and annotate the resulting effects.",
+        "text": "supplementary information",
         "is_correct": true
       },
       {
-        "text": "Describe the task but do not produce or analyse a response.",
+        "text": "It does not match the evidence in the example.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The challenge requires controlled transfer of the concept plus an explanation of the choices made.",
-      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
-    }
+      "summary": "supplementary information is the precise term for non-essential added detail often set off by commas.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-authored-v1"
   },
   {
-    "id": "ac9e6la09-t-008",
+    "id": "AC9E6LA09-T-011",
     "curriculum_code": "AC9E6LA09",
     "year_level": "Year 6",
     "subject": "english",
     "bank": "test",
-    "skill": "critical_evaluation",
-    "question": "Which approach best addresses this evaluation: Compare comma conventions in two reputable style contexts while preserving clarity and sentence structure?",
-    "audio_prompt": "Which approach best addresses this evaluation: Compare comma conventions in two reputable style contexts while preserving clarity and sentence structure?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "apply",
+    "skill": "commas_for_lists_clauses_and_clarity",
+    "question": "For a marine-research diary, which sentence is punctuated correctly?",
+    "audio_prompt": "For a marine-research diary, which sentence is punctuated correctly?",
     "answers": [
       {
-        "text": "Choose a preferred answer before examining evidence.",
+        "text": "Although, the data varied the pattern remained.",
         "is_correct": false
       },
       {
-        "text": "Summarise each example without comparing it.",
+        "text": "Although the data, varied the pattern remained.",
         "is_correct": false
       },
       {
-        "text": "Treat one feature as proof of the whole judgement.",
+        "text": "Although the data varied the pattern, remained.",
         "is_correct": false
       },
       {
-        "text": "Use explicit criteria, compare relevant evidence and qualify the final judgement.",
+        "text": "Although the data varied, the pattern remained.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Evaluation requires criteria, comparative evidence and a proportionate conclusion.",
-      "hint": "Build the judgement from evidence rather than preference."
-    }
+      "summary": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-012",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a farmers market profile says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a farmers market profile says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Use conjunction, semicolon or full stop.",
+        "is_correct": true
+      },
+      {
+        "text": "Comma placed at every pause",
+        "is_correct": false
+      },
+      {
+        "text": "Independent clauses joined by comma alone",
+        "is_correct": false
+      },
+      {
+        "text": "Introductory dependent clause not separated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-013",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "repair_3",
+    "question": "A astronomy exhibition includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "audio_prompt": "A astronomy exhibition includes “The trial ended. We analysed results.”. Which description best fits this wording?",
+    "answers": [
+      {
+        "text": "list",
+        "is_correct": false
+      },
+      {
+        "text": "repair 3",
+        "is_correct": true
+      },
+      {
+        "text": "dependent first",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary phrase",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wording best matches repair 3.",
+      "hint": "Identify the language choice first, then check its effect in this context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-014",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "comma_splice",
+    "question": "In a river-restoration update, which term matches this meaning: “incorrect joining of independent clauses by comma alone”?",
+    "audio_prompt": "In a river-restoration update, which term matches this meaning: “incorrect joining of independent clauses by comma alone”?",
+    "answers": [
+      {
+        "text": "dependent clause",
+        "is_correct": false
+      },
+      {
+        "text": "supplementary information",
+        "is_correct": false
+      },
+      {
+        "text": "comma splice",
+        "is_correct": true
+      },
+      {
+        "text": "It does not match the evidence in the example.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "comma splice is the precise term for incorrect joining of independent clauses by comma alone.",
+      "hint": "Distinguish closely related terms by their definitions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-015",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "commas_for_lists_clauses_and_clarity",
+    "question": "For a cycling-safety campaign, which sentence is punctuated correctly?",
+    "audio_prompt": "For a cycling-safety campaign, which sentence is punctuated correctly?",
+    "answers": [
+      {
+        "text": "Although, the data varied the pattern remained.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the data, varied the pattern remained.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the data varied the pattern, remained.",
+        "is_correct": false
+      },
+      {
+        "text": "Although the data varied, the pattern remained.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Although the data varied, the pattern remained.” is supported by the language evidence and purpose of the text.",
+      "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-T-016",
+    "curriculum_code": "AC9E6LA09",
+    "year_level": "Year 6",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "independent_misconception_check",
+    "question": "A writer preparing a neighbourhood history podcast says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "audio_prompt": "A writer preparing a neighbourhood history podcast says, “Independent clauses joined by comma alone”. Which response is most accurate?",
+    "answers": [
+      {
+        "text": "Use conjunction, semicolon or full stop.",
+        "is_correct": true
+      },
+      {
+        "text": "Comma placed at every pause",
+        "is_correct": false
+      },
+      {
+        "text": "Independent clauses joined by comma alone",
+        "is_correct": false
+      },
+      {
+        "text": "Introductory dependent clause not separated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use conjunction, semicolon or full stop. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
+      "hint": "Check whether the statement makes an unjustified always/never rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-authored-v1"
   }
 ]
