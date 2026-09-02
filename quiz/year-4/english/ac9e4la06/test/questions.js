@@ -4,28 +4,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-001",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "new text 1 apply",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment text, Which is a complete complex sentence?",
-    "audioPrompt": "In a new assessment text, Which is a complete complex sentence?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 1. Notice: Identify clause types. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 1. Notice: Identify clause types. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-001",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 1. Notice: Identify clause types. Choose the response supported by the example."
-    },
+    "question": "New context: combining ideas about a science experiment. Which option is correct?",
+    "audioPrompt": "New context: combining ideas about a science experiment. Which option is correct?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Because the rain intensified.",
-      "The match stopped and.",
-      "Because the rain intensified, the match stopped."
+      "After the ice melted, we measured the water.",
+      "After the ice melted.",
+      "We measured because after the ice."
     ],
-    "correct": 2,
-    "explanation": "The evidence and language purpose support “Because the rain intensified, the match stopped.”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "correct": 0,
+    "explanation": "After introduces a dependent time clause and the main clause completes the sentence.\nHint: Check that the sentence has one complete clause plus the added time detail.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “Because the rain intensified, the match stopped.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
+      "hint": "Check that the sentence has one complete clause plus the added time detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-002",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "new text 1 reason",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Because the rain intensified.”. Which feedback helps? Task: In a new assessment text, Which is a complete complex sentence?",
-    "audioPrompt": "A student answers “Because the rain intensified.”. Which feedback helps? Task: In a new assessment text, Which is a complete complex sentence?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 1. Notice: Identify clause types. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 1. Notice: Identify clause types. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-002",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 1. Notice: Identify clause types. Correct the student's mix-up using the full task."
-    },
+    "question": "What is the best choice for combining ideas about a science experiment?",
+    "audioPrompt": "What is the best choice for combining ideas about a science experiment?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Because the rain intensified, the match stopped.”.",
-      "Keep “Because the rain intensified.”; it uses a detail that sounds familiar.",
-      "Choose “The match stopped and.” instead; it sounds clearer."
+      "After the ice melted.",
+      "After the ice melted, we measured the water.",
+      "We measured because after the ice."
     ],
-    "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Because the rain intensified, the match stopped.”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 1,
+    "explanation": "After introduces a dependent time clause and the main clause completes the sentence.\nHint: Check that the sentence has one complete clause plus the added time detail.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Because the rain intensified, the match stopped.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
+      "hint": "Check that the sentence has one complete clause plus the added time detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-003",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "new text 2 apply",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment text, Which conjunction best signals a condition?",
-    "audioPrompt": "In a new assessment text, Which conjunction best signals a condition?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 2. Notice: Use subordinating conjunctions. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 2. Notice: Use subordinating conjunctions. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-003",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 2. Notice: Use subordinating conjunctions. Choose the response supported by the example."
-    },
+    "question": "Which explanation best supports “After the ice melted, we measured the water.” in combining ideas about a science experiment?",
+    "audioPrompt": "Which explanation best supports “After the ice melted, we measured the water.” in combining ideas about a science experiment?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "because",
-      "if",
-      "when only"
+      "Because “After the ice melted.” is always a safe choice.",
+      "Because surface appearance matters more than meaning.",
+      "After introduces a dependent time clause and the main clause completes the sentence."
     ],
-    "correct": 1,
-    "explanation": "The evidence and language purpose support “if”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "correct": 2,
+    "explanation": "After introduces a dependent time clause and the main clause completes the sentence.\nHint: Check that the sentence has one complete clause plus the added time detail.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “if”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
+      "hint": "Check that the sentence has one complete clause plus the added time detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-004",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "new text 2 reason",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "A student answers “when only”. Which feedback helps? Task: In a new assessment text, Which conjunction best signals a condition?",
-    "audioPrompt": "A student answers “when only”. Which feedback helps? Task: In a new assessment text, Which conjunction best signals a condition?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 2. Notice: Use subordinating conjunctions. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 2. Notice: Use subordinating conjunctions. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-004",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: New text 2. Notice: Use subordinating conjunctions. Correct the student's mix-up using the full task."
-    },
+    "question": "Which clue should guide your decision in combining ideas about a science experiment?",
+    "audioPrompt": "Which clue should guide your decision in combining ideas about a science experiment?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “when only”; it uses a detail that sounds familiar.",
-      "Choose “because” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “if”."
+      "Check that the sentence has one complete clause plus the added time detail.",
+      "Choose the option with the most words.",
+      "Ignore the context and use the first familiar form."
     ],
-    "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “if”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "After introduces a dependent time clause and the main clause completes the sentence.\nHint: Check that the sentence has one complete clause plus the added time detail.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “if”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
+      "hint": "Check that the sentence has one complete clause plus the added time detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-005",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "misconception 1 apply",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “A long sentence is automatically complex”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “A long sentence is automatically complex”. Which response gives the most accurate correction?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 1. Notice: Express time/cause/condition/contrast. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 1. Notice: Express time/cause/condition/contrast. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-005",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 1. Notice: Express time/cause/condition/contrast. Choose the response supported by the example."
-    },
+    "question": "Which option would you reject first in combining ideas about a science experiment?",
+    "audioPrompt": "Which option would you reject first in combining ideas about a science experiment?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Complexity depends on clause relationships, not length.",
-      "A long sentence is automatically complex",
-      "Dependent clause treated as complete sentence"
+      "After the ice melted, we measured the water.",
+      "After the ice melted.",
+      "We measured because after the ice."
     ],
-    "correct": 0,
-    "explanation": "Complexity depends on clause relationships, not length.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 1,
+    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. After introduces a dependent time clause and the main clause completes the sentence.\nHint: Check that the sentence has one complete clause plus the added time detail.",
     "structuredExplanation": {
-      "summary": "Complexity depends on clause relationships, not length.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. After introduces a dependent time clause and the main clause completes the sentence.",
+      "hint": "Check that the sentence has one complete clause plus the added time detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-006",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "misconception 1 reason",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "A student answers “A long sentence is automatically complex”. Which feedback helps? Task: An editor reviewing a new text claims, “A long sentence is automatically complex”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “A long sentence is automatically complex”. Which feedback helps? Task: An editor reviewing a new text claims, “A long sentence is automatically complex”. Which response gives the most accurate correction?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 1. Notice: Express time/cause/condition/contrast. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 1. Notice: Express time/cause/condition/contrast. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-006",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 1. Notice: Express time/cause/condition/contrast. Correct the student's mix-up using the full task."
-    },
+    "question": "Which correction should replace “After the ice melted.” in combining ideas about a science experiment?",
+    "audioPrompt": "Which correction should replace “After the ice melted.” in combining ideas about a science experiment?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “A long sentence is automatically complex”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Complexity depends on clause relationships, not length.",
-      "Choose “Dependent clause treated as complete sentence” instead; it sounds clearer."
+      "After the ice melted.",
+      "We measured because after the ice.",
+      "After the ice melted, we measured the water."
     ],
-    "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Complexity depends on clause relationships, not length.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 2,
+    "explanation": "After introduces a dependent time clause and the main clause completes the sentence.\nHint: Check that the sentence has one complete clause plus the added time detail.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Complexity depends on clause relationships, not length.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
+      "hint": "Check that the sentence has one complete clause plus the added time detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-007",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "misconception 2 apply",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Dependent clause treated as complete sentence”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Dependent clause treated as complete sentence”. Which response gives the most accurate correction?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 2. Notice: Vary clause order. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 2. Notice: Vary clause order. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-007",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 2. Notice: Vary clause order. Choose the response supported by the example."
-    },
+    "question": "Apply the skill to combining ideas about a science experiment: what should you choose?",
+    "audioPrompt": "Apply the skill to combining ideas about a science experiment: what should you choose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Dependent clause treated as complete sentence",
-      "Conjunction chosen for sound only",
-      "It needs an independent clause unless used deliberately in dialogue or style."
+      "After the ice melted, we measured the water.",
+      "After the ice melted.",
+      "We measured because after the ice."
     ],
-    "correct": 2,
-    "explanation": "It needs an independent clause unless used deliberately in dialogue or style.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 0,
+    "explanation": "After introduces a dependent time clause and the main clause completes the sentence.\nHint: Check that the sentence has one complete clause plus the added time detail.",
     "structuredExplanation": {
-      "summary": "It needs an independent clause unless used deliberately in dialogue or style.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
+      "hint": "Check that the sentence has one complete clause plus the added time detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-008",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "misconception 2 reason",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Conjunction chosen for sound only”. Which feedback helps? Task: An editor reviewing a new text claims, “Dependent clause treated as complete sentence”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Conjunction chosen for sound only”. Which feedback helps? Task: An editor reviewing a new text claims, “Dependent clause treated as complete sentence”. Which response gives the most accurate correction?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 2. Notice: Vary clause order. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 2. Notice: Vary clause order. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-008",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 2. Notice: Vary clause order. Correct the student's mix-up using the full task."
-    },
+    "question": "Which final choice gives the clearest and most accurate result for combining ideas about a science experiment?",
+    "audioPrompt": "Which final choice gives the clearest and most accurate result for combining ideas about a science experiment?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It needs an independent clause unless used deliberately in dialogue or style.",
-      "Keep “Conjunction chosen for sound only”; it uses a detail that sounds familiar.",
-      "Choose “Dependent clause treated as complete sentence” instead; it sounds clearer."
+      "After the ice melted.",
+      "After the ice melted, we measured the water.",
+      "We measured because after the ice."
     ],
-    "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It needs an independent clause unless used deliberately in dialogue or style.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 1,
+    "explanation": "After introduces a dependent time clause and the main clause completes the sentence.\nHint: Check that the sentence has one complete clause plus the added time detail.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It needs an independent clause unless used deliberately in dialogue or style.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
+      "hint": "Check that the sentence has one complete clause plus the added time detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-009",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "misconception 3 apply",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Conjunction chosen for sound only”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Conjunction chosen for sound only”. Which response gives the most accurate correction?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 3. Notice: Punctuate for clarity. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 3. Notice: Punctuate for clarity. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-009",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 3. Notice: Punctuate for clarity. Choose the response supported by the example."
-    },
+    "question": "New context: writing a safety instruction for a storm. Which option is correct?",
+    "audioPrompt": "New context: writing a safety instruction for a storm. Which option is correct?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Conjunction chosen for sound only",
-      "It must express the intended logical relationship.",
-      "Comma inserted before every conjunction"
+      "Until the thunderstorm has passed.",
+      "Stay indoors and until thunderstorm.",
+      "Stay indoors until the thunderstorm has passed."
     ],
-    "correct": 1,
-    "explanation": "It must express the intended logical relationship.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 2,
+    "explanation": "Until creates a time relationship and depends on the independent command stay indoors.\nHint: A dependent clause adds detail but usually cannot stand alone.",
     "structuredExplanation": {
-      "summary": "It must express the intended logical relationship.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
+      "hint": "A dependent clause adds detail but usually cannot stand alone."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-010",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "misconception 3 reason",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Conjunction chosen for sound only”. Which feedback helps? Task: An editor reviewing a new text claims, “Conjunction chosen for sound only”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Conjunction chosen for sound only”. Which feedback helps? Task: An editor reviewing a new text claims, “Conjunction chosen for sound only”. Which response gives the most accurate correction?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 3. Notice: Punctuate for clarity. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 3. Notice: Punctuate for clarity. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-010",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 3. Notice: Punctuate for clarity. Correct the student's mix-up using the full task."
-    },
+    "question": "What is the best choice for writing a safety instruction for a storm?",
+    "audioPrompt": "What is the best choice for writing a safety instruction for a storm?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Conjunction chosen for sound only”; it uses a detail that sounds familiar.",
-      "Choose “Comma inserted before every conjunction” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It must express the intended logical relationship."
+      "Stay indoors until the thunderstorm has passed.",
+      "Until the thunderstorm has passed.",
+      "Stay indoors and until thunderstorm."
     ],
-    "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It must express the intended logical relationship.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "Until creates a time relationship and depends on the independent command stay indoors.\nHint: A dependent clause adds detail but usually cannot stand alone.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It must express the intended logical relationship.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
+      "hint": "A dependent clause adds detail but usually cannot stand alone."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-011",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "misconception 4 apply",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Comma inserted before every conjunction”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Comma inserted before every conjunction”. Which response gives the most accurate correction?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 4. Notice: Identify clause types. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 4. Notice: Identify clause types. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-011",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 4. Notice: Identify clause types. Choose the response supported by the example."
-    },
+    "question": "Which explanation best supports “Stay indoors until the thunderstorm has passed.” in writing a safety instruction for a storm?",
+    "audioPrompt": "Which explanation best supports “Stay indoors until the thunderstorm has passed.” in writing a safety instruction for a storm?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Punctuation depends on conjunction type and clause order.",
-      "Comma inserted before every conjunction",
-      "A long sentence is automatically complex"
+      "Because “Until the thunderstorm has passed.” is always a safe choice.",
+      "Until creates a time relationship and depends on the independent command stay indoors.",
+      "Because surface appearance matters more than meaning."
     ],
-    "correct": 0,
-    "explanation": "Punctuation depends on conjunction type and clause order.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 1,
+    "explanation": "Until creates a time relationship and depends on the independent command stay indoors.\nHint: A dependent clause adds detail but usually cannot stand alone.",
     "structuredExplanation": {
-      "summary": "Punctuation depends on conjunction type and clause order.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
+      "hint": "A dependent clause adds detail but usually cannot stand alone."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-012",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "misconception 4 reason",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "A student answers “A long sentence is automatically complex”. Which feedback helps? Task: An editor reviewing a new text claims, “Comma inserted before every conjunction”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “A long sentence is automatically complex”. Which feedback helps? Task: An editor reviewing a new text claims, “Comma inserted before every conjunction”. Which response gives the most accurate correction?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 4. Notice: Identify clause types. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 4. Notice: Identify clause types. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-012",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Misconception 4. Notice: Identify clause types. Correct the student's mix-up using the full task."
-    },
+    "question": "Which clue should guide your decision in writing a safety instruction for a storm?",
+    "audioPrompt": "Which clue should guide your decision in writing a safety instruction for a storm?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “A long sentence is automatically complex”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Punctuation depends on conjunction type and clause order.",
-      "Choose “Comma inserted before every conjunction” instead; it sounds clearer."
+      "Choose the option with the most words.",
+      "Ignore the context and use the first familiar form.",
+      "A dependent clause adds detail but usually cannot stand alone."
     ],
-    "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Punctuation depends on conjunction type and clause order.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 2,
+    "explanation": "Until creates a time relationship and depends on the independent command stay indoors.\nHint: A dependent clause adds detail but usually cannot stand alone.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Punctuation depends on conjunction type and clause order.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
+      "hint": "A dependent clause adds detail but usually cannot stand alone."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-013",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "clause colour code apply",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "A different class adapts “Clause colour-code”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A different class adapts “Clause colour-code”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Clause colour-code. Notice: Use subordinating conjunctions. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Clause colour-code. Notice: Use subordinating conjunctions. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-013",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Clause colour-code. Notice: Use subordinating conjunctions. Choose the response supported by the example."
-    },
+    "question": "Which option would you reject first in writing a safety instruction for a storm?",
+    "audioPrompt": "Which option would you reject first in writing a safety instruction for a storm?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Mark subjects, verb groups and clause boundaries; test which clauses can stand independently."
+      "Until the thunderstorm has passed.",
+      "Stay indoors until the thunderstorm has passed.",
+      "Stay indoors and until thunderstorm."
     ],
-    "correct": 2,
-    "explanation": "Mark subjects, verb groups and clause boundaries; test which clauses can stand independently.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "correct": 0,
+    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. Until creates a time relationship and depends on the independent command stay indoors.\nHint: A dependent clause adds detail but usually cannot stand alone.",
     "structuredExplanation": {
-      "summary": "Mark subjects, verb groups and clause boundaries; test which clauses can stand independently.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Until creates a time relationship and depends on the independent command stay indoors.",
+      "hint": "A dependent clause adds detail but usually cannot stand alone."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-014",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "clause colour code reason",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Clause colour-code”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Clause colour-code”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Clause colour-code. Notice: Use subordinating conjunctions. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Clause colour-code. Notice: Use subordinating conjunctions. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-014",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Clause colour-code. Notice: Use subordinating conjunctions. Correct the student's mix-up using the full task."
-    },
+    "question": "Which correction should replace “Until the thunderstorm has passed.” in writing a safety instruction for a storm?",
+    "audioPrompt": "Which correction should replace “Until the thunderstorm has passed.” in writing a safety instruction for a storm?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Mark subjects, verb groups and clause boundaries; test which clauses can stand independently.",
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Until the thunderstorm has passed.",
+      "Stay indoors until the thunderstorm has passed.",
+      "Stay indoors and until thunderstorm."
     ],
-    "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Mark subjects, verb groups and clause boundaries; test which clauses can stand independently.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 1,
+    "explanation": "Until creates a time relationship and depends on the independent command stay indoors.\nHint: A dependent clause adds detail but usually cannot stand alone.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark subjects, verb groups and clause boundaries; test which clauses can stand independently.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
+      "hint": "A dependent clause adds detail but usually cannot stand alone."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-015",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "relationship switch apply",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "A different class adapts “Relationship switch”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A different class adapts “Relationship switch”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Relationship switch. Notice: Express time/cause/condition/contrast. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Relationship switch. Notice: Express time/cause/condition/contrast. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-015",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Relationship switch. Notice: Express time/cause/condition/contrast. Choose the response supported by the example."
-    },
+    "question": "Apply the skill to writing a safety instruction for a storm: what should you choose?",
+    "audioPrompt": "Apply the skill to writing a safety instruction for a storm: what should you choose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Join the same ideas with because, when, if and although, then explain how meaning changes.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Until the thunderstorm has passed.",
+      "Stay indoors and until thunderstorm.",
+      "Stay indoors until the thunderstorm has passed."
     ],
-    "correct": 1,
-    "explanation": "Join the same ideas with because, when, if and although, then explain how meaning changes.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "correct": 2,
+    "explanation": "Until creates a time relationship and depends on the independent command stay indoors.\nHint: A dependent clause adds detail but usually cannot stand alone.",
     "structuredExplanation": {
-      "summary": "Join the same ideas with because, when, if and although, then explain how meaning changes.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
+      "hint": "A dependent clause adds detail but usually cannot stand alone."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la06-t-016",
     "curriculumCode": "AC9E4LA06",
     "bank": "test",
-    "skill": "relationship switch reason",
+    "skill": "Complex Sentences: Independent and Dependent Clauses",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Relationship switch”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Relationship switch”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Relationship switch. Notice: Express time/cause/condition/contrast. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Relationship switch. Notice: Express time/cause/condition/contrast. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la06.svg#ac9e4la06-t-016",
-      "alt_text": "Three-step Complex Sentences: Independent and Dependent Clauses organiser. Read: Relationship switch. Notice: Express time/cause/condition/contrast. Correct the student's mix-up using the full task."
-    },
+    "question": "Which final choice gives the clearest and most accurate result for writing a safety instruction for a storm?",
+    "audioPrompt": "Which final choice gives the clearest and most accurate result for writing a safety instruction for a storm?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Join the same ideas with because, when, if and although, then explain how meaning changes."
+      "Stay indoors until the thunderstorm has passed.",
+      "Until the thunderstorm has passed.",
+      "Stay indoors and until thunderstorm."
     ],
-    "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Join the same ideas with because, when, if and although, then explain how meaning changes.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "Until creates a time relationship and depends on the independent command stay indoors.\nHint: A dependent clause adds detail but usually cannot stand alone.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Join the same ideas with because, when, if and although, then explain how meaning changes.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
+      "hint": "A dependent clause adds detail but usually cannot stand alone."
     },
     "qualitySchema": "production-v1"
   }

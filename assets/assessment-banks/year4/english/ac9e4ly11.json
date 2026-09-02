@@ -5,14 +5,10 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "worked_text_1_apply",
-    "question": "Read the classroom example. Which word completes ‘the missing word going to present today’?",
-    "audio_prompt": "Read the classroom example. Which word completes ‘the missing word going to present today’?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-001",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Worked text 1. Notice: Spell high-frequency words. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "In completing “_____ going to the pool after lunch.”, which option best demonstrates the skill?",
+    "audio_prompt": "In completing “_____ going to the pool after lunch.”, which option best demonstrates the skill?",
     "answers": [
       {
         "text": "They’re",
@@ -27,19 +23,11 @@
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled T, H, E, Y, R, E. The word or phrase reads: They’re",
-      "The written choice is spelled T, H, E, I, R. The word or phrase reads: Their",
-      "The written choice is spelled T, H, E, R, E. The word or phrase reads: There"
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “They’re”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
   },
   {
     "id": "AC9E4LY11-P-002",
@@ -47,41 +35,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "worked_text_1_reason",
-    "question": "A student answers “Their”. Which feedback helps? Task: Read the classroom example. Which word completes ‘the missing word going to present today’?",
-    "audio_prompt": "A student answers “Their”. Which feedback helps? Task: Read the classroom example. Which word completes ‘the missing word going to present today’?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-002",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Worked text 1. Notice: Spell high-frequency words. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which choice fits completing “_____ going to the pool after lunch.” most accurately?",
+    "audio_prompt": "Which choice fits completing “_____ going to the pool after lunch.” most accurately?",
     "answers": [
       {
-        "text": "Keep “Their”; it uses a detail that sounds familiar.",
+        "text": "Their",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “They’re”.",
+        "text": "They’re",
         "is_correct": true
       },
       {
-        "text": "Choose “There” instead; it sounds clearer.",
+        "text": "There",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, T, H, E, I, R, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Their”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, E, C, K, T, H, E, W, H, O, L, E, S, E, N, T, E, N, C, E, O, R, T, E, X, T, F, E, A, T, U, R, E, T, H, E, N, T, E, S, T, M, E, A, N, I, N, G, A, N, D, G, R, A, M, M, A, R, T, H, E, E, V, I, D, E, N, C, E, A, N, D, L, A, N, G, U, A, G, E, P, U, R, P, O, S, E, S, U, P, P, O, R, T, T, H, E, Y, R, E. The word or phrase reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “They’re”.",
-      "The written choice is spelled C, H, O, O, S, E, T, H, E, R, E, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “There” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “They’re”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
   },
   {
     "id": "AC9E4LY11-P-003",
@@ -89,41 +65,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "worked_text_2_apply",
-    "question": "Read the classroom example. Which sentence uses too correctly?",
-    "audio_prompt": "Read the classroom example. Which sentence uses too correctly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-003",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Worked text 2. Notice: Select homophones by meaning. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which choice fits completing “Please put the bags over _____.” most accurately?",
+    "audio_prompt": "Which choice fits completing “Please put the bags over _____.” most accurately?",
     "answers": [
       {
-        "text": "We walked too school.",
+        "text": "their",
         "is_correct": false
       },
       {
-        "text": "I have too pencils when meaning the number.",
+        "text": "they’re",
         "is_correct": false
       },
       {
-        "text": "The water is too hot.",
+        "text": "there",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled W, E, W, A, L, K, E, D, T, O, O, S, C, H, O, O, L. The word or phrase reads: We walked too school.",
-      "The written choice is spelled I, H, A, V, E, T, O, O, P, E, N, C, I, L, S, W, H, E, N, M, E, A, N, I, N, G, T, H, E, N, U, M, B, E, R. The word or phrase reads: I have too pencils when meaning the number.",
-      "The written choice is spelled T, H, E, W, A, T, E, R, I, S, T, O, O, H, O, T. The word or phrase reads: The water is too hot."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The evidence and language purpose support “The water is too hot.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
   },
   {
     "id": "AC9E4LY11-P-004",
@@ -131,41 +95,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "worked_text_2_reason",
-    "question": "A student answers “I have too pencils when meaning the number.”. Which feedback helps? Task: Read the classroom example. Which sentence uses too correctly?",
-    "audio_prompt": "A student answers “I have too pencils when meaning the number.”. Which feedback helps? Task: Read the classroom example. Which sentence uses too correctly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-004",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Worked text 2. Notice: Select homophones by meaning. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Look closely at completing “Please put the bags over _____.”. Which response or wording works best?",
+    "audio_prompt": "Look closely at completing “Please put the bags over _____.”. Which response or wording works best?",
     "answers": [
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The water is too hot.”.",
+        "text": "there",
         "is_correct": true
       },
       {
-        "text": "Keep “I have too pencils when meaning the number.”; it uses a detail that sounds familiar.",
+        "text": "their",
         "is_correct": false
       },
       {
-        "text": "Choose “We walked too school.” instead; it sounds clearer.",
+        "text": "they’re",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled C, H, E, C, K, T, H, E, W, H, O, L, E, S, E, N, T, E, N, C, E, O, R, T, E, X, T, F, E, A, T, U, R, E, T, H, E, N, T, E, S, T, M, E, A, N, I, N, G, A, N, D, G, R, A, M, M, A, R, T, H, E, E, V, I, D, E, N, C, E, A, N, D, L, A, N, G, U, A, G, E, P, U, R, P, O, S, E, S, U, P, P, O, R, T, T, H, E, W, A, T, E, R, I, S, T, O, O, H, O, T. The word or phrase reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The water is too hot.”.",
-      "The written choice is spelled K, E, E, P, I, H, A, V, E, T, O, O, P, E, N, C, I, L, S, W, H, E, N, M, E, A, N, I, N, G, T, H, E, N, U, M, B, E, R, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “I have too pencils when meaning the number.”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, W, E, W, A, L, K, E, D, T, O, O, S, C, H, O, O, L, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “We walked too school.” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The water is too hot.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
   },
   {
     "id": "AC9E4LY11-P-005",
@@ -173,41 +125,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "misconception_1_apply",
-    "question": "A student in a workshop claims, “Sound selects spelling”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Sound selects spelling”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-005",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 1. Notice: Use grammar and context. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Look closely at completing “The players packed _____ uniforms.”. Which response or wording works best?",
+    "audio_prompt": "Look closely at completing “The players packed _____ uniforms.”. Which response or wording works best?",
     "answers": [
       {
-        "text": "Sound selects spelling",
+        "text": "there",
         "is_correct": false
       },
       {
-        "text": "Use meaning and grammar because homophones sound alike.",
+        "text": "their",
         "is_correct": true
       },
       {
-        "text": "A spell-checker catches every error",
+        "text": "they’re",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled S, O, U, N, D, S, E, L, E, C, T, S, S, P, E, L, L, I, N, G. The word or phrase reads: Sound selects spelling",
-      "The written choice is spelled U, S, E, M, E, A, N, I, N, G, A, N, D, G, R, A, M, M, A, R, B, E, C, A, U, S, E, H, O, M, O, P, H, O, N, E, S, S, O, U, N, D, A, L, I, K, E. The word or phrase reads: Use meaning and grammar because homophones sound alike.",
-      "The written choice is spelled A, S, P, E, L, L, C, H, E, C, K, E, R, C, A, T, C, H, E, S, E, V, E, R, Y, E, R, R, O, R. The word or phrase reads: A spell-checker catches every error"
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use meaning and grammar because homophones sound alike.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
   },
   {
     "id": "AC9E4LY11-P-006",
@@ -215,41 +155,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Sound selects spelling”. Which feedback helps? Task: A student in a workshop claims, “Sound selects spelling”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Sound selects spelling”. Which feedback helps? Task: A student in a workshop claims, “Sound selects spelling”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-006",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 1. Notice: Use grammar and context. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "For completing “The players packed _____ uniforms.”, which option is the strongest match?",
+    "audio_prompt": "For completing “The players packed _____ uniforms.”, which option is the strongest match?",
     "answers": [
       {
-        "text": "Keep “Sound selects spelling”; it uses a detail that sounds familiar.",
+        "text": "there",
         "is_correct": false
       },
       {
-        "text": "Choose “A spell-checker catches every error” instead; it sounds clearer.",
+        "text": "they’re",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use meaning and grammar because homophones sound alike.",
+        "text": "their",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, S, O, U, N, D, S, E, L, E, C, T, S, S, P, E, L, L, I, N, G, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Sound selects spelling”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, A, S, P, E, L, L, C, H, E, C, K, E, R, C, A, T, C, H, E, S, E, V, E, R, Y, E, R, R, O, R, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “A spell-checker catches every error” instead; it sounds clearer.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, U, S, E, M, E, A, N, I, N, G, A, N, D, G, R, A, M, M, A, R, B, E, C, A, U, S, E, H, O, M, O, P, H, O, N, E, S, S, O, U, N, D, A, L, I, K, E. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use meaning and grammar because homophones sound alike."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use meaning and grammar because homophones sound alike.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
   },
   {
     "id": "AC9E4LY11-P-007",
@@ -257,41 +185,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "misconception_2_apply",
-    "question": "A student in a workshop claims, “A spell-checker catches every error”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “A spell-checker catches every error”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-007",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 2. Notice: Expand contractions. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "For completing “I can _____ the kookaburras calling.”, which option is the strongest match?",
+    "audio_prompt": "For completing “I can _____ the kookaburras calling.”, which option is the strongest match?",
     "answers": [
       {
-        "text": "It may accept a real but contextually wrong word.",
+        "text": "hear",
         "is_correct": true
       },
       {
-        "text": "A spell-checker catches every error",
+        "text": "here",
         "is_correct": false
       },
       {
-        "text": "Apostrophe always shows possession",
+        "text": "he’re",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled I, T, M, A, Y, A, C, C, E, P, T, A, R, E, A, L, B, U, T, C, O, N, T, E, X, T, U, A, L, L, Y, W, R, O, N, G, W, O, R, D. The word or phrase reads: It may accept a real but contextually wrong word.",
-      "The written choice is spelled A, S, P, E, L, L, C, H, E, C, K, E, R, C, A, T, C, H, E, S, E, V, E, R, Y, E, R, R, O, R. The word or phrase reads: A spell-checker catches every error",
-      "The written choice is spelled A, P, O, S, T, R, O, P, H, E, A, L, W, A, Y, S, S, H, O, W, S, P, O, S, S, E, S, S, I, O, N. The word or phrase reads: Apostrophe always shows possession"
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It may accept a real but contextually wrong word.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
   },
   {
     "id": "AC9E4LY11-P-008",
@@ -299,41 +215,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Apostrophe always shows possession”. Which feedback helps? Task: A student in a workshop claims, “A spell-checker catches every error”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Apostrophe always shows possession”. Which feedback helps? Task: A student in a workshop claims, “A spell-checker catches every error”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-008",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 2. Notice: Expand contractions. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which example should you choose for completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "Which example should you choose for completing “I can _____ the kookaburras calling.”?",
     "answers": [
       {
-        "text": "Keep “Apostrophe always shows possession”; it uses a detail that sounds familiar.",
+        "text": "here",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It may accept a real but contextually wrong word.",
+        "text": "hear",
         "is_correct": true
       },
       {
-        "text": "Choose “A spell-checker catches every error” instead; it sounds clearer.",
+        "text": "he’re",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, A, P, O, S, T, R, O, P, H, E, A, L, W, A, Y, S, S, H, O, W, S, P, O, S, S, E, S, S, I, O, N, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Apostrophe always shows possession”; it uses a detail that sounds familiar.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, I, T, M, A, Y, A, C, C, E, P, T, A, R, E, A, L, B, U, T, C, O, N, T, E, X, T, U, A, L, L, Y, W, R, O, N, G, W, O, R, D. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. It may accept a real but contextually wrong word.",
-      "The written choice is spelled C, H, O, O, S, E, A, S, P, E, L, L, C, H, E, C, K, E, R, C, A, T, C, H, E, S, E, V, E, R, Y, E, R, R, O, R, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “A spell-checker catches every error” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It may accept a real but contextually wrong word.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
   },
   {
     "id": "AC9E4LY11-P-009",
@@ -341,40 +245,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "misconception_3_apply",
-    "question": "A student in a workshop claims, “Apostrophe always shows possession”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Apostrophe always shows possession”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-009",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 3. Notice: Proofread contextual errors. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which example should you choose for completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "Which example should you choose for completing “Come and sit _____ beside me.”?",
     "answers": [
       {
-        "text": "Apostrophe always shows possession",
+        "text": "hear",
         "is_correct": false
       },
       {
-        "text": "Its and it’s are interchangeable",
+        "text": "heer",
         "is_correct": false
       },
       {
-        "text": "In they’re and you’re it marks omitted letters.",
+        "text": "here",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled A, P, O, S, T, R, O, P, H, E, A, L, W, A, Y, S, S, H, O, W, S, P, O, S, S, E, S, S, I, O, N. The word or phrase reads: Apostrophe always shows possession",
-      "The written choice is spelled I, T, S, A, N, D, I, T, S, A, R, E, I, N, T, E, R, C, H, A, N, G, E, A, B, L, E. The word or phrase reads: Its and it’s are interchangeable",
-      "The written choice is spelled I, N, T, H, E, Y, R, E, A, N, D, Y, O, U, R, E, I, T, M, A, R, K, S, O, M, I, T, T, E, D, L, E, T, T, E, R, S. The word or phrase reads: In they’re and you’re it marks omitted letters."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "In they’re and you’re it marks omitted letters.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
   },
   {
     "id": "AC9E4LY11-P-010",
@@ -382,40 +275,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Apostrophe always shows possession”. Which feedback helps? Task: A student in a workshop claims, “Apostrophe always shows possession”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Apostrophe always shows possession”. Which feedback helps? Task: A student in a workshop claims, “Apostrophe always shows possession”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-010",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 3. Notice: Proofread contextual errors. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "In completing “Come and sit _____ beside me.”, which option best demonstrates the skill?",
+    "audio_prompt": "In completing “Come and sit _____ beside me.”, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. In they’re and you’re it marks omitted letters.",
+        "text": "here",
         "is_correct": true
       },
       {
-        "text": "Keep “Apostrophe always shows possession”; it uses a detail that sounds familiar.",
+        "text": "hear",
         "is_correct": false
       },
       {
-        "text": "Choose “Its and it’s are interchangeable” instead; it sounds clearer.",
+        "text": "heer",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, I, N, T, H, E, Y, R, E, A, N, D, Y, O, U, R, E, I, T, M, A, R, K, S, O, M, I, T, T, E, D, L, E, T, T, E, R, S. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. In they’re and you’re it marks omitted letters.",
-      "The written choice is spelled K, E, E, P, A, P, O, S, T, R, O, P, H, E, A, L, W, A, Y, S, S, H, O, W, S, P, O, S, S, E, S, S, I, O, N, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Apostrophe always shows possession”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, I, T, S, A, N, D, I, T, S, A, R, E, I, N, T, E, R, C, H, A, N, G, E, A, B, L, E, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Its and it’s are interchangeable” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. In they’re and you’re it marks omitted letters.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
   },
   {
     "id": "AC9E4LY11-P-011",
@@ -423,40 +305,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "misconception_4_apply",
-    "question": "A student in a workshop claims, “Its and it’s are interchangeable”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Its and it’s are interchangeable”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-011",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 4. Notice: Spell high-frequency words. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Why does “They’re” work well for completing “_____ going to the pool after lunch.”?",
+    "audio_prompt": "Why does “They’re” work well for completing “_____ going to the pool after lunch.”?",
     "answers": [
       {
-        "text": "Its and it’s are interchangeable",
+        "text": "Because “Their” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "It’s expands to it is or has; its is possessive.",
+        "text": "They’re means they are and fits before the verb going.",
         "is_correct": true
       },
       {
-        "text": "Automaticity means no proofreading",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled I, T, S, A, N, D, I, T, S, A, R, E, I, N, T, E, R, C, H, A, N, G, E, A, B, L, E. The word or phrase reads: Its and it’s are interchangeable",
-      "The written choice is spelled I, T, S, E, X, P, A, N, D, S, T, O, I, T, I, S, O, R, H, A, S, I, T, S, I, S, P, O, S, S, E, S, S, I, V, E. The word or phrase reads: It’s expands to it is or has; its is possessive.",
-      "The written choice is spelled A, U, T, O, M, A, T, I, C, I, T, Y, M, E, A, N, S, N, O, P, R, O, O, F, R, E, A, D, I, N, G. The word or phrase reads: Automaticity means no proofreading"
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It’s expands to it is or has; its is possessive.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
   },
   {
     "id": "AC9E4LY11-P-012",
@@ -464,40 +335,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Automaticity means no proofreading”. Which feedback helps? Task: A student in a workshop claims, “Its and it’s are interchangeable”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Automaticity means no proofreading”. Which feedback helps? Task: A student in a workshop claims, “Its and it’s are interchangeable”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-012",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 4. Notice: Spell high-frequency words. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What makes “They’re” a better choice in completing “_____ going to the pool after lunch.”?",
+    "audio_prompt": "What makes “They’re” a better choice in completing “_____ going to the pool after lunch.”?",
     "answers": [
       {
-        "text": "Keep “Automaticity means no proofreading”; it uses a detail that sounds familiar.",
+        "text": "Because “Their” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Its and it’s are interchangeable” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It’s expands to it is or has; its is possessive.",
+        "text": "They’re means they are and fits before the verb going.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, A, U, T, O, M, A, T, I, C, I, T, Y, M, E, A, N, S, N, O, P, R, O, O, F, R, E, A, D, I, N, G, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Automaticity means no proofreading”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, I, T, S, A, N, D, I, T, S, A, R, E, I, N, T, E, R, C, H, A, N, G, E, A, B, L, E, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Its and it’s are interchangeable” instead; it sounds clearer.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, I, T, S, E, X, P, A, N, D, S, T, O, I, T, I, S, O, R, H, A, S, I, T, S, I, S, P, O, S, S, E, S, S, I, V, E. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. It’s expands to it is or has; its is possessive."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It’s expands to it is or has; its is possessive.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
   },
   {
     "id": "AC9E4LY11-P-013",
@@ -505,40 +365,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "misconception_5_apply",
-    "question": "A student in a workshop claims, “Automaticity means no proofreading”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Automaticity means no proofreading”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-013",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 5. Notice: Select homophones by meaning. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What makes “there” a better choice in completing “Please put the bags over _____.”?",
+    "audio_prompt": "What makes “there” a better choice in completing “Please put the bags over _____.”?",
     "answers": [
       {
-        "text": "Context errors can still occur in familiar words.",
+        "text": "There refers to a place, which matches where the bags should go.",
         "is_correct": true
       },
       {
-        "text": "Automaticity means no proofreading",
+        "text": "Because “their” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Sound selects spelling",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled C, O, N, T, E, X, T, E, R, R, O, R, S, C, A, N, S, T, I, L, L, O, C, C, U, R, I, N, F, A, M, I, L, I, A, R, W, O, R, D, S. The word or phrase reads: Context errors can still occur in familiar words.",
-      "The written choice is spelled A, U, T, O, M, A, T, I, C, I, T, Y, M, E, A, N, S, N, O, P, R, O, O, F, R, E, A, D, I, N, G. The word or phrase reads: Automaticity means no proofreading",
-      "The written choice is spelled S, O, U, N, D, S, E, L, E, C, T, S, S, P, E, L, L, I, N, G. The word or phrase reads: Sound selects spelling"
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Context errors can still occur in familiar words.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
   },
   {
     "id": "AC9E4LY11-P-014",
@@ -546,40 +395,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "misconception_5_reason",
-    "question": "A student answers “Automaticity means no proofreading”. Which feedback helps? Task: A student in a workshop claims, “Automaticity means no proofreading”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Automaticity means no proofreading”. Which feedback helps? Task: A student in a workshop claims, “Automaticity means no proofreading”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-014",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 5. Notice: Select homophones by meaning. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which explanation best justifies “there” for completing “Please put the bags over _____.”?",
+    "audio_prompt": "Which explanation best justifies “there” for completing “Please put the bags over _____.”?",
     "answers": [
       {
-        "text": "Keep “Automaticity means no proofreading”; it uses a detail that sounds familiar.",
+        "text": "Because “their” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context errors can still occur in familiar words.",
+        "text": "There refers to a place, which matches where the bags should go.",
         "is_correct": true
       },
       {
-        "text": "Choose “Sound selects spelling” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, A, U, T, O, M, A, T, I, C, I, T, Y, M, E, A, N, S, N, O, P, R, O, O, F, R, E, A, D, I, N, G, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Automaticity means no proofreading”; it uses a detail that sounds familiar.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, C, O, N, T, E, X, T, E, R, R, O, R, S, C, A, N, S, T, I, L, L, O, C, C, U, R, I, N, F, A, M, I, L, I, A, R, W, O, R, D, S. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context errors can still occur in familiar words.",
-      "The written choice is spelled C, H, O, O, S, E, S, O, U, N, D, S, E, L, E, C, T, S, S, P, E, L, L, I, N, G, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Sound selects spelling” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context errors can still occur in familiar words.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
   },
   {
     "id": "AC9E4LY11-P-015",
@@ -587,40 +425,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "homophone_decision_cards_apply",
-    "question": "The class prepares “Homophone decision cards”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Homophone decision cards”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-015",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Homophone decision cards. Notice: Use grammar and context. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which explanation best justifies “their” for completing “The players packed _____ uniforms.”?",
+    "audio_prompt": "Which explanation best justifies “their” for completing “The players packed _____ uniforms.”?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “there” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Complete sentences, explain meaning and identify grammatical role before choosing spelling.",
+        "text": "Their is the possessive form showing that the uniforms belong to the players.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T. The word or phrase reads: Copy the title, then choose an answer without analysing the language or text.",
-      "The written choice is spelled C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y. The word or phrase reads: Change the purpose and audience halfway through, then report the first impression only.",
-      "The written choice is spelled C, O, M, P, L, E, T, E, S, E, N, T, E, N, C, E, S, E, X, P, L, A, I, N, M, E, A, N, I, N, G, A, N, D, I, D, E, N, T, I, F, Y, G, R, A, M, M, A, T, I, C, A, L, R, O, L, E, B, E, F, O, R, E, C, H, O, O, S, I, N, G, S, P, E, L, L, I, N, G. The word or phrase reads: Complete sentences, explain meaning and identify grammatical role before choosing spelling."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Complete sentences, explain meaning and identify grammatical role before choosing spelling.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
   },
   {
     "id": "AC9E4LY11-P-016",
@@ -628,40 +455,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "homophone_decision_cards_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Homophone decision cards”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Homophone decision cards”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-016",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Homophone decision cards. Notice: Use grammar and context. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What should you notice about “their” in completing “The players packed _____ uniforms.”?",
+    "audio_prompt": "What should you notice about “their” in completing “The players packed _____ uniforms.”?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Complete sentences, explain meaning and identify grammatical role before choosing spelling.",
+        "text": "Their is the possessive form showing that the uniforms belong to the players.",
         "is_correct": true
       },
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "Because “there” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled C, H, O, O, S, E, T, H, E, P, L, A, N, T, H, A, T, A, N, A, L, Y, S, E, S, L, A, N, G, U, A, G, E, E, V, I, D, E, N, C, E, A, N, D, P, R, O, D, U, C, E, S, A, R, E, V, I, E, W, A, B, L, E, R, E, S, P, O, N, S, E, C, O, M, P, L, E, T, E, S, E, N, T, E, N, C, E, S, E, X, P, L, A, I, N, M, E, A, N, I, N, G, A, N, D, I, D, E, N, T, I, F, Y, G, R, A, M, M, A, T, I, C, A, L, R, O, L, E, B, E, F, O, R, E, C, H, O, O, S, I, N, G, S, P, E, L, L, I, N, G. The word or phrase reads: Choose the plan that analyses language evidence and produces a reviewable response. Complete sentences, explain meaning and identify grammatical role before choosing spelling.",
-      "The written choice is spelled K, E, E, P, C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Complete sentences, explain meaning and identify grammatical role before choosing spelling.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
   },
   {
     "id": "AC9E4LY11-P-017",
@@ -669,40 +485,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "contraction_expansion_apply",
-    "question": "The class prepares “Contraction expansion”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Contraction expansion”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-017",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Contraction expansion. Notice: Expand contractions. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What should you notice about “hear” in completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "What should you notice about “hear” in completing “I can _____ the kookaburras calling.”?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “here” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Expand they’re, you’re and it’s to test whether the contraction fits, then compare possessive forms.",
+        "text": "Hear is the verb meaning perceive sound.",
         "is_correct": true
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T. The word or phrase reads: Copy the title, then choose an answer without analysing the language or text.",
-      "The written choice is spelled E, X, P, A, N, D, T, H, E, Y, R, E, Y, O, U, R, E, A, N, D, I, T, S, T, O, T, E, S, T, W, H, E, T, H, E, R, T, H, E, C, O, N, T, R, A, C, T, I, O, N, F, I, T, S, T, H, E, N, C, O, M, P, A, R, E, P, O, S, S, E, S, S, I, V, E, F, O, R, M, S. The word or phrase reads: Expand they’re, you’re and it’s to test whether the contraction fits, then compare possessive forms.",
-      "The written choice is spelled C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y. The word or phrase reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Expand they’re, you’re and it’s to test whether the contraction fits, then compare possessive forms.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
   },
   {
     "id": "AC9E4LY11-P-018",
@@ -710,40 +515,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "contraction_expansion_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Contraction expansion”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Contraction expansion”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-018",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Contraction expansion. Notice: Expand contractions. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which reason explains why “hear” suits completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "Which reason explains why “hear” suits completing “I can _____ the kookaburras calling.”?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “here” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Expand they’re, you’re and it’s to test whether the contraction fits, then compare possessive forms.",
+        "text": "Hear is the verb meaning perceive sound.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "The written choice is spelled C, H, O, O, S, E, T, H, E, P, L, A, N, T, H, A, T, A, N, A, L, Y, S, E, S, L, A, N, G, U, A, G, E, E, V, I, D, E, N, C, E, A, N, D, P, R, O, D, U, C, E, S, A, R, E, V, I, E, W, A, B, L, E, R, E, S, P, O, N, S, E, E, X, P, A, N, D, T, H, E, Y, R, E, Y, O, U, R, E, A, N, D, I, T, S, T, O, T, E, S, T, W, H, E, T, H, E, R, T, H, E, C, O, N, T, R, A, C, T, I, O, N, F, I, T, S, T, H, E, N, C, O, M, P, A, R, E, P, O, S, S, E, S, S, I, V, E, F, O, R, M, S. The word or phrase reads: Choose the plan that analyses language evidence and produces a reviewable response. Expand they’re, you’re and it’s to test whether the contraction fits, then compare possessive forms."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Expand they’re, you’re and it’s to test whether the contraction fits, then compare possessive forms.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
   },
   {
     "id": "AC9E4LY11-P-019",
@@ -751,40 +545,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "proofreading_hunt_apply",
-    "question": "The class prepares “Proofreading hunt”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Proofreading hunt”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-019",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Proofreading hunt. Notice: Proofread contextual errors. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which reason explains why “here” suits completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "Which reason explains why “here” suits completing “Come and sit _____ beside me.”?",
     "answers": [
       {
-        "text": "Find correctly spelled but contextually wrong homophones in a paragraph and justify every correction.",
+        "text": "Here refers to this place.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “hear” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled F, I, N, D, C, O, R, R, E, C, T, L, Y, S, P, E, L, L, E, D, B, U, T, C, O, N, T, E, X, T, U, A, L, L, Y, W, R, O, N, G, H, O, M, O, P, H, O, N, E, S, I, N, A, P, A, R, A, G, R, A, P, H, A, N, D, J, U, S, T, I, F, Y, E, V, E, R, Y, C, O, R, R, E, C, T, I, O, N. The word or phrase reads: Find correctly spelled but contextually wrong homophones in a paragraph and justify every correction.",
-      "The written choice is spelled C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T. The word or phrase reads: Copy the title, then choose an answer without analysing the language or text.",
-      "The written choice is spelled C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y. The word or phrase reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Find correctly spelled but contextually wrong homophones in a paragraph and justify every correction.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
   },
   {
     "id": "AC9E4LY11-P-020",
@@ -792,40 +575,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "proofreading_hunt_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Proofreading hunt”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Proofreading hunt”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-020",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Proofreading hunt. Notice: Proofread contextual errors. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Why does “here” work well for completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "Why does “here” work well for completing “Come and sit _____ beside me.”?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "Because “hear” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Find correctly spelled but contextually wrong homophones in a paragraph and justify every correction.",
+        "text": "Here refers to this place.",
         "is_correct": true
       },
       {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, T, H, E, P, L, A, N, T, H, A, T, A, N, A, L, Y, S, E, S, L, A, N, G, U, A, G, E, E, V, I, D, E, N, C, E, A, N, D, P, R, O, D, U, C, E, S, A, R, E, V, I, E, W, A, B, L, E, R, E, S, P, O, N, S, E, F, I, N, D, C, O, R, R, E, C, T, L, Y, S, P, E, L, L, E, D, B, U, T, C, O, N, T, E, X, T, U, A, L, L, Y, W, R, O, N, G, H, O, M, O, P, H, O, N, E, S, I, N, A, P, A, R, A, G, R, A, P, H, A, N, D, J, U, S, T, I, F, Y, E, V, E, R, Y, C, O, R, R, E, C, T, I, O, N. The word or phrase reads: Choose the plan that analyses language evidence and produces a reviewable response. Find correctly spelled but contextually wrong homophones in a paragraph and justify every correction.",
-      "The written choice is spelled C, H, O, O, S, E, C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Find correctly spelled but contextually wrong homophones in a paragraph and justify every correction.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
   },
   {
     "id": "AC9E4LY11-P-021",
@@ -833,40 +605,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "vocabulary_1_apply",
-    "question": "A class annotation about High-frequency Words, Homophones and Context describes “word occurring very often in reading and writing”. Which term is most precise?",
-    "audio_prompt": "A class annotation about High-frequency Words, Homophones and Context describes “word occurring very often in reading and writing”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-021",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Vocabulary 1. Notice: Spell high-frequency words. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which revision best fixes the problem in “Their” for completing “_____ going to the pool after lunch.”?",
+    "audio_prompt": "Which revision best fixes the problem in “Their” for completing “_____ going to the pool after lunch.”?",
     "answers": [
       {
-        "text": "homophone",
+        "text": "Their",
         "is_correct": false
       },
       {
-        "text": "contraction",
+        "text": "There",
         "is_correct": false
       },
       {
-        "text": "high-frequency word",
+        "text": "They’re",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled H, O, M, O, P, H, O, N, E. The word or phrase reads: homophone",
-      "The written choice is spelled C, O, N, T, R, A, C, T, I, O, N. The word or phrase reads: contraction",
-      "The written choice is spelled H, I, G, H, F, R, E, Q, U, E, N, C, Y, W, O, R, D. The word or phrase reads: high-frequency word"
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "high-frequency word is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "They’re means they are and fits before the verb going. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
   },
   {
     "id": "AC9E4LY11-P-022",
@@ -874,137 +635,10 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "practice",
-    "skill": "vocabulary_1_reason",
-    "question": "A student answers “homophone”. Which feedback helps? Task: A class annotation about High-frequency Words, Homophones and Context describes “word occurring very often in reading and writing”. Which term is most precise?",
-    "audio_prompt": "A student answers “homophone”. Which feedback helps? Task: A class annotation about High-frequency Words, Homophones and Context describes “word occurring very often in reading and writing”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-022",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Vocabulary 1. Notice: Spell high-frequency words. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Match the definition to the exact language or literacy concept. high-frequency word is the precise term for this feature.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep “homophone”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “contraction” instead; it sounds clearer.",
-        "is_correct": false
-      }
-    ],
-    "audio_answers": [
-      "The written choice is spelled M, A, T, C, H, T, H, E, D, E, F, I, N, I, T, I, O, N, T, O, T, H, E, E, X, A, C, T, L, A, N, G, U, A, G, E, O, R, L, I, T, E, R, A, C, Y, C, O, N, C, E, P, T, H, I, G, H, F, R, E, Q, U, E, N, C, Y, W, O, R, D, I, S, T, H, E, P, R, E, C, I, S, E, T, E, R, M, F, O, R, T, H, I, S, F, E, A, T, U, R, E. The word or phrase reads: Match the definition to the exact language or literacy concept. high-frequency word is the precise term for this feature.",
-      "The written choice is spelled K, E, E, P, H, O, M, O, P, H, O, N, E, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “homophone”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, C, O, N, T, R, A, C, T, I, O, N, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “contraction” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. high-frequency word is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E4LY11-P-023",
-    "subject": "english",
-    "year_level": "Year 4",
-    "curriculum_code": "AC9E4LY11",
-    "bank": "practice",
-    "skill": "vocabulary_2_apply",
-    "question": "A class annotation about High-frequency Words, Homophones and Context describes “word sharing pronunciation with another but differing in meaning or spelling”. Which term is most precise?",
-    "audio_prompt": "A class annotation about High-frequency Words, Homophones and Context describes “word sharing pronunciation with another but differing in meaning or spelling”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-023",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Vocabulary 2. Notice: Select homophones by meaning. Choose the response supported by the example."
-    },
-    "answers": [
-      {
-        "text": "high-frequency word",
-        "is_correct": false
-      },
-      {
-        "text": "homophone",
-        "is_correct": true
-      },
-      {
-        "text": "contraction",
-        "is_correct": false
-      }
-    ],
-    "audio_answers": [
-      "The written choice is spelled H, I, G, H, F, R, E, Q, U, E, N, C, Y, W, O, R, D. The word or phrase reads: high-frequency word",
-      "The written choice is spelled H, O, M, O, P, H, O, N, E. The word or phrase reads: homophone",
-      "The written choice is spelled C, O, N, T, R, A, C, T, I, O, N. The word or phrase reads: contraction"
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "homophone is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E4LY11-P-024",
-    "subject": "english",
-    "year_level": "Year 4",
-    "curriculum_code": "AC9E4LY11",
-    "bank": "practice",
-    "skill": "vocabulary_2_reason",
-    "question": "A student answers “contraction”. Which feedback helps? Task: A class annotation about High-frequency Words, Homophones and Context describes “word sharing pronunciation with another but differing in meaning or spelling”. Which term is most precise?",
-    "audio_prompt": "A student answers “contraction”. Which feedback helps? Task: A class annotation about High-frequency Words, Homophones and Context describes “word sharing pronunciation with another but differing in meaning or spelling”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-p-024",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Vocabulary 2. Notice: Select homophones by meaning. Correct the student's mix-up using the full task."
-    },
-    "answers": [
-      {
-        "text": "Keep “contraction”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “high-frequency word” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Match the definition to the exact language or literacy concept. homophone is the precise term for this feature.",
-        "is_correct": true
-      }
-    ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, C, O, N, T, R, A, C, T, I, O, N, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “contraction”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, H, I, G, H, F, R, E, Q, U, E, N, C, Y, W, O, R, D, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “high-frequency word” instead; it sounds clearer.",
-      "The written choice is spelled M, A, T, C, H, T, H, E, D, E, F, I, N, I, T, I, O, N, T, O, T, H, E, E, X, A, C, T, L, A, N, G, U, A, G, E, O, R, L, I, T, E, R, A, C, Y, C, O, N, C, E, P, T, H, O, M, O, P, H, O, N, E, I, S, T, H, E, P, R, E, C, I, S, E, T, E, R, M, F, O, R, T, H, I, S, F, E, A, T, U, R, E. The word or phrase reads: Match the definition to the exact language or literacy concept. homophone is the precise term for this feature."
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. homophone is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9E4LY11-T-001",
-    "subject": "english",
-    "year_level": "Year 4",
-    "curriculum_code": "AC9E4LY11",
-    "bank": "test",
-    "skill": "new_text_1_apply",
-    "question": "In a new assessment text, Which word completes ‘the missing word going to present today’?",
-    "audio_prompt": "In a new assessment text, Which word completes ‘the missing word going to present today’?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-001",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: New text 1. Notice: Spell high-frequency words. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Compare the choices for completing “_____ going to the pool after lunch.”. Which one avoids the mistake in “Their”?",
+    "audio_prompt": "Compare the choices for completing “_____ going to the pool after lunch.”. Which one avoids the mistake in “Their”?",
     "answers": [
       {
         "text": "They’re",
@@ -1019,15 +653,580 @@
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled T, H, E, Y, R, E. The word or phrase reads: They’re",
-      "The written choice is spelled T, H, E, I, R. The word or phrase reads: Their",
-      "The written choice is spelled T, H, E, R, E. The word or phrase reads: There"
+    "correct_index": 0,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Compare the choices for completing “Please put the bags over _____.”. Which one avoids the mistake in “their”?",
+    "audio_prompt": "Compare the choices for completing “Please put the bags over _____.”. Which one avoids the mistake in “their”?",
+    "answers": [
+      {
+        "text": "their",
+        "is_correct": false
+      },
+      {
+        "text": "there",
+        "is_correct": true
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "If “their” does not work in completing “Please put the bags over _____.”, what should replace it?",
+    "audio_prompt": "If “their” does not work in completing “Please put the bags over _____.”, what should replace it?",
+    "answers": [
+      {
+        "text": "their",
+        "is_correct": false
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "there",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "If “there” does not work in completing “The players packed _____ uniforms.”, what should replace it?",
+    "audio_prompt": "If “there” does not work in completing “The players packed _____ uniforms.”, what should replace it?",
+    "answers": [
+      {
+        "text": "their",
+        "is_correct": true
+      },
+      {
+        "text": "there",
+        "is_correct": false
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “They’re”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Their is the possessive form showing that the uniforms belong to the players. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which option corrects the meaning or form needed for completing “The players packed _____ uniforms.”?",
+    "audio_prompt": "Which option corrects the meaning or form needed for completing “The players packed _____ uniforms.”?",
+    "answers": [
+      {
+        "text": "there",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": true
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which option corrects the meaning or form needed for completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "Which option corrects the meaning or form needed for completing “I can _____ the kookaburras calling.”?",
+    "answers": [
+      {
+        "text": "here",
+        "is_correct": false
+      },
+      {
+        "text": "he’re",
+        "is_correct": false
+      },
+      {
+        "text": "hear",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which choice is the clearest correction for completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "Which choice is the clearest correction for completing “I can _____ the kookaburras calling.”?",
+    "answers": [
+      {
+        "text": "hear",
+        "is_correct": true
+      },
+      {
+        "text": "here",
+        "is_correct": false
+      },
+      {
+        "text": "he’re",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which choice is the clearest correction for completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "Which choice is the clearest correction for completing “Come and sit _____ beside me.”?",
+    "answers": [
+      {
+        "text": "hear",
+        "is_correct": false
+      },
+      {
+        "text": "here",
+        "is_correct": true
+      },
+      {
+        "text": "heer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Here refers to this place. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which revision best fixes the problem in “hear” for completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "Which revision best fixes the problem in “hear” for completing “Come and sit _____ beside me.”?",
+    "answers": [
+      {
+        "text": "hear",
+        "is_correct": false
+      },
+      {
+        "text": "heer",
+        "is_correct": false
+      },
+      {
+        "text": "here",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Here refers to this place. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "You now need to handle completing “_____ going to the pool after lunch.” independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle completing “_____ going to the pool after lunch.” independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "They’re",
+        "is_correct": true
+      },
+      {
+        "text": "There",
+        "is_correct": false
+      },
+      {
+        "text": "Their",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Apply the same idea to completing “_____ going to the pool after lunch.”. Which option is best?",
+    "audio_prompt": "Apply the same idea to completing “_____ going to the pool after lunch.”. Which option is best?",
+    "answers": [
+      {
+        "text": "There",
+        "is_correct": false
+      },
+      {
+        "text": "They’re",
+        "is_correct": true
+      },
+      {
+        "text": "Their",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They’re means they are and fits before the verb going.",
+      "hint": "Expand the contraction to test whether it fits."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Apply the same idea to completing “Please put the bags over _____.”. Which option is best?",
+    "audio_prompt": "Apply the same idea to completing “Please put the bags over _____.”. Which option is best?",
+    "answers": [
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": false
+      },
+      {
+        "text": "there",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which decision would produce the clearest result in completing “Please put the bags over _____.”?",
+    "audio_prompt": "Which decision would produce the clearest result in completing “Please put the bags over _____.”?",
+    "answers": [
+      {
+        "text": "there",
+        "is_correct": true
+      },
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There refers to a place, which matches where the bags should go.",
+      "hint": "Decide whether the sentence needs a place, ownership or they are."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which decision would produce the clearest result in completing “The players packed _____ uniforms.”?",
+    "audio_prompt": "Which decision would produce the clearest result in completing “The players packed _____ uniforms.”?",
+    "answers": [
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": true
+      },
+      {
+        "text": "there",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Choose the option that applies the skill correctly in completing “The players packed _____ uniforms.”.",
+    "audio_prompt": "Choose the option that applies the skill correctly in completing “The players packed _____ uniforms.”.",
+    "answers": [
+      {
+        "text": "they’re",
+        "is_correct": false
+      },
+      {
+        "text": "there",
+        "is_correct": false
+      },
+      {
+        "text": "their",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Their is the possessive form showing that the uniforms belong to the players.",
+      "hint": "Look for a noun that is owned by someone."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Choose the option that applies the skill correctly in completing “I can _____ the kookaburras calling.”.",
+    "audio_prompt": "Choose the option that applies the skill correctly in completing “I can _____ the kookaburras calling.”.",
+    "answers": [
+      {
+        "text": "hear",
+        "is_correct": true
+      },
+      {
+        "text": "he’re",
+        "is_correct": false
+      },
+      {
+        "text": "here",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What would be the most effective choice for completing “I can _____ the kookaburras calling.”?",
+    "audio_prompt": "What would be the most effective choice for completing “I can _____ the kookaburras calling.”?",
+    "answers": [
+      {
+        "text": "he’re",
+        "is_correct": false
+      },
+      {
+        "text": "hear",
+        "is_correct": true
+      },
+      {
+        "text": "here",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Hear is the verb meaning perceive sound.",
+      "hint": "Use sentence grammar and meaning, not just pronunciation."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What would be the most effective choice for completing “Come and sit _____ beside me.”?",
+    "audio_prompt": "What would be the most effective choice for completing “Come and sit _____ beside me.”?",
+    "answers": [
+      {
+        "text": "heer",
+        "is_correct": false
+      },
+      {
+        "text": "hear",
+        "is_correct": false
+      },
+      {
+        "text": "here",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "You now need to handle completing “Come and sit _____ beside me.” independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle completing “Come and sit _____ beside me.” independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "here",
+        "is_correct": true
+      },
+      {
+        "text": "heer",
+        "is_correct": false
+      },
+      {
+        "text": "hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Here refers to this place.",
+      "hint": "Ask whether the word names a place or an action involving sound."
+    }
+  },
+  {
+    "id": "AC9E4LY11-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY11",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "New context: completing “The dog wagged _____ tail.”. Which option is correct?",
+    "audio_prompt": "New context: completing “The dog wagged _____ tail.”. Which option is correct?",
+    "answers": [
+      {
+        "text": "it’s",
+        "is_correct": false
+      },
+      {
+        "text": "its",
+        "is_correct": true
+      },
+      {
+        "text": "its’",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
     }
   },
   {
@@ -1036,37 +1235,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "new_text_1_reason",
-    "question": "A student answers “Their”. Which feedback helps? Task: In a new assessment text, Which word completes ‘the missing word going to present today’?",
-    "audio_prompt": "A student answers “Their”. Which feedback helps? Task: In a new assessment text, Which word completes ‘the missing word going to present today’?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-002",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: New text 1. Notice: Spell high-frequency words. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What is the best choice for completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "What is the best choice for completing “The dog wagged _____ tail.”?",
     "answers": [
       {
-        "text": "Keep “Their”; it uses a detail that sounds familiar.",
+        "text": "it’s",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “They’re”.",
+        "text": "its’",
+        "is_correct": false
+      },
+      {
+        "text": "its",
         "is_correct": true
-      },
-      {
-        "text": "Choose “There” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, T, H, E, I, R, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Their”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, E, C, K, T, H, E, W, H, O, L, E, S, E, N, T, E, N, C, E, O, R, T, E, X, T, F, E, A, T, U, R, E, T, H, E, N, T, E, S, T, M, E, A, N, I, N, G, A, N, D, G, R, A, M, M, A, R, T, H, E, E, V, I, D, E, N, C, E, A, N, D, L, A, N, G, U, A, G, E, P, U, R, P, O, S, E, S, U, P, P, O, R, T, T, H, E, Y, R, E. The word or phrase reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “They’re”.",
-      "The written choice is spelled C, H, O, O, S, E, T, H, E, R, E, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “There” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “They’re”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
     }
   },
   {
@@ -1075,37 +1265,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "new_text_2_apply",
-    "question": "In a new assessment text, Which sentence uses too correctly?",
-    "audio_prompt": "In a new assessment text, Which sentence uses too correctly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-003",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: New text 2. Notice: Select homophones by meaning. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which explanation best supports “its” in completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "Which explanation best supports “its” in completing “The dog wagged _____ tail.”?",
     "answers": [
       {
-        "text": "We walked too school.",
-        "is_correct": false
-      },
-      {
-        "text": "I have too pencils when meaning the number.",
-        "is_correct": false
-      },
-      {
-        "text": "The water is too hot.",
+        "text": "Its shows possession, while it’s means it is or it has.",
         "is_correct": true
+      },
+      {
+        "text": "Because “it’s” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled W, E, W, A, L, K, E, D, T, O, O, S, C, H, O, O, L. The word or phrase reads: We walked too school.",
-      "The written choice is spelled I, H, A, V, E, T, O, O, P, E, N, C, I, L, S, W, H, E, N, M, E, A, N, I, N, G, T, H, E, N, U, M, B, E, R. The word or phrase reads: I have too pencils when meaning the number.",
-      "The written choice is spelled T, H, E, W, A, T, E, R, I, S, T, O, O, H, O, T. The word or phrase reads: The water is too hot."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “The water is too hot.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
     }
   },
   {
@@ -1114,37 +1295,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "new_text_2_reason",
-    "question": "A student answers “I have too pencils when meaning the number.”. Which feedback helps? Task: In a new assessment text, Which sentence uses too correctly?",
-    "audio_prompt": "A student answers “I have too pencils when meaning the number.”. Which feedback helps? Task: In a new assessment text, Which sentence uses too correctly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-004",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: New text 2. Notice: Select homophones by meaning. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which clue should guide your decision in completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "Which clue should guide your decision in completing “The dog wagged _____ tail.”?",
     "answers": [
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The water is too hot.”.",
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Expand it’s to it is and see whether that makes sense.",
         "is_correct": true
       },
       {
-        "text": "Keep “I have too pencils when meaning the number.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “We walked too school.” instead; it sounds clearer.",
+        "text": "Ignore the context and use the first familiar form.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled C, H, E, C, K, T, H, E, W, H, O, L, E, S, E, N, T, E, N, C, E, O, R, T, E, X, T, F, E, A, T, U, R, E, T, H, E, N, T, E, S, T, M, E, A, N, I, N, G, A, N, D, G, R, A, M, M, A, R, T, H, E, E, V, I, D, E, N, C, E, A, N, D, L, A, N, G, U, A, G, E, P, U, R, P, O, S, E, S, U, P, P, O, R, T, T, H, E, W, A, T, E, R, I, S, T, O, O, H, O, T. The word or phrase reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The water is too hot.”.",
-      "The written choice is spelled K, E, E, P, I, H, A, V, E, T, O, O, P, E, N, C, I, L, S, W, H, E, N, M, E, A, N, I, N, G, T, H, E, N, U, M, B, E, R, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “I have too pencils when meaning the number.”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, W, E, W, A, L, K, E, D, T, O, O, S, C, H, O, O, L, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “We walked too school.” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The water is too hot.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
     }
   },
   {
@@ -1153,37 +1325,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "misconception_1_apply",
-    "question": "An editor reviewing a new text claims, “Sound selects spelling”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Sound selects spelling”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-005",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 1. Notice: Use grammar and context. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which option would you reject first in completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "Which option would you reject first in completing “The dog wagged _____ tail.”?",
     "answers": [
       {
-        "text": "Sound selects spelling",
+        "text": "its",
         "is_correct": false
       },
       {
-        "text": "Use meaning and grammar because homophones sound alike.",
+        "text": "its’",
+        "is_correct": false
+      },
+      {
+        "text": "it’s",
         "is_correct": true
-      },
-      {
-        "text": "A spell-checker catches every error",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled S, O, U, N, D, S, E, L, E, C, T, S, S, P, E, L, L, I, N, G. The word or phrase reads: Sound selects spelling",
-      "The written choice is spelled U, S, E, M, E, A, N, I, N, G, A, N, D, G, R, A, M, M, A, R, B, E, C, A, U, S, E, H, O, M, O, P, H, O, N, E, S, S, O, U, N, D, A, L, I, K, E. The word or phrase reads: Use meaning and grammar because homophones sound alike.",
-      "The written choice is spelled A, S, P, E, L, L, C, H, E, C, K, E, R, C, A, T, C, H, E, S, E, V, E, R, Y, E, R, R, O, R. The word or phrase reads: A spell-checker catches every error"
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Use meaning and grammar because homophones sound alike.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
     }
   },
   {
@@ -1192,37 +1355,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Sound selects spelling”. Which feedback helps? Task: An editor reviewing a new text claims, “Sound selects spelling”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Sound selects spelling”. Which feedback helps? Task: An editor reviewing a new text claims, “Sound selects spelling”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-006",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 1. Notice: Use grammar and context. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which correction should replace “it’s” in completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "Which correction should replace “it’s” in completing “The dog wagged _____ tail.”?",
     "answers": [
       {
-        "text": "Keep “Sound selects spelling”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “A spell-checker catches every error” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use meaning and grammar because homophones sound alike.",
+        "text": "its",
         "is_correct": true
+      },
+      {
+        "text": "it’s",
+        "is_correct": false
+      },
+      {
+        "text": "its’",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, S, O, U, N, D, S, E, L, E, C, T, S, S, P, E, L, L, I, N, G, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Sound selects spelling”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, A, S, P, E, L, L, C, H, E, C, K, E, R, C, A, T, C, H, E, S, E, V, E, R, Y, E, R, R, O, R, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “A spell-checker catches every error” instead; it sounds clearer.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, U, S, E, M, E, A, N, I, N, G, A, N, D, G, R, A, M, M, A, R, B, E, C, A, U, S, E, H, O, M, O, P, H, O, N, E, S, S, O, U, N, D, A, L, I, K, E. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use meaning and grammar because homophones sound alike."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use meaning and grammar because homophones sound alike.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
     }
   },
   {
@@ -1231,37 +1385,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "misconception_2_apply",
-    "question": "An editor reviewing a new text claims, “A spell-checker catches every error”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “A spell-checker catches every error”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-007",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 2. Notice: Expand contractions. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Apply the skill to completing “The dog wagged _____ tail.”: what should you choose?",
+    "audio_prompt": "Apply the skill to completing “The dog wagged _____ tail.”: what should you choose?",
     "answers": [
       {
-        "text": "It may accept a real but contextually wrong word.",
+        "text": "it’s",
+        "is_correct": false
+      },
+      {
+        "text": "its",
         "is_correct": true
       },
       {
-        "text": "A spell-checker catches every error",
-        "is_correct": false
-      },
-      {
-        "text": "Apostrophe always shows possession",
+        "text": "its’",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled I, T, M, A, Y, A, C, C, E, P, T, A, R, E, A, L, B, U, T, C, O, N, T, E, X, T, U, A, L, L, Y, W, R, O, N, G, W, O, R, D. The word or phrase reads: It may accept a real but contextually wrong word.",
-      "The written choice is spelled A, S, P, E, L, L, C, H, E, C, K, E, R, C, A, T, C, H, E, S, E, V, E, R, Y, E, R, R, O, R. The word or phrase reads: A spell-checker catches every error",
-      "The written choice is spelled A, P, O, S, T, R, O, P, H, E, A, L, W, A, Y, S, S, H, O, W, S, P, O, S, S, E, S, S, I, O, N. The word or phrase reads: Apostrophe always shows possession"
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "It may accept a real but contextually wrong word.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
     }
   },
   {
@@ -1270,37 +1415,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Apostrophe always shows possession”. Which feedback helps? Task: An editor reviewing a new text claims, “A spell-checker catches every error”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Apostrophe always shows possession”. Which feedback helps? Task: An editor reviewing a new text claims, “A spell-checker catches every error”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-008",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 2. Notice: Expand contractions. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which final choice gives the clearest and most accurate result for completing “The dog wagged _____ tail.”?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for completing “The dog wagged _____ tail.”?",
     "answers": [
       {
-        "text": "Keep “Apostrophe always shows possession”; it uses a detail that sounds familiar.",
+        "text": "it’s",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It may accept a real but contextually wrong word.",
+        "text": "its’",
+        "is_correct": false
+      },
+      {
+        "text": "its",
         "is_correct": true
-      },
-      {
-        "text": "Choose “A spell-checker catches every error” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, A, P, O, S, T, R, O, P, H, E, A, L, W, A, Y, S, S, H, O, W, S, P, O, S, S, E, S, S, I, O, N, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Apostrophe always shows possession”; it uses a detail that sounds familiar.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, I, T, M, A, Y, A, C, C, E, P, T, A, R, E, A, L, B, U, T, C, O, N, T, E, X, T, U, A, L, L, Y, W, R, O, N, G, W, O, R, D. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. It may accept a real but contextually wrong word.",
-      "The written choice is spelled C, H, O, O, S, E, A, S, P, E, L, L, C, H, E, C, K, E, R, C, A, T, C, H, E, S, E, V, E, R, Y, E, R, R, O, R, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “A spell-checker catches every error” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It may accept a real but contextually wrong word.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Its shows possession, while it’s means it is or it has.",
+      "hint": "Expand it’s to it is and see whether that makes sense."
     }
   },
   {
@@ -1309,37 +1445,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "misconception_3_apply",
-    "question": "An editor reviewing a new text claims, “Apostrophe always shows possession”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Apostrophe always shows possession”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-009",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 3. Notice: Proofread contextual errors. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "New context: completing “_____ been raining since breakfast.”. Which option is correct?",
+    "audio_prompt": "New context: completing “_____ been raining since breakfast.”. Which option is correct?",
     "answers": [
       {
-        "text": "Apostrophe always shows possession",
-        "is_correct": false
-      },
-      {
-        "text": "Its and it’s are interchangeable",
-        "is_correct": false
-      },
-      {
-        "text": "In they’re and you’re it marks omitted letters.",
+        "text": "It’s",
         "is_correct": true
+      },
+      {
+        "text": "Its",
+        "is_correct": false
+      },
+      {
+        "text": "Its’",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled A, P, O, S, T, R, O, P, H, E, A, L, W, A, Y, S, S, H, O, W, S, P, O, S, S, E, S, S, I, O, N. The word or phrase reads: Apostrophe always shows possession",
-      "The written choice is spelled I, T, S, A, N, D, I, T, S, A, R, E, I, N, T, E, R, C, H, A, N, G, E, A, B, L, E. The word or phrase reads: Its and it’s are interchangeable",
-      "The written choice is spelled I, N, T, H, E, Y, R, E, A, N, D, Y, O, U, R, E, I, T, M, A, R, K, S, O, M, I, T, T, E, D, L, E, T, T, E, R, S. The word or phrase reads: In they’re and you’re it marks omitted letters."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "In they’re and you’re it marks omitted letters.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
     }
   },
   {
@@ -1348,37 +1475,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Apostrophe always shows possession”. Which feedback helps? Task: An editor reviewing a new text claims, “Apostrophe always shows possession”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Apostrophe always shows possession”. Which feedback helps? Task: An editor reviewing a new text claims, “Apostrophe always shows possession”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-010",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 3. Notice: Proofread contextual errors. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "What is the best choice for completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "What is the best choice for completing “_____ been raining since breakfast.”?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. In they’re and you’re it marks omitted letters.",
+        "text": "Its",
+        "is_correct": false
+      },
+      {
+        "text": "It’s",
         "is_correct": true
       },
       {
-        "text": "Keep “Apostrophe always shows possession”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Its and it’s are interchangeable” instead; it sounds clearer.",
+        "text": "Its’",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, I, N, T, H, E, Y, R, E, A, N, D, Y, O, U, R, E, I, T, M, A, R, K, S, O, M, I, T, T, E, D, L, E, T, T, E, R, S. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. In they’re and you’re it marks omitted letters.",
-      "The written choice is spelled K, E, E, P, A, P, O, S, T, R, O, P, H, E, A, L, W, A, Y, S, S, H, O, W, S, P, O, S, S, E, S, S, I, O, N, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Apostrophe always shows possession”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, I, T, S, A, N, D, I, T, S, A, R, E, I, N, T, E, R, C, H, A, N, G, E, A, B, L, E, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Its and it’s are interchangeable” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. In they’re and you’re it marks omitted letters.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
     }
   },
   {
@@ -1387,37 +1505,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "misconception_4_apply",
-    "question": "An editor reviewing a new text claims, “Its and it’s are interchangeable”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Its and it’s are interchangeable”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-011",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 4. Notice: Spell high-frequency words. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which explanation best supports “It’s” in completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "Which explanation best supports “It’s” in completing “_____ been raining since breakfast.”?",
     "answers": [
       {
-        "text": "Its and it’s are interchangeable",
+        "text": "Because “Its” is always a safe choice.",
         "is_correct": false
       },
       {
-        "text": "It’s expands to it is or has; its is possessive.",
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It’s is the contraction of it has in this sentence.",
         "is_correct": true
-      },
-      {
-        "text": "Automaticity means no proofreading",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled I, T, S, A, N, D, I, T, S, A, R, E, I, N, T, E, R, C, H, A, N, G, E, A, B, L, E. The word or phrase reads: Its and it’s are interchangeable",
-      "The written choice is spelled I, T, S, E, X, P, A, N, D, S, T, O, I, T, I, S, O, R, H, A, S, I, T, S, I, S, P, O, S, S, E, S, S, I, V, E. The word or phrase reads: It’s expands to it is or has; its is possessive.",
-      "The written choice is spelled A, U, T, O, M, A, T, I, C, I, T, Y, M, E, A, N, S, N, O, P, R, O, O, F, R, E, A, D, I, N, G. The word or phrase reads: Automaticity means no proofreading"
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "It’s expands to it is or has; its is possessive.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
     }
   },
   {
@@ -1426,37 +1535,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Automaticity means no proofreading”. Which feedback helps? Task: An editor reviewing a new text claims, “Its and it’s are interchangeable”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Automaticity means no proofreading”. Which feedback helps? Task: An editor reviewing a new text claims, “Its and it’s are interchangeable”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-012",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 4. Notice: Spell high-frequency words. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which clue should guide your decision in completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "Which clue should guide your decision in completing “_____ been raining since breakfast.”?",
     "answers": [
       {
-        "text": "Keep “Automaticity means no proofreading”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Its and it’s are interchangeable” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It’s expands to it is or has; its is possessive.",
+        "text": "Try expanding the contraction before choosing the spelling.",
         "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, A, U, T, O, M, A, T, I, C, I, T, Y, M, E, A, N, S, N, O, P, R, O, O, F, R, E, A, D, I, N, G, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Automaticity means no proofreading”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, I, T, S, A, N, D, I, T, S, A, R, E, I, N, T, E, R, C, H, A, N, G, E, A, B, L, E, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Its and it’s are interchangeable” instead; it sounds clearer.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, I, T, S, E, X, P, A, N, D, S, T, O, I, T, I, S, O, R, H, A, S, I, T, S, I, S, P, O, S, S, E, S, S, I, V, E. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. It’s expands to it is or has; its is possessive."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It’s expands to it is or has; its is possessive.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
     }
   },
   {
@@ -1465,37 +1565,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "misconception_5_apply",
-    "question": "An editor reviewing a new text claims, “Automaticity means no proofreading”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Automaticity means no proofreading”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-013",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 5. Notice: Select homophones by meaning. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which option would you reject first in completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "Which option would you reject first in completing “_____ been raining since breakfast.”?",
     "answers": [
       {
-        "text": "Context errors can still occur in familiar words.",
+        "text": "It’s",
+        "is_correct": false
+      },
+      {
+        "text": "Its",
         "is_correct": true
       },
       {
-        "text": "Automaticity means no proofreading",
-        "is_correct": false
-      },
-      {
-        "text": "Sound selects spelling",
+        "text": "Its’",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled C, O, N, T, E, X, T, E, R, R, O, R, S, C, A, N, S, T, I, L, L, O, C, C, U, R, I, N, F, A, M, I, L, I, A, R, W, O, R, D, S. The word or phrase reads: Context errors can still occur in familiar words.",
-      "The written choice is spelled A, U, T, O, M, A, T, I, C, I, T, Y, M, E, A, N, S, N, O, P, R, O, O, F, R, E, A, D, I, N, G. The word or phrase reads: Automaticity means no proofreading",
-      "The written choice is spelled S, O, U, N, D, S, E, L, E, C, T, S, S, P, E, L, L, I, N, G. The word or phrase reads: Sound selects spelling"
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Context errors can still occur in familiar words.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
     }
   },
   {
@@ -1504,37 +1595,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "misconception_5_reason",
-    "question": "A student answers “Automaticity means no proofreading”. Which feedback helps? Task: An editor reviewing a new text claims, “Automaticity means no proofreading”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Automaticity means no proofreading”. Which feedback helps? Task: An editor reviewing a new text claims, “Automaticity means no proofreading”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-014",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Misconception 5. Notice: Select homophones by meaning. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which correction should replace “Its” in completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "Which correction should replace “Its” in completing “_____ been raining since breakfast.”?",
     "answers": [
       {
-        "text": "Keep “Automaticity means no proofreading”; it uses a detail that sounds familiar.",
+        "text": "Its",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context errors can still occur in familiar words.",
+        "text": "Its’",
+        "is_correct": false
+      },
+      {
+        "text": "It’s",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Sound selects spelling” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled K, E, E, P, A, U, T, O, M, A, T, I, C, I, T, Y, M, E, A, N, S, N, O, P, R, O, O, F, R, E, A, D, I, N, G, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Automaticity means no proofreading”; it uses a detail that sounds familiar.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, C, O, N, T, E, X, T, E, R, R, O, R, S, C, A, N, S, T, I, L, L, O, C, C, U, R, I, N, F, A, M, I, L, I, A, R, W, O, R, D, S. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context errors can still occur in familiar words.",
-      "The written choice is spelled C, H, O, O, S, E, S, O, U, N, D, S, E, L, E, C, T, S, S, P, E, L, L, I, N, G, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Sound selects spelling” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context errors can still occur in familiar words.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
     }
   },
   {
@@ -1543,37 +1625,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "homophone_decision_cards_apply",
-    "question": "A different class adapts “Homophone decision cards”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Homophone decision cards”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-015",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Homophone decision cards. Notice: Use grammar and context. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Apply the skill to completing “_____ been raining since breakfast.”: what should you choose?",
+    "audio_prompt": "Apply the skill to completing “_____ been raining since breakfast.”: what should you choose?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
-        "is_correct": false
-      },
-      {
-        "text": "Complete sentences, explain meaning and identify grammatical role before choosing spelling.",
+        "text": "It’s",
         "is_correct": true
+      },
+      {
+        "text": "Its",
+        "is_correct": false
+      },
+      {
+        "text": "Its’",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T. The word or phrase reads: Copy the title, then choose an answer without analysing the language or text.",
-      "The written choice is spelled C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y. The word or phrase reads: Change the purpose and audience halfway through, then report the first impression only.",
-      "The written choice is spelled C, O, M, P, L, E, T, E, S, E, N, T, E, N, C, E, S, E, X, P, L, A, I, N, M, E, A, N, I, N, G, A, N, D, I, D, E, N, T, I, F, Y, G, R, A, M, M, A, T, I, C, A, L, R, O, L, E, B, E, F, O, R, E, C, H, O, O, S, I, N, G, S, P, E, L, L, I, N, G. The word or phrase reads: Complete sentences, explain meaning and identify grammatical role before choosing spelling."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Complete sentences, explain meaning and identify grammatical role before choosing spelling.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
     }
   },
   {
@@ -1582,37 +1655,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY11",
     "bank": "test",
-    "skill": "homophone_decision_cards_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Homophone decision cards”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Homophone decision cards”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly11.svg#ac9e4ly11-t-016",
-      "alt_text": "Three-step High-frequency Words, Homophones and Context organiser. Read: Homophone decision cards. Notice: Use grammar and context. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "High-Frequency Words and Homophones",
+    "question": "Which final choice gives the clearest and most accurate result for completing “_____ been raining since breakfast.”?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for completing “_____ been raining since breakfast.”?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Complete sentences, explain meaning and identify grammatical role before choosing spelling.",
+        "text": "Its",
+        "is_correct": false
+      },
+      {
+        "text": "It’s",
         "is_correct": true
       },
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Its’",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "The written choice is spelled C, H, O, O, S, E, T, H, E, P, L, A, N, T, H, A, T, A, N, A, L, Y, S, E, S, L, A, N, G, U, A, G, E, E, V, I, D, E, N, C, E, A, N, D, P, R, O, D, U, C, E, S, A, R, E, V, I, E, W, A, B, L, E, R, E, S, P, O, N, S, E, C, O, M, P, L, E, T, E, S, E, N, T, E, N, C, E, S, E, X, P, L, A, I, N, M, E, A, N, I, N, G, A, N, D, I, D, E, N, T, I, F, Y, G, R, A, M, M, A, T, I, C, A, L, R, O, L, E, B, E, F, O, R, E, C, H, O, O, S, I, N, G, S, P, E, L, L, I, N, G. The word or phrase reads: Choose the plan that analyses language evidence and produces a reviewable response. Complete sentences, explain meaning and identify grammatical role before choosing spelling.",
-      "The written choice is spelled K, E, E, P, C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Complete sentences, explain meaning and identify grammatical role before choosing spelling.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "It’s is the contraction of it has in this sentence.",
+      "hint": "Try expanding the contraction before choosing the spelling."
     }
   }
 ]

@@ -4,33 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-001",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. What is the base in unpredictable?",
-    "audioPrompt": "Read the classroom example. What is the base in unpredictable?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 1. Notice: Use syllable knowledge. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 1. Notice: Use syllable knowledge. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-001",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 1. Notice: Use syllable knowledge. Choose the response supported by the example."
-    },
+    "question": "In working out “unhelpful”, which option best demonstrates the skill?",
+    "audioPrompt": "In working out “unhelpful”, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "un",
-      "predict",
-      "able"
-    ],
-    "audioAnswers": [
-      "The written choice is spelled U, N. The word or phrase reads: un",
-      "The written choice is spelled P, R, E, D, I, C, T. The word or phrase reads: predict",
-      "The written choice is spelled A, B, L, E. The word or phrase reads: able"
+      "Guess from the first two letters only.",
+      "Break it into un- + help + -ful and use the parts to understand “not helpful”.",
+      "Treat unhelpful as unrelated to help."
     ],
     "correct": 1,
-    "explanation": "The evidence and language purpose support “predict”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Recognising prefix, base word and suffix supports both decoding and meaning.\nHint: Look for a known base word inside the longer word.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “predict”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
     },
     "qualitySchema": "production-v1"
   },
@@ -38,33 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-002",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “un”. Which feedback helps? Task: Read the classroom example. What is the base in unpredictable?",
-    "audioPrompt": "A student answers “un”. Which feedback helps? Task: Read the classroom example. What is the base in unpredictable?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 1. Notice: Use syllable knowledge. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 1. Notice: Use syllable knowledge. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-002",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 1. Notice: Use syllable knowledge. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits working out “unhelpful” most accurately?",
+    "audioPrompt": "Which choice fits working out “unhelpful” most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “un”; it uses a detail that sounds familiar.",
-      "Choose “able” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “predict”."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled K, E, E, P, U, N, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “un”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, A, B, L, E, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “able” instead; it sounds clearer.",
-      "The written choice is spelled C, H, E, C, K, T, H, E, W, H, O, L, E, S, E, N, T, E, N, C, E, O, R, T, E, X, T, F, E, A, T, U, R, E, T, H, E, N, T, E, S, T, M, E, A, N, I, N, G, A, N, D, G, R, A, M, M, A, R, T, H, E, E, V, I, D, E, N, C, E, A, N, D, L, A, N, G, U, A, G, E, P, U, R, P, O, S, E, S, U, P, P, O, R, T, P, R, E, D, I, C, T. The word or phrase reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “predict”."
+      "Guess from the first two letters only.",
+      "Treat unhelpful as unrelated to help.",
+      "Break it into un- + help + -ful and use the parts to understand “not helpful”."
     ],
     "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “predict”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Recognising prefix, base word and suffix supports both decoding and meaning.\nHint: Look for a known base word inside the longer word.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “predict”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
     },
     "qualitySchema": "production-v1"
   },
@@ -72,33 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-003",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which statement is correct?",
-    "audioPrompt": "Read the classroom example. Which statement is correct?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 2. Notice: Analyse morphemes. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 2. Notice: Analyse morphemes. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-003",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 2. Notice: Analyse morphemes. Choose the response supported by the example."
-    },
+    "question": "Which choice fits spelling “careless” most accurately?",
+    "audioPrompt": "Which choice fits spelling “careless” most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Syllable and morpheme boundaries can differ",
-      "Every letter is a separate syllable",
-      "Context replaces decoding"
-    ],
-    "audioAnswers": [
-      "The written choice is spelled S, Y, L, L, A, B, L, E, A, N, D, M, O, R, P, H, E, M, E, B, O, U, N, D, A, R, I, E, S, C, A, N, D, I, F, F, E, R. The word or phrase reads: Syllable and morpheme boundaries can differ",
-      "The written choice is spelled E, V, E, R, Y, L, E, T, T, E, R, I, S, A, S, E, P, A, R, A, T, E, S, Y, L, L, A, B, L, E. The word or phrase reads: Every letter is a separate syllable",
-      "The written choice is spelled C, O, N, T, E, X, T, R, E, P, L, A, C, E, S, D, E, C, O, D, I, N, G. The word or phrase reads: Context replaces decoding"
+      "Use care + -less, keeping the base word care before adding the suffix.",
+      "Spell it carless because the unstressed vowel seems quiet.",
+      "Spell it careluss by sound alone."
     ],
     "correct": 0,
-    "explanation": "The evidence and language purpose support “Syllable and morpheme boundaries can differ”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.\nHint: Think about the base word before the suffix.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “Syllable and morpheme boundaries can differ”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
     },
     "qualitySchema": "production-v1"
   },
@@ -106,33 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-004",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Context replaces decoding”. Which feedback helps? Task: Read the classroom example. Which statement is correct?",
-    "audioPrompt": "A student answers “Context replaces decoding”. Which feedback helps? Task: Read the classroom example. Which statement is correct?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 2. Notice: Analyse morphemes. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 2. Notice: Analyse morphemes. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-004",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Worked text 2. Notice: Analyse morphemes. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at spelling “careless”. Which response or wording works best?",
+    "audioPrompt": "Look closely at spelling “careless”. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Context replaces decoding”; it uses a detail that sounds familiar.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Syllable and morpheme boundaries can differ”.",
-      "Choose “Every letter is a separate syllable” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled K, E, E, P, C, O, N, T, E, X, T, R, E, P, L, A, C, E, S, D, E, C, O, D, I, N, G, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Context replaces decoding”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, E, C, K, T, H, E, W, H, O, L, E, S, E, N, T, E, N, C, E, O, R, T, E, X, T, F, E, A, T, U, R, E, T, H, E, N, T, E, S, T, M, E, A, N, I, N, G, A, N, D, G, R, A, M, M, A, R, T, H, E, E, V, I, D, E, N, C, E, A, N, D, L, A, N, G, U, A, G, E, P, U, R, P, O, S, E, S, U, P, P, O, R, T, S, Y, L, L, A, B, L, E, A, N, D, M, O, R, P, H, E, M, E, B, O, U, N, D, A, R, I, E, S, C, A, N, D, I, F, F, E, R. The word or phrase reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Syllable and morpheme boundaries can differ”.",
-      "The written choice is spelled C, H, O, O, S, E, E, V, E, R, Y, L, E, T, T, E, R, I, S, A, S, E, P, A, R, A, T, E, S, Y, L, L, A, B, L, E, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Every letter is a separate syllable” instead; it sounds clearer."
+      "Spell it carless because the unstressed vowel seems quiet.",
+      "Use care + -less, keeping the base word care before adding the suffix.",
+      "Spell it careluss by sound alone."
     ],
     "correct": 1,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Syllable and morpheme boundaries can differ”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.\nHint: Think about the base word before the suffix.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Syllable and morpheme boundaries can differ”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
     },
     "qualitySchema": "production-v1"
   },
@@ -140,33 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-005",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Syllable and morpheme boundaries must match”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Syllable and morpheme boundaries must match”. Which response gives the most accurate correction?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 1. Notice: Read complex graphemes. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 1. Notice: Read complex graphemes. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-005",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 1. Notice: Read complex graphemes. Choose the response supported by the example."
-    },
+    "question": "Look closely at reading “information”. Which response or wording works best?",
+    "audioPrompt": "Look closely at reading “information”. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Syllable and morpheme boundaries must match",
-      "Every vowel letter makes one sound",
-      "They serve different purposes and may divide differently."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled S, Y, L, L, A, B, L, E, A, N, D, M, O, R, P, H, E, M, E, B, O, U, N, D, A, R, I, E, S, M, U, S, T, M, A, T, C, H. The word or phrase reads: Syllable and morpheme boundaries must match",
-      "The written choice is spelled E, V, E, R, Y, V, O, W, E, L, L, E, T, T, E, R, M, A, K, E, S, O, N, E, S, O, U, N, D. The word or phrase reads: Every vowel letter makes one sound",
-      "The written choice is spelled T, H, E, Y, S, E, R, V, E, D, I, F, F, E, R, E, N, T, P, U, R, P, O, S, E, S, A, N, D, M, A, Y, D, I, V, I, D, E, D, I, F, F, E, R, E, N, T, L, Y. The word or phrase reads: They serve different purposes and may divide differently."
+      "Sound out the whole word as one long unit without checking meaning.",
+      "Skip the unstressed syllable completely.",
+      "Chunk the word into manageable syllables and connect inform + -ation to meaning."
     ],
     "correct": 2,
-    "explanation": "They serve different purposes and may divide differently.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Syllable chunking and morphology can work together in long words.\nHint: Find both pronounceable chunks and meaningful parts.",
     "structuredExplanation": {
-      "summary": "They serve different purposes and may divide differently.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -174,33 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-006",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Syllable and morpheme boundaries must match”. Which feedback helps? Task: A student in a workshop claims, “Syllable and morpheme boundaries must match”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Syllable and morpheme boundaries must match”. Which feedback helps? Task: A student in a workshop claims, “Syllable and morpheme boundaries must match”. Which response gives the most accurate correction?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 1. Notice: Read complex graphemes. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 1. Notice: Read complex graphemes. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-006",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 1. Notice: Read complex graphemes. Correct the student's mix-up using the full task."
-    },
+    "question": "For reading “information”, which option is the strongest match?",
+    "audioPrompt": "For reading “information”, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. They serve different purposes and may divide differently.",
-      "Keep “Syllable and morpheme boundaries must match”; it uses a detail that sounds familiar.",
-      "Choose “Every vowel letter makes one sound” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, T, H, E, Y, S, E, R, V, E, D, I, F, F, E, R, E, N, T, P, U, R, P, O, S, E, S, A, N, D, M, A, Y, D, I, V, I, D, E, D, I, F, F, E, R, E, N, T, L, Y. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. They serve different purposes and may divide differently.",
-      "The written choice is spelled K, E, E, P, S, Y, L, L, A, B, L, E, A, N, D, M, O, R, P, H, E, M, E, B, O, U, N, D, A, R, I, E, S, M, U, S, T, M, A, T, C, H, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Syllable and morpheme boundaries must match”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, E, V, E, R, Y, V, O, W, E, L, L, E, T, T, E, R, M, A, K, E, S, O, N, E, S, O, U, N, D, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Every vowel letter makes one sound” instead; it sounds clearer."
+      "Chunk the word into manageable syllables and connect inform + -ation to meaning.",
+      "Sound out the whole word as one long unit without checking meaning.",
+      "Skip the unstressed syllable completely."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. They serve different purposes and may divide differently.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Syllable chunking and morphology can work together in long words.\nHint: Find both pronounceable chunks and meaningful parts.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. They serve different purposes and may divide differently.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -208,33 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-007",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Every vowel letter makes one sound”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Every vowel letter makes one sound”. Which response gives the most accurate correction?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 2. Notice: Connect word families. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 2. Notice: Connect word families. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-007",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 2. Notice: Connect word families. Choose the response supported by the example."
-    },
+    "question": "For spelling “disagreement”, which option is the strongest match?",
+    "audioPrompt": "For spelling “disagreement”, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Every vowel letter makes one sound",
-      "Vowel graphemes and unstressed vowels can be complex.",
-      "Prefix guessed without checking base meaning"
-    ],
-    "audioAnswers": [
-      "The written choice is spelled E, V, E, R, Y, V, O, W, E, L, L, E, T, T, E, R, M, A, K, E, S, O, N, E, S, O, U, N, D. The word or phrase reads: Every vowel letter makes one sound",
-      "The written choice is spelled V, O, W, E, L, G, R, A, P, H, E, M, E, S, A, N, D, U, N, S, T, R, E, S, S, E, D, V, O, W, E, L, S, C, A, N, B, E, C, O, M, P, L, E, X. The word or phrase reads: Vowel graphemes and unstressed vowels can be complex.",
-      "The written choice is spelled P, R, E, F, I, X, G, U, E, S, S, E, D, W, I, T, H, O, U, T, C, H, E, C, K, I, N, G, B, A, S, E, M, E, A, N, I, N, G. The word or phrase reads: Prefix guessed without checking base meaning"
+      "Spell it disagreemint only from the weak final vowel.",
+      "Build it from dis- + agree + -ment.",
+      "Remove agree because the prefix changes the whole word."
     ],
     "correct": 1,
-    "explanation": "Vowel graphemes and unstressed vowels can be complex.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.\nHint: Write the meaningful parts you know.",
     "structuredExplanation": {
-      "summary": "Vowel graphemes and unstressed vowels can be complex.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
     },
     "qualitySchema": "production-v1"
   },
@@ -242,33 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-008",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Prefix guessed without checking base meaning”. Which feedback helps? Task: A student in a workshop claims, “Every vowel letter makes one sound”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Prefix guessed without checking base meaning”. Which feedback helps? Task: A student in a workshop claims, “Every vowel letter makes one sound”. Which response gives the most accurate correction?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 2. Notice: Connect word families. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 2. Notice: Connect word families. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-008",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 2. Notice: Connect word families. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for spelling “disagreement”?",
+    "audioPrompt": "Which example should you choose for spelling “disagreement”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Prefix guessed without checking base meaning”; it uses a detail that sounds familiar.",
-      "Choose “Every vowel letter makes one sound” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Vowel graphemes and unstressed vowels can be complex."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled K, E, E, P, P, R, E, F, I, X, G, U, E, S, S, E, D, W, I, T, H, O, U, T, C, H, E, C, K, I, N, G, B, A, S, E, M, E, A, N, I, N, G, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Prefix guessed without checking base meaning”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, E, V, E, R, Y, V, O, W, E, L, L, E, T, T, E, R, M, A, K, E, S, O, N, E, S, O, U, N, D, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Every vowel letter makes one sound” instead; it sounds clearer.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, V, O, W, E, L, G, R, A, P, H, E, M, E, S, A, N, D, U, N, S, T, R, E, S, S, E, D, V, O, W, E, L, S, C, A, N, B, E, C, O, M, P, L, E, X. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Vowel graphemes and unstressed vowels can be complex."
+      "Spell it disagreemint only from the weak final vowel.",
+      "Remove agree because the prefix changes the whole word.",
+      "Build it from dis- + agree + -ment."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Vowel graphemes and unstressed vowels can be complex.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.\nHint: Write the meaningful parts you know.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Vowel graphemes and unstressed vowels can be complex.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
     },
     "qualitySchema": "production-v1"
   },
@@ -276,33 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-009",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Prefix guessed without checking base meaning”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Prefix guessed without checking base meaning”. Which response gives the most accurate correction?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 3. Notice: Check pronunciation and meaning. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 3. Notice: Check pronunciation and meaning. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-009",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 3. Notice: Check pronunciation and meaning. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for working out “reappearance”?",
+    "audioPrompt": "Which example should you choose for working out “reappearance”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Confirm that the remaining base and whole-word meaning make sense.",
-      "Prefix guessed without checking base meaning",
-      "Context used instead of decoding"
-    ],
-    "audioAnswers": [
-      "The written choice is spelled C, O, N, F, I, R, M, T, H, A, T, T, H, E, R, E, M, A, I, N, I, N, G, B, A, S, E, A, N, D, W, H, O, L, E, W, O, R, D, M, E, A, N, I, N, G, M, A, K, E, S, E, N, S, E. The word or phrase reads: Confirm that the remaining base and whole-word meaning make sense.",
-      "The written choice is spelled P, R, E, F, I, X, G, U, E, S, S, E, D, W, I, T, H, O, U, T, C, H, E, C, K, I, N, G, B, A, S, E, M, E, A, N, I, N, G. The word or phrase reads: Prefix guessed without checking base meaning",
-      "The written choice is spelled C, O, N, T, E, X, T, U, S, E, D, I, N, S, T, E, A, D, O, F, D, E, C, O, D, I, N, G. The word or phrase reads: Context used instead of decoding"
+      "Recognise re- + appear + -ance and connect the word to appearing again.",
+      "Assume re- always means wrong.",
+      "Treat the word as having no connection to appear."
     ],
     "correct": 0,
-    "explanation": "Confirm that the remaining base and whole-word meaning make sense.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Prefixes and suffixes provide clues to both pronunciation and meaning.\nHint: Start with the base word and then add each affix meaning.",
     "structuredExplanation": {
-      "summary": "Confirm that the remaining base and whole-word meaning make sense.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -310,33 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-010",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Prefix guessed without checking base meaning”. Which feedback helps? Task: A student in a workshop claims, “Prefix guessed without checking base meaning”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Prefix guessed without checking base meaning”. Which feedback helps? Task: A student in a workshop claims, “Prefix guessed without checking base meaning”. Which response gives the most accurate correction?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 3. Notice: Check pronunciation and meaning. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 3. Notice: Check pronunciation and meaning. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-010",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 3. Notice: Check pronunciation and meaning. Correct the student's mix-up using the full task."
-    },
+    "question": "In working out “reappearance”, which option best demonstrates the skill?",
+    "audioPrompt": "In working out “reappearance”, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Prefix guessed without checking base meaning”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Confirm that the remaining base and whole-word meaning make sense.",
-      "Choose “Context used instead of decoding” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled K, E, E, P, P, R, E, F, I, X, G, U, E, S, S, E, D, W, I, T, H, O, U, T, C, H, E, C, K, I, N, G, B, A, S, E, M, E, A, N, I, N, G, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Prefix guessed without checking base meaning”; it uses a detail that sounds familiar.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, C, O, N, F, I, R, M, T, H, A, T, T, H, E, R, E, M, A, I, N, I, N, G, B, A, S, E, A, N, D, W, H, O, L, E, W, O, R, D, M, E, A, N, I, N, G, M, A, K, E, S, E, N, S, E. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Confirm that the remaining base and whole-word meaning make sense.",
-      "The written choice is spelled C, H, O, O, S, E, C, O, N, T, E, X, T, U, S, E, D, I, N, S, T, E, A, D, O, F, D, E, C, O, D, I, N, G, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Context used instead of decoding” instead; it sounds clearer."
+      "Assume re- always means wrong.",
+      "Recognise re- + appear + -ance and connect the word to appearing again.",
+      "Treat the word as having no connection to appear."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Confirm that the remaining base and whole-word meaning make sense.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Prefixes and suffixes provide clues to both pronunciation and meaning.\nHint: Start with the base word and then add each affix meaning.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Confirm that the remaining base and whole-word meaning make sense.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -344,33 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-011",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Context used instead of decoding”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Context used instead of decoding”. Which response gives the most accurate correction?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 4. Notice: Use syllable knowledge. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 4. Notice: Use syllable knowledge. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-011",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 4. Notice: Use syllable knowledge. Choose the response supported by the example."
-    },
+    "question": "Why does “Break it into un- + help + -ful and use the parts to understand “not helpful”.” work well for working out “unhelpful”?",
+    "audioPrompt": "Why does “Break it into un- + help + -ful and use the parts to understand “not helpful”.” work well for working out “unhelpful”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Context used instead of decoding",
-      "Word read once but not understood",
-      "Context verifies a word; written evidence remains essential."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled C, O, N, T, E, X, T, U, S, E, D, I, N, S, T, E, A, D, O, F, D, E, C, O, D, I, N, G. The word or phrase reads: Context used instead of decoding",
-      "The written choice is spelled W, O, R, D, R, E, A, D, O, N, C, E, B, U, T, N, O, T, U, N, D, E, R, S, T, O, O, D. The word or phrase reads: Word read once but not understood",
-      "The written choice is spelled C, O, N, T, E, X, T, V, E, R, I, F, I, E, S, A, W, O, R, D, W, R, I, T, T, E, N, E, V, I, D, E, N, C, E, R, E, M, A, I, N, S, E, S, S, E, N, T, I, A, L. The word or phrase reads: Context verifies a word; written evidence remains essential."
+      "Because “Guess from the first two letters only.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Recognising prefix, base word and suffix supports both decoding and meaning."
     ],
     "correct": 2,
-    "explanation": "Context verifies a word; written evidence remains essential.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Recognising prefix, base word and suffix supports both decoding and meaning.\nHint: Look for a known base word inside the longer word.",
     "structuredExplanation": {
-      "summary": "Context verifies a word; written evidence remains essential.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
     },
     "qualitySchema": "production-v1"
   },
@@ -378,33 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-012",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Word read once but not understood”. Which feedback helps? Task: A student in a workshop claims, “Context used instead of decoding”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Word read once but not understood”. Which feedback helps? Task: A student in a workshop claims, “Context used instead of decoding”. Which response gives the most accurate correction?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 4. Notice: Use syllable knowledge. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 4. Notice: Use syllable knowledge. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-012",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 4. Notice: Use syllable knowledge. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “Break it into un- + help + -ful and use the parts to understand “not helpful”.” a better choice in working out “unhelpful”?",
+    "audioPrompt": "What makes “Break it into un- + help + -ful and use the parts to understand “not helpful”.” a better choice in working out “unhelpful”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context verifies a word; written evidence remains essential.",
-      "Keep “Word read once but not understood”; it uses a detail that sounds familiar.",
-      "Choose “Context used instead of decoding” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, C, O, N, T, E, X, T, V, E, R, I, F, I, E, S, A, W, O, R, D, W, R, I, T, T, E, N, E, V, I, D, E, N, C, E, R, E, M, A, I, N, S, E, S, S, E, N, T, I, A, L. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context verifies a word; written evidence remains essential.",
-      "The written choice is spelled K, E, E, P, W, O, R, D, R, E, A, D, O, N, C, E, B, U, T, N, O, T, U, N, D, E, R, S, T, O, O, D, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Word read once but not understood”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, C, O, N, T, E, X, T, U, S, E, D, I, N, S, T, E, A, D, O, F, D, E, C, O, D, I, N, G, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Context used instead of decoding” instead; it sounds clearer."
+      "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "Because “Guess from the first two letters only.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context verifies a word; written evidence remains essential.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Recognising prefix, base word and suffix supports both decoding and meaning.\nHint: Look for a known base word inside the longer word.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Context verifies a word; written evidence remains essential.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,33 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-013",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "misconception 5 apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Word read once but not understood”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Word read once but not understood”. Which response gives the most accurate correction?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 5. Notice: Analyse morphemes. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 5. Notice: Analyse morphemes. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-013",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 5. Notice: Analyse morphemes. Choose the response supported by the example."
-    },
+    "question": "What makes “Use care + -less, keeping the base word care before adding the suffix.” a better choice in spelling “careless”?",
+    "audioPrompt": "What makes “Use care + -less, keeping the base word care before adding the suffix.” a better choice in spelling “careless”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Word read once but not understood",
-      "Connect pronunciation to morphology and sentence meaning.",
-      "Syllable and morpheme boundaries must match"
-    ],
-    "audioAnswers": [
-      "The written choice is spelled W, O, R, D, R, E, A, D, O, N, C, E, B, U, T, N, O, T, U, N, D, E, R, S, T, O, O, D. The word or phrase reads: Word read once but not understood",
-      "The written choice is spelled C, O, N, N, E, C, T, P, R, O, N, U, N, C, I, A, T, I, O, N, T, O, M, O, R, P, H, O, L, O, G, Y, A, N, D, S, E, N, T, E, N, C, E, M, E, A, N, I, N, G. The word or phrase reads: Connect pronunciation to morphology and sentence meaning.",
-      "The written choice is spelled S, Y, L, L, A, B, L, E, A, N, D, M, O, R, P, H, E, M, E, B, O, U, N, D, A, R, I, E, S, M, U, S, T, M, A, T, C, H. The word or phrase reads: Syllable and morpheme boundaries must match"
+      "Because “Spell it carless because the unstressed vowel seems quiet.” is always acceptable in this situation.",
+      "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Connect pronunciation to morphology and sentence meaning.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.\nHint: Think about the base word before the suffix.",
     "structuredExplanation": {
-      "summary": "Connect pronunciation to morphology and sentence meaning.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
     },
     "qualitySchema": "production-v1"
   },
@@ -446,33 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-014",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "misconception 5 reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Word read once but not understood”. Which feedback helps? Task: A student in a workshop claims, “Word read once but not understood”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Word read once but not understood”. Which feedback helps? Task: A student in a workshop claims, “Word read once but not understood”. Which response gives the most accurate correction?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 5. Notice: Analyse morphemes. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 5. Notice: Analyse morphemes. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-014",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Misconception 5. Notice: Analyse morphemes. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “Use care + -less, keeping the base word care before adding the suffix.” for spelling “careless”?",
+    "audioPrompt": "Which explanation best justifies “Use care + -less, keeping the base word care before adding the suffix.” for spelling “careless”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Word read once but not understood”; it uses a detail that sounds familiar.",
-      "Choose “Syllable and morpheme boundaries must match” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect pronunciation to morphology and sentence meaning."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled K, E, E, P, W, O, R, D, R, E, A, D, O, N, C, E, B, U, T, N, O, T, U, N, D, E, R, S, T, O, O, D, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Word read once but not understood”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, S, Y, L, L, A, B, L, E, A, N, D, M, O, R, P, H, E, M, E, B, O, U, N, D, A, R, I, E, S, M, U, S, T, M, A, T, C, H, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Syllable and morpheme boundaries must match” instead; it sounds clearer.",
-      "The written choice is spelled I, D, E, N, T, I, F, Y, E, X, A, C, T, L, Y, W, H, A, T, T, H, E, C, L, A, I, M, O, V, E, R, L, O, O, K, S, T, H, E, N, C, H, O, O, S, E, T, H, E, C, O, R, R, E, C, T, I, O, N, T, H, A, T, R, E, S, T, O, R, E, S, M, E, A, N, I, N, G, C, O, N, N, E, C, T, P, R, O, N, U, N, C, I, A, T, I, O, N, T, O, M, O, R, P, H, O, L, O, G, Y, A, N, D, S, E, N, T, E, N, C, E, M, E, A, N, I, N, G. The word or phrase reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect pronunciation to morphology and sentence meaning."
+      "Because “Spell it carless because the unstressed vowel seems quiet.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect pronunciation to morphology and sentence meaning.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.\nHint: Think about the base word before the suffix.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect pronunciation to morphology and sentence meaning.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
     },
     "qualitySchema": "production-v1"
   },
@@ -480,33 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-015",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "double analysis apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Double analysis”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Double analysis”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Double analysis. Notice: Read complex graphemes. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Double analysis. Notice: Read complex graphemes. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-015",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Double analysis. Notice: Read complex graphemes. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “Chunk the word into manageable syllables and connect inform + -ation to meaning.” for reading “information”?",
+    "audioPrompt": "Which explanation best justifies “Chunk the word into manageable syllables and connect inform + -ation to meaning.” for reading “information”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Mark syllable and morpheme boundaries in the same word using different colours, then explain mismatches.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled M, A, R, K, S, Y, L, L, A, B, L, E, A, N, D, M, O, R, P, H, E, M, E, B, O, U, N, D, A, R, I, E, S, I, N, T, H, E, S, A, M, E, W, O, R, D, U, S, I, N, G, D, I, F, F, E, R, E, N, T, C, O, L, O, U, R, S, T, H, E, N, E, X, P, L, A, I, N, M, I, S, M, A, T, C, H, E, S. The word or phrase reads: Mark syllable and morpheme boundaries in the same word using different colours, then explain mismatches.",
-      "The written choice is spelled C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T. The word or phrase reads: Copy the title, then choose an answer without analysing the language or text.",
-      "The written choice is spelled C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y. The word or phrase reads: Change the purpose and audience halfway through, then report the first impression only."
+      "Syllable chunking and morphology can work together in long words.",
+      "Because “Sound out the whole word as one long unit without checking meaning.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Mark syllable and morpheme boundaries in the same word using different colours, then explain mismatches.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Syllable chunking and morphology can work together in long words.\nHint: Find both pronounceable chunks and meaningful parts.",
     "structuredExplanation": {
-      "summary": "Mark syllable and morpheme boundaries in the same word using different colours, then explain mismatches.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -514,33 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-016",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "double analysis reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Double analysis”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Double analysis”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Double analysis. Notice: Read complex graphemes. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Double analysis. Notice: Read complex graphemes. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-016",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Double analysis. Notice: Read complex graphemes. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “Chunk the word into manageable syllables and connect inform + -ation to meaning.” in reading “information”?",
+    "audioPrompt": "What should you notice about “Chunk the word into manageable syllables and connect inform + -ation to meaning.” in reading “information”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Mark syllable and morpheme boundaries in the same word using different colours, then explain mismatches.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled K, E, E, P, C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, T, H, E, P, L, A, N, T, H, A, T, A, N, A, L, Y, S, E, S, L, A, N, G, U, A, G, E, E, V, I, D, E, N, C, E, A, N, D, P, R, O, D, U, C, E, S, A, R, E, V, I, E, W, A, B, L, E, R, E, S, P, O, N, S, E, M, A, R, K, S, Y, L, L, A, B, L, E, A, N, D, M, O, R, P, H, E, M, E, B, O, U, N, D, A, R, I, E, S, I, N, T, H, E, S, A, M, E, W, O, R, D, U, S, I, N, G, D, I, F, F, E, R, E, N, T, C, O, L, O, U, R, S, T, H, E, N, E, X, P, L, A, I, N, M, I, S, M, A, T, C, H, E, S. The word or phrase reads: Choose the plan that analyses language evidence and produces a reviewable response. Mark syllable and morpheme boundaries in the same word using different colours, then explain mismatches.",
-      "The written choice is spelled C, H, O, O, S, E, C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Because “Sound out the whole word as one long unit without checking meaning.” is always acceptable in this situation.",
+      "Syllable chunking and morphology can work together in long words.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Mark syllable and morpheme boundaries in the same word using different colours, then explain mismatches.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Syllable chunking and morphology can work together in long words.\nHint: Find both pronounceable chunks and meaningful parts.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark syllable and morpheme boundaries in the same word using different colours, then explain mismatches.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -548,33 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-017",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "word family ladder apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Word-family ladder”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Word-family ladder”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Word-family ladder. Notice: Connect word families. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Word-family ladder. Notice: Connect word families. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-017",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Word-family ladder. Notice: Connect word families. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “Build it from dis- + agree + -ment.” in spelling “disagreement”?",
+    "audioPrompt": "What should you notice about “Build it from dis- + agree + -ment.” in spelling “disagreement”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Build related words and note pronunciation or spelling changes across morphemes."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T. The word or phrase reads: Copy the title, then choose an answer without analysing the language or text.",
-      "The written choice is spelled C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y. The word or phrase reads: Change the purpose and audience halfway through, then report the first impression only.",
-      "The written choice is spelled B, U, I, L, D, R, E, L, A, T, E, D, W, O, R, D, S, A, N, D, N, O, T, E, P, R, O, N, U, N, C, I, A, T, I, O, N, O, R, S, P, E, L, L, I, N, G, C, H, A, N, G, E, S, A, C, R, O, S, S, M, O, R, P, H, E, M, E, S. The word or phrase reads: Build related words and note pronunciation or spelling changes across morphemes."
+      "Because “Spell it disagreemint only from the weak final vowel.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "The known morphemes preserve spelling even when an unstressed vowel is hard to hear."
     ],
     "correct": 2,
-    "explanation": "Build related words and note pronunciation or spelling changes across morphemes.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.\nHint: Write the meaningful parts you know.",
     "structuredExplanation": {
-      "summary": "Build related words and note pronunciation or spelling changes across morphemes.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
     },
     "qualitySchema": "production-v1"
   },
@@ -582,33 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-018",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "word family ladder reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Word-family ladder”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Word-family ladder”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Word-family ladder. Notice: Connect word families. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Word-family ladder. Notice: Connect word families. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-018",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Word-family ladder. Notice: Connect word families. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “Build it from dis- + agree + -ment.” suits spelling “disagreement”?",
+    "audioPrompt": "Which reason explains why “Build it from dis- + agree + -ment.” suits spelling “disagreement”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Build related words and note pronunciation or spelling changes across morphemes.",
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled C, H, O, O, S, E, T, H, E, P, L, A, N, T, H, A, T, A, N, A, L, Y, S, E, S, L, A, N, G, U, A, G, E, E, V, I, D, E, N, C, E, A, N, D, P, R, O, D, U, C, E, S, A, R, E, V, I, E, W, A, B, L, E, R, E, S, P, O, N, S, E, B, U, I, L, D, R, E, L, A, T, E, D, W, O, R, D, S, A, N, D, N, O, T, E, P, R, O, N, U, N, C, I, A, T, I, O, N, O, R, S, P, E, L, L, I, N, G, C, H, A, N, G, E, S, A, C, R, O, S, S, M, O, R, P, H, E, M, E, S. The word or phrase reads: Choose the plan that analyses language evidence and produces a reviewable response. Build related words and note pronunciation or spelling changes across morphemes.",
-      "The written choice is spelled K, E, E, P, C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "Because “Spell it disagreemint only from the weak final vowel.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Build related words and note pronunciation or spelling changes across morphemes.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.\nHint: Write the meaningful parts you know.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Build related words and note pronunciation or spelling changes across morphemes.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
     },
     "qualitySchema": "production-v1"
   },
@@ -616,33 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-019",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "context verification apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Context verification”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Context verification”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Context verification. Notice: Check pronunciation and meaning. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Context verification. Notice: Check pronunciation and meaning. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-019",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Context verification. Notice: Check pronunciation and meaning. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “Recognise re- + appear + -ance and connect the word to appearing again.” suits working out “reappearance”?",
+    "audioPrompt": "Which reason explains why “Recognise re- + appear + -ance and connect the word to appearing again.” suits working out “reappearance”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Try two plausible pronunciations of an unfamiliar word and use grammar, meaning and related words to decide.",
-      "Change the purpose and audience halfway through, then report the first impression only."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T. The word or phrase reads: Copy the title, then choose an answer without analysing the language or text.",
-      "The written choice is spelled T, R, Y, T, W, O, P, L, A, U, S, I, B, L, E, P, R, O, N, U, N, C, I, A, T, I, O, N, S, O, F, A, N, U, N, F, A, M, I, L, I, A, R, W, O, R, D, A, N, D, U, S, E, G, R, A, M, M, A, R, M, E, A, N, I, N, G, A, N, D, R, E, L, A, T, E, D, W, O, R, D, S, T, O, D, E, C, I, D, E. The word or phrase reads: Try two plausible pronunciations of an unfamiliar word and use grammar, meaning and related words to decide.",
-      "The written choice is spelled C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y. The word or phrase reads: Change the purpose and audience halfway through, then report the first impression only."
+      "Because “Assume re- always means wrong.” is always acceptable in this situation.",
+      "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Try two plausible pronunciations of an unfamiliar word and use grammar, meaning and related words to decide.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Prefixes and suffixes provide clues to both pronunciation and meaning.\nHint: Start with the base word and then add each affix meaning.",
     "structuredExplanation": {
-      "summary": "Try two plausible pronunciations of an unfamiliar word and use grammar, meaning and related words to decide.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -650,33 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-020",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "context verification reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Context verification”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Context verification”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Context verification. Notice: Check pronunciation and meaning. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Context verification. Notice: Check pronunciation and meaning. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-020",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Context verification. Notice: Check pronunciation and meaning. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “Recognise re- + appear + -ance and connect the word to appearing again.” work well for working out “reappearance”?",
+    "audioPrompt": "Why does “Recognise re- + appear + -ance and connect the word to appearing again.” work well for working out “reappearance”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Try two plausible pronunciations of an unfamiliar word and use grammar, meaning and related words to decide."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled K, E, E, P, C, H, A, N, G, E, T, H, E, P, U, R, P, O, S, E, A, N, D, A, U, D, I, E, N, C, E, H, A, L, F, W, A, Y, T, H, R, O, U, G, H, T, H, E, N, R, E, P, O, R, T, T, H, E, F, I, R, S, T, I, M, P, R, E, S, S, I, O, N, O, N, L, Y, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, C, O, P, Y, T, H, E, T, I, T, L, E, T, H, E, N, C, H, O, O, S, E, A, N, A, N, S, W, E, R, W, I, T, H, O, U, T, A, N, A, L, Y, S, I, N, G, T, H, E, L, A, N, G, U, A, G, E, O, R, T, E, X, T, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "The written choice is spelled C, H, O, O, S, E, T, H, E, P, L, A, N, T, H, A, T, A, N, A, L, Y, S, E, S, L, A, N, G, U, A, G, E, E, V, I, D, E, N, C, E, A, N, D, P, R, O, D, U, C, E, S, A, R, E, V, I, E, W, A, B, L, E, R, E, S, P, O, N, S, E, T, R, Y, T, W, O, P, L, A, U, S, I, B, L, E, P, R, O, N, U, N, C, I, A, T, I, O, N, S, O, F, A, N, U, N, F, A, M, I, L, I, A, R, W, O, R, D, A, N, D, U, S, E, G, R, A, M, M, A, R, M, E, A, N, I, N, G, A, N, D, R, E, L, A, T, E, D, W, O, R, D, S, T, O, D, E, C, I, D, E. The word or phrase reads: Choose the plan that analyses language evidence and produces a reviewable response. Try two plausible pronunciations of an unfamiliar word and use grammar, meaning and related words to decide."
+      "Because “Assume re- always means wrong.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Prefixes and suffixes provide clues to both pronunciation and meaning."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Try two plausible pronunciations of an unfamiliar word and use grammar, meaning and related words to decide.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Prefixes and suffixes provide clues to both pronunciation and meaning.\nHint: Start with the base word and then add each affix meaning.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Try two plausible pronunciations of an unfamiliar word and use grammar, meaning and related words to decide.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -684,33 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-021",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Reading and Writing Complex Multisyllabic Words describes “knowledge of spoken sound structures”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Reading and Writing Complex Multisyllabic Words describes “knowledge of spoken sound structures”. Which term is most precise?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 1. Notice: Use syllable knowledge. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 1. Notice: Use syllable knowledge. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-021",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 1. Notice: Use syllable knowledge. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “Guess from the first two letters only.” for working out “unhelpful”?",
+    "audioPrompt": "Which revision best fixes the problem in “Guess from the first two letters only.” for working out “unhelpful”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "phonological knowledge",
-      "morphological knowledge",
-      "morpheme"
-    ],
-    "audioAnswers": [
-      "The written choice is spelled P, H, O, N, O, L, O, G, I, C, A, L, K, N, O, W, L, E, D, G, E. The word or phrase reads: phonological knowledge",
-      "The written choice is spelled M, O, R, P, H, O, L, O, G, I, C, A, L, K, N, O, W, L, E, D, G, E. The word or phrase reads: morphological knowledge",
-      "The written choice is spelled M, O, R, P, H, E, M, E. The word or phrase reads: morpheme"
+      "Break it into un- + help + -ful and use the parts to understand “not helpful”.",
+      "Guess from the first two letters only.",
+      "Treat unhelpful as unrelated to help."
     ],
     "correct": 0,
-    "explanation": "phonological knowledge is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Recognising prefix, base word and suffix supports both decoding and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look for a known base word inside the longer word.",
     "structuredExplanation": {
-      "summary": "phonological knowledge is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for a known base word inside the longer word."
     },
     "qualitySchema": "production-v1"
   },
@@ -718,33 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-022",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “morphological knowledge”. Which feedback helps? Task: A class annotation about Reading and Writing Complex Multisyllabic Words describes “knowledge of spoken sound structures”. Which term is most precise?",
-    "audioPrompt": "A student answers “morphological knowledge”. Which feedback helps? Task: A class annotation about Reading and Writing Complex Multisyllabic Words describes “knowledge of spoken sound structures”. Which term is most precise?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 1. Notice: Use syllable knowledge. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 1. Notice: Use syllable knowledge. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-022",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 1. Notice: Use syllable knowledge. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for working out “unhelpful”. Which one avoids the mistake in “Guess from the first two letters only.”?",
+    "audioPrompt": "Compare the choices for working out “unhelpful”. Which one avoids the mistake in “Guess from the first two letters only.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “morphological knowledge”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. phonological knowledge is the precise term for this feature.",
-      "Choose “morpheme” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled K, E, E, P, M, O, R, P, H, O, L, O, G, I, C, A, L, K, N, O, W, L, E, D, G, E, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “morphological knowledge”; it uses a detail that sounds familiar.",
-      "The written choice is spelled M, A, T, C, H, T, H, E, D, E, F, I, N, I, T, I, O, N, T, O, T, H, E, E, X, A, C, T, L, A, N, G, U, A, G, E, O, R, L, I, T, E, R, A, C, Y, C, O, N, C, E, P, T, P, H, O, N, O, L, O, G, I, C, A, L, K, N, O, W, L, E, D, G, E, I, S, T, H, E, P, R, E, C, I, S, E, T, E, R, M, F, O, R, T, H, I, S, F, E, A, T, U, R, E. The word or phrase reads: Match the definition to the exact language or literacy concept. phonological knowledge is the precise term for this feature.",
-      "The written choice is spelled C, H, O, O, S, E, M, O, R, P, H, E, M, E, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “morpheme” instead; it sounds clearer."
+      "Guess from the first two letters only.",
+      "Break it into un- + help + -ful and use the parts to understand “not helpful”.",
+      "Treat unhelpful as unrelated to help."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. phonological knowledge is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Recognising prefix, base word and suffix supports both decoding and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look for a known base word inside the longer word.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. phonological knowledge is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for a known base word inside the longer word."
     },
     "qualitySchema": "production-v1"
   },
@@ -752,33 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-023",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Reading and Writing Complex Multisyllabic Words describes “knowledge of meaningful word parts”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Reading and Writing Complex Multisyllabic Words describes “knowledge of meaningful word parts”. Which term is most precise?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 2. Notice: Analyse morphemes. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 2. Notice: Analyse morphemes. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-023",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 2. Notice: Analyse morphemes. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for spelling “careless”. Which one avoids the mistake in “Spell it carless because the unstressed vowel seems quiet.”?",
+    "audioPrompt": "Compare the choices for spelling “careless”. Which one avoids the mistake in “Spell it carless because the unstressed vowel seems quiet.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "phonological knowledge",
-      "morpheme",
-      "morphological knowledge"
-    ],
-    "audioAnswers": [
-      "The written choice is spelled P, H, O, N, O, L, O, G, I, C, A, L, K, N, O, W, L, E, D, G, E. The word or phrase reads: phonological knowledge",
-      "The written choice is spelled M, O, R, P, H, E, M, E. The word or phrase reads: morpheme",
-      "The written choice is spelled M, O, R, P, H, O, L, O, G, I, C, A, L, K, N, O, W, L, E, D, G, E. The word or phrase reads: morphological knowledge"
+      "Spell it carless because the unstressed vowel seems quiet.",
+      "Spell it careluss by sound alone.",
+      "Use care + -less, keeping the base word care before adding the suffix."
     ],
     "correct": 2,
-    "explanation": "morphological knowledge is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Think about the base word before the suffix.",
     "structuredExplanation": {
-      "summary": "morphological knowledge is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Think about the base word before the suffix."
     },
     "qualitySchema": "production-v1"
   },
@@ -786,33 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly09-p-024",
     "curriculumCode": "AC9E4LY09",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Morphology and Multisyllabic Words",
     "printable": true,
     "type": "single",
-    "question": "A student answers “morpheme”. Which feedback helps? Task: A class annotation about Reading and Writing Complex Multisyllabic Words describes “knowledge of meaningful word parts”. Which term is most precise?",
-    "audioPrompt": "A student answers “morpheme”. Which feedback helps? Task: A class annotation about Reading and Writing Complex Multisyllabic Words describes “knowledge of meaningful word parts”. Which term is most precise?",
-    "visual": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 2. Notice: Analyse morphemes. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 2. Notice: Analyse morphemes. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly09.svg#ac9e4ly09-p-024",
-      "alt_text": "Three-step Reading and Writing Complex Multisyllabic Words organiser. Read: Vocabulary 2. Notice: Analyse morphemes. Correct the student's mix-up using the full task."
-    },
+    "question": "If “Spell it carless because the unstressed vowel seems quiet.” does not work in spelling “careless”, what should replace it?",
+    "audioPrompt": "If “Spell it carless because the unstressed vowel seems quiet.” does not work in spelling “careless”, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. morphological knowledge is the precise term for this feature.",
-      "Keep “morpheme”; it uses a detail that sounds familiar.",
-      "Choose “phonological knowledge” instead; it sounds clearer."
-    ],
-    "audioAnswers": [
-      "The written choice is spelled M, A, T, C, H, T, H, E, D, E, F, I, N, I, T, I, O, N, T, O, T, H, E, E, X, A, C, T, L, A, N, G, U, A, G, E, O, R, L, I, T, E, R, A, C, Y, C, O, N, C, E, P, T, M, O, R, P, H, O, L, O, G, I, C, A, L, K, N, O, W, L, E, D, G, E, I, S, T, H, E, P, R, E, C, I, S, E, T, E, R, M, F, O, R, T, H, I, S, F, E, A, T, U, R, E. The word or phrase reads: Match the definition to the exact language or literacy concept. morphological knowledge is the precise term for this feature.",
-      "The written choice is spelled K, E, E, P, M, O, R, P, H, E, M, E, I, T, U, S, E, S, A, D, E, T, A, I, L, T, H, A, T, S, O, U, N, D, S, F, A, M, I, L, I, A, R. The word or phrase reads: Keep “morpheme”; it uses a detail that sounds familiar.",
-      "The written choice is spelled C, H, O, O, S, E, P, H, O, N, O, L, O, G, I, C, A, L, K, N, O, W, L, E, D, G, E, I, N, S, T, E, A, D, I, T, S, O, U, N, D, S, C, L, E, A, R, E, R. The word or phrase reads: Choose “phonological knowledge” instead; it sounds clearer."
+      "Use care + -less, keeping the base word care before adding the suffix.",
+      "Spell it carless because the unstressed vowel seems quiet.",
+      "Spell it careluss by sound alone."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. morphological knowledge is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Think about the base word before the suffix.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. morphological knowledge is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Think about the base word before the suffix."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-025",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "If “Sound out the whole word as one long unit without checking meaning.” does not work in reading “information”, what should replace it?",
+    "audioPrompt": "If “Sound out the whole word as one long unit without checking meaning.” does not work in reading “information”, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Sound out the whole word as one long unit without checking meaning.",
+      "Chunk the word into manageable syllables and connect inform + -ation to meaning.",
+      "Skip the unstressed syllable completely."
+    ],
+    "correct": 1,
+    "explanation": "Syllable chunking and morphology can work together in long words. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Find both pronounceable chunks and meaningful parts.",
+    "structuredExplanation": {
+      "summary": "Syllable chunking and morphology can work together in long words. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-026",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for reading “information”?",
+    "audioPrompt": "Which option corrects the meaning or form needed for reading “information”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Sound out the whole word as one long unit without checking meaning.",
+      "Skip the unstressed syllable completely.",
+      "Chunk the word into manageable syllables and connect inform + -ation to meaning."
+    ],
+    "correct": 2,
+    "explanation": "Syllable chunking and morphology can work together in long words. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Find both pronounceable chunks and meaningful parts.",
+    "structuredExplanation": {
+      "summary": "Syllable chunking and morphology can work together in long words. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-027",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for spelling “disagreement”?",
+    "audioPrompt": "Which option corrects the meaning or form needed for spelling “disagreement”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Build it from dis- + agree + -ment.",
+      "Spell it disagreemint only from the weak final vowel.",
+      "Remove agree because the prefix changes the whole word."
+    ],
+    "correct": 0,
+    "explanation": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Write the meaningful parts you know.",
+    "structuredExplanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Write the meaningful parts you know."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-028",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for spelling “disagreement”?",
+    "audioPrompt": "Which choice is the clearest correction for spelling “disagreement”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Spell it disagreemint only from the weak final vowel.",
+      "Build it from dis- + agree + -ment.",
+      "Remove agree because the prefix changes the whole word."
+    ],
+    "correct": 1,
+    "explanation": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Write the meaningful parts you know.",
+    "structuredExplanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Write the meaningful parts you know."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-029",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for working out “reappearance”?",
+    "audioPrompt": "Which choice is the clearest correction for working out “reappearance”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Assume re- always means wrong.",
+      "Treat the word as having no connection to appear.",
+      "Recognise re- + appear + -ance and connect the word to appearing again."
+    ],
+    "correct": 2,
+    "explanation": "Prefixes and suffixes provide clues to both pronunciation and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Start with the base word and then add each affix meaning.",
+    "structuredExplanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Start with the base word and then add each affix meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-030",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “Assume re- always means wrong.” for working out “reappearance”?",
+    "audioPrompt": "Which revision best fixes the problem in “Assume re- always means wrong.” for working out “reappearance”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Recognise re- + appear + -ance and connect the word to appearing again.",
+      "Assume re- always means wrong.",
+      "Treat the word as having no connection to appear."
+    ],
+    "correct": 0,
+    "explanation": "Prefixes and suffixes provide clues to both pronunciation and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Start with the base word and then add each affix meaning.",
+    "structuredExplanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Start with the base word and then add each affix meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-031",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle working out “unhelpful” independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle working out “unhelpful” independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Treat unhelpful as unrelated to help.",
+      "Break it into un- + help + -ful and use the parts to understand “not helpful”.",
+      "Guess from the first two letters only."
+    ],
+    "correct": 1,
+    "explanation": "Recognising prefix, base word and suffix supports both decoding and meaning.\nHint: Look for a known base word inside the longer word.",
+    "structuredExplanation": {
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-032",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to working out “unhelpful”. Which option is best?",
+    "audioPrompt": "Apply the same idea to working out “unhelpful”. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Treat unhelpful as unrelated to help.",
+      "Guess from the first two letters only.",
+      "Break it into un- + help + -ful and use the parts to understand “not helpful”."
+    ],
+    "correct": 2,
+    "explanation": "Recognising prefix, base word and suffix supports both decoding and meaning.\nHint: Look for a known base word inside the longer word.",
+    "structuredExplanation": {
+      "summary": "Recognising prefix, base word and suffix supports both decoding and meaning.",
+      "hint": "Look for a known base word inside the longer word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-033",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to spelling “careless”. Which option is best?",
+    "audioPrompt": "Apply the same idea to spelling “careless”. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use care + -less, keeping the base word care before adding the suffix.",
+      "Spell it careluss by sound alone.",
+      "Spell it carless because the unstressed vowel seems quiet."
+    ],
+    "correct": 0,
+    "explanation": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.\nHint: Think about the base word before the suffix.",
+    "structuredExplanation": {
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-034",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in spelling “careless”?",
+    "audioPrompt": "Which decision would produce the clearest result in spelling “careless”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Spell it careluss by sound alone.",
+      "Use care + -less, keeping the base word care before adding the suffix.",
+      "Spell it carless because the unstressed vowel seems quiet."
+    ],
+    "correct": 1,
+    "explanation": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.\nHint: Think about the base word before the suffix.",
+    "structuredExplanation": {
+      "summary": "Morphological knowledge protects the spelling of the meaningful base even when sounds are reduced.",
+      "hint": "Think about the base word before the suffix."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-035",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in reading “information”?",
+    "audioPrompt": "Which decision would produce the clearest result in reading “information”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Skip the unstressed syllable completely.",
+      "Sound out the whole word as one long unit without checking meaning.",
+      "Chunk the word into manageable syllables and connect inform + -ation to meaning."
+    ],
+    "correct": 2,
+    "explanation": "Syllable chunking and morphology can work together in long words.\nHint: Find both pronounceable chunks and meaningful parts.",
+    "structuredExplanation": {
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-036",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in reading “information”.",
+    "audioPrompt": "Choose the option that applies the skill correctly in reading “information”.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Chunk the word into manageable syllables and connect inform + -ation to meaning.",
+      "Skip the unstressed syllable completely.",
+      "Sound out the whole word as one long unit without checking meaning."
+    ],
+    "correct": 0,
+    "explanation": "Syllable chunking and morphology can work together in long words.\nHint: Find both pronounceable chunks and meaningful parts.",
+    "structuredExplanation": {
+      "summary": "Syllable chunking and morphology can work together in long words.",
+      "hint": "Find both pronounceable chunks and meaningful parts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-037",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in spelling “disagreement”.",
+    "audioPrompt": "Choose the option that applies the skill correctly in spelling “disagreement”.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Remove agree because the prefix changes the whole word.",
+      "Build it from dis- + agree + -ment.",
+      "Spell it disagreemint only from the weak final vowel."
+    ],
+    "correct": 1,
+    "explanation": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.\nHint: Write the meaningful parts you know.",
+    "structuredExplanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-038",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for spelling “disagreement”?",
+    "audioPrompt": "What would be the most effective choice for spelling “disagreement”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Remove agree because the prefix changes the whole word.",
+      "Spell it disagreemint only from the weak final vowel.",
+      "Build it from dis- + agree + -ment."
+    ],
+    "correct": 2,
+    "explanation": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.\nHint: Write the meaningful parts you know.",
+    "structuredExplanation": {
+      "summary": "The known morphemes preserve spelling even when an unstressed vowel is hard to hear.",
+      "hint": "Write the meaningful parts you know."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-039",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for working out “reappearance”?",
+    "audioPrompt": "What would be the most effective choice for working out “reappearance”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Recognise re- + appear + -ance and connect the word to appearing again.",
+      "Treat the word as having no connection to appear.",
+      "Assume re- always means wrong."
+    ],
+    "correct": 0,
+    "explanation": "Prefixes and suffixes provide clues to both pronunciation and meaning.\nHint: Start with the base word and then add each affix meaning.",
+    "structuredExplanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly09-p-040",
+    "curriculumCode": "AC9E4LY09",
+    "bank": "practice",
+    "skill": "Morphology and Multisyllabic Words",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle working out “reappearance” independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle working out “reappearance” independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Treat the word as having no connection to appear.",
+      "Recognise re- + appear + -ance and connect the word to appearing again.",
+      "Assume re- always means wrong."
+    ],
+    "correct": 1,
+    "explanation": "Prefixes and suffixes provide clues to both pronunciation and meaning.\nHint: Start with the base word and then add each affix meaning.",
+    "structuredExplanation": {
+      "summary": "Prefixes and suffixes provide clues to both pronunciation and meaning.",
+      "hint": "Start with the base word and then add each affix meaning."
     },
     "qualitySchema": "production-v1"
   }

@@ -5,36 +5,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "worked_text_1_apply",
-    "question": "Read the classroom example. Which response best acknowledges and extends another speaker?",
-    "audio_prompt": "Read the classroom example. Which response best acknowledges and extends another speaker?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-001",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Worked text 1. Notice: Listen for purpose. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Interacting and Listening",
+    "question": "In following group instructions to make a model bridge, which option best demonstrates the skill?",
+    "audio_prompt": "In following group instructions to make a model bridge, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "I understand your point about cost, and the long-term savings add another reason",
+        "text": "First collect four craft sticks, then tape them into a square.",
         "is_correct": true
       },
       {
-        "text": "No, you are wrong",
+        "text": "Start building anything before the instructions finish.",
         "is_correct": false
       },
       {
-        "text": "I will discuss something else",
+        "text": "Ignore the sequence and ask what the task is later.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “I understand your point about cost, and the long-term savings add another reason”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Listening for the key action and order helps complete the task accurately.",
+      "hint": "Identify the action words and sequence."
+    }
   },
   {
     "id": "AC9E4LY02-P-002",
@@ -42,36 +35,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "worked_text_1_reason",
-    "question": "A student answers “No, you are wrong”. Which feedback helps? Task: Read the classroom example. Which response best acknowledges and extends another speaker?",
-    "audio_prompt": "A student answers “No, you are wrong”. Which feedback helps? Task: Read the classroom example. Which response best acknowledges and extends another speaker?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-002",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Worked text 1. Notice: Listen for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Interacting and Listening",
+    "question": "Which choice fits following group instructions to make a model bridge most accurately?",
+    "audio_prompt": "Which choice fits following group instructions to make a model bridge most accurately?",
     "answers": [
       {
-        "text": "Keep “No, you are wrong”; it uses a detail that sounds familiar.",
+        "text": "Start building anything before the instructions finish.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “I understand your point about cost, and the long-term savings add another reason”.",
+        "text": "First collect four craft sticks, then tape them into a square.",
         "is_correct": true
       },
       {
-        "text": "Choose “I will discuss something else” instead; it sounds clearer.",
+        "text": "Ignore the sequence and ask what the task is later.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “I understand your point about cost, and the long-term savings add another reason”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Listening for the key action and order helps complete the task accurately.",
+      "hint": "Identify the action words and sequence."
+    }
   },
   {
     "id": "AC9E4LY02-P-003",
@@ -79,36 +65,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "worked_text_2_apply",
-    "question": "Read the classroom example. What should notes mainly capture?",
-    "audio_prompt": "Read the classroom example. What should notes mainly capture?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-003",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Worked text 2. Notice: Record key information. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Interacting and Listening",
+    "question": "Which choice fits responding to a classmate who suggests planting native shrubs most accurately?",
+    "audio_prompt": "Which choice fits responding to a classmate who suggests planting native shrubs most accurately?",
     "answers": [
       {
-        "text": "every word spoken",
+        "text": "No, my idea is better.",
         "is_correct": false
       },
       {
-        "text": "only the listener’s opinions",
+        "text": "Anyway, I want to talk about lunch.",
         "is_correct": false
       },
       {
-        "text": "key information needed for the purpose",
+        "text": "That could provide habitat. We could also choose species that need less water.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The evidence and language purpose support “key information needed for the purpose”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The response acknowledges the idea and adds a connected contribution.",
+      "hint": "Build from what was just said."
+    }
   },
   {
     "id": "AC9E4LY02-P-004",
@@ -116,36 +95,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "worked_text_2_reason",
-    "question": "A student answers “only the listener’s opinions”. Which feedback helps? Task: Read the classroom example. What should notes mainly capture?",
-    "audio_prompt": "A student answers “only the listener’s opinions”. Which feedback helps? Task: Read the classroom example. What should notes mainly capture?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-004",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Worked text 2. Notice: Record key information. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Interacting and Listening",
+    "question": "Look closely at responding to a classmate who suggests planting native shrubs. Which response or wording works best?",
+    "audio_prompt": "Look closely at responding to a classmate who suggests planting native shrubs. Which response or wording works best?",
     "answers": [
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “key information needed for the purpose”.",
+        "text": "That could provide habitat. We could also choose species that need less water.",
         "is_correct": true
       },
       {
-        "text": "Keep “only the listener’s opinions”; it uses a detail that sounds familiar.",
+        "text": "No, my idea is better.",
         "is_correct": false
       },
       {
-        "text": "Choose “every word spoken” instead; it sounds clearer.",
+        "text": "Anyway, I want to talk about lunch.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “key information needed for the purpose”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The response acknowledges the idea and adds a connected contribution.",
+      "hint": "Build from what was just said."
+    }
   },
   {
     "id": "AC9E4LY02-P-005",
@@ -153,36 +125,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "misconception_1_apply",
-    "question": "A student in a workshop claims, “Notes copy every sentence”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Notes copy every sentence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-005",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 1. Notice: Carry out multi-step tasks. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Interacting and Listening",
+    "question": "Look closely at clarifying an unclear direction during sport. Which response or wording works best?",
+    "audio_prompt": "Look closely at clarifying an unclear direction during sport. Which response or wording works best?",
     "answers": [
       {
-        "text": "Notes copy every sentence",
+        "text": "I will just guess what you mean.",
         "is_correct": false
       },
       {
-        "text": "Select information needed for the task or discussion purpose.",
+        "text": "Do you mean we run to the cone first, then pass the ball?",
         "is_correct": true
       },
       {
-        "text": "Acknowledging means agreeing",
+        "text": "Can you repeat everything from the start even though only one step is unclear?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Select information needed for the task or discussion purpose.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
+      "hint": "Ask exactly what you need to know."
+    }
   },
   {
     "id": "AC9E4LY02-P-006",
@@ -190,36 +155,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Notes copy every sentence”. Which feedback helps? Task: A student in a workshop claims, “Notes copy every sentence”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Notes copy every sentence”. Which feedback helps? Task: A student in a workshop claims, “Notes copy every sentence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-006",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 1. Notice: Carry out multi-step tasks. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Interacting and Listening",
+    "question": "For clarifying an unclear direction during sport, which option is the strongest match?",
+    "audio_prompt": "For clarifying an unclear direction during sport, which option is the strongest match?",
     "answers": [
       {
-        "text": "Keep “Notes copy every sentence”; it uses a detail that sounds familiar.",
+        "text": "I will just guess what you mean.",
         "is_correct": false
       },
       {
-        "text": "Choose “Acknowledging means agreeing” instead; it sounds clearer.",
+        "text": "Can you repeat everything from the start even though only one step is unclear?",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select information needed for the task or discussion purpose.",
+        "text": "Do you mean we run to the cone first, then pass the ball?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select information needed for the task or discussion purpose.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
+      "hint": "Ask exactly what you need to know."
+    }
   },
   {
     "id": "AC9E4LY02-P-007",
@@ -227,36 +185,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "misconception_2_apply",
-    "question": "A student in a workshop claims, “Acknowledging means agreeing”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Acknowledging means agreeing”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-007",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 2. Notice: Use productive discussion moves. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Interacting and Listening",
+    "question": "For summarising a partner’s suggestion before replying, which option is the strongest match?",
+    "audio_prompt": "For summarising a partner’s suggestion before replying, which option is the strongest match?",
     "answers": [
       {
-        "text": "You can recognise a viewpoint before questioning or disagreeing.",
+        "text": "So you think we should move the display near the entrance because more people will see it.",
         "is_correct": true
       },
       {
-        "text": "Acknowledging means agreeing",
+        "text": "You said something about a display.",
         "is_correct": false
       },
       {
-        "text": "Response changes the topic",
+        "text": "I did not listen, but here is my plan.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "You can recognise a viewpoint before questioning or disagreeing.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
+      "hint": "Capture the main point, not every word."
+    }
   },
   {
     "id": "AC9E4LY02-P-008",
@@ -264,36 +215,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Response changes the topic”. Which feedback helps? Task: A student in a workshop claims, “Acknowledging means agreeing”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Response changes the topic”. Which feedback helps? Task: A student in a workshop claims, “Acknowledging means agreeing”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-008",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 2. Notice: Use productive discussion moves. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Interacting and Listening",
+    "question": "Which example should you choose for summarising a partner’s suggestion before replying?",
+    "audio_prompt": "Which example should you choose for summarising a partner’s suggestion before replying?",
     "answers": [
       {
-        "text": "Keep “Response changes the topic”; it uses a detail that sounds familiar.",
+        "text": "You said something about a display.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. You can recognise a viewpoint before questioning or disagreeing.",
+        "text": "So you think we should move the display near the entrance because more people will see it.",
         "is_correct": true
       },
       {
-        "text": "Choose “Acknowledging means agreeing” instead; it sounds clearer.",
+        "text": "I did not listen, but here is my plan.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. You can recognise a viewpoint before questioning or disagreeing.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
+      "hint": "Capture the main point, not every word."
+    }
   },
   {
     "id": "AC9E4LY02-P-009",
@@ -301,35 +245,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "misconception_3_apply",
-    "question": "A student in a workshop claims, “Response changes the topic”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Response changes the topic”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-009",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 3. Notice: Share and extend evidence-based ideas. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Interacting and Listening",
+    "question": "Which example should you choose for joining a discussion about reducing food waste?",
+    "audio_prompt": "Which example should you choose for joining a discussion about reducing food waste?",
     "answers": [
       {
-        "text": "Response changes the topic",
+        "text": "That is boring. Next topic.",
         "is_correct": false
       },
       {
-        "text": "Confident delivery substitutes for evidence",
+        "text": "I agree, because I want to speak now.",
         "is_correct": false
       },
       {
-        "text": "Link explicitly to the prior contribution and discussion question.",
+        "text": "I agree that smaller servings could help. What could we do with unopened food?",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Link explicitly to the prior contribution and discussion question.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
+      "hint": "Connect your question to the group’s current idea."
+    }
   },
   {
     "id": "AC9E4LY02-P-010",
@@ -337,35 +275,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Response changes the topic”. Which feedback helps? Task: A student in a workshop claims, “Response changes the topic”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Response changes the topic”. Which feedback helps? Task: A student in a workshop claims, “Response changes the topic”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-010",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 3. Notice: Share and extend evidence-based ideas. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Interacting and Listening",
+    "question": "In joining a discussion about reducing food waste, which option best demonstrates the skill?",
+    "audio_prompt": "In joining a discussion about reducing food waste, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Link explicitly to the prior contribution and discussion question.",
+        "text": "I agree that smaller servings could help. What could we do with unopened food?",
         "is_correct": true
       },
       {
-        "text": "Keep “Response changes the topic”; it uses a detail that sounds familiar.",
+        "text": "That is boring. Next topic.",
         "is_correct": false
       },
       {
-        "text": "Choose “Confident delivery substitutes for evidence” instead; it sounds clearer.",
+        "text": "I agree, because I want to speak now.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Link explicitly to the prior contribution and discussion question.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
+      "hint": "Connect your question to the group’s current idea."
+    }
   },
   {
     "id": "AC9E4LY02-P-011",
@@ -373,35 +305,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "misconception_4_apply",
-    "question": "A student in a workshop claims, “Confident delivery substitutes for evidence”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Confident delivery substitutes for evidence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-011",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 4. Notice: Listen for purpose. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Interacting and Listening",
+    "question": "Why does “First collect four craft sticks, then tape them into a square.” work well for following group instructions to make a model bridge?",
+    "audio_prompt": "Why does “First collect four craft sticks, then tape them into a square.” work well for following group instructions to make a model bridge?",
     "answers": [
       {
-        "text": "Confident delivery substitutes for evidence",
+        "text": "Because “Start building anything before the instructions finish.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Support contributions with information, examples or reasoning.",
+        "text": "Listening for the key action and order helps complete the task accurately.",
         "is_correct": true
       },
       {
-        "text": "Notes copy every sentence",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Support contributions with information, examples or reasoning.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Listening for the key action and order helps complete the task accurately.",
+      "hint": "Identify the action words and sequence."
+    }
   },
   {
     "id": "AC9E4LY02-P-012",
@@ -409,35 +335,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Notes copy every sentence”. Which feedback helps? Task: A student in a workshop claims, “Confident delivery substitutes for evidence”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Notes copy every sentence”. Which feedback helps? Task: A student in a workshop claims, “Confident delivery substitutes for evidence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-012",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 4. Notice: Listen for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Interacting and Listening",
+    "question": "What makes “First collect four craft sticks, then tape them into a square.” a better choice in following group instructions to make a model bridge?",
+    "audio_prompt": "What makes “First collect four craft sticks, then tape them into a square.” a better choice in following group instructions to make a model bridge?",
     "answers": [
       {
-        "text": "Keep “Notes copy every sentence”; it uses a detail that sounds familiar.",
+        "text": "Because “Start building anything before the instructions finish.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Confident delivery substitutes for evidence” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Support contributions with information, examples or reasoning.",
+        "text": "Listening for the key action and order helps complete the task accurately.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Support contributions with information, examples or reasoning.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Listening for the key action and order helps complete the task accurately.",
+      "hint": "Identify the action words and sequence."
+    }
   },
   {
     "id": "AC9E4LY02-P-013",
@@ -445,35 +365,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "instruction_listening_apply",
-    "question": "The class prepares “Instruction listening”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Instruction listening”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-013",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Instruction listening. Notice: Record key information. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Interacting and Listening",
+    "question": "What makes “That could provide habitat. We could also choose species that need less water.” a better choice in responding to a classmate who suggests planting native shrubs?",
+    "audio_prompt": "What makes “That could provide habitat. We could also choose species that need less water.” a better choice in responding to a classmate who suggests planting native shrubs?",
     "answers": [
       {
-        "text": "Follow a short spoken task with conditions, then compare notes and identify missed or unnecessary details.",
+        "text": "The response acknowledges the idea and adds a connected contribution.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “No, my idea is better.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Follow a short spoken task with conditions, then compare notes and identify missed or unnecessary details.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The response acknowledges the idea and adds a connected contribution.",
+      "hint": "Build from what was just said."
+    }
   },
   {
     "id": "AC9E4LY02-P-014",
@@ -481,35 +395,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "instruction_listening_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Instruction listening”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Instruction listening”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-014",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Instruction listening. Notice: Record key information. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Interacting and Listening",
+    "question": "Which explanation best justifies “That could provide habitat. We could also choose species that need less water.” for responding to a classmate who suggests planting native shrubs?",
+    "audio_prompt": "Which explanation best justifies “That could provide habitat. We could also choose species that need less water.” for responding to a classmate who suggests planting native shrubs?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “No, my idea is better.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Follow a short spoken task with conditions, then compare notes and identify missed or unnecessary details.",
+        "text": "The response acknowledges the idea and adds a connected contribution.",
         "is_correct": true
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Follow a short spoken task with conditions, then compare notes and identify missed or unnecessary details.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The response acknowledges the idea and adds a connected contribution.",
+      "hint": "Build from what was just said."
+    }
   },
   {
     "id": "AC9E4LY02-P-015",
@@ -517,35 +425,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "discussion_move_cards_apply",
-    "question": "The class prepares “Discussion move cards”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Discussion move cards”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-015",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Discussion move cards. Notice: Carry out multi-step tasks. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Interacting and Listening",
+    "question": "Which explanation best justifies “Do you mean we run to the cone first, then pass the ball?” for clarifying an unclear direction during sport?",
+    "audio_prompt": "Which explanation best justifies “Do you mean we run to the cone first, then pass the ball?” for clarifying an unclear direction during sport?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “I will just guess what you mean.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Respond to one claim using acknowledge, extend, clarify, challenge and synthesise moves.",
+        "text": "A focused clarifying question checks the uncertain part without derailing the task.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Respond to one claim using acknowledge, extend, clarify, challenge and synthesise moves.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
+      "hint": "Ask exactly what you need to know."
+    }
   },
   {
     "id": "AC9E4LY02-P-016",
@@ -553,35 +455,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "discussion_move_cards_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Discussion move cards”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Discussion move cards”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-016",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Discussion move cards. Notice: Carry out multi-step tasks. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Interacting and Listening",
+    "question": "What should you notice about “Do you mean we run to the cone first, then pass the ball?” in clarifying an unclear direction during sport?",
+    "audio_prompt": "What should you notice about “Do you mean we run to the cone first, then pass the ball?” in clarifying an unclear direction during sport?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Respond to one claim using acknowledge, extend, clarify, challenge and synthesise moves.",
+        "text": "A focused clarifying question checks the uncertain part without derailing the task.",
         "is_correct": true
       },
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "Because “I will just guess what you mean.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Respond to one claim using acknowledge, extend, clarify, challenge and synthesise moves.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
+      "hint": "Ask exactly what you need to know."
+    }
   },
   {
     "id": "AC9E4LY02-P-017",
@@ -589,35 +485,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "key_point_summary_apply",
-    "question": "The class prepares “Key-point summary”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Key-point summary”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-017",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Key-point summary. Notice: Use productive discussion moves. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Interacting and Listening",
+    "question": "What should you notice about “So you think we should move the display near the entrance because more people will see it.” in summarising a partner’s suggestion before replying?",
+    "audio_prompt": "What should you notice about “So you think we should move the display near the entrance because more people will see it.” in summarising a partner’s suggestion before replying?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “You said something about a display.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Listen to a short explanation and produce a one-sentence main idea plus three supporting details.",
+        "text": "Restating the key idea and reason shows accurate listening before adding a response.",
         "is_correct": true
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Listen to a short explanation and produce a one-sentence main idea plus three supporting details.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
+      "hint": "Capture the main point, not every word."
+    }
   },
   {
     "id": "AC9E4LY02-P-018",
@@ -625,35 +515,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "key_point_summary_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Key-point summary”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Key-point summary”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-018",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Key-point summary. Notice: Use productive discussion moves. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Interacting and Listening",
+    "question": "Which reason explains why “So you think we should move the display near the entrance because more people will see it.” suits summarising a partner’s suggestion before replying?",
+    "audio_prompt": "Which reason explains why “So you think we should move the display near the entrance because more people will see it.” suits summarising a partner’s suggestion before replying?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “You said something about a display.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Listen to a short explanation and produce a one-sentence main idea plus three supporting details.",
+        "text": "Restating the key idea and reason shows accurate listening before adding a response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Listen to a short explanation and produce a one-sentence main idea plus three supporting details.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
+      "hint": "Capture the main point, not every word."
+    }
   },
   {
     "id": "AC9E4LY02-P-019",
@@ -661,35 +545,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "vocabulary_1_apply",
-    "question": "A class annotation about Listening for Key Information and Building Discussion describes “central idea or required information”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Listening for Key Information and Building Discussion describes “central idea or required information”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-019",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Vocabulary 1. Notice: Share and extend evidence-based ideas. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Interacting and Listening",
+    "question": "Which reason explains why “I agree that smaller servings could help. What could we do with unopened food?” suits joining a discussion about reducing food waste?",
+    "audio_prompt": "Which reason explains why “I agree that smaller servings could help. What could we do with unopened food?” suits joining a discussion about reducing food waste?",
     "answers": [
       {
-        "text": "key point",
+        "text": "The response stays on topic, acknowledges a contribution and asks a useful question.",
         "is_correct": true
       },
       {
-        "text": "acknowledgement",
+        "text": "Because “That is boring. Next topic.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "clarification",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "key point is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
+      "hint": "Connect your question to the group’s current idea."
+    }
   },
   {
     "id": "AC9E4LY02-P-020",
@@ -697,35 +575,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "vocabulary_1_reason",
-    "question": "A student answers “clarification”. Which feedback helps? Task: A class annotation about Listening for Key Information and Building Discussion describes “central idea or required information”. Which term is most precise?",
-    "audio_prompt": "A student answers “clarification”. Which feedback helps? Task: A class annotation about Listening for Key Information and Building Discussion describes “central idea or required information”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-020",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Vocabulary 1. Notice: Share and extend evidence-based ideas. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Interacting and Listening",
+    "question": "Why does “I agree that smaller servings could help. What could we do with unopened food?” work well for joining a discussion about reducing food waste?",
+    "audio_prompt": "Why does “I agree that smaller servings could help. What could we do with unopened food?” work well for joining a discussion about reducing food waste?",
     "answers": [
       {
-        "text": "Keep “clarification”; it uses a detail that sounds familiar.",
+        "text": "Because “That is boring. Next topic.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. key point is the precise term for this feature.",
+        "text": "The response stays on topic, acknowledges a contribution and asks a useful question.",
         "is_correct": true
       },
       {
-        "text": "Choose “acknowledgement” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. key point is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
+      "hint": "Connect your question to the group’s current idea."
+    }
   },
   {
     "id": "AC9E4LY02-P-021",
@@ -733,35 +605,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "vocabulary_2_apply",
-    "question": "A class annotation about Listening for Key Information and Building Discussion describes “response showing another viewpoint was heard”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Listening for Key Information and Building Discussion describes “response showing another viewpoint was heard”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-021",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Vocabulary 2. Notice: Listen for purpose. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Interacting and Listening",
+    "question": "Which revision best fixes the problem in “Start building anything before the instructions finish.” for following group instructions to make a model bridge?",
+    "audio_prompt": "Which revision best fixes the problem in “Start building anything before the instructions finish.” for following group instructions to make a model bridge?",
     "answers": [
       {
-        "text": "key point",
+        "text": "Start building anything before the instructions finish.",
         "is_correct": false
       },
       {
-        "text": "clarification",
+        "text": "Ignore the sequence and ask what the task is later.",
         "is_correct": false
       },
       {
-        "text": "acknowledgement",
+        "text": "First collect four craft sticks, then tape them into a square.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "acknowledgement is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Listening for the key action and order helps complete the task accurately. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Identify the action words and sequence."
+    }
   },
   {
     "id": "AC9E4LY02-P-022",
@@ -769,35 +635,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "vocabulary_2_reason",
-    "question": "A student answers “key point”. Which feedback helps? Task: A class annotation about Listening for Key Information and Building Discussion describes “response showing another viewpoint was heard”. Which term is most precise?",
-    "audio_prompt": "A student answers “key point”. Which feedback helps? Task: A class annotation about Listening for Key Information and Building Discussion describes “response showing another viewpoint was heard”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-022",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Vocabulary 2. Notice: Listen for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Interacting and Listening",
+    "question": "Compare the choices for following group instructions to make a model bridge. Which one avoids the mistake in “Start building anything before the instructions finish.”?",
+    "audio_prompt": "Compare the choices for following group instructions to make a model bridge. Which one avoids the mistake in “Start building anything before the instructions finish.”?",
     "answers": [
       {
-        "text": "Match the definition to the exact language or literacy concept. acknowledgement is the precise term for this feature.",
+        "text": "First collect four craft sticks, then tape them into a square.",
         "is_correct": true
       },
       {
-        "text": "Keep “key point”; it uses a detail that sounds familiar.",
+        "text": "Start building anything before the instructions finish.",
         "is_correct": false
       },
       {
-        "text": "Choose “clarification” instead; it sounds clearer.",
+        "text": "Ignore the sequence and ask what the task is later.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. acknowledgement is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Listening for the key action and order helps complete the task accurately. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Identify the action words and sequence."
+    }
   },
   {
     "id": "AC9E4LY02-P-023",
@@ -805,35 +665,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "vocabulary_3_apply",
-    "question": "A class annotation about Listening for Key Information and Building Discussion describes “request or explanation making meaning clearer”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Listening for Key Information and Building Discussion describes “request or explanation making meaning clearer”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-023",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Vocabulary 3. Notice: Record key information. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Interacting and Listening",
+    "question": "Compare the choices for responding to a classmate who suggests planting native shrubs. Which one avoids the mistake in “No, my idea is better.”?",
+    "audio_prompt": "Compare the choices for responding to a classmate who suggests planting native shrubs. Which one avoids the mistake in “No, my idea is better.”?",
     "answers": [
       {
-        "text": "key point",
+        "text": "No, my idea is better.",
         "is_correct": false
       },
       {
-        "text": "clarification",
+        "text": "That could provide habitat. We could also choose species that need less water.",
         "is_correct": true
       },
       {
-        "text": "acknowledgement",
+        "text": "Anyway, I want to talk about lunch.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "clarification is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The response acknowledges the idea and adds a connected contribution. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Build from what was just said."
+    }
   },
   {
     "id": "AC9E4LY02-P-024",
@@ -841,35 +695,509 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "practice",
-    "skill": "vocabulary_3_reason",
-    "question": "A student answers “acknowledgement”. Which feedback helps? Task: A class annotation about Listening for Key Information and Building Discussion describes “request or explanation making meaning clearer”. Which term is most precise?",
-    "audio_prompt": "A student answers “acknowledgement”. Which feedback helps? Task: A class annotation about Listening for Key Information and Building Discussion describes “request or explanation making meaning clearer”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-p-024",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Vocabulary 3. Notice: Record key information. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Interacting and Listening",
+    "question": "If “No, my idea is better.” does not work in responding to a classmate who suggests planting native shrubs, what should replace it?",
+    "audio_prompt": "If “No, my idea is better.” does not work in responding to a classmate who suggests planting native shrubs, what should replace it?",
     "answers": [
       {
-        "text": "Keep “acknowledgement”; it uses a detail that sounds familiar.",
+        "text": "No, my idea is better.",
         "is_correct": false
       },
       {
-        "text": "Choose “key point” instead; it sounds clearer.",
+        "text": "Anyway, I want to talk about lunch.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. clarification is the precise term for this feature.",
+        "text": "That could provide habitat. We could also choose species that need less water.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. clarification is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The response acknowledges the idea and adds a connected contribution. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Build from what was just said."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Interacting and Listening",
+    "question": "If “I will just guess what you mean.” does not work in clarifying an unclear direction during sport, what should replace it?",
+    "audio_prompt": "If “I will just guess what you mean.” does not work in clarifying an unclear direction during sport, what should replace it?",
+    "answers": [
+      {
+        "text": "Do you mean we run to the cone first, then pass the ball?",
+        "is_correct": true
+      },
+      {
+        "text": "I will just guess what you mean.",
+        "is_correct": false
+      },
+      {
+        "text": "Can you repeat everything from the start even though only one step is unclear?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A focused clarifying question checks the uncertain part without derailing the task. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask exactly what you need to know."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Interacting and Listening",
+    "question": "Which option corrects the meaning or form needed for clarifying an unclear direction during sport?",
+    "audio_prompt": "Which option corrects the meaning or form needed for clarifying an unclear direction during sport?",
+    "answers": [
+      {
+        "text": "I will just guess what you mean.",
+        "is_correct": false
+      },
+      {
+        "text": "Do you mean we run to the cone first, then pass the ball?",
+        "is_correct": true
+      },
+      {
+        "text": "Can you repeat everything from the start even though only one step is unclear?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A focused clarifying question checks the uncertain part without derailing the task. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask exactly what you need to know."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Interacting and Listening",
+    "question": "Which option corrects the meaning or form needed for summarising a partner’s suggestion before replying?",
+    "audio_prompt": "Which option corrects the meaning or form needed for summarising a partner’s suggestion before replying?",
+    "answers": [
+      {
+        "text": "You said something about a display.",
+        "is_correct": false
+      },
+      {
+        "text": "I did not listen, but here is my plan.",
+        "is_correct": false
+      },
+      {
+        "text": "So you think we should move the display near the entrance because more people will see it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Restating the key idea and reason shows accurate listening before adding a response. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Capture the main point, not every word."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Interacting and Listening",
+    "question": "Which choice is the clearest correction for summarising a partner’s suggestion before replying?",
+    "audio_prompt": "Which choice is the clearest correction for summarising a partner’s suggestion before replying?",
+    "answers": [
+      {
+        "text": "So you think we should move the display near the entrance because more people will see it.",
+        "is_correct": true
+      },
+      {
+        "text": "You said something about a display.",
+        "is_correct": false
+      },
+      {
+        "text": "I did not listen, but here is my plan.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Restating the key idea and reason shows accurate listening before adding a response. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Capture the main point, not every word."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Interacting and Listening",
+    "question": "Which choice is the clearest correction for joining a discussion about reducing food waste?",
+    "audio_prompt": "Which choice is the clearest correction for joining a discussion about reducing food waste?",
+    "answers": [
+      {
+        "text": "That is boring. Next topic.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree that smaller servings could help. What could we do with unopened food?",
+        "is_correct": true
+      },
+      {
+        "text": "I agree, because I want to speak now.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Connect your question to the group’s current idea."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Interacting and Listening",
+    "question": "Which revision best fixes the problem in “That is boring. Next topic.” for joining a discussion about reducing food waste?",
+    "audio_prompt": "Which revision best fixes the problem in “That is boring. Next topic.” for joining a discussion about reducing food waste?",
+    "answers": [
+      {
+        "text": "That is boring. Next topic.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree, because I want to speak now.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree that smaller servings could help. What could we do with unopened food?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Connect your question to the group’s current idea."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "You now need to handle following group instructions to make a model bridge independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle following group instructions to make a model bridge independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "First collect four craft sticks, then tape them into a square.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the sequence and ask what the task is later.",
+        "is_correct": false
+      },
+      {
+        "text": "Start building anything before the instructions finish.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Listening for the key action and order helps complete the task accurately.",
+      "hint": "Identify the action words and sequence."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Apply the same idea to following group instructions to make a model bridge. Which option is best?",
+    "audio_prompt": "Apply the same idea to following group instructions to make a model bridge. Which option is best?",
+    "answers": [
+      {
+        "text": "Ignore the sequence and ask what the task is later.",
+        "is_correct": false
+      },
+      {
+        "text": "First collect four craft sticks, then tape them into a square.",
+        "is_correct": true
+      },
+      {
+        "text": "Start building anything before the instructions finish.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Listening for the key action and order helps complete the task accurately.",
+      "hint": "Identify the action words and sequence."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Apply the same idea to responding to a classmate who suggests planting native shrubs. Which option is best?",
+    "audio_prompt": "Apply the same idea to responding to a classmate who suggests planting native shrubs. Which option is best?",
+    "answers": [
+      {
+        "text": "Anyway, I want to talk about lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "No, my idea is better.",
+        "is_correct": false
+      },
+      {
+        "text": "That could provide habitat. We could also choose species that need less water.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response acknowledges the idea and adds a connected contribution.",
+      "hint": "Build from what was just said."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Which decision would produce the clearest result in responding to a classmate who suggests planting native shrubs?",
+    "audio_prompt": "Which decision would produce the clearest result in responding to a classmate who suggests planting native shrubs?",
+    "answers": [
+      {
+        "text": "That could provide habitat. We could also choose species that need less water.",
+        "is_correct": true
+      },
+      {
+        "text": "Anyway, I want to talk about lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "No, my idea is better.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response acknowledges the idea and adds a connected contribution.",
+      "hint": "Build from what was just said."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Which decision would produce the clearest result in clarifying an unclear direction during sport?",
+    "audio_prompt": "Which decision would produce the clearest result in clarifying an unclear direction during sport?",
+    "answers": [
+      {
+        "text": "Can you repeat everything from the start even though only one step is unclear?",
+        "is_correct": false
+      },
+      {
+        "text": "Do you mean we run to the cone first, then pass the ball?",
+        "is_correct": true
+      },
+      {
+        "text": "I will just guess what you mean.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
+      "hint": "Ask exactly what you need to know."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Choose the option that applies the skill correctly in clarifying an unclear direction during sport.",
+    "audio_prompt": "Choose the option that applies the skill correctly in clarifying an unclear direction during sport.",
+    "answers": [
+      {
+        "text": "Can you repeat everything from the start even though only one step is unclear?",
+        "is_correct": false
+      },
+      {
+        "text": "I will just guess what you mean.",
+        "is_correct": false
+      },
+      {
+        "text": "Do you mean we run to the cone first, then pass the ball?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
+      "hint": "Ask exactly what you need to know."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Choose the option that applies the skill correctly in summarising a partner’s suggestion before replying.",
+    "audio_prompt": "Choose the option that applies the skill correctly in summarising a partner’s suggestion before replying.",
+    "answers": [
+      {
+        "text": "So you think we should move the display near the entrance because more people will see it.",
+        "is_correct": true
+      },
+      {
+        "text": "I did not listen, but here is my plan.",
+        "is_correct": false
+      },
+      {
+        "text": "You said something about a display.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
+      "hint": "Capture the main point, not every word."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "What would be the most effective choice for summarising a partner’s suggestion before replying?",
+    "audio_prompt": "What would be the most effective choice for summarising a partner’s suggestion before replying?",
+    "answers": [
+      {
+        "text": "I did not listen, but here is my plan.",
+        "is_correct": false
+      },
+      {
+        "text": "So you think we should move the display near the entrance because more people will see it.",
+        "is_correct": true
+      },
+      {
+        "text": "You said something about a display.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
+      "hint": "Capture the main point, not every word."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "What would be the most effective choice for joining a discussion about reducing food waste?",
+    "audio_prompt": "What would be the most effective choice for joining a discussion about reducing food waste?",
+    "answers": [
+      {
+        "text": "I agree, because I want to speak now.",
+        "is_correct": false
+      },
+      {
+        "text": "That is boring. Next topic.",
+        "is_correct": false
+      },
+      {
+        "text": "I agree that smaller servings could help. What could we do with unopened food?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
+      "hint": "Connect your question to the group’s current idea."
+    }
+  },
+  {
+    "id": "AC9E4LY02-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "You now need to handle joining a discussion about reducing food waste independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle joining a discussion about reducing food waste independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "I agree that smaller servings could help. What could we do with unopened food?",
+        "is_correct": true
+      },
+      {
+        "text": "I agree, because I want to speak now.",
+        "is_correct": false
+      },
+      {
+        "text": "That is boring. Next topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
+      "hint": "Connect your question to the group’s current idea."
+    }
   },
   {
     "id": "AC9E4LY02-T-001",
@@ -877,32 +1205,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "new_text_1_apply",
-    "question": "In a new assessment text, Which response best acknowledges and extends another speaker?",
-    "audio_prompt": "In a new assessment text, Which response best acknowledges and extends another speaker?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-001",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: New text 1. Notice: Listen for purpose. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Interacting and Listening",
+    "question": "New context: checking details for a museum task. Which option is correct?",
+    "audio_prompt": "New context: checking details for a museum task. Which option is correct?",
     "answers": [
       {
-        "text": "I understand your point about cost, and the long-term savings add another reason",
+        "text": "I will do whatever I remember.",
+        "is_correct": false
+      },
+      {
+        "text": "Just to check: we need one sketch and two facts about the object, right?",
         "is_correct": true
       },
       {
-        "text": "No, you are wrong",
-        "is_correct": false
-      },
-      {
-        "text": "I will discuss something else",
+        "text": "What are we doing? even though the instructions were clear except for the required number.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The evidence and language purpose support “I understand your point about cost, and the long-term savings add another reason”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "The question verifies the key requirements needed to complete the task.",
+      "hint": "Listen for numbers, sequence and required products."
     }
   },
   {
@@ -911,32 +1235,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "new_text_1_reason",
-    "question": "A student answers “No, you are wrong”. Which feedback helps? Task: In a new assessment text, Which response best acknowledges and extends another speaker?",
-    "audio_prompt": "A student answers “No, you are wrong”. Which feedback helps? Task: In a new assessment text, Which response best acknowledges and extends another speaker?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-002",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: New text 1. Notice: Listen for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Interacting and Listening",
+    "question": "What is the best choice for checking details for a museum task?",
+    "audio_prompt": "What is the best choice for checking details for a museum task?",
     "answers": [
       {
-        "text": "Keep “No, you are wrong”; it uses a detail that sounds familiar.",
+        "text": "I will do whatever I remember.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “I understand your point about cost, and the long-term savings add another reason”.",
+        "text": "What are we doing? even though the instructions were clear except for the required number.",
+        "is_correct": false
+      },
+      {
+        "text": "Just to check: we need one sketch and two facts about the object, right?",
         "is_correct": true
-      },
-      {
-        "text": "Choose “I will discuss something else” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “I understand your point about cost, and the long-term savings add another reason”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The question verifies the key requirements needed to complete the task.",
+      "hint": "Listen for numbers, sequence and required products."
     }
   },
   {
@@ -945,32 +1265,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "new_text_2_apply",
-    "question": "In a new assessment text, What should notes mainly capture?",
-    "audio_prompt": "In a new assessment text, What should notes mainly capture?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-003",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: New text 2. Notice: Record key information. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Interacting and Listening",
+    "question": "Which explanation best supports “Just to check: we need one sketch and two facts about the object, right?” in checking details for a museum task?",
+    "audio_prompt": "Which explanation best supports “Just to check: we need one sketch and two facts about the object, right?” in checking details for a museum task?",
     "answers": [
       {
-        "text": "every word spoken",
-        "is_correct": false
-      },
-      {
-        "text": "only the listener’s opinions",
-        "is_correct": false
-      },
-      {
-        "text": "key information needed for the purpose",
+        "text": "The question verifies the key requirements needed to complete the task.",
         "is_correct": true
+      },
+      {
+        "text": "Because “I will do whatever I remember.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “key information needed for the purpose”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "The question verifies the key requirements needed to complete the task.",
+      "hint": "Listen for numbers, sequence and required products."
     }
   },
   {
@@ -979,32 +1295,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "new_text_2_reason",
-    "question": "A student answers “only the listener’s opinions”. Which feedback helps? Task: In a new assessment text, What should notes mainly capture?",
-    "audio_prompt": "A student answers “only the listener’s opinions”. Which feedback helps? Task: In a new assessment text, What should notes mainly capture?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-004",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: New text 2. Notice: Record key information. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Interacting and Listening",
+    "question": "Which clue should guide your decision in checking details for a museum task?",
+    "audio_prompt": "Which clue should guide your decision in checking details for a museum task?",
     "answers": [
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “key information needed for the purpose”.",
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Listen for numbers, sequence and required products.",
         "is_correct": true
       },
       {
-        "text": "Keep “only the listener’s opinions”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “every word spoken” instead; it sounds clearer.",
+        "text": "Ignore the context and use the first familiar form.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “key information needed for the purpose”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The question verifies the key requirements needed to complete the task.",
+      "hint": "Listen for numbers, sequence and required products."
     }
   },
   {
@@ -1013,32 +1325,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "misconception_1_apply",
-    "question": "An editor reviewing a new text claims, “Notes copy every sentence”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Notes copy every sentence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-005",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 1. Notice: Carry out multi-step tasks. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Which option would you reject first in checking details for a museum task?",
+    "audio_prompt": "Which option would you reject first in checking details for a museum task?",
     "answers": [
       {
-        "text": "Notes copy every sentence",
+        "text": "Just to check: we need one sketch and two facts about the object, right?",
         "is_correct": false
       },
       {
-        "text": "Select information needed for the task or discussion purpose.",
+        "text": "What are we doing? even though the instructions were clear except for the required number.",
+        "is_correct": false
+      },
+      {
+        "text": "I will do whatever I remember.",
         "is_correct": true
-      },
-      {
-        "text": "Acknowledging means agreeing",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Select information needed for the task or discussion purpose.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The question verifies the key requirements needed to complete the task.",
+      "hint": "Listen for numbers, sequence and required products."
     }
   },
   {
@@ -1047,32 +1355,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Notes copy every sentence”. Which feedback helps? Task: An editor reviewing a new text claims, “Notes copy every sentence”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Notes copy every sentence”. Which feedback helps? Task: An editor reviewing a new text claims, “Notes copy every sentence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-006",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 1. Notice: Carry out multi-step tasks. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Which correction should replace “I will do whatever I remember.” in checking details for a museum task?",
+    "audio_prompt": "Which correction should replace “I will do whatever I remember.” in checking details for a museum task?",
     "answers": [
       {
-        "text": "Keep “Notes copy every sentence”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Acknowledging means agreeing” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select information needed for the task or discussion purpose.",
+        "text": "Just to check: we need one sketch and two facts about the object, right?",
         "is_correct": true
+      },
+      {
+        "text": "I will do whatever I remember.",
+        "is_correct": false
+      },
+      {
+        "text": "What are we doing? even though the instructions were clear except for the required number.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select information needed for the task or discussion purpose.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The question verifies the key requirements needed to complete the task.",
+      "hint": "Listen for numbers, sequence and required products."
     }
   },
   {
@@ -1081,32 +1385,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "misconception_2_apply",
-    "question": "An editor reviewing a new text claims, “Acknowledging means agreeing”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Acknowledging means agreeing”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-007",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 2. Notice: Use productive discussion moves. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Apply the skill to checking details for a museum task: what should you choose?",
+    "audio_prompt": "Apply the skill to checking details for a museum task: what should you choose?",
     "answers": [
       {
-        "text": "You can recognise a viewpoint before questioning or disagreeing.",
+        "text": "I will do whatever I remember.",
+        "is_correct": false
+      },
+      {
+        "text": "Just to check: we need one sketch and two facts about the object, right?",
         "is_correct": true
       },
       {
-        "text": "Acknowledging means agreeing",
-        "is_correct": false
-      },
-      {
-        "text": "Response changes the topic",
+        "text": "What are we doing? even though the instructions were clear except for the required number.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "You can recognise a viewpoint before questioning or disagreeing.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The question verifies the key requirements needed to complete the task.",
+      "hint": "Listen for numbers, sequence and required products."
     }
   },
   {
@@ -1115,32 +1415,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Response changes the topic”. Which feedback helps? Task: An editor reviewing a new text claims, “Acknowledging means agreeing”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Response changes the topic”. Which feedback helps? Task: An editor reviewing a new text claims, “Acknowledging means agreeing”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-008",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 2. Notice: Use productive discussion moves. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Which final choice gives the clearest and most accurate result for checking details for a museum task?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for checking details for a museum task?",
     "answers": [
       {
-        "text": "Keep “Response changes the topic”; it uses a detail that sounds familiar.",
+        "text": "I will do whatever I remember.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. You can recognise a viewpoint before questioning or disagreeing.",
+        "text": "What are we doing? even though the instructions were clear except for the required number.",
+        "is_correct": false
+      },
+      {
+        "text": "Just to check: we need one sketch and two facts about the object, right?",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Acknowledging means agreeing” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. You can recognise a viewpoint before questioning or disagreeing.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The question verifies the key requirements needed to complete the task.",
+      "hint": "Listen for numbers, sequence and required products."
     }
   },
   {
@@ -1149,32 +1445,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "misconception_3_apply",
-    "question": "An editor reviewing a new text claims, “Response changes the topic”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Response changes the topic”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-009",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 3. Notice: Share and extend evidence-based ideas. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Interacting and Listening",
+    "question": "New context: disagreeing during a planning discussion. Which option is correct?",
+    "audio_prompt": "New context: disagreeing during a planning discussion. Which option is correct?",
     "answers": [
       {
-        "text": "Response changes the topic",
-        "is_correct": false
-      },
-      {
-        "text": "Confident delivery substitutes for evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Link explicitly to the prior contribution and discussion question.",
+        "text": "I understand your reason. I think the second option may be safer because it keeps people away from the road.",
         "is_correct": true
+      },
+      {
+        "text": "That idea is stupid.",
+        "is_correct": false
+      },
+      {
+        "text": "No. Mine wins.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Link explicitly to the prior contribution and discussion question.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Respectful disagreement acknowledges the other idea and gives a relevant reason.",
+      "hint": "Challenge the idea, not the person."
     }
   },
   {
@@ -1183,32 +1475,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Response changes the topic”. Which feedback helps? Task: An editor reviewing a new text claims, “Response changes the topic”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Response changes the topic”. Which feedback helps? Task: An editor reviewing a new text claims, “Response changes the topic”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-010",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 3. Notice: Share and extend evidence-based ideas. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Interacting and Listening",
+    "question": "What is the best choice for disagreeing during a planning discussion?",
+    "audio_prompt": "What is the best choice for disagreeing during a planning discussion?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Link explicitly to the prior contribution and discussion question.",
+        "text": "That idea is stupid.",
+        "is_correct": false
+      },
+      {
+        "text": "I understand your reason. I think the second option may be safer because it keeps people away from the road.",
         "is_correct": true
       },
       {
-        "text": "Keep “Response changes the topic”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Confident delivery substitutes for evidence” instead; it sounds clearer.",
+        "text": "No. Mine wins.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Link explicitly to the prior contribution and discussion question.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Respectful disagreement acknowledges the other idea and gives a relevant reason.",
+      "hint": "Challenge the idea, not the person."
     }
   },
   {
@@ -1217,32 +1505,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "misconception_4_apply",
-    "question": "An editor reviewing a new text claims, “Confident delivery substitutes for evidence”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Confident delivery substitutes for evidence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-011",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 4. Notice: Listen for purpose. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Interacting and Listening",
+    "question": "Which explanation best supports “I understand your reason. I think the second option may be safer because it keeps people away from the road.” in disagreeing during a planning discussion?",
+    "audio_prompt": "Which explanation best supports “I understand your reason. I think the second option may be safer because it keeps people away from the road.” in disagreeing during a planning discussion?",
     "answers": [
       {
-        "text": "Confident delivery substitutes for evidence",
+        "text": "Because “That idea is stupid.” is always a safe choice.",
         "is_correct": false
       },
       {
-        "text": "Support contributions with information, examples or reasoning.",
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Respectful disagreement acknowledges the other idea and gives a relevant reason.",
         "is_correct": true
-      },
-      {
-        "text": "Notes copy every sentence",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Support contributions with information, examples or reasoning.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Respectful disagreement acknowledges the other idea and gives a relevant reason.",
+      "hint": "Challenge the idea, not the person."
     }
   },
   {
@@ -1251,32 +1535,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Notes copy every sentence”. Which feedback helps? Task: An editor reviewing a new text claims, “Confident delivery substitutes for evidence”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Notes copy every sentence”. Which feedback helps? Task: An editor reviewing a new text claims, “Confident delivery substitutes for evidence”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-012",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Misconception 4. Notice: Listen for purpose. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Interacting and Listening",
+    "question": "Which clue should guide your decision in disagreeing during a planning discussion?",
+    "audio_prompt": "Which clue should guide your decision in disagreeing during a planning discussion?",
     "answers": [
       {
-        "text": "Keep “Notes copy every sentence”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Confident delivery substitutes for evidence” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Support contributions with information, examples or reasoning.",
+        "text": "Challenge the idea, not the person.",
         "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Support contributions with information, examples or reasoning.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Respectful disagreement acknowledges the other idea and gives a relevant reason.",
+      "hint": "Challenge the idea, not the person."
     }
   },
   {
@@ -1285,32 +1565,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "instruction_listening_apply",
-    "question": "A different class adapts “Instruction listening”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Instruction listening”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-013",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Instruction listening. Notice: Record key information. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Which option would you reject first in disagreeing during a planning discussion?",
+    "audio_prompt": "Which option would you reject first in disagreeing during a planning discussion?",
     "answers": [
       {
-        "text": "Follow a short spoken task with conditions, then compare notes and identify missed or unnecessary details.",
+        "text": "I understand your reason. I think the second option may be safer because it keeps people away from the road.",
+        "is_correct": false
+      },
+      {
+        "text": "That idea is stupid.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "No. Mine wins.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Follow a short spoken task with conditions, then compare notes and identify missed or unnecessary details.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Respectful disagreement acknowledges the other idea and gives a relevant reason.",
+      "hint": "Challenge the idea, not the person."
     }
   },
   {
@@ -1319,32 +1595,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "instruction_listening_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Instruction listening”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Instruction listening”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-014",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Instruction listening. Notice: Record key information. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Which correction should replace “That idea is stupid.” in disagreeing during a planning discussion?",
+    "audio_prompt": "Which correction should replace “That idea is stupid.” in disagreeing during a planning discussion?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "That idea is stupid.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Follow a short spoken task with conditions, then compare notes and identify missed or unnecessary details.",
+        "text": "No. Mine wins.",
+        "is_correct": false
+      },
+      {
+        "text": "I understand your reason. I think the second option may be safer because it keeps people away from the road.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Follow a short spoken task with conditions, then compare notes and identify missed or unnecessary details.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Respectful disagreement acknowledges the other idea and gives a relevant reason.",
+      "hint": "Challenge the idea, not the person."
     }
   },
   {
@@ -1353,32 +1625,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "discussion_move_cards_apply",
-    "question": "A different class adapts “Discussion move cards”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Discussion move cards”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-015",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Discussion move cards. Notice: Carry out multi-step tasks. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Apply the skill to disagreeing during a planning discussion: what should you choose?",
+    "audio_prompt": "Apply the skill to disagreeing during a planning discussion: what should you choose?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
-        "is_correct": false
-      },
-      {
-        "text": "Respond to one claim using acknowledge, extend, clarify, challenge and synthesise moves.",
+        "text": "I understand your reason. I think the second option may be safer because it keeps people away from the road.",
         "is_correct": true
+      },
+      {
+        "text": "That idea is stupid.",
+        "is_correct": false
+      },
+      {
+        "text": "No. Mine wins.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Respond to one claim using acknowledge, extend, clarify, challenge and synthesise moves.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Respectful disagreement acknowledges the other idea and gives a relevant reason.",
+      "hint": "Challenge the idea, not the person."
     }
   },
   {
@@ -1387,32 +1655,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY02",
     "bank": "test",
-    "skill": "discussion_move_cards_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Discussion move cards”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Discussion move cards”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly02.svg#ac9e4ly02-t-016",
-      "alt_text": "Three-step Listening for Key Information and Building Discussion organiser. Read: Discussion move cards. Notice: Carry out multi-step tasks. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Interacting and Listening",
+    "question": "Which final choice gives the clearest and most accurate result for disagreeing during a planning discussion?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for disagreeing during a planning discussion?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Respond to one claim using acknowledge, extend, clarify, challenge and synthesise moves.",
+        "text": "That idea is stupid.",
+        "is_correct": false
+      },
+      {
+        "text": "I understand your reason. I think the second option may be safer because it keeps people away from the road.",
         "is_correct": true
       },
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "No. Mine wins.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Respond to one claim using acknowledge, extend, clarify, challenge and synthesise moves.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Respectful disagreement acknowledges the other idea and gives a relevant reason.",
+      "hint": "Challenge the idea, not the person."
     }
   }
 ]

@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-001",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which response is best supported?",
-    "audioPrompt": "Read the classroom example. Which response is best supported?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 1. Notice: Identify literary features. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Worked text 1. Notice: Identify literary features. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-001",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 1. Notice: Identify literary features. Choose the response supported by the example."
-    },
+    "question": "In a story that begins with the ending and then returns to earlier events, which option best demonstrates the skill?",
+    "audioPrompt": "In a story that begins with the ending and then returns to earlier events, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "The story is good",
-      "The withheld information creates suspense because readers must infer where the character is",
-      "Everyone feels scared"
+      "The story has no structure because time changes.",
+      "The flashback makes me curious about how the characters reached the opening moment.",
+      "The only effect is that the text becomes longer."
     ],
     "correct": 1,
-    "explanation": "The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "A flashback changes the order of events and can create curiosity by withholding causes.\nHint: Name the feature and connect it to your response.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-002",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “The story is good”. Which feedback helps? Task: Read the classroom example. Which response is best supported?",
-    "audioPrompt": "A student answers “The story is good”. Which feedback helps? Task: Read the classroom example. Which response is best supported?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 1. Notice: Identify literary features. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Worked text 1. Notice: Identify literary features. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-002",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 1. Notice: Identify literary features. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits a story that begins with the ending and then returns to earlier events most accurately?",
+    "audioPrompt": "Which choice fits a story that begins with the ending and then returns to earlier events most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “The story is good”; it uses a detail that sounds familiar.",
-      "Choose “Everyone feels scared” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”."
+      "The story has no structure because time changes.",
+      "The only effect is that the text becomes longer.",
+      "The flashback makes me curious about how the characters reached the opening moment."
     ],
     "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A flashback changes the order of events and can create curiosity by withholding causes.\nHint: Name the feature and connect it to your response.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The withheld information creates suspense because readers must infer where the character is”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-003",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which statement is most accurate?",
-    "audioPrompt": "Read the classroom example. Which statement is most accurate?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 2. Notice: Explain contextual effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Worked text 2. Notice: Explain contextual effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-003",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 2. Notice: Explain contextual effects. Choose the response supported by the example."
-    },
+    "question": "Which choice fits a scene using short sentences during a chase most accurately?",
+    "audioPrompt": "Which choice fits a scene using short sentences during a chase most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "A feature’s effect depends on how it is used in this text",
-      "Short sentences always create tension",
-      "Every reader must respond identically"
+      "The short sentences speed the pace and increase tension.",
+      "Short sentences always make a scene calm.",
+      "Sentence length never affects a reader."
     ],
     "correct": 0,
-    "explanation": "The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Rapid sentence boundaries can make action feel urgent.\nHint: Explain how the language choice changes pace or feeling.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-004",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Every reader must respond identically”. Which feedback helps? Task: Read the classroom example. Which statement is most accurate?",
-    "audioPrompt": "A student answers “Every reader must respond identically”. Which feedback helps? Task: Read the classroom example. Which statement is most accurate?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Worked text 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-004",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Worked text 2. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at a scene using short sentences during a chase. Which response or wording works best?",
+    "audioPrompt": "Look closely at a scene using short sentences during a chase. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Every reader must respond identically”; it uses a detail that sounds familiar.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.",
-      "Choose “Short sentences always create tension” instead; it sounds clearer."
+      "Short sentences always make a scene calm.",
+      "The short sentences speed the pace and increase tension.",
+      "Sentence length never affects a reader."
     ],
     "correct": 1,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Rapid sentence boundaries can make action feel urgent.\nHint: Explain how the language choice changes pace or feeling.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A feature’s effect depends on how it is used in this text”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-005",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 1. Notice: Use concise evidence. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Misconception 1. Notice: Use concise evidence. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-005",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 1. Notice: Use concise evidence. Choose the response supported by the example."
-    },
+    "question": "Look closely at a poem repeating the words “still we wait”. Which response or wording works best?",
+    "audioPrompt": "Look closely at a poem repeating the words “still we wait”. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Opinion counts as analysis by itself",
-      "Feature effect treated as universal",
-      "Name the feature, evidence and effect."
+      "The repeated words have no effect because they are the same.",
+      "Repetition only fixes spelling.",
+      "The repetition emphasises patience and makes the waiting feel important."
     ],
     "correct": 2,
-    "explanation": "Name the feature, evidence and effect.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Repeated wording can foreground an idea and create rhythm.\nHint: Ask why the writer wants the reader to notice these words again.",
     "structuredExplanation": {
-      "summary": "Name the feature, evidence and effect.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-006",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: A student in a workshop claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: A student in a workshop claims, “Opinion counts as analysis by itself”. Which response gives the most accurate correction?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 1. Notice: Use concise evidence. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Misconception 1. Notice: Use concise evidence. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-006",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 1. Notice: Use concise evidence. Correct the student's mix-up using the full task."
-    },
+    "question": "For a poem repeating the words “still we wait”, which option is the strongest match?",
+    "audioPrompt": "For a poem repeating the words “still we wait”, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Name the feature, evidence and effect.",
-      "Keep “Opinion counts as analysis by itself”; it uses a detail that sounds familiar.",
-      "Choose “Feature effect treated as universal” instead; it sounds clearer."
+      "The repetition emphasises patience and makes the waiting feel important.",
+      "The repeated words have no effect because they are the same.",
+      "Repetition only fixes spelling."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Name the feature, evidence and effect.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Repeated wording can foreground an idea and create rhythm.\nHint: Ask why the writer wants the reader to notice these words again.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Name the feature, evidence and effect.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-007",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 2. Notice: Share reasoned opinions. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Misconception 2. Notice: Share reasoned opinions. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-007",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 2. Notice: Share reasoned opinions. Choose the response supported by the example."
-    },
+    "question": "For a story resolving its main conflict in the final paragraph, which option is the strongest match?",
+    "audioPrompt": "For a story resolving its main conflict in the final paragraph, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Feature effect treated as universal",
-      "Explain what it does in this context.",
-      "Long quotation replaces explanation"
+      "The resolution creates the complication.",
+      "The resolution gives a sense of closure because the central problem is settled.",
+      "A resolution is only the title."
     ],
     "correct": 1,
-    "explanation": "Explain what it does in this context.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "The resolution stage shows what happens to the central problem.\nHint: Link the structural stage to the feeling it creates.",
     "structuredExplanation": {
-      "summary": "Explain what it does in this context.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-008",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: A student in a workshop claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: A student in a workshop claims, “Feature effect treated as universal”. Which response gives the most accurate correction?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 2. Notice: Share reasoned opinions. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Misconception 2. Notice: Share reasoned opinions. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-008",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 2. Notice: Share reasoned opinions. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for a story resolving its main conflict in the final paragraph?",
+    "audioPrompt": "Which example should you choose for a story resolving its main conflict in the final paragraph?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Long quotation replaces explanation”; it uses a detail that sounds familiar.",
-      "Choose “Feature effect treated as universal” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain what it does in this context."
+      "The resolution creates the complication.",
+      "A resolution is only the title.",
+      "The resolution gives a sense of closure because the central problem is settled."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain what it does in this context.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The resolution stage shows what happens to the central problem.\nHint: Link the structural stage to the feeling it creates.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Explain what it does in this context.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-009",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 3. Notice: Recognise valid response differences. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Misconception 3. Notice: Recognise valid response differences. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-009",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 3. Notice: Recognise valid response differences. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for a paragraph describing a dark, silent house before a character enters?",
+    "audioPrompt": "Which example should you choose for a paragraph describing a dark, silent house before a character enters?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Select only the relevant evidence and analyse it.",
-      "Long quotation replaces explanation",
-      "Different response considered wrong"
+      "The sensory details create an uneasy mood before anything happens.",
+      "The description proves the house is dangerous.",
+      "Description cannot influence mood."
     ],
     "correct": 0,
-    "explanation": "Select only the relevant evidence and analyse it.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Language can prepare a reader emotionally without proving what will happen.\nHint: Separate the effect on the reader from a claim that the text has not established.",
     "structuredExplanation": {
-      "summary": "Select only the relevant evidence and analyse it.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-010",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: A student in a workshop claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Long quotation replaces explanation”. Which feedback helps? Task: A student in a workshop claims, “Long quotation replaces explanation”. Which response gives the most accurate correction?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 3. Notice: Recognise valid response differences. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Misconception 3. Notice: Recognise valid response differences. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-010",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 3. Notice: Recognise valid response differences. Correct the student's mix-up using the full task."
-    },
+    "question": "In a paragraph describing a dark, silent house before a character enters, which option best demonstrates the skill?",
+    "audioPrompt": "In a paragraph describing a dark, silent house before a character enters, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Long quotation replaces explanation”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select only the relevant evidence and analyse it.",
-      "Choose “Different response considered wrong” instead; it sounds clearer."
+      "The description proves the house is dangerous.",
+      "The sensory details create an uneasy mood before anything happens.",
+      "Description cannot influence mood."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select only the relevant evidence and analyse it.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Language can prepare a reader emotionally without proving what will happen.\nHint: Separate the effect on the reader from a claim that the text has not established.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select only the relevant evidence and analyse it.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-011",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Different response considered wrong”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Different response considered wrong”. Which response gives the most accurate correction?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 4. Notice: Identify literary features. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Misconception 4. Notice: Identify literary features. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-011",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 4. Notice: Identify literary features. Choose the response supported by the example."
-    },
+    "question": "Why does “The flashback makes me curious about how the characters reached the opening moment.” work well for a story that begins with the ending and then returns to earlier events?",
+    "audioPrompt": "Why does “The flashback makes me curious about how the characters reached the opening moment.” work well for a story that begins with the ending and then returns to earlier events?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Different response considered wrong",
-      "Opinion counts as analysis by itself",
-      "Responses can vary when they are textually supported."
+      "Because “The story has no structure because time changes.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "A flashback changes the order of events and can create curiosity by withholding causes."
     ],
     "correct": 2,
-    "explanation": "Responses can vary when they are textually supported.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A flashback changes the order of events and can create curiosity by withholding causes.\nHint: Name the feature and connect it to your response.",
     "structuredExplanation": {
-      "summary": "Responses can vary when they are textually supported.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-012",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: A student in a workshop claims, “Different response considered wrong”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Opinion counts as analysis by itself”. Which feedback helps? Task: A student in a workshop claims, “Different response considered wrong”. Which response gives the most accurate correction?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 4. Notice: Identify literary features. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Misconception 4. Notice: Identify literary features. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-012",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Misconception 4. Notice: Identify literary features. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “The flashback makes me curious about how the characters reached the opening moment.” a better choice in a story that begins with the ending and then returns to earlier events?",
+    "audioPrompt": "What makes “The flashback makes me curious about how the characters reached the opening moment.” a better choice in a story that begins with the ending and then returns to earlier events?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responses can vary when they are textually supported.",
-      "Keep “Opinion counts as analysis by itself”; it uses a detail that sounds familiar.",
-      "Choose “Different response considered wrong” instead; it sounds clearer."
+      "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "Because “The story has no structure because time changes.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responses can vary when they are textually supported.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A flashback changes the order of events and can create curiosity by withholding causes.\nHint: Name the feature and connect it to your response.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responses can vary when they are textually supported.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-013",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "feature effect chain apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Feature–effect chain”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Feature–effect chain”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Feature–effect chain. Notice: Explain contextual effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Feature–effect chain. Notice: Explain contextual effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-013",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Feature–effect chain. Notice: Explain contextual effects. Choose the response supported by the example."
-    },
+    "question": "What makes “The short sentences speed the pace and increase tension.” a better choice in a scene using short sentences during a chase?",
+    "audioPrompt": "What makes “The short sentences speed the pace and increase tension.” a better choice in a scene using short sentences during a chase?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “Short sentences always make a scene calm.” is always acceptable in this situation.",
+      "Rapid sentence boundaries can make action feel urgent.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Annotate a paragraph by linking each selected feature to a contextual effect and reader response.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Rapid sentence boundaries can make action feel urgent.\nHint: Explain how the language choice changes pace or feeling.",
     "structuredExplanation": {
-      "summary": "Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-014",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "feature effect chain reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Feature–effect chain”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Feature–effect chain”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Feature–effect chain. Notice: Explain contextual effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Feature–effect chain. Notice: Explain contextual effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-014",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Feature–effect chain. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “The short sentences speed the pace and increase tension.” for a scene using short sentences during a chase?",
+    "audioPrompt": "Which explanation best justifies “The short sentences speed the pace and increase tension.” for a scene using short sentences during a chase?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Annotate a paragraph by linking each selected feature to a contextual effect and reader response."
+      "Because “Short sentences always make a scene calm.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Rapid sentence boundaries can make action feel urgent."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Annotate a paragraph by linking each selected feature to a contextual effect and reader response.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Rapid sentence boundaries can make action feel urgent.\nHint: Explain how the language choice changes pace or feeling.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Annotate a paragraph by linking each selected feature to a contextual effect and reader response.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-015",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "opinion upgrade apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Opinion upgrade”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Opinion upgrade”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Opinion upgrade. Notice: Use concise evidence. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Opinion upgrade. Notice: Use concise evidence. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-015",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Opinion upgrade. Notice: Use concise evidence. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “The repetition emphasises patience and makes the waiting feel important.” for a poem repeating the words “still we wait”?",
+    "audioPrompt": "Which explanation best justifies “The repetition emphasises patience and makes the waiting feel important.” for a poem repeating the words “still we wait”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Turn vague reactions into evidence-based responses using because and for example.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Repeated wording can foreground an idea and create rhythm.",
+      "Because “The repeated words have no effect because they are the same.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Turn vague reactions into evidence-based responses using because and for example.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Repeated wording can foreground an idea and create rhythm.\nHint: Ask why the writer wants the reader to notice these words again.",
     "structuredExplanation": {
-      "summary": "Turn vague reactions into evidence-based responses using because and for example.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-016",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "opinion upgrade reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Opinion upgrade”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Opinion upgrade”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Opinion upgrade. Notice: Use concise evidence. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Opinion upgrade. Notice: Use concise evidence. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-016",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Opinion upgrade. Notice: Use concise evidence. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “The repetition emphasises patience and makes the waiting feel important.” in a poem repeating the words “still we wait”?",
+    "audioPrompt": "What should you notice about “The repetition emphasises patience and makes the waiting feel important.” in a poem repeating the words “still we wait”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Turn vague reactions into evidence-based responses using because and for example.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Because “The repeated words have no effect because they are the same.” is always acceptable in this situation.",
+      "Repeated wording can foreground an idea and create rhythm.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Turn vague reactions into evidence-based responses using because and for example.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Repeated wording can foreground an idea and create rhythm.\nHint: Ask why the writer wants the reader to notice these words again.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Turn vague reactions into evidence-based responses using because and for example.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-017",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "reader comparison apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Reader comparison”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Reader comparison”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Reader comparison. Notice: Share reasoned opinions. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Reader comparison. Notice: Share reasoned opinions. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-017",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Reader comparison. Notice: Share reasoned opinions. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “The resolution gives a sense of closure because the central problem is settled.” in a story resolving its main conflict in the final paragraph?",
+    "audioPrompt": "What should you notice about “The resolution gives a sense of closure because the central problem is settled.” in a story resolving its main conflict in the final paragraph?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Compare two plausible responses to the same feature and identify different assumptions or preferences."
+      "Because “The resolution creates the complication.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "The resolution stage shows what happens to the central problem."
     ],
     "correct": 2,
-    "explanation": "Compare two plausible responses to the same feature and identify different assumptions or preferences.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "The resolution stage shows what happens to the central problem.\nHint: Link the structural stage to the feeling it creates.",
     "structuredExplanation": {
-      "summary": "Compare two plausible responses to the same feature and identify different assumptions or preferences.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-018",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "reader comparison reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Reader comparison”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Reader comparison”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Reader comparison. Notice: Share reasoned opinions. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Reader comparison. Notice: Share reasoned opinions. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-018",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Reader comparison. Notice: Share reasoned opinions. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “The resolution gives a sense of closure because the central problem is settled.” suits a story resolving its main conflict in the final paragraph?",
+    "audioPrompt": "Which reason explains why “The resolution gives a sense of closure because the central problem is settled.” suits a story resolving its main conflict in the final paragraph?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Compare two plausible responses to the same feature and identify different assumptions or preferences.",
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "The resolution stage shows what happens to the central problem.",
+      "Because “The resolution creates the complication.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two plausible responses to the same feature and identify different assumptions or preferences.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "The resolution stage shows what happens to the central problem.\nHint: Link the structural stage to the feeling it creates.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare two plausible responses to the same feature and identify different assumptions or preferences.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-019",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Responding to Literary Structure and Language describes “reader’s interpretation or evaluation”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Responding to Literary Structure and Language describes “reader’s interpretation or evaluation”. Which term is most precise?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 1. Notice: Recognise valid response differences. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 1. Notice: Recognise valid response differences. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-019",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 1. Notice: Recognise valid response differences. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “The sensory details create an uneasy mood before anything happens.” suits a paragraph describing a dark, silent house before a character enters?",
+    "audioPrompt": "Which reason explains why “The sensory details create an uneasy mood before anything happens.” suits a paragraph describing a dark, silent house before a character enters?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "text structure",
-      "response",
-      "language feature"
+      "Because “The description proves the house is dangerous.” is always acceptable in this situation.",
+      "Language can prepare a reader emotionally without proving what will happen.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "response is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Language can prepare a reader emotionally without proving what will happen.\nHint: Separate the effect on the reader from a claim that the text has not established.",
     "structuredExplanation": {
-      "summary": "response is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-020",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “language feature”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “reader’s interpretation or evaluation”. Which term is most precise?",
-    "audioPrompt": "A student answers “language feature”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “reader’s interpretation or evaluation”. Which term is most precise?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 1. Notice: Recognise valid response differences. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 1. Notice: Recognise valid response differences. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-020",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 1. Notice: Recognise valid response differences. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “The sensory details create an uneasy mood before anything happens.” work well for a paragraph describing a dark, silent house before a character enters?",
+    "audioPrompt": "Why does “The sensory details create an uneasy mood before anything happens.” work well for a paragraph describing a dark, silent house before a character enters?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “language feature”; it uses a detail that sounds familiar.",
-      "Choose “text structure” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. response is the precise term for this feature."
+      "Because “The description proves the house is dangerous.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Language can prepare a reader emotionally without proving what will happen."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. response is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Language can prepare a reader emotionally without proving what will happen.\nHint: Separate the effect on the reader from a claim that the text has not established.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. response is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-021",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Responding to Literary Structure and Language describes “organisation of events and sections”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Responding to Literary Structure and Language describes “organisation of events and sections”. Which term is most precise?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 2. Notice: Identify literary features. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 2. Notice: Identify literary features. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-021",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 2. Notice: Identify literary features. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “The story has no structure because time changes.” for a story that begins with the ending and then returns to earlier events?",
+    "audioPrompt": "Which revision best fixes the problem in “The story has no structure because time changes.” for a story that begins with the ending and then returns to earlier events?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "text structure",
-      "response",
-      "language feature"
+      "The flashback makes me curious about how the characters reached the opening moment.",
+      "The story has no structure because time changes.",
+      "The only effect is that the text becomes longer."
     ],
     "correct": 0,
-    "explanation": "text structure is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "A flashback changes the order of events and can create curiosity by withholding causes. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Name the feature and connect it to your response.",
     "structuredExplanation": {
-      "summary": "text structure is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Name the feature and connect it to your response."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-022",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “response”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “organisation of events and sections”. Which term is most precise?",
-    "audioPrompt": "A student answers “response”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “organisation of events and sections”. Which term is most precise?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 2. Notice: Identify literary features. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 2. Notice: Identify literary features. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-022",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 2. Notice: Identify literary features. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for a story that begins with the ending and then returns to earlier events. Which one avoids the mistake in “The story has no structure because time changes.”?",
+    "audioPrompt": "Compare the choices for a story that begins with the ending and then returns to earlier events. Which one avoids the mistake in “The story has no structure because time changes.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “response”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. text structure is the precise term for this feature.",
-      "Choose “language feature” instead; it sounds clearer."
+      "The story has no structure because time changes.",
+      "The flashback makes me curious about how the characters reached the opening moment.",
+      "The only effect is that the text becomes longer."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. text structure is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A flashback changes the order of events and can create curiosity by withholding causes. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Name the feature and connect it to your response.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. text structure is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Name the feature and connect it to your response."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-023",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "vocabulary 3 apply",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Responding to Literary Structure and Language describes “word or sentence choice shaping meaning”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Responding to Literary Structure and Language describes “word or sentence choice shaping meaning”. Which term is most precise?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 3. Notice: Explain contextual effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 3. Notice: Explain contextual effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-023",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 3. Notice: Explain contextual effects. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for a scene using short sentences during a chase. Which one avoids the mistake in “Short sentences always make a scene calm.”?",
+    "audioPrompt": "Compare the choices for a scene using short sentences during a chase. Which one avoids the mistake in “Short sentences always make a scene calm.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "response",
-      "text structure",
-      "language feature"
+      "Short sentences always make a scene calm.",
+      "Sentence length never affects a reader.",
+      "The short sentences speed the pace and increase tension."
     ],
     "correct": 2,
-    "explanation": "language feature is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Rapid sentence boundaries can make action feel urgent. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Explain how the language choice changes pace or feeling.",
     "structuredExplanation": {
-      "summary": "language feature is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Rapid sentence boundaries can make action feel urgent. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Explain how the language choice changes pace or feeling."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le02-p-024",
     "curriculumCode": "AC9E4LE02",
     "bank": "practice",
-    "skill": "vocabulary 3 reason",
+    "skill": "Responding to Literature",
     "printable": true,
     "type": "single",
-    "question": "A student answers “text structure”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “word or sentence choice shaping meaning”. Which term is most precise?",
-    "audioPrompt": "A student answers “text structure”. Which feedback helps? Task: A class annotation about Responding to Literary Structure and Language describes “word or sentence choice shaping meaning”. Which term is most precise?",
-    "visual": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 3. Notice: Explain contextual effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 3. Notice: Explain contextual effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le02.svg#ac9e4le02-p-024",
-      "alt_text": "Three-step Responding to Literary Structure and Language organiser. Read: Vocabulary 3. Notice: Explain contextual effects. Correct the student's mix-up using the full task."
-    },
+    "question": "If “Short sentences always make a scene calm.” does not work in a scene using short sentences during a chase, what should replace it?",
+    "audioPrompt": "If “Short sentences always make a scene calm.” does not work in a scene using short sentences during a chase, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. language feature is the precise term for this feature.",
-      "Keep “text structure”; it uses a detail that sounds familiar.",
-      "Choose “response” instead; it sounds clearer."
+      "The short sentences speed the pace and increase tension.",
+      "Short sentences always make a scene calm.",
+      "Sentence length never affects a reader."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. language feature is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Rapid sentence boundaries can make action feel urgent. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Explain how the language choice changes pace or feeling.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. language feature is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Rapid sentence boundaries can make action feel urgent. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-025",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "If “The repeated words have no effect because they are the same.” does not work in a poem repeating the words “still we wait”, what should replace it?",
+    "audioPrompt": "If “The repeated words have no effect because they are the same.” does not work in a poem repeating the words “still we wait”, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The repeated words have no effect because they are the same.",
+      "The repetition emphasises patience and makes the waiting feel important.",
+      "Repetition only fixes spelling."
+    ],
+    "correct": 1,
+    "explanation": "Repeated wording can foreground an idea and create rhythm. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask why the writer wants the reader to notice these words again.",
+    "structuredExplanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-026",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for a poem repeating the words “still we wait”?",
+    "audioPrompt": "Which option corrects the meaning or form needed for a poem repeating the words “still we wait”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The repeated words have no effect because they are the same.",
+      "Repetition only fixes spelling.",
+      "The repetition emphasises patience and makes the waiting feel important."
+    ],
+    "correct": 2,
+    "explanation": "Repeated wording can foreground an idea and create rhythm. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask why the writer wants the reader to notice these words again.",
+    "structuredExplanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-027",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for a story resolving its main conflict in the final paragraph?",
+    "audioPrompt": "Which option corrects the meaning or form needed for a story resolving its main conflict in the final paragraph?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The resolution gives a sense of closure because the central problem is settled.",
+      "The resolution creates the complication.",
+      "A resolution is only the title."
+    ],
+    "correct": 0,
+    "explanation": "The resolution stage shows what happens to the central problem. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Link the structural stage to the feeling it creates.",
+    "structuredExplanation": {
+      "summary": "The resolution stage shows what happens to the central problem. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Link the structural stage to the feeling it creates."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-028",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for a story resolving its main conflict in the final paragraph?",
+    "audioPrompt": "Which choice is the clearest correction for a story resolving its main conflict in the final paragraph?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The resolution creates the complication.",
+      "The resolution gives a sense of closure because the central problem is settled.",
+      "A resolution is only the title."
+    ],
+    "correct": 1,
+    "explanation": "The resolution stage shows what happens to the central problem. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Link the structural stage to the feeling it creates.",
+    "structuredExplanation": {
+      "summary": "The resolution stage shows what happens to the central problem. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Link the structural stage to the feeling it creates."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-029",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for a paragraph describing a dark, silent house before a character enters?",
+    "audioPrompt": "Which choice is the clearest correction for a paragraph describing a dark, silent house before a character enters?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The description proves the house is dangerous.",
+      "Description cannot influence mood.",
+      "The sensory details create an uneasy mood before anything happens."
+    ],
+    "correct": 2,
+    "explanation": "Language can prepare a reader emotionally without proving what will happen. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Separate the effect on the reader from a claim that the text has not established.",
+    "structuredExplanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-030",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “The description proves the house is dangerous.” for a paragraph describing a dark, silent house before a character enters?",
+    "audioPrompt": "Which revision best fixes the problem in “The description proves the house is dangerous.” for a paragraph describing a dark, silent house before a character enters?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The sensory details create an uneasy mood before anything happens.",
+      "The description proves the house is dangerous.",
+      "Description cannot influence mood."
+    ],
+    "correct": 0,
+    "explanation": "Language can prepare a reader emotionally without proving what will happen. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Separate the effect on the reader from a claim that the text has not established.",
+    "structuredExplanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-031",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle a story that begins with the ending and then returns to earlier events independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle a story that begins with the ending and then returns to earlier events independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The only effect is that the text becomes longer.",
+      "The flashback makes me curious about how the characters reached the opening moment.",
+      "The story has no structure because time changes."
+    ],
+    "correct": 1,
+    "explanation": "A flashback changes the order of events and can create curiosity by withholding causes.\nHint: Name the feature and connect it to your response.",
+    "structuredExplanation": {
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-032",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to a story that begins with the ending and then returns to earlier events. Which option is best?",
+    "audioPrompt": "Apply the same idea to a story that begins with the ending and then returns to earlier events. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The only effect is that the text becomes longer.",
+      "The story has no structure because time changes.",
+      "The flashback makes me curious about how the characters reached the opening moment."
+    ],
+    "correct": 2,
+    "explanation": "A flashback changes the order of events and can create curiosity by withholding causes.\nHint: Name the feature and connect it to your response.",
+    "structuredExplanation": {
+      "summary": "A flashback changes the order of events and can create curiosity by withholding causes.",
+      "hint": "Name the feature and connect it to your response."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-033",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to a scene using short sentences during a chase. Which option is best?",
+    "audioPrompt": "Apply the same idea to a scene using short sentences during a chase. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The short sentences speed the pace and increase tension.",
+      "Sentence length never affects a reader.",
+      "Short sentences always make a scene calm."
+    ],
+    "correct": 0,
+    "explanation": "Rapid sentence boundaries can make action feel urgent.\nHint: Explain how the language choice changes pace or feeling.",
+    "structuredExplanation": {
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-034",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in a scene using short sentences during a chase?",
+    "audioPrompt": "Which decision would produce the clearest result in a scene using short sentences during a chase?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Sentence length never affects a reader.",
+      "The short sentences speed the pace and increase tension.",
+      "Short sentences always make a scene calm."
+    ],
+    "correct": 1,
+    "explanation": "Rapid sentence boundaries can make action feel urgent.\nHint: Explain how the language choice changes pace or feeling.",
+    "structuredExplanation": {
+      "summary": "Rapid sentence boundaries can make action feel urgent.",
+      "hint": "Explain how the language choice changes pace or feeling."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-035",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in a poem repeating the words “still we wait”?",
+    "audioPrompt": "Which decision would produce the clearest result in a poem repeating the words “still we wait”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Repetition only fixes spelling.",
+      "The repeated words have no effect because they are the same.",
+      "The repetition emphasises patience and makes the waiting feel important."
+    ],
+    "correct": 2,
+    "explanation": "Repeated wording can foreground an idea and create rhythm.\nHint: Ask why the writer wants the reader to notice these words again.",
+    "structuredExplanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-036",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in a poem repeating the words “still we wait”.",
+    "audioPrompt": "Choose the option that applies the skill correctly in a poem repeating the words “still we wait”.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The repetition emphasises patience and makes the waiting feel important.",
+      "Repetition only fixes spelling.",
+      "The repeated words have no effect because they are the same."
+    ],
+    "correct": 0,
+    "explanation": "Repeated wording can foreground an idea and create rhythm.\nHint: Ask why the writer wants the reader to notice these words again.",
+    "structuredExplanation": {
+      "summary": "Repeated wording can foreground an idea and create rhythm.",
+      "hint": "Ask why the writer wants the reader to notice these words again."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-037",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in a story resolving its main conflict in the final paragraph.",
+    "audioPrompt": "Choose the option that applies the skill correctly in a story resolving its main conflict in the final paragraph.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "A resolution is only the title.",
+      "The resolution gives a sense of closure because the central problem is settled.",
+      "The resolution creates the complication."
+    ],
+    "correct": 1,
+    "explanation": "The resolution stage shows what happens to the central problem.\nHint: Link the structural stage to the feeling it creates.",
+    "structuredExplanation": {
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-038",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for a story resolving its main conflict in the final paragraph?",
+    "audioPrompt": "What would be the most effective choice for a story resolving its main conflict in the final paragraph?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "A resolution is only the title.",
+      "The resolution creates the complication.",
+      "The resolution gives a sense of closure because the central problem is settled."
+    ],
+    "correct": 2,
+    "explanation": "The resolution stage shows what happens to the central problem.\nHint: Link the structural stage to the feeling it creates.",
+    "structuredExplanation": {
+      "summary": "The resolution stage shows what happens to the central problem.",
+      "hint": "Link the structural stage to the feeling it creates."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-039",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for a paragraph describing a dark, silent house before a character enters?",
+    "audioPrompt": "What would be the most effective choice for a paragraph describing a dark, silent house before a character enters?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The sensory details create an uneasy mood before anything happens.",
+      "Description cannot influence mood.",
+      "The description proves the house is dangerous."
+    ],
+    "correct": 0,
+    "explanation": "Language can prepare a reader emotionally without proving what will happen.\nHint: Separate the effect on the reader from a claim that the text has not established.",
+    "structuredExplanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le02-p-040",
+    "curriculumCode": "AC9E4LE02",
+    "bank": "practice",
+    "skill": "Responding to Literature",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle a paragraph describing a dark, silent house before a character enters independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle a paragraph describing a dark, silent house before a character enters independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Description cannot influence mood.",
+      "The sensory details create an uneasy mood before anything happens.",
+      "The description proves the house is dangerous."
+    ],
+    "correct": 1,
+    "explanation": "Language can prepare a reader emotionally without proving what will happen.\nHint: Separate the effect on the reader from a claim that the text has not established.",
+    "structuredExplanation": {
+      "summary": "Language can prepare a reader emotionally without proving what will happen.",
+      "hint": "Separate the effect on the reader from a claim that the text has not established."
     },
     "qualitySchema": "production-v1"
   }

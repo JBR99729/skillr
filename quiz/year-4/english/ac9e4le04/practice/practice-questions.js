@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-001",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which sentence uses personification?",
-    "audioPrompt": "Read the classroom example. Which sentence uses personification?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 1. Notice: Recognise literary devices. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 1. Notice: Recognise literary devices. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-001",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 1. Notice: Recognise literary devices. Choose the response supported by the example."
-    },
+    "question": "In the pun “The bicycle was two-tired to continue”, which option best demonstrates the skill?",
+    "audioPrompt": "In the pun “The bicycle was two-tired to continue”, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "The wind clawed at the roof.",
-      "The wind speed was 40 km or h.",
-      "The roof was metal."
+      "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+      "The humour comes from the sentence being factual.",
+      "Two-tired is a standard scientific term."
     ],
     "correct": 0,
-    "explanation": "The evidence and language purpose support “The wind clawed at the roof.”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "A pun depends on two meanings or similar sounds being activated at once.\nHint: Look for the double meaning.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “The wind clawed at the roof.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-002",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “The wind speed was 40 km or h.”. Which feedback helps? Task: Read the classroom example. Which sentence uses personification?",
-    "audioPrompt": "A student answers “The wind speed was 40 km or h.”. Which feedback helps? Task: Read the classroom example. Which sentence uses personification?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 1. Notice: Recognise literary devices. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 1. Notice: Recognise literary devices. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-002",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 1. Notice: Recognise literary devices. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits the pun “The bicycle was two-tired to continue” most accurately?",
+    "audioPrompt": "Which choice fits the pun “The bicycle was two-tired to continue” most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “The wind speed was 40 km or h.”; it uses a detail that sounds familiar.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The wind clawed at the roof.”.",
-      "Choose “The roof was metal.” instead; it sounds clearer."
+      "The humour comes from the sentence being factual.",
+      "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+      "Two-tired is a standard scientific term."
     ],
     "correct": 1,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The wind clawed at the roof.”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A pun depends on two meanings or similar sounds being activated at once.\nHint: Look for the double meaning.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The wind clawed at the roof.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-003",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. What creates the humour in ‘The bicycle was two-tired’?",
-    "audioPrompt": "Read the classroom example. What creates the humour in ‘The bicycle was two-tired’?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 2. Notice: Use precise evidence. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 2. Notice: Use precise evidence. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-003",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 2. Notice: Use precise evidence. Choose the response supported by the example."
-    },
+    "question": "Which choice fits the invented word “splish-splashy” in a beach poem most accurately?",
+    "audioPrompt": "Which choice fits the invented word “splish-splashy” in a beach poem most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "a factual measurement",
-      "a rhyme with no second meaning",
-      "two meanings or sounds: too tired and two tyres"
+      "The word has no effect because it is not in every dictionary.",
+      "Invented words can only be spelling mistakes.",
+      "The neologism blends familiar sound patterns to make the water feel lively and playful."
     ],
     "correct": 2,
-    "explanation": "The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Writers can create new words to produce a particular sound, image or mood.\nHint: Ask what the new word makes you hear or imagine.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-004",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “a rhyme with no second meaning”. Which feedback helps? Task: Read the classroom example. What creates the humour in ‘The bicycle was two-tired’?",
-    "audioPrompt": "A student answers “a rhyme with no second meaning”. Which feedback helps? Task: Read the classroom example. What creates the humour in ‘The bicycle was two-tired’?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 2. Notice: Use precise evidence. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 2. Notice: Use precise evidence. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-004",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Worked text 2. Notice: Use precise evidence. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at the invented word “splish-splashy” in a beach poem. Which response or wording works best?",
+    "audioPrompt": "Look closely at the invented word “splish-splashy” in a beach poem. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.",
-      "Keep “a rhyme with no second meaning”; it uses a detail that sounds familiar.",
-      "Choose “a factual measurement” instead; it sounds clearer."
+      "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+      "The word has no effect because it is not in every dictionary.",
+      "Invented words can only be spelling mistakes."
     ],
     "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Writers can create new words to produce a particular sound, image or mood.\nHint: Ask what the new word makes you hear or imagine.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “two meanings or sounds: too tired and two tyres”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-005",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 1. Notice: Explain sound/image effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 1. Notice: Explain sound/image effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-005",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 1. Notice: Explain sound/image effects. Choose the response supported by the example."
-    },
+    "question": "Look closely at the line “The wind whispered through the grass”. Which response or wording works best?",
+    "audioPrompt": "Look closely at the line “The wind whispered through the grass”. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Naming device completes analysis",
-      "Connect evidence to local and whole-text meaning.",
-      "Any repeated letter is alliteration"
+      "The line reports an exact weather measurement.",
+      "Personification gives the wind a human action and creates a gentle sound image.",
+      "Whispered means the grass is speaking literally."
     ],
     "correct": 1,
-    "explanation": "Connect evidence to local and whole-text meaning.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Personification can make a natural element feel alive and shape mood.\nHint: Identify the human action and its effect.",
     "structuredExplanation": {
-      "summary": "Connect evidence to local and whole-text meaning.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-006",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Naming device completes analysis”. Which feedback helps? Task: A student in a workshop claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Naming device completes analysis”. Which feedback helps? Task: A student in a workshop claims, “Naming device completes analysis”. Which response gives the most accurate correction?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 1. Notice: Explain sound/image effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 1. Notice: Explain sound/image effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-006",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 1. Notice: Explain sound/image effects. Correct the student's mix-up using the full task."
-    },
+    "question": "For the line “The wind whispered through the grass”, which option is the strongest match?",
+    "audioPrompt": "For the line “The wind whispered through the grass”, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Naming device completes analysis”; it uses a detail that sounds familiar.",
-      "Choose “Any repeated letter is alliteration” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect evidence to local and whole-text meaning."
+      "The line reports an exact weather measurement.",
+      "Whispered means the grass is speaking literally.",
+      "Personification gives the wind a human action and creates a gentle sound image."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect evidence to local and whole-text meaning.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Personification can make a natural element feel alive and shape mood.\nHint: Identify the human action and its effect.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Connect evidence to local and whole-text meaning.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-007",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 2. Notice: Interpret word play. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 2. Notice: Interpret word play. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-007",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 2. Notice: Interpret word play. Choose the response supported by the example."
-    },
+    "question": "For the phrase “a mountain of homework”, which option is the strongest match?",
+    "audioPrompt": "For the phrase “a mountain of homework”, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Focus on noticeable sound pattern, usually at nearby stressed words.",
-      "Any repeated letter is alliteration",
-      "Metaphor considered false information"
+      "The exaggeration emphasises that the amount feels very large.",
+      "The phrase proves the homework is physically a mountain.",
+      "The phrase makes the amount smaller."
     ],
     "correct": 0,
-    "explanation": "Focus on noticeable sound pattern, usually at nearby stressed words.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Hyperbole exaggerates for emphasis rather than literal accuracy.\nHint: Check whether the image is meant literally.",
     "structuredExplanation": {
-      "summary": "Focus on noticeable sound pattern, usually at nearby stressed words.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-008",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Metaphor considered false information”. Which feedback helps? Task: A student in a workshop claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Metaphor considered false information”. Which feedback helps? Task: A student in a workshop claims, “Any repeated letter is alliteration”. Which response gives the most accurate correction?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 2. Notice: Interpret word play. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 2. Notice: Interpret word play. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-008",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 2. Notice: Interpret word play. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for the phrase “a mountain of homework”?",
+    "audioPrompt": "Which example should you choose for the phrase “a mountain of homework”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Metaphor considered false information”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Focus on noticeable sound pattern, usually at nearby stressed words.",
-      "Choose “Any repeated letter is alliteration” instead; it sounds clearer."
+      "The phrase proves the homework is physically a mountain.",
+      "The exaggeration emphasises that the amount feels very large.",
+      "The phrase makes the amount smaller."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Focus on noticeable sound pattern, usually at nearby stressed words.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Hyperbole exaggerates for emphasis rather than literal accuracy.\nHint: Check whether the image is meant literally.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Focus on noticeable sound pattern, usually at nearby stressed words.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-009",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 3. Notice: Create controlled figurative language. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 3. Notice: Create controlled figurative language. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-009",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 3. Notice: Create controlled figurative language. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for the emotive phrase “helpless joey” in a rescue appeal?",
+    "audioPrompt": "Which example should you choose for the emotive phrase “helpless joey” in a rescue appeal?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Metaphor considered false information",
-      "More devices always improve writing",
-      "It creates a conceptual comparison, not a literal claim."
+      "The word gives only a measurement.",
+      "Emotive language removes all viewpoint.",
+      "Helpless encourages concern and makes readers feel the animal needs protection."
     ],
     "correct": 2,
-    "explanation": "It creates a conceptual comparison, not a literal claim.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Emotive words are chosen partly for the feelings they encourage.\nHint: Notice the feeling carried by the adjective.",
     "structuredExplanation": {
-      "summary": "It creates a conceptual comparison, not a literal claim.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-010",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Metaphor considered false information”. Which feedback helps? Task: A student in a workshop claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Metaphor considered false information”. Which feedback helps? Task: A student in a workshop claims, “Metaphor considered false information”. Which response gives the most accurate correction?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 3. Notice: Create controlled figurative language. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 3. Notice: Create controlled figurative language. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-010",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 3. Notice: Create controlled figurative language. Correct the student's mix-up using the full task."
-    },
+    "question": "In the emotive phrase “helpless joey” in a rescue appeal, which option best demonstrates the skill?",
+    "audioPrompt": "In the emotive phrase “helpless joey” in a rescue appeal, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates a conceptual comparison, not a literal claim.",
-      "Keep “Metaphor considered false information”; it uses a detail that sounds familiar.",
-      "Choose “More devices always improve writing” instead; it sounds clearer."
+      "Helpless encourages concern and makes readers feel the animal needs protection.",
+      "The word gives only a measurement.",
+      "Emotive language removes all viewpoint."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates a conceptual comparison, not a literal claim.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Emotive words are chosen partly for the feelings they encourage.\nHint: Notice the feeling carried by the adjective.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates a conceptual comparison, not a literal claim.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-011",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “More devices always improve writing”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “More devices always improve writing”. Which response gives the most accurate correction?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 4. Notice: Recognise literary devices. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 4. Notice: Recognise literary devices. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-011",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 4. Notice: Recognise literary devices. Choose the response supported by the example."
-    },
+    "question": "Why does “The humour comes from two-tired sounding like too tired while also referring to two tyres.” work well for the pun “The bicycle was two-tired to continue”?",
+    "audioPrompt": "Why does “The humour comes from two-tired sounding like too tired while also referring to two tyres.” work well for the pun “The bicycle was two-tired to continue”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "More devices always improve writing",
-      "Select devices that support a coherent effect.",
-      "Naming device completes analysis"
+      "Because “The humour comes from the sentence being factual.” is always acceptable in this situation.",
+      "A pun depends on two meanings or similar sounds being activated at once.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Select devices that support a coherent effect.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "A pun depends on two meanings or similar sounds being activated at once.\nHint: Look for the double meaning.",
     "structuredExplanation": {
-      "summary": "Select devices that support a coherent effect.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-012",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Naming device completes analysis”. Which feedback helps? Task: A student in a workshop claims, “More devices always improve writing”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Naming device completes analysis”. Which feedback helps? Task: A student in a workshop claims, “More devices always improve writing”. Which response gives the most accurate correction?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 4. Notice: Recognise literary devices. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 4. Notice: Recognise literary devices. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-012",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Misconception 4. Notice: Recognise literary devices. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “The humour comes from two-tired sounding like too tired while also referring to two tyres.” a better choice in the pun “The bicycle was two-tired to continue”?",
+    "audioPrompt": "What makes “The humour comes from two-tired sounding like too tired while also referring to two tyres.” a better choice in the pun “The bicycle was two-tired to continue”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Naming device completes analysis”; it uses a detail that sounds familiar.",
-      "Choose “More devices always improve writing” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select devices that support a coherent effect."
+      "Because “The humour comes from the sentence being factual.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "A pun depends on two meanings or similar sounds being activated at once."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select devices that support a coherent effect.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A pun depends on two meanings or similar sounds being activated at once.\nHint: Look for the double meaning.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Select devices that support a coherent effect.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-013",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "device laboratory apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Device laboratory”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Device laboratory”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Device laboratory. Notice: Use precise evidence. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Device laboratory. Notice: Use precise evidence. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-013",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Device laboratory. Notice: Use precise evidence. Choose the response supported by the example."
-    },
+    "question": "What makes “The neologism blends familiar sound patterns to make the water feel lively and playful.” a better choice in the invented word “splish-splashy” in a beach poem?",
+    "audioPrompt": "What makes “The neologism blends familiar sound patterns to make the water feel lively and playful.” a better choice in the invented word “splish-splashy” in a beach poem?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Revise a plain image using three devices and compare how mood, sound and emphasis change.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Writers can create new words to produce a particular sound, image or mood.",
+      "Because “The word has no effect because it is not in every dictionary.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Revise a plain image using three devices and compare how mood, sound and emphasis change.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Writers can create new words to produce a particular sound, image or mood.\nHint: Ask what the new word makes you hear or imagine.",
     "structuredExplanation": {
-      "summary": "Revise a plain image using three devices and compare how mood, sound and emphasis change.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-014",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "device laboratory reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Device laboratory”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Device laboratory”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Device laboratory. Notice: Use precise evidence. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Device laboratory. Notice: Use precise evidence. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-014",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Device laboratory. Notice: Use precise evidence. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “The neologism blends familiar sound patterns to make the water feel lively and playful.” for the invented word “splish-splashy” in a beach poem?",
+    "audioPrompt": "Which explanation best justifies “The neologism blends familiar sound patterns to make the water feel lively and playful.” for the invented word “splish-splashy” in a beach poem?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Revise a plain image using three devices and compare how mood, sound and emphasis change.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Because “The word has no effect because it is not in every dictionary.” is always acceptable in this situation.",
+      "Writers can create new words to produce a particular sound, image or mood.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Revise a plain image using three devices and compare how mood, sound and emphasis change.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Writers can create new words to produce a particular sound, image or mood.\nHint: Ask what the new word makes you hear or imagine.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Revise a plain image using three devices and compare how mood, sound and emphasis change.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-015",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "poetry sound map apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Poetry sound map”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Poetry sound map”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Poetry sound map. Notice: Explain sound/image effects. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Poetry sound map. Notice: Explain sound/image effects. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-015",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Poetry sound map. Notice: Explain sound/image effects. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “Personification gives the wind a human action and creates a gentle sound image.” for the line “The wind whispered through the grass”?",
+    "audioPrompt": "Which explanation best justifies “Personification gives the wind a human action and creates a gentle sound image.” for the line “The wind whispered through the grass”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings."
+      "Because “The line reports an exact weather measurement.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Personification can make a natural element feel alive and shape mood."
     ],
     "correct": 2,
-    "explanation": "Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Personification can make a natural element feel alive and shape mood.\nHint: Identify the human action and its effect.",
     "structuredExplanation": {
-      "summary": "Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-016",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "poetry sound map reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Poetry sound map”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Poetry sound map”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Poetry sound map. Notice: Explain sound/image effects. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Poetry sound map. Notice: Explain sound/image effects. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-016",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Poetry sound map. Notice: Explain sound/image effects. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “Personification gives the wind a human action and creates a gentle sound image.” in the line “The wind whispered through the grass”?",
+    "audioPrompt": "What should you notice about “Personification gives the wind a human action and creates a gentle sound image.” in the line “The wind whispered through the grass”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Personification can make a natural element feel alive and shape mood.",
+      "Because “The line reports an exact weather measurement.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Personification can make a natural element feel alive and shape mood.\nHint: Identify the human action and its effect.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark stress, repetition, alliteration and onomatopoeia in a short poem and perform two readings.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-017",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "word play meaning tree apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Word-play meaning tree”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Word-play meaning tree”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Word-play meaning tree. Notice: Interpret word play. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Word-play meaning tree. Notice: Interpret word play. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-017",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Word-play meaning tree. Notice: Interpret word play. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “The exaggeration emphasises that the amount feels very large.” in the phrase “a mountain of homework”?",
+    "audioPrompt": "What should you notice about “The exaggeration emphasises that the amount feels very large.” in the phrase “a mountain of homework”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "List two meanings needed for a pun and explain how context activates both.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “The phrase proves the homework is physically a mountain.” is always acceptable in this situation.",
+      "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "List two meanings needed for a pun and explain how context activates both.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Hyperbole exaggerates for emphasis rather than literal accuracy.\nHint: Check whether the image is meant literally.",
     "structuredExplanation": {
-      "summary": "List two meanings needed for a pun and explain how context activates both.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-018",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "word play meaning tree reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Word-play meaning tree”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Word-play meaning tree”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Word-play meaning tree. Notice: Interpret word play. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Word-play meaning tree. Notice: Interpret word play. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-018",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Word-play meaning tree. Notice: Interpret word play. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “The exaggeration emphasises that the amount feels very large.” suits the phrase “a mountain of homework”?",
+    "audioPrompt": "Which reason explains why “The exaggeration emphasises that the amount feels very large.” suits the phrase “a mountain of homework”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. List two meanings needed for a pun and explain how context activates both."
+      "Because “The phrase proves the homework is physically a mountain.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Hyperbole exaggerates for emphasis rather than literal accuracy."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. List two meanings needed for a pun and explain how context activates both.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Hyperbole exaggerates for emphasis rather than literal accuracy.\nHint: Check whether the image is meant literally.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. List two meanings needed for a pun and explain how context activates both.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-019",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Literary Devices and Deliberate Word Play describes “language extending beyond literal meaning”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Literary Devices and Deliberate Word Play describes “language extending beyond literal meaning”. Which term is most precise?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 1. Notice: Create controlled figurative language. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 1. Notice: Create controlled figurative language. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-019",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 1. Notice: Create controlled figurative language. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “Helpless encourages concern and makes readers feel the animal needs protection.” suits the emotive phrase “helpless joey” in a rescue appeal?",
+    "audioPrompt": "Which reason explains why “Helpless encourages concern and makes readers feel the animal needs protection.” suits the emotive phrase “helpless joey” in a rescue appeal?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "figurative language",
-      "metaphor",
-      "personification"
+      "Emotive words are chosen partly for the feelings they encourage.",
+      "Because “The word gives only a measurement.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "figurative language is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Emotive words are chosen partly for the feelings they encourage.\nHint: Notice the feeling carried by the adjective.",
     "structuredExplanation": {
-      "summary": "figurative language is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-020",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “personification”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “language extending beyond literal meaning”. Which term is most precise?",
-    "audioPrompt": "A student answers “personification”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “language extending beyond literal meaning”. Which term is most precise?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 1. Notice: Create controlled figurative language. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 1. Notice: Create controlled figurative language. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-020",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 1. Notice: Create controlled figurative language. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “Helpless encourages concern and makes readers feel the animal needs protection.” work well for the emotive phrase “helpless joey” in a rescue appeal?",
+    "audioPrompt": "Why does “Helpless encourages concern and makes readers feel the animal needs protection.” work well for the emotive phrase “helpless joey” in a rescue appeal?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “personification”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. figurative language is the precise term for this feature.",
-      "Choose “metaphor” instead; it sounds clearer."
+      "Because “The word gives only a measurement.” is always acceptable in this situation.",
+      "Emotive words are chosen partly for the feelings they encourage.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. figurative language is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Emotive words are chosen partly for the feelings they encourage.\nHint: Notice the feeling carried by the adjective.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. figurative language is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-021",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Literary Devices and Deliberate Word Play describes “direct comparison describing one thing as another”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Literary Devices and Deliberate Word Play describes “direct comparison describing one thing as another”. Which term is most precise?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 2. Notice: Recognise literary devices. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 2. Notice: Recognise literary devices. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-021",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 2. Notice: Recognise literary devices. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “The humour comes from the sentence being factual.” for the pun “The bicycle was two-tired to continue”?",
+    "audioPrompt": "Which revision best fixes the problem in “The humour comes from the sentence being factual.” for the pun “The bicycle was two-tired to continue”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "figurative language",
-      "personification",
-      "metaphor"
+      "The humour comes from the sentence being factual.",
+      "Two-tired is a standard scientific term.",
+      "The humour comes from two-tired sounding like too tired while also referring to two tyres."
     ],
     "correct": 2,
-    "explanation": "metaphor is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "A pun depends on two meanings or similar sounds being activated at once. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look for the double meaning.",
     "structuredExplanation": {
-      "summary": "metaphor is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "A pun depends on two meanings or similar sounds being activated at once. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for the double meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-022",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “figurative language”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “direct comparison describing one thing as another”. Which term is most precise?",
-    "audioPrompt": "A student answers “figurative language”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “direct comparison describing one thing as another”. Which term is most precise?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 2. Notice: Recognise literary devices. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 2. Notice: Recognise literary devices. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-022",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 2. Notice: Recognise literary devices. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for the pun “The bicycle was two-tired to continue”. Which one avoids the mistake in “The humour comes from the sentence being factual.”?",
+    "audioPrompt": "Compare the choices for the pun “The bicycle was two-tired to continue”. Which one avoids the mistake in “The humour comes from the sentence being factual.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. metaphor is the precise term for this feature.",
-      "Keep “figurative language”; it uses a detail that sounds familiar.",
-      "Choose “personification” instead; it sounds clearer."
+      "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+      "The humour comes from the sentence being factual.",
+      "Two-tired is a standard scientific term."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. metaphor is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "A pun depends on two meanings or similar sounds being activated at once. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look for the double meaning.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. metaphor is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A pun depends on two meanings or similar sounds being activated at once. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for the double meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-023",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "vocabulary 3 apply",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Literary Devices and Deliberate Word Play describes “human qualities given to non-human things”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Literary Devices and Deliberate Word Play describes “human qualities given to non-human things”. Which term is most precise?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 3. Notice: Use precise evidence. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 3. Notice: Use precise evidence. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-023",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 3. Notice: Use precise evidence. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for the invented word “splish-splashy” in a beach poem. Which one avoids the mistake in “The word has no effect because it is not in every dictionary.”?",
+    "audioPrompt": "Compare the choices for the invented word “splish-splashy” in a beach poem. Which one avoids the mistake in “The word has no effect because it is not in every dictionary.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "figurative language",
-      "personification",
-      "metaphor"
+      "The word has no effect because it is not in every dictionary.",
+      "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+      "Invented words can only be spelling mistakes."
     ],
     "correct": 1,
-    "explanation": "personification is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Writers can create new words to produce a particular sound, image or mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what the new word makes you hear or imagine.",
     "structuredExplanation": {
-      "summary": "personification is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Writers can create new words to produce a particular sound, image or mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the new word makes you hear or imagine."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4le04-p-024",
     "curriculumCode": "AC9E4LE04",
     "bank": "practice",
-    "skill": "vocabulary 3 reason",
+    "skill": "Wordplay and Literary Language",
     "printable": true,
     "type": "single",
-    "question": "A student answers “metaphor”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “human qualities given to non-human things”. Which term is most precise?",
-    "audioPrompt": "A student answers “metaphor”. Which feedback helps? Task: A class annotation about Literary Devices and Deliberate Word Play describes “human qualities given to non-human things”. Which term is most precise?",
-    "visual": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 3. Notice: Use precise evidence. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 3. Notice: Use precise evidence. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le04.svg#ac9e4le04-p-024",
-      "alt_text": "Three-step Literary Devices and Deliberate Word Play organiser. Read: Vocabulary 3. Notice: Use precise evidence. Correct the student's mix-up using the full task."
-    },
+    "question": "If “The word has no effect because it is not in every dictionary.” does not work in the invented word “splish-splashy” in a beach poem, what should replace it?",
+    "audioPrompt": "If “The word has no effect because it is not in every dictionary.” does not work in the invented word “splish-splashy” in a beach poem, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “metaphor”; it uses a detail that sounds familiar.",
-      "Choose “figurative language” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. personification is the precise term for this feature."
+      "The word has no effect because it is not in every dictionary.",
+      "Invented words can only be spelling mistakes.",
+      "The neologism blends familiar sound patterns to make the water feel lively and playful."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. personification is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Writers can create new words to produce a particular sound, image or mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what the new word makes you hear or imagine.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. personification is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Writers can create new words to produce a particular sound, image or mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-025",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "If “The line reports an exact weather measurement.” does not work in the line “The wind whispered through the grass”, what should replace it?",
+    "audioPrompt": "If “The line reports an exact weather measurement.” does not work in the line “The wind whispered through the grass”, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Personification gives the wind a human action and creates a gentle sound image.",
+      "The line reports an exact weather measurement.",
+      "Whispered means the grass is speaking literally."
+    ],
+    "correct": 0,
+    "explanation": "Personification can make a natural element feel alive and shape mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Identify the human action and its effect.",
+    "structuredExplanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Identify the human action and its effect."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-026",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for the line “The wind whispered through the grass”?",
+    "audioPrompt": "Which option corrects the meaning or form needed for the line “The wind whispered through the grass”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The line reports an exact weather measurement.",
+      "Personification gives the wind a human action and creates a gentle sound image.",
+      "Whispered means the grass is speaking literally."
+    ],
+    "correct": 1,
+    "explanation": "Personification can make a natural element feel alive and shape mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Identify the human action and its effect.",
+    "structuredExplanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Identify the human action and its effect."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-027",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for the phrase “a mountain of homework”?",
+    "audioPrompt": "Which option corrects the meaning or form needed for the phrase “a mountain of homework”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The phrase proves the homework is physically a mountain.",
+      "The phrase makes the amount smaller.",
+      "The exaggeration emphasises that the amount feels very large."
+    ],
+    "correct": 2,
+    "explanation": "Hyperbole exaggerates for emphasis rather than literal accuracy. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check whether the image is meant literally.",
+    "structuredExplanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check whether the image is meant literally."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-028",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for the phrase “a mountain of homework”?",
+    "audioPrompt": "Which choice is the clearest correction for the phrase “a mountain of homework”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The exaggeration emphasises that the amount feels very large.",
+      "The phrase proves the homework is physically a mountain.",
+      "The phrase makes the amount smaller."
+    ],
+    "correct": 0,
+    "explanation": "Hyperbole exaggerates for emphasis rather than literal accuracy. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check whether the image is meant literally.",
+    "structuredExplanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check whether the image is meant literally."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-029",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for the emotive phrase “helpless joey” in a rescue appeal?",
+    "audioPrompt": "Which choice is the clearest correction for the emotive phrase “helpless joey” in a rescue appeal?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The word gives only a measurement.",
+      "Helpless encourages concern and makes readers feel the animal needs protection.",
+      "Emotive language removes all viewpoint."
+    ],
+    "correct": 1,
+    "explanation": "Emotive words are chosen partly for the feelings they encourage. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Notice the feeling carried by the adjective.",
+    "structuredExplanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice the feeling carried by the adjective."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-030",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “The word gives only a measurement.” for the emotive phrase “helpless joey” in a rescue appeal?",
+    "audioPrompt": "Which revision best fixes the problem in “The word gives only a measurement.” for the emotive phrase “helpless joey” in a rescue appeal?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The word gives only a measurement.",
+      "Emotive language removes all viewpoint.",
+      "Helpless encourages concern and makes readers feel the animal needs protection."
+    ],
+    "correct": 2,
+    "explanation": "Emotive words are chosen partly for the feelings they encourage. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Notice the feeling carried by the adjective.",
+    "structuredExplanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice the feeling carried by the adjective."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-031",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle the pun “The bicycle was two-tired to continue” independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle the pun “The bicycle was two-tired to continue” independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+      "Two-tired is a standard scientific term.",
+      "The humour comes from the sentence being factual."
+    ],
+    "correct": 0,
+    "explanation": "A pun depends on two meanings or similar sounds being activated at once.\nHint: Look for the double meaning.",
+    "structuredExplanation": {
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-032",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to the pun “The bicycle was two-tired to continue”. Which option is best?",
+    "audioPrompt": "Apply the same idea to the pun “The bicycle was two-tired to continue”. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Two-tired is a standard scientific term.",
+      "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+      "The humour comes from the sentence being factual."
+    ],
+    "correct": 1,
+    "explanation": "A pun depends on two meanings or similar sounds being activated at once.\nHint: Look for the double meaning.",
+    "structuredExplanation": {
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-033",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to the invented word “splish-splashy” in a beach poem. Which option is best?",
+    "audioPrompt": "Apply the same idea to the invented word “splish-splashy” in a beach poem. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Invented words can only be spelling mistakes.",
+      "The word has no effect because it is not in every dictionary.",
+      "The neologism blends familiar sound patterns to make the water feel lively and playful."
+    ],
+    "correct": 2,
+    "explanation": "Writers can create new words to produce a particular sound, image or mood.\nHint: Ask what the new word makes you hear or imagine.",
+    "structuredExplanation": {
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-034",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in the invented word “splish-splashy” in a beach poem?",
+    "audioPrompt": "Which decision would produce the clearest result in the invented word “splish-splashy” in a beach poem?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+      "Invented words can only be spelling mistakes.",
+      "The word has no effect because it is not in every dictionary."
+    ],
+    "correct": 0,
+    "explanation": "Writers can create new words to produce a particular sound, image or mood.\nHint: Ask what the new word makes you hear or imagine.",
+    "structuredExplanation": {
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-035",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in the line “The wind whispered through the grass”?",
+    "audioPrompt": "Which decision would produce the clearest result in the line “The wind whispered through the grass”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Whispered means the grass is speaking literally.",
+      "Personification gives the wind a human action and creates a gentle sound image.",
+      "The line reports an exact weather measurement."
+    ],
+    "correct": 1,
+    "explanation": "Personification can make a natural element feel alive and shape mood.\nHint: Identify the human action and its effect.",
+    "structuredExplanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-036",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in the line “The wind whispered through the grass”.",
+    "audioPrompt": "Choose the option that applies the skill correctly in the line “The wind whispered through the grass”.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Whispered means the grass is speaking literally.",
+      "The line reports an exact weather measurement.",
+      "Personification gives the wind a human action and creates a gentle sound image."
+    ],
+    "correct": 2,
+    "explanation": "Personification can make a natural element feel alive and shape mood.\nHint: Identify the human action and its effect.",
+    "structuredExplanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-037",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in the phrase “a mountain of homework”.",
+    "audioPrompt": "Choose the option that applies the skill correctly in the phrase “a mountain of homework”.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The exaggeration emphasises that the amount feels very large.",
+      "The phrase makes the amount smaller.",
+      "The phrase proves the homework is physically a mountain."
+    ],
+    "correct": 0,
+    "explanation": "Hyperbole exaggerates for emphasis rather than literal accuracy.\nHint: Check whether the image is meant literally.",
+    "structuredExplanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-038",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for the phrase “a mountain of homework”?",
+    "audioPrompt": "What would be the most effective choice for the phrase “a mountain of homework”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The phrase makes the amount smaller.",
+      "The exaggeration emphasises that the amount feels very large.",
+      "The phrase proves the homework is physically a mountain."
+    ],
+    "correct": 1,
+    "explanation": "Hyperbole exaggerates for emphasis rather than literal accuracy.\nHint: Check whether the image is meant literally.",
+    "structuredExplanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-039",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for the emotive phrase “helpless joey” in a rescue appeal?",
+    "audioPrompt": "What would be the most effective choice for the emotive phrase “helpless joey” in a rescue appeal?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Emotive language removes all viewpoint.",
+      "The word gives only a measurement.",
+      "Helpless encourages concern and makes readers feel the animal needs protection."
+    ],
+    "correct": 2,
+    "explanation": "Emotive words are chosen partly for the feelings they encourage.\nHint: Notice the feeling carried by the adjective.",
+    "structuredExplanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4le04-p-040",
+    "curriculumCode": "AC9E4LE04",
+    "bank": "practice",
+    "skill": "Wordplay and Literary Language",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle the emotive phrase “helpless joey” in a rescue appeal independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle the emotive phrase “helpless joey” in a rescue appeal independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Helpless encourages concern and makes readers feel the animal needs protection.",
+      "Emotive language removes all viewpoint.",
+      "The word gives only a measurement."
+    ],
+    "correct": 0,
+    "explanation": "Emotive words are chosen partly for the feelings they encourage.\nHint: Notice the feeling carried by the adjective.",
+    "structuredExplanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
     },
     "qualitySchema": "production-v1"
   }

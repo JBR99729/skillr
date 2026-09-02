@@ -5,36 +5,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "worked_text_1_apply",
-    "question": "Read the classroom example. Which plot connection is strongest?",
-    "audio_prompt": "Read the classroom example. Which plot connection is strongest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-001",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Worked text 1. Notice: Plan coherent storylines. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "In opening a story about a child lost at the Royal Easter Show, which option best demonstrates the skill?",
+    "audio_prompt": "In opening a story about a child lost at the Royal Easter Show, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "Events happen randomly with no link",
+        "text": "Mina was at a show. It was a show.",
         "is_correct": false
       },
       {
-        "text": "A decision causes a consequence that creates the next problem",
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
         "is_correct": true
       },
       {
-        "text": "A new character solves everything without introduction",
+        "text": "This story will have a complication later because stories do.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The evidence and language purpose support “A decision causes a consequence that creates the next problem”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
   },
   {
     "id": "AC9E4LE05-P-002",
@@ -42,36 +35,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "worked_text_1_reason",
-    "question": "A student answers “Events happen randomly with no link”. Which feedback helps? Task: Read the classroom example. Which plot connection is strongest?",
-    "audio_prompt": "A student answers “Events happen randomly with no link”. Which feedback helps? Task: Read the classroom example. Which plot connection is strongest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-002",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Worked text 1. Notice: Plan coherent storylines. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Which choice fits opening a story about a child lost at the Royal Easter Show most accurately?",
+    "audio_prompt": "Which choice fits opening a story about a child lost at the Royal Easter Show most accurately?",
     "answers": [
       {
-        "text": "Keep “Events happen randomly with no link”; it uses a detail that sounds familiar.",
+        "text": "Mina was at a show. It was a show.",
         "is_correct": false
       },
       {
-        "text": "Choose “A new character solves everything without introduction” instead; it sounds clearer.",
+        "text": "This story will have a complication later because stories do.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A decision causes a consequence that creates the next problem”.",
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A decision causes a consequence that creates the next problem”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
   },
   {
     "id": "AC9E4LE05-P-003",
@@ -79,36 +65,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "worked_text_2_apply",
-    "question": "Read the classroom example. Which change is revision rather than proofreading?",
-    "audio_prompt": "Read the classroom example. Which change is revision rather than proofreading?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-003",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Worked text 2. Notice: Develop motivated characters. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Which choice fits developing a nervous character before a school performance most accurately?",
+    "audio_prompt": "Which choice fits developing a nervous character before a school performance most accurately?",
     "answers": [
       {
-        "text": "Reordering scenes to clarify cause and effect",
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
         "is_correct": true
       },
       {
-        "text": "Correcting one misspelled word",
+        "text": "Leo was nervous nervous nervous.",
         "is_correct": false
       },
       {
-        "text": "Adding a missing full stop",
+        "text": "Leo is a character in this story.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “Reordering scenes to clarify cause and effect”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
   },
   {
     "id": "AC9E4LE05-P-004",
@@ -116,36 +95,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "worked_text_2_reason",
-    "question": "A student answers “Adding a missing full stop”. Which feedback helps? Task: Read the classroom example. Which change is revision rather than proofreading?",
-    "audio_prompt": "A student answers “Adding a missing full stop”. Which feedback helps? Task: Read the classroom example. Which change is revision rather than proofreading?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-004",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Worked text 2. Notice: Develop motivated characters. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Look closely at developing a nervous character before a school performance. Which response or wording works best?",
+    "audio_prompt": "Look closely at developing a nervous character before a school performance. Which response or wording works best?",
     "answers": [
       {
-        "text": "Keep “Adding a missing full stop”; it uses a detail that sounds familiar.",
+        "text": "Leo was nervous nervous nervous.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Reordering scenes to clarify cause and effect”.",
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
         "is_correct": true
       },
       {
-        "text": "Choose “Correcting one misspelled word” instead; it sounds clearer.",
+        "text": "Leo is a character in this story.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Reordering scenes to clarify cause and effect”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
   },
   {
     "id": "AC9E4LE05-P-005",
@@ -153,36 +125,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "misconception_1_apply",
-    "question": "A student in a workshop claims, “Editing means fixing spelling only”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Editing means fixing spelling only”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-005",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 1. Notice: Make setting functional. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Look closely at creating a vivid bush setting. Which response or wording works best?",
+    "audio_prompt": "Look closely at creating a vivid bush setting. Which response or wording works best?",
     "answers": [
       {
-        "text": "Editing means fixing spelling only",
+        "text": "The bush was nice and there were trees.",
         "is_correct": false
       },
       {
-        "text": "Character described through adjectives alone",
+        "text": "There was a setting in the bush.",
         "is_correct": false
       },
       {
-        "text": "Revision addresses storyline, character, setting, pacing and clarity.",
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Revision addresses storyline, character, setting, pacing and clarity.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
   },
   {
     "id": "AC9E4LE05-P-006",
@@ -190,36 +155,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Editing means fixing spelling only”. Which feedback helps? Task: A student in a workshop claims, “Editing means fixing spelling only”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Editing means fixing spelling only”. Which feedback helps? Task: A student in a workshop claims, “Editing means fixing spelling only”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-006",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 1. Notice: Make setting functional. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "For creating a vivid bush setting, which option is the strongest match?",
+    "audio_prompt": "For creating a vivid bush setting, which option is the strongest match?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Revision addresses storyline, character, setting, pacing and clarity.",
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
         "is_correct": true
       },
       {
-        "text": "Keep “Editing means fixing spelling only”; it uses a detail that sounds familiar.",
+        "text": "The bush was nice and there were trees.",
         "is_correct": false
       },
       {
-        "text": "Choose “Character described through adjectives alone” instead; it sounds clearer.",
+        "text": "There was a setting in the bush.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Revision addresses storyline, character, setting, pacing and clarity.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
   },
   {
     "id": "AC9E4LE05-P-007",
@@ -227,36 +185,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "misconception_2_apply",
-    "question": "A student in a workshop claims, “Character described through adjectives alone”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Character described through adjectives alone”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-007",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 2. Notice: Revise structure and language. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "For using dialogue to increase tension, which option is the strongest match?",
+    "audio_prompt": "For using dialogue to increase tension, which option is the strongest match?",
     "answers": [
       {
-        "text": "Character described through adjectives alone",
+        "text": "Amira said hello and then nothing changed.",
         "is_correct": false
       },
       {
-        "text": "Use decisions, dialogue, reactions and relationships as evidence.",
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
         "is_correct": true
       },
       {
-        "text": "Setting added as decoration",
+        "text": "“I am increasing the tension now,” Amira explained.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use decisions, dialogue, reactions and relationships as evidence.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
   },
   {
     "id": "AC9E4LE05-P-008",
@@ -264,36 +215,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Setting added as decoration”. Which feedback helps? Task: A student in a workshop claims, “Character described through adjectives alone”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Setting added as decoration”. Which feedback helps? Task: A student in a workshop claims, “Character described through adjectives alone”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-008",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 2. Notice: Revise structure and language. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Which example should you choose for using dialogue to increase tension?",
+    "audio_prompt": "Which example should you choose for using dialogue to increase tension?",
     "answers": [
       {
-        "text": "Keep “Setting added as decoration”; it uses a detail that sounds familiar.",
+        "text": "Amira said hello and then nothing changed.",
         "is_correct": false
       },
       {
-        "text": "Choose “Character described through adjectives alone” instead; it sounds clearer.",
+        "text": "“I am increasing the tension now,” Amira explained.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use decisions, dialogue, reactions and relationships as evidence.",
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use decisions, dialogue, reactions and relationships as evidence.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
   },
   {
     "id": "AC9E4LE05-P-009",
@@ -301,35 +245,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "misconception_3_apply",
-    "question": "A student in a workshop claims, “Setting added as decoration”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Setting added as decoration”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-009",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 3. Notice: Edit conventions accurately. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Which example should you choose for revising a flat complication?",
+    "audio_prompt": "Which example should you choose for revising a flat complication?",
     "answers": [
       {
-        "text": "Make it influence possibilities, mood or conflict.",
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
         "is_correct": true
       },
       {
-        "text": "Setting added as decoration",
+        "text": "There was a problem.",
         "is_correct": false
       },
       {
-        "text": "Surprise twist needs no preparation",
+        "text": "Everything went perfectly, so the complication was finished before it began.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Make it influence possibilities, mood or conflict.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
   },
   {
     "id": "AC9E4LE05-P-010",
@@ -337,35 +275,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Setting added as decoration”. Which feedback helps? Task: A student in a workshop claims, “Setting added as decoration”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Setting added as decoration”. Which feedback helps? Task: A student in a workshop claims, “Setting added as decoration”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-010",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 3. Notice: Edit conventions accurately. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "In revising a flat complication, which option best demonstrates the skill?",
+    "audio_prompt": "In revising a flat complication, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "Keep “Setting added as decoration”; it uses a detail that sounds familiar.",
+        "text": "There was a problem.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Make it influence possibilities, mood or conflict.",
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
         "is_correct": true
       },
       {
-        "text": "Choose “Surprise twist needs no preparation” instead; it sounds clearer.",
+        "text": "Everything went perfectly, so the complication was finished before it began.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Make it influence possibilities, mood or conflict.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
   },
   {
     "id": "AC9E4LE05-P-011",
@@ -373,35 +305,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "misconception_4_apply",
-    "question": "A student in a workshop claims, “Surprise twist needs no preparation”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Surprise twist needs no preparation”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-011",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 4. Notice: Plan coherent storylines. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Why does “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” work well for opening a story about a child lost at the Royal Easter Show?",
+    "audio_prompt": "Why does “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” work well for opening a story about a child lost at the Royal Easter Show?",
     "answers": [
       {
-        "text": "Surprise twist needs no preparation",
+        "text": "Because “Mina was at a show. It was a show.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Editing means fixing spelling only",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Foreshadowing and causal logic help a twist feel earned.",
+        "text": "The opening establishes a character, setting and immediate problem through action.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Foreshadowing and causal logic help a twist feel earned.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
   },
   {
     "id": "AC9E4LE05-P-012",
@@ -409,35 +335,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Editing means fixing spelling only”. Which feedback helps? Task: A student in a workshop claims, “Surprise twist needs no preparation”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Editing means fixing spelling only”. Which feedback helps? Task: A student in a workshop claims, “Surprise twist needs no preparation”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-012",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 4. Notice: Plan coherent storylines. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "What makes “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” a better choice in opening a story about a child lost at the Royal Easter Show?",
+    "audio_prompt": "What makes “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” a better choice in opening a story about a child lost at the Royal Easter Show?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Foreshadowing and causal logic help a twist feel earned.",
+        "text": "The opening establishes a character, setting and immediate problem through action.",
         "is_correct": true
       },
       {
-        "text": "Keep “Editing means fixing spelling only”; it uses a detail that sounds familiar.",
+        "text": "Because “Mina was at a show. It was a show.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Surprise twist needs no preparation” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Foreshadowing and causal logic help a twist feel earned.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
   },
   {
     "id": "AC9E4LE05-P-013",
@@ -445,35 +365,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "cause_and_effect_plot_chain_apply",
-    "question": "The class prepares “Cause-and-effect plot chain”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Cause-and-effect plot chain”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-013",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Cause-and-effect plot chain. Notice: Develop motivated characters. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "What makes “Backstage, Leo rubbed his palms on his costume and counted each breath.” a better choice in developing a nervous character before a school performance?",
+    "audio_prompt": "What makes “Backstage, Leo rubbed his palms on his costume and counted each breath.” a better choice in developing a nervous character before a school performance?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “Leo was nervous nervous nervous.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Test whether each event follows from a decision, setting pressure or earlier consequence; repair random turns.",
+        "text": "Actions and physical details show the feeling instead of simply labelling it.",
         "is_correct": true
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Test whether each event follows from a decision, setting pressure or earlier consequence; repair random turns.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
   },
   {
     "id": "AC9E4LE05-P-014",
@@ -481,35 +395,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "cause_and_effect_plot_chain_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Cause-and-effect plot chain”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Cause-and-effect plot chain”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-014",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Cause-and-effect plot chain. Notice: Develop motivated characters. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Which explanation best justifies “Backstage, Leo rubbed his palms on his costume and counted each breath.” for developing a nervous character before a school performance?",
+    "audio_prompt": "Which explanation best justifies “Backstage, Leo rubbed his palms on his costume and counted each breath.” for developing a nervous character before a school performance?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “Leo was nervous nervous nervous.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Test whether each event follows from a decision, setting pressure or earlier consequence; repair random turns.",
+        "text": "Actions and physical details show the feeling instead of simply labelling it.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Test whether each event follows from a decision, setting pressure or earlier consequence; repair random turns.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
   },
   {
     "id": "AC9E4LE05-P-015",
@@ -517,35 +425,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "character_interview_apply",
-    "question": "The class prepares “Character interview”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Character interview”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-015",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Character interview. Notice: Make setting functional. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Which explanation best justifies “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” for creating a vivid bush setting?",
+    "audio_prompt": "Which explanation best justifies “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” for creating a vivid bush setting?",
     "answers": [
       {
-        "text": "Answer questions in role about goals, fears, relationships and likely choices, then revise inconsistent actions.",
+        "text": "Specific sensory details help the reader picture and hear the setting.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “The bush was nice and there were trees.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Answer questions in role about goals, fears, relationships and likely choices, then revise inconsistent actions.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
   },
   {
     "id": "AC9E4LE05-P-016",
@@ -553,35 +455,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "character_interview_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Character interview”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Character interview”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-016",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Character interview. Notice: Make setting functional. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "What should you notice about “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” in creating a vivid bush setting?",
+    "audio_prompt": "What should you notice about “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” in creating a vivid bush setting?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "Because “The bush was nice and there were trees.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Answer questions in role about goals, fears, relationships and likely choices, then revise inconsistent actions.",
+        "text": "Specific sensory details help the reader picture and hear the setting.",
         "is_correct": true
       },
       {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Answer questions in role about goals, fears, relationships and likely choices, then revise inconsistent actions.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
   },
   {
     "id": "AC9E4LE05-P-017",
@@ -589,35 +485,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "revision_conference_apply",
-    "question": "The class prepares “Revision conference”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Revision conference”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-017",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Revision conference. Notice: Revise structure and language. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "What should you notice about ““Did you hear that?” Amira whispered. “It came from inside the shed.”” in using dialogue to increase tension?",
+    "audio_prompt": "What should you notice about ““Did you hear that?” Amira whispered. “It came from inside the shed.”” in using dialogue to increase tension?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “Amira said hello and then nothing changed.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Use focused peer feedback on one level at a time rather than giving a list of unrelated corrections.",
+        "text": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use focused peer feedback on one level at a time rather than giving a list of unrelated corrections.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
   },
   {
     "id": "AC9E4LE05-P-018",
@@ -625,35 +515,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "revision_conference_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Revision conference”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Revision conference”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-018",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Revision conference. Notice: Revise structure and language. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Which reason explains why ““Did you hear that?” Amira whispered. “It came from inside the shed.”” suits using dialogue to increase tension?",
+    "audio_prompt": "Which reason explains why ““Did you hear that?” Amira whispered. “It came from inside the shed.”” suits using dialogue to increase tension?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Use focused peer feedback on one level at a time rather than giving a list of unrelated corrections.",
+        "text": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
         "is_correct": true
       },
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “Amira said hello and then nothing changed.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Use focused peer feedback on one level at a time rather than giving a list of unrelated corrections.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
   },
   {
     "id": "AC9E4LE05-P-019",
@@ -661,35 +545,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "vocabulary_1_apply",
-    "question": "A class annotation about Creating and Editing Literary Texts describes “connected sequence of narrative events”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Creating and Editing Literary Texts describes “connected sequence of narrative events”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-019",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Vocabulary 1. Notice: Edit conventions accurately. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Which reason explains why “The creek rose over the stepping stones just as the group realised the bridge was behind them.” suits revising a flat complication?",
+    "audio_prompt": "Which reason explains why “The creek rose over the stepping stones just as the group realised the bridge was behind them.” suits revising a flat complication?",
     "answers": [
       {
-        "text": "character motivation",
+        "text": "Because “There was a problem.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "storyline",
+        "text": "A complication creates a specific obstacle that requires the characters to respond.",
         "is_correct": true
       },
       {
-        "text": "setting constraint",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "storyline is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
   },
   {
     "id": "AC9E4LE05-P-020",
@@ -697,35 +575,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "vocabulary_1_reason",
-    "question": "A student answers “setting constraint”. Which feedback helps? Task: A class annotation about Creating and Editing Literary Texts describes “connected sequence of narrative events”. Which term is most precise?",
-    "audio_prompt": "A student answers “setting constraint”. Which feedback helps? Task: A class annotation about Creating and Editing Literary Texts describes “connected sequence of narrative events”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-020",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Vocabulary 1. Notice: Edit conventions accurately. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Why does “The creek rose over the stepping stones just as the group realised the bridge was behind them.” work well for revising a flat complication?",
+    "audio_prompt": "Why does “The creek rose over the stepping stones just as the group realised the bridge was behind them.” work well for revising a flat complication?",
     "answers": [
       {
-        "text": "Keep “setting constraint”; it uses a detail that sounds familiar.",
+        "text": "Because “There was a problem.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “character motivation” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. storyline is the precise term for this feature.",
+        "text": "A complication creates a specific obstacle that requires the characters to respond.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. storyline is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
   },
   {
     "id": "AC9E4LE05-P-021",
@@ -733,35 +605,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "vocabulary_2_apply",
-    "question": "A class annotation about Creating and Editing Literary Texts describes “goal, need or belief influencing decisions”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Creating and Editing Literary Texts describes “goal, need or belief influencing decisions”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-021",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Vocabulary 2. Notice: Plan coherent storylines. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which revision best fixes the problem in “Mina was at a show. It was a show.” for opening a story about a child lost at the Royal Easter Show?",
+    "audio_prompt": "Which revision best fixes the problem in “Mina was at a show. It was a show.” for opening a story about a child lost at the Royal Easter Show?",
     "answers": [
       {
-        "text": "character motivation",
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
         "is_correct": true
       },
       {
-        "text": "storyline",
+        "text": "Mina was at a show. It was a show.",
         "is_correct": false
       },
       {
-        "text": "setting constraint",
+        "text": "This story will have a complication later because stories do.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "character motivation is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The opening establishes a character, setting and immediate problem through action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
   },
   {
     "id": "AC9E4LE05-P-022",
@@ -769,35 +635,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "vocabulary_2_reason",
-    "question": "A student answers “storyline”. Which feedback helps? Task: A class annotation about Creating and Editing Literary Texts describes “goal, need or belief influencing decisions”. Which term is most precise?",
-    "audio_prompt": "A student answers “storyline”. Which feedback helps? Task: A class annotation about Creating and Editing Literary Texts describes “goal, need or belief influencing decisions”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-022",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Vocabulary 2. Notice: Plan coherent storylines. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Compare the choices for opening a story about a child lost at the Royal Easter Show. Which one avoids the mistake in “Mina was at a show. It was a show.”?",
+    "audio_prompt": "Compare the choices for opening a story about a child lost at the Royal Easter Show. Which one avoids the mistake in “Mina was at a show. It was a show.”?",
     "answers": [
       {
-        "text": "Keep “storyline”; it uses a detail that sounds familiar.",
+        "text": "Mina was at a show. It was a show.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. character motivation is the precise term for this feature.",
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
         "is_correct": true
       },
       {
-        "text": "Choose “setting constraint” instead; it sounds clearer.",
+        "text": "This story will have a complication later because stories do.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. character motivation is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The opening establishes a character, setting and immediate problem through action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
   },
   {
     "id": "AC9E4LE05-P-023",
@@ -805,35 +665,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "vocabulary_3_apply",
-    "question": "A class annotation about Creating and Editing Literary Texts describes “feature of time or place limiting or enabling action”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Creating and Editing Literary Texts describes “feature of time or place limiting or enabling action”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-023",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Vocabulary 3. Notice: Develop motivated characters. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Compare the choices for developing a nervous character before a school performance. Which one avoids the mistake in “Leo was nervous nervous nervous.”?",
+    "audio_prompt": "Compare the choices for developing a nervous character before a school performance. Which one avoids the mistake in “Leo was nervous nervous nervous.”?",
     "answers": [
       {
-        "text": "storyline",
+        "text": "Leo was nervous nervous nervous.",
         "is_correct": false
       },
       {
-        "text": "character motivation",
+        "text": "Leo is a character in this story.",
         "is_correct": false
       },
       {
-        "text": "setting constraint",
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "setting constraint is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Actions and physical details show the feeling instead of simply labelling it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
   },
   {
     "id": "AC9E4LE05-P-024",
@@ -841,35 +695,509 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "skill": "vocabulary_3_reason",
-    "question": "A student answers “character motivation”. Which feedback helps? Task: A class annotation about Creating and Editing Literary Texts describes “feature of time or place limiting or enabling action”. Which term is most precise?",
-    "audio_prompt": "A student answers “character motivation”. Which feedback helps? Task: A class annotation about Creating and Editing Literary Texts describes “feature of time or place limiting or enabling action”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-p-024",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Vocabulary 3. Notice: Develop motivated characters. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "If “Leo was nervous nervous nervous.” does not work in developing a nervous character before a school performance, what should replace it?",
+    "audio_prompt": "If “Leo was nervous nervous nervous.” does not work in developing a nervous character before a school performance, what should replace it?",
     "answers": [
       {
-        "text": "Match the definition to the exact language or literacy concept. setting constraint is the precise term for this feature.",
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
         "is_correct": true
       },
       {
-        "text": "Keep “character motivation”; it uses a detail that sounds familiar.",
+        "text": "Leo was nervous nervous nervous.",
         "is_correct": false
       },
       {
-        "text": "Choose “storyline” instead; it sounds clearer.",
+        "text": "Leo is a character in this story.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. setting constraint is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Actions and physical details show the feeling instead of simply labelling it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "If “The bush was nice and there were trees.” does not work in creating a vivid bush setting, what should replace it?",
+    "audio_prompt": "If “The bush was nice and there were trees.” does not work in creating a vivid bush setting, what should replace it?",
+    "answers": [
+      {
+        "text": "The bush was nice and there were trees.",
+        "is_correct": false
+      },
+      {
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "is_correct": true
+      },
+      {
+        "text": "There was a setting in the bush.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which option corrects the meaning or form needed for creating a vivid bush setting?",
+    "audio_prompt": "Which option corrects the meaning or form needed for creating a vivid bush setting?",
+    "answers": [
+      {
+        "text": "The bush was nice and there were trees.",
+        "is_correct": false
+      },
+      {
+        "text": "There was a setting in the bush.",
+        "is_correct": false
+      },
+      {
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which option corrects the meaning or form needed for using dialogue to increase tension?",
+    "audio_prompt": "Which option corrects the meaning or form needed for using dialogue to increase tension?",
+    "answers": [
+      {
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "is_correct": true
+      },
+      {
+        "text": "Amira said hello and then nothing changed.",
+        "is_correct": false
+      },
+      {
+        "text": "“I am increasing the tension now,” Amira explained.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which choice is the clearest correction for using dialogue to increase tension?",
+    "audio_prompt": "Which choice is the clearest correction for using dialogue to increase tension?",
+    "answers": [
+      {
+        "text": "Amira said hello and then nothing changed.",
+        "is_correct": false
+      },
+      {
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "is_correct": true
+      },
+      {
+        "text": "“I am increasing the tension now,” Amira explained.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which choice is the clearest correction for revising a flat complication?",
+    "audio_prompt": "Which choice is the clearest correction for revising a flat complication?",
+    "answers": [
+      {
+        "text": "There was a problem.",
+        "is_correct": false
+      },
+      {
+        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "is_correct": false
+      },
+      {
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which revision best fixes the problem in “There was a problem.” for revising a flat complication?",
+    "audio_prompt": "Which revision best fixes the problem in “There was a problem.” for revising a flat complication?",
+    "answers": [
+      {
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "is_correct": true
+      },
+      {
+        "text": "There was a problem.",
+        "is_correct": false
+      },
+      {
+        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "You now need to handle opening a story about a child lost at the Royal Easter Show independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle opening a story about a child lost at the Royal Easter Show independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "This story will have a complication later because stories do.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "is_correct": true
+      },
+      {
+        "text": "Mina was at a show. It was a show.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Apply the same idea to opening a story about a child lost at the Royal Easter Show. Which option is best?",
+    "audio_prompt": "Apply the same idea to opening a story about a child lost at the Royal Easter Show. Which option is best?",
+    "answers": [
+      {
+        "text": "This story will have a complication later because stories do.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina was at a show. It was a show.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Apply the same idea to developing a nervous character before a school performance. Which option is best?",
+    "audio_prompt": "Apply the same idea to developing a nervous character before a school performance. Which option is best?",
+    "answers": [
+      {
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "is_correct": true
+      },
+      {
+        "text": "Leo is a character in this story.",
+        "is_correct": false
+      },
+      {
+        "text": "Leo was nervous nervous nervous.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which decision would produce the clearest result in developing a nervous character before a school performance?",
+    "audio_prompt": "Which decision would produce the clearest result in developing a nervous character before a school performance?",
+    "answers": [
+      {
+        "text": "Leo is a character in this story.",
+        "is_correct": false
+      },
+      {
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "is_correct": true
+      },
+      {
+        "text": "Leo was nervous nervous nervous.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which decision would produce the clearest result in creating a vivid bush setting?",
+    "audio_prompt": "Which decision would produce the clearest result in creating a vivid bush setting?",
+    "answers": [
+      {
+        "text": "There was a setting in the bush.",
+        "is_correct": false
+      },
+      {
+        "text": "The bush was nice and there were trees.",
+        "is_correct": false
+      },
+      {
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Choose the option that applies the skill correctly in creating a vivid bush setting.",
+    "audio_prompt": "Choose the option that applies the skill correctly in creating a vivid bush setting.",
+    "answers": [
+      {
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "is_correct": true
+      },
+      {
+        "text": "There was a setting in the bush.",
+        "is_correct": false
+      },
+      {
+        "text": "The bush was nice and there were trees.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Choose the option that applies the skill correctly in using dialogue to increase tension.",
+    "audio_prompt": "Choose the option that applies the skill correctly in using dialogue to increase tension.",
+    "answers": [
+      {
+        "text": "“I am increasing the tension now,” Amira explained.",
+        "is_correct": false
+      },
+      {
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "is_correct": true
+      },
+      {
+        "text": "Amira said hello and then nothing changed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "What would be the most effective choice for using dialogue to increase tension?",
+    "audio_prompt": "What would be the most effective choice for using dialogue to increase tension?",
+    "answers": [
+      {
+        "text": "“I am increasing the tension now,” Amira explained.",
+        "is_correct": false
+      },
+      {
+        "text": "Amira said hello and then nothing changed.",
+        "is_correct": false
+      },
+      {
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "What would be the most effective choice for revising a flat complication?",
+    "audio_prompt": "What would be the most effective choice for revising a flat complication?",
+    "answers": [
+      {
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "is_correct": true
+      },
+      {
+        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "is_correct": false
+      },
+      {
+        "text": "There was a problem.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "You now need to handle revising a flat complication independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle revising a flat complication independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "is_correct": false
+      },
+      {
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "is_correct": true
+      },
+      {
+        "text": "There was a problem.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
   },
   {
     "id": "AC9E4LE05-T-001",
@@ -877,32 +1205,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "new_text_1_apply",
-    "question": "In a new assessment text, Which plot connection is strongest?",
-    "audio_prompt": "In a new assessment text, Which plot connection is strongest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-001",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: New text 1. Notice: Plan coherent storylines. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "New context: ending a story after a lost dog is found. Which option is correct?",
+    "audio_prompt": "New context: ending a story after a lost dog is found. Which option is correct?",
     "answers": [
       {
-        "text": "Events happen randomly with no link",
+        "text": "The dog was found. The end.",
         "is_correct": false
       },
       {
-        "text": "A decision causes a consequence that creates the next problem",
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
+      },
+      {
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
         "is_correct": true
-      },
-      {
-        "text": "A new character solves everything without introduction",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The evidence and language purpose support “A decision causes a consequence that creates the next problem”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
     }
   },
   {
@@ -911,32 +1235,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "new_text_1_reason",
-    "question": "A student answers “Events happen randomly with no link”. Which feedback helps? Task: In a new assessment text, Which plot connection is strongest?",
-    "audio_prompt": "A student answers “Events happen randomly with no link”. Which feedback helps? Task: In a new assessment text, Which plot connection is strongest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-002",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: New text 1. Notice: Plan coherent storylines. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "What is the best choice for ending a story after a lost dog is found?",
+    "audio_prompt": "What is the best choice for ending a story after a lost dog is found?",
     "answers": [
       {
-        "text": "Keep “Events happen randomly with no link”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “A new character solves everything without introduction” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A decision causes a consequence that creates the next problem”.",
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
         "is_correct": true
+      },
+      {
+        "text": "The dog was found. The end.",
+        "is_correct": false
+      },
+      {
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “A decision causes a consequence that creates the next problem”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
     }
   },
   {
@@ -945,32 +1265,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "new_text_2_apply",
-    "question": "In a new assessment text, Which change is revision rather than proofreading?",
-    "audio_prompt": "In a new assessment text, Which change is revision rather than proofreading?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-003",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: New text 2. Notice: Develop motivated characters. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "Which explanation best supports “When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.” in ending a story after a lost dog is found?",
+    "audio_prompt": "Which explanation best supports “When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.” in ending a story after a lost dog is found?",
     "answers": [
       {
-        "text": "Reordering scenes to clarify cause and effect",
+        "text": "Because “The dog was found. The end.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
         "is_correct": true
       },
       {
-        "text": "Correcting one misspelled word",
-        "is_correct": false
-      },
-      {
-        "text": "Adding a missing full stop",
+        "text": "Because surface appearance matters more than meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The evidence and language purpose support “Reordering scenes to clarify cause and effect”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
     }
   },
   {
@@ -979,32 +1295,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "new_text_2_reason",
-    "question": "A student answers “Adding a missing full stop”. Which feedback helps? Task: In a new assessment text, Which change is revision rather than proofreading?",
-    "audio_prompt": "A student answers “Adding a missing full stop”. Which feedback helps? Task: In a new assessment text, Which change is revision rather than proofreading?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-004",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: New text 2. Notice: Develop motivated characters. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "Which clue should guide your decision in ending a story after a lost dog is found?",
+    "audio_prompt": "Which clue should guide your decision in ending a story after a lost dog is found?",
     "answers": [
       {
-        "text": "Keep “Adding a missing full stop”; it uses a detail that sounds familiar.",
+        "text": "Choose the option with the most words.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Reordering scenes to clarify cause and effect”.",
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Resolve what the story has been building, rather than adding an unrelated event.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Correcting one misspelled word” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Reordering scenes to clarify cause and effect”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
     }
   },
   {
@@ -1013,32 +1325,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "misconception_1_apply",
-    "question": "An editor reviewing a new text claims, “Editing means fixing spelling only”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Editing means fixing spelling only”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-005",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 1. Notice: Make setting functional. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which option would you reject first in ending a story after a lost dog is found?",
+    "audio_prompt": "Which option would you reject first in ending a story after a lost dog is found?",
     "answers": [
       {
-        "text": "Editing means fixing spelling only",
-        "is_correct": false
-      },
-      {
-        "text": "Character described through adjectives alone",
-        "is_correct": false
-      },
-      {
-        "text": "Revision addresses storyline, character, setting, pacing and clarity.",
+        "text": "The dog was found. The end.",
         "is_correct": true
+      },
+      {
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "is_correct": false
+      },
+      {
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Revision addresses storyline, character, setting, pacing and clarity.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
     }
   },
   {
@@ -1047,32 +1355,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Editing means fixing spelling only”. Which feedback helps? Task: An editor reviewing a new text claims, “Editing means fixing spelling only”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Editing means fixing spelling only”. Which feedback helps? Task: An editor reviewing a new text claims, “Editing means fixing spelling only”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-006",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 1. Notice: Make setting functional. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which correction should replace “The dog was found. The end.” in ending a story after a lost dog is found?",
+    "audio_prompt": "Which correction should replace “The dog was found. The end.” in ending a story after a lost dog is found?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Revision addresses storyline, character, setting, pacing and clarity.",
+        "text": "The dog was found. The end.",
+        "is_correct": false
+      },
+      {
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
         "is_correct": true
       },
       {
-        "text": "Keep “Editing means fixing spelling only”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Character described through adjectives alone” instead; it sounds clearer.",
+        "text": "Suddenly a spaceship arrived for no reason.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Revision addresses storyline, character, setting, pacing and clarity.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
     }
   },
   {
@@ -1081,32 +1385,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "misconception_2_apply",
-    "question": "An editor reviewing a new text claims, “Character described through adjectives alone”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Character described through adjectives alone”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-007",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 2. Notice: Revise structure and language. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Apply the skill to ending a story after a lost dog is found: what should you choose?",
+    "audio_prompt": "Apply the skill to ending a story after a lost dog is found: what should you choose?",
     "answers": [
       {
-        "text": "Character described through adjectives alone",
+        "text": "The dog was found. The end.",
         "is_correct": false
       },
       {
-        "text": "Use decisions, dialogue, reactions and relationships as evidence.",
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
+      },
+      {
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
         "is_correct": true
-      },
-      {
-        "text": "Setting added as decoration",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Use decisions, dialogue, reactions and relationships as evidence.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
     }
   },
   {
@@ -1115,32 +1415,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Setting added as decoration”. Which feedback helps? Task: An editor reviewing a new text claims, “Character described through adjectives alone”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Setting added as decoration”. Which feedback helps? Task: An editor reviewing a new text claims, “Character described through adjectives alone”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-008",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 2. Notice: Revise structure and language. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which final choice gives the clearest and most accurate result for ending a story after a lost dog is found?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for ending a story after a lost dog is found?",
     "answers": [
       {
-        "text": "Keep “Setting added as decoration”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Character described through adjectives alone” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use decisions, dialogue, reactions and relationships as evidence.",
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
         "is_correct": true
+      },
+      {
+        "text": "The dog was found. The end.",
+        "is_correct": false
+      },
+      {
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use decisions, dialogue, reactions and relationships as evidence.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
     }
   },
   {
@@ -1149,32 +1445,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "misconception_3_apply",
-    "question": "An editor reviewing a new text claims, “Setting added as decoration”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Setting added as decoration”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-009",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 3. Notice: Edit conventions accurately. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "New context: giving useful feedback on a classmate’s story. Which option is correct?",
+    "audio_prompt": "New context: giving useful feedback on a classmate’s story. Which option is correct?",
     "answers": [
       {
-        "text": "Make it influence possibilities, mood or conflict.",
+        "text": "It is bad.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
         "is_correct": true
       },
       {
-        "text": "Setting added as decoration",
-        "is_correct": false
-      },
-      {
-        "text": "Surprise twist needs no preparation",
+        "text": "Make every sentence longer.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Make it influence possibilities, mood or conflict.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
     }
   },
   {
@@ -1183,32 +1475,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Setting added as decoration”. Which feedback helps? Task: An editor reviewing a new text claims, “Setting added as decoration”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Setting added as decoration”. Which feedback helps? Task: An editor reviewing a new text claims, “Setting added as decoration”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-010",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 3. Notice: Edit conventions accurately. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "What is the best choice for giving useful feedback on a classmate’s story?",
+    "audio_prompt": "What is the best choice for giving useful feedback on a classmate’s story?",
     "answers": [
       {
-        "text": "Keep “Setting added as decoration”; it uses a detail that sounds familiar.",
+        "text": "It is bad.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Make it influence possibilities, mood or conflict.",
+        "text": "Make every sentence longer.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Surprise twist needs no preparation” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Make it influence possibilities, mood or conflict.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
     }
   },
   {
@@ -1217,32 +1505,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "misconception_4_apply",
-    "question": "An editor reviewing a new text claims, “Surprise twist needs no preparation”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Surprise twist needs no preparation”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-011",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 4. Notice: Plan coherent storylines. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "Which explanation best supports “The setting is clear; adding what the character hears at the station could make the tense scene even stronger.” in giving useful feedback on a classmate’s story?",
+    "audio_prompt": "Which explanation best supports “The setting is clear; adding what the character hears at the station could make the tense scene even stronger.” in giving useful feedback on a classmate’s story?",
     "answers": [
       {
-        "text": "Surprise twist needs no preparation",
-        "is_correct": false
-      },
-      {
-        "text": "Editing means fixing spelling only",
-        "is_correct": false
-      },
-      {
-        "text": "Foreshadowing and causal logic help a twist feel earned.",
+        "text": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
         "is_correct": true
+      },
+      {
+        "text": "Because “It is bad.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Foreshadowing and causal logic help a twist feel earned.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
     }
   },
   {
@@ -1251,32 +1535,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Editing means fixing spelling only”. Which feedback helps? Task: An editor reviewing a new text claims, “Surprise twist needs no preparation”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Editing means fixing spelling only”. Which feedback helps? Task: An editor reviewing a new text claims, “Surprise twist needs no preparation”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-012",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Misconception 4. Notice: Plan coherent storylines. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "Which clue should guide your decision in giving useful feedback on a classmate’s story?",
+    "audio_prompt": "Which clue should guide your decision in giving useful feedback on a classmate’s story?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Foreshadowing and causal logic help a twist feel earned.",
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Be specific about the effect of the suggested revision.",
         "is_correct": true
       },
       {
-        "text": "Keep “Editing means fixing spelling only”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Surprise twist needs no preparation” instead; it sounds clearer.",
+        "text": "Ignore the context and use the first familiar form.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Foreshadowing and causal logic help a twist feel earned.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
     }
   },
   {
@@ -1285,32 +1565,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "cause_and_effect_plot_chain_apply",
-    "question": "A different class adapts “Cause-and-effect plot chain”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Cause-and-effect plot chain”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-013",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Cause-and-effect plot chain. Notice: Develop motivated characters. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which option would you reject first in giving useful feedback on a classmate’s story?",
+    "audio_prompt": "Which option would you reject first in giving useful feedback on a classmate’s story?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
         "is_correct": false
       },
       {
-        "text": "Test whether each event follows from a decision, setting pressure or earlier consequence; repair random turns.",
+        "text": "Make every sentence longer.",
+        "is_correct": false
+      },
+      {
+        "text": "It is bad.",
         "is_correct": true
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Test whether each event follows from a decision, setting pressure or earlier consequence; repair random turns.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
     }
   },
   {
@@ -1319,32 +1595,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "cause_and_effect_plot_chain_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Cause-and-effect plot chain”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Cause-and-effect plot chain”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-014",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Cause-and-effect plot chain. Notice: Develop motivated characters. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which correction should replace “It is bad.” in giving useful feedback on a classmate’s story?",
+    "audio_prompt": "Which correction should replace “It is bad.” in giving useful feedback on a classmate’s story?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Test whether each event follows from a decision, setting pressure or earlier consequence; repair random turns.",
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
         "is_correct": true
+      },
+      {
+        "text": "It is bad.",
+        "is_correct": false
+      },
+      {
+        "text": "Make every sentence longer.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Test whether each event follows from a decision, setting pressure or earlier consequence; repair random turns.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
     }
   },
   {
@@ -1353,32 +1625,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "character_interview_apply",
-    "question": "A different class adapts “Character interview”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Character interview”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-015",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Character interview. Notice: Make setting functional. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Apply the skill to giving useful feedback on a classmate’s story: what should you choose?",
+    "audio_prompt": "Apply the skill to giving useful feedback on a classmate’s story: what should you choose?",
     "answers": [
       {
-        "text": "Answer questions in role about goals, fears, relationships and likely choices, then revise inconsistent actions.",
+        "text": "It is bad.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Make every sentence longer.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Answer questions in role about goals, fears, relationships and likely choices, then revise inconsistent actions.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
     }
   },
   {
@@ -1387,32 +1655,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "skill": "character_interview_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Character interview”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Character interview”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le05.svg#ac9e4le05-t-016",
-      "alt_text": "Three-step Creating and Editing Literary Texts organiser. Read: Character interview. Notice: Make setting functional. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which final choice gives the clearest and most accurate result for giving useful feedback on a classmate’s story?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for giving useful feedback on a classmate’s story?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "It is bad.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Answer questions in role about goals, fears, relationships and likely choices, then revise inconsistent actions.",
+        "text": "Make every sentence longer.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Answer questions in role about goals, fears, relationships and likely choices, then revise inconsistent actions.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
     }
   }
 ]

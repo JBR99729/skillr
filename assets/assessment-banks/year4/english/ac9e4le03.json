@@ -5,36 +5,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "worked_text_1_apply",
-    "question": "Read the classroom example. Which event most directly raises plot tension?",
-    "audio_prompt": "Read the classroom example. Which event most directly raises plot tension?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-001",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Worked text 1. Notice: Map tension arcs. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "In a character who returns a lost wallet even though they need money, which option best demonstrates the skill?",
+    "audio_prompt": "In a character who returns a lost wallet even though they need money, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "The character eats a calm breakfast",
+        "text": "The choice reveals nothing about character.",
         "is_correct": false
       },
       {
-        "text": "The title is printed at the top",
+        "text": "The wallet matters only because it is an object.",
         "is_correct": false
       },
       {
-        "text": "The only exit locks as the lights fail",
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The evidence and language purpose support “The only exit locks as the lights fail”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
   },
   {
     "id": "AC9E4LE03-P-002",
@@ -42,36 +35,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "worked_text_1_reason",
-    "question": "A student answers “The character eats a calm breakfast”. Which feedback helps? Task: Read the classroom example. Which event most directly raises plot tension?",
-    "audio_prompt": "A student answers “The character eats a calm breakfast”. Which feedback helps? Task: Read the classroom example. Which event most directly raises plot tension?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-002",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Worked text 1. Notice: Map tension arcs. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which choice fits a character who returns a lost wallet even though they need money most accurately?",
+    "audio_prompt": "Which choice fits a character who returns a lost wallet even though they need money most accurately?",
     "answers": [
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The only exit locks as the lights fail”.",
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
         "is_correct": true
       },
       {
-        "text": "Keep “The character eats a calm breakfast”; it uses a detail that sounds familiar.",
+        "text": "The choice reveals nothing about character.",
         "is_correct": false
       },
       {
-        "text": "Choose “The title is printed at the top” instead; it sounds clearer.",
+        "text": "The wallet matters only because it is an object.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The only exit locks as the lights fail”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
   },
   {
     "id": "AC9E4LE03-P-003",
@@ -79,36 +65,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "worked_text_2_apply",
-    "question": "Read the classroom example. How can an illustration add tension?",
-    "audio_prompt": "Read the classroom example. How can an illustration add tension?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-003",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Worked text 2. Notice: Analyse character decisions. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which choice fits a storm approaching while two characters are stranded on a jetty most accurately?",
+    "audio_prompt": "Which choice fits a storm approaching while two characters are stranded on a jetty most accurately?",
     "answers": [
       {
-        "text": "Repeat every word exactly",
+        "text": "The setting cannot affect the plot.",
         "is_correct": false
       },
       {
-        "text": "Show a threat outside the character’s awareness",
+        "text": "The threatening setting increases tension because the danger is getting closer.",
         "is_correct": true
       },
       {
-        "text": "Remove all context",
+        "text": "Storms always make stories funny.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The evidence and language purpose support “Show a threat outside the character’s awareness”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
   },
   {
     "id": "AC9E4LE03-P-004",
@@ -116,36 +95,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "worked_text_2_reason",
-    "question": "A student answers “Remove all context”. Which feedback helps? Task: Read the classroom example. How can an illustration add tension?",
-    "audio_prompt": "A student answers “Remove all context”. Which feedback helps? Task: Read the classroom example. How can an illustration add tension?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-004",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Worked text 2. Notice: Analyse character decisions. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Look closely at a storm approaching while two characters are stranded on a jetty. Which response or wording works best?",
+    "audio_prompt": "Look closely at a storm approaching while two characters are stranded on a jetty. Which response or wording works best?",
     "answers": [
       {
-        "text": "Keep “Remove all context”; it uses a detail that sounds familiar.",
+        "text": "The setting cannot affect the plot.",
         "is_correct": false
       },
       {
-        "text": "Choose “Repeat every word exactly” instead; it sounds clearer.",
+        "text": "Storms always make stories funny.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Show a threat outside the character’s awareness”.",
+        "text": "The threatening setting increases tension because the danger is getting closer.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Show a threat outside the character’s awareness”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
   },
   {
     "id": "AC9E4LE03-P-005",
@@ -153,36 +125,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "misconception_1_apply",
-    "question": "A student in a workshop claims, “Tension means constant danger”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Tension means constant danger”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-005",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 1. Notice: Explain setting effects. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Look closely at two friends arguing in dialogue before a difficult decision. Which response or wording works best?",
+    "audio_prompt": "Look closely at two friends arguing in dialogue before a difficult decision. Which response or wording works best?",
     "answers": [
       {
-        "text": "Questions, conflict, anticipation and emotional stakes can create tension.",
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
         "is_correct": true
       },
       {
-        "text": "Tension means constant danger",
+        "text": "Dialogue only tells readers who is speaking.",
         "is_correct": false
       },
       {
-        "text": "Setting is background only",
+        "text": "The argument removes all conflict.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Questions, conflict, anticipation and emotional stakes can create tension.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
   },
   {
     "id": "AC9E4LE03-P-006",
@@ -190,36 +155,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Tension means constant danger”. Which feedback helps? Task: A student in a workshop claims, “Tension means constant danger”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Tension means constant danger”. Which feedback helps? Task: A student in a workshop claims, “Tension means constant danger”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-006",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 1. Notice: Explain setting effects. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "For two friends arguing in dialogue before a difficult decision, which option is the strongest match?",
+    "audio_prompt": "For two friends arguing in dialogue before a difficult decision, which option is the strongest match?",
     "answers": [
       {
-        "text": "Keep “Tension means constant danger”; it uses a detail that sounds familiar.",
+        "text": "Dialogue only tells readers who is speaking.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Questions, conflict, anticipation and emotional stakes can create tension.",
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
         "is_correct": true
       },
       {
-        "text": "Choose “Setting is background only” instead; it sounds clearer.",
+        "text": "The argument removes all conflict.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Questions, conflict, anticipation and emotional stakes can create tension.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
   },
   {
     "id": "AC9E4LE03-P-007",
@@ -227,36 +185,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "misconception_2_apply",
-    "question": "A student in a workshop claims, “Setting is background only”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Setting is background only”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-007",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 2. Notice: Interpret multimodal clues. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "For an illustration showing a tiny character beneath a huge cliff, which option is the strongest match?",
+    "audio_prompt": "For an illustration showing a tiny character beneath a huge cliff, which option is the strongest match?",
     "answers": [
       {
-        "text": "Setting is background only",
+        "text": "The picture proves the character will fail.",
         "is_correct": false
       },
       {
-        "text": "Character develops because author states a trait",
+        "text": "Illustrations never add to a written story.",
         "is_correct": false
       },
       {
-        "text": "It creates opportunities, constraints, mood and consequences.",
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It creates opportunities, constraints, mood and consequences.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
   },
   {
     "id": "AC9E4LE03-P-008",
@@ -264,36 +215,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Character develops because author states a trait”. Which feedback helps? Task: A student in a workshop claims, “Setting is background only”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Character develops because author states a trait”. Which feedback helps? Task: A student in a workshop claims, “Setting is background only”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-008",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 2. Notice: Interpret multimodal clues. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which example should you choose for an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "Which example should you choose for an illustration showing a tiny character beneath a huge cliff?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates opportunities, constraints, mood and consequences.",
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
         "is_correct": true
       },
       {
-        "text": "Keep “Character develops because author states a trait”; it uses a detail that sounds familiar.",
+        "text": "The picture proves the character will fail.",
         "is_correct": false
       },
       {
-        "text": "Choose “Setting is background only” instead; it sounds clearer.",
+        "text": "Illustrations never add to a written story.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates opportunities, constraints, mood and consequences.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
   },
   {
     "id": "AC9E4LE03-P-009",
@@ -301,35 +245,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "misconception_3_apply",
-    "question": "A student in a workshop claims, “Character develops because author states a trait”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Character develops because author states a trait”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-009",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 3. Notice: Connect craft choices to engagement. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which example should you choose for a character ignores a warning and later becomes lost?",
+    "audio_prompt": "Which example should you choose for a character ignores a warning and later becomes lost?",
     "answers": [
       {
-        "text": "Character develops because author states a trait",
+        "text": "The warning and getting lost are unrelated.",
         "is_correct": false
       },
       {
-        "text": "Development emerges through decisions, relationships and reactions.",
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
         "is_correct": true
       },
       {
-        "text": "Illustration merely repeats words",
+        "text": "Consequences only happen at the end of stories.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Development emerges through decisions, relationships and reactions.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
   },
   {
     "id": "AC9E4LE03-P-010",
@@ -337,35 +275,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Character develops because author states a trait”. Which feedback helps? Task: A student in a workshop claims, “Character develops because author states a trait”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Character develops because author states a trait”. Which feedback helps? Task: A student in a workshop claims, “Character develops because author states a trait”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-010",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 3. Notice: Connect craft choices to engagement. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "In a character ignores a warning and later becomes lost, which option best demonstrates the skill?",
+    "audio_prompt": "In a character ignores a warning and later becomes lost, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "Keep “Character develops because author states a trait”; it uses a detail that sounds familiar.",
+        "text": "The warning and getting lost are unrelated.",
         "is_correct": false
       },
       {
-        "text": "Choose “Illustration merely repeats words” instead; it sounds clearer.",
+        "text": "Consequences only happen at the end of stories.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Development emerges through decisions, relationships and reactions.",
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Development emerges through decisions, relationships and reactions.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
   },
   {
     "id": "AC9E4LE03-P-011",
@@ -373,35 +305,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "misconception_4_apply",
-    "question": "A student in a workshop claims, “Illustration merely repeats words”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Illustration merely repeats words”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-011",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 4. Notice: Map tension arcs. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Why does “The choice shows honesty and creates interest because doing the right thing costs the character something.” work well for a character who returns a lost wallet even though they need money?",
+    "audio_prompt": "Why does “The choice shows honesty and creates interest because doing the right thing costs the character something.” work well for a character who returns a lost wallet even though they need money?",
     "answers": [
       {
-        "text": "It may add viewpoint, foreshadowing or contradictory evidence.",
+        "text": "Character is often revealed through choices, especially when there is a consequence or conflict.",
         "is_correct": true
       },
       {
-        "text": "Illustration merely repeats words",
+        "text": "Because “The choice reveals nothing about character.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Tension means constant danger",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It may add viewpoint, foreshadowing or contradictory evidence.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
   },
   {
     "id": "AC9E4LE03-P-012",
@@ -409,35 +335,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Tension means constant danger”. Which feedback helps? Task: A student in a workshop claims, “Illustration merely repeats words”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Tension means constant danger”. Which feedback helps? Task: A student in a workshop claims, “Illustration merely repeats words”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-012",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 4. Notice: Map tension arcs. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What makes “The choice shows honesty and creates interest because doing the right thing costs the character something.” a better choice in a character who returns a lost wallet even though they need money?",
+    "audio_prompt": "What makes “The choice shows honesty and creates interest because doing the right thing costs the character something.” a better choice in a character who returns a lost wallet even though they need money?",
     "answers": [
       {
-        "text": "Keep “Tension means constant danger”; it uses a detail that sounds familiar.",
+        "text": "Because “The choice reveals nothing about character.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It may add viewpoint, foreshadowing or contradictory evidence.",
+        "text": "Character is often revealed through choices, especially when there is a consequence or conflict.",
         "is_correct": true
       },
       {
-        "text": "Choose “Illustration merely repeats words” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It may add viewpoint, foreshadowing or contradictory evidence.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
   },
   {
     "id": "AC9E4LE03-P-013",
@@ -445,35 +365,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "tension_graph_apply",
-    "question": "The class prepares “Tension graph”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Tension graph”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-013",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Tension graph. Notice: Analyse character decisions. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What makes “The threatening setting increases tension because the danger is getting closer.” a better choice in a storm approaching while two characters are stranded on a jetty?",
+    "audio_prompt": "What makes “The threatening setting increases tension because the danger is getting closer.” a better choice in a storm approaching while two characters are stranded on a jetty?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “The setting cannot affect the plot.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Plot tension across a familiar story and annotate events, setting pressures and character decisions.",
+        "text": "Setting can create pressure that shapes what characters must do next.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Plot tension across a familiar story and annotate events, setting pressures and character decisions.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
   },
   {
     "id": "AC9E4LE03-P-014",
@@ -481,35 +395,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "tension_graph_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Tension graph”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Tension graph”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-014",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Tension graph. Notice: Analyse character decisions. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which explanation best justifies “The threatening setting increases tension because the danger is getting closer.” for a storm approaching while two characters are stranded on a jetty?",
+    "audio_prompt": "Which explanation best justifies “The threatening setting increases tension because the danger is getting closer.” for a storm approaching while two characters are stranded on a jetty?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Plot tension across a familiar story and annotate events, setting pressures and character decisions.",
+        "text": "Setting can create pressure that shapes what characters must do next.",
         "is_correct": true
       },
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “The setting cannot affect the plot.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Plot tension across a familiar story and annotate events, setting pressures and character decisions.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
   },
   {
     "id": "AC9E4LE03-P-015",
@@ -517,35 +425,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "setting_swap_apply",
-    "question": "The class prepares “Setting swap”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Setting swap”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-015",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Setting swap. Notice: Explain setting effects. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which explanation best justifies “The dialogue reveals their different views and makes the decision more uncertain.” for two friends arguing in dialogue before a difficult decision?",
+    "audio_prompt": "Which explanation best justifies “The dialogue reveals their different views and makes the decision more uncertain.” for two friends arguing in dialogue before a difficult decision?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “Dialogue only tells readers who is speaking.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Move one scene to a safer or more dangerous setting and revise actions, visual details and stakes.",
+        "text": "Dialogue can expose character motives and increase tension in the plot.",
         "is_correct": true
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Move one scene to a safer or more dangerous setting and revise actions, visual details and stakes.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
   },
   {
     "id": "AC9E4LE03-P-016",
@@ -553,35 +455,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "setting_swap_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Setting swap”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Setting swap”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-016",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Setting swap. Notice: Explain setting effects. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What should you notice about “The dialogue reveals their different views and makes the decision more uncertain.” in two friends arguing in dialogue before a difficult decision?",
+    "audio_prompt": "What should you notice about “The dialogue reveals their different views and makes the decision more uncertain.” in two friends arguing in dialogue before a difficult decision?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "Because “Dialogue only tells readers who is speaking.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Move one scene to a safer or more dangerous setting and revise actions, visual details and stakes.",
+        "text": "Dialogue can expose character motives and increase tension in the plot.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Move one scene to a safer or more dangerous setting and revise actions, visual details and stakes.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
   },
   {
     "id": "AC9E4LE03-P-017",
@@ -589,35 +485,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "mode_partnership_apply",
-    "question": "The class prepares “Mode partnership”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Mode partnership”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-017",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Mode partnership. Notice: Interpret multimodal clues. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What should you notice about “The scale makes the challenge look difficult and the character seem vulnerable.” in an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "What should you notice about “The scale makes the challenge look difficult and the character seem vulnerable.” in an illustration showing a tiny character beneath a huge cliff?",
     "answers": [
       {
-        "text": "Compare a paragraph and illustration for repeated, added and contrasting information.",
+        "text": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “The picture proves the character will fail.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Compare a paragraph and illustration for repeated, added and contrasting information.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
   },
   {
     "id": "AC9E4LE03-P-018",
@@ -625,35 +515,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "mode_partnership_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Mode partnership”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Mode partnership”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-018",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Mode partnership. Notice: Interpret multimodal clues. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which reason explains why “The scale makes the challenge look difficult and the character seem vulnerable.” suits an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "Which reason explains why “The scale makes the challenge look difficult and the character seem vulnerable.” suits an illustration showing a tiny character beneath a huge cliff?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “The picture proves the character will fail.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Compare a paragraph and illustration for repeated, added and contrasting information.",
+        "text": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
         "is_correct": true
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Compare a paragraph and illustration for repeated, added and contrasting information.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
   },
   {
     "id": "AC9E4LE03-P-019",
@@ -661,35 +545,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "vocabulary_1_apply",
-    "question": "A class annotation about Character, Setting and Plot Tension describes “uncertainty or pressure created by conflict and stakes”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Character, Setting and Plot Tension describes “uncertainty or pressure created by conflict and stakes”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-019",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Vocabulary 1. Notice: Connect craft choices to engagement. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which reason explains why “The consequence grows from the earlier choice, linking character action to plot development.” suits a character ignores a warning and later becomes lost?",
+    "audio_prompt": "Which reason explains why “The consequence grows from the earlier choice, linking character action to plot development.” suits a character ignores a warning and later becomes lost?",
     "answers": [
       {
-        "text": "character development",
+        "text": "Because “The warning and getting lost are unrelated.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "setting",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "plot tension",
+        "text": "Engaging plots often develop because characters make choices that have effects.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "plot tension is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
   },
   {
     "id": "AC9E4LE03-P-020",
@@ -697,35 +575,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "vocabulary_1_reason",
-    "question": "A student answers “setting”. Which feedback helps? Task: A class annotation about Character, Setting and Plot Tension describes “uncertainty or pressure created by conflict and stakes”. Which term is most precise?",
-    "audio_prompt": "A student answers “setting”. Which feedback helps? Task: A class annotation about Character, Setting and Plot Tension describes “uncertainty or pressure created by conflict and stakes”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-020",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Vocabulary 1. Notice: Connect craft choices to engagement. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Why does “The consequence grows from the earlier choice, linking character action to plot development.” work well for a character ignores a warning and later becomes lost?",
+    "audio_prompt": "Why does “The consequence grows from the earlier choice, linking character action to plot development.” work well for a character ignores a warning and later becomes lost?",
     "answers": [
       {
-        "text": "Match the definition to the exact language or literacy concept. plot tension is the precise term for this feature.",
+        "text": "Engaging plots often develop because characters make choices that have effects.",
         "is_correct": true
       },
       {
-        "text": "Keep “setting”; it uses a detail that sounds familiar.",
+        "text": "Because “The warning and getting lost are unrelated.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “character development” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. plot tension is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
   },
   {
     "id": "AC9E4LE03-P-021",
@@ -733,35 +605,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "vocabulary_2_apply",
-    "question": "A class annotation about Character, Setting and Plot Tension describes “change or revelation in a character across events”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Character, Setting and Plot Tension describes “change or revelation in a character across events”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-021",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Vocabulary 2. Notice: Map tension arcs. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which revision best fixes the problem in “The choice reveals nothing about character.” for a character who returns a lost wallet even though they need money?",
+    "audio_prompt": "Which revision best fixes the problem in “The choice reveals nothing about character.” for a character who returns a lost wallet even though they need money?",
     "answers": [
       {
-        "text": "plot tension",
+        "text": "The choice reveals nothing about character.",
         "is_correct": false
       },
       {
-        "text": "character development",
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
         "is_correct": true
       },
       {
-        "text": "setting",
+        "text": "The wallet matters only because it is an object.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "character development is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the action shows about the person."
+    }
   },
   {
     "id": "AC9E4LE03-P-022",
@@ -769,35 +635,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "vocabulary_2_reason",
-    "question": "A student answers “plot tension”. Which feedback helps? Task: A class annotation about Character, Setting and Plot Tension describes “change or revelation in a character across events”. Which term is most precise?",
-    "audio_prompt": "A student answers “plot tension”. Which feedback helps? Task: A class annotation about Character, Setting and Plot Tension describes “change or revelation in a character across events”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-022",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Vocabulary 2. Notice: Map tension arcs. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Compare the choices for a character who returns a lost wallet even though they need money. Which one avoids the mistake in “The choice reveals nothing about character.”?",
+    "audio_prompt": "Compare the choices for a character who returns a lost wallet even though they need money. Which one avoids the mistake in “The choice reveals nothing about character.”?",
     "answers": [
       {
-        "text": "Keep “plot tension”; it uses a detail that sounds familiar.",
+        "text": "The choice reveals nothing about character.",
         "is_correct": false
       },
       {
-        "text": "Choose “setting” instead; it sounds clearer.",
+        "text": "The wallet matters only because it is an object.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. character development is the precise term for this feature.",
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. character development is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the action shows about the person."
+    }
   },
   {
     "id": "AC9E4LE03-P-023",
@@ -805,35 +665,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "vocabulary_3_apply",
-    "question": "A class annotation about Character, Setting and Plot Tension describes “time, place and environment influencing events”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Character, Setting and Plot Tension describes “time, place and environment influencing events”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-023",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Vocabulary 3. Notice: Analyse character decisions. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Compare the choices for a storm approaching while two characters are stranded on a jetty. Which one avoids the mistake in “The setting cannot affect the plot.”?",
+    "audio_prompt": "Compare the choices for a storm approaching while two characters are stranded on a jetty. Which one avoids the mistake in “The setting cannot affect the plot.”?",
     "answers": [
       {
-        "text": "setting",
+        "text": "The threatening setting increases tension because the danger is getting closer.",
         "is_correct": true
       },
       {
-        "text": "plot tension",
+        "text": "The setting cannot affect the plot.",
         "is_correct": false
       },
       {
-        "text": "character development",
+        "text": "Storms always make stories funny.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "setting is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Setting can create pressure that shapes what characters must do next. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Connect the place or conditions to the problem."
+    }
   },
   {
     "id": "AC9E4LE03-P-024",
@@ -841,35 +695,509 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "skill": "vocabulary_3_reason",
-    "question": "A student answers “character development”. Which feedback helps? Task: A class annotation about Character, Setting and Plot Tension describes “time, place and environment influencing events”. Which term is most precise?",
-    "audio_prompt": "A student answers “character development”. Which feedback helps? Task: A class annotation about Character, Setting and Plot Tension describes “time, place and environment influencing events”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-p-024",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Vocabulary 3. Notice: Analyse character decisions. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "If “The setting cannot affect the plot.” does not work in a storm approaching while two characters are stranded on a jetty, what should replace it?",
+    "audio_prompt": "If “The setting cannot affect the plot.” does not work in a storm approaching while two characters are stranded on a jetty, what should replace it?",
     "answers": [
       {
-        "text": "Keep “character development”; it uses a detail that sounds familiar.",
+        "text": "The setting cannot affect the plot.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. setting is the precise term for this feature.",
+        "text": "The threatening setting increases tension because the danger is getting closer.",
         "is_correct": true
       },
       {
-        "text": "Choose “plot tension” instead; it sounds clearer.",
+        "text": "Storms always make stories funny.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. setting is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Setting can create pressure that shapes what characters must do next. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "If “Dialogue only tells readers who is speaking.” does not work in two friends arguing in dialogue before a difficult decision, what should replace it?",
+    "audio_prompt": "If “Dialogue only tells readers who is speaking.” does not work in two friends arguing in dialogue before a difficult decision, what should replace it?",
+    "answers": [
+      {
+        "text": "Dialogue only tells readers who is speaking.",
+        "is_correct": false
+      },
+      {
+        "text": "The argument removes all conflict.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which option corrects the meaning or form needed for two friends arguing in dialogue before a difficult decision?",
+    "audio_prompt": "Which option corrects the meaning or form needed for two friends arguing in dialogue before a difficult decision?",
+    "answers": [
+      {
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "is_correct": true
+      },
+      {
+        "text": "Dialogue only tells readers who is speaking.",
+        "is_correct": false
+      },
+      {
+        "text": "The argument removes all conflict.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which option corrects the meaning or form needed for an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "Which option corrects the meaning or form needed for an illustration showing a tiny character beneath a huge cliff?",
+    "answers": [
+      {
+        "text": "The picture proves the character will fail.",
+        "is_correct": false
+      },
+      {
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "is_correct": true
+      },
+      {
+        "text": "Illustrations never add to a written story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which choice is the clearest correction for an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "Which choice is the clearest correction for an illustration showing a tiny character beneath a huge cliff?",
+    "answers": [
+      {
+        "text": "The picture proves the character will fail.",
+        "is_correct": false
+      },
+      {
+        "text": "Illustrations never add to a written story.",
+        "is_correct": false
+      },
+      {
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which choice is the clearest correction for a character ignores a warning and later becomes lost?",
+    "audio_prompt": "Which choice is the clearest correction for a character ignores a warning and later becomes lost?",
+    "answers": [
+      {
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "is_correct": true
+      },
+      {
+        "text": "The warning and getting lost are unrelated.",
+        "is_correct": false
+      },
+      {
+        "text": "Consequences only happen at the end of stories.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which revision best fixes the problem in “The warning and getting lost are unrelated.” for a character ignores a warning and later becomes lost?",
+    "audio_prompt": "Which revision best fixes the problem in “The warning and getting lost are unrelated.” for a character ignores a warning and later becomes lost?",
+    "answers": [
+      {
+        "text": "The warning and getting lost are unrelated.",
+        "is_correct": false
+      },
+      {
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "is_correct": true
+      },
+      {
+        "text": "Consequences only happen at the end of stories.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "You now need to handle a character who returns a lost wallet even though they need money independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle a character who returns a lost wallet even though they need money independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "The wallet matters only because it is an object.",
+        "is_correct": false
+      },
+      {
+        "text": "The choice reveals nothing about character.",
+        "is_correct": false
+      },
+      {
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Apply the same idea to a character who returns a lost wallet even though they need money. Which option is best?",
+    "audio_prompt": "Apply the same idea to a character who returns a lost wallet even though they need money. Which option is best?",
+    "answers": [
+      {
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "is_correct": true
+      },
+      {
+        "text": "The wallet matters only because it is an object.",
+        "is_correct": false
+      },
+      {
+        "text": "The choice reveals nothing about character.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Apply the same idea to a storm approaching while two characters are stranded on a jetty. Which option is best?",
+    "audio_prompt": "Apply the same idea to a storm approaching while two characters are stranded on a jetty. Which option is best?",
+    "answers": [
+      {
+        "text": "Storms always make stories funny.",
+        "is_correct": false
+      },
+      {
+        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "is_correct": true
+      },
+      {
+        "text": "The setting cannot affect the plot.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which decision would produce the clearest result in a storm approaching while two characters are stranded on a jetty?",
+    "audio_prompt": "Which decision would produce the clearest result in a storm approaching while two characters are stranded on a jetty?",
+    "answers": [
+      {
+        "text": "Storms always make stories funny.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting cannot affect the plot.",
+        "is_correct": false
+      },
+      {
+        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which decision would produce the clearest result in two friends arguing in dialogue before a difficult decision?",
+    "audio_prompt": "Which decision would produce the clearest result in two friends arguing in dialogue before a difficult decision?",
+    "answers": [
+      {
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "is_correct": true
+      },
+      {
+        "text": "The argument removes all conflict.",
+        "is_correct": false
+      },
+      {
+        "text": "Dialogue only tells readers who is speaking.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Choose the option that applies the skill correctly in two friends arguing in dialogue before a difficult decision.",
+    "audio_prompt": "Choose the option that applies the skill correctly in two friends arguing in dialogue before a difficult decision.",
+    "answers": [
+      {
+        "text": "The argument removes all conflict.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "is_correct": true
+      },
+      {
+        "text": "Dialogue only tells readers who is speaking.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Choose the option that applies the skill correctly in an illustration showing a tiny character beneath a huge cliff.",
+    "audio_prompt": "Choose the option that applies the skill correctly in an illustration showing a tiny character beneath a huge cliff.",
+    "answers": [
+      {
+        "text": "Illustrations never add to a written story.",
+        "is_correct": false
+      },
+      {
+        "text": "The picture proves the character will fail.",
+        "is_correct": false
+      },
+      {
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What would be the most effective choice for an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "What would be the most effective choice for an illustration showing a tiny character beneath a huge cliff?",
+    "answers": [
+      {
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "is_correct": true
+      },
+      {
+        "text": "Illustrations never add to a written story.",
+        "is_correct": false
+      },
+      {
+        "text": "The picture proves the character will fail.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What would be the most effective choice for a character ignores a warning and later becomes lost?",
+    "audio_prompt": "What would be the most effective choice for a character ignores a warning and later becomes lost?",
+    "answers": [
+      {
+        "text": "Consequences only happen at the end of stories.",
+        "is_correct": false
+      },
+      {
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "is_correct": true
+      },
+      {
+        "text": "The warning and getting lost are unrelated.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "You now need to handle a character ignores a warning and later becomes lost independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle a character ignores a warning and later becomes lost independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Consequences only happen at the end of stories.",
+        "is_correct": false
+      },
+      {
+        "text": "The warning and getting lost are unrelated.",
+        "is_correct": false
+      },
+      {
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
   },
   {
     "id": "AC9E4LE03-T-001",
@@ -877,32 +1205,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "new_text_1_apply",
-    "question": "In a new assessment text, Which event most directly raises plot tension?",
-    "audio_prompt": "In a new assessment text, Which event most directly raises plot tension?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-001",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: New text 1. Notice: Map tension arcs. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "New context: a mystery story slowly revealing footprints, a broken latch and a missing key. Which option is correct?",
+    "audio_prompt": "New context: a mystery story slowly revealing footprints, a broken latch and a missing key. Which option is correct?",
     "answers": [
       {
-        "text": "The character eats a calm breakfast",
-        "is_correct": false
-      },
-      {
-        "text": "The title is printed at the top",
-        "is_correct": false
-      },
-      {
-        "text": "The only exit locks as the lights fail",
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
         "is_correct": true
+      },
+      {
+        "text": "The clues resolve the mystery immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Details cannot shape tension.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “The only exit locks as the lights fail”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
     }
   },
   {
@@ -911,32 +1235,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "new_text_1_reason",
-    "question": "A student answers “The character eats a calm breakfast”. Which feedback helps? Task: In a new assessment text, Which event most directly raises plot tension?",
-    "audio_prompt": "A student answers “The character eats a calm breakfast”. Which feedback helps? Task: In a new assessment text, Which event most directly raises plot tension?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-002",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: New text 1. Notice: Map tension arcs. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What is the best choice for a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "What is the best choice for a mystery story slowly revealing footprints, a broken latch and a missing key?",
     "answers": [
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The only exit locks as the lights fail”.",
+        "text": "The clues resolve the mystery immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
         "is_correct": true
       },
       {
-        "text": "Keep “The character eats a calm breakfast”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “The title is printed at the top” instead; it sounds clearer.",
+        "text": "Details cannot shape tension.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The only exit locks as the lights fail”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
     }
   },
   {
@@ -945,32 +1265,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "new_text_2_apply",
-    "question": "In a new assessment text, How can an illustration add tension?",
-    "audio_prompt": "In a new assessment text, How can an illustration add tension?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-003",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: New text 2. Notice: Analyse character decisions. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which explanation best supports “The clues build curiosity because each detail narrows what might have happened.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "Which explanation best supports “The clues build curiosity because each detail narrows what might have happened.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
     "answers": [
       {
-        "text": "Repeat every word exactly",
+        "text": "Because “The clues resolve the mystery immediately.” is always a safe choice.",
         "is_correct": false
       },
       {
-        "text": "Show a threat outside the character’s awareness",
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Gradual clues keep readers forming and revising predictions.",
         "is_correct": true
-      },
-      {
-        "text": "Remove all context",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The evidence and language purpose support “Show a threat outside the character’s awareness”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
     }
   },
   {
@@ -979,32 +1295,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "new_text_2_reason",
-    "question": "A student answers “Remove all context”. Which feedback helps? Task: In a new assessment text, How can an illustration add tension?",
-    "audio_prompt": "A student answers “Remove all context”. Which feedback helps? Task: In a new assessment text, How can an illustration add tension?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-004",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: New text 2. Notice: Analyse character decisions. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which clue should guide your decision in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "Which clue should guide your decision in a mystery story slowly revealing footprints, a broken latch and a missing key?",
     "answers": [
       {
-        "text": "Keep “Remove all context”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Repeat every word exactly” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Show a threat outside the character’s awareness”.",
+        "text": "Ask what the reader knows now and what is still uncertain.",
         "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Show a threat outside the character’s awareness”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
     }
   },
   {
@@ -1013,32 +1325,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "misconception_1_apply",
-    "question": "An editor reviewing a new text claims, “Tension means constant danger”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Tension means constant danger”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-005",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 1. Notice: Explain setting effects. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which option would you reject first in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "Which option would you reject first in a mystery story slowly revealing footprints, a broken latch and a missing key?",
     "answers": [
       {
-        "text": "Questions, conflict, anticipation and emotional stakes can create tension.",
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "is_correct": false
+      },
+      {
+        "text": "The clues resolve the mystery immediately.",
         "is_correct": true
       },
       {
-        "text": "Tension means constant danger",
-        "is_correct": false
-      },
-      {
-        "text": "Setting is background only",
+        "text": "Details cannot shape tension.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Questions, conflict, anticipation and emotional stakes can create tension.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
     }
   },
   {
@@ -1047,32 +1355,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Tension means constant danger”. Which feedback helps? Task: An editor reviewing a new text claims, “Tension means constant danger”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Tension means constant danger”. Which feedback helps? Task: An editor reviewing a new text claims, “Tension means constant danger”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-006",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 1. Notice: Explain setting effects. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which correction should replace “The clues resolve the mystery immediately.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "Which correction should replace “The clues resolve the mystery immediately.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
     "answers": [
       {
-        "text": "Keep “Tension means constant danger”; it uses a detail that sounds familiar.",
+        "text": "The clues resolve the mystery immediately.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Questions, conflict, anticipation and emotional stakes can create tension.",
+        "text": "Details cannot shape tension.",
+        "is_correct": false
+      },
+      {
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Setting is background only” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Questions, conflict, anticipation and emotional stakes can create tension.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
     }
   },
   {
@@ -1081,32 +1385,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "misconception_2_apply",
-    "question": "An editor reviewing a new text claims, “Setting is background only”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Setting is background only”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-007",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 2. Notice: Interpret multimodal clues. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Apply the skill to a mystery story slowly revealing footprints, a broken latch and a missing key: what should you choose?",
+    "audio_prompt": "Apply the skill to a mystery story slowly revealing footprints, a broken latch and a missing key: what should you choose?",
     "answers": [
       {
-        "text": "Setting is background only",
-        "is_correct": false
-      },
-      {
-        "text": "Character develops because author states a trait",
-        "is_correct": false
-      },
-      {
-        "text": "It creates opportunities, constraints, mood and consequences.",
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
         "is_correct": true
+      },
+      {
+        "text": "The clues resolve the mystery immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Details cannot shape tension.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "It creates opportunities, constraints, mood and consequences.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
     }
   },
   {
@@ -1115,32 +1415,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Character develops because author states a trait”. Which feedback helps? Task: An editor reviewing a new text claims, “Setting is background only”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Character develops because author states a trait”. Which feedback helps? Task: An editor reviewing a new text claims, “Setting is background only”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-008",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 2. Notice: Interpret multimodal clues. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which final choice gives the clearest and most accurate result for a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for a mystery story slowly revealing footprints, a broken latch and a missing key?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates opportunities, constraints, mood and consequences.",
+        "text": "The clues resolve the mystery immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
         "is_correct": true
       },
       {
-        "text": "Keep “Character develops because author states a trait”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Setting is background only” instead; it sounds clearer.",
+        "text": "Details cannot shape tension.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It creates opportunities, constraints, mood and consequences.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
     }
   },
   {
@@ -1149,32 +1445,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "misconception_3_apply",
-    "question": "An editor reviewing a new text claims, “Character develops because author states a trait”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Character develops because author states a trait”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-009",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 3. Notice: Connect craft choices to engagement. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "New context: a shy character finally speaks at a community meeting. Which option is correct?",
+    "audio_prompt": "New context: a shy character finally speaks at a community meeting. Which option is correct?",
     "answers": [
       {
-        "text": "Character develops because author states a trait",
+        "text": "The scene is important only because it has speech marks.",
         "is_correct": false
       },
       {
-        "text": "Development emerges through decisions, relationships and reactions.",
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
+      },
+      {
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
         "is_correct": true
-      },
-      {
-        "text": "Illustration merely repeats words",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Development emerges through decisions, relationships and reactions.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
     }
   },
   {
@@ -1183,32 +1475,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Character develops because author states a trait”. Which feedback helps? Task: An editor reviewing a new text claims, “Character develops because author states a trait”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Character develops because author states a trait”. Which feedback helps? Task: An editor reviewing a new text claims, “Character develops because author states a trait”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-010",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 3. Notice: Connect craft choices to engagement. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What is the best choice for a shy character finally speaks at a community meeting?",
+    "audio_prompt": "What is the best choice for a shy character finally speaks at a community meeting?",
     "answers": [
       {
-        "text": "Keep “Character develops because author states a trait”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Illustration merely repeats words” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Development emerges through decisions, relationships and reactions.",
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
         "is_correct": true
+      },
+      {
+        "text": "The scene is important only because it has speech marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Development emerges through decisions, relationships and reactions.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
     }
   },
   {
@@ -1217,32 +1505,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "misconception_4_apply",
-    "question": "An editor reviewing a new text claims, “Illustration merely repeats words”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Illustration merely repeats words”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-011",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 4. Notice: Map tension arcs. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which explanation best supports “The moment is engaging because it completes a change the story has been building toward.” in a shy character finally speaks at a community meeting?",
+    "audio_prompt": "Which explanation best supports “The moment is engaging because it completes a change the story has been building toward.” in a shy character finally speaks at a community meeting?",
     "answers": [
       {
-        "text": "It may add viewpoint, foreshadowing or contradictory evidence.",
+        "text": "Because “The scene is important only because it has speech marks.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A significant action can show development and provide a satisfying turning point.",
         "is_correct": true
       },
       {
-        "text": "Illustration merely repeats words",
-        "is_correct": false
-      },
-      {
-        "text": "Tension means constant danger",
+        "text": "Because surface appearance matters more than meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "It may add viewpoint, foreshadowing or contradictory evidence.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
     }
   },
   {
@@ -1251,32 +1535,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Tension means constant danger”. Which feedback helps? Task: An editor reviewing a new text claims, “Illustration merely repeats words”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Tension means constant danger”. Which feedback helps? Task: An editor reviewing a new text claims, “Illustration merely repeats words”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-012",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Misconception 4. Notice: Map tension arcs. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which clue should guide your decision in a shy character finally speaks at a community meeting?",
+    "audio_prompt": "Which clue should guide your decision in a shy character finally speaks at a community meeting?",
     "answers": [
       {
-        "text": "Keep “Tension means constant danger”; it uses a detail that sounds familiar.",
+        "text": "Choose the option with the most words.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It may add viewpoint, foreshadowing or contradictory evidence.",
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect the final action to earlier behaviour.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Illustration merely repeats words” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It may add viewpoint, foreshadowing or contradictory evidence.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
     }
   },
   {
@@ -1285,32 +1565,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "tension_graph_apply",
-    "question": "A different class adapts “Tension graph”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Tension graph”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-013",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Tension graph. Notice: Analyse character decisions. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which option would you reject first in a shy character finally speaks at a community meeting?",
+    "audio_prompt": "Which option would you reject first in a shy character finally speaks at a community meeting?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
-        "is_correct": false
-      },
-      {
-        "text": "Plot tension across a familiar story and annotate events, setting pressures and character decisions.",
+        "text": "The scene is important only because it has speech marks.",
         "is_correct": true
+      },
+      {
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
+        "is_correct": false
+      },
+      {
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Plot tension across a familiar story and annotate events, setting pressures and character decisions.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
     }
   },
   {
@@ -1319,32 +1595,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "tension_graph_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Tension graph”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Tension graph”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-014",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Tension graph. Notice: Analyse character decisions. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which correction should replace “The scene is important only because it has speech marks.” in a shy character finally speaks at a community meeting?",
+    "audio_prompt": "Which correction should replace “The scene is important only because it has speech marks.” in a shy character finally speaks at a community meeting?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Plot tension across a familiar story and annotate events, setting pressures and character decisions.",
+        "text": "The scene is important only because it has speech marks.",
+        "is_correct": false
+      },
+      {
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
         "is_correct": true
       },
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Character growth cannot affect reader response.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Plot tension across a familiar story and annotate events, setting pressures and character decisions.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
     }
   },
   {
@@ -1353,32 +1625,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "setting_swap_apply",
-    "question": "A different class adapts “Setting swap”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Setting swap”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-015",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Setting swap. Notice: Explain setting effects. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Apply the skill to a shy character finally speaks at a community meeting: what should you choose?",
+    "audio_prompt": "Apply the skill to a shy character finally speaks at a community meeting: what should you choose?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "The scene is important only because it has speech marks.",
         "is_correct": false
       },
       {
-        "text": "Move one scene to a safer or more dangerous setting and revise actions, visual details and stakes.",
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
+      },
+      {
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
         "is_correct": true
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Move one scene to a safer or more dangerous setting and revise actions, visual details and stakes.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
     }
   },
   {
@@ -1387,32 +1655,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "skill": "setting_swap_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Setting swap”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Setting swap”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4le03.svg#ac9e4le03-t-016",
-      "alt_text": "Three-step Character, Setting and Plot Tension organiser. Read: Setting swap. Notice: Explain setting effects. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which final choice gives the clearest and most accurate result for a shy character finally speaks at a community meeting?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for a shy character finally speaks at a community meeting?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Move one scene to a safer or more dangerous setting and revise actions, visual details and stakes.",
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
         "is_correct": true
+      },
+      {
+        "text": "The scene is important only because it has speech marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Move one scene to a safer or more dangerous setting and revise actions, visual details and stakes.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
     }
   }
 ]

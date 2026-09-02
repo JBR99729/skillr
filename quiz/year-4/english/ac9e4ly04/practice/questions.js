@@ -4,28 +4,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-001",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "worked text 1 apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. What should a reader do after noticing a word does not fit the sentence?",
-    "audioPrompt": "Read the classroom example. What should a reader do after noticing a word does not fit the sentence?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 1. Notice: Integrate decoding cues. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 1. Notice: Integrate decoding cues. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-001",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 1. Notice: Integrate decoding cues. Choose the response supported by the example."
-    },
+    "question": "In reading “The hikers cautiously crossed the suspension bridge”, which option best demonstrates the skill?",
+    "audioPrompt": "In reading “The hikers cautiously crossed the suspension bridge”, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep the first guess",
-      "Skip every difficult word",
-      "Recheck letter patterns, word parts, grammar and meaning, then reread"
+      "Read every letter as a separate sound and ignore the sentence.",
+      "Replace cautiously with quickly because it is shorter.",
+      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words."
     ],
     "correct": 2,
-    "explanation": "The evidence and language purpose support “Recheck letter patterns, word parts, grammar and meaning, then reread”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “Recheck letter patterns, word parts, grammar and meaning, then reread”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
+      "hint": "Check whether the words you read make sense in the sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-002",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "worked text 1 reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Keep the first guess”. Which feedback helps? Task: Read the classroom example. What should a reader do after noticing a word does not fit the sentence?",
-    "audioPrompt": "A student answers “Keep the first guess”. Which feedback helps? Task: Read the classroom example. What should a reader do after noticing a word does not fit the sentence?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 1. Notice: Integrate decoding cues. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 1. Notice: Integrate decoding cues. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-002",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 1. Notice: Integrate decoding cues. Correct the student's mix-up using the full task."
-    },
+    "question": "Which choice fits reading “The hikers cautiously crossed the suspension bridge” most accurately?",
+    "audioPrompt": "Which choice fits reading “The hikers cautiously crossed the suspension bridge” most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Recheck letter patterns, word parts, grammar and meaning, then reread”.",
-      "Keep “Keep the first guess”; it uses a detail that sounds familiar.",
-      "Choose “Skip every difficult word” instead; it sounds clearer."
+      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
+      "Read every letter as a separate sound and ignore the sentence.",
+      "Replace cautiously with quickly because it is shorter."
     ],
     "correct": 0,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Recheck letter patterns, word parts, grammar and meaning, then reread”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “Recheck letter patterns, word parts, grammar and meaning, then reread”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
+      "hint": "Check whether the words you read make sense in the sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-003",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "worked text 2 apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "Read the classroom example. Which reading demonstrates fluency?",
-    "audioPrompt": "Read the classroom example. Which reading demonstrates fluency?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 2. Notice: Use morphology and context. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 2. Notice: Use morphology and context. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-003",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 2. Notice: Use morphology and context. Choose the response supported by the example."
-    },
+    "question": "Which choice fits meeting the unfamiliar word “reusable” most accurately?",
+    "audioPrompt": "Which choice fits meeting the unfamiliar word “reusable” most accurately?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "fast reading with many substitutions",
-      "accurate phrasing and expression that support meaning",
-      "equal pause after every word"
+      "Guess from the first letter only.",
+      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
+      "Skip the word and continue without checking meaning."
     ],
     "correct": 1,
-    "explanation": "The evidence and language purpose support “accurate phrasing and expression that support meaning”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “accurate phrasing and expression that support meaning”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
+      "hint": "Break the word into meaningful parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-004",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "worked text 2 reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “equal pause after every word”. Which feedback helps? Task: Read the classroom example. Which reading demonstrates fluency?",
-    "audioPrompt": "A student answers “equal pause after every word”. Which feedback helps? Task: Read the classroom example. Which reading demonstrates fluency?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 2. Notice: Use morphology and context. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 2. Notice: Use morphology and context. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-004",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Worked text 2. Notice: Use morphology and context. Correct the student's mix-up using the full task."
-    },
+    "question": "Look closely at meeting the unfamiliar word “reusable”. Which response or wording works best?",
+    "audioPrompt": "Look closely at meeting the unfamiliar word “reusable”. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “equal pause after every word”; it uses a detail that sounds familiar.",
-      "Choose “fast reading with many substitutions” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “accurate phrasing and expression that support meaning”."
+      "Guess from the first letter only.",
+      "Skip the word and continue without checking meaning.",
+      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”."
     ],
     "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “accurate phrasing and expression that support meaning”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “accurate phrasing and expression that support meaning”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
+      "hint": "Break the word into meaningful parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-005",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "misconception 1 apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Guessing from picture or first letter”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Guessing from picture or first letter”. Which response gives the most accurate correction?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 1. Notice: Read with meaningful phrasing. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 1. Notice: Read with meaningful phrasing. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-005",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 1. Notice: Read with meaningful phrasing. Choose the response supported by the example."
-    },
+    "question": "Look closely at reading a paragraph with commas around an extra detail. Which response or wording works best?",
+    "audioPrompt": "Look closely at reading a paragraph with commas around an extra detail. Which response or wording works best?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Use the complete written word and cross-check meaning.",
-      "Guessing from picture or first letter",
-      "Fluency equals maximum speed"
+      "Pause lightly around the extra detail but keep the sentence flowing.",
+      "Stop for several seconds at every comma.",
+      "Ignore all punctuation and read in one flat rush."
     ],
     "correct": 0,
-    "explanation": "Use the complete written word and cross-check meaning.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
     "structuredExplanation": {
-      "summary": "Use the complete written word and cross-check meaning.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
+      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-006",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "misconception 1 reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Guessing from picture or first letter”. Which feedback helps? Task: A student in a workshop claims, “Guessing from picture or first letter”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Guessing from picture or first letter”. Which feedback helps? Task: A student in a workshop claims, “Guessing from picture or first letter”. Which response gives the most accurate correction?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 1. Notice: Read with meaningful phrasing. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 1. Notice: Read with meaningful phrasing. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-006",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 1. Notice: Read with meaningful phrasing. Correct the student's mix-up using the full task."
-    },
+    "question": "For reading a paragraph with commas around an extra detail, which option is the strongest match?",
+    "audioPrompt": "For reading a paragraph with commas around an extra detail, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Guessing from picture or first letter”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use the complete written word and cross-check meaning.",
-      "Choose “Fluency equals maximum speed” instead; it sounds clearer."
+      "Stop for several seconds at every comma.",
+      "Pause lightly around the extra detail but keep the sentence flowing.",
+      "Ignore all punctuation and read in one flat rush."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use the complete written word and cross-check meaning.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use the complete written word and cross-check meaning.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
+      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-007",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "misconception 2 apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Fluency equals maximum speed”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Fluency equals maximum speed”. Which response gives the most accurate correction?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 2. Notice: Monitor comprehension. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 2. Notice: Monitor comprehension. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-007",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 2. Notice: Monitor comprehension. Choose the response supported by the example."
-    },
+    "question": "For realising a sentence no longer makes sense after reading a word incorrectly, which option is the strongest match?",
+    "audioPrompt": "For realising a sentence no longer makes sense after reading a word incorrectly, which option is the strongest match?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Fluency equals maximum speed",
-      "Self-correction considered failure",
-      "Accuracy, phrasing and comprehension are essential."
+      "Keep going even though the sentence makes no sense.",
+      "Change several other words to fit the mistake.",
+      "Go back, reread the phrase and correct the word using letters and context."
     ],
     "correct": 2,
-    "explanation": "Accuracy, phrasing and comprehension are essential.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
     "structuredExplanation": {
-      "summary": "Accuracy, phrasing and comprehension are essential.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
+      "hint": "A self-correction should fit both the print and the sentence meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-008",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "misconception 2 reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Self-correction considered failure”. Which feedback helps? Task: A student in a workshop claims, “Fluency equals maximum speed”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Self-correction considered failure”. Which feedback helps? Task: A student in a workshop claims, “Fluency equals maximum speed”. Which response gives the most accurate correction?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 2. Notice: Monitor comprehension. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 2. Notice: Monitor comprehension. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-008",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 2. Notice: Monitor comprehension. Correct the student's mix-up using the full task."
-    },
+    "question": "Which example should you choose for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "audioPrompt": "Which example should you choose for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Accuracy, phrasing and comprehension are essential.",
-      "Keep “Self-correction considered failure”; it uses a detail that sounds familiar.",
-      "Choose “Fluency equals maximum speed” instead; it sounds clearer."
+      "Go back, reread the phrase and correct the word using letters and context.",
+      "Keep going even though the sentence makes no sense.",
+      "Change several other words to fit the mistake."
     ],
     "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Accuracy, phrasing and comprehension are essential.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Accuracy, phrasing and comprehension are essential.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
+      "hint": "A self-correction should fit both the print and the sentence meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-009",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "misconception 3 apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Self-correction considered failure”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Self-correction considered failure”. Which response gives the most accurate correction?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 3. Notice: Self-correct independently. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 3. Notice: Self-correct independently. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-009",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 3. Notice: Self-correct independently. Choose the response supported by the example."
-    },
+    "question": "Which example should you choose for reading a factual paragraph about cyclones?",
+    "audioPrompt": "Which example should you choose for reading a factual paragraph about cyclones?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Self-correction considered failure",
-      "Noticing and repairing is a skilled reading behaviour.",
-      "Every unfamiliar word must be supplied by an adult"
+      "Say any weather word that seems possible without looking closely.",
+      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
+      "Ignore the heading and technical terms."
     ],
     "correct": 1,
-    "explanation": "Noticing and repairing is a skilled reading behaviour.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
     "structuredExplanation": {
-      "summary": "Noticing and repairing is a skilled reading behaviour.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
+      "hint": "Use knowledge to support, not replace, decoding."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-010",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "misconception 3 reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Self-correction considered failure”. Which feedback helps? Task: A student in a workshop claims, “Self-correction considered failure”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Self-correction considered failure”. Which feedback helps? Task: A student in a workshop claims, “Self-correction considered failure”. Which response gives the most accurate correction?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 3. Notice: Self-correct independently. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 3. Notice: Self-correct independently. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-010",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 3. Notice: Self-correct independently. Correct the student's mix-up using the full task."
-    },
+    "question": "In reading a factual paragraph about cyclones, which option best demonstrates the skill?",
+    "audioPrompt": "In reading a factual paragraph about cyclones, which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Self-correction considered failure”; it uses a detail that sounds familiar.",
-      "Choose “Every unfamiliar word must be supplied by an adult” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Noticing and repairing is a skilled reading behaviour."
+      "Say any weather word that seems possible without looking closely.",
+      "Ignore the heading and technical terms.",
+      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word."
     ],
     "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Noticing and repairing is a skilled reading behaviour.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Noticing and repairing is a skilled reading behaviour.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
+      "hint": "Use knowledge to support, not replace, decoding."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-011",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "misconception 4 apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student in a workshop claims, “Every unfamiliar word must be supplied by an adult”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student in a workshop claims, “Every unfamiliar word must be supplied by an adult”. Which response gives the most accurate correction?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 4. Notice: Integrate decoding cues. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 4. Notice: Integrate decoding cues. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-011",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 4. Notice: Integrate decoding cues. Choose the response supported by the example."
-    },
+    "question": "Why does “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” work well for reading “The hikers cautiously crossed the suspension bridge”?",
+    "audioPrompt": "Why does “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” work well for reading “The hikers cautiously crossed the suspension bridge”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Teach a strategic sequence and allow productive effort.",
-      "Every unfamiliar word must be supplied by an adult",
-      "Guessing from picture or first letter"
+      "Fluent reading coordinates word recognition with grammar and meaning.",
+      "Because “Read every letter as a separate sound and ignore the sentence.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Teach a strategic sequence and allow productive effort.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
     "structuredExplanation": {
-      "summary": "Teach a strategic sequence and allow productive effort.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
+      "hint": "Check whether the words you read make sense in the sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-012",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "misconception 4 reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Guessing from picture or first letter”. Which feedback helps? Task: A student in a workshop claims, “Every unfamiliar word must be supplied by an adult”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Guessing from picture or first letter”. Which feedback helps? Task: A student in a workshop claims, “Every unfamiliar word must be supplied by an adult”. Which response gives the most accurate correction?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 4. Notice: Integrate decoding cues. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 4. Notice: Integrate decoding cues. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-012",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Misconception 4. Notice: Integrate decoding cues. Correct the student's mix-up using the full task."
-    },
+    "question": "What makes “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” a better choice in reading “The hikers cautiously crossed the suspension bridge”?",
+    "audioPrompt": "What makes “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” a better choice in reading “The hikers cautiously crossed the suspension bridge”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Guessing from picture or first letter”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Teach a strategic sequence and allow productive effort.",
-      "Choose “Every unfamiliar word must be supplied by an adult” instead; it sounds clearer."
+      "Because “Read every letter as a separate sound and ignore the sentence.” is always acceptable in this situation.",
+      "Fluent reading coordinates word recognition with grammar and meaning.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Teach a strategic sequence and allow productive effort.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Teach a strategic sequence and allow productive effort.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
+      "hint": "Check whether the words you read make sense in the sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-013",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "three check reading apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Three-check reading”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Three-check reading”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Three-check reading. Notice: Use morphology and context. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Three-check reading. Notice: Use morphology and context. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-013",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Three-check reading. Notice: Use morphology and context. Choose the response supported by the example."
-    },
+    "question": "What makes “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” a better choice in meeting the unfamiliar word “reusable”?",
+    "audioPrompt": "What makes “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” a better choice in meeting the unfamiliar word “reusable”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only.",
-      "At a deliberate error, ask: Does it look right, sound grammatical and make sense? Then repair."
+      "Because “Guess from the first letter only.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Morphology and context can work together to identify and understand a multisyllabic word."
     ],
     "correct": 2,
-    "explanation": "At a deliberate error, ask: Does it look right, sound grammatical and make sense? Then repair.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
     "structuredExplanation": {
-      "summary": "At a deliberate error, ask: Does it look right, sound grammatical and make sense? Then repair.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
+      "hint": "Break the word into meaningful parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-014",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "three check reading reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Three-check reading”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Three-check reading”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Three-check reading. Notice: Use morphology and context. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Three-check reading. Notice: Use morphology and context. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-014",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Three-check reading. Notice: Use morphology and context. Correct the student's mix-up using the full task."
-    },
+    "question": "Which explanation best justifies “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” for meeting the unfamiliar word “reusable”?",
+    "audioPrompt": "Which explanation best justifies “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” for meeting the unfamiliar word “reusable”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Choose the plan that analyses language evidence and produces a reviewable response. At a deliberate error, ask: Does it look right, sound grammatical and make sense? Then repair.",
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Morphology and context can work together to identify and understand a multisyllabic word.",
+      "Because “Guess from the first letter only.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. At a deliberate error, ask: Does it look right, sound grammatical and make sense? Then repair.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. At a deliberate error, ask: Does it look right, sound grammatical and make sense? Then repair.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
+      "hint": "Break the word into meaningful parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-015",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "phrase marking apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Phrase marking”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Phrase marking”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Phrase marking. Notice: Read with meaningful phrasing. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Phrase marking. Notice: Read with meaningful phrasing. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-015",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Phrase marking. Notice: Read with meaningful phrasing. Choose the response supported by the example."
-    },
+    "question": "Which explanation best justifies “Pause lightly around the extra detail but keep the sentence flowing.” for reading a paragraph with commas around an extra detail?",
+    "audioPrompt": "Which explanation best justifies “Pause lightly around the extra detail but keep the sentence flowing.” for reading a paragraph with commas around an extra detail?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Mark meaningful phrase groups and punctuation pauses in narrative, procedure and report extracts.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Because “Stop for several seconds at every comma.” is always acceptable in this situation.",
+      "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Mark meaningful phrase groups and punctuation pauses in narrative, procedure and report extracts.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
     "structuredExplanation": {
-      "summary": "Mark meaningful phrase groups and punctuation pauses in narrative, procedure and report extracts.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
+      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-016",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "phrase marking reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Phrase marking”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Phrase marking”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Phrase marking. Notice: Read with meaningful phrasing. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Phrase marking. Notice: Read with meaningful phrasing. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-016",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Phrase marking. Notice: Read with meaningful phrasing. Correct the student's mix-up using the full task."
-    },
+    "question": "What should you notice about “Pause lightly around the extra detail but keep the sentence flowing.” in reading a paragraph with commas around an extra detail?",
+    "audioPrompt": "What should you notice about “Pause lightly around the extra detail but keep the sentence flowing.” in reading a paragraph with commas around an extra detail?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Mark meaningful phrase groups and punctuation pauses in narrative, procedure and report extracts."
+      "Because “Stop for several seconds at every comma.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Punctuation guides phrasing, but fluent reading keeps connected ideas together."
     ],
     "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Mark meaningful phrase groups and punctuation pauses in narrative, procedure and report extracts.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Mark meaningful phrase groups and punctuation pauses in narrative, procedure and report extracts.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
+      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +388,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-017",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "strategy reflection apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "The class prepares “Strategy reflection”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "The class prepares “Strategy reflection”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Strategy reflection. Notice: Monitor comprehension. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Strategy reflection. Notice: Monitor comprehension. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-017\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-017",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Strategy reflection. Notice: Monitor comprehension. Choose the response supported by the example."
-    },
+    "question": "What should you notice about “Go back, reread the phrase and correct the word using letters and context.” in realising a sentence no longer makes sense after reading a word incorrectly?",
+    "audioPrompt": "What should you notice about “Go back, reread the phrase and correct the word using letters and context.” in realising a sentence no longer makes sense after reading a word incorrectly?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Record an unfamiliar word, first attempt, clues used, correction and meaning confirmation.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Monitoring meaning helps readers notice and repair decoding errors.",
+      "Because “Keep going even though the sentence makes no sense.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Record an unfamiliar word, first attempt, clues used, correction and meaning confirmation.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
     "structuredExplanation": {
-      "summary": "Record an unfamiliar word, first attempt, clues used, correction and meaning confirmation.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
+      "hint": "A self-correction should fit both the print and the sentence meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +412,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-018",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "strategy reflection reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Strategy reflection”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Strategy reflection”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Strategy reflection. Notice: Monitor comprehension. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Strategy reflection. Notice: Monitor comprehension. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-018\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-018",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Strategy reflection. Notice: Monitor comprehension. Correct the student's mix-up using the full task."
-    },
+    "question": "Which reason explains why “Go back, reread the phrase and correct the word using letters and context.” suits realising a sentence no longer makes sense after reading a word incorrectly?",
+    "audioPrompt": "Which reason explains why “Go back, reread the phrase and correct the word using letters and context.” suits realising a sentence no longer makes sense after reading a word incorrectly?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Record an unfamiliar word, first attempt, clues used, correction and meaning confirmation.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
+      "Because “Keep going even though the sentence makes no sense.” is always acceptable in this situation.",
+      "Monitoring meaning helps readers notice and repair decoding errors.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Record an unfamiliar word, first attempt, clues used, correction and meaning confirmation.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Record an unfamiliar word, first attempt, clues used, correction and meaning confirmation.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
+      "hint": "A self-correction should fit both the print and the sentence meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +436,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-019",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "vocabulary 1 apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Accurate, Fluent and Self-correcting Reading describes “working from written patterns to spoken word”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Accurate, Fluent and Self-correcting Reading describes “working from written patterns to spoken word”. Which term is most precise?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 1. Notice: Self-correct independently. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 1. Notice: Self-correct independently. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-019\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-019",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 1. Notice: Self-correct independently. Choose the response supported by the example."
-    },
+    "question": "Which reason explains why “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” suits reading a factual paragraph about cyclones?",
+    "audioPrompt": "Which reason explains why “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” suits reading a factual paragraph about cyclones?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "morphology",
-      "fluency",
-      "decoding"
+      "Because “Say any weather word that seems possible without looking closely.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct.",
+      "Topic knowledge supports prediction, but accurate reading still depends on the text."
     ],
     "correct": 2,
-    "explanation": "decoding is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
     "structuredExplanation": {
-      "summary": "decoding is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
+      "hint": "Use knowledge to support, not replace, decoding."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +460,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-020",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "vocabulary 1 reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “fluency”. Which feedback helps? Task: A class annotation about Accurate, Fluent and Self-correcting Reading describes “working from written patterns to spoken word”. Which term is most precise?",
-    "audioPrompt": "A student answers “fluency”. Which feedback helps? Task: A class annotation about Accurate, Fluent and Self-correcting Reading describes “working from written patterns to spoken word”. Which term is most precise?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 1. Notice: Self-correct independently. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 1. Notice: Self-correct independently. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-020\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-020",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 1. Notice: Self-correct independently. Correct the student's mix-up using the full task."
-    },
+    "question": "Why does “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” work well for reading a factual paragraph about cyclones?",
+    "audioPrompt": "Why does “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” work well for reading a factual paragraph about cyclones?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Match the definition to the exact language or literacy concept. decoding is the precise term for this feature.",
-      "Keep “fluency”; it uses a detail that sounds familiar.",
-      "Choose “morphology” instead; it sounds clearer."
+      "Topic knowledge supports prediction, but accurate reading still depends on the text.",
+      "Because “Say any weather word that seems possible without looking closely.” is always acceptable in this situation.",
+      "Because the longest or most complicated option must be correct."
     ],
     "correct": 0,
-    "explanation": "Match the definition to the exact language or literacy concept. decoding is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. decoding is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
+      "hint": "Use knowledge to support, not replace, decoding."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +484,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-021",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "vocabulary 2 apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Accurate, Fluent and Self-correcting Reading describes “meaningful word parts and their relationships”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Accurate, Fluent and Self-correcting Reading describes “meaningful word parts and their relationships”. Which term is most precise?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 2. Notice: Integrate decoding cues. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 2. Notice: Integrate decoding cues. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-021\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-021",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 2. Notice: Integrate decoding cues. Choose the response supported by the example."
-    },
+    "question": "Which revision best fixes the problem in “Read every letter as a separate sound and ignore the sentence.” for reading “The hikers cautiously crossed the suspension bridge”?",
+    "audioPrompt": "Which revision best fixes the problem in “Read every letter as a separate sound and ignore the sentence.” for reading “The hikers cautiously crossed the suspension bridge”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "decoding",
-      "morphology",
-      "fluency"
+      "Read every letter as a separate sound and ignore the sentence.",
+      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
+      "Replace cautiously with quickly because it is shorter."
     ],
     "correct": 1,
-    "explanation": "morphology is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Fluent reading coordinates word recognition with grammar and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check whether the words you read make sense in the sentence.",
     "structuredExplanation": {
-      "summary": "morphology is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Fluent reading coordinates word recognition with grammar and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check whether the words you read make sense in the sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +508,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-022",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "vocabulary 2 reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “decoding”. Which feedback helps? Task: A class annotation about Accurate, Fluent and Self-correcting Reading describes “meaningful word parts and their relationships”. Which term is most precise?",
-    "audioPrompt": "A student answers “decoding”. Which feedback helps? Task: A class annotation about Accurate, Fluent and Self-correcting Reading describes “meaningful word parts and their relationships”. Which term is most precise?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 2. Notice: Integrate decoding cues. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 2. Notice: Integrate decoding cues. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-022\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-022",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 2. Notice: Integrate decoding cues. Correct the student's mix-up using the full task."
-    },
+    "question": "Compare the choices for reading “The hikers cautiously crossed the suspension bridge”. Which one avoids the mistake in “Read every letter as a separate sound and ignore the sentence.”?",
+    "audioPrompt": "Compare the choices for reading “The hikers cautiously crossed the suspension bridge”. Which one avoids the mistake in “Read every letter as a separate sound and ignore the sentence.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “decoding”; it uses a detail that sounds familiar.",
-      "Choose “fluency” instead; it sounds clearer.",
-      "Match the definition to the exact language or literacy concept. morphology is the precise term for this feature."
+      "Read every letter as a separate sound and ignore the sentence.",
+      "Replace cautiously with quickly because it is shorter.",
+      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words."
     ],
     "correct": 2,
-    "explanation": "Match the definition to the exact language or literacy concept. morphology is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Fluent reading coordinates word recognition with grammar and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check whether the words you read make sense in the sentence.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. morphology is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Fluent reading coordinates word recognition with grammar and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check whether the words you read make sense in the sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +532,23 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-023",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "vocabulary 3 apply",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A class annotation about Accurate, Fluent and Self-correcting Reading describes “accurate, appropriately paced and phrased reading”. Which term is most precise?",
-    "audioPrompt": "A class annotation about Accurate, Fluent and Self-correcting Reading describes “accurate, appropriately paced and phrased reading”. Which term is most precise?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 3. Notice: Use morphology and context. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 3. Notice: Use morphology and context. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-023\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-023",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 3. Notice: Use morphology and context. Choose the response supported by the example."
-    },
+    "question": "Compare the choices for meeting the unfamiliar word “reusable”. Which one avoids the mistake in “Guess from the first letter only.”?",
+    "audioPrompt": "Compare the choices for meeting the unfamiliar word “reusable”. Which one avoids the mistake in “Guess from the first letter only.”?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "fluency",
-      "decoding",
-      "morphology"
+      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
+      "Guess from the first letter only.",
+      "Skip the word and continue without checking meaning."
     ],
     "correct": 0,
-    "explanation": "fluency is the precise term for this feature.\nHint: Match the definition to the exact language or literacy concept.",
+    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Break the word into meaningful parts.",
     "structuredExplanation": {
-      "summary": "fluency is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
+      "summary": "Morphology and context can work together to identify and understand a multisyllabic word. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Break the word into meaningful parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +556,407 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-024",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "vocabulary 3 reason",
+    "skill": "Fluent Reading",
     "printable": true,
     "type": "single",
-    "question": "A student answers “morphology”. Which feedback helps? Task: A class annotation about Accurate, Fluent and Self-correcting Reading describes “accurate, appropriately paced and phrased reading”. Which term is most precise?",
-    "audioPrompt": "A student answers “morphology”. Which feedback helps? Task: A class annotation about Accurate, Fluent and Self-correcting Reading describes “accurate, appropriately paced and phrased reading”. Which term is most precise?",
-    "visual": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 3. Notice: Use morphology and context. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 3. Notice: Use morphology and context. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-024\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4ly04.svg#ac9e4ly04-p-024",
-      "alt_text": "Three-step Accurate, Fluent and Self-correcting Reading organiser. Read: Vocabulary 3. Notice: Use morphology and context. Correct the student's mix-up using the full task."
-    },
+    "question": "If “Guess from the first letter only.” does not work in meeting the unfamiliar word “reusable”, what should replace it?",
+    "audioPrompt": "If “Guess from the first letter only.” does not work in meeting the unfamiliar word “reusable”, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “morphology”; it uses a detail that sounds familiar.",
-      "Match the definition to the exact language or literacy concept. fluency is the precise term for this feature.",
-      "Choose “decoding” instead; it sounds clearer."
+      "Guess from the first letter only.",
+      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
+      "Skip the word and continue without checking meaning."
     ],
     "correct": 1,
-    "explanation": "Match the definition to the exact language or literacy concept. fluency is the precise term for this feature.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Break the word into meaningful parts.",
     "structuredExplanation": {
-      "summary": "Match the definition to the exact language or literacy concept. fluency is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Morphology and context can work together to identify and understand a multisyllabic word. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Break the word into meaningful parts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-025",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "If “Stop for several seconds at every comma.” does not work in reading a paragraph with commas around an extra detail, what should replace it?",
+    "audioPrompt": "If “Stop for several seconds at every comma.” does not work in reading a paragraph with commas around an extra detail, what should replace it?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Stop for several seconds at every comma.",
+      "Ignore all punctuation and read in one flat rush.",
+      "Pause lightly around the extra detail but keep the sentence flowing."
+    ],
+    "correct": 2,
+    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "structuredExplanation": {
+      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-026",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for reading a paragraph with commas around an extra detail?",
+    "audioPrompt": "Which option corrects the meaning or form needed for reading a paragraph with commas around an extra detail?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Pause lightly around the extra detail but keep the sentence flowing.",
+      "Stop for several seconds at every comma.",
+      "Ignore all punctuation and read in one flat rush."
+    ],
+    "correct": 0,
+    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "structuredExplanation": {
+      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-027",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Which option corrects the meaning or form needed for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "audioPrompt": "Which option corrects the meaning or form needed for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep going even though the sentence makes no sense.",
+      "Go back, reread the phrase and correct the word using letters and context.",
+      "Change several other words to fit the mistake."
+    ],
+    "correct": 1,
+    "explanation": "Monitoring meaning helps readers notice and repair decoding errors. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "structuredExplanation": {
+      "summary": "Monitoring meaning helps readers notice and repair decoding errors. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "A self-correction should fit both the print and the sentence meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-028",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "audioPrompt": "Which choice is the clearest correction for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep going even though the sentence makes no sense.",
+      "Change several other words to fit the mistake.",
+      "Go back, reread the phrase and correct the word using letters and context."
+    ],
+    "correct": 2,
+    "explanation": "Monitoring meaning helps readers notice and repair decoding errors. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "structuredExplanation": {
+      "summary": "Monitoring meaning helps readers notice and repair decoding errors. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "A self-correction should fit both the print and the sentence meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-029",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice is the clearest correction for reading a factual paragraph about cyclones?",
+    "audioPrompt": "Which choice is the clearest correction for reading a factual paragraph about cyclones?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
+      "Say any weather word that seems possible without looking closely.",
+      "Ignore the heading and technical terms."
+    ],
+    "correct": 0,
+    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use knowledge to support, not replace, decoding.",
+    "structuredExplanation": {
+      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use knowledge to support, not replace, decoding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-030",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best fixes the problem in “Say any weather word that seems possible without looking closely.” for reading a factual paragraph about cyclones?",
+    "audioPrompt": "Which revision best fixes the problem in “Say any weather word that seems possible without looking closely.” for reading a factual paragraph about cyclones?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Say any weather word that seems possible without looking closely.",
+      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
+      "Ignore the heading and technical terms."
+    ],
+    "correct": 1,
+    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use knowledge to support, not replace, decoding.",
+    "structuredExplanation": {
+      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use knowledge to support, not replace, decoding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-031",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle reading “The hikers cautiously crossed the suspension bridge” independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle reading “The hikers cautiously crossed the suspension bridge” independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Replace cautiously with quickly because it is shorter.",
+      "Read every letter as a separate sound and ignore the sentence.",
+      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words."
+    ],
+    "correct": 2,
+    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
+    "structuredExplanation": {
+      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
+      "hint": "Check whether the words you read make sense in the sentence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-032",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to reading “The hikers cautiously crossed the suspension bridge”. Which option is best?",
+    "audioPrompt": "Apply the same idea to reading “The hikers cautiously crossed the suspension bridge”. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
+      "Replace cautiously with quickly because it is shorter.",
+      "Read every letter as a separate sound and ignore the sentence."
+    ],
+    "correct": 0,
+    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
+    "structuredExplanation": {
+      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
+      "hint": "Check whether the words you read make sense in the sentence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-033",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the same idea to meeting the unfamiliar word “reusable”. Which option is best?",
+    "audioPrompt": "Apply the same idea to meeting the unfamiliar word “reusable”. Which option is best?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Skip the word and continue without checking meaning.",
+      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
+      "Guess from the first letter only."
+    ],
+    "correct": 1,
+    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
+    "structuredExplanation": {
+      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
+      "hint": "Break the word into meaningful parts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-034",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in meeting the unfamiliar word “reusable”?",
+    "audioPrompt": "Which decision would produce the clearest result in meeting the unfamiliar word “reusable”?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Skip the word and continue without checking meaning.",
+      "Guess from the first letter only.",
+      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”."
+    ],
+    "correct": 2,
+    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
+    "structuredExplanation": {
+      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
+      "hint": "Break the word into meaningful parts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-035",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Which decision would produce the clearest result in reading a paragraph with commas around an extra detail?",
+    "audioPrompt": "Which decision would produce the clearest result in reading a paragraph with commas around an extra detail?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Pause lightly around the extra detail but keep the sentence flowing.",
+      "Ignore all punctuation and read in one flat rush.",
+      "Stop for several seconds at every comma."
+    ],
+    "correct": 0,
+    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "structuredExplanation": {
+      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
+      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-036",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in reading a paragraph with commas around an extra detail.",
+    "audioPrompt": "Choose the option that applies the skill correctly in reading a paragraph with commas around an extra detail.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Ignore all punctuation and read in one flat rush.",
+      "Pause lightly around the extra detail but keep the sentence flowing.",
+      "Stop for several seconds at every comma."
+    ],
+    "correct": 1,
+    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "structuredExplanation": {
+      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
+      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-037",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the option that applies the skill correctly in realising a sentence no longer makes sense after reading a word incorrectly.",
+    "audioPrompt": "Choose the option that applies the skill correctly in realising a sentence no longer makes sense after reading a word incorrectly.",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Change several other words to fit the mistake.",
+      "Keep going even though the sentence makes no sense.",
+      "Go back, reread the phrase and correct the word using letters and context."
+    ],
+    "correct": 2,
+    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "structuredExplanation": {
+      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
+      "hint": "A self-correction should fit both the print and the sentence meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-038",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "audioPrompt": "What would be the most effective choice for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Go back, reread the phrase and correct the word using letters and context.",
+      "Change several other words to fit the mistake.",
+      "Keep going even though the sentence makes no sense."
+    ],
+    "correct": 0,
+    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "structuredExplanation": {
+      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
+      "hint": "A self-correction should fit both the print and the sentence meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-039",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "What would be the most effective choice for reading a factual paragraph about cyclones?",
+    "audioPrompt": "What would be the most effective choice for reading a factual paragraph about cyclones?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Ignore the heading and technical terms.",
+      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
+      "Say any weather word that seems possible without looking closely."
+    ],
+    "correct": 1,
+    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
+    "structuredExplanation": {
+      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
+      "hint": "Use knowledge to support, not replace, decoding."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-040",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "Fluent Reading",
+    "printable": true,
+    "type": "single",
+    "question": "You now need to handle reading a factual paragraph about cyclones independently. Which choice should you use?",
+    "audioPrompt": "You now need to handle reading a factual paragraph about cyclones independently. Which choice should you use?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Ignore the heading and technical terms.",
+      "Say any weather word that seems possible without looking closely.",
+      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word."
+    ],
+    "correct": 2,
+    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
+    "structuredExplanation": {
+      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
+      "hint": "Use knowledge to support, not replace, decoding."
     },
     "qualitySchema": "production-v1"
   }

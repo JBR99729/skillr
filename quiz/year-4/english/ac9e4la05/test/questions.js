@@ -4,28 +4,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-001",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "new text 1 apply",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment text, Which link text is most descriptive?",
-    "audioPrompt": "In a new assessment text, Which link text is most descriptive?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 1. Notice: Identify navigation features. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: New text 1. Notice: Identify navigation features. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-001",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 1. Notice: Identify navigation features. Choose the response supported by the example."
-    },
+    "question": "New context: finding opening hours on a zoo website. Which option is correct?",
+    "audioPrompt": "New context: finding opening hours on a zoo website. Which option is correct?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "click here",
-      "View the labelled food-chain diagram",
-      "more"
+      "Click every animal photo until a time appears.",
+      "Use a link labelled More without checking its destination.",
+      "Choose the Visit menu, then the Opening hours link."
     ],
-    "correct": 1,
-    "explanation": "The evidence and language purpose support “View the labelled food-chain diagram”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "correct": 2,
+    "explanation": "A clear menu path reduces searching because each label narrows the information.\nHint: Follow labels that describe the information you are looking for.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “View the labelled food-chain diagram”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "A clear menu path reduces searching because each label narrows the information.",
+      "hint": "Follow labels that describe the information you are looking for."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +28,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-002",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "new text 1 reason",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “click here”. Which feedback helps? Task: In a new assessment text, Which link text is most descriptive?",
-    "audioPrompt": "A student answers “click here”. Which feedback helps? Task: In a new assessment text, Which link text is most descriptive?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 1. Notice: Identify navigation features. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: New text 1. Notice: Identify navigation features. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-002",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 1. Notice: Identify navigation features. Correct the student's mix-up using the full task."
-    },
+    "question": "What is the best choice for finding opening hours on a zoo website?",
+    "audioPrompt": "What is the best choice for finding opening hours on a zoo website?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “click here”; it uses a detail that sounds familiar.",
-      "Choose “more” instead; it sounds clearer.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “View the labelled food-chain diagram”."
+      "Choose the Visit menu, then the Opening hours link.",
+      "Click every animal photo until a time appears.",
+      "Use a link labelled More without checking its destination."
     ],
-    "correct": 2,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “View the labelled food-chain diagram”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "A clear menu path reduces searching because each label narrows the information.\nHint: Follow labels that describe the information you are looking for.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “View the labelled food-chain diagram”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A clear menu path reduces searching because each label narrows the information.",
+      "hint": "Follow labels that describe the information you are looking for."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +52,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-003",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "new text 2 apply",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment text, Which feature best signals the main topic of an online article?",
-    "audioPrompt": "In a new assessment text, Which feature best signals the main topic of an online article?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 2. Notice: Trace reader pathways. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: New text 2. Notice: Trace reader pathways. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-003",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 2. Notice: Trace reader pathways. Choose the response supported by the example."
-    },
+    "question": "Which explanation best supports “Choose the Visit menu, then the Opening hours link.” in finding opening hours on a zoo website?",
+    "audioPrompt": "Which explanation best supports “Choose the Visit menu, then the Opening hours link.” in finding opening hours on a zoo website?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "a clear headline",
-      "a random border",
-      "an unlabeled icon"
+      "Because “Click every animal photo until a time appears.” is always a safe choice.",
+      "A clear menu path reduces searching because each label narrows the information.",
+      "Because surface appearance matters more than meaning."
     ],
-    "correct": 0,
-    "explanation": "The evidence and language purpose support “a clear headline”.\nHint: Check the whole sentence or text feature, then test meaning and grammar.",
+    "correct": 1,
+    "explanation": "A clear menu path reduces searching because each label narrows the information.\nHint: Follow labels that describe the information you are looking for.",
     "structuredExplanation": {
-      "summary": "The evidence and language purpose support “a clear headline”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "A clear menu path reduces searching because each label narrows the information.",
+      "hint": "Follow labels that describe the information you are looking for."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +76,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-004",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "new text 2 reason",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “an unlabeled icon”. Which feedback helps? Task: In a new assessment text, Which feature best signals the main topic of an online article?",
-    "audioPrompt": "A student answers “an unlabeled icon”. Which feedback helps? Task: In a new assessment text, Which feature best signals the main topic of an online article?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 2. Notice: Trace reader pathways. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: New text 2. Notice: Trace reader pathways. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-004",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: New text 2. Notice: Trace reader pathways. Correct the student's mix-up using the full task."
-    },
+    "question": "Which clue should guide your decision in finding opening hours on a zoo website?",
+    "audioPrompt": "Which clue should guide your decision in finding opening hours on a zoo website?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “an unlabeled icon”; it uses a detail that sounds familiar.",
-      "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a clear headline”.",
-      "Choose “a random border” instead; it sounds clearer."
+      "Choose the option with the most words.",
+      "Ignore the context and use the first familiar form.",
+      "Follow labels that describe the information you are looking for."
     ],
-    "correct": 1,
-    "explanation": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a clear headline”.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 2,
+    "explanation": "A clear menu path reduces searching because each label narrows the information.\nHint: Follow labels that describe the information you are looking for.",
     "structuredExplanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “a clear headline”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A clear menu path reduces searching because each label narrows the information.",
+      "hint": "Follow labels that describe the information you are looking for."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +100,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-005",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "misconception 1 apply",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 1. Notice: Evaluate hierarchy and links. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 1. Notice: Evaluate hierarchy and links. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-005",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 1. Notice: Evaluate hierarchy and links. Choose the response supported by the example."
-    },
+    "question": "Which option would you reject first in finding opening hours on a zoo website?",
+    "audioPrompt": "Which option would you reject first in finding opening hours on a zoo website?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Navigation is only the top menu",
-      "Every image improves readability",
-      "Headings, links, search, breadcrumbs and visual hierarchy also guide movement."
+      "Click every animal photo until a time appears.",
+      "Choose the Visit menu, then the Opening hours link.",
+      "Use a link labelled More without checking its destination."
     ],
-    "correct": 2,
-    "explanation": "Headings, links, search, breadcrumbs and visual hierarchy also guide movement.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 0,
+    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. A clear menu path reduces searching because each label narrows the information.\nHint: Follow labels that describe the information you are looking for.",
     "structuredExplanation": {
-      "summary": "Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A clear menu path reduces searching because each label narrows the information.",
+      "hint": "Follow labels that describe the information you are looking for."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +124,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-006",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "misconception 1 reason",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: An editor reviewing a new text claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: An editor reviewing a new text claims, “Navigation is only the top menu”. Which response gives the most accurate correction?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 1. Notice: Evaluate hierarchy and links. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 1. Notice: Evaluate hierarchy and links. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-006",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 1. Notice: Evaluate hierarchy and links. Correct the student's mix-up using the full task."
-    },
+    "question": "Which correction should replace “Click every animal photo until a time appears.” in finding opening hours on a zoo website?",
+    "audioPrompt": "Which correction should replace “Click every animal photo until a time appears.” in finding opening hours on a zoo website?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
-      "Keep “Navigation is only the top menu”; it uses a detail that sounds familiar.",
-      "Choose “Every image improves readability” instead; it sounds clearer."
+      "Click every animal photo until a time appears.",
+      "Choose the Visit menu, then the Opening hours link.",
+      "Use a link labelled More without checking its destination."
     ],
-    "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, links, search, breadcrumbs and visual hierarchy also guide movement.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 1,
+    "explanation": "A clear menu path reduces searching because each label narrows the information.\nHint: Follow labels that describe the information you are looking for.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Headings, links, search, breadcrumbs and visual hierarchy also guide movement.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A clear menu path reduces searching because each label narrows the information.",
+      "hint": "Follow labels that describe the information you are looking for."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +148,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-007",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "misconception 2 apply",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Every image improves readability”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Every image improves readability”. Which response gives the most accurate correction?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 2. Notice: Use graphics purposefully. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 2. Notice: Use graphics purposefully. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-007",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 2. Notice: Use graphics purposefully. Choose the response supported by the example."
-    },
+    "question": "Apply the skill to finding opening hours on a zoo website: what should you choose?",
+    "audioPrompt": "Apply the skill to finding opening hours on a zoo website: what should you choose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Every image improves readability",
-      "Irrelevant graphics compete with information.",
-      "Click here is always clear"
+      "Click every animal photo until a time appears.",
+      "Use a link labelled More without checking its destination.",
+      "Choose the Visit menu, then the Opening hours link."
     ],
-    "correct": 1,
-    "explanation": "Irrelevant graphics compete with information.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 2,
+    "explanation": "A clear menu path reduces searching because each label narrows the information.\nHint: Follow labels that describe the information you are looking for.",
     "structuredExplanation": {
-      "summary": "Irrelevant graphics compete with information.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A clear menu path reduces searching because each label narrows the information.",
+      "hint": "Follow labels that describe the information you are looking for."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +172,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-008",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "misconception 2 reason",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Click here is always clear”. Which feedback helps? Task: An editor reviewing a new text claims, “Every image improves readability”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Click here is always clear”. Which feedback helps? Task: An editor reviewing a new text claims, “Every image improves readability”. Which response gives the most accurate correction?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 2. Notice: Use graphics purposefully. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 2. Notice: Use graphics purposefully. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-008",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 2. Notice: Use graphics purposefully. Correct the student's mix-up using the full task."
-    },
+    "question": "Which final choice gives the clearest and most accurate result for finding opening hours on a zoo website?",
+    "audioPrompt": "Which final choice gives the clearest and most accurate result for finding opening hours on a zoo website?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Click here is always clear”; it uses a detail that sounds familiar.",
-      "Choose “Every image improves readability” instead; it sounds clearer.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Irrelevant graphics compete with information."
+      "Choose the Visit menu, then the Opening hours link.",
+      "Click every animal photo until a time appears.",
+      "Use a link labelled More without checking its destination."
     ],
-    "correct": 2,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Irrelevant graphics compete with information.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "A clear menu path reduces searching because each label narrows the information.\nHint: Follow labels that describe the information you are looking for.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Irrelevant graphics compete with information.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A clear menu path reduces searching because each label narrows the information.",
+      "hint": "Follow labels that describe the information you are looking for."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +196,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-009",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "misconception 3 apply",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Click here is always clear”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Click here is always clear”. Which response gives the most accurate correction?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 3. Notice: Apply accessibility principles. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 3. Notice: Apply accessibility principles. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-009",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 3. Notice: Apply accessibility principles. Choose the response supported by the example."
-    },
+    "question": "New context: improving an online bushfire safety page. Which option is correct?",
+    "audioPrompt": "New context: improving an online bushfire safety page. Which option is correct?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Descriptive link text identifies destination and supports accessibility.",
-      "Click here is always clear",
-      "Desktop order automatically works on mobile"
+      "Use pale text on a busy photo background.",
+      "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.",
+      "Hide current alerts behind an unlabeled icon."
     ],
-    "correct": 0,
-    "explanation": "Descriptive link text identifies destination and supports accessibility.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 1,
+    "explanation": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.\nHint: Prioritise the information readers may need first.",
     "structuredExplanation": {
-      "summary": "Descriptive link text identifies destination and supports accessibility.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
+      "hint": "Prioritise the information readers may need first."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +220,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-010",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "misconception 3 reason",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Click here is always clear”. Which feedback helps? Task: An editor reviewing a new text claims, “Click here is always clear”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Click here is always clear”. Which feedback helps? Task: An editor reviewing a new text claims, “Click here is always clear”. Which response gives the most accurate correction?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 3. Notice: Apply accessibility principles. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 3. Notice: Apply accessibility principles. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-010",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 3. Notice: Apply accessibility principles. Correct the student's mix-up using the full task."
-    },
+    "question": "What is the best choice for improving an online bushfire safety page?",
+    "audioPrompt": "What is the best choice for improving an online bushfire safety page?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Click here is always clear”; it uses a detail that sounds familiar.",
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Descriptive link text identifies destination and supports accessibility.",
-      "Choose “Desktop order automatically works on mobile” instead; it sounds clearer."
+      "Use pale text on a busy photo background.",
+      "Hide current alerts behind an unlabeled icon.",
+      "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts."
     ],
-    "correct": 1,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Descriptive link text identifies destination and supports accessibility.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 2,
+    "explanation": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.\nHint: Prioritise the information readers may need first.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Descriptive link text identifies destination and supports accessibility.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
+      "hint": "Prioritise the information readers may need first."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +244,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-011",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "misconception 4 apply",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "An editor reviewing a new text claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
-    "audioPrompt": "An editor reviewing a new text claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 4. Notice: Identify navigation features. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 4. Notice: Identify navigation features. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-011",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 4. Notice: Identify navigation features. Choose the response supported by the example."
-    },
+    "question": "Which explanation best supports “Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.” in improving an online bushfire safety page?",
+    "audioPrompt": "Which explanation best supports “Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.” in improving an online bushfire safety page?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Desktop order automatically works on mobile",
-      "Navigation is only the top menu",
-      "Responsive layouts need a logical reading and focus order."
+      "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
+      "Because “Use pale text on a busy photo background.” is always a safe choice.",
+      "Because surface appearance matters more than meaning."
     ],
-    "correct": 2,
-    "explanation": "Responsive layouts need a logical reading and focus order.\nHint: Identify exactly what the claim overlooks, then choose the correction that restores meaning.",
+    "correct": 0,
+    "explanation": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.\nHint: Prioritise the information readers may need first.",
     "structuredExplanation": {
-      "summary": "Responsive layouts need a logical reading and focus order.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
+      "hint": "Prioritise the information readers may need first."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +268,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-012",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "misconception 4 reason",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: An editor reviewing a new text claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
-    "audioPrompt": "A student answers “Navigation is only the top menu”. Which feedback helps? Task: An editor reviewing a new text claims, “Desktop order automatically works on mobile”. Which response gives the most accurate correction?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 4. Notice: Identify navigation features. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 4. Notice: Identify navigation features. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-012",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Misconception 4. Notice: Identify navigation features. Correct the student's mix-up using the full task."
-    },
+    "question": "Which clue should guide your decision in improving an online bushfire safety page?",
+    "audioPrompt": "Which clue should guide your decision in improving an online bushfire safety page?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responsive layouts need a logical reading and focus order.",
-      "Keep “Navigation is only the top menu”; it uses a detail that sounds familiar.",
-      "Choose “Desktop order automatically works on mobile” instead; it sounds clearer."
+      "Choose the option with the most words.",
+      "Prioritise the information readers may need first.",
+      "Ignore the context and use the first familiar form."
     ],
-    "correct": 0,
-    "explanation": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responsive layouts need a logical reading and focus order.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 1,
+    "explanation": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.\nHint: Prioritise the information readers may need first.",
     "structuredExplanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Responsive layouts need a logical reading and focus order.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
+      "hint": "Prioritise the information readers may need first."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +292,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-013",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "page pathway trace apply",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "A different class adapts “Page pathway trace”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A different class adapts “Page pathway trace”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Page pathway trace. Notice: Trace reader pathways. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Page pathway trace. Notice: Trace reader pathways. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-013",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Page pathway trace. Notice: Trace reader pathways. Choose the response supported by the example."
-    },
+    "question": "Which option would you reject first in improving an online bushfire safety page?",
+    "audioPrompt": "Which option would you reject first in improving an online bushfire safety page?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Choose a question and record every menu, heading, link and visual used to find the answer.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.",
+      "Hide current alerts behind an unlabeled icon.",
+      "Use pale text on a busy photo background."
     ],
-    "correct": 1,
-    "explanation": "Choose a question and record every menu, heading, link and visual used to find the answer.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "correct": 2,
+    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. Strong visual hierarchy and descriptive links help readers find urgent information quickly.\nHint: Prioritise the information readers may need first.",
     "structuredExplanation": {
-      "summary": "Choose a question and record every menu, heading, link and visual used to find the answer.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
+      "hint": "Prioritise the information readers may need first."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +316,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-014",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "page pathway trace reason",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Page pathway trace”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Page pathway trace”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Page pathway trace. Notice: Trace reader pathways. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Page pathway trace. Notice: Trace reader pathways. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-014",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Page pathway trace. Notice: Trace reader pathways. Correct the student's mix-up using the full task."
-    },
+    "question": "Which correction should replace “Use pale text on a busy photo background.” in improving an online bushfire safety page?",
+    "audioPrompt": "Which correction should replace “Use pale text on a busy photo background.” in improving an online bushfire safety page?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Choose a question and record every menu, heading, link and visual used to find the answer."
+      "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.",
+      "Use pale text on a busy photo background.",
+      "Hide current alerts behind an unlabeled icon."
     ],
-    "correct": 2,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Choose a question and record every menu, heading, link and visual used to find the answer.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 0,
+    "explanation": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.\nHint: Prioritise the information readers may need first.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Choose a question and record every menu, heading, link and visual used to find the answer.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
+      "hint": "Prioritise the information readers may need first."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +340,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-015",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "link text repair apply",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "A different class adapts “Link-text repair”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A different class adapts “Link-text repair”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Link-text repair. Notice: Evaluate hierarchy and links. Choose the response supported by the example.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Link-text repair. Notice: Evaluate hierarchy and links. Choose the response supported by the example.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-015",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Link-text repair. Notice: Evaluate hierarchy and links. Choose the response supported by the example."
-    },
+    "question": "Apply the skill to improving an online bushfire safety page: what should you choose?",
+    "audioPrompt": "Apply the skill to improving an online bushfire safety page: what should you choose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Replace vague links with descriptive phrases and check whether they make sense out of context.",
-      "Copy the title, then choose an answer without analysing the language or text.",
-      "Change the purpose and audience halfway through, then report the first impression only."
+      "Use pale text on a busy photo background.",
+      "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.",
+      "Hide current alerts behind an unlabeled icon."
     ],
-    "correct": 0,
-    "explanation": "Replace vague links with descriptive phrases and check whether they make sense out of context.\nHint: Choose the plan that analyses language evidence and produces a reviewable response.",
+    "correct": 1,
+    "explanation": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.\nHint: Prioritise the information readers may need first.",
     "structuredExplanation": {
-      "summary": "Replace vague links with descriptive phrases and check whether they make sense out of context.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
+      "hint": "Prioritise the information readers may need first."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +364,23 @@ window.skillrTestQuestions = [
     "id": "ac9e4la05-t-016",
     "curriculumCode": "AC9E4LA05",
     "bank": "test",
-    "skill": "link text repair reason",
+    "skill": "Navigation and Readability in Online Texts",
     "printable": true,
     "type": "single",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Link-text repair”. Which plan best demonstrates the English skill?",
-    "audioPrompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Link-text repair”. Which plan best demonstrates the English skill?",
-    "visual": "Three-step Navigation and Readability in Online Texts organiser. Read: Link-text repair. Notice: Evaluate hierarchy and links. Correct the student's mix-up using the full task.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Three-step Navigation and Readability in Online Texts organiser. Read: Link-text repair. Notice: Evaluate hierarchy and links. Correct the student's mix-up using the full task.\"><use href=\"/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la05.svg#ac9e4la05-t-016",
-      "alt_text": "Three-step Navigation and Readability in Online Texts organiser. Read: Link-text repair. Notice: Evaluate hierarchy and links. Correct the student's mix-up using the full task."
-    },
+    "question": "Which final choice gives the clearest and most accurate result for improving an online bushfire safety page?",
+    "audioPrompt": "Which final choice gives the clearest and most accurate result for improving an online bushfire safety page?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Choose the plan that analyses language evidence and produces a reviewable response. Replace vague links with descriptive phrases and check whether they make sense out of context.",
-      "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer."
+      "Use pale text on a busy photo background.",
+      "Hide current alerts behind an unlabeled icon.",
+      "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts."
     ],
-    "correct": 1,
-    "explanation": "Choose the plan that analyses language evidence and produces a reviewable response. Replace vague links with descriptive phrases and check whether they make sense out of context.\nHint: Check the whole example and decide which feedback addresses the exact mix-up.",
+    "correct": 2,
+    "explanation": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.\nHint: Prioritise the information readers may need first.",
     "structuredExplanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Replace vague links with descriptive phrases and check whether they make sense out of context.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
+      "hint": "Prioritise the information readers may need first."
     },
     "qualitySchema": "production-v1"
   }

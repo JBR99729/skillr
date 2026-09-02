@@ -5,41 +5,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "worked_text_1_apply",
-    "question": "Read the classroom example. Which sentence expresses a general present pattern?",
-    "audio_prompt": "Read the classroom example. Which sentence expresses a general present pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-001",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Worked text 1. Notice: Recognise tense forms. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "In recounting yesterday’s excursion, which option best demonstrates the skill?",
+    "audio_prompt": "In recounting yesterday’s excursion, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "The river rose last night.",
+        "text": "We visit the aquarium yesterday and watch the penguins.",
         "is_correct": false
       },
       {
-        "text": "The river will rise tomorrow.",
+        "text": "We will visit the aquarium yesterday.",
         "is_correct": false
       },
       {
-        "text": "The river rises after heavy rain.",
+        "text": "We visited the aquarium and watched the penguins.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: The river rose last night.",
-      "Capital words: The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: The river will rise tomorrow.",
-      "Capital words: The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: The river rises after heavy rain."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The evidence and language purpose support “The river rises after heavy rain.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Past-tense verbs match an event that already happened.",
+      "hint": "Use the time clue to decide which verb form fits."
+    }
   },
   {
     "id": "AC9E4LA09-P-002",
@@ -47,41 +35,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "worked_text_1_reason",
-    "question": "A student answers “The river rose last night.”. Which feedback helps? Task: Read the classroom example. Which sentence expresses a general present pattern?",
-    "audio_prompt": "A student answers “The river rose last night.”. Which feedback helps? Task: Read the classroom example. Which sentence expresses a general present pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-002",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Worked text 1. Notice: Recognise tense forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which choice fits recounting yesterday’s excursion most accurately?",
+    "audio_prompt": "Which choice fits recounting yesterday’s excursion most accurately?",
     "answers": [
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The river rises after heavy rain.”.",
+        "text": "We visited the aquarium and watched the penguins.",
         "is_correct": true
       },
       {
-        "text": "Keep “The river rose last night.”; it uses a detail that sounds familiar.",
+        "text": "We visit the aquarium yesterday and watch the penguins.",
         "is_correct": false
       },
       {
-        "text": "Choose “The river will rise tomorrow.” instead; it sounds clearer.",
+        "text": "We will visit the aquarium yesterday.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Check, The, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The river rises after heavy rain.”.",
-      "Capital words: Keep, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “The river rose last night.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “The river will rise tomorrow.” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The river rises after heavy rain.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Past-tense verbs match an event that already happened.",
+      "hint": "Use the time clue to decide which verb form fits."
+    }
   },
   {
     "id": "AC9E4LA09-P-003",
@@ -89,41 +65,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "worked_text_2_apply",
-    "question": "Read the classroom example. Which sentence contains an accidental tense shift?",
-    "audio_prompt": "Read the classroom example. Which sentence contains an accidental tense shift?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-003",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Worked text 2. Notice: Maintain consistency. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which choice fits stating a general fact about water most accurately?",
+    "audio_prompt": "Which choice fits stating a general fact about water most accurately?",
     "answers": [
       {
-        "text": "We entered, measured and recorded.",
+        "text": "Water froze at 0°C every time in general.",
         "is_correct": false
       },
       {
-        "text": "We entered the room, measure the table and recorded the result.",
+        "text": "Water freezes at 0°C under standard conditions.",
         "is_correct": true
       },
       {
-        "text": "Yesterday we measured; today we compare.",
+        "text": "Water will freezing at 0°C.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: We. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: entered. The text ends with a full stop. The text reads: We entered, measured and recorded.",
-      "Capital words: We. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: room. The text ends with a full stop. The text reads: We entered the room, measure the table and recorded the result.",
-      "Capital words: Yesterday. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Yesterday we measured; today we compare."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The evidence and language purpose support “We entered the room, measure the table and recorded the result.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Simple present is commonly used for general truths.",
+      "hint": "Present tense can describe facts, not only what is happening this second."
+    }
   },
   {
     "id": "AC9E4LA09-P-004",
@@ -131,40 +95,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "worked_text_2_reason",
-    "question": "A student answers “Yesterday we measured; today we compare.”. Which feedback helps? Task: Read the classroom example. Which sentence contains an accidental tense shift?",
-    "audio_prompt": "A student answers “Yesterday we measured; today we compare.”. Which feedback helps? Task: Read the classroom example. Which sentence contains an accidental tense shift?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-004",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Worked text 2. Notice: Maintain consistency. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Look closely at stating a general fact about water. Which response or wording works best?",
+    "audio_prompt": "Look closely at stating a general fact about water. Which response or wording works best?",
     "answers": [
       {
-        "text": "Keep “Yesterday we measured; today we compare.”; it uses a detail that sounds familiar.",
+        "text": "Water froze at 0°C every time in general.",
         "is_correct": false
       },
       {
-        "text": "Choose “We entered, measured and recorded.” instead; it sounds clearer.",
+        "text": "Water will freezing at 0°C.",
         "is_correct": false
       },
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “We entered the room, measure the table and recorded the result.”.",
+        "text": "Water freezes at 0°C under standard conditions.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Yesterday. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Yesterday we measured; today we compare.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, We. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: entered. The text ends with a full stop. The text reads: Choose “We entered, measured and recorded.” instead; it sounds clearer.",
-      "Capital words: Check, The, We. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature, room. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “We entered the room, measure the table and recorded the result.”."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “We entered the room, measure the table and recorded the result.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Simple present is commonly used for general truths.",
+      "hint": "Present tense can describe facts, not only what is happening this second."
+    }
   },
   {
     "id": "AC9E4LA09-P-005",
@@ -172,41 +125,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "misconception_1_apply",
-    "question": "A student in a workshop claims, “Every verb in a text must use one tense”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Every verb in a text must use one tense”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-005",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 1. Notice: Use deliberate shifts. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Look closely at describing a plan for next week. Which response or wording works best?",
+    "audio_prompt": "Look closely at describing a plan for next week. Which response or wording works best?",
     "answers": [
       {
-        "text": "Tense can shift when the time frame changes clearly.",
+        "text": "Our class will visit the botanic gardens next Thursday.",
         "is_correct": true
       },
       {
-        "text": "Every verb in a text must use one tense",
+        "text": "Our class visited the gardens next Thursday.",
         "is_correct": false
       },
       {
-        "text": "Future tense is only will",
+        "text": "Our class visiting next Thursday without a finite verb.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Tense. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Tense can shift when the time frame changes clearly.",
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every verb in a text must use one tense",
-      "Capital words: Future. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Future tense is only will"
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Tense can shift when the time frame changes clearly.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Will visit places the event in the future and matches next Thursday.",
+      "hint": "Match the verb form to the stated time."
+    }
   },
   {
     "id": "AC9E4LA09-P-006",
@@ -214,40 +155,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Every verb in a text must use one tense”. Which feedback helps? Task: A student in a workshop claims, “Every verb in a text must use one tense”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Every verb in a text must use one tense”. Which feedback helps? Task: A student in a workshop claims, “Every verb in a text must use one tense”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-006",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 1. Notice: Use deliberate shifts. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "For describing a plan for next week, which option is the strongest match?",
+    "audio_prompt": "For describing a plan for next week, which option is the strongest match?",
     "answers": [
       {
-        "text": "Keep “Every verb in a text must use one tense”; it uses a detail that sounds familiar.",
+        "text": "Our class visited the gardens next Thursday.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Tense can shift when the time frame changes clearly.",
+        "text": "Our class will visit the botanic gardens next Thursday.",
         "is_correct": true
       },
       {
-        "text": "Choose “Future tense is only will” instead; it sounds clearer.",
+        "text": "Our class visiting next Thursday without a finite verb.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Every verb in a text must use one tense”; it uses a detail that sounds familiar.",
-      "Capital words: Identify, Tense. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Tense can shift when the time frame changes clearly.",
-      "Capital words: Choose, Future. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Future tense is only will” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Tense can shift when the time frame changes clearly.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Will visit places the event in the future and matches next Thursday.",
+      "hint": "Match the verb form to the stated time."
+    }
   },
   {
     "id": "AC9E4LA09-P-007",
@@ -255,41 +185,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "misconception_2_apply",
-    "question": "A student in a workshop claims, “Future tense is only will”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Future tense is only will”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-007",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 2. Notice: Express general/predicted meaning. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "For writing about a regular Saturday activity, which option is the strongest match?",
+    "audio_prompt": "For writing about a regular Saturday activity, which option is the strongest match?",
     "answers": [
       {
-        "text": "Future tense is only will",
+        "text": "I played cricket every Saturday if the routine is still current.",
         "is_correct": false
       },
       {
-        "text": "Present tense means this exact moment",
+        "text": "I will played cricket every Saturday.",
         "is_correct": false
       },
       {
-        "text": "English expresses future time through several constructions and context.",
+        "text": "I play cricket at the oval every Saturday.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Future. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Future tense is only will",
-      "Capital words: Present. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Present tense means this exact moment",
-      "Capital words: English. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: English expresses future time through several constructions and context."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "English expresses future time through several constructions and context.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Simple present can describe a repeated habit.",
+      "hint": "Words such as every Saturday often signal a routine."
+    }
   },
   {
     "id": "AC9E4LA09-P-008",
@@ -297,41 +215,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Present tense means this exact moment”. Which feedback helps? Task: A student in a workshop claims, “Future tense is only will”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Present tense means this exact moment”. Which feedback helps? Task: A student in a workshop claims, “Future tense is only will”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-008",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 2. Notice: Express general/predicted meaning. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which example should you choose for writing about a regular Saturday activity?",
+    "audio_prompt": "Which example should you choose for writing about a regular Saturday activity?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. English expresses future time through several constructions and context.",
+        "text": "I play cricket at the oval every Saturday.",
         "is_correct": true
       },
       {
-        "text": "Keep “Present tense means this exact moment”; it uses a detail that sounds familiar.",
+        "text": "I played cricket every Saturday if the routine is still current.",
         "is_correct": false
       },
       {
-        "text": "Choose “Future tense is only will” instead; it sounds clearer.",
+        "text": "I will played cricket every Saturday.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Identify, English. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. English expresses future time through several constructions and context.",
-      "Capital words: Keep, Present. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Present tense means this exact moment”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Future. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Future tense is only will” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. English expresses future time through several constructions and context.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Simple present can describe a repeated habit.",
+      "hint": "Words such as every Saturday often signal a routine."
+    }
   },
   {
     "id": "AC9E4LA09-P-009",
@@ -339,41 +245,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "misconception_3_apply",
-    "question": "A student in a workshop claims, “Present tense means this exact moment”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Present tense means this exact moment”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-009",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 3. Notice: Explain tense effects. Choose the response supported by the example."
-    },
+    "stage": "recognise",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which example should you choose for correcting an irregular past-tense verb?",
+    "audio_prompt": "Which example should you choose for correcting an irregular past-tense verb?",
     "answers": [
       {
-        "text": "Present tense means this exact moment",
+        "text": "Last night, we seed a meteor.",
         "is_correct": false
       },
       {
-        "text": "It can also express habits, general truths and narratives.",
+        "text": "Last night, we saw a meteor.",
         "is_correct": true
       },
       {
-        "text": "Irregular past forms forced into -ed",
+        "text": "Last night, we see a meteor.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Present. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Present tense means this exact moment",
-      "Capital words: It. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: habits. The text ends with a full stop. The text reads: It can also express habits, general truths and narratives.",
-      "Capital words: Irregular. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Irregular past forms forced into -ed"
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It can also express habits, general truths and narratives.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Saw is the correct irregular past form of see.",
+      "hint": "Not every past-tense verb ends in -ed."
+    }
   },
   {
     "id": "AC9E4LA09-P-010",
@@ -381,41 +275,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Present tense means this exact moment”. Which feedback helps? Task: A student in a workshop claims, “Present tense means this exact moment”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Present tense means this exact moment”. Which feedback helps? Task: A student in a workshop claims, “Present tense means this exact moment”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-010",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 3. Notice: Explain tense effects. Correct the student's mix-up using the full task."
-    },
+    "stage": "recognise",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "In correcting an irregular past-tense verb, which option best demonstrates the skill?",
+    "audio_prompt": "In correcting an irregular past-tense verb, which option best demonstrates the skill?",
     "answers": [
       {
-        "text": "Keep “Present tense means this exact moment”; it uses a detail that sounds familiar.",
+        "text": "Last night, we seed a meteor.",
         "is_correct": false
       },
       {
-        "text": "Choose “Irregular past forms forced into -ed” instead; it sounds clearer.",
+        "text": "Last night, we see a meteor.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can also express habits, general truths and narratives.",
+        "text": "Last night, we saw a meteor.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Present. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Present tense means this exact moment”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Irregular. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Irregular past forms forced into -ed” instead; it sounds clearer.",
-      "Capital words: Identify, It. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, habits. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can also express habits, general truths and narratives."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can also express habits, general truths and narratives.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Saw is the correct irregular past form of see.",
+      "hint": "Not every past-tense verb ends in -ed."
+    }
   },
   {
     "id": "AC9E4LA09-P-011",
@@ -423,40 +305,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "misconception_4_apply",
-    "question": "A student in a workshop claims, “Irregular past forms forced into -ed”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student in a workshop claims, “Irregular past forms forced into -ed”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-011",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 4. Notice: Recognise tense forms. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Why does “We visited the aquarium and watched the penguins.” work well for recounting yesterday’s excursion?",
+    "audio_prompt": "Why does “We visited the aquarium and watched the penguins.” work well for recounting yesterday’s excursion?",
     "answers": [
       {
-        "text": "Use forms such as went, saw and wrote correctly.",
+        "text": "Past-tense verbs match an event that already happened.",
         "is_correct": true
       },
       {
-        "text": "Irregular past forms forced into -ed",
+        "text": "Because “We visit the aquarium yesterday and watch the penguins.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Every verb in a text must use one tense",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Use. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: went. The text ends with a full stop. The text reads: Use forms such as went, saw and wrote correctly.",
-      "Capital words: Irregular. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Irregular past forms forced into -ed",
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every verb in a text must use one tense"
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use forms such as went, saw and wrote correctly.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Past-tense verbs match an event that already happened.",
+      "hint": "Use the time clue to decide which verb form fits."
+    }
   },
   {
     "id": "AC9E4LA09-P-012",
@@ -464,40 +335,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Every verb in a text must use one tense”. Which feedback helps? Task: A student in a workshop claims, “Irregular past forms forced into -ed”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Every verb in a text must use one tense”. Which feedback helps? Task: A student in a workshop claims, “Irregular past forms forced into -ed”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-012",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 4. Notice: Recognise tense forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "What makes “We visited the aquarium and watched the penguins.” a better choice in recounting yesterday’s excursion?",
+    "audio_prompt": "What makes “We visited the aquarium and watched the penguins.” a better choice in recounting yesterday’s excursion?",
     "answers": [
       {
-        "text": "Keep “Every verb in a text must use one tense”; it uses a detail that sounds familiar.",
+        "text": "Because “We visit the aquarium yesterday and watch the penguins.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use forms such as went, saw and wrote correctly.",
+        "text": "Past-tense verbs match an event that already happened.",
         "is_correct": true
       },
       {
-        "text": "Choose “Irregular past forms forced into -ed” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Every verb in a text must use one tense”; it uses a detail that sounds familiar.",
-      "Capital words: Identify, Use. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, went. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use forms such as went, saw and wrote correctly.",
-      "Capital words: Choose, Irregular. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Irregular past forms forced into -ed” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use forms such as went, saw and wrote correctly.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Past-tense verbs match an event that already happened.",
+      "hint": "Use the time clue to decide which verb form fits."
+    }
   },
   {
     "id": "AC9E4LA09-P-013",
@@ -505,40 +365,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "timeline_annotate_apply",
-    "question": "The class prepares “Timeline annotate”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Timeline annotate”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-013",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Timeline annotate. Notice: Maintain consistency. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "What makes “Water freezes at 0°C under standard conditions.” a better choice in stating a general fact about water?",
+    "audio_prompt": "What makes “Water freezes at 0°C under standard conditions.” a better choice in stating a general fact about water?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “Water froze at 0°C every time in general.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Place verbs on a timeline and explain general present versus present action.",
+        "text": "Simple present is commonly used for general truths.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only.",
-      "Capital words: Place. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Place verbs on a timeline and explain general present versus present action."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Place verbs on a timeline and explain general present versus present action.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Simple present is commonly used for general truths.",
+      "hint": "Present tense can describe facts, not only what is happening this second."
+    }
   },
   {
     "id": "AC9E4LA09-P-014",
@@ -546,40 +395,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "timeline_annotate_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Timeline annotate”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Timeline annotate”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-014",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Timeline annotate. Notice: Maintain consistency. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which explanation best justifies “Water freezes at 0°C under standard conditions.” for stating a general fact about water?",
+    "audio_prompt": "Which explanation best justifies “Water freezes at 0°C under standard conditions.” for stating a general fact about water?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Place verbs on a timeline and explain general present versus present action.",
+        "text": "Simple present is commonly used for general truths.",
         "is_correct": true
       },
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “Water froze at 0°C every time in general.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Choose, Place. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Place verbs on a timeline and explain general present versus present action.",
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Place verbs on a timeline and explain general present versus present action.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Simple present is commonly used for general truths.",
+      "hint": "Present tense can describe facts, not only what is happening this second."
+    }
   },
   {
     "id": "AC9E4LA09-P-015",
@@ -587,40 +425,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "tense_consistency_edit_apply",
-    "question": "The class prepares “Tense consistency edit”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Tense consistency edit”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-015",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Tense consistency edit. Notice: Use deliberate shifts. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which explanation best justifies “Our class will visit the botanic gardens next Thursday.” for describing a plan for next week?",
+    "audio_prompt": "Which explanation best justifies “Our class will visit the botanic gardens next Thursday.” for describing a plan for next week?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “Our class visited the gardens next Thursday.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes.",
+        "text": "Will visit places the event in the future and matches next Thursday.",
         "is_correct": true
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Repair. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: recounts. The text ends with a full stop. The text reads: Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Will visit places the event in the future and matches next Thursday.",
+      "hint": "Match the verb form to the stated time."
+    }
   },
   {
     "id": "AC9E4LA09-P-016",
@@ -628,40 +455,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "tense_consistency_edit_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Tense consistency edit”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: The class prepares “Tense consistency edit”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-016",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Tense consistency edit. Notice: Use deliberate shifts. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "What should you notice about “Our class will visit the botanic gardens next Thursday.” in describing a plan for next week?",
+    "audio_prompt": "What should you notice about “Our class will visit the botanic gardens next Thursday.” in describing a plan for next week?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
+        "text": "Because “Our class visited the gardens next Thursday.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes.",
+        "text": "Will visit places the event in the future and matches next Thursday.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Capital words: Choose, Repair. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: recounts. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Will visit places the event in the future and matches next Thursday.",
+      "hint": "Match the verb form to the stated time."
+    }
   },
   {
     "id": "AC9E4LA09-P-017",
@@ -669,40 +485,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "meaning_comparison_apply",
-    "question": "The class prepares “Meaning comparison”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "The class prepares “Meaning comparison”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-017",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Meaning comparison. Notice: Express general/predicted meaning. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "What should you notice about “I play cricket at the oval every Saturday.” in writing about a regular Saturday activity?",
+    "audio_prompt": "What should you notice about “I play cricket at the oval every Saturday.” in writing about a regular Saturday activity?",
     "answers": [
       {
-        "text": "Change tense in a sentence and discuss how certainty, immediacy or sequence changes.",
+        "text": "Simple present can describe a repeated habit.",
         "is_correct": true
       },
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "Because “I played cricket every Saturday if the routine is still current.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: certainty. The text ends with a full stop. The text reads: Change tense in a sentence and discuss how certainty, immediacy or sequence changes.",
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Change tense in a sentence and discuss how certainty, immediacy or sequence changes.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Simple present can describe a repeated habit.",
+      "hint": "Words such as every Saturday often signal a routine."
+    }
   },
   {
     "id": "AC9E4LA09-P-018",
@@ -710,40 +515,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "meaning_comparison_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Meaning comparison”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: The class prepares “Meaning comparison”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-018",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Meaning comparison. Notice: Express general/predicted meaning. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which reason explains why “I play cricket at the oval every Saturday.” suits writing about a regular Saturday activity?",
+    "audio_prompt": "Which reason explains why “I play cricket at the oval every Saturday.” suits writing about a regular Saturday activity?",
     "answers": [
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
+        "text": "Because “I played cricket every Saturday if the routine is still current.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Change tense in a sentence and discuss how certainty, immediacy or sequence changes.",
+        "text": "Simple present can describe a repeated habit.",
         "is_correct": true
       },
       {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: certainty. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Change tense in a sentence and discuss how certainty, immediacy or sequence changes.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Change tense in a sentence and discuss how certainty, immediacy or sequence changes.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Simple present can describe a repeated habit.",
+      "hint": "Words such as every Saturday often signal a routine."
+    }
   },
   {
     "id": "AC9E4LA09-P-019",
@@ -751,40 +545,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "vocabulary_1_apply",
-    "question": "A class annotation about Tense and Its Impact on Meaning describes “grammar system locating processes in time”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Tense and Its Impact on Meaning describes “grammar system locating processes in time”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-019",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Vocabulary 1. Notice: Explain tense effects. Choose the response supported by the example."
-    },
+    "stage": "explain",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which reason explains why “Last night, we saw a meteor.” suits correcting an irregular past-tense verb?",
+    "audio_prompt": "Which reason explains why “Last night, we saw a meteor.” suits correcting an irregular past-tense verb?",
     "answers": [
       {
-        "text": "past tense",
+        "text": "Because “Last night, we seed a meteor.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "present tense",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       },
       {
-        "text": "tense",
+        "text": "Saw is the correct irregular past form of see.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: past tense",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: present tense",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: tense"
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "tense is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Saw is the correct irregular past form of see.",
+      "hint": "Not every past-tense verb ends in -ed."
+    }
   },
   {
     "id": "AC9E4LA09-P-020",
@@ -792,40 +575,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "vocabulary_1_reason",
-    "question": "A student answers “present tense”. Which feedback helps? Task: A class annotation about Tense and Its Impact on Meaning describes “grammar system locating processes in time”. Which term is most precise?",
-    "audio_prompt": "A student answers “present tense”. Which feedback helps? Task: A class annotation about Tense and Its Impact on Meaning describes “grammar system locating processes in time”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-020",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Vocabulary 1. Notice: Explain tense effects. Correct the student's mix-up using the full task."
-    },
+    "stage": "explain",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Why does “Last night, we saw a meteor.” work well for correcting an irregular past-tense verb?",
+    "audio_prompt": "Why does “Last night, we saw a meteor.” work well for correcting an irregular past-tense verb?",
     "answers": [
       {
-        "text": "Match the definition to the exact language or literacy concept. tense is the precise term for this feature.",
+        "text": "Saw is the correct irregular past form of see.",
         "is_correct": true
       },
       {
-        "text": "Keep “present tense”; it uses a detail that sounds familiar.",
+        "text": "Because “Last night, we seed a meteor.” is always acceptable in this situation.",
         "is_correct": false
       },
       {
-        "text": "Choose “past tense” instead; it sounds clearer.",
+        "text": "Because the longest or most complicated option must be correct.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. tense is the precise term for this feature.",
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “present tense”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “past tense” instead; it sounds clearer."
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. tense is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Saw is the correct irregular past form of see.",
+      "hint": "Not every past-tense verb ends in -ed."
+    }
   },
   {
     "id": "AC9E4LA09-P-021",
@@ -833,40 +605,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "vocabulary_2_apply",
-    "question": "A class annotation about Tense and Its Impact on Meaning describes “locates a process before the reference time”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Tense and Its Impact on Meaning describes “locates a process before the reference time”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-021",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Vocabulary 2. Notice: Recognise tense forms. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which revision best fixes the problem in “We visit the aquarium yesterday and watch the penguins.” for recounting yesterday’s excursion?",
+    "audio_prompt": "Which revision best fixes the problem in “We visit the aquarium yesterday and watch the penguins.” for recounting yesterday’s excursion?",
     "answers": [
       {
-        "text": "tense",
+        "text": "We visit the aquarium yesterday and watch the penguins.",
         "is_correct": false
       },
       {
-        "text": "past tense",
+        "text": "We visited the aquarium and watched the penguins.",
         "is_correct": true
       },
       {
-        "text": "present tense",
+        "text": "We will visit the aquarium yesterday.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: tense",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: past tense",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: present tense"
-    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "past tense is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Past-tense verbs match an event that already happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use the time clue to decide which verb form fits."
+    }
   },
   {
     "id": "AC9E4LA09-P-022",
@@ -874,40 +635,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "vocabulary_2_reason",
-    "question": "A student answers “tense”. Which feedback helps? Task: A class annotation about Tense and Its Impact on Meaning describes “locates a process before the reference time”. Which term is most precise?",
-    "audio_prompt": "A student answers “tense”. Which feedback helps? Task: A class annotation about Tense and Its Impact on Meaning describes “locates a process before the reference time”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-022",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Vocabulary 2. Notice: Recognise tense forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Compare the choices for recounting yesterday’s excursion. Which one avoids the mistake in “We visit the aquarium yesterday and watch the penguins.”?",
+    "audio_prompt": "Compare the choices for recounting yesterday’s excursion. Which one avoids the mistake in “We visit the aquarium yesterday and watch the penguins.”?",
     "answers": [
       {
-        "text": "Keep “tense”; it uses a detail that sounds familiar.",
+        "text": "We visit the aquarium yesterday and watch the penguins.",
         "is_correct": false
       },
       {
-        "text": "Choose “present tense” instead; it sounds clearer.",
+        "text": "We will visit the aquarium yesterday.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. past tense is the precise term for this feature.",
+        "text": "We visited the aquarium and watched the penguins.",
         "is_correct": true
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “tense”; it uses a detail that sounds familiar.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “present tense” instead; it sounds clearer.",
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. past tense is the precise term for this feature."
-    ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. past tense is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Past-tense verbs match an event that already happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use the time clue to decide which verb form fits."
+    }
   },
   {
     "id": "AC9E4LA09-P-023",
@@ -915,40 +665,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "vocabulary_3_apply",
-    "question": "A class annotation about Tense and Its Impact on Meaning describes “locates a process now or presents it as general”. Which term is most precise?",
-    "audio_prompt": "A class annotation about Tense and Its Impact on Meaning describes “locates a process now or presents it as general”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-023",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Vocabulary 3. Notice: Maintain consistency. Choose the response supported by the example."
-    },
+    "stage": "discriminate",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Compare the choices for stating a general fact about water. Which one avoids the mistake in “Water froze at 0°C every time in general.”?",
+    "audio_prompt": "Compare the choices for stating a general fact about water. Which one avoids the mistake in “Water froze at 0°C every time in general.”?",
     "answers": [
       {
-        "text": "present tense",
+        "text": "Water freezes at 0°C under standard conditions.",
         "is_correct": true
       },
       {
-        "text": "tense",
+        "text": "Water froze at 0°C every time in general.",
         "is_correct": false
       },
       {
-        "text": "past tense",
+        "text": "Water will freezing at 0°C.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: present tense",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: tense",
-      "There are no capital words. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: past tense"
-    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "present tense is the precise term for this feature.",
-      "hint": "Match the definition to the exact language or literacy concept."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Simple present is commonly used for general truths. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Present tense can describe facts, not only what is happening this second."
+    }
   },
   {
     "id": "AC9E4LA09-P-024",
@@ -956,40 +695,509 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "skill": "vocabulary_3_reason",
-    "question": "A student answers “past tense”. Which feedback helps? Task: A class annotation about Tense and Its Impact on Meaning describes “locates a process now or presents it as general”. Which term is most precise?",
-    "audio_prompt": "A student answers “past tense”. Which feedback helps? Task: A class annotation about Tense and Its Impact on Meaning describes “locates a process now or presents it as general”. Which term is most precise?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-p-024",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Vocabulary 3. Notice: Maintain consistency. Correct the student's mix-up using the full task."
-    },
+    "stage": "discriminate",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "If “Water froze at 0°C every time in general.” does not work in stating a general fact about water, what should replace it?",
+    "audio_prompt": "If “Water froze at 0°C every time in general.” does not work in stating a general fact about water, what should replace it?",
     "answers": [
       {
-        "text": "Keep “past tense”; it uses a detail that sounds familiar.",
+        "text": "Water froze at 0°C every time in general.",
         "is_correct": false
       },
       {
-        "text": "Match the definition to the exact language or literacy concept. present tense is the precise term for this feature.",
+        "text": "Water freezes at 0°C under standard conditions.",
         "is_correct": true
       },
       {
-        "text": "Choose “tense” instead; it sounds clearer.",
+        "text": "Water will freezing at 0°C.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “past tense”; it uses a detail that sounds familiar.",
-      "Capital words: Match. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Match the definition to the exact language or literacy concept. present tense is the precise term for this feature.",
-      "Capital words: Choose. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “tense” instead; it sounds clearer."
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Simple present is commonly used for general truths. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Present tense can describe facts, not only what is happening this second."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "If “Our class visited the gardens next Thursday.” does not work in describing a plan for next week, what should replace it?",
+    "audio_prompt": "If “Our class visited the gardens next Thursday.” does not work in describing a plan for next week, what should replace it?",
+    "answers": [
+      {
+        "text": "Our class visited the gardens next Thursday.",
+        "is_correct": false
+      },
+      {
+        "text": "Our class visiting next Thursday without a finite verb.",
+        "is_correct": false
+      },
+      {
+        "text": "Our class will visit the botanic gardens next Thursday.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Will visit places the event in the future and matches next Thursday. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Match the verb form to the stated time."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which option corrects the meaning or form needed for describing a plan for next week?",
+    "audio_prompt": "Which option corrects the meaning or form needed for describing a plan for next week?",
+    "answers": [
+      {
+        "text": "Our class will visit the botanic gardens next Thursday.",
+        "is_correct": true
+      },
+      {
+        "text": "Our class visited the gardens next Thursday.",
+        "is_correct": false
+      },
+      {
+        "text": "Our class visiting next Thursday without a finite verb.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Will visit places the event in the future and matches next Thursday. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Match the verb form to the stated time."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which option corrects the meaning or form needed for writing about a regular Saturday activity?",
+    "audio_prompt": "Which option corrects the meaning or form needed for writing about a regular Saturday activity?",
+    "answers": [
+      {
+        "text": "I played cricket every Saturday if the routine is still current.",
+        "is_correct": false
+      },
+      {
+        "text": "I play cricket at the oval every Saturday.",
+        "is_correct": true
+      },
+      {
+        "text": "I will played cricket every Saturday.",
+        "is_correct": false
+      }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Match the definition to the exact language or literacy concept. present tense is the precise term for this feature.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Simple present can describe a repeated habit. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Words such as every Saturday often signal a routine."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which choice is the clearest correction for writing about a regular Saturday activity?",
+    "audio_prompt": "Which choice is the clearest correction for writing about a regular Saturday activity?",
+    "answers": [
+      {
+        "text": "I played cricket every Saturday if the routine is still current.",
+        "is_correct": false
+      },
+      {
+        "text": "I will played cricket every Saturday.",
+        "is_correct": false
+      },
+      {
+        "text": "I play cricket at the oval every Saturday.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Simple present can describe a repeated habit. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Words such as every Saturday often signal a routine."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which choice is the clearest correction for correcting an irregular past-tense verb?",
+    "audio_prompt": "Which choice is the clearest correction for correcting an irregular past-tense verb?",
+    "answers": [
+      {
+        "text": "Last night, we saw a meteor.",
+        "is_correct": true
+      },
+      {
+        "text": "Last night, we seed a meteor.",
+        "is_correct": false
+      },
+      {
+        "text": "Last night, we see a meteor.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Saw is the correct irregular past form of see. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Not every past-tense verb ends in -ed."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which revision best fixes the problem in “Last night, we seed a meteor.” for correcting an irregular past-tense verb?",
+    "audio_prompt": "Which revision best fixes the problem in “Last night, we seed a meteor.” for correcting an irregular past-tense verb?",
+    "answers": [
+      {
+        "text": "Last night, we seed a meteor.",
+        "is_correct": false
+      },
+      {
+        "text": "Last night, we saw a meteor.",
+        "is_correct": true
+      },
+      {
+        "text": "Last night, we see a meteor.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Saw is the correct irregular past form of see. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Not every past-tense verb ends in -ed."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "You now need to handle recounting yesterday’s excursion independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle recounting yesterday’s excursion independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "We will visit the aquarium yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "We visit the aquarium yesterday and watch the penguins.",
+        "is_correct": false
+      },
+      {
+        "text": "We visited the aquarium and watched the penguins.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Past-tense verbs match an event that already happened.",
+      "hint": "Use the time clue to decide which verb form fits."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Apply the same idea to recounting yesterday’s excursion. Which option is best?",
+    "audio_prompt": "Apply the same idea to recounting yesterday’s excursion. Which option is best?",
+    "answers": [
+      {
+        "text": "We visited the aquarium and watched the penguins.",
+        "is_correct": true
+      },
+      {
+        "text": "We will visit the aquarium yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "We visit the aquarium yesterday and watch the penguins.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Past-tense verbs match an event that already happened.",
+      "hint": "Use the time clue to decide which verb form fits."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Apply the same idea to stating a general fact about water. Which option is best?",
+    "audio_prompt": "Apply the same idea to stating a general fact about water. Which option is best?",
+    "answers": [
+      {
+        "text": "Water will freezing at 0°C.",
+        "is_correct": false
+      },
+      {
+        "text": "Water freezes at 0°C under standard conditions.",
+        "is_correct": true
+      },
+      {
+        "text": "Water froze at 0°C every time in general.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Simple present is commonly used for general truths.",
+      "hint": "Present tense can describe facts, not only what is happening this second."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which decision would produce the clearest result in stating a general fact about water?",
+    "audio_prompt": "Which decision would produce the clearest result in stating a general fact about water?",
+    "answers": [
+      {
+        "text": "Water will freezing at 0°C.",
+        "is_correct": false
+      },
+      {
+        "text": "Water froze at 0°C every time in general.",
+        "is_correct": false
+      },
+      {
+        "text": "Water freezes at 0°C under standard conditions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Simple present is commonly used for general truths.",
+      "hint": "Present tense can describe facts, not only what is happening this second."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which decision would produce the clearest result in describing a plan for next week?",
+    "audio_prompt": "Which decision would produce the clearest result in describing a plan for next week?",
+    "answers": [
+      {
+        "text": "Our class will visit the botanic gardens next Thursday.",
+        "is_correct": true
+      },
+      {
+        "text": "Our class visiting next Thursday without a finite verb.",
+        "is_correct": false
+      },
+      {
+        "text": "Our class visited the gardens next Thursday.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Will visit places the event in the future and matches next Thursday.",
+      "hint": "Match the verb form to the stated time."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Choose the option that applies the skill correctly in describing a plan for next week.",
+    "audio_prompt": "Choose the option that applies the skill correctly in describing a plan for next week.",
+    "answers": [
+      {
+        "text": "Our class visiting next Thursday without a finite verb.",
+        "is_correct": false
+      },
+      {
+        "text": "Our class will visit the botanic gardens next Thursday.",
+        "is_correct": true
+      },
+      {
+        "text": "Our class visited the gardens next Thursday.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Will visit places the event in the future and matches next Thursday.",
+      "hint": "Match the verb form to the stated time."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Choose the option that applies the skill correctly in writing about a regular Saturday activity.",
+    "audio_prompt": "Choose the option that applies the skill correctly in writing about a regular Saturday activity.",
+    "answers": [
+      {
+        "text": "I will played cricket every Saturday.",
+        "is_correct": false
+      },
+      {
+        "text": "I played cricket every Saturday if the routine is still current.",
+        "is_correct": false
+      },
+      {
+        "text": "I play cricket at the oval every Saturday.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Simple present can describe a repeated habit.",
+      "hint": "Words such as every Saturday often signal a routine."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "What would be the most effective choice for writing about a regular Saturday activity?",
+    "audio_prompt": "What would be the most effective choice for writing about a regular Saturday activity?",
+    "answers": [
+      {
+        "text": "I play cricket at the oval every Saturday.",
+        "is_correct": true
+      },
+      {
+        "text": "I will played cricket every Saturday.",
+        "is_correct": false
+      },
+      {
+        "text": "I played cricket every Saturday if the routine is still current.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Simple present can describe a repeated habit.",
+      "hint": "Words such as every Saturday often signal a routine."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "What would be the most effective choice for correcting an irregular past-tense verb?",
+    "audio_prompt": "What would be the most effective choice for correcting an irregular past-tense verb?",
+    "answers": [
+      {
+        "text": "Last night, we see a meteor.",
+        "is_correct": false
+      },
+      {
+        "text": "Last night, we saw a meteor.",
+        "is_correct": true
+      },
+      {
+        "text": "Last night, we seed a meteor.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Saw is the correct irregular past form of see.",
+      "hint": "Not every past-tense verb ends in -ed."
+    }
+  },
+  {
+    "id": "AC9E4LA09-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "You now need to handle correcting an irregular past-tense verb independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle correcting an irregular past-tense verb independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Last night, we see a meteor.",
+        "is_correct": false
+      },
+      {
+        "text": "Last night, we seed a meteor.",
+        "is_correct": false
+      },
+      {
+        "text": "Last night, we saw a meteor.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Saw is the correct irregular past form of see.",
+      "hint": "Not every past-tense verb ends in -ed."
+    }
   },
   {
     "id": "AC9E4LA09-T-001",
@@ -997,37 +1205,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "new_text_1_apply",
-    "question": "In a new assessment text, Which sentence expresses a general present pattern?",
-    "audio_prompt": "In a new assessment text, Which sentence expresses a general present pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-001",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: New text 1. Notice: Recognise tense forms. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "New context: shifting time clearly in a narrative. Which option is correct?",
+    "audio_prompt": "New context: shifting time clearly in a narrative. Which option is correct?",
     "answers": [
       {
-        "text": "The river rose last night.",
-        "is_correct": false
-      },
-      {
-        "text": "The river will rise tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "The river rises after heavy rain.",
+        "text": "I packed my bag last night, and now I am waiting for the bus.",
         "is_correct": true
+      },
+      {
+        "text": "I pack my bag last night, and now I waited for the bus.",
+        "is_correct": false
+      },
+      {
+        "text": "I will pack last night, and now I wait yesterday.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: The river rose last night.",
-      "Capital words: The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: The river will rise tomorrow.",
-      "Capital words: The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: The river rises after heavy rain."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The evidence and language purpose support “The river rises after heavy rain.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
+      "hint": "Tense does not need to stay identical when the time changes."
     }
   },
   {
@@ -1036,37 +1235,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "new_text_1_reason",
-    "question": "A student answers “The river rose last night.”. Which feedback helps? Task: In a new assessment text, Which sentence expresses a general present pattern?",
-    "audio_prompt": "A student answers “The river rose last night.”. Which feedback helps? Task: In a new assessment text, Which sentence expresses a general present pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-002",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: New text 1. Notice: Recognise tense forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "What is the best choice for shifting time clearly in a narrative?",
+    "audio_prompt": "What is the best choice for shifting time clearly in a narrative?",
     "answers": [
       {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The river rises after heavy rain.”.",
+        "text": "I pack my bag last night, and now I waited for the bus.",
+        "is_correct": false
+      },
+      {
+        "text": "I packed my bag last night, and now I am waiting for the bus.",
         "is_correct": true
       },
       {
-        "text": "Keep “The river rose last night.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “The river will rise tomorrow.” instead; it sounds clearer.",
+        "text": "I will pack last night, and now I wait yesterday.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Check, The, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The river rises after heavy rain.”.",
-      "Capital words: Keep, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “The river rose last night.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, The. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “The river will rise tomorrow.” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “The river rises after heavy rain.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
+      "hint": "Tense does not need to stay identical when the time changes."
     }
   },
   {
@@ -1075,37 +1265,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "new_text_2_apply",
-    "question": "In a new assessment text, Which sentence contains an accidental tense shift?",
-    "audio_prompt": "In a new assessment text, Which sentence contains an accidental tense shift?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-003",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: New text 2. Notice: Maintain consistency. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which explanation best supports “I packed my bag last night, and now I am waiting for the bus.” in shifting time clearly in a narrative?",
+    "audio_prompt": "Which explanation best supports “I packed my bag last night, and now I am waiting for the bus.” in shifting time clearly in a narrative?",
     "answers": [
       {
-        "text": "We entered, measured and recorded.",
+        "text": "Because “I pack my bag last night, and now I waited for the bus.” is always a safe choice.",
         "is_correct": false
       },
       {
-        "text": "We entered the room, measure the table and recorded the result.",
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "A tense shift is correct when the time frame clearly changes from last night to now.",
         "is_correct": true
-      },
-      {
-        "text": "Yesterday we measured; today we compare.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: We. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: entered. The text ends with a full stop. The text reads: We entered, measured and recorded.",
-      "Capital words: We. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: room. The text ends with a full stop. The text reads: We entered the room, measure the table and recorded the result.",
-      "Capital words: Yesterday. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Yesterday we measured; today we compare."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The evidence and language purpose support “We entered the room, measure the table and recorded the result.”.",
-      "hint": "Check the whole sentence or text feature, then test meaning and grammar."
+      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
+      "hint": "Tense does not need to stay identical when the time changes."
     }
   },
   {
@@ -1114,37 +1295,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "new_text_2_reason",
-    "question": "A student answers “Yesterday we measured; today we compare.”. Which feedback helps? Task: In a new assessment text, Which sentence contains an accidental tense shift?",
-    "audio_prompt": "A student answers “Yesterday we measured; today we compare.”. Which feedback helps? Task: In a new assessment text, Which sentence contains an accidental tense shift?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-004",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: New text 2. Notice: Maintain consistency. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which clue should guide your decision in shifting time clearly in a narrative?",
+    "audio_prompt": "Which clue should guide your decision in shifting time clearly in a narrative?",
     "answers": [
       {
-        "text": "Keep “Yesterday we measured; today we compare.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “We entered, measured and recorded.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “We entered the room, measure the table and recorded the result.”.",
+        "text": "Tense does not need to stay identical when the time changes.",
         "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Yesterday. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Yesterday we measured; today we compare.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, We. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: entered. The text ends with a full stop. The text reads: Choose “We entered, measured and recorded.” instead; it sounds clearer.",
-      "Capital words: Check, The, We. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: feature, room. The text ends with a full stop. The text reads: Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “We entered the room, measure the table and recorded the result.”."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Check the whole sentence or text feature, then test meaning and grammar. The evidence and language purpose support “We entered the room, measure the table and recorded the result.”.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
+      "hint": "Tense does not need to stay identical when the time changes."
     }
   },
   {
@@ -1153,37 +1325,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "misconception_1_apply",
-    "question": "An editor reviewing a new text claims, “Every verb in a text must use one tense”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Every verb in a text must use one tense”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-005",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 1. Notice: Use deliberate shifts. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which option would you reject first in shifting time clearly in a narrative?",
+    "audio_prompt": "Which option would you reject first in shifting time clearly in a narrative?",
     "answers": [
       {
-        "text": "Tense can shift when the time frame changes clearly.",
+        "text": "I packed my bag last night, and now I am waiting for the bus.",
+        "is_correct": false
+      },
+      {
+        "text": "I pack my bag last night, and now I waited for the bus.",
         "is_correct": true
       },
       {
-        "text": "Every verb in a text must use one tense",
-        "is_correct": false
-      },
-      {
-        "text": "Future tense is only will",
+        "text": "I will pack last night, and now I wait yesterday.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Tense. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Tense can shift when the time frame changes clearly.",
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every verb in a text must use one tense",
-      "Capital words: Future. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Future tense is only will"
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Tense can shift when the time frame changes clearly.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A tense shift is correct when the time frame clearly changes from last night to now.",
+      "hint": "Tense does not need to stay identical when the time changes."
     }
   },
   {
@@ -1192,37 +1355,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "misconception_1_reason",
-    "question": "A student answers “Every verb in a text must use one tense”. Which feedback helps? Task: An editor reviewing a new text claims, “Every verb in a text must use one tense”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Every verb in a text must use one tense”. Which feedback helps? Task: An editor reviewing a new text claims, “Every verb in a text must use one tense”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-006",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 1. Notice: Use deliberate shifts. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which correction should replace “I pack my bag last night, and now I waited for the bus.” in shifting time clearly in a narrative?",
+    "audio_prompt": "Which correction should replace “I pack my bag last night, and now I waited for the bus.” in shifting time clearly in a narrative?",
     "answers": [
       {
-        "text": "Keep “Every verb in a text must use one tense”; it uses a detail that sounds familiar.",
+        "text": "I pack my bag last night, and now I waited for the bus.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Tense can shift when the time frame changes clearly.",
+        "text": "I will pack last night, and now I wait yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "I packed my bag last night, and now I am waiting for the bus.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Future tense is only will” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Every verb in a text must use one tense”; it uses a detail that sounds familiar.",
-      "Capital words: Identify, Tense. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Tense can shift when the time frame changes clearly.",
-      "Capital words: Choose, Future. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Future tense is only will” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Tense can shift when the time frame changes clearly.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
+      "hint": "Tense does not need to stay identical when the time changes."
     }
   },
   {
@@ -1231,37 +1385,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "misconception_2_apply",
-    "question": "An editor reviewing a new text claims, “Future tense is only will”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Future tense is only will”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-007",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 2. Notice: Express general/predicted meaning. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Apply the skill to shifting time clearly in a narrative: what should you choose?",
+    "audio_prompt": "Apply the skill to shifting time clearly in a narrative: what should you choose?",
     "answers": [
       {
-        "text": "Future tense is only will",
-        "is_correct": false
-      },
-      {
-        "text": "Present tense means this exact moment",
-        "is_correct": false
-      },
-      {
-        "text": "English expresses future time through several constructions and context.",
+        "text": "I packed my bag last night, and now I am waiting for the bus.",
         "is_correct": true
+      },
+      {
+        "text": "I pack my bag last night, and now I waited for the bus.",
+        "is_correct": false
+      },
+      {
+        "text": "I will pack last night, and now I wait yesterday.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Future. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Future tense is only will",
-      "Capital words: Present. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Present tense means this exact moment",
-      "Capital words: English. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: English expresses future time through several constructions and context."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "English expresses future time through several constructions and context.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
+      "hint": "Tense does not need to stay identical when the time changes."
     }
   },
   {
@@ -1270,37 +1415,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "misconception_2_reason",
-    "question": "A student answers “Present tense means this exact moment”. Which feedback helps? Task: An editor reviewing a new text claims, “Future tense is only will”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Present tense means this exact moment”. Which feedback helps? Task: An editor reviewing a new text claims, “Future tense is only will”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-008",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 2. Notice: Express general/predicted meaning. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which final choice gives the clearest and most accurate result for shifting time clearly in a narrative?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for shifting time clearly in a narrative?",
     "answers": [
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. English expresses future time through several constructions and context.",
+        "text": "I pack my bag last night, and now I waited for the bus.",
+        "is_correct": false
+      },
+      {
+        "text": "I packed my bag last night, and now I am waiting for the bus.",
         "is_correct": true
       },
       {
-        "text": "Keep “Present tense means this exact moment”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Future tense is only will” instead; it sounds clearer.",
+        "text": "I will pack last night, and now I wait yesterday.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Identify, English. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. English expresses future time through several constructions and context.",
-      "Capital words: Keep, Present. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Present tense means this exact moment”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Future. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Future tense is only will” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. English expresses future time through several constructions and context.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
+      "hint": "Tense does not need to stay identical when the time changes."
     }
   },
   {
@@ -1309,37 +1445,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "misconception_3_apply",
-    "question": "An editor reviewing a new text claims, “Present tense means this exact moment”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Present tense means this exact moment”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-009",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 3. Notice: Explain tense effects. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "New context: describing a future arrangement. Which option is correct?",
+    "audio_prompt": "New context: describing a future arrangement. Which option is correct?",
     "answers": [
       {
-        "text": "Present tense means this exact moment",
+        "text": "We met the ranger tomorrow.",
         "is_correct": false
       },
       {
-        "text": "It can also express habits, general truths and narratives.",
+        "text": "We are met the ranger yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "We are meeting the ranger at 10 am tomorrow.",
         "is_correct": true
-      },
-      {
-        "text": "Irregular past forms forced into -ed",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Present. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Present tense means this exact moment",
-      "Capital words: It. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: habits. The text ends with a full stop. The text reads: It can also express habits, general truths and narratives.",
-      "Capital words: Irregular. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Irregular past forms forced into -ed"
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "It can also express habits, general truths and narratives.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
+      "hint": "Future time is not expressed only with will."
     }
   },
   {
@@ -1348,37 +1475,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "misconception_3_reason",
-    "question": "A student answers “Present tense means this exact moment”. Which feedback helps? Task: An editor reviewing a new text claims, “Present tense means this exact moment”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Present tense means this exact moment”. Which feedback helps? Task: An editor reviewing a new text claims, “Present tense means this exact moment”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-010",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 3. Notice: Explain tense effects. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "What is the best choice for describing a future arrangement?",
+    "audio_prompt": "What is the best choice for describing a future arrangement?",
     "answers": [
       {
-        "text": "Keep “Present tense means this exact moment”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Irregular past forms forced into -ed” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can also express habits, general truths and narratives.",
+        "text": "We are meeting the ranger at 10 am tomorrow.",
         "is_correct": true
+      },
+      {
+        "text": "We met the ranger tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "We are met the ranger yesterday.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Present. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Present tense means this exact moment”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Irregular. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Irregular past forms forced into -ed” instead; it sounds clearer.",
-      "Capital words: Identify, It. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, habits. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can also express habits, general truths and narratives."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. It can also express habits, general truths and narratives.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
+      "hint": "Future time is not expressed only with will."
     }
   },
   {
@@ -1387,37 +1505,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "misconception_4_apply",
-    "question": "An editor reviewing a new text claims, “Irregular past forms forced into -ed”. Which response gives the most accurate correction?",
-    "audio_prompt": "An editor reviewing a new text claims, “Irregular past forms forced into -ed”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-011",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 4. Notice: Recognise tense forms. Choose the response supported by the example."
-    },
+    "stage": "verify",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which explanation best supports “We are meeting the ranger at 10 am tomorrow.” in describing a future arrangement?",
+    "audio_prompt": "Which explanation best supports “We are meeting the ranger at 10 am tomorrow.” in describing a future arrangement?",
     "answers": [
       {
-        "text": "Use forms such as went, saw and wrote correctly.",
+        "text": "Because “We met the ranger tomorrow.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Present continuous can express a planned future arrangement when the time is clear.",
         "is_correct": true
       },
       {
-        "text": "Irregular past forms forced into -ed",
-        "is_correct": false
-      },
-      {
-        "text": "Every verb in a text must use one tense",
+        "text": "Because surface appearance matters more than meaning.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Use. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: went. The text ends with a full stop. The text reads: Use forms such as went, saw and wrote correctly.",
-      "Capital words: Irregular. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Irregular past forms forced into -ed",
-      "Capital words: Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text reads: Every verb in a text must use one tense"
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Use forms such as went, saw and wrote correctly.",
-      "hint": "Identify exactly what the claim overlooks, then choose the correction that restores meaning."
+      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
+      "hint": "Future time is not expressed only with will."
     }
   },
   {
@@ -1426,37 +1535,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "misconception_4_reason",
-    "question": "A student answers “Every verb in a text must use one tense”. Which feedback helps? Task: An editor reviewing a new text claims, “Irregular past forms forced into -ed”. Which response gives the most accurate correction?",
-    "audio_prompt": "A student answers “Every verb in a text must use one tense”. Which feedback helps? Task: An editor reviewing a new text claims, “Irregular past forms forced into -ed”. Which response gives the most accurate correction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-012",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Misconception 4. Notice: Recognise tense forms. Correct the student's mix-up using the full task."
-    },
+    "stage": "verify",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which clue should guide your decision in describing a future arrangement?",
+    "audio_prompt": "Which clue should guide your decision in describing a future arrangement?",
     "answers": [
       {
-        "text": "Keep “Every verb in a text must use one tense”; it uses a detail that sounds familiar.",
+        "text": "Choose the option with the most words.",
         "is_correct": false
       },
       {
-        "text": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use forms such as went, saw and wrote correctly.",
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Future time is not expressed only with will.",
         "is_correct": true
-      },
-      {
-        "text": "Choose “Irregular past forms forced into -ed” instead; it sounds clearer.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Every. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Keep “Every verb in a text must use one tense”; it uses a detail that sounds familiar.",
-      "Capital words: Identify, Use. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: overlooks, went. The text ends with a full stop. The text reads: Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use forms such as went, saw and wrote correctly.",
-      "Capital words: Choose, Irregular. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose “Irregular past forms forced into -ed” instead; it sounds clearer."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Identify exactly what the claim overlooks, then choose the correction that restores meaning. Use forms such as went, saw and wrote correctly.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
+      "hint": "Future time is not expressed only with will."
     }
   },
   {
@@ -1465,37 +1565,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "timeline_annotate_apply",
-    "question": "A different class adapts “Timeline annotate”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Timeline annotate”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-013",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Timeline annotate. Notice: Maintain consistency. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which option would you reject first in describing a future arrangement?",
+    "audio_prompt": "Which option would you reject first in describing a future arrangement?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
-        "is_correct": false
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
-        "is_correct": false
-      },
-      {
-        "text": "Place verbs on a timeline and explain general present versus present action.",
+        "text": "We met the ranger tomorrow.",
         "is_correct": true
+      },
+      {
+        "text": "We are meeting the ranger at 10 am tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "We are met the ranger yesterday.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only.",
-      "Capital words: Place. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Place verbs on a timeline and explain general present versus present action."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Place verbs on a timeline and explain general present versus present action.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Present continuous can express a planned future arrangement when the time is clear.",
+      "hint": "Future time is not expressed only with will."
     }
   },
   {
@@ -1504,37 +1595,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "timeline_annotate_reason",
-    "question": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Timeline annotate”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Copy the title, then choose an answer without analysing the language or text.”. Which feedback helps? Task: A different class adapts “Timeline annotate”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-014",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Timeline annotate. Notice: Maintain consistency. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which correction should replace “We met the ranger tomorrow.” in describing a future arrangement?",
+    "audio_prompt": "Which correction should replace “We met the ranger tomorrow.” in describing a future arrangement?",
     "answers": [
       {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Place verbs on a timeline and explain general present versus present action.",
+        "text": "We met the ranger tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "We are meeting the ranger at 10 am tomorrow.",
         "is_correct": true
       },
       {
-        "text": "Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer.",
+        "text": "We are met the ranger yesterday.",
         "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Choose, Place. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. There are no commas. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Place verbs on a timeline and explain general present versus present action.",
-      "Capital words: Keep, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Keep “Copy the title, then choose an answer without analysing the language or text.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Choose “Change the purpose and audience halfway through, then report the first impression only.” instead; it sounds clearer."
-    ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Place verbs on a timeline and explain general present versus present action.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
+      "hint": "Future time is not expressed only with will."
     }
   },
   {
@@ -1543,37 +1625,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "tense_consistency_edit_apply",
-    "question": "A different class adapts “Tense consistency edit”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A different class adapts “Tense consistency edit”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-015",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Tense consistency edit. Notice: Use deliberate shifts. Choose the response supported by the example."
-    },
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Apply the skill to describing a future arrangement: what should you choose?",
+    "audio_prompt": "Apply the skill to describing a future arrangement: what should you choose?",
     "answers": [
       {
-        "text": "Copy the title, then choose an answer without analysing the language or text.",
+        "text": "We met the ranger tomorrow.",
         "is_correct": false
       },
       {
-        "text": "Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes.",
+        "text": "We are met the ranger yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "We are meeting the ranger at 10 am tomorrow.",
         "is_correct": true
-      },
-      {
-        "text": "Change the purpose and audience halfway through, then report the first impression only.",
-        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Copy the title, then choose an answer without analysing the language or text.",
-      "Capital words: Repair. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: recounts. The text ends with a full stop. The text reads: Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes.",
-      "Capital words: Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Change the purpose and audience halfway through, then report the first impression only."
-    ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes.",
-      "hint": "Choose the plan that analyses language evidence and produces a reviewable response."
+      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
+      "hint": "Future time is not expressed only with will."
     }
   },
   {
@@ -1582,37 +1655,28 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "skill": "tense_consistency_edit_reason",
-    "question": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Tense consistency edit”. Which plan best demonstrates the English skill?",
-    "audio_prompt": "A student answers “Change the purpose and audience halfway through, then report the first impression only.”. Which feedback helps? Task: A different class adapts “Tense consistency edit”. Which plan best demonstrates the English skill?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/english/ac9e4la09.svg#ac9e4la09-t-016",
-      "alt_text": "Three-step Tense and Its Impact on Meaning organiser. Read: Tense consistency edit. Notice: Use deliberate shifts. Correct the student's mix-up using the full task."
-    },
+    "stage": "apply",
+    "skill": "Tense and Its Impact on Meaning",
+    "question": "Which final choice gives the clearest and most accurate result for describing a future arrangement?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for describing a future arrangement?",
     "answers": [
       {
-        "text": "Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the plan that analyses language evidence and produces a reviewable response. Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes.",
+        "text": "We are meeting the ranger at 10 am tomorrow.",
         "is_correct": true
+      },
+      {
+        "text": "We met the ranger tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "We are met the ranger yesterday.",
+        "is_correct": false
       }
     ],
-    "audio_answers": [
-      "Capital words: Keep, Change. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: through. The text ends with a full stop. The text reads: Keep “Change the purpose and audience halfway through, then report the first impression only.”; it uses a detail that sounds familiar.",
-      "Capital words: Choose, Copy. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: title. The text ends with a full stop. The text reads: Choose “Copy the title, then choose an answer without analysing the language or text.” instead; it sounds clearer.",
-      "Capital words: Choose, Repair. There is no opening quotation mark before the first word. There is no comma beside a closing quotation mark. Commas come after: recounts. The text ends with a full stop. The text reads: Choose the plan that analyses language evidence and produces a reviewable response. Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes."
-    ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Choose the plan that analyses language evidence and produces a reviewable response. Repair accidental shifts in recounts, reports and narratives while preserving deliberate changes.",
-      "hint": "Check the whole example and decide which feedback addresses the exact mix-up."
+      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
+      "hint": "Future time is not expressed only with will."
     }
   }
 ]
