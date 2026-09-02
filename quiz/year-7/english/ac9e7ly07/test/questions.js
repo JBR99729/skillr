@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e7ly07-t-001",
     "curriculumCode": "AC9E7LY07",
     "bank": "test",
-    "skill": "set rehearsal criterion",
+    "skill": "evidence",
     "printable": true,
     "type": "single",
-    "question": "A Year 7 student is working with a text and needs to use set rehearsal criterion. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 7 student is working with a text and needs to use set rehearsal criterion. Which option best demonstrates the skill?",
+    "question": "A river-health podcast includes “interpret source and significance.” Which analysis is strongest?",
+    "audioPrompt": "A river-health podcast includes “interpret source and significance.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,28 +16,28 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
-      "Confidence substitutes for evidence",
-      "Support claims",
-      "Language making presentation structure explicit"
+      "It is important only because it is an example of evidence.",
+      "Its effect is guaranteed no matter who the audience is.",
+      "It should be judged only by whether the reader personally likes it.",
+      "Readable graph/table"
     ],
-    "correct": 0,
-    "explanation": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation\nHint: Support claims.",
+    "correct": 3,
+    "explanation": "The strongest analysis connects the evidence to its function: Readable graph/table\nHint: Use a feature → evidence → effect chain.",
     "structuredExplanation": {
-      "summary": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
-      "hint": "Support claims."
+      "summary": "The strongest analysis connects the evidence to its function: Readable graph/table",
+      "hint": "Use a feature → evidence → effect chain."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly07-t-002",
     "curriculumCode": "AC9E7LY07",
     "bank": "test",
-    "skill": "respond to questions",
+    "skill": "visual unreadable",
     "printable": true,
     "type": "single",
-    "question": "A Year 7 student is working with a text and needs to use respond to questions. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 7 student is working with a text and needs to use respond to questions. Which option best demonstrates the skill?",
+    "question": "Read the new context carefully. Which interpretation of “simplify scale/text and improve contrast” would be most useful in a town festival website?",
+    "audioPrompt": "Read the new context carefully. Which interpretation of “simplify scale/text and improve contrast” would be most useful in a town festival website?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -45,28 +45,57 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Slides become script",
-      "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
-      "Explain visuals orally",
-      "Language making presentation structure explicit"
+      "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback",
+      "It proves that visual unreadable always has one fixed effect.",
+      "It can be analysed without referring to the actual wording.",
+      "It is automatically better because it sounds more formal."
     ],
-    "correct": 1,
-    "explanation": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.\nHint: Explain visuals orally.",
+    "correct": 0,
+    "explanation": "The interpretation uses the specific evidence and keeps the effect tied to context.\nHint: Avoid automatic rules; explain what this example does here.",
     "structuredExplanation": {
-      "summary": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
-      "hint": "Explain visuals orally."
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly07-t-003",
     "curriculumCode": "AC9E7LY07",
     "bank": "test",
-    "skill": "create roadmap",
+    "skill": "signposting",
     "printable": true,
     "type": "single",
-    "question": "A Year 7 student is working with a text and needs to use create roadmap. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 7 student is working with a text and needs to use create roadmap. Which option best demonstrates the skill?",
+    "question": "Which answer is best supported in this new situation? A youth radio interview uses the idea “language making presentation structure explicit.” Which term would make the analysis most precise?",
+    "audioPrompt": "Which answer is best supported in this new situation? A youth radio interview uses the idea “language making presentation structure explicit.” Which term would make the analysis most precise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "rehearsal",
+      "signposting",
+      "delivery",
+      "It makes a broader claim than the evidence supports."
+    ],
+    "correct": 1,
+    "explanation": "Signposting is the precise term for language making presentation structure explicit.\nHint: Select the term that matches the whole definition and then check it against the context.",
+    "structuredExplanation": {
+      "summary": "Signposting is the precise term for language making presentation structure explicit.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly07-t-004",
+    "curriculumCode": "AC9E7LY07",
+    "bank": "test",
+    "skill": "purposeful oral and multimodal presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Use the evidence in this coastal restoration article. A coastal restoration article needs a concise example of Purposeful Oral and Multimodal Presentations. Which choice best fits?",
+    "audioPrompt": "Use the evidence in this coastal restoration article. A coastal restoration article needs a concise example of Purposeful Oral and Multimodal Presentations. Which choice best fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -75,27 +104,27 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Volume set to maximum",
-      "Use controlled audibility and emphasis",
-      "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
-      "Language making presentation structure explicit"
+      "Simply name opening without showing it in context.",
+      "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+      "Use a broad claim that ignores audience and purpose."
     ],
     "correct": 2,
-    "explanation": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.\nHint: Use controlled audibility and emphasis.",
+    "explanation": "The strongest choice demonstrates the concept itself: A concise graph slide works when the speaker explains axes, pattern, evidence and limitation\nHint: Choose the option that actually applies the idea rather than merely naming it.",
     "structuredExplanation": {
-      "summary": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
-      "hint": "Use controlled audibility and emphasis."
+      "summary": "The strongest choice demonstrates the concept itself: A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly07-t-004",
+    "id": "ac9e7ly07-t-005",
     "curriculumCode": "AC9E7LY07",
     "bank": "test",
-    "skill": "use signpost",
+    "skill": "revision",
     "printable": true,
     "type": "single",
-    "question": "A Year 7 student is working with a text and needs to use use signpost. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 7 student is working with a text and needs to use use signpost. Which option best demonstrates the skill?",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a public transport campaign, someone writes, “Rehearsal changes delivery only.” Which revision would make the analysis more accurate?",
+    "audioPrompt": "Choose the most precise analysis for this unfamiliar example. In a public transport campaign, someone writes, “Rehearsal changes delivery only.” Which revision would make the analysis more accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -104,27 +133,259 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Rehearsal changes delivery only",
-      "Revise content and structure when needed",
-      "Language making presentation structure explicit",
-      "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery."
+      "Keep the claim but add “always” to make it sound certain.",
+      "Remove the evidence and replace it with a personal preference.",
+      "Revise content and structure when needed"
     ],
     "correct": 3,
-    "explanation": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.\nHint: Revise content and structure when needed.",
+    "explanation": "Revise content and structure when needed The revision fixes the misconception without losing the useful part of the original idea.\nHint: Prefer qualified, evidence-based wording over an absolute claim.",
     "structuredExplanation": {
-      "summary": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.",
-      "hint": "Revise content and structure when needed."
+      "summary": "Revise content and structure when needed The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly07-t-005",
+    "id": "ac9e7ly07-t-006",
     "curriculumCode": "AC9E7LY07",
     "bank": "test",
-    "skill": "interpret a visual",
+    "skill": "evidence",
     "printable": true,
     "type": "single",
-    "question": "What should be checked when applying interpret a visual in purposeful oral and multimodal presentations?",
-    "audioPrompt": "What should be checked when applying interpret a visual in purposeful oral and multimodal presentations?",
+    "question": "Which response would hold up under close reading? A regional museum audio guide includes “interpret source and significance.” Which analysis is strongest?",
+    "audioPrompt": "Which response would hold up under close reading? A regional museum audio guide includes “interpret source and significance.” Which analysis is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Readable graph/table",
+      "It is important only because it is an example of evidence.",
+      "Its effect is guaranteed no matter who the audience is.",
+      "It should be judged only by whether the reader personally likes it."
+    ],
+    "correct": 0,
+    "explanation": "The strongest analysis connects the evidence to its function: Readable graph/table\nHint: Use a feature → evidence → effect chain.",
+    "structuredExplanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Readable graph/table",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly07-t-007",
+    "curriculumCode": "AC9E7LY07",
+    "bank": "test",
+    "skill": "visual unreadable",
+    "printable": true,
+    "type": "single",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “simplify scale/text and improve contrast” would be most useful in a wildlife rescue webpage?",
+    "audioPrompt": "What is the strongest conclusion from the wording given? Which interpretation of “simplify scale/text and improve contrast” would be most useful in a wildlife rescue webpage?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It proves that visual unreadable always has one fixed effect.",
+      "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback",
+      "It can be analysed without referring to the actual wording.",
+      "It is automatically better because it sounds more formal."
+    ],
+    "correct": 1,
+    "explanation": "The interpretation uses the specific evidence and keeps the effect tied to context.\nHint: Avoid automatic rules; explain what this example does here.",
+    "structuredExplanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly07-t-008",
+    "curriculumCode": "AC9E7LY07",
+    "bank": "test",
+    "skill": "delivery",
+    "printable": true,
+    "type": "single",
+    "question": "Which choice uses the concept without overgeneralising? A local council consultation uses the idea “controlled use of voice, body, timing and interaction.” Which term would make the analysis most precise?",
+    "audioPrompt": "Which choice uses the concept without overgeneralising? A local council consultation uses the idea “controlled use of voice, body, timing and interaction.” Which term would make the analysis most precise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "signposting",
+      "rehearsal",
+      "delivery",
+      "It makes a broader claim than the evidence supports."
+    ],
+    "correct": 2,
+    "explanation": "Delivery is the precise term for controlled use of voice, body, timing and interaction.\nHint: Select the term that matches the whole definition and then check it against the context.",
+    "structuredExplanation": {
+      "summary": "Delivery is the precise term for controlled use of voice, body, timing and interaction.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly07-t-009",
+    "curriculumCode": "AC9E7LY07",
+    "bank": "test",
+    "skill": "purposeful oral and multimodal presentations",
+    "printable": true,
+    "type": "single",
+    "question": "A heritage trail brochure needs a concise example of Purposeful Oral and Multimodal Presentations. Which choice best fits?",
+    "audioPrompt": "A heritage trail brochure needs a concise example of Purposeful Oral and Multimodal Presentations. Which choice best fits?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Rehearsal changes delivery only",
+      "Simply name opening without showing it in context.",
+      "Use a broad claim that ignores audience and purpose.",
+      "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation"
+    ],
+    "correct": 3,
+    "explanation": "The strongest choice demonstrates the concept itself: A concise graph slide works when the speaker explains axes, pattern, evidence and limitation\nHint: Choose the option that actually applies the idea rather than merely naming it.",
+    "structuredExplanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly07-t-010",
+    "curriculumCode": "AC9E7LY07",
+    "bank": "test",
+    "skill": "revision",
+    "printable": true,
+    "type": "single",
+    "question": "Read the new context carefully. In a community theatre review, someone writes, “Confidence substitutes for evidence.” Which revision would make the analysis more accurate?",
+    "audioPrompt": "Read the new context carefully. In a community theatre review, someone writes, “Confidence substitutes for evidence.” Which revision would make the analysis more accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Support claims",
+      "Confidence substitutes for evidence",
+      "Keep the claim but add “always” to make it sound certain.",
+      "Remove the evidence and replace it with a personal preference."
+    ],
+    "correct": 0,
+    "explanation": "Support claims The revision fixes the misconception without losing the useful part of the original idea.\nHint: Prefer qualified, evidence-based wording over an absolute claim.",
+    "structuredExplanation": {
+      "summary": "Support claims The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly07-t-011",
+    "curriculumCode": "AC9E7LY07",
+    "bank": "test",
+    "skill": "evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Which answer is best supported in this new situation? A water-quality report includes “interpret source and significance.” Which analysis is strongest?",
+    "audioPrompt": "Which answer is best supported in this new situation? A water-quality report includes “interpret source and significance.” Which analysis is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is important only because it is an example of evidence.",
+      "Readable graph/table",
+      "Its effect is guaranteed no matter who the audience is.",
+      "It should be judged only by whether the reader personally likes it."
+    ],
+    "correct": 1,
+    "explanation": "The strongest analysis connects the evidence to its function: Readable graph/table\nHint: Use a feature → evidence → effect chain.",
+    "structuredExplanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Readable graph/table",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly07-t-012",
+    "curriculumCode": "AC9E7LY07",
+    "bank": "test",
+    "skill": "visual unreadable",
+    "printable": true,
+    "type": "single",
+    "question": "Use the evidence in this regional sports commentary. Which interpretation of “simplify scale/text and improve contrast” would be most useful in a regional sports commentary?",
+    "audioPrompt": "Use the evidence in this regional sports commentary. Which interpretation of “simplify scale/text and improve contrast” would be most useful in a regional sports commentary?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It proves that visual unreadable always has one fixed effect.",
+      "It can be analysed without referring to the actual wording.",
+      "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback",
+      "It is automatically better because it sounds more formal."
+    ],
+    "correct": 2,
+    "explanation": "The interpretation uses the specific evidence and keeps the effect tied to context.\nHint: Avoid automatic rules; explain what this example does here.",
+    "structuredExplanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly07-t-013",
+    "curriculumCode": "AC9E7LY07",
+    "bank": "test",
+    "skill": "rehearsal",
+    "printable": true,
+    "type": "single",
+    "question": "Choose the most precise analysis for this unfamiliar example. A astronomy exhibition uses the idea “practice used to test and revise communication.” Which term would make the analysis most precise?",
+    "audioPrompt": "Choose the most precise analysis for this unfamiliar example. A astronomy exhibition uses the idea “practice used to test and revise communication.” Which term would make the analysis most precise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "signposting",
+      "delivery",
+      "It makes a broader claim than the evidence supports.",
+      "rehearsal"
+    ],
+    "correct": 3,
+    "explanation": "Rehearsal is the precise term for practice used to test and revise communication.\nHint: Select the term that matches the whole definition and then check it against the context.",
+    "structuredExplanation": {
+      "summary": "Rehearsal is the precise term for practice used to test and revise communication.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly07-t-014",
+    "curriculumCode": "AC9E7LY07",
+    "bank": "test",
+    "skill": "purposeful oral and multimodal presentations",
+    "printable": true,
+    "type": "single",
+    "question": "Which response would hold up under close reading? A farmers market profile needs a concise example of Purposeful Oral and Multimodal Presentations. Which choice best fits?",
+    "audioPrompt": "Which response would hold up under close reading? A farmers market profile needs a concise example of Purposeful Oral and Multimodal Presentations. Which choice best fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -134,26 +395,26 @@ window.skillrTestQuestions = [
     "answers": [
       "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
       "Confidence substitutes for evidence",
-      "Support claims",
-      "Language making presentation structure explicit"
+      "Simply name opening without showing it in context.",
+      "Use a broad claim that ignores audience and purpose."
     ],
     "correct": 0,
-    "explanation": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation\nHint: Support claims.",
+    "explanation": "The strongest choice demonstrates the concept itself: A concise graph slide works when the speaker explains axes, pattern, evidence and limitation\nHint: Choose the option that actually applies the idea rather than merely naming it.",
     "structuredExplanation": {
-      "summary": "A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
-      "hint": "Support claims."
+      "summary": "The strongest choice demonstrates the concept itself: A concise graph slide works when the speaker explains axes, pattern, evidence and limitation",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly07-t-006",
+    "id": "ac9e7ly07-t-015",
     "curriculumCode": "AC9E7LY07",
     "bank": "test",
-    "skill": "set rehearsal criterion",
+    "skill": "revision",
     "printable": true,
     "type": "single",
-    "question": "Which response best uses set rehearsal criterion in purposeful oral and multimodal presentations?",
-    "audioPrompt": "Which response best uses set rehearsal criterion in purposeful oral and multimodal presentations?",
+    "question": "What is the strongest conclusion from the wording given? In a emergency-preparedness video, someone writes, “Slides become script.” Which revision would make the analysis more accurate?",
+    "audioPrompt": "What is the strongest conclusion from the wording given? In a emergency-preparedness video, someone writes, “Slides become script.” Which revision would make the analysis more accurate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -162,27 +423,27 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Slides become script",
-      "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
       "Explain visuals orally",
-      "Language making presentation structure explicit"
+      "Keep the claim but add “always” to make it sound certain.",
+      "Remove the evidence and replace it with a personal preference."
     ],
     "correct": 1,
-    "explanation": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.\nHint: Explain visuals orally.",
+    "explanation": "Explain visuals orally The revision fixes the misconception without losing the useful part of the original idea.\nHint: Prefer qualified, evidence-based wording over an absolute claim.",
     "structuredExplanation": {
-      "summary": "Slides should not contain the full script. Use concise cues and visuals while the speaker provides explanation and connection.",
-      "hint": "Explain visuals orally."
+      "summary": "Explain visuals orally The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly07-t-007",
+    "id": "ac9e7ly07-t-016",
     "curriculumCode": "AC9E7LY07",
     "bank": "test",
-    "skill": "respond to questions",
+    "skill": "evidence",
     "printable": true,
     "type": "single",
-    "question": "A Year 7 student is working with a text and needs to use respond to questions. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 7 student is working with a text and needs to use respond to questions. Which option best demonstrates the skill?",
+    "question": "Which choice uses the concept without overgeneralising? A cycling safety infographic includes “interpret source and significance.” Which analysis is strongest?",
+    "audioPrompt": "Which choice uses the concept without overgeneralising? A cycling safety infographic includes “interpret source and significance.” Which analysis is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -190,47 +451,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Volume set to maximum",
-      "Use controlled audibility and emphasis",
-      "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
-      "Language making presentation structure explicit"
+      "It is important only because it is an example of evidence.",
+      "Its effect is guaranteed no matter who the audience is.",
+      "Readable graph/table",
+      "It should be judged only by whether the reader personally likes it."
     ],
     "correct": 2,
-    "explanation": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.\nHint: Use controlled audibility and emphasis.",
+    "explanation": "The strongest analysis connects the evidence to its function: Readable graph/table\nHint: Use a feature → evidence → effect chain.",
     "structuredExplanation": {
-      "summary": "Rehearsal tests audience understanding, not just memorisation. Record timing and seek criterion-based feedback.",
-      "hint": "Use controlled audibility and emphasis."
+      "summary": "The strongest analysis connects the evidence to its function: Readable graph/table",
+      "hint": "Use a feature → evidence → effect chain."
     },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9e7ly07-t-008",
-    "curriculumCode": "AC9E7LY07",
-    "bank": "test",
-    "skill": "create roadmap",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is working with a text and needs to use create roadmap. Which option best demonstrates the skill?",
-    "audioPrompt": "A Year 7 student is working with a text and needs to use create roadmap. Which option best demonstrates the skill?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Rehearsal changes delivery only",
-      "Revise content and structure when needed",
-      "Language making presentation structure explicit",
-      "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery."
-    ],
-    "correct": 3,
-    "explanation": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.\nHint: Revise content and structure when needed.",
-    "structuredExplanation": {
-      "summary": "A strong presentation makes its structure audible, explains rather than reads visuals and uses rehearsal evidence to improve content, timing and delivery.",
-      "hint": "Revise content and structure when needed."
-    },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "skillr-actual-v4"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

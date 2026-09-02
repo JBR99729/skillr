@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_specialist_term",
-    "question": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "specialist_vocabulary",
+    "question": "Which term best matches this meaning: “terms associated with a field or discipline”?",
+    "audio_prompt": "Which term best matches this meaning: “terms associated with a field or discipline”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Evaporation names the process in ‘water evaporates’",
+        "text": "nominalisation",
+        "is_correct": false
+      },
+      {
+        "text": "abstract noun",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "specialist vocabulary",
         "is_correct": true
-      },
-      {
-        "text": "Long word assumed technical",
-        "is_correct": false
-      },
-      {
-        "text": "Function and disciplinary meaning matter",
-        "is_correct": false
-      },
-      {
-        "text": "Terms associated with a field or discipline",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Evaporation names the process in ‘water evaporates’",
-      "hint": "Function and disciplinary meaning matter."
+      "summary": "Specialist vocabulary means terms associated with a field or discipline. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Specialist, Technical and Abstract Vocabulary."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "unpack_morphology",
-    "question": "A Year 7 student is working with a text and needs to use unpack morphology. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use unpack morphology. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "water_turns_into_vapour",
+    "question": "Read this example: “evaporation.” Which description fits it best?",
+    "audio_prompt": "Read this example: “evaporation.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Nominalisation always improves writing",
-        "is_correct": false
-      },
-      {
-        "text": "Nominalisation can create concise academic writing but can hide agency or make relationships dense.",
+        "text": "water turns into vapour",
         "is_correct": true
       },
       {
-        "text": "It can obscure agency and action",
+        "text": "everyday expression",
         "is_correct": false
       },
       {
-        "text": "Terms associated with a field or discipline",
+        "text": "soil is removed",
+        "is_correct": false
+      },
+      {
+        "text": "results vary",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Nominalisation can create concise academic writing but can hide agency or make relationships dense.",
-      "hint": "It can obscure agency and action."
+      "summary": "The example matches water turns into vapour. Names process",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "turn_process_into_nominalisation",
-    "question": "A Year 7 student is working with a text and needs to use turn process into nominalisation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use turn process into nominalisation. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "step_3",
+    "question": "Which label most accurately describes “read surrounding definition/example”?",
+    "audio_prompt": "Which label most accurately describes “read surrounding definition/example”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Definition copied without context",
+        "text": "step 1",
         "is_correct": false
       },
       {
-        "text": "Use examples and word networks",
-        "is_correct": false
-      },
-      {
-        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone.",
+        "text": "step 3",
         "is_correct": true
       },
       {
-        "text": "Terms associated with a field or discipline",
+        "text": "step 2",
+        "is_correct": false
+      },
+      {
+        "text": "step 4",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone.",
-      "hint": "Use examples and word networks."
+      "summary": "“read surrounding definition/example” is best described as step 3.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "restore_agency",
-    "question": "A Year 7 student is working with a text and needs to use restore agency. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use restore agency. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "results_vary",
+    "question": "Read this example: “variation.” Which description fits it best?",
+    "audio_prompt": "Read this example: “variation.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Everyday and technical meanings conflated",
+        "text": "everyday expression",
         "is_correct": false
       },
       {
-        "text": "Check discipline",
+        "text": "water turns into vapour",
         "is_correct": false
       },
       {
-        "text": "Terms associated with a field or discipline",
-        "is_correct": false
-      },
-      {
-        "text": "Specialist vocabulary compresses disciplinary concepts and relationships, but requires explicit definition, context and links among word families.",
+        "text": "results vary",
         "is_correct": true
+      },
+      {
+        "text": "soil is removed",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Specialist vocabulary compresses disciplinary concepts and relationships, but requires explicit definition, context and links among word families.",
-      "hint": "Check discipline."
+      "summary": "The example matches results vary. Turns process into abstract noun",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "use_term_in_context",
-    "question": "Which statement correctly identifies nominalisation in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which statement correctly identifies nominalisation in specialist, technical and abstract vocabulary?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Long word assumed technical”?",
+    "audio_prompt": "Which response best corrects this claim: “Long word assumed technical”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Evaporation names the process in ‘water evaporates’",
-        "is_correct": true
+        "text": "Nominalisation always improves writing",
+        "is_correct": false
       },
       {
-        "text": "Long word assumed technical",
+        "text": "Definition copied without context",
+        "is_correct": false
+      },
+      {
+        "text": "Everyday and technical meanings conflated",
         "is_correct": false
       },
       {
         "text": "Function and disciplinary meaning matter",
-        "is_correct": false
-      },
-      {
-        "text": "Terms associated with a field or discipline",
-        "is_correct": false
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Evaporation names the process in ‘water evaporates’",
-      "hint": "Function and disciplinary meaning matter."
+      "summary": "Function and disciplinary meaning matter This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_specialist_term",
-    "question": "Which choice best describes abstract noun in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which choice best describes abstract noun in specialist, technical and abstract vocabulary?",
+    "stage": "recognise",
+    "skill": "abstract_noun",
+    "question": "Which term best matches this meaning: “noun naming an idea, quality or process”?",
+    "audio_prompt": "Which term best matches this meaning: “noun naming an idea, quality or process”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Nominalisation always improves writing",
-        "is_correct": false
-      },
-      {
-        "text": "Nominalisation can create concise academic writing but can hide agency or make relationships dense.",
+        "text": "abstract noun",
         "is_correct": true
       },
       {
-        "text": "It can obscure agency and action",
+        "text": "specialist vocabulary",
         "is_correct": false
       },
       {
-        "text": "Terms associated with a field or discipline",
+        "text": "nominalisation",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Nominalisation can create concise academic writing but can hide agency or make relationships dense.",
-      "hint": "It can obscure agency and action."
+      "summary": "Abstract noun means noun naming an idea, quality or process. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Specialist, Technical and Abstract Vocabulary."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "unpack_morphology",
-    "question": "What does correct use require for specialist vocabulary in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "What does correct use require for specialist vocabulary in specialist, technical and abstract vocabulary?",
+    "stage": "recognise",
+    "skill": "everyday_expression",
+    "question": "Read this example: “specialist form.” Which description fits it best?",
+    "audio_prompt": "Read this example: “specialist form.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Definition copied without context",
+        "text": "water turns into vapour",
         "is_correct": false
       },
       {
-        "text": "Use examples and word networks",
-        "is_correct": false
-      },
-      {
-        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone.",
+        "text": "everyday expression",
         "is_correct": true
       },
       {
-        "text": "Terms associated with a field or discipline",
+        "text": "soil is removed",
+        "is_correct": false
+      },
+      {
+        "text": "results vary",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone.",
-      "hint": "Use examples and word networks."
+      "summary": "The example matches everyday expression. Meaning effect",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "turn_process_into_nominalisation",
-    "question": "A Year 7 student is working with a text and needs to use turn process into nominalisation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use turn process into nominalisation. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "step_2",
+    "question": "Which label most accurately describes “separate prefixes/suffixes”?",
+    "audio_prompt": "Which label most accurately describes “separate prefixes/suffixes”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "step 1",
+        "is_correct": false
+      },
+      {
+        "text": "step 3",
+        "is_correct": false
+      },
+      {
+        "text": "step 2",
+        "is_correct": true
+      },
+      {
+        "text": "step 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“separate prefixes/suffixes” is best described as step 2.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-009",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "soil_is_removed",
+    "question": "Read this example: “erosion.” Which description fits it best?",
+    "audio_prompt": "Read this example: “erosion.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "everyday expression",
+        "is_correct": false
+      },
+      {
+        "text": "water turns into vapour",
+        "is_correct": false
+      },
+      {
+        "text": "results vary",
+        "is_correct": false
+      },
+      {
+        "text": "soil is removed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The example matches soil is removed. Classifies process",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-010",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Nominalisation always improves writing”?",
+    "audio_prompt": "Which response best corrects this claim: “Nominalisation always improves writing”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": true
+      },
+      {
+        "text": "Long word assumed technical",
+        "is_correct": false
+      },
+      {
+        "text": "Definition copied without context",
+        "is_correct": false
+      },
+      {
+        "text": "Everyday and technical meanings conflated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It can obscure agency and action This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-011",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "everyday_expression",
+    "question": "Why does “specialist form” illustrate everyday expression?",
+    "audio_prompt": "Why does “specialist form” illustrate everyday expression?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “specialist form”.",
+        "is_correct": false
+      },
+      {
+        "text": "Meaning effect",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Meaning effect",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-012",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "water_turns_into_vapour",
+    "question": "What is the best explanation of how “evaporation” works?",
+    "audio_prompt": "What is the best explanation of how “evaporation” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “evaporation”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Names process",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Names process",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-013",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "soil_is_removed",
+    "question": "Which explanation connects the feature in “erosion” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “erosion” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “erosion”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Classifies process",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Classifies process",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-014",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "results_vary",
+    "question": "What should a careful reader notice about “variation”?",
+    "audio_prompt": "What should a careful reader notice about “variation”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Turns process into abstract noun",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “variation”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Turns process into abstract noun",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-015",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "we_measured_accurately",
+    "question": "How does the example “measurement accuracy” contribute to meaning?",
+    "audio_prompt": "How does the example “measurement accuracy” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “measurement accuracy”.",
+        "is_correct": false
+      },
+      {
+        "text": "Supports comparison/evaluation",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Supports comparison/evaluation",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-016",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "people_classify_organisms",
+    "question": "Why does “biological classification” illustrate people classify organisms?",
+    "audio_prompt": "Why does “biological classification” illustrate people classify organisms?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “biological classification”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Builds disciplinary taxonomy",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Builds disciplinary taxonomy",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-017",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_1",
+    "question": "What is the best explanation of how “identify base/root” works?",
+    "audio_prompt": "What is the best explanation of how “identify base/root” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “identify base/root”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-018",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_2",
+    "question": "Which explanation connects the feature in “separate prefixes/suffixes” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “separate prefixes/suffixes” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “separate prefixes/suffixes”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-019",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_3",
+    "question": "What should a careful reader notice about “read surrounding definition/example”?",
+    "audio_prompt": "What should a careful reader notice about “read surrounding definition/example”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “read surrounding definition/example”.",
+        "is_correct": false
+      },
+      {
+        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-020",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_4",
+    "question": "How does the example “connect word family” contribute to meaning?",
+    "audio_prompt": "How does the example “connect word family” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “connect word family”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-021",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Long word assumed technical.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Long word assumed technical.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Long word assumed technical",
+        "is_correct": false
+      },
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": false
+      },
+      {
+        "text": "Use examples and word networks",
+        "is_correct": false
+      },
+      {
+        "text": "Function and disciplinary meaning matter",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Function and disciplinary meaning matter The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-022",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Nominalisation always improves writing”?",
+    "audio_prompt": "What is the main problem with this statement: “Nominalisation always improves writing”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": true
+      },
+      {
+        "text": "Nominalisation always improves writing",
+        "is_correct": false
+      },
+      {
+        "text": "Function and disciplinary meaning matter",
+        "is_correct": false
+      },
+      {
+        "text": "Use examples and word networks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It can obscure agency and action The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-023",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Definition copied without context”?",
+    "audio_prompt": "Which correction avoids the misconception in “Definition copied without context”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Definition copied without context",
+        "is_correct": false
+      },
+      {
+        "text": "Use examples and word networks",
+        "is_correct": true
+      },
+      {
+        "text": "Function and disciplinary meaning matter",
+        "is_correct": false
+      },
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use examples and word networks The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-024",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Everyday and technical meanings conflated.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Everyday and technical meanings conflated.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -298,26 +985,699 @@
         "is_correct": false
       },
       {
+        "text": "Function and disciplinary meaning matter",
+        "is_correct": false
+      },
+      {
         "text": "Check discipline",
+        "is_correct": true
+      },
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check discipline The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-025",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Long word assumed technical” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Long word assumed technical” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Long word assumed technical",
         "is_correct": false
       },
       {
-        "text": "Terms associated with a field or discipline",
+        "text": "It can obscure agency and action",
         "is_correct": false
       },
       {
-        "text": "Specialist vocabulary compresses disciplinary concepts and relationships, but requires explicit definition, context and links among word families.",
+        "text": "Use examples and word networks",
+        "is_correct": false
+      },
+      {
+        "text": "Function and disciplinary meaning matter",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Specialist vocabulary compresses disciplinary concepts and relationships, but requires explicit definition, context and links among word families.",
-      "hint": "Check discipline."
+      "summary": "Function and disciplinary meaning matter The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-026",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Nominalisation always improves writing.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Nominalisation always improves writing.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": true
+      },
+      {
+        "text": "Nominalisation always improves writing",
+        "is_correct": false
+      },
+      {
+        "text": "Function and disciplinary meaning matter",
+        "is_correct": false
+      },
+      {
+        "text": "Use examples and word networks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It can obscure agency and action The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-027",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Definition copied without context”?",
+    "audio_prompt": "What is the main problem with this statement: “Definition copied without context”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Definition copied without context",
+        "is_correct": false
+      },
+      {
+        "text": "Use examples and word networks",
+        "is_correct": true
+      },
+      {
+        "text": "Function and disciplinary meaning matter",
+        "is_correct": false
+      },
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use examples and word networks The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-028",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Everyday and technical meanings conflated”?",
+    "audio_prompt": "Which correction avoids the misconception in “Everyday and technical meanings conflated”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Everyday and technical meanings conflated",
+        "is_correct": false
+      },
+      {
+        "text": "Function and disciplinary meaning matter",
+        "is_correct": false
+      },
+      {
+        "text": "Check discipline",
+        "is_correct": true
+      },
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check discipline The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-029",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Long word assumed technical.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Long word assumed technical.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Long word assumed technical",
+        "is_correct": false
+      },
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": false
+      },
+      {
+        "text": "Use examples and word networks",
+        "is_correct": false
+      },
+      {
+        "text": "Function and disciplinary meaning matter",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Function and disciplinary meaning matter The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-030",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Nominalisation always improves writing” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Nominalisation always improves writing” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": true
+      },
+      {
+        "text": "Nominalisation always improves writing",
+        "is_correct": false
+      },
+      {
+        "text": "Function and disciplinary meaning matter",
+        "is_correct": false
+      },
+      {
+        "text": "Use examples and word networks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It can obscure agency and action The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-031",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "specialist_technical_and_abstract_vocabulary",
+    "question": "A local history display needs a concise example of Specialist, Technical and Abstract Vocabulary. Which choice best fits?",
+    "audio_prompt": "A local history display needs a concise example of Specialist, Technical and Abstract Vocabulary. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Long word assumed technical",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation names the process in ‘water evaporates’",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name everyday expression without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Evaporation names the process in ‘water evaporates’",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-032",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a science expo, someone writes, “Nominalisation always improves writing.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a science expo, someone writes, “Nominalisation always improves writing.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Nominalisation always improves writing",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "It can obscure agency and action",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It can obscure agency and action The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-033",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "soil_is_removed",
+    "question": "A library newsletter includes “erosion.” Which analysis is strongest?",
+    "audio_prompt": "A library newsletter includes “erosion.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of soil is removed.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Classifies process",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Classifies process",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-034",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "step_4",
+    "question": "Which interpretation of “connect word family” would be most useful in a student council proposal?",
+    "audio_prompt": "Which interpretation of “connect word family” would be most useful in a student council proposal?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that step 4 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-035",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "nominalisation",
+    "question": "A sports club notice uses the idea “process of expressing an action or quality as a noun.” Which term would make the analysis most precise?",
+    "audio_prompt": "A sports club notice uses the idea “process of expressing an action or quality as a noun.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "specialist vocabulary",
+        "is_correct": false
+      },
+      {
+        "text": "nominalisation",
+        "is_correct": true
+      },
+      {
+        "text": "abstract noun",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Nominalisation is the precise term for process of expressing an action or quality as a noun.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-036",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "specialist_technical_and_abstract_vocabulary",
+    "question": "A museum exhibit needs a concise example of Specialist, Technical and Abstract Vocabulary. Which choice best fits?",
+    "audio_prompt": "A museum exhibit needs a concise example of Specialist, Technical and Abstract Vocabulary. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Nominalisation always improves writing",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name people classify organisms without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation names the process in ‘water evaporates’",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Evaporation names the process in ‘water evaporates’",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-037",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a community garden report, someone writes, “Definition copied without context.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a community garden report, someone writes, “Definition copied without context.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Definition copied without context",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Use examples and word networks",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use examples and word networks The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-038",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "water_turns_into_vapour",
+    "question": "A class debate includes “evaporation.” Which analysis is strongest?",
+    "audio_prompt": "A class debate includes “evaporation.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Names process",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of water turns into vapour.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Names process",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-039",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "step_3",
+    "question": "Which interpretation of “read surrounding definition/example” would be most useful in a environmental campaign?",
+    "audio_prompt": "Which interpretation of “read surrounding definition/example” would be most useful in a environmental campaign?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that step 3 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-p-040",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "specialist_vocabulary",
+    "question": "A excursion briefing uses the idea “terms associated with a field or discipline.” Which term would make the analysis most precise?",
+    "audio_prompt": "A excursion briefing uses the idea “terms associated with a field or discipline.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "nominalisation",
+        "is_correct": false
+      },
+      {
+        "text": "abstract noun",
+        "is_correct": false
+      },
+      {
+        "text": "specialist vocabulary",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Specialist vocabulary is the precise term for terms associated with a field or discipline.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "restore_agency",
-    "question": "A Year 7 student is working with a text and needs to use restore agency. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use restore agency. Which option best demonstrates the skill?",
+    "skill": "water_turns_into_vapour",
+    "question": "A regional museum audio guide includes “evaporation.” Which analysis is strongest?",
+    "audio_prompt": "A regional museum audio guide includes “evaporation.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Evaporation names the process in ‘water evaporates’",
+        "text": "Names process",
         "is_correct": true
       },
       {
-        "text": "Long word assumed technical",
+        "text": "It is important only because it is an example of water turns into vapour.",
         "is_correct": false
       },
       {
-        "text": "Function and disciplinary meaning matter",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Terms associated with a field or discipline",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Evaporation names the process in ‘water evaporates’",
-      "hint": "Function and disciplinary meaning matter."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Names process",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "use_term_in_context",
-    "question": "A Year 7 student is working with a text and needs to use use term in context. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use term in context. Which option best demonstrates the skill?",
+    "skill": "step_3",
+    "question": "Read the new context carefully. Which interpretation of “read surrounding definition/example” would be most useful in a wildlife rescue webpage?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “read surrounding definition/example” would be most useful in a wildlife rescue webpage?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Nominalisation always improves writing",
+        "text": "It proves that step 3 always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Nominalisation can create concise academic writing but can hide agency or make relationships dense.",
+        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
         "is_correct": true
       },
       {
-        "text": "It can obscure agency and action",
+        "text": "It can be analysed without referring to the actual wording.",
         "is_correct": false
       },
       {
-        "text": "Terms associated with a field or discipline",
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Nominalisation can create concise academic writing but can hide agency or make relationships dense.",
-      "hint": "It can obscure agency and action."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-t-003",
@@ -399,9 +1767,50 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_specialist_term",
-    "question": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
+    "skill": "specialist_vocabulary",
+    "question": "Which answer is best supported in this new situation? A local council consultation uses the idea “terms associated with a field or discipline.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A local council consultation uses the idea “terms associated with a field or discipline.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "nominalisation",
+        "is_correct": false
+      },
+      {
+        "text": "abstract noun",
+        "is_correct": false
+      },
+      {
+        "text": "specialist vocabulary",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Specialist vocabulary is the precise term for terms associated with a field or discipline.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-t-004",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "specialist_technical_and_abstract_vocabulary",
+    "question": "Use the evidence in this heritage trail brochure. A heritage trail brochure needs a concise example of Specialist, Technical and Abstract Vocabulary. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this heritage trail brochure. A heritage trail brochure needs a concise example of Specialist, Technical and Abstract Vocabulary. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -412,60 +1821,27 @@
         "is_correct": false
       },
       {
-        "text": "Use examples and word networks",
+        "text": "Simply name we measured accurately without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone.",
-        "is_correct": true
-      },
-      {
-        "text": "Terms associated with a field or discipline",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone.",
-      "hint": "Use examples and word networks."
-    }
-  },
-  {
-    "id": "ac9e7la08-t-004",
-    "curriculum_code": "AC9E7LA08",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "unpack_morphology",
-    "question": "A Year 7 student is working with a text and needs to use unpack morphology. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use unpack morphology. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Everyday and technical meanings conflated",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       },
       {
-        "text": "Check discipline",
-        "is_correct": false
-      },
-      {
-        "text": "Terms associated with a field or discipline",
-        "is_correct": false
-      },
-      {
-        "text": "Specialist vocabulary compresses disciplinary concepts and relationships, but requires explicit definition, context and links among word families.",
+        "text": "Evaporation names the process in ‘water evaporates’",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Specialist vocabulary compresses disciplinary concepts and relationships, but requires explicit definition, context and links among word families.",
-      "hint": "Check discipline."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: Evaporation names the process in ‘water evaporates’",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la08-t-005",
@@ -473,9 +1849,173 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "turn_process_into_nominalisation",
-    "question": "What should be checked when applying turn process into nominalisation in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "What should be checked when applying turn process into nominalisation in specialist, technical and abstract vocabulary?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a community theatre review, someone writes, “Everyday and technical meanings conflated.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a community theatre review, someone writes, “Everyday and technical meanings conflated.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check discipline",
+        "is_correct": true
+      },
+      {
+        "text": "Everyday and technical meanings conflated",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check discipline The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-t-006",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "everyday_expression",
+    "question": "Which response would hold up under close reading? A water-quality report includes “specialist form.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A water-quality report includes “specialist form.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of everyday expression.",
+        "is_correct": false
+      },
+      {
+        "text": "Meaning effect",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Meaning effect",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-t-007",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "step_2",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “separate prefixes/suffixes” would be most useful in a regional sports commentary?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “separate prefixes/suffixes” would be most useful in a regional sports commentary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that step 2 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-t-008",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "abstract_noun",
+    "question": "Which choice uses the concept without overgeneralising? A astronomy exhibition uses the idea “noun naming an idea, quality or process.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A astronomy exhibition uses the idea “noun naming an idea, quality or process.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "specialist vocabulary",
+        "is_correct": false
+      },
+      {
+        "text": "nominalisation",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "abstract noun",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Abstract noun is the precise term for noun naming an idea, quality or process.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-t-009",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "specialist_technical_and_abstract_vocabulary",
+    "question": "A farmers market profile needs a concise example of Specialist, Technical and Abstract Vocabulary. Which choice best fits?",
+    "audio_prompt": "A farmers market profile needs a concise example of Specialist, Technical and Abstract Vocabulary. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -486,33 +2026,242 @@
         "is_correct": true
       },
       {
-        "text": "Long word assumed technical",
+        "text": "Everyday and technical meanings conflated",
         "is_correct": false
       },
       {
-        "text": "Function and disciplinary meaning matter",
+        "text": "Simply name results vary without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Terms associated with a field or discipline",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Evaporation names the process in ‘water evaporates’",
-      "hint": "Function and disciplinary meaning matter."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: Evaporation names the process in ‘water evaporates’",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la08-t-006",
+    "id": "ac9e7la08-t-010",
     "curriculum_code": "AC9E7LA08",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "restore_agency",
-    "question": "Which response best uses restore agency in specialist, technical and abstract vocabulary?",
-    "audio_prompt": "Which response best uses restore agency in specialist, technical and abstract vocabulary?",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a emergency-preparedness video, someone writes, “Long word assumed technical.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a emergency-preparedness video, someone writes, “Long word assumed technical.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Long word assumed technical",
+        "is_correct": false
+      },
+      {
+        "text": "Function and disciplinary meaning matter",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Function and disciplinary meaning matter The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-t-011",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "people_classify_organisms",
+    "question": "Which answer is best supported in this new situation? A cycling safety infographic includes “biological classification.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A cycling safety infographic includes “biological classification.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of people classify organisms.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Builds disciplinary taxonomy",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Builds disciplinary taxonomy",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-t-012",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "step_1",
+    "question": "Use the evidence in this river-health podcast. Which interpretation of “identify base/root” would be most useful in a river-health podcast?",
+    "audio_prompt": "Use the evidence in this river-health podcast. Which interpretation of “identify base/root” would be most useful in a river-health podcast?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that step 1 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-t-013",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "nominalisation",
+    "question": "Choose the most precise analysis for this unfamiliar example. A town festival website uses the idea “process of expressing an action or quality as a noun.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A town festival website uses the idea “process of expressing an action or quality as a noun.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "nominalisation",
+        "is_correct": true
+      },
+      {
+        "text": "specialist vocabulary",
+        "is_correct": false
+      },
+      {
+        "text": "abstract noun",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Nominalisation is the precise term for process of expressing an action or quality as a noun.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-t-014",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "specialist_technical_and_abstract_vocabulary",
+    "question": "Which response would hold up under close reading? A youth radio interview needs a concise example of Specialist, Technical and Abstract Vocabulary. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A youth radio interview needs a concise example of Specialist, Technical and Abstract Vocabulary. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Long word assumed technical",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation names the process in ‘water evaporates’",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name soil is removed without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Evaporation names the process in ‘water evaporates’",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la08-t-015",
+    "curriculum_code": "AC9E7LA08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a coastal restoration article, someone writes, “Nominalisation always improves writing.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a coastal restoration article, someone writes, “Nominalisation always improves writing.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -523,96 +2272,67 @@
         "is_correct": false
       },
       {
-        "text": "Nominalisation can create concise academic writing but can hide agency or make relationships dense.",
-        "is_correct": true
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
       },
       {
         "text": "It can obscure agency and action",
-        "is_correct": false
-      },
-      {
-        "text": "Terms associated with a field or discipline",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Nominalisation can create concise academic writing but can hide agency or make relationships dense.",
-      "hint": "It can obscure agency and action."
-    }
-  },
-  {
-    "id": "ac9e7la08-t-007",
-    "curriculum_code": "AC9E7LA08",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "use_term_in_context",
-    "question": "A Year 7 student is working with a text and needs to use use term in context. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use term in context. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Definition copied without context",
-        "is_correct": false
-      },
-      {
-        "text": "Use examples and word networks",
-        "is_correct": false
-      },
-      {
-        "text": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone.",
         "is_correct": true
       },
       {
-        "text": "Terms associated with a field or discipline",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The same word may have a specialised meaning in one subject. Define by use, not by a vague synonym alone.",
-      "hint": "Use examples and word networks."
-    }
+      "summary": "It can obscure agency and action The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la08-t-008",
+    "id": "ac9e7la08-t-016",
     "curriculum_code": "AC9E7LA08",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_specialist_term",
-    "question": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify specialist term. Which option best demonstrates the skill?",
+    "skill": "we_measured_accurately",
+    "question": "Which choice uses the concept without overgeneralising? A public transport campaign includes “measurement accuracy.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A public transport campaign includes “measurement accuracy.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Everyday and technical meanings conflated",
+        "text": "It is important only because it is an example of we measured accurately.",
         "is_correct": false
       },
       {
-        "text": "Check discipline",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Terms associated with a field or discipline",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       },
       {
-        "text": "Specialist vocabulary compresses disciplinary concepts and relationships, but requires explicit definition, context and links among word families.",
+        "text": "Supports comparison/evaluation",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Specialist vocabulary compresses disciplinary concepts and relationships, but requires explicit definition, context and links among word families.",
-      "hint": "Check discipline."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Supports comparison/evaluation",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

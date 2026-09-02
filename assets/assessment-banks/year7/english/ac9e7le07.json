@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "state_intended_effect",
-    "question": "A Year 7 student is working with a text and needs to use state intended effect. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use state intended effect. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "experimentation",
+    "question": "Which term best matches this meaning: “deliberate testing of unconventional or transformed craft choices”?",
+    "audio_prompt": "Which term best matches this meaning: “deliberate testing of unconventional or transformed craft choices”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+        "text": "mentor technique",
+        "is_correct": false
+      },
+      {
+        "text": "reader orientation",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "experimentation",
         "is_correct": true
-      },
-      {
-        "text": "Experiment copies wording or plot",
-        "is_correct": false
-      },
-      {
-        "text": "Transform the technique",
-        "is_correct": false
-      },
-      {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
-      "hint": "Transform the technique."
+      "summary": "Experimentation means deliberate testing of unconventional or transformed craft choices. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Creating and Editing Experimental Literary Texts."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "transform_mentor_technique",
-    "question": "A Year 7 student is working with a text and needs to use transform mentor technique. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use transform mentor technique. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "disorientation",
+    "question": "Read this example: “fragmented chronology with controlled clues.” Which description fits it best?",
+    "audio_prompt": "Read this example: “fragmented chronology with controlled clues.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Confusion assumed sophisticated",
-        "is_correct": false
-      },
-      {
-        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+        "text": "disorientation",
         "is_correct": true
       },
       {
-        "text": "Provide purposeful cues",
+        "text": "intended effect",
         "is_correct": false
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "text": "intimacy",
+        "is_correct": false
+      },
+      {
+        "text": "unreliable viewpoint",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
-      "hint": "Provide purposeful cues."
+      "summary": "The example matches disorientation. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "test_orientation",
-    "question": "A Year 7 student is working with a text and needs to use test orientation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use test orientation. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "step_3",
+    "question": "Which label most accurately describes “transform context/viewpoint”?",
+    "audio_prompt": "Which label most accurately describes “transform context/viewpoint”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Every device added at once",
+        "text": "step 1",
         "is_correct": false
       },
       {
-        "text": "Select a coherent system",
-        "is_correct": false
-      },
-      {
-        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
+        "text": "step 3",
         "is_correct": true
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "text": "step 2",
+        "is_correct": false
+      },
+      {
+        "text": "step 4",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
-      "hint": "Select a coherent system."
+      "summary": "“transform context/viewpoint” is best described as step 3.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "revise_motif",
-    "question": "A Year 7 student is working with a text and needs to use revise motif. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use revise motif. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "unreliable_viewpoint",
+    "question": "Read this example: “contradiction between narration and visual evidence.” Which description fits it best?",
+    "audio_prompt": "Read this example: “contradiction between narration and visual evidence.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Editing conventions before structural revision",
+        "text": "intended effect",
         "is_correct": false
       },
       {
-        "text": "Resolve meaning first",
+        "text": "disorientation",
         "is_correct": false
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
-        "is_correct": false
-      },
-      {
-        "text": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+        "text": "unreliable viewpoint",
         "is_correct": true
+      },
+      {
+        "text": "intimacy",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
-      "hint": "Resolve meaning first."
+      "summary": "The example matches unreliable viewpoint. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "use_peer_response",
-    "question": "Which statement correctly identifies mentor technique in creating and editing experimental literary texts?",
-    "audio_prompt": "Which statement correctly identifies mentor technique in creating and editing experimental literary texts?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Experiment copies wording or plot”?",
+    "audio_prompt": "Which response best corrects this claim: “Experiment copies wording or plot”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
-        "is_correct": true
+        "text": "Confusion assumed sophisticated",
+        "is_correct": false
       },
       {
-        "text": "Experiment copies wording or plot",
+        "text": "Every device added at once",
+        "is_correct": false
+      },
+      {
+        "text": "Editing conventions before structural revision",
         "is_correct": false
       },
       {
         "text": "Transform the technique",
-        "is_correct": false
-      },
-      {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
-        "is_correct": false
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
-      "hint": "Transform the technique."
+      "summary": "Transform the technique This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "state_intended_effect",
-    "question": "Which choice best describes reader orientation in creating and editing experimental literary texts?",
-    "audio_prompt": "Which choice best describes reader orientation in creating and editing experimental literary texts?",
+    "stage": "recognise",
+    "skill": "reader_orientation",
+    "question": "Which term best matches this meaning: “support enabling readers to follow deliberate complexity”?",
+    "audio_prompt": "Which term best matches this meaning: “support enabling readers to follow deliberate complexity”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Confusion assumed sophisticated",
-        "is_correct": false
-      },
-      {
-        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+        "text": "reader orientation",
         "is_correct": true
       },
       {
-        "text": "Provide purposeful cues",
+        "text": "experimentation",
         "is_correct": false
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "text": "mentor technique",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
-      "hint": "Provide purposeful cues."
+      "summary": "Reader orientation means support enabling readers to follow deliberate complexity. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Creating and Editing Experimental Literary Texts."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "transform_mentor_technique",
-    "question": "What does correct use require for experimentation in creating and editing experimental literary texts?",
-    "audio_prompt": "What does correct use require for experimentation in creating and editing experimental literary texts?",
+    "stage": "recognise",
+    "skill": "open_interpretation",
+    "question": "Read this example: “ambiguous but evidence-rich ending.” Which description fits it best?",
+    "audio_prompt": "Read this example: “ambiguous but evidence-rich ending.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Every device added at once",
+        "text": "intended effect",
         "is_correct": false
       },
       {
-        "text": "Select a coherent system",
-        "is_correct": false
-      },
-      {
-        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
+        "text": "open interpretation",
         "is_correct": true
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "text": "disorientation",
+        "is_correct": false
+      },
+      {
+        "text": "intimacy",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
-      "hint": "Select a coherent system."
+      "summary": "The example matches open interpretation. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "test_orientation",
-    "question": "A Year 7 student is working with a text and needs to use test orientation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use test orientation. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "step_8",
+    "question": "Which label most accurately describes “edit conventions”?",
+    "audio_prompt": "Which label most accurately describes “edit conventions”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "step 1",
+        "is_correct": false
+      },
+      {
+        "text": "step 2",
+        "is_correct": false
+      },
+      {
+        "text": "step 8",
+        "is_correct": true
+      },
+      {
+        "text": "step 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“edit conventions” is best described as step 8.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-009",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "disorientation",
+    "question": "While reading a technology showcase, you notice the wording closely. Read this example: “fragmented chronology with controlled clues.” Which description fits it best?",
+    "audio_prompt": "While reading a technology showcase, you notice the wording closely. Read this example: “fragmented chronology with controlled clues.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "intended effect",
+        "is_correct": false
+      },
+      {
+        "text": "intimacy",
+        "is_correct": false
+      },
+      {
+        "text": "unreliable viewpoint",
+        "is_correct": false
+      },
+      {
+        "text": "disorientation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The example matches disorientation. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-010",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Confusion assumed sophisticated”?",
+    "audio_prompt": "Which response best corrects this claim: “Confusion assumed sophisticated”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": true
+      },
+      {
+        "text": "Experiment copies wording or plot",
+        "is_correct": false
+      },
+      {
+        "text": "Every device added at once",
+        "is_correct": false
+      },
+      {
+        "text": "Editing conventions before structural revision",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Provide purposeful cues This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-011",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "intended_effect",
+    "question": "Why does “possible experiment” illustrate intended effect?",
+    "audio_prompt": "Why does “possible experiment” illustrate intended effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “possible experiment”.",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-012",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "disorientation",
+    "question": "What is the best explanation of how “fragmented chronology with controlled clues” works?",
+    "audio_prompt": "What is the best explanation of how “fragmented chronology with controlled clues” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “fragmented chronology with”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-013",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "intimacy",
+    "question": "Which explanation connects the feature in “second-person address and close sensory focus” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “second-person address and close sensory focus” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “second-person address and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-014",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "unreliable_viewpoint",
+    "question": "What should a careful reader notice about “contradiction between narration and visual evidence”?",
+    "audio_prompt": "What should a careful reader notice about “contradiction between narration and visual evidence”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “contradiction between narration”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-015",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "layered_theme",
+    "question": "How does the example “recurring object changes meaning” contribute to meaning?",
+    "audio_prompt": "How does the example “recurring object changes meaning” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “recurring object changes”.",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-016",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "accelerating_tension",
+    "question": "Why does “shortening sections and sound pattern” illustrate accelerating tension?",
+    "audio_prompt": "Why does “shortening sections and sound pattern” illustrate accelerating tension?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “shortening sections and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-017",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "open_interpretation",
+    "question": "What is the best explanation of how “ambiguous but evidence-rich ending” works?",
+    "audio_prompt": "What is the best explanation of how “ambiguous but evidence-rich ending” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “ambiguous but evidence-rich”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-018",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_1",
+    "question": "Which explanation connects the feature in “state intended effect” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “state intended effect” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “state intended effect”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-019",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_2",
+    "question": "What should a careful reader notice about “identify mentor technique”?",
+    "audio_prompt": "What should a careful reader notice about “identify mentor technique”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “identify mentor technique”.",
+        "is_correct": false
+      },
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-020",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_3",
+    "question": "How does the example “transform context/viewpoint” contribute to meaning?",
+    "audio_prompt": "How does the example “transform context/viewpoint” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “transform context/viewpoint”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-021",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Experiment copies wording or plot.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Experiment copies wording or plot.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experiment copies wording or plot",
+        "is_correct": false
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Transform the technique The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-022",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Confusion assumed sophisticated”?",
+    "audio_prompt": "What is the main problem with this statement: “Confusion assumed sophisticated”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": true
+      },
+      {
+        "text": "Confusion assumed sophisticated",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Provide purposeful cues The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-023",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Every device added at once”?",
+    "audio_prompt": "Which correction avoids the misconception in “Every device added at once”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every device added at once",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": true
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select a coherent system The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-024",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Editing conventions before structural revision.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Editing conventions before structural revision.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -298,26 +985,699 @@
         "is_correct": false
       },
       {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
         "text": "Resolve meaning first",
+        "is_correct": true
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Resolve meaning first The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-025",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Experiment copies wording or plot” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Experiment copies wording or plot” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experiment copies wording or plot",
         "is_correct": false
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "text": "Provide purposeful cues",
         "is_correct": false
       },
       {
-        "text": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+        "text": "Select a coherent system",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
-      "hint": "Resolve meaning first."
+      "summary": "Transform the technique The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-026",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Confusion assumed sophisticated.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Confusion assumed sophisticated.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": true
+      },
+      {
+        "text": "Confusion assumed sophisticated",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Provide purposeful cues The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-027",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Every device added at once”?",
+    "audio_prompt": "What is the main problem with this statement: “Every device added at once”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every device added at once",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": true
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select a coherent system The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-028",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Editing conventions before structural revision”?",
+    "audio_prompt": "Which correction avoids the misconception in “Editing conventions before structural revision”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Editing conventions before structural revision",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
+        "text": "Resolve meaning first",
+        "is_correct": true
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Resolve meaning first The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-029",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Experiment copies wording or plot.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Experiment copies wording or plot.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experiment copies wording or plot",
+        "is_correct": false
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Transform the technique The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-030",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Confusion assumed sophisticated” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Confusion assumed sophisticated” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": true
+      },
+      {
+        "text": "Confusion assumed sophisticated",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Provide purposeful cues The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-031",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating_and_editing_experimental_literary_texts",
+    "question": "A sports club notice needs a concise example of Creating and Editing Experimental Literary Texts. Which choice best fits?",
+    "audio_prompt": "A sports club notice needs a concise example of Creating and Editing Experimental Literary Texts. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experiment copies wording or plot",
+        "is_correct": false
+      },
+      {
+        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name intended effect without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-032",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a museum exhibit, someone writes, “Confusion assumed sophisticated.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a museum exhibit, someone writes, “Confusion assumed sophisticated.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Confusion assumed sophisticated",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Provide purposeful cues",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Provide purposeful cues The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-033",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "intimacy",
+    "question": "A community garden report includes “second-person address and close sensory focus.” Which analysis is strongest?",
+    "audio_prompt": "A community garden report includes “second-person address and close sensory focus.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of intimacy.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-034",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "step_4",
+    "question": "Which interpretation of “draft pattern” would be most useful in a class debate?",
+    "audio_prompt": "Which interpretation of “draft pattern” would be most useful in a class debate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that step 4 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-035",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "mentor_technique",
+    "question": "A environmental campaign uses the idea “craft method studied in another text.” Which term would make the analysis most precise?",
+    "audio_prompt": "A environmental campaign uses the idea “craft method studied in another text.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "experimentation",
+        "is_correct": false
+      },
+      {
+        "text": "mentor technique",
+        "is_correct": true
+      },
+      {
+        "text": "reader orientation",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Mentor technique is the precise term for craft method studied in another text.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-036",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "creating_and_editing_experimental_literary_texts",
+    "question": "A excursion briefing needs a concise example of Creating and Editing Experimental Literary Texts. Which choice best fits?",
+    "audio_prompt": "A excursion briefing needs a concise example of Creating and Editing Experimental Literary Texts. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Confusion assumed sophisticated",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name accelerating tension without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-037",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a book-club discussion, someone writes, “Every device added at once.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a book-club discussion, someone writes, “Every device added at once.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every device added at once",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Select a coherent system",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Select a coherent system The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-038",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "intended_effect",
+    "question": "A school website includes “possible experiment.” Which analysis is strongest?",
+    "audio_prompt": "A school website includes “possible experiment.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of intended effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-039",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "step_1",
+    "question": "Which interpretation of “state intended effect” would be most useful in a arts festival program?",
+    "audio_prompt": "Which interpretation of “state intended effect” would be most useful in a arts festival program?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that step 1 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-p-040",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimentation",
+    "question": "A peer feedback session uses the idea “deliberate testing of unconventional or transformed craft choices.” Which term would make the analysis most precise?",
+    "audio_prompt": "A peer feedback session uses the idea “deliberate testing of unconventional or transformed craft choices.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "mentor technique",
+        "is_correct": false
+      },
+      {
+        "text": "reader orientation",
+        "is_correct": false
+      },
+      {
+        "text": "experimentation",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Experimentation is the precise term for deliberate testing of unconventional or transformed craft choices.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "revise_motif",
-    "question": "A Year 7 student is working with a text and needs to use revise motif. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use revise motif. Which option best demonstrates the skill?",
+    "skill": "intended_effect",
+    "question": "A farmers market profile includes “possible experiment.” Which analysis is strongest?",
+    "audio_prompt": "A farmers market profile includes “possible experiment.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
         "is_correct": true
       },
       {
-        "text": "Experiment copies wording or plot",
+        "text": "It is important only because it is an example of intended effect.",
         "is_correct": false
       },
       {
-        "text": "Transform the technique",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
-      "hint": "Transform the technique."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "use_peer_response",
-    "question": "A Year 7 student is working with a text and needs to use use peer response. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use peer response. Which option best demonstrates the skill?",
+    "skill": "step_1",
+    "question": "Read the new context carefully. Which interpretation of “state intended effect” would be most useful in a emergency-preparedness video?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “state intended effect” would be most useful in a emergency-preparedness video?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Confusion assumed sophisticated",
+        "text": "It proves that step 1 always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
         "is_correct": true
       },
       {
-        "text": "Provide purposeful cues",
+        "text": "It can be analysed without referring to the actual wording.",
         "is_correct": false
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
-      "hint": "Provide purposeful cues."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-t-003",
@@ -399,9 +1767,50 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "state_intended_effect",
-    "question": "A Year 7 student is working with a text and needs to use state intended effect. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use state intended effect. Which option best demonstrates the skill?",
+    "skill": "experimentation",
+    "question": "Which answer is best supported in this new situation? A cycling safety infographic uses the idea “deliberate testing of unconventional or transformed craft choices.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A cycling safety infographic uses the idea “deliberate testing of unconventional or transformed craft choices.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "mentor technique",
+        "is_correct": false
+      },
+      {
+        "text": "reader orientation",
+        "is_correct": false
+      },
+      {
+        "text": "experimentation",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Experimentation is the precise term for deliberate testing of unconventional or transformed craft choices.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-t-004",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_editing_experimental_literary_texts",
+    "question": "Use the evidence in this river-health podcast. A river-health podcast needs a concise example of Creating and Editing Experimental Literary Texts. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this river-health podcast. A river-health podcast needs a concise example of Creating and Editing Experimental Literary Texts. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -412,60 +1821,27 @@
         "is_correct": false
       },
       {
-        "text": "Select a coherent system",
+        "text": "Simply name unreliable viewpoint without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
-        "is_correct": true
-      },
-      {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
-      "hint": "Select a coherent system."
-    }
-  },
-  {
-    "id": "ac9e7le07-t-004",
-    "curriculum_code": "AC9E7LE07",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "transform_mentor_technique",
-    "question": "A Year 7 student is working with a text and needs to use transform mentor technique. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use transform mentor technique. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Editing conventions before structural revision",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       },
       {
-        "text": "Resolve meaning first",
-        "is_correct": false
-      },
-      {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
-        "is_correct": false
-      },
-      {
-        "text": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
-      "hint": "Resolve meaning first."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le07-t-005",
@@ -473,9 +1849,173 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "test_orientation",
-    "question": "What should be checked when applying test orientation in creating and editing experimental literary texts?",
-    "audio_prompt": "What should be checked when applying test orientation in creating and editing experimental literary texts?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a town festival website, someone writes, “Editing conventions before structural revision.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a town festival website, someone writes, “Editing conventions before structural revision.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Resolve meaning first",
+        "is_correct": true
+      },
+      {
+        "text": "Editing conventions before structural revision",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Resolve meaning first The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-t-006",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "accelerating_tension",
+    "question": "Which response would hold up under close reading? A youth radio interview includes “shortening sections and sound pattern.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A youth radio interview includes “shortening sections and sound pattern.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of accelerating tension.",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-t-007",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "step_6",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “remove decorative choices” would be most useful in a coastal restoration article?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “remove decorative choices” would be most useful in a coastal restoration article?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that step 6 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-t-008",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "reader_orientation",
+    "question": "Which choice uses the concept without overgeneralising? A public transport campaign uses the idea “support enabling readers to follow deliberate complexity.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A public transport campaign uses the idea “support enabling readers to follow deliberate complexity.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "experimentation",
+        "is_correct": false
+      },
+      {
+        "text": "mentor technique",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "reader orientation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Reader orientation is the precise term for support enabling readers to follow deliberate complexity.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-t-009",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_editing_experimental_literary_texts",
+    "question": "A regional museum audio guide needs a concise example of Creating and Editing Experimental Literary Texts. Which choice best fits?",
+    "audio_prompt": "A regional museum audio guide needs a concise example of Creating and Editing Experimental Literary Texts. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -486,33 +2026,242 @@
         "is_correct": true
       },
       {
-        "text": "Experiment copies wording or plot",
+        "text": "Editing conventions before structural revision",
         "is_correct": false
       },
       {
-        "text": "Transform the technique",
+        "text": "Simply name disorientation without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
-      "hint": "Transform the technique."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le07-t-006",
+    "id": "ac9e7le07-t-010",
     "curriculum_code": "AC9E7LE07",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "revise_motif",
-    "question": "Which response best uses revise motif in creating and editing experimental literary texts?",
-    "audio_prompt": "Which response best uses revise motif in creating and editing experimental literary texts?",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a wildlife rescue webpage, someone writes, “Experiment copies wording or plot.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a wildlife rescue webpage, someone writes, “Experiment copies wording or plot.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experiment copies wording or plot",
+        "is_correct": false
+      },
+      {
+        "text": "Transform the technique",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Transform the technique The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-t-011",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "unreliable_viewpoint",
+    "question": "Which answer is best supported in this new situation? A local council consultation includes “contradiction between narration and visual evidence.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A local council consultation includes “contradiction between narration and visual evidence.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of unreliable viewpoint.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-t-012",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "step_3",
+    "question": "Use the evidence in this heritage trail brochure. Which interpretation of “transform context/viewpoint” would be most useful in a heritage trail brochure?",
+    "audio_prompt": "Use the evidence in this heritage trail brochure. Which interpretation of “transform context/viewpoint” would be most useful in a heritage trail brochure?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that step 3 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-t-013",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "mentor_technique",
+    "question": "Choose the most precise analysis for this unfamiliar example. A community theatre review uses the idea “craft method studied in another text.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A community theatre review uses the idea “craft method studied in another text.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "mentor technique",
+        "is_correct": true
+      },
+      {
+        "text": "experimentation",
+        "is_correct": false
+      },
+      {
+        "text": "reader orientation",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Mentor technique is the precise term for craft method studied in another text.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-t-014",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creating_and_editing_experimental_literary_texts",
+    "question": "Which response would hold up under close reading? A water-quality report needs a concise example of Creating and Editing Experimental Literary Texts. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A water-quality report needs a concise example of Creating and Editing Experimental Literary Texts. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Experiment copies wording or plot",
+        "is_correct": false
+      },
+      {
+        "text": "A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name open interpretation without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A fragmented chronology remains coherent when recurring dates, objects or tense cues orient readers",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le07-t-015",
+    "curriculum_code": "AC9E7LE07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a regional sports commentary, someone writes, “Confusion assumed sophisticated.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a regional sports commentary, someone writes, “Confusion assumed sophisticated.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -523,96 +2272,67 @@
         "is_correct": false
       },
       {
-        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
-        "is_correct": true
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
       },
       {
         "text": "Provide purposeful cues",
-        "is_correct": false
-      },
-      {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness.",
-      "hint": "Provide purposeful cues."
-    }
-  },
-  {
-    "id": "ac9e7le07-t-007",
-    "curriculum_code": "AC9E7LE07",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "use_peer_response",
-    "question": "A Year 7 student is working with a text and needs to use use peer response. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use peer response. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Every device added at once",
-        "is_correct": false
-      },
-      {
-        "text": "Select a coherent system",
-        "is_correct": false
-      },
-      {
-        "text": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
         "is_correct": true
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Peer response should report actual reader effect, not simply prescribe one style. Writers decide which feedback aligns with purpose.",
-      "hint": "Select a coherent system."
-    }
+      "summary": "Provide purposeful cues The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le07-t-008",
+    "id": "ac9e7le07-t-016",
     "curriculum_code": "AC9E7LE07",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "state_intended_effect",
-    "question": "A Year 7 student is working with a text and needs to use state intended effect. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use state intended effect. Which option best demonstrates the skill?",
+    "skill": "disorientation",
+    "question": "Which choice uses the concept without overgeneralising? A astronomy exhibition includes “fragmented chronology with controlled clues.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A astronomy exhibition includes “fragmented chronology with controlled clues.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Editing conventions before structural revision",
+        "text": "It is important only because it is an example of disorientation.",
         "is_correct": false
       },
       {
-        "text": "Resolve meaning first",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Deliberate testing of unconventional or transformed craft choices",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       },
       {
-        "text": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
+        "text": "An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Literary experimentation transforms techniques for a new purpose rather than copying surface features; revision tests whether choices form a coherent effect.",
-      "hint": "Resolve meaning first."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: An unusual form needs orientation cues and internal consistency. Experimentation is not randomness",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

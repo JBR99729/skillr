@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "state_literal_layer",
-    "question": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "layered_meaning",
+    "question": "Which term best matches this meaning: “coexisting literal, figurative, symbolic or contextual significance”?",
+    "audio_prompt": "Which term best matches this meaning: “coexisting literal, figurative, symbolic or contextual significance”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
+        "text": "ambiguity",
+        "is_correct": false
+      },
+      {
+        "text": "symbolism",
+        "is_correct": false
+      },
+      {
+        "text": "layered meaning",
         "is_correct": true
       },
       {
-        "text": "Symbol assigned one fixed meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Trace contextual development",
-        "is_correct": false
-      },
-      {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The cracked cup can remain literal while also symbolising fragile continuity",
-      "hint": "Trace contextual development."
+      "summary": "Layered meaning means coexisting literal, figurative, symbolic or contextual significance. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Layers of Meaning in Poetry and Literature."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le06-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "develop_figurative_layer",
-    "question": "A Year 7 student is working with a text and needs to use develop figurative layer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use develop figurative layer. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "literal",
+    "question": "Read this example: “a damaged cup contains a drink.” Which description fits it best?",
+    "audio_prompt": "Read this example: “a damaged cup contains a drink.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Personal association replaces text evidence",
+        "text": "layer",
         "is_correct": false
       },
       {
-        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+        "text": "imagery",
+        "is_correct": false
+      },
+      {
+        "text": "symbolic",
+        "is_correct": false
+      },
+      {
+        "text": "literal",
         "is_correct": true
-      },
-      {
-        "text": "Anchor interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
-      "hint": "Anchor interpretation."
+      "summary": "The example matches literal. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le06-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_motif",
-    "question": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "title_relation",
+    "question": "Which label most accurately describes “reframes image”?",
+    "audio_prompt": "Which label most accurately describes “reframes image”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Literal level dismissed",
-        "is_correct": false
-      },
-      {
-        "text": "It supports figurative reading",
-        "is_correct": false
-      },
-      {
-        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+        "text": "title relation",
         "is_correct": true
       },
       {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "text": "single image",
+        "is_correct": false
+      },
+      {
+        "text": "repeated image",
+        "is_correct": false
+      },
+      {
+        "text": "structural placement",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
-      "hint": "It supports figurative reading."
+      "summary": "“reframes image” is best described as title relation.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le06-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "use_context_cautiously",
-    "question": "A Year 7 student is working with a text and needs to use use context cautiously. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use context cautiously. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "symbolic",
+    "question": "Read this example: “fragile object retains routine or hope.” Which description fits it best?",
+    "audio_prompt": "Read this example: “fragile object retains routine or hope.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Every detail called symbolic",
+        "text": "layer",
         "is_correct": false
       },
       {
-        "text": "Select patterned or salient evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
-        "is_correct": false
-      },
-      {
-        "text": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
+        "text": "symbolic",
         "is_correct": true
+      },
+      {
+        "text": "literal",
+        "is_correct": false
+      },
+      {
+        "text": "imagery",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
-      "hint": "Select patterned or salient evidence."
+      "summary": "The example matches symbolic. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le06-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_interpretations",
-    "question": "Which statement correctly identifies ambiguity in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which statement correctly identifies ambiguity in layers of meaning in poetry and literature?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Symbol assigned one fixed meaning”?",
+    "audio_prompt": "Which response best corrects this claim: “Symbol assigned one fixed meaning”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
-        "is_correct": true
+        "text": "Personal association replaces text evidence",
+        "is_correct": false
       },
       {
-        "text": "Symbol assigned one fixed meaning",
+        "text": "Literal level dismissed",
         "is_correct": false
       },
       {
         "text": "Trace contextual development",
-        "is_correct": false
+        "is_correct": true
       },
       {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "text": "Every detail called symbolic",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The cracked cup can remain literal while also symbolising fragile continuity",
-      "hint": "Trace contextual development."
+      "summary": "Trace contextual development This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le06-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "state_literal_layer",
-    "question": "Which choice best describes symbolism in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which choice best describes symbolism in layers of meaning in poetry and literature?",
+    "stage": "recognise",
+    "skill": "symbolism",
+    "question": "Which term best matches this meaning: “use of an element to carry broader associated meaning”?",
+    "audio_prompt": "Which term best matches this meaning: “use of an element to carry broader associated meaning”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Personal association replaces text evidence",
+        "text": "layered meaning",
         "is_correct": false
       },
       {
-        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+        "text": "ambiguity",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "symbolism",
         "is_correct": true
-      },
-      {
-        "text": "Anchor interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
-      "hint": "Anchor interpretation."
+      "summary": "Symbolism means use of an element to carry broader associated meaning. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Layers of Meaning in Poetry and Literature."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le06-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "develop_figurative_layer",
-    "question": "What does correct use require for layered meaning in layers of meaning in poetry and literature?",
-    "audio_prompt": "What does correct use require for layered meaning in layers of meaning in poetry and literature?",
+    "stage": "recognise",
+    "skill": "ambiguity",
+    "question": "Read this example: “several readings remain possible.” Which description fits it best?",
+    "audio_prompt": "Read this example: “several readings remain possible.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Literal level dismissed",
-        "is_correct": false
-      },
-      {
-        "text": "It supports figurative reading",
-        "is_correct": false
-      },
-      {
-        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+        "text": "ambiguity",
         "is_correct": true
       },
       {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "text": "layer",
+        "is_correct": false
+      },
+      {
+        "text": "literal",
+        "is_correct": false
+      },
+      {
+        "text": "imagery",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
-      "hint": "It supports figurative reading."
+      "summary": "The example matches ambiguity. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le06-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_motif",
-    "question": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace motif. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "repeated_image",
+    "question": "Which label most accurately describes “motif develops”?",
+    "audio_prompt": "Which label most accurately describes “motif develops”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "single image",
+        "is_correct": false
+      },
+      {
+        "text": "repeated image",
+        "is_correct": true
+      },
+      {
+        "text": "title relation",
+        "is_correct": false
+      },
+      {
+        "text": "structural placement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“motif develops” is best described as repeated image.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-009",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "literal",
+    "question": "While reading a technology showcase, you notice the wording closely. Read this example: “a damaged cup contains a drink.” Which description fits it best?",
+    "audio_prompt": "While reading a technology showcase, you notice the wording closely. Read this example: “a damaged cup contains a drink.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "layer",
+        "is_correct": false
+      },
+      {
+        "text": "imagery",
+        "is_correct": false
+      },
+      {
+        "text": "literal",
+        "is_correct": true
+      },
+      {
+        "text": "symbolic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The example matches literal. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-010",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Personal association replaces text evidence”?",
+    "audio_prompt": "Which response best corrects this claim: “Personal association replaces text evidence”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Symbol assigned one fixed meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Literal level dismissed",
+        "is_correct": false
+      },
+      {
+        "text": "Every detail called symbolic",
+        "is_correct": false
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Anchor interpretation This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-011",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "layer",
+    "question": "Why does “interpretation of ‘the cracked cup held the morning’” illustrate layer?",
+    "audio_prompt": "Why does “interpretation of ‘the cracked cup held the morning’” illustrate layer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “interpretation of ‘the”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-012",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "literal",
+    "question": "What is the best explanation of how “a damaged cup contains a drink” works?",
+    "audio_prompt": "What is the best explanation of how “a damaged cup contains a drink” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “a damaged cup”.",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-013",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "imagery",
+    "question": "Which explanation connects the feature in “light/liquid appears held” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “light/liquid appears held” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “light/liquid appears held”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-014",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "symbolic",
+    "question": "What should a careful reader notice about “fragile object retains routine or hope”?",
+    "audio_prompt": "What should a careful reader notice about “fragile object retains routine or hope”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “fragile object retains”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-015",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "sound_syntax",
+    "question": "How does the example “soft rhythm slows attention” contribute to meaning?",
+    "audio_prompt": "How does the example “soft rhythm slows attention” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “soft rhythm slows”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-016",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "context",
+    "question": "Why does “may connect scarcity, memory or recovery” illustrate context?",
+    "audio_prompt": "Why does “may connect scarcity, memory or recovery” illustrate context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “may connect scarcity,”.",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-017",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "ambiguity",
+    "question": "What is the best explanation of how “several readings remain possible” works?",
+    "audio_prompt": "What is the best explanation of how “several readings remain possible” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “several readings remain”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-018",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "single_image",
+    "question": "Which explanation connects the feature in “local sensory effect” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “local sensory effect” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “local sensory effect”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-019",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "repeated_image",
+    "question": "What should a careful reader notice about “motif develops”?",
+    "audio_prompt": "What should a careful reader notice about “motif develops”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “motif develops”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-020",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "title_relation",
+    "question": "How does the example “reframes image” contribute to meaning?",
+    "audio_prompt": "How does the example “reframes image” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “reframes image”.",
+        "is_correct": false
+      },
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-021",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Symbol assigned one fixed meaning.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Symbol assigned one fixed meaning.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Symbol assigned one fixed meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": true
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Trace contextual development The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-022",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Personal association replaces text evidence”?",
+    "audio_prompt": "What is the main problem with this statement: “Personal association replaces text evidence”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal association replaces text evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": false
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": false
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Anchor interpretation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-023",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Literal level dismissed”?",
+    "audio_prompt": "Which correction avoids the misconception in “Literal level dismissed”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It supports figurative reading",
+        "is_correct": true
+      },
+      {
+        "text": "Literal level dismissed",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": false
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It supports figurative reading The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-024",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Every detail called symbolic.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Every detail called symbolic.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -299,25 +986,698 @@
       },
       {
         "text": "Select patterned or salient evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Trace contextual development",
         "is_correct": false
       },
       {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "text": "Anchor interpretation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select patterned or salient evidence The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-025",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Symbol assigned one fixed meaning” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Symbol assigned one fixed meaning” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Symbol assigned one fixed meaning",
         "is_correct": false
       },
       {
-        "text": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
+        "text": "Anchor interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": true
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Trace contextual development The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-026",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Personal association replaces text evidence.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Personal association replaces text evidence.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal association replaces text evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": false
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": false
+      },
+      {
+        "text": "Anchor interpretation",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
-      "hint": "Select patterned or salient evidence."
+      "summary": "Anchor interpretation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-027",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Literal level dismissed”?",
+    "audio_prompt": "What is the main problem with this statement: “Literal level dismissed”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It supports figurative reading",
+        "is_correct": true
+      },
+      {
+        "text": "Literal level dismissed",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": false
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It supports figurative reading The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-028",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Every detail called symbolic”?",
+    "audio_prompt": "Which correction avoids the misconception in “Every detail called symbolic”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every detail called symbolic",
+        "is_correct": false
+      },
+      {
+        "text": "Select patterned or salient evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": false
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Select patterned or salient evidence The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-029",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Symbol assigned one fixed meaning.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Symbol assigned one fixed meaning.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Symbol assigned one fixed meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": true
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Trace contextual development The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-030",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Personal association replaces text evidence” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Personal association replaces text evidence” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal association replaces text evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Trace contextual development",
+        "is_correct": false
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": false
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Anchor interpretation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-031",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "layers_of_meaning_in_poetry_and_literature",
+    "question": "A science expo needs a concise example of Layers of Meaning in Poetry and Literature. Which choice best fits?",
+    "audio_prompt": "A science expo needs a concise example of Layers of Meaning in Poetry and Literature. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
+        "is_correct": true
+      },
+      {
+        "text": "Symbol assigned one fixed meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name layer without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The cracked cup can remain literal while also symbolising fragile continuity",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-032",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a library newsletter, someone writes, “Personal association replaces text evidence.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a library newsletter, someone writes, “Personal association replaces text evidence.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal association replaces text evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Anchor interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Anchor interpretation The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-033",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "imagery",
+    "question": "A student council proposal includes “light/liquid appears held.” Which analysis is strongest?",
+    "audio_prompt": "A student council proposal includes “light/liquid appears held.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of imagery.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-034",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "structural_placement",
+    "question": "Which interpretation of “opening and ending echo” would be most useful in a sports club notice?",
+    "audio_prompt": "Which interpretation of “opening and ending echo” would be most useful in a sports club notice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that structural placement always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-035",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "ambiguity",
+    "question": "A museum exhibit uses the idea “capacity for more than one plausible interpretation.” Which term would make the analysis most precise?",
+    "audio_prompt": "A museum exhibit uses the idea “capacity for more than one plausible interpretation.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "ambiguity",
+        "is_correct": true
+      },
+      {
+        "text": "layered meaning",
+        "is_correct": false
+      },
+      {
+        "text": "symbolism",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ambiguity is the precise term for capacity for more than one plausible interpretation.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-036",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "layers_of_meaning_in_poetry_and_literature",
+    "question": "A community garden report needs a concise example of Layers of Meaning in Poetry and Literature. Which choice best fits?",
+    "audio_prompt": "A community garden report needs a concise example of Layers of Meaning in Poetry and Literature. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal association replaces text evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name context without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The cracked cup can remain literal while also symbolising fragile continuity",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-037",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a class debate, someone writes, “Literal level dismissed.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a class debate, someone writes, “Literal level dismissed.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Literal level dismissed",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "It supports figurative reading",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It supports figurative reading The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-038",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "layer",
+    "question": "A environmental campaign includes “interpretation of ‘the cracked cup held the morning’.” Which analysis is strongest?",
+    "audio_prompt": "A environmental campaign includes “interpretation of ‘the cracked cup held the morning’.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of layer.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-039",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "title_relation",
+    "question": "Which interpretation of “reframes image” would be most useful in a excursion briefing?",
+    "audio_prompt": "Which interpretation of “reframes image” would be most useful in a excursion briefing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that title relation always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-p-040",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "layered_meaning",
+    "question": "A book-club discussion uses the idea “coexisting literal, figurative, symbolic or contextual significance.” Which term would make the analysis most precise?",
+    "audio_prompt": "A book-club discussion uses the idea “coexisting literal, figurative, symbolic or contextual significance.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "ambiguity",
+        "is_correct": false
+      },
+      {
+        "text": "layered meaning",
+        "is_correct": true
+      },
+      {
+        "text": "symbolism",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Layered meaning is the precise term for coexisting literal, figurative, symbolic or contextual significance.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le06-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "use_context_cautiously",
-    "question": "A Year 7 student is working with a text and needs to use use context cautiously. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use context cautiously. Which option best demonstrates the skill?",
+    "skill": "layer",
+    "question": "A heritage trail brochure includes “interpretation of ‘the cracked cup held the morning’.” Which analysis is strongest?",
+    "audio_prompt": "A heritage trail brochure includes “interpretation of ‘the cracked cup held the morning’.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
+        "text": "It is important only because it is an example of layer.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
         "is_correct": true
-      },
-      {
-        "text": "Symbol assigned one fixed meaning",
-        "is_correct": false
-      },
-      {
-        "text": "Trace contextual development",
-        "is_correct": false
-      },
-      {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The cracked cup can remain literal while also symbolising fragile continuity",
-      "hint": "Trace contextual development."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le06-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "compare_interpretations",
-    "question": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
+    "skill": "title_relation",
+    "question": "Read the new context carefully. Which interpretation of “reframes image” would be most useful in a community theatre review?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “reframes image” would be most useful in a community theatre review?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Personal association replaces text evidence",
-        "is_correct": false
-      },
-      {
-        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
         "is_correct": true
       },
       {
-        "text": "Anchor interpretation",
+        "text": "It proves that title relation always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
-      "hint": "Anchor interpretation."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7le06-t-003",
@@ -399,9 +1767,50 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "state_literal_layer",
-    "question": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
+    "skill": "layered_meaning",
+    "question": "Which answer is best supported in this new situation? A water-quality report uses the idea “coexisting literal, figurative, symbolic or contextual significance.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A water-quality report uses the idea “coexisting literal, figurative, symbolic or contextual significance.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "ambiguity",
+        "is_correct": false
+      },
+      {
+        "text": "layered meaning",
+        "is_correct": true
+      },
+      {
+        "text": "symbolism",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Layered meaning is the precise term for coexisting literal, figurative, symbolic or contextual significance.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-t-004",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layers_of_meaning_in_poetry_and_literature",
+    "question": "Use the evidence in this regional sports commentary. A regional sports commentary needs a concise example of Layers of Meaning in Poetry and Literature. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this regional sports commentary. A regional sports commentary needs a concise example of Layers of Meaning in Poetry and Literature. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -412,33 +1821,37 @@
         "is_correct": false
       },
       {
-        "text": "It supports figurative reading",
+        "text": "Simply name symbolic without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
         "is_correct": true
       },
       {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
-      "hint": "It supports figurative reading."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: The cracked cup can remain literal while also symbolising fragile continuity",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le06-t-004",
+    "id": "ac9e7le06-t-005",
     "curriculum_code": "AC9E7LE06",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "develop_figurative_layer",
-    "question": "A Year 7 student is working with a text and needs to use develop figurative layer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use develop figurative layer. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a astronomy exhibition, someone writes, “Every detail called symbolic.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a astronomy exhibition, someone writes, “Every detail called symbolic.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -449,33 +1862,365 @@
         "is_correct": false
       },
       {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
         "text": "Select patterned or salient evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
-        "is_correct": false
-      },
-      {
-        "text": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
-      "hint": "Select patterned or salient evidence."
-    }
+      "summary": "Select patterned or salient evidence The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le06-t-005",
+    "id": "ac9e7le06-t-006",
     "curriculum_code": "AC9E7LE06",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "trace_motif",
-    "question": "What should be checked when applying trace motif in layers of meaning in poetry and literature?",
-    "audio_prompt": "What should be checked when applying trace motif in layers of meaning in poetry and literature?",
+    "skill": "context",
+    "question": "Which response would hold up under close reading? A farmers market profile includes “may connect scarcity, memory or recovery.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A farmers market profile includes “may connect scarcity, memory or recovery.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of context.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-t-007",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "repeated_image",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “motif develops” would be most useful in a emergency-preparedness video?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “motif develops” would be most useful in a emergency-preparedness video?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that repeated image always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-t-008",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "symbolism",
+    "question": "Which choice uses the concept without overgeneralising? A cycling safety infographic uses the idea “use of an element to carry broader associated meaning.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A cycling safety infographic uses the idea “use of an element to carry broader associated meaning.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "layered meaning",
+        "is_correct": false
+      },
+      {
+        "text": "ambiguity",
+        "is_correct": false
+      },
+      {
+        "text": "symbolism",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Symbolism is the precise term for use of an element to carry broader associated meaning.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-t-009",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layers_of_meaning_in_poetry_and_literature",
+    "question": "A river-health podcast needs a concise example of Layers of Meaning in Poetry and Literature. Which choice best fits?",
+    "audio_prompt": "A river-health podcast needs a concise example of Layers of Meaning in Poetry and Literature. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every detail called symbolic",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name literal without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "The cracked cup can remain literal while also symbolising fragile continuity",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: The cracked cup can remain literal while also symbolising fragile continuity",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-t-010",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a town festival website, someone writes, “Symbol assigned one fixed meaning.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a town festival website, someone writes, “Symbol assigned one fixed meaning.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Trace contextual development",
+        "is_correct": true
+      },
+      {
+        "text": "Symbol assigned one fixed meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Trace contextual development The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-t-011",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "symbolic",
+    "question": "Which answer is best supported in this new situation? A youth radio interview includes “fragile object retains routine or hope.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A youth radio interview includes “fragile object retains routine or hope.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of symbolic.",
+        "is_correct": false
+      },
+      {
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-t-012",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "single_image",
+    "question": "Use the evidence in this coastal restoration article. Which interpretation of “local sensory effect” would be most useful in a coastal restoration article?",
+    "audio_prompt": "Use the evidence in this coastal restoration article. Which interpretation of “local sensory effect” would be most useful in a coastal restoration article?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that single image always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-t-013",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "ambiguity",
+    "question": "Choose the most precise analysis for this unfamiliar example. A public transport campaign uses the idea “capacity for more than one plausible interpretation.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A public transport campaign uses the idea “capacity for more than one plausible interpretation.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "layered meaning",
+        "is_correct": false
+      },
+      {
+        "text": "symbolism",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "ambiguity",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Ambiguity is the precise term for capacity for more than one plausible interpretation.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7le06-t-014",
+    "curriculum_code": "AC9E7LE06",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "layers_of_meaning_in_poetry_and_literature",
+    "question": "Which response would hold up under close reading? A regional museum audio guide needs a concise example of Layers of Meaning in Poetry and Literature. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A regional museum audio guide needs a concise example of Layers of Meaning in Poetry and Literature. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -490,29 +2235,33 @@
         "is_correct": false
       },
       {
-        "text": "Trace contextual development",
+        "text": "Simply name ambiguity without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The cracked cup can remain literal while also symbolising fragile continuity",
-      "hint": "Trace contextual development."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: The cracked cup can remain literal while also symbolising fragile continuity",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le06-t-006",
+    "id": "ac9e7le06-t-015",
     "curriculum_code": "AC9E7LE06",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "use_context_cautiously",
-    "question": "Which response best uses use context cautiously in layers of meaning in poetry and literature?",
-    "audio_prompt": "Which response best uses use context cautiously in layers of meaning in poetry and literature?",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a wildlife rescue webpage, someone writes, “Personal association replaces text evidence.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a wildlife rescue webpage, someone writes, “Personal association replaces text evidence.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -523,96 +2272,67 @@
         "is_correct": false
       },
       {
-        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
+        "text": "Anchor interpretation",
         "is_correct": true
       },
       {
-        "text": "Anchor interpretation",
+        "text": "Keep the claim but add “always” to make it sound certain.",
         "is_correct": false
       },
       {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context.",
-      "hint": "Anchor interpretation."
-    }
+      "summary": "Anchor interpretation The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7le06-t-007",
+    "id": "ac9e7le06-t-016",
     "curriculum_code": "AC9E7LE06",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "compare_interpretations",
-    "question": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare interpretations. Which option best demonstrates the skill?",
+    "skill": "literal",
+    "question": "Which choice uses the concept without overgeneralising? A local council consultation includes “a damaged cup contains a drink.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A local council consultation includes “a damaged cup contains a drink.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Literal level dismissed",
+        "text": "It is important only because it is an example of literal.",
         "is_correct": false
       },
       {
-        "text": "It supports figurative reading",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
+        "text": "A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
         "is_correct": true
       },
       {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Ambiguity can be deliberate, but interpretations differ in strength according to evidence coverage and coherence.",
-      "hint": "It supports figurative reading."
-    }
-  },
-  {
-    "id": "ac9e7le06-t-008",
-    "curriculum_code": "AC9E7LE06",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "state_literal_layer",
-    "question": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use state literal layer. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "The strongest analysis connects the evidence to its function: A layered interpretation does not mean unlimited meaning. Each claim should account for wording, pattern and context",
+      "hint": "Use a feature → evidence → effect chain."
     },
-    "answers": [
-      {
-        "text": "Every detail called symbolic",
-        "is_correct": false
-      },
-      {
-        "text": "Select patterned or salient evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Coexisting literal, figurative, symbolic or contextual significance",
-        "is_correct": false
-      },
-      {
-        "text": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Layers of meaning emerge when literal events or images interact with figurative language, pattern, sound, symbol, structure and context.",
-      "hint": "Select patterned or salient evidence."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

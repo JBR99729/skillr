@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "find_base_affixes",
-    "question": "A Year 7 student is working with a text and needs to use find base affixes. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use find base affixes. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "morpheme",
+    "question": "Which term best matches this meaning: “smallest meaningful word element”?",
+    "audio_prompt": "Which term best matches this meaning: “smallest meaningful word element”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Classification preserves the class/classify word family even though pronunciation changes",
+        "text": "etymology",
+        "is_correct": false
+      },
+      {
+        "text": "orthography",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "morpheme",
         "is_correct": true
-      },
-      {
-        "text": "Spell only by sound",
-        "is_correct": false
-      },
-      {
-        "text": "Morphology and history preserve letters",
-        "is_correct": false
-      },
-      {
-        "text": "Smallest meaningful word element",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Classification preserves the class/classify word family even though pronunciation changes",
-      "hint": "Morphology and history preserve letters."
+      "summary": "Morpheme means smallest meaningful word element. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Spelling through Morphology, Etymology and Orthographic Patterns."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "use_word_family",
-    "question": "A Year 7 student is working with a text and needs to use use word family. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use word family. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "classification",
+    "question": "Read this example: “class + ify + cation.” Which description fits it best?",
+    "audio_prompt": "Read this example: “class + ify + cation.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Suffix rule applied without conditions",
-        "is_correct": false
-      },
-      {
-        "text": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+        "text": "classification",
         "is_correct": true
       },
       {
-        "text": "Check base ending, stress and suffix type",
+        "text": "word",
         "is_correct": false
       },
       {
-        "text": "Smallest meaningful word element",
+        "text": "photosynthesis",
+        "is_correct": false
+      },
+      {
+        "text": "irresponsible",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
-      "hint": "Check base ending, stress and suffix type."
+      "summary": "The example matches classification. Family: classify, classification",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "apply_suffix_pattern",
-    "question": "A Year 7 student is working with a text and needs to use apply suffix pattern. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use apply suffix pattern. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "step_3",
+    "question": "Which label most accurately describes “apply pattern/generalisation”?",
+    "audio_prompt": "Which label most accurately describes “apply pattern/generalisation”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Word origin memorised as trivia",
+        "text": "step 1",
         "is_correct": false
       },
       {
-        "text": "Connect root to meaning and family",
-        "is_correct": false
-      },
-      {
-        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
+        "text": "step 3",
         "is_correct": true
       },
       {
-        "text": "Smallest meaningful word element",
+        "text": "step 2",
+        "is_correct": false
+      },
+      {
+        "text": "step 4",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
-      "hint": "Connect root to meaning and family."
+      "summary": "“apply pattern/generalisation” is best described as step 3.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "use_root_meaning",
-    "question": "A Year 7 student is working with a text and needs to use use root meaning. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use root meaning. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "irresponsible",
+    "question": "Read this example: “ir + response + ible.” Which description fits it best?",
+    "audio_prompt": "Read this example: “ir + response + ible.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Automated suggestion accepted without context",
+        "text": "word",
         "is_correct": false
       },
       {
-        "text": "Verify intended word and grammar",
+        "text": "classification",
         "is_correct": false
       },
       {
-        "text": "Smallest meaningful word element",
-        "is_correct": false
-      },
-      {
-        "text": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+        "text": "irresponsible",
         "is_correct": true
+      },
+      {
+        "text": "photosynthesis",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
-      "hint": "Verify intended word and grammar."
+      "summary": "The example matches irresponsible. Prefix assimilation and suffix",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "verify_exception",
-    "question": "Which statement correctly identifies etymology in spelling through morphology, etymology and orthographic patterns?",
-    "audio_prompt": "Which statement correctly identifies etymology in spelling through morphology, etymology and orthographic patterns?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Spell only by sound”?",
+    "audio_prompt": "Which response best corrects this claim: “Spell only by sound”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Classification preserves the class/classify word family even though pronunciation changes",
-        "is_correct": true
+        "text": "Suffix rule applied without conditions",
+        "is_correct": false
       },
       {
-        "text": "Spell only by sound",
+        "text": "Word origin memorised as trivia",
+        "is_correct": false
+      },
+      {
+        "text": "Automated suggestion accepted without context",
         "is_correct": false
       },
       {
         "text": "Morphology and history preserve letters",
-        "is_correct": false
-      },
-      {
-        "text": "Smallest meaningful word element",
-        "is_correct": false
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Classification preserves the class/classify word family even though pronunciation changes",
-      "hint": "Morphology and history preserve letters."
+      "summary": "Morphology and history preserve letters This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "find_base_affixes",
-    "question": "Which choice best describes orthography in spelling through morphology, etymology and orthographic patterns?",
-    "audio_prompt": "Which choice best describes orthography in spelling through morphology, etymology and orthographic patterns?",
+    "stage": "recognise",
+    "skill": "orthography",
+    "question": "Which term best matches this meaning: “conventional writing and spelling system”?",
+    "audio_prompt": "Which term best matches this meaning: “conventional writing and spelling system”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Suffix rule applied without conditions",
-        "is_correct": false
-      },
-      {
-        "text": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+        "text": "orthography",
         "is_correct": true
       },
       {
-        "text": "Check base ending, stress and suffix type",
+        "text": "morpheme",
         "is_correct": false
       },
       {
-        "text": "Smallest meaningful word element",
+        "text": "etymology",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
-      "hint": "Check base ending, stress and suffix type."
+      "summary": "Orthography means conventional writing and spelling system. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Spelling through Morphology, Etymology and Orthographic Patterns."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "use_word_family",
-    "question": "What does correct use require for morpheme in spelling through morphology, etymology and orthographic patterns?",
-    "audio_prompt": "What does correct use require for morpheme in spelling through morphology, etymology and orthographic patterns?",
+    "stage": "recognise",
+    "skill": "word",
+    "question": "Read this example: “morphology/origin.” Which description fits it best?",
+    "audio_prompt": "Read this example: “morphology/origin.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Word origin memorised as trivia",
+        "text": "classification",
         "is_correct": false
       },
       {
-        "text": "Connect root to meaning and family",
-        "is_correct": false
-      },
-      {
-        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
+        "text": "word",
         "is_correct": true
       },
       {
-        "text": "Smallest meaningful word element",
+        "text": "photosynthesis",
+        "is_correct": false
+      },
+      {
+        "text": "irresponsible",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
-      "hint": "Connect root to meaning and family."
+      "summary": "The example matches word. Spelling support",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "apply_suffix_pattern",
-    "question": "A Year 7 student is working with a text and needs to use apply suffix pattern. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use apply suffix pattern. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "step_8",
+    "question": "Which label most accurately describes “record exception”?",
+    "audio_prompt": "Which label most accurately describes “record exception”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "step 1",
+        "is_correct": false
+      },
+      {
+        "text": "step 2",
+        "is_correct": false
+      },
+      {
+        "text": "step 8",
+        "is_correct": true
+      },
+      {
+        "text": "step 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“record exception” is best described as step 8.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-009",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "photosynthesis",
+    "question": "Read this example: “Greek photo ‘light’ + synthesis ‘put together’.” Which description fits it best?",
+    "audio_prompt": "Read this example: “Greek photo ‘light’ + synthesis ‘put together’.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "word",
+        "is_correct": false
+      },
+      {
+        "text": "classification",
+        "is_correct": false
+      },
+      {
+        "text": "irresponsible",
+        "is_correct": false
+      },
+      {
+        "text": "photosynthesis",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The example matches photosynthesis. Ph=/f/; meaning network",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-010",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Suffix rule applied without conditions”?",
+    "audio_prompt": "Which response best corrects this claim: “Suffix rule applied without conditions”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": true
+      },
+      {
+        "text": "Spell only by sound",
+        "is_correct": false
+      },
+      {
+        "text": "Word origin memorised as trivia",
+        "is_correct": false
+      },
+      {
+        "text": "Automated suggestion accepted without context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check base ending, stress and suffix type This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-011",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "word",
+    "question": "Why does “morphology/origin” illustrate word?",
+    "audio_prompt": "Why does “morphology/origin” illustrate word?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “morphology/origin”.",
+        "is_correct": false
+      },
+      {
+        "text": "Spelling support",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Spelling support",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-012",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "classification",
+    "question": "What is the best explanation of how “class + ify + cation” works?",
+    "audio_prompt": "What is the best explanation of how “class + ify + cation” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “class + ify”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Family: classify, classification",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Family: classify, classification",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-013",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "photosynthesis",
+    "question": "Which explanation connects the feature in “Greek photo ‘light’ + synthesis ‘put together’” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “Greek photo ‘light’ + synthesis ‘put together’” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “Greek photo ‘light’”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Ph=/f/; meaning network",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Ph=/f/; meaning network",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-014",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "irresponsible",
+    "question": "What should a careful reader notice about “ir + response + ible”?",
+    "audio_prompt": "What should a careful reader notice about “ir + response + ible”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prefix assimilation and suffix",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “ir + response”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Prefix assimilation and suffix",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-015",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "conservation",
+    "question": "How does the example “conserve + ation” contribute to meaning?",
+    "audio_prompt": "How does the example “conserve + ation” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “conserve + ation”.",
+        "is_correct": false
+      },
+      {
+        "text": "Final-e and word-family relation",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Final-e and word-family relation",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-016",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "unpredictability",
+    "question": "Why does “un + predict + able + ity” illustrate unpredictability?",
+    "audio_prompt": "Why does “un + predict + able + ity” illustrate unpredictability?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “un + predict”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Morpheme sequence",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Morpheme sequence",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-017",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_1",
+    "question": "What is the best explanation of how “say and segment” works?",
+    "audio_prompt": "What is the best explanation of how “say and segment” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “say and segment”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-018",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_2",
+    "question": "Which explanation connects the feature in “identify base and affixes” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “identify base and affixes” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “identify base and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-019",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_3",
+    "question": "What should a careful reader notice about “apply pattern/generalisation”?",
+    "audio_prompt": "What should a careful reader notice about “apply pattern/generalisation”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “apply pattern/generalisation”.",
+        "is_correct": false
+      },
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-020",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "step_4",
+    "question": "How does the example “compare word family” contribute to meaning?",
+    "audio_prompt": "How does the example “compare word family” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “compare word family”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-021",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Spell only by sound.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Spell only by sound.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Spell only by sound",
+        "is_correct": false
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Morphology and history preserve letters The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-022",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Suffix rule applied without conditions”?",
+    "audio_prompt": "What is the main problem with this statement: “Suffix rule applied without conditions”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": true
+      },
+      {
+        "text": "Suffix rule applied without conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check base ending, stress and suffix type The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-023",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Word origin memorised as trivia”?",
+    "audio_prompt": "Which correction avoids the misconception in “Word origin memorised as trivia”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Word origin memorised as trivia",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": true
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect root to meaning and family The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-024",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Automated suggestion accepted without context.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Automated suggestion accepted without context.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -298,26 +985,699 @@
         "is_correct": false
       },
       {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
         "text": "Verify intended word and grammar",
+        "is_correct": true
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Verify intended word and grammar The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-025",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Spell only by sound” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Spell only by sound” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Spell only by sound",
         "is_correct": false
       },
       {
-        "text": "Smallest meaningful word element",
+        "text": "Check base ending, stress and suffix type",
         "is_correct": false
       },
       {
-        "text": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+        "text": "Connect root to meaning and family",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
-      "hint": "Verify intended word and grammar."
+      "summary": "Morphology and history preserve letters The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-026",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Suffix rule applied without conditions.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Suffix rule applied without conditions.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": true
+      },
+      {
+        "text": "Suffix rule applied without conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check base ending, stress and suffix type The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-027",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Word origin memorised as trivia”?",
+    "audio_prompt": "What is the main problem with this statement: “Word origin memorised as trivia”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Word origin memorised as trivia",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": true
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Connect root to meaning and family The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-028",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Automated suggestion accepted without context”?",
+    "audio_prompt": "Which correction avoids the misconception in “Automated suggestion accepted without context”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Automated suggestion accepted without context",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
+        "text": "Verify intended word and grammar",
+        "is_correct": true
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Verify intended word and grammar The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-029",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Spell only by sound.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Spell only by sound.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Spell only by sound",
+        "is_correct": false
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Morphology and history preserve letters The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-030",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Suffix rule applied without conditions” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Suffix rule applied without conditions” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": true
+      },
+      {
+        "text": "Suffix rule applied without conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Check base ending, stress and suffix type The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-031",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "spelling_through_morphology_etymology_and_orthographic_patterns",
+    "question": "A environmental campaign needs a concise example of Spelling through Morphology, Etymology and Orthographic Patterns. Which choice best fits?",
+    "audio_prompt": "A environmental campaign needs a concise example of Spelling through Morphology, Etymology and Orthographic Patterns. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Spell only by sound",
+        "is_correct": false
+      },
+      {
+        "text": "Classification preserves the class/classify word family even though pronunciation changes",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name word without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Classification preserves the class/classify word family even though pronunciation changes",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-032",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a excursion briefing, someone writes, “Suffix rule applied without conditions.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a excursion briefing, someone writes, “Suffix rule applied without conditions.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Suffix rule applied without conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Check base ending, stress and suffix type",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Check base ending, stress and suffix type The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-033",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "photosynthesis",
+    "question": "A book-club discussion includes “Greek photo ‘light’ + synthesis ‘put together’.” Which analysis is strongest?",
+    "audio_prompt": "A book-club discussion includes “Greek photo ‘light’ + synthesis ‘put together’.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of photosynthesis.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Ph=/f/; meaning network",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Ph=/f/; meaning network",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-034",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "step_4",
+    "question": "Which interpretation of “compare word family” would be most useful in a school website?",
+    "audio_prompt": "Which interpretation of “compare word family” would be most useful in a school website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that step 4 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-035",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "etymology",
+    "question": "A arts festival program uses the idea “history and origin of a word.” Which term would make the analysis most precise?",
+    "audio_prompt": "A arts festival program uses the idea “history and origin of a word.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "etymology",
+        "is_correct": true
+      },
+      {
+        "text": "orthography",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Etymology is the precise term for history and origin of a word.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-036",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "spelling_through_morphology_etymology_and_orthographic_patterns",
+    "question": "A peer feedback session needs a concise example of Spelling through Morphology, Etymology and Orthographic Patterns. Which choice best fits?",
+    "audio_prompt": "A peer feedback session needs a concise example of Spelling through Morphology, Etymology and Orthographic Patterns. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Suffix rule applied without conditions",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name unpredictability without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Classification preserves the class/classify word family even though pronunciation changes",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Classification preserves the class/classify word family even though pronunciation changes",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-037",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a technology showcase, someone writes, “Word origin memorised as trivia.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a technology showcase, someone writes, “Word origin memorised as trivia.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Word origin memorised as trivia",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect root to meaning and family",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Connect root to meaning and family The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-038",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "classification",
+    "question": "A canteen survey includes “class + ify + cation.” Which analysis is strongest?",
+    "audio_prompt": "A canteen survey includes “class + ify + cation.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Family: classify, classification",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of classification.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Family: classify, classification",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-039",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "step_1",
+    "question": "Which interpretation of “say and segment” would be most useful in a school assembly speech?",
+    "audio_prompt": "Which interpretation of “say and segment” would be most useful in a school assembly speech?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that step 1 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-p-040",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "morpheme",
+    "question": "A media review uses the idea “smallest meaningful word element.” Which term would make the analysis most precise?",
+    "audio_prompt": "A media review uses the idea “smallest meaningful word element.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "etymology",
+        "is_correct": false
+      },
+      {
+        "text": "orthography",
+        "is_correct": false
+      },
+      {
+        "text": "morpheme",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Morpheme is the precise term for smallest meaningful word element.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "use_root_meaning",
-    "question": "A Year 7 student is working with a text and needs to use use root meaning. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use root meaning. Which option best demonstrates the skill?",
+    "skill": "classification",
+    "question": "A regional museum audio guide includes “class + ify + cation.” Which analysis is strongest?",
+    "audio_prompt": "A regional museum audio guide includes “class + ify + cation.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Classification preserves the class/classify word family even though pronunciation changes",
+        "text": "Family: classify, classification",
         "is_correct": true
       },
       {
-        "text": "Spell only by sound",
+        "text": "It is important only because it is an example of classification.",
         "is_correct": false
       },
       {
-        "text": "Morphology and history preserve letters",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Smallest meaningful word element",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Classification preserves the class/classify word family even though pronunciation changes",
-      "hint": "Morphology and history preserve letters."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Family: classify, classification",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "verify_exception",
-    "question": "A Year 7 student is working with a text and needs to use verify exception. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use verify exception. Which option best demonstrates the skill?",
+    "skill": "step_1",
+    "question": "Read the new context carefully. Which interpretation of “say and segment” would be most useful in a wildlife rescue webpage?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “say and segment” would be most useful in a wildlife rescue webpage?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Suffix rule applied without conditions",
+        "text": "It proves that step 1 always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
         "is_correct": true
       },
       {
-        "text": "Check base ending, stress and suffix type",
+        "text": "It can be analysed without referring to the actual wording.",
         "is_correct": false
       },
       {
-        "text": "Smallest meaningful word element",
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
-      "hint": "Check base ending, stress and suffix type."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-t-003",
@@ -399,9 +1767,50 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "find_base_affixes",
-    "question": "A Year 7 student is working with a text and needs to use find base affixes. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use find base affixes. Which option best demonstrates the skill?",
+    "skill": "morpheme",
+    "question": "Which answer is best supported in this new situation? A local council consultation uses the idea “smallest meaningful word element.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A local council consultation uses the idea “smallest meaningful word element.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "etymology",
+        "is_correct": false
+      },
+      {
+        "text": "orthography",
+        "is_correct": false
+      },
+      {
+        "text": "morpheme",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Morpheme is the precise term for smallest meaningful word element.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-t-004",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spelling_through_morphology_etymology_and_orthographic_patterns",
+    "question": "Use the evidence in this heritage trail brochure. A heritage trail brochure needs a concise example of Spelling through Morphology, Etymology and Orthographic Patterns. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this heritage trail brochure. A heritage trail brochure needs a concise example of Spelling through Morphology, Etymology and Orthographic Patterns. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -412,60 +1821,27 @@
         "is_correct": false
       },
       {
-        "text": "Connect root to meaning and family",
+        "text": "Simply name conservation without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
-        "is_correct": true
-      },
-      {
-        "text": "Smallest meaningful word element",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
-      "hint": "Connect root to meaning and family."
-    }
-  },
-  {
-    "id": "ac9e7ly08-t-004",
-    "curriculum_code": "AC9E7LY08",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "use_word_family",
-    "question": "A Year 7 student is working with a text and needs to use use word family. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use use word family. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Automated suggestion accepted without context",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       },
       {
-        "text": "Verify intended word and grammar",
-        "is_correct": false
-      },
-      {
-        "text": "Smallest meaningful word element",
-        "is_correct": false
-      },
-      {
-        "text": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+        "text": "Classification preserves the class/classify word family even though pronunciation changes",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
-      "hint": "Verify intended word and grammar."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: Classification preserves the class/classify word family even though pronunciation changes",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly08-t-005",
@@ -473,9 +1849,173 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "apply_suffix_pattern",
-    "question": "What should be checked when applying apply suffix pattern in spelling through morphology, etymology and orthographic patterns?",
-    "audio_prompt": "What should be checked when applying apply suffix pattern in spelling through morphology, etymology and orthographic patterns?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a community theatre review, someone writes, “Automated suggestion accepted without context.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a community theatre review, someone writes, “Automated suggestion accepted without context.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Verify intended word and grammar",
+        "is_correct": true
+      },
+      {
+        "text": "Automated suggestion accepted without context",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Verify intended word and grammar The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-t-006",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "word",
+    "question": "Which response would hold up under close reading? A water-quality report includes “morphology/origin.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A water-quality report includes “morphology/origin.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of word.",
+        "is_correct": false
+      },
+      {
+        "text": "Spelling support",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Spelling support",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-t-007",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "step_6",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “write” would be most useful in a regional sports commentary?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “write” would be most useful in a regional sports commentary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that step 6 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-t-008",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "orthography",
+    "question": "Which choice uses the concept without overgeneralising? A astronomy exhibition uses the idea “conventional writing and spelling system.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A astronomy exhibition uses the idea “conventional writing and spelling system.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "etymology",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "orthography",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Orthography is the precise term for conventional writing and spelling system.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-t-009",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spelling_through_morphology_etymology_and_orthographic_patterns",
+    "question": "A farmers market profile needs a concise example of Spelling through Morphology, Etymology and Orthographic Patterns. Which choice best fits?",
+    "audio_prompt": "A farmers market profile needs a concise example of Spelling through Morphology, Etymology and Orthographic Patterns. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -486,33 +2026,242 @@
         "is_correct": true
       },
       {
-        "text": "Spell only by sound",
+        "text": "Automated suggestion accepted without context",
         "is_correct": false
       },
       {
-        "text": "Morphology and history preserve letters",
+        "text": "Simply name irresponsible without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Smallest meaningful word element",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Classification preserves the class/classify word family even though pronunciation changes",
-      "hint": "Morphology and history preserve letters."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: Classification preserves the class/classify word family even though pronunciation changes",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly08-t-006",
+    "id": "ac9e7ly08-t-010",
     "curriculum_code": "AC9E7LY08",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "use_root_meaning",
-    "question": "Which response best uses use root meaning in spelling through morphology, etymology and orthographic patterns?",
-    "audio_prompt": "Which response best uses use root meaning in spelling through morphology, etymology and orthographic patterns?",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a emergency-preparedness video, someone writes, “Spell only by sound.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a emergency-preparedness video, someone writes, “Spell only by sound.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Spell only by sound",
+        "is_correct": false
+      },
+      {
+        "text": "Morphology and history preserve letters",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Morphology and history preserve letters The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-t-011",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "unpredictability",
+    "question": "Which answer is best supported in this new situation? A cycling safety infographic includes “un + predict + able + ity.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A cycling safety infographic includes “un + predict + able + ity.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of unpredictability.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Morpheme sequence",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Morpheme sequence",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-t-012",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "step_3",
+    "question": "Use the evidence in this river-health podcast. Which interpretation of “apply pattern/generalisation” would be most useful in a river-health podcast?",
+    "audio_prompt": "Use the evidence in this river-health podcast. Which interpretation of “apply pattern/generalisation” would be most useful in a river-health podcast?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that step 3 always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-t-013",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "etymology",
+    "question": "Choose the most precise analysis for this unfamiliar example. A town festival website uses the idea “history and origin of a word.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A town festival website uses the idea “history and origin of a word.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "etymology",
+        "is_correct": true
+      },
+      {
+        "text": "morpheme",
+        "is_correct": false
+      },
+      {
+        "text": "orthography",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Etymology is the precise term for history and origin of a word.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-t-014",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "spelling_through_morphology_etymology_and_orthographic_patterns",
+    "question": "Which response would hold up under close reading? A youth radio interview needs a concise example of Spelling through Morphology, Etymology and Orthographic Patterns. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A youth radio interview needs a concise example of Spelling through Morphology, Etymology and Orthographic Patterns. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Spell only by sound",
+        "is_correct": false
+      },
+      {
+        "text": "Classification preserves the class/classify word family even though pronunciation changes",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name photosynthesis without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Classification preserves the class/classify word family even though pronunciation changes",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly08-t-015",
+    "curriculum_code": "AC9E7LY08",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a coastal restoration article, someone writes, “Suffix rule applied without conditions.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a coastal restoration article, someone writes, “Suffix rule applied without conditions.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -523,96 +2272,67 @@
         "is_correct": false
       },
       {
-        "text": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
-        "is_correct": true
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
       },
       {
         "text": "Check base ending, stress and suffix type",
-        "is_correct": false
-      },
-      {
-        "text": "Smallest meaningful word element",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Pronunciation may shift across a word family while spelling preserves meaning relationships.",
-      "hint": "Check base ending, stress and suffix type."
-    }
-  },
-  {
-    "id": "ac9e7ly08-t-007",
-    "curriculum_code": "AC9E7LY08",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "verify_exception",
-    "question": "A Year 7 student is working with a text and needs to use verify exception. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use verify exception. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Word origin memorised as trivia",
-        "is_correct": false
-      },
-      {
-        "text": "Connect root to meaning and family",
-        "is_correct": false
-      },
-      {
-        "text": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
         "is_correct": true
       },
       {
-        "text": "Smallest meaningful word element",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A dictionary or trusted corpus is a verification tool, not a substitute for analysis. Record why the correct form makes sense.",
-      "hint": "Connect root to meaning and family."
-    }
+      "summary": "Check base ending, stress and suffix type The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly08-t-008",
+    "id": "ac9e7ly08-t-016",
     "curriculum_code": "AC9E7LY08",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "find_base_affixes",
-    "question": "A Year 7 student is working with a text and needs to use find base affixes. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use find base affixes. Which option best demonstrates the skill?",
+    "skill": "conservation",
+    "question": "Which choice uses the concept without overgeneralising? A public transport campaign includes “conserve + ation.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A public transport campaign includes “conserve + ation.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Automated suggestion accepted without context",
+        "text": "It is important only because it is an example of conservation.",
         "is_correct": false
       },
       {
-        "text": "Verify intended word and grammar",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Smallest meaningful word element",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       },
       {
-        "text": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
+        "text": "Final-e and word-family relation",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "English spelling encodes sound, meaning and history; effective spellers analyse morphemes, patterns and origins and verify uncertain forms.",
-      "hint": "Verify intended word and grammar."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Final-e and word-family relation",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

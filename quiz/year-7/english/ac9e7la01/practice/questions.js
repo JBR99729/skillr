@@ -1,28 +1,1164 @@
 "use strict";
-const q=(id,question,answers,correct,explanation,hint)=>({id,type:"single",question,answers,correct,explanation,hint});
-window.quizQuestions=[
-q("ac9e7la01-p01","A character says, 'Mum reckons I'm the quiet one, but at soccer I'm the captain who calls every play.' What does this language mainly show?",["Language can show different parts of a person's identity in different settings","The character never speaks at home","Soccer language is always informal and incorrect","The character has no personal identity"],0,"The contrast between 'quiet one' and 'captain who calls every play' shows identity changing across family and team contexts.","Look for how the speaker presents self in two situations."),
-q("ac9e7la01-p02","In a school speech, a student says, 'As a proud Ngunnawal learner, I want our stories named, not hidden.' Which language choice most strongly creates social identity?",["The phrase 'school speech'","The phrase 'proud Ngunnawal learner'","The word 'want'","The comma after learner"],1,"'Proud Ngunnawal learner' links the speaker to culture, place and community identity.","Find the words that connect the speaker to a group."),
-q("ac9e7la01-p03","A teenager texts, 'Can't come rn, training with the squad.' What identity is mainly created by 'rn' and 'squad'?",["Formal workplace identity","Historical narrator identity","Peer-group youth identity","Scientific expert identity"],2,"Abbreviated texting language and the word 'squad' create an informal peer identity.","Notice the register and group language."),
-q("ac9e7la01-p04","A narrator writes, 'I adjusted my tie, checked the agenda and welcomed the visitors.' What identity is suggested by this language?",["A careless child avoiding responsibility","A sporting fan at a match","A fantasy creature in disguise","A formal organiser or leader"],3,"Words such as 'tie', 'agenda' and 'welcomed the visitors' suggest a formal organising role.","Look for the social role implied by the nouns and actions."),
-q("ac9e7la01-p05","Which sentence best shows language creating a team identity?",["We trained, we trusted, we turned up for each other.","I placed the book on the table.","The window opened at six o'clock.","A pencil rolled across the desk."],0,"The repeated 'we' and shared actions create a collective team identity.","Look for group pronouns and shared values."),
-q("ac9e7la01-p06","A character says, 'At home I'm Mei-Ling, but online I use M-L because people stop asking how to say it.' What issue is shown?",["Spelling has no link to identity","Name choices can reflect pressure, belonging and personal identity","Online names are always more accurate than real names","The character dislikes all language"],1,"The change from a full name to initials shows how language choices can be shaped by social pressure and identity.","Think about what names signal."),
-q("ac9e7la01-p07","Which phrase most clearly signals a formal public identity?",["Hey, chuck us the ball","Nah, I'm good","On behalf of the committee, I welcome you","That snack is epic"],2,"'On behalf of the committee, I welcome you' uses formal register and identifies the speaker as a representative.","Choose the phrase suited to an official role."),
-q("ac9e7la01-p08","A blogger writes, 'We bookworms know the smell of a library is basically perfume.' What identity is being created?",["A medical expert identity","A person who dislikes books","A sports coach identity","A reader community identity"],3,"'We bookworms' creates an inclusive identity for people who love reading.","Notice who is included by 'we'."),
-q("ac9e7la01-p09","Which change would make the sentence sound more like a young peer speaking informally? Original: 'I am extremely pleased with the result.'",["I'm so happy with how it turned out!","The result was recorded accurately.","I acknowledge the pleasing result.","One is pleased by the outcome."],0,"The contraction, intensifier and exclamation create a more informal youth-like voice.","Look for natural spoken informality."),
-q("ac9e7la01-p10","A character says, 'Sir, may I please explain my answer?' What does the language mostly suggest?",["The speaker is insulting the teacher","The speaker is using respectful classroom language","The speaker is texting a close friend","The speaker is refusing to participate"],1,"'Sir' and 'may I please' create a respectful student identity in a classroom context.","Identify the relationship between speaker and listener."),
-q("ac9e7la01-p11","A group slogan says, 'Our river, our responsibility.' How does language create identity here?",["It uses rhyme to hide the topic","It avoids any sense of belonging","It uses 'our' to connect people to a shared place and duty","It presents the river as a person speaking"],2,"The repeated possessive 'our' builds a shared community identity around caring for the river.","Watch the pronoun."),
-q("ac9e7la01-p12","Which sentence best shows a character shifting identity between settings?",["The chair was blue and wooden.","The bell rang at lunchtime.","The road curved beside the oval.","In the lab I used precise terms, but with my cousins I joked in our home slang."],3,"The sentence contrasts scientific language with family slang, showing identity shifting across settings.","Look for two contexts and two language styles."),
-q("ac9e7la01-p13","In a comic, a superhero says, 'Citizens, remain calm. I will protect this city.' Which identity is created?",["A public protector with authority","A shy student asking for help","A casual friend sending a text","A shopkeeper advertising bread"],0,"'Citizens', 'remain calm' and 'protect this city' create an authoritative protector identity.","Look at how the speaker positions themselves."),
-q("ac9e7la01-p14","A student writes, 'My Nonna says mangia before every meal, and somehow that word tastes like home.' What does the Italian word help express?",["A random spelling mistake","Cultural and family identity","A dislike of family traditions","A formal legal identity"],1,"Using 'Nonna' and 'mangia' connects language to family culture and belonging.","Think about what inherited words can carry."),
-q("ac9e7la01-p15","Which option explains how slang can create social identity?",["Slang always makes writing incorrect","Slang removes all meaning from a sentence","Slang can signal membership of a peer, cultural or interest group","Slang is used only by adults in formal speeches"],2,"Slang can help speakers show belonging to particular groups and contexts.","Look for belonging, not correctness only."),
-q("ac9e7la01-p16","A narrator describes herself as 'the scholarship kid from the flats who learned to sound posh for interviews.' What is language doing?",["Showing that interviews have no language rules","Proving that identity is only about money","Avoiding any link between language and society","Showing how speech can be adjusted to fit social expectations"],3,"'Learned to sound posh' shows language being adjusted to fit social expectations and identity pressures.","Notice the link between speech style and social context."),
-q("ac9e7la01-p17","Which sentence best creates an expert scientific identity?",["The sample produced a measurable reaction after heating.","Bro, that thing went fizzy.","It was, like, totally weird.","Chuck it in and see what happens."],0,"Precise terms such as 'sample', 'measurable reaction' and 'heating' create an expert scientific voice.","Look for technical precision."),
-q("ac9e7la01-p18","A student changes 'kids like us don't win prizes' to 'students from our suburb have earned recognition before.' What has changed?",["The meaning is exactly the same in tone and identity","The sentence now creates a more confident collective identity","The sentence becomes less respectful","The second version removes all group identity"],1,"The revised sentence shifts from limiting language to a more confident collective identity.","Compare how each version positions the group."),
-q("ac9e7la01-p19","Which word choice most clearly creates a respectful relationship with an elder?",["Whatever","Oldie","Elder Aunty Mara","Random person"],2,"'Elder Aunty Mara' uses respectful cultural and relational naming.","Look for respectful naming, not just description."),
-q("ac9e7la01-p20","A character says, 'I don't use my accent at debating; I use my debating voice.' What does this suggest?",["Accents are not part of identity","Debating has no connection to language","The character cannot speak clearly","Language choices can be used to manage identity in public situations"],3,"The character distinguishes everyday accent from a public 'debating voice', showing identity management through language.","Think about why someone changes voice for an audience."),
-q("ac9e7la01-p21","Which sentence uses inclusive language to build community identity?",["Together, we can make our classroom safer and kinder.","You people need to fix your mess.","I alone made everything better.","Someone should probably do something."],0,"'Together', 'we' and 'our classroom' invite shared responsibility and community identity.","Look for language that includes the audience."),
-q("ac9e7la01-p22","A fantasy character says, 'By the old oath, I guard the mountain gate.' What identity is created through language?",["A modern casual teenager","A guardian shaped by tradition and duty","A person ordering food","A sports commentator"],1,"'By the old oath' and 'guard' create an identity connected to tradition and duty.","Look for values and role signalled by word choice."),
-q("ac9e7la01-p23","Which explanation best matches AC9E7LA01?",["Language is only useful for spelling tests","Identity is never affected by words","Language can show and shape who people are, what groups they belong to and how others see them","All people use exactly the same language in every setting"],2,"AC9E7LA01 focuses on how language expresses and creates personal and social identities.","Choose the explanation about language and identity."),
-q("ac9e7la01-p24","In a review, a student writes, 'The narrator's clipped commands make her sound like a commander, not a friend.' What is the student analysing?",["How punctuation proves the plot is false","How spelling changes the setting","How illustrations replace dialogue","How sentence length and word choice create identity"],3,"The student links language features, such as clipped commands, to the narrator's social identity.","Look for a link between language feature and identity.")
+window.skillrPracticeQuestions = [
+  {
+    "id": "ac9e7la01-p-001",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "register",
+    "printable": true,
+    "type": "single",
+    "question": "Which term best matches this meaning: “language style associated with context and relationship”?",
+    "audioPrompt": "Which term best matches this meaning: “language style associated with context and relationship”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "register",
+      "identity",
+      "social positioning",
+      "It makes a broader claim than the evidence supports."
+    ],
+    "correct": 0,
+    "explanation": "Register means language style associated with context and relationship. The strongest answer matches the whole meaning, not just one familiar word.\nHint: Match the definition to the most precise term used in Language, Identity and Social Positioning.",
+    "structuredExplanation": {
+      "summary": "Register means language style associated with context and relationship. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Language, Identity and Social Positioning."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-002",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "class debate",
+    "printable": true,
+    "type": "single",
+    "question": "Read this example: “evidence, turn-taking, qualified disagreement.” Which description fits it best?",
+    "audioPrompt": "Read this example: “evidence, turn-taking, qualified disagreement.” Which description fits it best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "peer group",
+      "class debate",
+      "formal application",
+      "online community"
+    ],
+    "correct": 1,
+    "explanation": "The example matches class debate. Informed participant\nHint: Identify the feature that is actually present before deciding what it does.",
+    "structuredExplanation": {
+      "summary": "The example matches class debate. Informed participant",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-003",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "as chair i will summarise the evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Which label most accurately describes “institutional role”?",
+    "audioPrompt": "Which label most accurately describes “institutional role”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "We need to decide together",
+      "People like you never understand",
+      "As chair, I will summarise the evidence",
+      "Could you clarify that assumption?"
+    ],
+    "correct": 2,
+    "explanation": "“institutional role” is best described as As chair, I will summarise the evidence.\nHint: Use the wording in the example, not the length or complexity of the options.",
+    "structuredExplanation": {
+      "summary": "“institutional role” is best described as As chair, I will summarise the evidence.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-004",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "online community",
+    "printable": true,
+    "type": "single",
+    "question": "Read this example: “platform conventions, tags, abbreviations.” Which description fits it best?",
+    "audioPrompt": "Read this example: “platform conventions, tags, abbreviations.” Which description fits it best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "peer group",
+      "class debate",
+      "formal application",
+      "online community"
+    ],
+    "correct": 3,
+    "explanation": "The example matches online community. Digital group identity\nHint: Identify the feature that is actually present before deciding what it does.",
+    "structuredExplanation": {
+      "summary": "The example matches online community. Digital group identity",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-005",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "misconception repair",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best corrects this claim: “Formal register treated as universally superior”?",
+    "audioPrompt": "Which response best corrects this claim: “Formal register treated as universally superior”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Suitability depends on purpose and audience",
+      "One expression used to label identity",
+      "Language variety described as broken standard English",
+      "Power ignored in interaction"
+    ],
+    "correct": 0,
+    "explanation": "Suitability depends on purpose and audience This corrects the overgeneralisation in the original claim.\nHint: Choose the response that keeps the useful idea but fixes what is inaccurate.",
+    "structuredExplanation": {
+      "summary": "Suitability depends on purpose and audience This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-006",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "social positioning",
+    "printable": true,
+    "type": "single",
+    "question": "Which term best matches this meaning: “way language locates participants in relations of belonging, authority or distance”?",
+    "audioPrompt": "Which term best matches this meaning: “way language locates participants in relations of belonging, authority or distance”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "register",
+      "social positioning",
+      "identity",
+      "It makes a broader claim than the evidence supports."
+    ],
+    "correct": 1,
+    "explanation": "Social positioning means way language locates participants in relations of belonging, authority or distance. The strongest answer matches the whole meaning, not just one familiar word.\nHint: Match the definition to the most precise term used in Language, Identity and Social Positioning.",
+    "structuredExplanation": {
+      "summary": "Social positioning means way language locates participants in relations of belonging, authority or distance. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Language, Identity and Social Positioning."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-007",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "formal application",
+    "printable": true,
+    "type": "single",
+    "question": "Read this example: “explicit purpose, conventional greeting, precise register.” Which description fits it best?",
+    "audioPrompt": "Read this example: “explicit purpose, conventional greeting, precise register.” Which description fits it best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "peer group",
+      "class debate",
+      "formal application",
+      "online community"
+    ],
+    "correct": 2,
+    "explanation": "The example matches formal application. Professional role\nHint: Identify the feature that is actually present before deciding what it does.",
+    "structuredExplanation": {
+      "summary": "The example matches formal application. Professional role",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-008",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "as chair i will summarise the evidence",
+    "printable": true,
+    "type": "single",
+    "question": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “institutional role”?",
+    "audioPrompt": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “institutional role”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "We need to decide together",
+      "People like you never understand",
+      "Could you clarify that assumption?",
+      "As chair, I will summarise the evidence"
+    ],
+    "correct": 3,
+    "explanation": "“institutional role” is best described as As chair, I will summarise the evidence.\nHint: Use the wording in the example, not the length or complexity of the options.",
+    "structuredExplanation": {
+      "summary": "“institutional role” is best described as As chair, I will summarise the evidence.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-009",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "peer group",
+    "printable": true,
+    "type": "single",
+    "question": "Read this example: “shared references, humour, informal grammar.” Which description fits it best?",
+    "audioPrompt": "Read this example: “shared references, humour, informal grammar.” Which description fits it best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "peer group",
+      "class debate",
+      "formal application",
+      "online community"
+    ],
+    "correct": 0,
+    "explanation": "The example matches peer group. Solidarity and membership\nHint: Identify the feature that is actually present before deciding what it does.",
+    "structuredExplanation": {
+      "summary": "The example matches peer group. Solidarity and membership",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-010",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "misconception repair",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best corrects this claim: “One expression used to label identity”?",
+    "audioPrompt": "Which response best corrects this claim: “One expression used to label identity”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Formal register treated as universally superior",
+      "Interpret patterns cautiously",
+      "Language variety described as broken standard English",
+      "Power ignored in interaction"
+    ],
+    "correct": 1,
+    "explanation": "Interpret patterns cautiously This corrects the overgeneralisation in the original claim.\nHint: Choose the response that keeps the useful idea but fixes what is inaccurate.",
+    "structuredExplanation": {
+      "summary": "Interpret patterns cautiously This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-011",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "peer group",
+    "printable": true,
+    "type": "single",
+    "question": "Why does “shared references, humour, informal grammar” illustrate peer group?",
+    "audioPrompt": "Why does “shared references, humour, informal grammar” illustrate peer group?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is effective simply because it contains the words “shared references, humour,”.",
+      "It guarantees the same effect for every audience and context.",
+      "Solidarity and membership",
+      "It matters only because the example is longer than a simpler sentence."
+    ],
+    "correct": 2,
+    "explanation": "A strong explanation identifies the feature and then explains its effect in context. Solidarity and membership\nHint: Do not stop at naming the feature; connect it to the meaning, audience or purpose.",
+    "structuredExplanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Solidarity and membership",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-012",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "class debate",
+    "printable": true,
+    "type": "single",
+    "question": "What is the best explanation of how “evidence, turn-taking, qualified disagreement” works?",
+    "audioPrompt": "What is the best explanation of how “evidence, turn-taking, qualified disagreement” works?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is effective simply because it contains the words “evidence, turn-taking, qualified”.",
+      "It guarantees the same effect for every audience and context.",
+      "It matters only because the example is longer than a simpler sentence.",
+      "Informed participant"
+    ],
+    "correct": 3,
+    "explanation": "A strong explanation identifies the feature and then explains its effect in context. Informed participant\nHint: Do not stop at naming the feature; connect it to the meaning, audience or purpose.",
+    "structuredExplanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Informed participant",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-013",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "formal application",
+    "printable": true,
+    "type": "single",
+    "question": "Which explanation connects the feature in “explicit purpose, conventional greeting, precise register” to its effect most clearly?",
+    "audioPrompt": "Which explanation connects the feature in “explicit purpose, conventional greeting, precise register” to its effect most clearly?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Professional role",
+      "It is effective simply because it contains the words “explicit purpose, conventional”.",
+      "It guarantees the same effect for every audience and context.",
+      "It matters only because the example is longer than a simpler sentence."
+    ],
+    "correct": 0,
+    "explanation": "A strong explanation identifies the feature and then explains its effect in context. Professional role\nHint: Do not stop at naming the feature; connect it to the meaning, audience or purpose.",
+    "structuredExplanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Professional role",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-014",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "online community",
+    "printable": true,
+    "type": "single",
+    "question": "What should a careful reader notice about “platform conventions, tags, abbreviations”?",
+    "audioPrompt": "What should a careful reader notice about “platform conventions, tags, abbreviations”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is effective simply because it contains the words “platform conventions, tags,”.",
+      "Digital group identity",
+      "It guarantees the same effect for every audience and context.",
+      "It matters only because the example is longer than a simpler sentence."
+    ],
+    "correct": 1,
+    "explanation": "A strong explanation identifies the feature and then explains its effect in context. Digital group identity\nHint: Do not stop at naming the feature; connect it to the meaning, audience or purpose.",
+    "structuredExplanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Digital group identity",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-015",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "we need to decide together",
+    "printable": true,
+    "type": "single",
+    "question": "How does the example “inclusive authority” contribute to meaning?",
+    "audioPrompt": "How does the example “inclusive authority” contribute to meaning?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is effective simply because it contains the words “inclusive authority”.",
+      "It guarantees the same effect for every audience and context.",
+      "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "It matters only because the example is longer than a simpler sentence."
+    ],
+    "correct": 2,
+    "explanation": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal\nHint: Do not stop at naming the feature; connect it to the meaning, audience or purpose.",
+    "structuredExplanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-016",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "people like you never understand",
+    "printable": true,
+    "type": "single",
+    "question": "Why does “exclusion and stereotyping” illustrate People like you never understand?",
+    "audioPrompt": "Why does “exclusion and stereotyping” illustrate People like you never understand?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is effective simply because it contains the words “exclusion and stereotyping”.",
+      "It guarantees the same effect for every audience and context.",
+      "It matters only because the example is longer than a simpler sentence.",
+      "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal"
+    ],
+    "correct": 3,
+    "explanation": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal\nHint: Do not stop at naming the feature; connect it to the meaning, audience or purpose.",
+    "structuredExplanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-017",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "as chair i will summarise the evidence",
+    "printable": true,
+    "type": "single",
+    "question": "What is the best explanation of how “institutional role” works?",
+    "audioPrompt": "What is the best explanation of how “institutional role” works?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "It is effective simply because it contains the words “institutional role”.",
+      "It guarantees the same effect for every audience and context.",
+      "It matters only because the example is longer than a simpler sentence."
+    ],
+    "correct": 0,
+    "explanation": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal\nHint: Do not stop at naming the feature; connect it to the meaning, audience or purpose.",
+    "structuredExplanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-018",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "could you clarify that assumption",
+    "printable": true,
+    "type": "single",
+    "question": "Which explanation connects the feature in “respectful challenge” to its effect most clearly?",
+    "audioPrompt": "Which explanation connects the feature in “respectful challenge” to its effect most clearly?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is effective simply because it contains the words “respectful challenge”.",
+      "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "It guarantees the same effect for every audience and context.",
+      "It matters only because the example is longer than a simpler sentence."
+    ],
+    "correct": 1,
+    "explanation": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal\nHint: Do not stop at naming the feature; connect it to the meaning, audience or purpose.",
+    "structuredExplanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-019",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "inside terminology",
+    "printable": true,
+    "type": "single",
+    "question": "What should a careful reader notice about “membership but possible outsider exclusion”?",
+    "audioPrompt": "What should a careful reader notice about “membership but possible outsider exclusion”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is effective simply because it contains the words “membership but possible”.",
+      "It guarantees the same effect for every audience and context.",
+      "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "It matters only because the example is longer than a simpler sentence."
+    ],
+    "correct": 2,
+    "explanation": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal\nHint: Do not stop at naming the feature; connect it to the meaning, audience or purpose.",
+    "structuredExplanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-020",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "peer group",
+    "printable": true,
+    "type": "single",
+    "question": "How does the example “shared references, humour, informal grammar” contribute to meaning?",
+    "audioPrompt": "How does the example “shared references, humour, informal grammar” contribute to meaning?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is effective simply because it contains the words “shared references, humour,”.",
+      "It guarantees the same effect for every audience and context.",
+      "It matters only because the example is longer than a simpler sentence.",
+      "Solidarity and membership"
+    ],
+    "correct": 3,
+    "explanation": "A strong explanation identifies the feature and then explains its effect in context. Solidarity and membership\nHint: Do not stop at naming the feature; connect it to the meaning, audience or purpose.",
+    "structuredExplanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Solidarity and membership",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-021",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "discriminate misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A claim says, “Formal register treated as universally superior.” Which response makes the most accurate distinction?",
+    "audioPrompt": "A claim says, “Formal register treated as universally superior.” Which response makes the most accurate distinction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Suitability depends on purpose and audience",
+      "Formal register treated as universally superior",
+      "Interpret patterns cautiously",
+      "Varieties have conventions and histories"
+    ],
+    "correct": 0,
+    "explanation": "Suitability depends on purpose and audience The original statement is too broad, incomplete or inaccurate.\nHint: Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule.",
+    "structuredExplanation": {
+      "summary": "Suitability depends on purpose and audience The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-022",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "discriminate misconception",
+    "printable": true,
+    "type": "single",
+    "question": "What is the main problem with this statement: “One expression used to label identity”?",
+    "audioPrompt": "What is the main problem with this statement: “One expression used to label identity”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One expression used to label identity",
+      "Interpret patterns cautiously",
+      "Suitability depends on purpose and audience",
+      "Varieties have conventions and histories"
+    ],
+    "correct": 1,
+    "explanation": "Interpret patterns cautiously The original statement is too broad, incomplete or inaccurate.\nHint: Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule.",
+    "structuredExplanation": {
+      "summary": "Interpret patterns cautiously The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-023",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "discriminate misconception",
+    "printable": true,
+    "type": "single",
+    "question": "Which correction avoids the misconception in “Language variety described as broken standard English”?",
+    "audioPrompt": "Which correction avoids the misconception in “Language variety described as broken standard English”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Language variety described as broken standard English",
+      "Suitability depends on purpose and audience",
+      "Varieties have conventions and histories",
+      "Interpret patterns cautiously"
+    ],
+    "correct": 2,
+    "explanation": "Varieties have conventions and histories The original statement is too broad, incomplete or inaccurate.\nHint: Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule.",
+    "structuredExplanation": {
+      "summary": "Varieties have conventions and histories The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-024",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "discriminate misconception",
+    "printable": true,
+    "type": "single",
+    "question": "Two readers disagree about “Power ignored in interaction.” Which response is better supported?",
+    "audioPrompt": "Two readers disagree about “Power ignored in interaction.” Which response is better supported?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Power ignored in interaction",
+      "Suitability depends on purpose and audience",
+      "Interpret patterns cautiously",
+      "Analyse turn-taking, address and whose viewpoint is privileged"
+    ],
+    "correct": 3,
+    "explanation": "Analyse turn-taking, address and whose viewpoint is privileged The original statement is too broad, incomplete or inaccurate.\nHint: Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule.",
+    "structuredExplanation": {
+      "summary": "Analyse turn-taking, address and whose viewpoint is privileged The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-025",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "discriminate misconception",
+    "printable": true,
+    "type": "single",
+    "question": "Which idea should replace “Formal register treated as universally superior” so the analysis stays accurate?",
+    "audioPrompt": "Which idea should replace “Formal register treated as universally superior” so the analysis stays accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Suitability depends on purpose and audience",
+      "Formal register treated as universally superior",
+      "Interpret patterns cautiously",
+      "Varieties have conventions and histories"
+    ],
+    "correct": 0,
+    "explanation": "Suitability depends on purpose and audience The original statement is too broad, incomplete or inaccurate.\nHint: Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule.",
+    "structuredExplanation": {
+      "summary": "Suitability depends on purpose and audience The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-026",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "discriminate misconception",
+    "printable": true,
+    "type": "single",
+    "question": "A claim says, “One expression used to label identity.” Which response makes the most accurate distinction?",
+    "audioPrompt": "A claim says, “One expression used to label identity.” Which response makes the most accurate distinction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One expression used to label identity",
+      "Interpret patterns cautiously",
+      "Suitability depends on purpose and audience",
+      "Varieties have conventions and histories"
+    ],
+    "correct": 1,
+    "explanation": "Interpret patterns cautiously The original statement is too broad, incomplete or inaccurate.\nHint: Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule.",
+    "structuredExplanation": {
+      "summary": "Interpret patterns cautiously The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-027",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "discriminate misconception",
+    "printable": true,
+    "type": "single",
+    "question": "What is the main problem with this statement: “Language variety described as broken standard English”?",
+    "audioPrompt": "What is the main problem with this statement: “Language variety described as broken standard English”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Language variety described as broken standard English",
+      "Suitability depends on purpose and audience",
+      "Varieties have conventions and histories",
+      "Interpret patterns cautiously"
+    ],
+    "correct": 2,
+    "explanation": "Varieties have conventions and histories The original statement is too broad, incomplete or inaccurate.\nHint: Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule.",
+    "structuredExplanation": {
+      "summary": "Varieties have conventions and histories The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-028",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "discriminate misconception",
+    "printable": true,
+    "type": "single",
+    "question": "Which correction avoids the misconception in “Power ignored in interaction”?",
+    "audioPrompt": "Which correction avoids the misconception in “Power ignored in interaction”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Power ignored in interaction",
+      "Suitability depends on purpose and audience",
+      "Interpret patterns cautiously",
+      "Analyse turn-taking, address and whose viewpoint is privileged"
+    ],
+    "correct": 3,
+    "explanation": "Analyse turn-taking, address and whose viewpoint is privileged The original statement is too broad, incomplete or inaccurate.\nHint: Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule.",
+    "structuredExplanation": {
+      "summary": "Analyse turn-taking, address and whose viewpoint is privileged The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-029",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "discriminate misconception",
+    "printable": true,
+    "type": "single",
+    "question": "Two readers disagree about “Formal register treated as universally superior.” Which response is better supported?",
+    "audioPrompt": "Two readers disagree about “Formal register treated as universally superior.” Which response is better supported?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Suitability depends on purpose and audience",
+      "Formal register treated as universally superior",
+      "Interpret patterns cautiously",
+      "Varieties have conventions and histories"
+    ],
+    "correct": 0,
+    "explanation": "Suitability depends on purpose and audience The original statement is too broad, incomplete or inaccurate.\nHint: Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule.",
+    "structuredExplanation": {
+      "summary": "Suitability depends on purpose and audience The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-030",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "discriminate misconception",
+    "printable": true,
+    "type": "single",
+    "question": "Which idea should replace “One expression used to label identity” so the analysis stays accurate?",
+    "audioPrompt": "Which idea should replace “One expression used to label identity” so the analysis stays accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One expression used to label identity",
+      "Interpret patterns cautiously",
+      "Suitability depends on purpose and audience",
+      "Varieties have conventions and histories"
+    ],
+    "correct": 1,
+    "explanation": "Interpret patterns cautiously The original statement is too broad, incomplete or inaccurate.\nHint: Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule.",
+    "structuredExplanation": {
+      "summary": "Interpret patterns cautiously The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-031",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "language identity and social positioning",
+    "printable": true,
+    "type": "single",
+    "question": "A school podcast needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
+    "audioPrompt": "A school podcast needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Formal register treated as universally superior",
+      "Simply name peer group without showing it in context.",
+      "Inclusive we can position speaker and audience as sharing responsibility",
+      "Use a broad claim that ignores audience and purpose."
+    ],
+    "correct": 2,
+    "explanation": "The strongest choice demonstrates the concept itself: Inclusive we can position speaker and audience as sharing responsibility\nHint: Choose the option that actually applies the idea rather than merely naming it.",
+    "structuredExplanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Inclusive we can position speaker and audience as sharing responsibility",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-032",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "revision",
+    "printable": true,
+    "type": "single",
+    "question": "In a local history display, someone writes, “One expression used to label identity.” Which revision would make the analysis more accurate?",
+    "audioPrompt": "In a local history display, someone writes, “One expression used to label identity.” Which revision would make the analysis more accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One expression used to label identity",
+      "Keep the claim but add “always” to make it sound certain.",
+      "Remove the evidence and replace it with a personal preference.",
+      "Interpret patterns cautiously"
+    ],
+    "correct": 3,
+    "explanation": "Interpret patterns cautiously The revision fixes the misconception without losing the useful part of the original idea.\nHint: Prefer qualified, evidence-based wording over an absolute claim.",
+    "structuredExplanation": {
+      "summary": "Interpret patterns cautiously The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-033",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "formal application",
+    "printable": true,
+    "type": "single",
+    "question": "A science expo includes “explicit purpose, conventional greeting, precise register.” Which analysis is strongest?",
+    "audioPrompt": "A science expo includes “explicit purpose, conventional greeting, precise register.” Which analysis is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Professional role",
+      "It is important only because it is an example of formal application.",
+      "Its effect is guaranteed no matter who the audience is.",
+      "It should be judged only by whether the reader personally likes it."
+    ],
+    "correct": 0,
+    "explanation": "The strongest analysis connects the evidence to its function: Professional role\nHint: Use a feature → evidence → effect chain.",
+    "structuredExplanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Professional role",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-034",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "could you clarify that assumption",
+    "printable": true,
+    "type": "single",
+    "question": "Which interpretation of “respectful challenge” would be most useful in a library newsletter?",
+    "audioPrompt": "Which interpretation of “respectful challenge” would be most useful in a library newsletter?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It proves that Could you clarify that assumption? always has one fixed effect.",
+      "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "It can be analysed without referring to the actual wording.",
+      "It is automatically better because it sounds more formal."
+    ],
+    "correct": 1,
+    "explanation": "The interpretation uses the specific evidence and keeps the effect tied to context.\nHint: Avoid automatic rules; explain what this example does here.",
+    "structuredExplanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-035",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "identity",
+    "printable": true,
+    "type": "single",
+    "question": "A student council proposal uses the idea “way a person or group is represented and understood.” Which term would make the analysis most precise?",
+    "audioPrompt": "A student council proposal uses the idea “way a person or group is represented and understood.” Which term would make the analysis most precise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "register",
+      "social positioning",
+      "identity",
+      "It makes a broader claim than the evidence supports."
+    ],
+    "correct": 2,
+    "explanation": "Identity is the precise term for way a person or group is represented and understood.\nHint: Select the term that matches the whole definition and then check it against the context.",
+    "structuredExplanation": {
+      "summary": "Identity is the precise term for way a person or group is represented and understood.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-036",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "language identity and social positioning",
+    "printable": true,
+    "type": "single",
+    "question": "A sports club notice needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
+    "audioPrompt": "A sports club notice needs a concise example of Language, Identity and Social Positioning. Which choice best fits?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One expression used to label identity",
+      "Simply name class debate without showing it in context.",
+      "Use a broad claim that ignores audience and purpose.",
+      "Inclusive we can position speaker and audience as sharing responsibility"
+    ],
+    "correct": 3,
+    "explanation": "The strongest choice demonstrates the concept itself: Inclusive we can position speaker and audience as sharing responsibility\nHint: Choose the option that actually applies the idea rather than merely naming it.",
+    "structuredExplanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Inclusive we can position speaker and audience as sharing responsibility",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-037",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "revision",
+    "printable": true,
+    "type": "single",
+    "question": "In a museum exhibit, someone writes, “Language variety described as broken standard English.” Which revision would make the analysis more accurate?",
+    "audioPrompt": "In a museum exhibit, someone writes, “Language variety described as broken standard English.” Which revision would make the analysis more accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Varieties have conventions and histories",
+      "Language variety described as broken standard English",
+      "Keep the claim but add “always” to make it sound certain.",
+      "Remove the evidence and replace it with a personal preference."
+    ],
+    "correct": 0,
+    "explanation": "Varieties have conventions and histories The revision fixes the misconception without losing the useful part of the original idea.\nHint: Prefer qualified, evidence-based wording over an absolute claim.",
+    "structuredExplanation": {
+      "summary": "Varieties have conventions and histories The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-038",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "online community",
+    "printable": true,
+    "type": "single",
+    "question": "A community garden report includes “platform conventions, tags, abbreviations.” Which analysis is strongest?",
+    "audioPrompt": "A community garden report includes “platform conventions, tags, abbreviations.” Which analysis is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is important only because it is an example of online community.",
+      "Digital group identity",
+      "Its effect is guaranteed no matter who the audience is.",
+      "It should be judged only by whether the reader personally likes it."
+    ],
+    "correct": 1,
+    "explanation": "The strongest analysis connects the evidence to its function: Digital group identity\nHint: Use a feature → evidence → effect chain.",
+    "structuredExplanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Digital group identity",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-039",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "could you clarify that assumption",
+    "printable": true,
+    "type": "single",
+    "question": "Which interpretation of “respectful challenge” would be most useful in a class debate?",
+    "audioPrompt": "Which interpretation of “respectful challenge” would be most useful in a class debate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It proves that Could you clarify that assumption? always has one fixed effect.",
+      "It can be analysed without referring to the actual wording.",
+      "Use patterns and context rather than inferring identity from one word. Consider who may speak, who is named and whose language is treated as normal",
+      "It is automatically better because it sounds more formal."
+    ],
+    "correct": 2,
+    "explanation": "The interpretation uses the specific evidence and keeps the effect tied to context.\nHint: Avoid automatic rules; explain what this example does here.",
+    "structuredExplanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la01-p-040",
+    "curriculumCode": "AC9E7LA01",
+    "bank": "practice",
+    "skill": "register",
+    "printable": true,
+    "type": "single",
+    "question": "A environmental campaign uses the idea “language style associated with context and relationship.” Which term would make the analysis most precise?",
+    "audioPrompt": "A environmental campaign uses the idea “language style associated with context and relationship.” Which term would make the analysis most precise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "identity",
+      "social positioning",
+      "It makes a broader claim than the evidence supports.",
+      "register"
+    ],
+    "correct": 3,
+    "explanation": "Register is the precise term for language style associated with context and relationship.\nHint: Select the term that matches the whole definition and then check it against the context.",
+    "structuredExplanation": {
+      "summary": "Register is the precise term for language style associated with context and relationship.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "qualitySchema": "skillr-actual-v4"
+  }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

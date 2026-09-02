@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "find_a_vector",
-    "question": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "vector",
+    "question": "Which term best matches this meaning: “visual line or direction connecting elements”?",
+    "audio_prompt": "Which term best matches this meaning: “visual line or direction connecting elements”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A direct-gaze close-up may position the viewer as personally addressed",
+        "text": "camera angle",
+        "is_correct": false
+      },
+      {
+        "text": "social distance",
+        "is_correct": false
+      },
+      {
+        "text": "vector",
         "is_correct": true
       },
       {
-        "text": "Low angle always means power",
-        "is_correct": false
-      },
-      {
-        "text": "Context can complicate the effect",
-        "is_correct": false
-      },
-      {
-        "text": "Visual line or direction connecting elements",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A direct-gaze close-up may position the viewer as personally addressed",
-      "hint": "Context can complicate the effect."
+      "summary": "Vector means visual line or direction connecting elements. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Vectors, Angle and Social Distance in Images."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la07-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_angle",
-    "question": "A Year 7 student is working with a text and needs to use explain angle. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain angle. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "low_camera_angle",
+    "question": "Read this example: “may position participant as powerful.” Which description fits it best?",
+    "audio_prompt": "Read this example: “may position participant as powerful.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Vector limited to drawn arrows",
+        "text": "gaze vector",
         "is_correct": false
       },
       {
-        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+        "text": "high angle",
+        "is_correct": false
+      },
+      {
+        "text": "close-up",
+        "is_correct": false
+      },
+      {
+        "text": "low camera angle",
         "is_correct": true
-      },
-      {
-        "text": "Gaze, limbs, roads and movement create vectors",
-        "is_correct": false
-      },
-      {
-        "text": "Visual line or direction connecting elements",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
-      "hint": "Gaze, limbs, roads and movement create vectors."
+      "summary": "The example matches low camera angle. These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la07-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_shot_distance",
-    "question": "A Year 7 student is working with a text and needs to use compare shot distance. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare shot distance. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "direct_gaze",
+    "question": "Which label most accurately describes “demand or connection”?",
+    "audio_prompt": "Which label most accurately describes “demand or connection”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Image analysed without words",
-        "is_correct": false
-      },
-      {
-        "text": "Modes interact",
-        "is_correct": false
-      },
-      {
-        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+        "text": "direct gaze",
         "is_correct": true
       },
       {
-        "text": "Visual line or direction connecting elements",
+        "text": "close low-angle portrait",
+        "is_correct": false
+      },
+      {
+        "text": "wide high-angle scene",
+        "is_correct": false
+      },
+      {
+        "text": "averted gaze",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
-      "hint": "Modes interact."
+      "summary": "“demand or connection” is best described as direct gaze.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la07-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_gaze",
-    "question": "A Year 7 student is working with a text and needs to use analyse gaze. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse gaze. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "close_up",
+    "question": "Read this example: “creates intimacy or scrutiny.” Which description fits it best?",
+    "audio_prompt": "Read this example: “creates intimacy or scrutiny.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Viewer response treated as universal",
+        "text": "gaze vector",
         "is_correct": false
       },
       {
-        "text": "Qualify interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Visual line or direction connecting elements",
-        "is_correct": false
-      },
-      {
-        "text": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
+        "text": "close-up",
         "is_correct": true
+      },
+      {
+        "text": "low camera angle",
+        "is_correct": false
+      },
+      {
+        "text": "high angle",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
-      "hint": "Qualify interpretation."
+      "summary": "The example matches close-up. These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la07-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "connect_modes",
-    "question": "Which statement correctly identifies camera angle in vectors, angle and social distance in images?",
-    "audio_prompt": "Which statement correctly identifies camera angle in vectors, angle and social distance in images?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Low angle always means power”?",
+    "audio_prompt": "Which response best corrects this claim: “Low angle always means power”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A direct-gaze close-up may position the viewer as personally addressed",
-        "is_correct": true
+        "text": "Vector limited to drawn arrows",
+        "is_correct": false
       },
       {
-        "text": "Low angle always means power",
+        "text": "Image analysed without words",
         "is_correct": false
       },
       {
         "text": "Context can complicate the effect",
-        "is_correct": false
+        "is_correct": true
       },
       {
-        "text": "Visual line or direction connecting elements",
+        "text": "Viewer response treated as universal",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A direct-gaze close-up may position the viewer as personally addressed",
-      "hint": "Context can complicate the effect."
+      "summary": "Context can complicate the effect This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la07-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "find_a_vector",
-    "question": "Which choice best describes social distance in vectors, angle and social distance in images?",
-    "audio_prompt": "Which choice best describes social distance in vectors, angle and social distance in images?",
+    "stage": "recognise",
+    "skill": "social_distance",
+    "question": "Which term best matches this meaning: “constructed closeness or distance between viewer and represented participant”?",
+    "audio_prompt": "Which term best matches this meaning: “constructed closeness or distance between viewer and represented participant”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Vector limited to drawn arrows",
+        "text": "vector",
         "is_correct": false
       },
       {
-        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+        "text": "camera angle",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "social distance",
         "is_correct": true
-      },
-      {
-        "text": "Gaze, limbs, roads and movement create vectors",
-        "is_correct": false
-      },
-      {
-        "text": "Visual line or direction connecting elements",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
-      "hint": "Gaze, limbs, roads and movement create vectors."
+      "summary": "Social distance means constructed closeness or distance between viewer and represented participant. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Vectors, Angle and Social Distance in Images."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la07-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_angle",
-    "question": "What does correct use require for vector in vectors, angle and social distance in images?",
-    "audio_prompt": "What does correct use require for vector in vectors, angle and social distance in images?",
+    "stage": "recognise",
+    "skill": "gaze_vector",
+    "question": "Read this example: “connects participant with viewer or another element.” Which description fits it best?",
+    "audio_prompt": "Read this example: “connects participant with viewer or another element.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Image analysed without words",
-        "is_correct": false
-      },
-      {
-        "text": "Modes interact",
-        "is_correct": false
-      },
-      {
-        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+        "text": "gaze vector",
         "is_correct": true
       },
       {
-        "text": "Visual line or direction connecting elements",
+        "text": "low camera angle",
+        "is_correct": false
+      },
+      {
+        "text": "high angle",
+        "is_correct": false
+      },
+      {
+        "text": "close-up",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
-      "hint": "Modes interact."
+      "summary": "The example matches gaze vector. These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la07-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_shot_distance",
-    "question": "A Year 7 student is working with a text and needs to use compare shot distance. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare shot distance. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "direct_gaze",
+    "question": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “demand or connection”?",
+    "audio_prompt": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “demand or connection”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "close low-angle portrait",
+        "is_correct": false
+      },
+      {
+        "text": "direct gaze",
+        "is_correct": true
+      },
+      {
+        "text": "wide high-angle scene",
+        "is_correct": false
+      },
+      {
+        "text": "averted gaze",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“demand or connection” is best described as direct gaze.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-009",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "high_angle",
+    "question": "Read this example: “may position participant as vulnerable or observed.” Which description fits it best?",
+    "audio_prompt": "Read this example: “may position participant as vulnerable or observed.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "gaze vector",
+        "is_correct": false
+      },
+      {
+        "text": "low camera angle",
+        "is_correct": false
+      },
+      {
+        "text": "high angle",
+        "is_correct": true
+      },
+      {
+        "text": "close-up",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The example matches high angle. These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-010",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Vector limited to drawn arrows”?",
+    "audio_prompt": "Which response best corrects this claim: “Vector limited to drawn arrows”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low angle always means power",
+        "is_correct": false
+      },
+      {
+        "text": "Image analysed without words",
+        "is_correct": false
+      },
+      {
+        "text": "Viewer response treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Gaze, limbs, roads and movement create vectors This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-011",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "gaze_vector",
+    "question": "Why does “connects participant with viewer or another element” illustrate gaze vector?",
+    "audio_prompt": "Why does “connects participant with viewer or another element” illustrate gaze vector?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “connects participant with”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-012",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "low_camera_angle",
+    "question": "What is the best explanation of how “may position participant as powerful” works?",
+    "audio_prompt": "What is the best explanation of how “may position participant as powerful” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “may position participant”.",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-013",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "high_angle",
+    "question": "Which explanation connects the feature in “may position participant as vulnerable or observed” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “may position participant as vulnerable or observed” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “may position participant”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-014",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "close_up",
+    "question": "What should a careful reader notice about “creates intimacy or scrutiny”?",
+    "audio_prompt": "What should a careful reader notice about “creates intimacy or scrutiny”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “creates intimacy or”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-015",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "long_shot",
+    "question": "How does the example “emphasises setting or social distance” contribute to meaning?",
+    "audio_prompt": "How does the example “emphasises setting or social distance” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “emphasises setting or”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-016",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "central_salience",
+    "question": "Why does “guides first attention” illustrate central salience?",
+    "audio_prompt": "Why does “guides first attention” illustrate central salience?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “guides first attention”.",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-017",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "close_low_angle_portrait",
+    "question": "What is the best explanation of how “authority and viewer proximity” works?",
+    "audio_prompt": "What is the best explanation of how “authority and viewer proximity” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “authority and viewer”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-018",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "wide_high_angle_scene",
+    "question": "Which explanation connects the feature in “context, distance and vulnerability” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “context, distance and vulnerability” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “context, distance and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-019",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "direct_gaze",
+    "question": "What should a careful reader notice about “demand or connection”?",
+    "audio_prompt": "What should a careful reader notice about “demand or connection”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “demand or connection”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-020",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "averted_gaze",
+    "question": "How does the example “observer role or contemplation” contribute to meaning?",
+    "audio_prompt": "How does the example “observer role or contemplation” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “observer role or”.",
+        "is_correct": false
+      },
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-021",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Low angle always means power.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Low angle always means power.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low angle always means power",
+        "is_correct": false
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": true
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Context can complicate the effect The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-022",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Vector limited to drawn arrows”?",
+    "audio_prompt": "What is the main problem with this statement: “Vector limited to drawn arrows”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Vector limited to drawn arrows",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": false
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": false
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Gaze, limbs, roads and movement create vectors The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-023",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Image analysed without words”?",
+    "audio_prompt": "Which correction avoids the misconception in “Image analysed without words”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Modes interact",
+        "is_correct": true
+      },
+      {
+        "text": "Image analysed without words",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": false
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Modes interact The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-024",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Viewer response treated as universal.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Viewer response treated as universal.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -299,25 +986,698 @@
       },
       {
         "text": "Qualify interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Context can complicate the effect",
         "is_correct": false
       },
       {
-        "text": "Visual line or direction connecting elements",
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Qualify interpretation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-025",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Low angle always means power” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Low angle always means power” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low angle always means power",
         "is_correct": false
       },
       {
-        "text": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": true
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Context can complicate the effect The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-026",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Vector limited to drawn arrows.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Vector limited to drawn arrows.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Vector limited to drawn arrows",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": false
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": false
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
-      "hint": "Qualify interpretation."
+      "summary": "Gaze, limbs, roads and movement create vectors The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-027",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Image analysed without words”?",
+    "audio_prompt": "What is the main problem with this statement: “Image analysed without words”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Modes interact",
+        "is_correct": true
+      },
+      {
+        "text": "Image analysed without words",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": false
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Modes interact The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-028",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Viewer response treated as universal”?",
+    "audio_prompt": "Which correction avoids the misconception in “Viewer response treated as universal”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Viewer response treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Qualify interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": false
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Qualify interpretation The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-029",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Low angle always means power.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Low angle always means power.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low angle always means power",
+        "is_correct": false
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": true
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Context can complicate the effect The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-030",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Vector limited to drawn arrows” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Vector limited to drawn arrows” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Vector limited to drawn arrows",
+        "is_correct": false
+      },
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": false
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": false
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Gaze, limbs, roads and movement create vectors The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-031",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "vectors_angle_and_social_distance_in_images",
+    "question": "A media review needs a concise example of Vectors, Angle and Social Distance in Images. Which choice best fits?",
+    "audio_prompt": "A media review needs a concise example of Vectors, Angle and Social Distance in Images. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A direct-gaze close-up may position the viewer as personally addressed",
+        "is_correct": true
+      },
+      {
+        "text": "Low angle always means power",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name gaze vector without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A direct-gaze close-up may position the viewer as personally addressed",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-032",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a geography field report, someone writes, “Vector limited to drawn arrows.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a geography field report, someone writes, “Vector limited to drawn arrows.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Vector limited to drawn arrows",
+        "is_correct": false
+      },
+      {
+        "text": "Gaze, limbs, roads and movement create vectors",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Gaze, limbs, roads and movement create vectors The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-033",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "high_angle",
+    "question": "A school podcast includes “may position participant as vulnerable or observed.” Which analysis is strongest?",
+    "audio_prompt": "A school podcast includes “may position participant as vulnerable or observed.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of high angle.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-034",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "averted_gaze",
+    "question": "Which interpretation of “observer role or contemplation” would be most useful in a local history display?",
+    "audio_prompt": "Which interpretation of “observer role or contemplation” would be most useful in a local history display?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that averted gaze always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-035",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "camera_angle",
+    "question": "A science expo uses the idea “viewpoint above, below or level with subject.” Which term would make the analysis most precise?",
+    "audio_prompt": "A science expo uses the idea “viewpoint above, below or level with subject.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "camera angle",
+        "is_correct": true
+      },
+      {
+        "text": "vector",
+        "is_correct": false
+      },
+      {
+        "text": "social distance",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Camera angle is the precise term for viewpoint above, below or level with subject.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-036",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "vectors_angle_and_social_distance_in_images",
+    "question": "A library newsletter needs a concise example of Vectors, Angle and Social Distance in Images. Which choice best fits?",
+    "audio_prompt": "A library newsletter needs a concise example of Vectors, Angle and Social Distance in Images. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Vector limited to drawn arrows",
+        "is_correct": false
+      },
+      {
+        "text": "A direct-gaze close-up may position the viewer as personally addressed",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name central salience without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A direct-gaze close-up may position the viewer as personally addressed",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-037",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a student council proposal, someone writes, “Image analysed without words.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a student council proposal, someone writes, “Image analysed without words.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Image analysed without words",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Modes interact",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Modes interact The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-038",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "low_camera_angle",
+    "question": "A sports club notice includes “may position participant as powerful.” Which analysis is strongest?",
+    "audio_prompt": "A sports club notice includes “may position participant as powerful.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of low camera angle.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-039",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "averted_gaze",
+    "question": "Which interpretation of “observer role or contemplation” would be most useful in a museum exhibit?",
+    "audio_prompt": "Which interpretation of “observer role or contemplation” would be most useful in a museum exhibit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that averted gaze always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-p-040",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "vector",
+    "question": "A community garden report uses the idea “visual line or direction connecting elements.” Which term would make the analysis most precise?",
+    "audio_prompt": "A community garden report uses the idea “visual line or direction connecting elements.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "camera angle",
+        "is_correct": false
+      },
+      {
+        "text": "vector",
+        "is_correct": true
+      },
+      {
+        "text": "social distance",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Vector is the precise term for visual line or direction connecting elements.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la07-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "analyse_gaze",
-    "question": "A Year 7 student is working with a text and needs to use analyse gaze. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse gaze. Which option best demonstrates the skill?",
+    "skill": "low_camera_angle",
+    "question": "A river-health podcast includes “may position participant as powerful.” Which analysis is strongest?",
+    "audio_prompt": "A river-health podcast includes “may position participant as powerful.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A direct-gaze close-up may position the viewer as personally addressed",
+        "text": "It is important only because it is an example of low camera angle.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
         "is_correct": true
-      },
-      {
-        "text": "Low angle always means power",
-        "is_correct": false
-      },
-      {
-        "text": "Context can complicate the effect",
-        "is_correct": false
-      },
-      {
-        "text": "Visual line or direction connecting elements",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A direct-gaze close-up may position the viewer as personally addressed",
-      "hint": "Context can complicate the effect."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la07-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "connect_modes",
-    "question": "A Year 7 student is working with a text and needs to use connect modes. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use connect modes. Which option best demonstrates the skill?",
+    "skill": "averted_gaze",
+    "question": "Read the new context carefully. Which interpretation of “observer role or contemplation” would be most useful in a town festival website?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “observer role or contemplation” would be most useful in a town festival website?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Vector limited to drawn arrows",
-        "is_correct": false
-      },
-      {
-        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene",
         "is_correct": true
       },
       {
-        "text": "Gaze, limbs, roads and movement create vectors",
+        "text": "It proves that averted gaze always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Visual line or direction connecting elements",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
-      "hint": "Gaze, limbs, roads and movement create vectors."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la07-t-003",
@@ -399,9 +1767,50 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "find_a_vector",
-    "question": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
+    "skill": "vector",
+    "question": "Which answer is best supported in this new situation? A youth radio interview uses the idea “visual line or direction connecting elements.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A youth radio interview uses the idea “visual line or direction connecting elements.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "camera angle",
+        "is_correct": false
+      },
+      {
+        "text": "vector",
+        "is_correct": true
+      },
+      {
+        "text": "social distance",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Vector is the precise term for visual line or direction connecting elements.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-t-004",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "vectors_angle_and_social_distance_in_images",
+    "question": "Use the evidence in this coastal restoration article. A coastal restoration article needs a concise example of Vectors, Angle and Social Distance in Images. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this coastal restoration article. A coastal restoration article needs a concise example of Vectors, Angle and Social Distance in Images. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -412,33 +1821,37 @@
         "is_correct": false
       },
       {
-        "text": "Modes interact",
+        "text": "Simply name long shot without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+        "text": "A direct-gaze close-up may position the viewer as personally addressed",
         "is_correct": true
       },
       {
-        "text": "Visual line or direction connecting elements",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
-      "hint": "Modes interact."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: A direct-gaze close-up may position the viewer as personally addressed",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la07-t-004",
+    "id": "ac9e7la07-t-005",
     "curriculum_code": "AC9E7LA07",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "explain_angle",
-    "question": "A Year 7 student is working with a text and needs to use explain angle. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain angle. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a public transport campaign, someone writes, “Viewer response treated as universal.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a public transport campaign, someone writes, “Viewer response treated as universal.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -449,33 +1862,365 @@
         "is_correct": false
       },
       {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
         "text": "Qualify interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Visual line or direction connecting elements",
-        "is_correct": false
-      },
-      {
-        "text": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
-      "hint": "Qualify interpretation."
-    }
+      "summary": "Qualify interpretation The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la07-t-005",
+    "id": "ac9e7la07-t-006",
     "curriculum_code": "AC9E7LA07",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "compare_shot_distance",
-    "question": "What should be checked when applying compare shot distance in vectors, angle and social distance in images?",
-    "audio_prompt": "What should be checked when applying compare shot distance in vectors, angle and social distance in images?",
+    "skill": "gaze_vector",
+    "question": "Which response would hold up under close reading? A regional museum audio guide includes “connects participant with viewer or another element.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A regional museum audio guide includes “connects participant with viewer or another element.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of gaze vector.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-t-007",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "averted_gaze",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “observer role or contemplation” would be most useful in a wildlife rescue webpage?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “observer role or contemplation” would be most useful in a wildlife rescue webpage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that averted gaze always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-t-008",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "social_distance",
+    "question": "Which choice uses the concept without overgeneralising? A local council consultation uses the idea “constructed closeness or distance between viewer and represented participant.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A local council consultation uses the idea “constructed closeness or distance between viewer and represented participant.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "vector",
+        "is_correct": false
+      },
+      {
+        "text": "camera angle",
+        "is_correct": false
+      },
+      {
+        "text": "social distance",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Social distance is the precise term for constructed closeness or distance between viewer and represented participant.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-t-009",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "vectors_angle_and_social_distance_in_images",
+    "question": "A heritage trail brochure needs a concise example of Vectors, Angle and Social Distance in Images. Which choice best fits?",
+    "audio_prompt": "A heritage trail brochure needs a concise example of Vectors, Angle and Social Distance in Images. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Viewer response treated as universal",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name close-up without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "A direct-gaze close-up may position the viewer as personally addressed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A direct-gaze close-up may position the viewer as personally addressed",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-t-010",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a community theatre review, someone writes, “Low angle always means power.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a community theatre review, someone writes, “Low angle always means power.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Context can complicate the effect",
+        "is_correct": true
+      },
+      {
+        "text": "Low angle always means power",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Context can complicate the effect The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-t-011",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "central_salience",
+    "question": "Which answer is best supported in this new situation? A water-quality report includes “guides first attention.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A water-quality report includes “guides first attention.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of central salience.",
+        "is_correct": false
+      },
+      {
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-t-012",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "averted_gaze",
+    "question": "Use the evidence in this regional sports commentary. Which interpretation of “observer role or contemplation” would be most useful in a regional sports commentary?",
+    "audio_prompt": "Use the evidence in this regional sports commentary. Which interpretation of “observer role or contemplation” would be most useful in a regional sports commentary?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that averted gaze always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-t-013",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "camera_angle",
+    "question": "Choose the most precise analysis for this unfamiliar example. A astronomy exhibition uses the idea “viewpoint above, below or level with subject.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A astronomy exhibition uses the idea “viewpoint above, below or level with subject.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "vector",
+        "is_correct": false
+      },
+      {
+        "text": "social distance",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "camera angle",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Camera angle is the precise term for viewpoint above, below or level with subject.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la07-t-014",
+    "curriculum_code": "AC9E7LA07",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "vectors_angle_and_social_distance_in_images",
+    "question": "Which response would hold up under close reading? A farmers market profile needs a concise example of Vectors, Angle and Social Distance in Images. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A farmers market profile needs a concise example of Vectors, Angle and Social Distance in Images. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -490,29 +2235,33 @@
         "is_correct": false
       },
       {
-        "text": "Context can complicate the effect",
+        "text": "Simply name high angle without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Visual line or direction connecting elements",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A direct-gaze close-up may position the viewer as personally addressed",
-      "hint": "Context can complicate the effect."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: A direct-gaze close-up may position the viewer as personally addressed",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la07-t-006",
+    "id": "ac9e7la07-t-015",
     "curriculum_code": "AC9E7LA07",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "analyse_gaze",
-    "question": "Which response best uses analyse gaze in vectors, angle and social distance in images?",
-    "audio_prompt": "Which response best uses analyse gaze in vectors, angle and social distance in images?",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a emergency-preparedness video, someone writes, “Vector limited to drawn arrows.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a emergency-preparedness video, someone writes, “Vector limited to drawn arrows.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -523,96 +2272,67 @@
         "is_correct": false
       },
       {
-        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
+        "text": "Gaze, limbs, roads and movement create vectors",
         "is_correct": true
       },
       {
-        "text": "Gaze, limbs, roads and movement create vectors",
+        "text": "Keep the claim but add “always” to make it sound certain.",
         "is_correct": false
       },
       {
-        "text": "Visual line or direction connecting elements",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre.",
-      "hint": "Gaze, limbs, roads and movement create vectors."
-    }
+      "summary": "Gaze, limbs, roads and movement create vectors The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la07-t-007",
+    "id": "ac9e7la07-t-016",
     "curriculum_code": "AC9E7LA07",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "connect_modes",
-    "question": "A Year 7 student is working with a text and needs to use connect modes. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use connect modes. Which option best demonstrates the skill?",
+    "skill": "long_shot",
+    "question": "Which choice uses the concept without overgeneralising? A cycling safety infographic includes “emphasises setting or social distance.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A cycling safety infographic includes “emphasises setting or social distance.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Image analysed without words",
+        "text": "It is important only because it is an example of long shot.",
         "is_correct": false
       },
       {
-        "text": "Modes interact",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
+        "text": "These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
         "is_correct": true
       },
       {
-        "text": "Visual line or direction connecting elements",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Social distance is constructed by framing, not simply measured physical distance in the represented scene.",
-      "hint": "Modes interact."
-    }
-  },
-  {
-    "id": "ac9e7la07-t-008",
-    "curriculum_code": "AC9E7LA07",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "find_a_vector",
-    "question": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use find a vector. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "The strongest analysis connects the evidence to its function: These are contextual possibilities, not automatic formulas. Cite composition evidence and consider accompanying words and genre",
+      "hint": "Use a feature → evidence → effect chain."
     },
-    "answers": [
-      {
-        "text": "Viewer response treated as universal",
-        "is_correct": false
-      },
-      {
-        "text": "Qualify interpretation",
-        "is_correct": false
-      },
-      {
-        "text": "Visual line or direction connecting elements",
-        "is_correct": false
-      },
-      {
-        "text": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Visual composition positions viewers through gaze and directional vectors, camera angle, framing distance, placement and salience.",
-      "hint": "Qualify interpretation."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

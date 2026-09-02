@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_reference",
-    "question": "A Year 7 student is working with a text and needs to use trace reference. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace reference. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "reference_chain",
+    "question": "Which term best matches this meaning: “linked expressions identifying the same participant or idea”?",
+    "audio_prompt": "Which term best matches this meaning: “linked expressions identifying the same participant or idea”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Mangrovesthe omitted ideathis ecosystemthe omitted ideaits roots creates a reference chain only if each reference remains unambiguous",
+        "text": "lexical cohesion",
+        "is_correct": false
+      },
+      {
+        "text": "coherence",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "reference chain",
         "is_correct": true
-      },
-      {
-        "text": "Every repetition removed",
-        "is_correct": false
-      },
-      {
-        "text": "Precision may require it",
-        "is_correct": false
-      },
-      {
-        "text": "Linked expressions identifying the same participant or idea",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Mangrovesthe omitted ideathis ecosystemthe omitted ideaits roots creates a reference chain only if each reference remains unambiguous",
-      "hint": "Precision may require it."
+      "summary": "Reference chain means linked expressions identifying the same participant or idea. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Cohesion, Reference and Text Connections."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "build_lexical_chain",
-    "question": "A Year 7 student is working with a text and needs to use build lexical chain. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use build lexical chain. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "repeat_rename",
+    "question": "Read this example: “this ecosystem.” Which description fits it best?",
+    "audio_prompt": "Read this example: “this ecosystem.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Pronoun reference assumed obvious",
-        "is_correct": false
-      },
-      {
-        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms.",
+        "text": "Repeat/rename",
         "is_correct": true
       },
       {
-        "text": "Test alternative antecedents",
+        "text": "Introduce",
         "is_correct": false
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
+        "text": "Pronoun/determiner",
+        "is_correct": false
+      },
+      {
+        "text": "Lexical chain",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms.",
-      "hint": "Test alternative antecedents."
+      "summary": "The example matches Repeat/rename. Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "repair_pronoun_ambiguity",
-    "question": "A Year 7 student is working with a text and needs to use repair pronoun ambiguity. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair pronoun ambiguity. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "new_paragraph_has_no_link",
+    "question": "Which label most accurately describes “use thematic starting point or signpost”?",
+    "audio_prompt": "Which label most accurately describes “use thematic starting point or signpost”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Connective chosen for variety",
+        "text": "it has two possible antecedents",
         "is_correct": false
       },
       {
-        "text": "Match logic",
-        "is_correct": false
-      },
-      {
-        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak.",
+        "text": "new paragraph has no link",
         "is_correct": true
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
+        "text": "however used for cause",
+        "is_correct": false
+      },
+      {
+        "text": "technical term replaced inaccurately",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak.",
-      "hint": "Match logic."
+      "summary": "“use thematic starting point or signpost” is best described as new paragraph has no link.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "choose_connective",
-    "question": "A Year 7 student is working with a text and needs to use choose connective. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use choose connective. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "lexical_chain",
+    "question": "Read this example: “habitat–species–food web.” Which description fits it best?",
+    "audio_prompt": "Read this example: “habitat–species–food web.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Cohesion and coherence treated as identical",
+        "text": "Introduce",
         "is_correct": false
       },
       {
-        "text": "Links cannot repair faulty reasoning",
+        "text": "Repeat/rename",
         "is_correct": false
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
-        "is_correct": false
-      },
-      {
-        "text": "Cohesion is created through reference chains, lexical relationships, connectives, ellipsis, substitution and structural signalling that allow audiences to track meaning.",
+        "text": "Lexical chain",
         "is_correct": true
+      },
+      {
+        "text": "Pronoun/determiner",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Cohesion is created through reference chains, lexical relationships, connectives, ellipsis, substitution and structural signalling that allow audiences to track meaning.",
-      "hint": "Links cannot repair faulty reasoning."
+      "summary": "The example matches Lexical chain. Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "distinguish_cohesion_coherence",
-    "question": "Which statement correctly identifies lexical cohesion in cohesion, reference and text connections?",
-    "audio_prompt": "Which statement correctly identifies lexical cohesion in cohesion, reference and text connections?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Every repetition removed”?",
+    "audio_prompt": "Which response best corrects this claim: “Every repetition removed”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Mangrovesthe omitted ideathis ecosystemthe omitted ideaits roots creates a reference chain only if each reference remains unambiguous",
-        "is_correct": true
+        "text": "Pronoun reference assumed obvious",
+        "is_correct": false
       },
       {
-        "text": "Every repetition removed",
+        "text": "Connective chosen for variety",
+        "is_correct": false
+      },
+      {
+        "text": "Cohesion and coherence treated as identical",
         "is_correct": false
       },
       {
         "text": "Precision may require it",
-        "is_correct": false
-      },
-      {
-        "text": "Linked expressions identifying the same participant or idea",
-        "is_correct": false
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Mangrovesthe omitted ideathis ecosystemthe omitted ideaits roots creates a reference chain only if each reference remains unambiguous",
-      "hint": "Precision may require it."
+      "summary": "Precision may require it This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_reference",
-    "question": "Which choice best describes coherence in cohesion, reference and text connections?",
-    "audio_prompt": "Which choice best describes coherence in cohesion, reference and text connections?",
+    "stage": "recognise",
+    "skill": "coherence",
+    "question": "Which term best matches this meaning: “overall logical sense of ideas”?",
+    "audio_prompt": "Which term best matches this meaning: “overall logical sense of ideas”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Pronoun reference assumed obvious",
-        "is_correct": false
-      },
-      {
-        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms.",
+        "text": "coherence",
         "is_correct": true
       },
       {
-        "text": "Test alternative antecedents",
+        "text": "reference chain",
         "is_correct": false
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
+        "text": "lexical cohesion",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms.",
-      "hint": "Test alternative antecedents."
+      "summary": "Coherence means overall logical sense of ideas. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Cohesion, Reference and Text Connections."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "build_lexical_chain",
-    "question": "What does correct use require for reference chain in cohesion, reference and text connections?",
-    "audio_prompt": "What does correct use require for reference chain in cohesion, reference and text connections?",
+    "stage": "recognise",
+    "skill": "introduce",
+    "question": "Read this example: “the coastal wetland.” Which description fits it best?",
+    "audio_prompt": "Read this example: “the coastal wetland.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Connective chosen for variety",
+        "text": "Repeat/rename",
         "is_correct": false
       },
       {
-        "text": "Match logic",
-        "is_correct": false
-      },
-      {
-        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak.",
+        "text": "Introduce",
         "is_correct": true
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
+        "text": "Pronoun/determiner",
+        "is_correct": false
+      },
+      {
+        "text": "Lexical chain",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak.",
-      "hint": "Match logic."
+      "summary": "The example matches Introduce. Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "repair_pronoun_ambiguity",
-    "question": "A Year 7 student is working with a text and needs to use repair pronoun ambiguity. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair pronoun ambiguity. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "new_paragraph_has_no_link",
+    "question": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “use thematic starting point or signpost”?",
+    "audio_prompt": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “use thematic starting point or signpost”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "it has two possible antecedents",
+        "is_correct": false
+      },
+      {
+        "text": "however used for cause",
+        "is_correct": false
+      },
+      {
+        "text": "new paragraph has no link",
+        "is_correct": true
+      },
+      {
+        "text": "technical term replaced inaccurately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“use thematic starting point or signpost” is best described as new paragraph has no link.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-009",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "pronoun_determiner",
+    "question": "Read this example: “its water channels.” Which description fits it best?",
+    "audio_prompt": "Read this example: “its water channels.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Introduce",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat/rename",
+        "is_correct": false
+      },
+      {
+        "text": "Lexical chain",
+        "is_correct": false
+      },
+      {
+        "text": "Pronoun/determiner",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The example matches Pronoun/determiner. Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-010",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Pronoun reference assumed obvious”?",
+    "audio_prompt": "Which response best corrects this claim: “Pronoun reference assumed obvious”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": true
+      },
+      {
+        "text": "Every repetition removed",
+        "is_correct": false
+      },
+      {
+        "text": "Connective chosen for variety",
+        "is_correct": false
+      },
+      {
+        "text": "Cohesion and coherence treated as identical",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Test alternative antecedents This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-011",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "introduce",
+    "question": "Why does “the coastal wetland” illustrate Introduce?",
+    "audio_prompt": "Why does “the coastal wetland” illustrate Introduce?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “the coastal wetland”.",
+        "is_correct": false
+      },
+      {
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-012",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "repeat_rename",
+    "question": "What is the best explanation of how “this ecosystem” works?",
+    "audio_prompt": "What is the best explanation of how “this ecosystem” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “this ecosystem”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-013",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "pronoun_determiner",
+    "question": "Which explanation connects the feature in “its water channels” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “its water channels” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “its water channels”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-014",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "lexical_chain",
+    "question": "What should a careful reader notice about “habitat–species–food web”?",
+    "audio_prompt": "What should a careful reader notice about “habitat–species–food web”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “habitat–species–food web”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-015",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "logical_link",
+    "question": "How does the example “however / therefore” contribute to meaning?",
+    "audio_prompt": "How does the example “however / therefore” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “however / therefore”.",
+        "is_correct": false
+      },
+      {
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-016",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "structural_signal",
+    "question": "Why does “the next section examines…” illustrate Structural signal?",
+    "audio_prompt": "Why does “the next section examines…” illustrate Structural signal?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “the next section”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-017",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "it_has_two_possible_antecedents",
+    "question": "What is the best explanation of how “repeat or specify noun” works?",
+    "audio_prompt": "What is the best explanation of how “repeat or specify noun” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “repeat or specify”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-018",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "however_used_for_cause",
+    "question": "Which explanation connects the feature in “replace with therefore/because” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “replace with therefore/because” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “replace with therefore/because”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-019",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "new_paragraph_has_no_link",
+    "question": "What should a careful reader notice about “use thematic starting point or signpost”?",
+    "audio_prompt": "What should a careful reader notice about “use thematic starting point or signpost”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “use thematic starting”.",
+        "is_correct": false
+      },
+      {
+        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-020",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "technical_term_replaced_inaccurately",
+    "question": "How does the example “repeat exact term” contribute to meaning?",
+    "audio_prompt": "How does the example “repeat exact term” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “repeat exact term”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-021",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Every repetition removed.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Every repetition removed.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every repetition removed",
+        "is_correct": false
+      },
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": false
+      },
+      {
+        "text": "Match logic",
+        "is_correct": false
+      },
+      {
+        "text": "Precision may require it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Precision may require it The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-022",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Pronoun reference assumed obvious”?",
+    "audio_prompt": "What is the main problem with this statement: “Pronoun reference assumed obvious”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": true
+      },
+      {
+        "text": "Pronoun reference assumed obvious",
+        "is_correct": false
+      },
+      {
+        "text": "Precision may require it",
+        "is_correct": false
+      },
+      {
+        "text": "Match logic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Test alternative antecedents The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-023",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Connective chosen for variety”?",
+    "audio_prompt": "Which correction avoids the misconception in “Connective chosen for variety”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Connective chosen for variety",
+        "is_correct": false
+      },
+      {
+        "text": "Match logic",
+        "is_correct": true
+      },
+      {
+        "text": "Precision may require it",
+        "is_correct": false
+      },
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match logic The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-024",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Cohesion and coherence treated as identical.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Cohesion and coherence treated as identical.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -298,26 +985,699 @@
         "is_correct": false
       },
       {
+        "text": "Precision may require it",
+        "is_correct": false
+      },
+      {
         "text": "Links cannot repair faulty reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Links cannot repair faulty reasoning The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-025",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Every repetition removed” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Every repetition removed” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every repetition removed",
         "is_correct": false
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
+        "text": "Test alternative antecedents",
         "is_correct": false
       },
       {
-        "text": "Cohesion is created through reference chains, lexical relationships, connectives, ellipsis, substitution and structural signalling that allow audiences to track meaning.",
+        "text": "Match logic",
+        "is_correct": false
+      },
+      {
+        "text": "Precision may require it",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Cohesion is created through reference chains, lexical relationships, connectives, ellipsis, substitution and structural signalling that allow audiences to track meaning.",
-      "hint": "Links cannot repair faulty reasoning."
+      "summary": "Precision may require it The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-026",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Pronoun reference assumed obvious.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Pronoun reference assumed obvious.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": true
+      },
+      {
+        "text": "Pronoun reference assumed obvious",
+        "is_correct": false
+      },
+      {
+        "text": "Precision may require it",
+        "is_correct": false
+      },
+      {
+        "text": "Match logic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Test alternative antecedents The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-027",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Connective chosen for variety”?",
+    "audio_prompt": "What is the main problem with this statement: “Connective chosen for variety”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Connective chosen for variety",
+        "is_correct": false
+      },
+      {
+        "text": "Match logic",
+        "is_correct": true
+      },
+      {
+        "text": "Precision may require it",
+        "is_correct": false
+      },
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Match logic The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-028",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Cohesion and coherence treated as identical”?",
+    "audio_prompt": "Which correction avoids the misconception in “Cohesion and coherence treated as identical”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cohesion and coherence treated as identical",
+        "is_correct": false
+      },
+      {
+        "text": "Precision may require it",
+        "is_correct": false
+      },
+      {
+        "text": "Links cannot repair faulty reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Links cannot repair faulty reasoning The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-029",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Every repetition removed.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Every repetition removed.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every repetition removed",
+        "is_correct": false
+      },
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": false
+      },
+      {
+        "text": "Match logic",
+        "is_correct": false
+      },
+      {
+        "text": "Precision may require it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Precision may require it The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-030",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Pronoun reference assumed obvious” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Pronoun reference assumed obvious” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": true
+      },
+      {
+        "text": "Pronoun reference assumed obvious",
+        "is_correct": false
+      },
+      {
+        "text": "Precision may require it",
+        "is_correct": false
+      },
+      {
+        "text": "Match logic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Test alternative antecedents The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-031",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "cohesion_reference_and_text_connections",
+    "question": "A environmental campaign needs a concise example of Cohesion, Reference and Text Connections. Which choice best fits?",
+    "audio_prompt": "A environmental campaign needs a concise example of Cohesion, Reference and Text Connections. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every repetition removed",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves…this ecosystem…its roots creates a reference chain only if each reference remains unambiguous",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name Introduce without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Mangroves…this ecosystem…its roots creates a reference chain only if each reference remains unambiguous",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-032",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a excursion briefing, someone writes, “Pronoun reference assumed obvious.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a excursion briefing, someone writes, “Pronoun reference assumed obvious.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pronoun reference assumed obvious",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Test alternative antecedents",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Test alternative antecedents The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-033",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "pronoun_determiner",
+    "question": "A book-club discussion includes “its water channels.” Which analysis is strongest?",
+    "audio_prompt": "A book-club discussion includes “its water channels.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Pronoun/determiner.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-034",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "technical_term_replaced_inaccurately",
+    "question": "Which interpretation of “repeat exact term” would be most useful in a school website?",
+    "audio_prompt": "Which interpretation of “repeat exact term” would be most useful in a school website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that technical term replaced inaccurately always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-035",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "lexical_cohesion",
+    "question": "A arts festival program uses the idea “connection through repeated or related vocabulary.” Which term would make the analysis most precise?",
+    "audio_prompt": "A arts festival program uses the idea “connection through repeated or related vocabulary.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "reference chain",
+        "is_correct": false
+      },
+      {
+        "text": "lexical cohesion",
+        "is_correct": true
+      },
+      {
+        "text": "coherence",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Lexical cohesion is the precise term for connection through repeated or related vocabulary.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-036",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "cohesion_reference_and_text_connections",
+    "question": "A peer feedback session needs a concise example of Cohesion, Reference and Text Connections. Which choice best fits?",
+    "audio_prompt": "A peer feedback session needs a concise example of Cohesion, Reference and Text Connections. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pronoun reference assumed obvious",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Structural signal without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves…this ecosystem…its roots creates a reference chain only if each reference remains unambiguous",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Mangroves…this ecosystem…its roots creates a reference chain only if each reference remains unambiguous",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-037",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a technology showcase, someone writes, “Connective chosen for variety.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a technology showcase, someone writes, “Connective chosen for variety.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Connective chosen for variety",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Match logic",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Match logic The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-038",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "repeat_rename",
+    "question": "A canteen survey includes “this ecosystem.” Which analysis is strongest?",
+    "audio_prompt": "A canteen survey includes “this ecosystem.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of Repeat/rename.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-039",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "technical_term_replaced_inaccurately",
+    "question": "Which interpretation of “repeat exact term” would be most useful in a school assembly speech?",
+    "audio_prompt": "Which interpretation of “repeat exact term” would be most useful in a school assembly speech?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that technical term replaced inaccurately always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-p-040",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "reference_chain",
+    "question": "A media review uses the idea “linked expressions identifying the same participant or idea.” Which term would make the analysis most precise?",
+    "audio_prompt": "A media review uses the idea “linked expressions identifying the same participant or idea.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "lexical cohesion",
+        "is_correct": false
+      },
+      {
+        "text": "coherence",
+        "is_correct": false
+      },
+      {
+        "text": "reference chain",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reference chain is the precise term for linked expressions identifying the same participant or idea.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "choose_connective",
-    "question": "A Year 7 student is working with a text and needs to use choose connective. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use choose connective. Which option best demonstrates the skill?",
+    "skill": "repeat_rename",
+    "question": "A town festival website includes “this ecosystem.” Which analysis is strongest?",
+    "audio_prompt": "A town festival website includes “this ecosystem.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Mangrovesthe omitted ideathis ecosystemthe omitted ideaits roots creates a reference chain only if each reference remains unambiguous",
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
         "is_correct": true
       },
       {
-        "text": "Every repetition removed",
+        "text": "It is important only because it is an example of Repeat/rename.",
         "is_correct": false
       },
       {
-        "text": "Precision may require it",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Mangrovesthe omitted ideathis ecosystemthe omitted ideaits roots creates a reference chain only if each reference remains unambiguous",
-      "hint": "Precision may require it."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "distinguish_cohesion_coherence",
-    "question": "A Year 7 student is working with a text and needs to use distinguish cohesion coherence. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use distinguish cohesion coherence. Which option best demonstrates the skill?",
+    "skill": "technical_term_replaced_inaccurately",
+    "question": "Read the new context carefully. Which interpretation of “repeat exact term” would be most useful in a youth radio interview?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “repeat exact term” would be most useful in a youth radio interview?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Pronoun reference assumed obvious",
+        "text": "It proves that technical term replaced inaccurately always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms.",
+        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
         "is_correct": true
       },
       {
-        "text": "Test alternative antecedents",
+        "text": "It can be analysed without referring to the actual wording.",
         "is_correct": false
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms.",
-      "hint": "Test alternative antecedents."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-t-003",
@@ -399,9 +1767,50 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "trace_reference",
-    "question": "A Year 7 student is working with a text and needs to use trace reference. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace reference. Which option best demonstrates the skill?",
+    "skill": "reference_chain",
+    "question": "Which answer is best supported in this new situation? A coastal restoration article uses the idea “linked expressions identifying the same participant or idea.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A coastal restoration article uses the idea “linked expressions identifying the same participant or idea.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "lexical cohesion",
+        "is_correct": false
+      },
+      {
+        "text": "coherence",
+        "is_correct": false
+      },
+      {
+        "text": "reference chain",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reference chain is the precise term for linked expressions identifying the same participant or idea.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-t-004",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "cohesion_reference_and_text_connections",
+    "question": "Use the evidence in this public transport campaign. A public transport campaign needs a concise example of Cohesion, Reference and Text Connections. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this public transport campaign. A public transport campaign needs a concise example of Cohesion, Reference and Text Connections. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -412,60 +1821,27 @@
         "is_correct": false
       },
       {
-        "text": "Match logic",
+        "text": "Simply name Logical link without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak.",
-        "is_correct": true
-      },
-      {
-        "text": "Linked expressions identifying the same participant or idea",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak.",
-      "hint": "Match logic."
-    }
-  },
-  {
-    "id": "ac9e7la04-t-004",
-    "curriculum_code": "AC9E7LA04",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "build_lexical_chain",
-    "question": "A Year 7 student is working with a text and needs to use build lexical chain. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use build lexical chain. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Cohesion and coherence treated as identical",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       },
       {
-        "text": "Links cannot repair faulty reasoning",
-        "is_correct": false
-      },
-      {
-        "text": "Linked expressions identifying the same participant or idea",
-        "is_correct": false
-      },
-      {
-        "text": "Cohesion is created through reference chains, lexical relationships, connectives, ellipsis, substitution and structural signalling that allow audiences to track meaning.",
+        "text": "Mangroves…this ecosystem…its roots creates a reference chain only if each reference remains unambiguous",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Cohesion is created through reference chains, lexical relationships, connectives, ellipsis, substitution and structural signalling that allow audiences to track meaning.",
-      "hint": "Links cannot repair faulty reasoning."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: Mangroves…this ecosystem…its roots creates a reference chain only if each reference remains unambiguous",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-t-005",
@@ -473,36 +1849,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "repair_pronoun_ambiguity",
-    "question": "What should be checked when applying repair pronoun ambiguity in cohesion, reference and text connections?",
-    "audio_prompt": "What should be checked when applying repair pronoun ambiguity in cohesion, reference and text connections?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a regional museum audio guide, someone writes, “Cohesion and coherence treated as identical.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a regional museum audio guide, someone writes, “Cohesion and coherence treated as identical.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Mangrovesthe omitted ideathis ecosystemthe omitted ideaits roots creates a reference chain only if each reference remains unambiguous",
+        "text": "Links cannot repair faulty reasoning",
         "is_correct": true
       },
       {
-        "text": "Every repetition removed",
+        "text": "Cohesion and coherence treated as identical",
         "is_correct": false
       },
       {
-        "text": "Precision may require it",
+        "text": "Keep the claim but add “always” to make it sound certain.",
         "is_correct": false
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Mangrovesthe omitted ideathis ecosystemthe omitted ideaits roots creates a reference chain only if each reference remains unambiguous",
-      "hint": "Precision may require it."
-    }
+      "summary": "Links cannot repair faulty reasoning The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la04-t-006",
@@ -510,9 +1890,378 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "choose_connective",
-    "question": "Which response best uses choose connective in cohesion, reference and text connections?",
-    "audio_prompt": "Which response best uses choose connective in cohesion, reference and text connections?",
+    "skill": "introduce",
+    "question": "Which response would hold up under close reading? A wildlife rescue webpage includes “the coastal wetland.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A wildlife rescue webpage includes “the coastal wetland.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Introduce.",
+        "is_correct": false
+      },
+      {
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-t-007",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "technical_term_replaced_inaccurately",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “repeat exact term” would be most useful in a local council consultation?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “repeat exact term” would be most useful in a local council consultation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that technical term replaced inaccurately always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-t-008",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "coherence",
+    "question": "Which choice uses the concept without overgeneralising? A heritage trail brochure uses the idea “overall logical sense of ideas.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A heritage trail brochure uses the idea “overall logical sense of ideas.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "reference chain",
+        "is_correct": false
+      },
+      {
+        "text": "lexical cohesion",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "coherence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Coherence is the precise term for overall logical sense of ideas.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-t-009",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "cohesion_reference_and_text_connections",
+    "question": "A community theatre review needs a concise example of Cohesion, Reference and Text Connections. Which choice best fits?",
+    "audio_prompt": "A community theatre review needs a concise example of Cohesion, Reference and Text Connections. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Mangroves…this ecosystem…its roots creates a reference chain only if each reference remains unambiguous",
+        "is_correct": true
+      },
+      {
+        "text": "Cohesion and coherence treated as identical",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Lexical chain without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Mangroves…this ecosystem…its roots creates a reference chain only if each reference remains unambiguous",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-t-010",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a water-quality report, someone writes, “Every repetition removed.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a water-quality report, someone writes, “Every repetition removed.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every repetition removed",
+        "is_correct": false
+      },
+      {
+        "text": "Precision may require it",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Precision may require it The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-t-011",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "structural_signal",
+    "question": "Which answer is best supported in this new situation? A regional sports commentary includes “the next section examines….” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A regional sports commentary includes “the next section examines….” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Structural signal.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-t-012",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "technical_term_replaced_inaccurately",
+    "question": "Use the evidence in this astronomy exhibition. Which interpretation of “repeat exact term” would be most useful in a astronomy exhibition?",
+    "audio_prompt": "Use the evidence in this astronomy exhibition. Which interpretation of “repeat exact term” would be most useful in a astronomy exhibition?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that technical term replaced inaccurately always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-t-013",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "lexical_cohesion",
+    "question": "Choose the most precise analysis for this unfamiliar example. A farmers market profile uses the idea “connection through repeated or related vocabulary.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A farmers market profile uses the idea “connection through repeated or related vocabulary.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "lexical cohesion",
+        "is_correct": true
+      },
+      {
+        "text": "reference chain",
+        "is_correct": false
+      },
+      {
+        "text": "coherence",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Lexical cohesion is the precise term for connection through repeated or related vocabulary.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-t-014",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "cohesion_reference_and_text_connections",
+    "question": "Which response would hold up under close reading? A emergency-preparedness video needs a concise example of Cohesion, Reference and Text Connections. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A emergency-preparedness video needs a concise example of Cohesion, Reference and Text Connections. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every repetition removed",
+        "is_correct": false
+      },
+      {
+        "text": "Mangroves…this ecosystem…its roots creates a reference chain only if each reference remains unambiguous",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name Pronoun/determiner without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Mangroves…this ecosystem…its roots creates a reference chain only if each reference remains unambiguous",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la04-t-015",
+    "curriculum_code": "AC9E7LA04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a cycling safety infographic, someone writes, “Pronoun reference assumed obvious.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a cycling safety infographic, someone writes, “Pronoun reference assumed obvious.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -523,96 +2272,67 @@
         "is_correct": false
       },
       {
-        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms.",
-        "is_correct": true
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
       },
       {
         "text": "Test alternative antecedents",
-        "is_correct": false
-      },
-      {
-        "text": "Linked expressions identifying the same participant or idea",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms.",
-      "hint": "Test alternative antecedents."
-    }
-  },
-  {
-    "id": "ac9e7la04-t-007",
-    "curriculum_code": "AC9E7LA04",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "distinguish_cohesion_coherence",
-    "question": "A Year 7 student is working with a text and needs to use distinguish cohesion coherence. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use distinguish cohesion coherence. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Connective chosen for variety",
-        "is_correct": false
-      },
-      {
-        "text": "Match logic",
-        "is_correct": false
-      },
-      {
-        "text": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak.",
         "is_correct": true
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Cohesion does not guarantee coherence: a text can be grammatically linked yet logically weak.",
-      "hint": "Match logic."
-    }
+      "summary": "Test alternative antecedents The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la04-t-008",
+    "id": "ac9e7la04-t-016",
     "curriculum_code": "AC9E7LA04",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "trace_reference",
-    "question": "A Year 7 student is working with a text and needs to use trace reference. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace reference. Which option best demonstrates the skill?",
+    "skill": "logical_link",
+    "question": "Which choice uses the concept without overgeneralising? A river-health podcast includes “however / therefore.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A river-health podcast includes “however / therefore.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Cohesion and coherence treated as identical",
+        "text": "It is important only because it is an example of Logical link.",
         "is_correct": false
       },
       {
-        "text": "Links cannot repair faulty reasoning",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Linked expressions identifying the same participant or idea",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       },
       {
-        "text": "Cohesion is created through reference chains, lexical relationships, connectives, ellipsis, substitution and structural signalling that allow audiences to track meaning.",
+        "text": "Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Cohesion is created through reference chains, lexical relationships, connectives, ellipsis, substitution and structural signalling that allow audiences to track meaning.",
-      "hint": "Links cannot repair faulty reasoning."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Controlled repetition may be clearer than constant synonym substitution, especially with technical terms",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

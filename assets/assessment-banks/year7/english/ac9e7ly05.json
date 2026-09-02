@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "build_inference",
-    "question": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "inference",
+    "question": "Which term best matches this meaning: “interpretation formed from clues and relevant knowledge”?",
+    "audio_prompt": "Which term best matches this meaning: “interpretation formed from clues and relevant knowledge”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+        "text": "inference",
         "is_correct": true
       },
       {
-        "text": "Prediction defended after contradiction",
+        "text": "synthesis",
         "is_correct": false
       },
       {
-        "text": "Revise with evidence",
+        "text": "monitoring",
         "is_correct": false
       },
       {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
-      "hint": "Revise with evidence."
+      "summary": "Inference means interpretation formed from clues and relevant knowledge. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Strategic Comprehension and Critical Reading."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "repair_confusion",
-    "question": "A Year 7 student is working with a text and needs to use repair confusion. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair confusion. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "read_view",
+    "question": "Read this example: “track words, structure and modes.” Which description fits it best?",
+    "audio_prompt": "Read this example: “track words, structure and modes.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Summary copies detail",
+        "text": "Activate/predict",
         "is_correct": false
       },
       {
-        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
+        "text": "Read/view",
         "is_correct": true
       },
       {
-        "text": "Prioritise relationships",
+        "text": "Infer/connect",
         "is_correct": false
       },
       {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "Monitor",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
-      "hint": "Prioritise relationships."
+      "summary": "The example matches Read/view. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "synthesize_sources",
-    "question": "A Year 7 student is working with a text and needs to use synthesize sources. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use synthesize sources. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "what_is_claimed",
+    "question": "Which label most accurately describes “fact, inference, opinion or recommendation”?",
+    "audio_prompt": "Which label most accurately describes “fact, inference, opinion or recommendation”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Inference treated as guess",
+        "text": "question",
         "is_correct": false
       },
       {
-        "text": "Cite clues and reasoning",
+        "text": "Who created it?",
         "is_correct": false
       },
       {
-        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation.",
+        "text": "What is claimed?",
         "is_correct": true
       },
       {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "What supports it?",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation.",
-      "hint": "Cite clues and reasoning."
+      "summary": "“fact, inference, opinion or recommendation” is best described as What is claimed?.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "evaluate_credibility",
-    "question": "A Year 7 student is working with a text and needs to use evaluate credibility. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use evaluate credibility. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "monitor",
+    "question": "Read this example: “notice contradiction or confusion.” Which description fits it best?",
+    "audio_prompt": "Read this example: “notice contradiction or confusion.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Evaluation equals agreement",
+        "text": "Activate/predict",
         "is_correct": false
       },
       {
-        "text": "Use criteria and source evidence",
+        "text": "Read/view",
         "is_correct": false
       },
       {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "Infer/connect",
         "is_correct": false
       },
       {
-        "text": "Strategic readers select and combine processes according to purpose, revise mental models when evidence conflicts and distinguish literal, inferred and evaluative claims.",
+        "text": "Monitor",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Strategic readers select and combine processes according to purpose, revise mental models when evidence conflicts and distinguish literal, inferred and evaluative claims.",
-      "hint": "Use criteria and source evidence."
+      "summary": "The example matches Monitor. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "revise_prediction",
-    "question": "Which statement correctly identifies synthesis in strategic comprehension and critical reading?",
-    "audio_prompt": "Which statement correctly identifies synthesis in strategic comprehension and critical reading?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Prediction defended after contradiction”?",
+    "audio_prompt": "Which response best corrects this claim: “Prediction defended after contradiction”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+        "text": "Revise with evidence",
         "is_correct": true
       },
       {
-        "text": "Prediction defended after contradiction",
+        "text": "Summary copies detail",
         "is_correct": false
       },
       {
-        "text": "Revise with evidence",
+        "text": "Inference treated as guess",
         "is_correct": false
       },
       {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "Evaluation equals agreement",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
-      "hint": "Revise with evidence."
+      "summary": "Revise with evidence This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "build_inference",
-    "question": "Which choice best describes monitoring in strategic comprehension and critical reading?",
-    "audio_prompt": "Which choice best describes monitoring in strategic comprehension and critical reading?",
+    "stage": "recognise",
+    "skill": "monitoring",
+    "question": "Which term best matches this meaning: “awareness and regulation of understanding”?",
+    "audio_prompt": "Which term best matches this meaning: “awareness and regulation of understanding”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Summary copies detail",
+        "text": "inference",
         "is_correct": false
       },
       {
-        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
+        "text": "monitoring",
         "is_correct": true
       },
       {
-        "text": "Prioritise relationships",
+        "text": "synthesis",
         "is_correct": false
       },
       {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
-      "hint": "Prioritise relationships."
+      "summary": "Monitoring means awareness and regulation of understanding. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Strategic Comprehension and Critical Reading."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "repair_confusion",
-    "question": "What does correct use require for inference in strategic comprehension and critical reading?",
-    "audio_prompt": "What does correct use require for inference in strategic comprehension and critical reading?",
+    "stage": "recognise",
+    "skill": "evaluate",
+    "question": "Read this example: “judge evidence, credibility and craft.” Which description fits it best?",
+    "audio_prompt": "Read this example: “judge evidence, credibility and craft.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Inference treated as guess",
+        "text": "Activate/predict",
         "is_correct": false
       },
       {
-        "text": "Cite clues and reasoning",
+        "text": "Read/view",
         "is_correct": false
       },
       {
-        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation.",
+        "text": "Evaluate",
         "is_correct": true
       },
       {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "Infer/connect",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation.",
-      "hint": "Cite clues and reasoning."
+      "summary": "The example matches Evaluate. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "synthesize_sources",
-    "question": "A Year 7 student is working with a text and needs to use synthesize sources. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use synthesize sources. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "question",
+    "question": "Which label most accurately describes “critical check”?",
+    "audio_prompt": "Which label most accurately describes “critical check”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Who created it?",
+        "is_correct": false
+      },
+      {
+        "text": "What is claimed?",
+        "is_correct": false
+      },
+      {
+        "text": "What supports it?",
+        "is_correct": false
+      },
+      {
+        "text": "question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“critical check” is best described as question.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-009",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "read_view",
+    "question": "While reading a technology showcase, you notice the wording closely. Read this example: “track words, structure and modes.” Which description fits it best?",
+    "audio_prompt": "While reading a technology showcase, you notice the wording closely. Read this example: “track words, structure and modes.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Read/view",
+        "is_correct": true
+      },
+      {
+        "text": "Activate/predict",
+        "is_correct": false
+      },
+      {
+        "text": "Infer/connect",
+        "is_correct": false
+      },
+      {
+        "text": "Monitor",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example matches Read/view. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-010",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Summary copies detail”?",
+    "audio_prompt": "Which response best corrects this claim: “Summary copies detail”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": true
+      },
+      {
+        "text": "Inference treated as guess",
+        "is_correct": false
+      },
+      {
+        "text": "Evaluation equals agreement",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Prioritise relationships This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-011",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "activate_predict",
+    "question": "Why does “use relevant knowledge cautiously” illustrate Activate/predict?",
+    "audio_prompt": "Why does “use relevant knowledge cautiously” illustrate Activate/predict?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “use relevant knowledge”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-012",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "read_view",
+    "question": "What is the best explanation of how “track words, structure and modes” works?",
+    "audio_prompt": "What is the best explanation of how “track words, structure and modes” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “track words, structure”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-013",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "infer_connect",
+    "question": "Which explanation connects the feature in “combine clues and knowledge” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “combine clues and knowledge” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “combine clues and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-014",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "monitor",
+    "question": "What should a careful reader notice about “notice contradiction or confusion”?",
+    "audio_prompt": "What should a careful reader notice about “notice contradiction or confusion”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “notice contradiction or”.",
+        "is_correct": false
+      },
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-015",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "repair",
+    "question": "How does the example “reread, reframe, research or slow down” contribute to meaning?",
+    "audio_prompt": "How does the example “reread, reframe, research or slow down” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “reread, reframe, research”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-016",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "synthesize",
+    "question": "Why does “combine ideas across sections/sources” illustrate Synthesize?",
+    "audio_prompt": "Why does “combine ideas across sections/sources” illustrate Synthesize?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “combine ideas across”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-017",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "evaluate",
+    "question": "What is the best explanation of how “judge evidence, credibility and craft” works?",
+    "audio_prompt": "What is the best explanation of how “judge evidence, credibility and craft” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “judge evidence, credibility”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-018",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "question",
+    "question": "Which explanation connects the feature in “critical check” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “critical check” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “critical check”.",
+        "is_correct": false
+      },
+      {
+        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-019",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "who_created_it",
+    "question": "What should a careful reader notice about “expertise, role and interest”?",
+    "audio_prompt": "What should a careful reader notice about “expertise, role and interest”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “expertise, role and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-020",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "what_is_claimed",
+    "question": "How does the example “fact, inference, opinion or recommendation” contribute to meaning?",
+    "audio_prompt": "How does the example “fact, inference, opinion or recommendation” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “fact, inference, opinion”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-021",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Prediction defended after contradiction.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Prediction defended after contradiction.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Revise with evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": false
+      },
+      {
+        "text": "Cite clues and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Revise with evidence The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-022",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Summary copies detail”?",
+    "audio_prompt": "What is the main problem with this statement: “Summary copies detail”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Summary copies detail",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": true
+      },
+      {
+        "text": "Revise with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Cite clues and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Prioritise relationships The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-023",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Inference treated as guess”?",
+    "audio_prompt": "Which correction avoids the misconception in “Inference treated as guess”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Inference treated as guess",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Cite clues and reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cite clues and reasoning The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-024",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Evaluation equals agreement.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Evaluation equals agreement.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -298,26 +985,699 @@
         "is_correct": false
       },
       {
+        "text": "Revise with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": false
+      },
+      {
         "text": "Use criteria and source evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Interpretation formed from clues and relevant knowledge",
-        "is_correct": false
-      },
-      {
-        "text": "Strategic readers select and combine processes according to purpose, revise mental models when evidence conflicts and distinguish literal, inferred and evaluative claims.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Strategic readers select and combine processes according to purpose, revise mental models when evidence conflicts and distinguish literal, inferred and evaluative claims.",
-      "hint": "Use criteria and source evidence."
+      "summary": "Use criteria and source evidence The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-025",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Prediction defended after contradiction” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Prediction defended after contradiction” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Revise with evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": false
+      },
+      {
+        "text": "Cite clues and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Revise with evidence The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-026",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Summary copies detail.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Summary copies detail.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Summary copies detail",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": true
+      },
+      {
+        "text": "Revise with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Cite clues and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Prioritise relationships The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-027",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Inference treated as guess”?",
+    "audio_prompt": "What is the main problem with this statement: “Inference treated as guess”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Inference treated as guess",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Cite clues and reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cite clues and reasoning The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-028",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Evaluation equals agreement”?",
+    "audio_prompt": "Which correction avoids the misconception in “Evaluation equals agreement”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaluation equals agreement",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": false
+      },
+      {
+        "text": "Use criteria and source evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use criteria and source evidence The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-029",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Prediction defended after contradiction.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Prediction defended after contradiction.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Revise with evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": false
+      },
+      {
+        "text": "Cite clues and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Revise with evidence The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-030",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Summary copies detail” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Summary copies detail” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Summary copies detail",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": true
+      },
+      {
+        "text": "Revise with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Cite clues and reasoning",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Prioritise relationships The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-031",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "strategic_comprehension_and_critical_reading",
+    "question": "A school podcast needs a concise example of Strategic Comprehension and Critical Reading. Which choice best fits?",
+    "audio_prompt": "A school podcast needs a concise example of Strategic Comprehension and Critical Reading. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Activate/predict without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-032",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a local history display, someone writes, “Summary copies detail.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a local history display, someone writes, “Summary copies detail.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Summary copies detail",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Prioritise relationships The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-033",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "infer_connect",
+    "question": "A science expo includes “combine clues and knowledge.” Which analysis is strongest?",
+    "audio_prompt": "A science expo includes “combine clues and knowledge.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of Infer/connect.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-034",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "what_supports_it",
+    "question": "Which interpretation of “source, method, data and context” would be most useful in a library newsletter?",
+    "audio_prompt": "Which interpretation of “source, method, data and context” would be most useful in a library newsletter?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that What supports it? always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-035",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "synthesis",
+    "question": "A student council proposal uses the idea “integration of ideas across parts or sources.” Which term would make the analysis most precise?",
+    "audio_prompt": "A student council proposal uses the idea “integration of ideas across parts or sources.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "inference",
+        "is_correct": false
+      },
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "synthesis",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Synthesis is the precise term for integration of ideas across parts or sources.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-036",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "strategic_comprehension_and_critical_reading",
+    "question": "A sports club notice needs a concise example of Strategic Comprehension and Critical Reading. Which choice best fits?",
+    "audio_prompt": "A sports club notice needs a concise example of Strategic Comprehension and Critical Reading. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Summary copies detail",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Synthesize without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-037",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a museum exhibit, someone writes, “Inference treated as guess.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a museum exhibit, someone writes, “Inference treated as guess.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cite clues and reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "Inference treated as guess",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cite clues and reasoning The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-038",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "activate_predict",
+    "question": "A community garden report includes “use relevant knowledge cautiously.” Which analysis is strongest?",
+    "audio_prompt": "A community garden report includes “use relevant knowledge cautiously.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Activate/predict.",
+        "is_correct": false
+      },
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-039",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "who_created_it",
+    "question": "Which interpretation of “expertise, role and interest” would be most useful in a class debate?",
+    "audio_prompt": "Which interpretation of “expertise, role and interest” would be most useful in a class debate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that Who created it? always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-p-040",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "inference",
+    "question": "A environmental campaign uses the idea “interpretation formed from clues and relevant knowledge.” Which term would make the analysis most precise?",
+    "audio_prompt": "A environmental campaign uses the idea “interpretation formed from clues and relevant knowledge.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "synthesis",
+        "is_correct": false
+      },
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "inference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Inference is the precise term for interpretation formed from clues and relevant knowledge.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "evaluate_credibility",
-    "question": "A Year 7 student is working with a text and needs to use evaluate credibility. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use evaluate credibility. Which option best demonstrates the skill?",
+    "skill": "activate_predict",
+    "question": "A wildlife rescue webpage includes “use relevant knowledge cautiously.” Which analysis is strongest?",
+    "audio_prompt": "A wildlife rescue webpage includes “use relevant knowledge cautiously.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+        "text": "It is important only because it is an example of Activate/predict.",
+        "is_correct": false
+      },
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
         "is_correct": true
       },
       {
-        "text": "Prediction defended after contradiction",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Revise with evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
-      "hint": "Revise with evidence."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "revise_prediction",
-    "question": "A Year 7 student is working with a text and needs to use revise prediction. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use revise prediction. Which option best demonstrates the skill?",
+    "skill": "who_created_it",
+    "question": "Read the new context carefully. Which interpretation of “expertise, role and interest” would be most useful in a local council consultation?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “expertise, role and interest” would be most useful in a local council consultation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Summary copies detail",
+        "text": "It proves that Who created it? always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
         "is_correct": true
       },
       {
-        "text": "Prioritise relationships",
-        "is_correct": false
-      },
-      {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
-      "hint": "Prioritise relationships."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-t-003",
@@ -399,36 +1767,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "build_inference",
-    "question": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
+    "skill": "inference",
+    "question": "Which answer is best supported in this new situation? A heritage trail brochure uses the idea “interpretation formed from clues and relevant knowledge.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A heritage trail brochure uses the idea “interpretation formed from clues and relevant knowledge.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Inference treated as guess",
+        "text": "synthesis",
         "is_correct": false
       },
       {
-        "text": "Cite clues and reasoning",
+        "text": "monitoring",
         "is_correct": false
       },
       {
-        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation.",
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "inference",
         "is_correct": true
-      },
-      {
-        "text": "Interpretation formed from clues and relevant knowledge",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation.",
-      "hint": "Cite clues and reasoning."
-    }
+      "summary": "Inference is the precise term for interpretation formed from clues and relevant knowledge.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly05-t-004",
@@ -436,46 +1808,9 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "repair_confusion",
-    "question": "A Year 7 student is working with a text and needs to use repair confusion. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair confusion. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Evaluation equals agreement",
-        "is_correct": false
-      },
-      {
-        "text": "Use criteria and source evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Interpretation formed from clues and relevant knowledge",
-        "is_correct": false
-      },
-      {
-        "text": "Strategic readers select and combine processes according to purpose, revise mental models when evidence conflicts and distinguish literal, inferred and evaluative claims.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Strategic readers select and combine processes according to purpose, revise mental models when evidence conflicts and distinguish literal, inferred and evaluative claims.",
-      "hint": "Use criteria and source evidence."
-    }
-  },
-  {
-    "id": "ac9e7ly05-t-005",
-    "curriculum_code": "AC9E7LY05",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "synthesize_sources",
-    "question": "What should be checked when applying synthesize sources in strategic comprehension and critical reading?",
-    "audio_prompt": "What should be checked when applying synthesize sources in strategic comprehension and critical reading?",
+    "skill": "strategic_comprehension_and_critical_reading",
+    "question": "Use the evidence in this community theatre review. A community theatre review needs a concise example of Strategic Comprehension and Critical Reading. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this community theatre review. A community theatre review needs a concise example of Strategic Comprehension and Critical Reading. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -486,107 +1821,37 @@
         "is_correct": true
       },
       {
-        "text": "Prediction defended after contradiction",
+        "text": "Inference treated as guess",
         "is_correct": false
       },
       {
-        "text": "Revise with evidence",
+        "text": "Simply name Monitor without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
-      "hint": "Revise with evidence."
-    }
-  },
-  {
-    "id": "ac9e7ly05-t-006",
-    "curriculum_code": "AC9E7LY05",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "evaluate_credibility",
-    "question": "Which response best uses evaluate credibility in strategic comprehension and critical reading?",
-    "audio_prompt": "Which response best uses evaluate credibility in strategic comprehension and critical reading?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "The strongest choice demonstrates the concept itself: When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
-    "answers": [
-      {
-        "text": "Summary copies detail",
-        "is_correct": false
-      },
-      {
-        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
-        "is_correct": true
-      },
-      {
-        "text": "Prioritise relationships",
-        "is_correct": false
-      },
-      {
-        "text": "Interpretation formed from clues and relevant knowledge",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed.",
-      "hint": "Prioritise relationships."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly05-t-007",
+    "id": "ac9e7ly05-t-005",
     "curriculum_code": "AC9E7LY05",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "revise_prediction",
-    "question": "A Year 7 student is working with a text and needs to use revise prediction. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use revise prediction. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Inference treated as guess",
-        "is_correct": false
-      },
-      {
-        "text": "Cite clues and reasoning",
-        "is_correct": false
-      },
-      {
-        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation.",
-        "is_correct": true
-      },
-      {
-        "text": "Interpretation formed from clues and relevant knowledge",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation.",
-      "hint": "Cite clues and reasoning."
-    }
-  },
-  {
-    "id": "ac9e7ly05-t-008",
-    "curriculum_code": "AC9E7LY05",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "build_inference",
-    "question": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use build inference. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a water-quality report, someone writes, “Evaluation equals agreement.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a water-quality report, someone writes, “Evaluation equals agreement.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -598,21 +1863,476 @@
       },
       {
         "text": "Use criteria and source evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
         "is_correct": false
       },
       {
-        "text": "Interpretation formed from clues and relevant knowledge",
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use criteria and source evidence The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-006",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "synthesize",
+    "question": "Which response would hold up under close reading? A regional sports commentary includes “combine ideas across sections/sources.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A regional sports commentary includes “combine ideas across sections/sources.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Synthesize.",
         "is_correct": false
       },
       {
-        "text": "Strategic readers select and combine processes according to purpose, revise mental models when evidence conflicts and distinguish literal, inferred and evaluative claims.",
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-007",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "what_would_change_my_view",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “counterevidence or source verification” would be most useful in a astronomy exhibition?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “counterevidence or source verification” would be most useful in a astronomy exhibition?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that What would change my view? always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Strategic readers select and combine processes according to purpose, revise mental models when evidence conflicts and distinguish literal, inferred and evaluative claims.",
-      "hint": "Use criteria and source evidence."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-008",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "monitoring",
+    "question": "Which choice uses the concept without overgeneralising? A farmers market profile uses the idea “awareness and regulation of understanding.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A farmers market profile uses the idea “awareness and regulation of understanding.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "monitoring",
+        "is_correct": true
+      },
+      {
+        "text": "inference",
+        "is_correct": false
+      },
+      {
+        "text": "synthesis",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Monitoring is the precise term for awareness and regulation of understanding.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-009",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_critical_reading",
+    "question": "A emergency-preparedness video needs a concise example of Strategic Comprehension and Critical Reading. Which choice best fits?",
+    "audio_prompt": "A emergency-preparedness video needs a concise example of Strategic Comprehension and Critical Reading. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Evaluation equals agreement",
+        "is_correct": false
+      },
+      {
+        "text": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name Read/view without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-010",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a cycling safety infographic, someone writes, “Prediction defended after contradiction.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a cycling safety infographic, someone writes, “Prediction defended after contradiction.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Revise with evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Revise with evidence The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-011",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "monitor",
+    "question": "Which answer is best supported in this new situation? A river-health podcast includes “notice contradiction or confusion.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A river-health podcast includes “notice contradiction or confusion.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of Monitor.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-012",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "what_is_omitted",
+    "question": "Use the evidence in this town festival website. Which interpretation of “relevant alternatives or uncertainty” would be most useful in a town festival website?",
+    "audio_prompt": "Use the evidence in this town festival website. Which interpretation of “relevant alternatives or uncertainty” would be most useful in a town festival website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Personal connections can aid understanding but must not replace text evidence or broader source evaluation",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that What is omitted? always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-013",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "synthesis",
+    "question": "Choose the most precise analysis for this unfamiliar example. A youth radio interview uses the idea “integration of ideas across parts or sources.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A youth radio interview uses the idea “integration of ideas across parts or sources.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "inference",
+        "is_correct": false
+      },
+      {
+        "text": "synthesis",
+        "is_correct": true
+      },
+      {
+        "text": "monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Synthesis is the precise term for integration of ideas across parts or sources.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-014",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "strategic_comprehension_and_critical_reading",
+    "question": "Which response would hold up under close reading? A coastal restoration article needs a concise example of Strategic Comprehension and Critical Reading. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A coastal restoration article needs a concise example of Strategic Comprehension and Critical Reading. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Prediction defended after contradiction",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name Evaluate without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: When a graph contradicts the paragraph, reread axes and source before deciding which claim is supported",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-015",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a public transport campaign, someone writes, “Summary copies detail.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a public transport campaign, someone writes, “Summary copies detail.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Summary copies detail",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Prioritise relationships",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Prioritise relationships The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly05-t-016",
+    "curriculum_code": "AC9E7LY05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "read_view",
+    "question": "Which choice uses the concept without overgeneralising? A regional museum audio guide includes “track words, structure and modes.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A regional museum audio guide includes “track words, structure and modes.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of Read/view.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: A strategy is valuable because it solves a reading problem, not because every worksheet box is completed",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_dominant_structure",
-    "question": "A Year 7 student is working with a text and needs to use identify dominant structure. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify dominant structure. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "taxonomy",
+    "question": "Which term best matches this meaning: “hierarchical classification of concepts”?",
+    "audio_prompt": "Which term best matches this meaning: “hierarchical classification of concepts”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A text can classify solutions before comparing them against cost and effectiveness criteria",
+        "text": "causal structure",
+        "is_correct": false
+      },
+      {
+        "text": "extended metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "taxonomy",
         "is_correct": true
-      },
-      {
-        "text": "Chronology assumed causal",
-        "is_correct": false
-      },
-      {
-        "text": "Sequence alone does not prove cause",
-        "is_correct": false
-      },
-      {
-        "text": "Hierarchical classification of concepts",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A text can classify solutions before comparing them against cost and effectiveness criteria",
-      "hint": "Sequence alone does not prove cause."
+      "summary": "Taxonomy means hierarchical classification of concepts. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Structures of Ideas Across Texts."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "map_a_hybrid_text",
-    "question": "A Year 7 student is working with a text and needs to use map a hybrid text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use map a hybrid text. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "chronology",
+    "question": "Read this example: “orders events in time.” Which description fits it best?",
+    "audio_prompt": "Read this example: “orders events in time.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Paragraph order treated as idea structure",
-        "is_correct": false
-      },
-      {
-        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them.",
+        "text": "chronology",
         "is_correct": true
       },
       {
-        "text": "Analyse internal logic",
+        "text": "taxonomy/classification",
         "is_correct": false
       },
       {
-        "text": "Hierarchical classification of concepts",
+        "text": "cause–effect",
+        "is_correct": false
+      },
+      {
+        "text": "comparison",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "One text may combine structures. Identify which dominates each section and how transitions connect them.",
-      "hint": "Analyse internal logic."
+      "summary": "The example matches chronology. One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "distinguish_chronology_cause",
-    "question": "A Year 7 student is working with a text and needs to use distinguish chronology cause. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use distinguish chronology cause. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "comparison",
+    "question": "Which label most accurately describes “cost, cooling and maintenance”?",
+    "audio_prompt": "Which label most accurately describes “cost, cooling and maintenance”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Comparison lacks common criteria",
+        "text": "Cause–effect",
         "is_correct": false
       },
       {
-        "text": "Align dimensions",
-        "is_correct": false
-      },
-      {
-        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation.",
+        "text": "Comparison",
         "is_correct": true
       },
       {
-        "text": "Hierarchical classification of concepts",
+        "text": "Classification",
+        "is_correct": false
+      },
+      {
+        "text": "Solution",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation.",
-      "hint": "Align dimensions."
+      "summary": "“cost, cooling and maintenance” is best described as Comparison.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "set_comparison_criteria",
-    "question": "A Year 7 student is working with a text and needs to use set comparison criteria. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use set comparison criteria. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "comparison",
+    "question": "Read this example: “organises similarity and difference by criteria.” Which description fits it best?",
+    "audio_prompt": "Read this example: “organises similarity and difference by criteria.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Metaphor interpreted literally",
+        "text": "taxonomy/classification",
         "is_correct": false
       },
       {
-        "text": "Track mapping and limits",
+        "text": "chronology",
         "is_correct": false
       },
       {
-        "text": "Hierarchical classification of concepts",
-        "is_correct": false
-      },
-      {
-        "text": "Idea structure describes the logical relationship among concepts, which may differ from the visible paragraph or screen structure.",
+        "text": "comparison",
         "is_correct": true
+      },
+      {
+        "text": "cause–effect",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Idea structure describes the logical relationship among concepts, which may differ from the visible paragraph or screen structure.",
-      "hint": "Track mapping and limits."
+      "summary": "The example matches comparison. One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "trace_extended_metaphor",
-    "question": "Which statement correctly identifies causal structure in structures of ideas across texts?",
-    "audio_prompt": "Which statement correctly identifies causal structure in structures of ideas across texts?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Chronology assumed causal”?",
+    "audio_prompt": "Which response best corrects this claim: “Chronology assumed causal”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A text can classify solutions before comparing them against cost and effectiveness criteria",
-        "is_correct": true
+        "text": "Paragraph order treated as idea structure",
+        "is_correct": false
       },
       {
-        "text": "Chronology assumed causal",
+        "text": "Comparison lacks common criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Metaphor interpreted literally",
         "is_correct": false
       },
       {
         "text": "Sequence alone does not prove cause",
-        "is_correct": false
-      },
-      {
-        "text": "Hierarchical classification of concepts",
-        "is_correct": false
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A text can classify solutions before comparing them against cost and effectiveness criteria",
-      "hint": "Sequence alone does not prove cause."
+      "summary": "Sequence alone does not prove cause This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_dominant_structure",
-    "question": "Which choice best describes extended metaphor in structures of ideas across texts?",
-    "audio_prompt": "Which choice best describes extended metaphor in structures of ideas across texts?",
+    "stage": "recognise",
+    "skill": "extended_metaphor",
+    "question": "Which term best matches this meaning: “sustained comparison structuring several ideas”?",
+    "audio_prompt": "Which term best matches this meaning: “sustained comparison structuring several ideas”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Paragraph order treated as idea structure",
-        "is_correct": false
-      },
-      {
-        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them.",
+        "text": "extended metaphor",
         "is_correct": true
       },
       {
-        "text": "Analyse internal logic",
+        "text": "taxonomy",
         "is_correct": false
       },
       {
-        "text": "Hierarchical classification of concepts",
+        "text": "causal structure",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "One text may combine structures. Identify which dominates each section and how transitions connect them.",
-      "hint": "Analyse internal logic."
+      "summary": "Extended metaphor means sustained comparison structuring several ideas. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Structures of Ideas Across Texts."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "map_a_hybrid_text",
-    "question": "What does correct use require for taxonomy in structures of ideas across texts?",
-    "audio_prompt": "What does correct use require for taxonomy in structures of ideas across texts?",
+    "stage": "recognise",
+    "skill": "taxonomy_classification",
+    "question": "Read this example: “groups concepts by shared properties.” Which description fits it best?",
+    "audio_prompt": "Read this example: “groups concepts by shared properties.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Comparison lacks common criteria",
+        "text": "chronology",
         "is_correct": false
       },
       {
-        "text": "Align dimensions",
-        "is_correct": false
-      },
-      {
-        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation.",
+        "text": "taxonomy/classification",
         "is_correct": true
       },
       {
-        "text": "Hierarchical classification of concepts",
+        "text": "cause–effect",
+        "is_correct": false
+      },
+      {
+        "text": "comparison",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation.",
-      "hint": "Align dimensions."
+      "summary": "The example matches taxonomy/classification. One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "distinguish_chronology_cause",
-    "question": "A Year 7 student is working with a text and needs to use distinguish chronology cause. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use distinguish chronology cause. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "comparison",
+    "question": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “cost, cooling and maintenance”?",
+    "audio_prompt": "While reading a peer feedback session, you notice the wording closely. Which label most accurately describes “cost, cooling and maintenance”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Cause–effect",
+        "is_correct": false
+      },
+      {
+        "text": "Classification",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison",
+        "is_correct": true
+      },
+      {
+        "text": "Solution",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“cost, cooling and maintenance” is best described as Comparison.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-009",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "cause_effect",
+    "question": "Read this example: “explains mechanism or consequence.” Which description fits it best?",
+    "audio_prompt": "Read this example: “explains mechanism or consequence.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "taxonomy/classification",
+        "is_correct": false
+      },
+      {
+        "text": "chronology",
+        "is_correct": false
+      },
+      {
+        "text": "comparison",
+        "is_correct": false
+      },
+      {
+        "text": "cause–effect",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The example matches cause–effect. One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-010",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Paragraph order treated as idea structure”?",
+    "audio_prompt": "Which response best corrects this claim: “Paragraph order treated as idea structure”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Analyse internal logic",
+        "is_correct": true
+      },
+      {
+        "text": "Chronology assumed causal",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison lacks common criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Metaphor interpreted literally",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Analyse internal logic This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-011",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "taxonomy_classification",
+    "question": "Why does “groups concepts by shared properties” illustrate taxonomy/classification?",
+    "audio_prompt": "Why does “groups concepts by shared properties” illustrate taxonomy/classification?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “groups concepts by”.",
+        "is_correct": false
+      },
+      {
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-012",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "chronology",
+    "question": "What is the best explanation of how “orders events in time” works?",
+    "audio_prompt": "What is the best explanation of how “orders events in time” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “orders events in”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-013",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "cause_effect",
+    "question": "Which explanation connects the feature in “explains mechanism or consequence” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “explains mechanism or consequence” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “explains mechanism or”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-014",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "comparison",
+    "question": "What should a careful reader notice about “organises similarity and difference by criteria”?",
+    "audio_prompt": "What should a careful reader notice about “organises similarity and difference by criteria”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “organises similarity and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-015",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "problem_solution",
+    "question": "How does the example “defines issue, criteria and responses” contribute to meaning?",
+    "audio_prompt": "How does the example “defines issue, criteria and responses” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “defines issue, criteria”.",
+        "is_correct": false
+      },
+      {
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-016",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "extended_metaphor",
+    "question": "Why does “organises abstract idea through sustained comparison” illustrate extended metaphor?",
+    "audio_prompt": "Why does “organises abstract idea through sustained comparison” illustrate extended metaphor?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “organises abstract idea”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-017",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "cause_effect",
+    "question": "What is the best explanation of how “dark surfaces absorb energy” works?",
+    "audio_prompt": "What is the best explanation of how “dark surfaces absorb energy” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “dark surfaces absorb”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-018",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "classification",
+    "question": "Which explanation connects the feature in “roof, tree and pavement responses” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “roof, tree and pavement responses” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “roof, tree and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-019",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "comparison",
+    "question": "What should a careful reader notice about “cost, cooling and maintenance”?",
+    "audio_prompt": "What should a careful reader notice about “cost, cooling and maintenance”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “cost, cooling and”.",
+        "is_correct": false
+      },
+      {
+        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-020",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "solution",
+    "question": "How does the example “combined strategy” contribute to meaning?",
+    "audio_prompt": "How does the example “combined strategy” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “combined strategy”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-021",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Chronology assumed causal.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Chronology assumed causal.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Chronology assumed causal",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse internal logic",
+        "is_correct": false
+      },
+      {
+        "text": "Align dimensions",
+        "is_correct": false
+      },
+      {
+        "text": "Sequence alone does not prove cause",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Sequence alone does not prove cause The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-022",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Paragraph order treated as idea structure”?",
+    "audio_prompt": "What is the main problem with this statement: “Paragraph order treated as idea structure”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Analyse internal logic",
+        "is_correct": true
+      },
+      {
+        "text": "Paragraph order treated as idea structure",
+        "is_correct": false
+      },
+      {
+        "text": "Sequence alone does not prove cause",
+        "is_correct": false
+      },
+      {
+        "text": "Align dimensions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Analyse internal logic The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-023",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Comparison lacks common criteria”?",
+    "audio_prompt": "Which correction avoids the misconception in “Comparison lacks common criteria”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comparison lacks common criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Align dimensions",
+        "is_correct": true
+      },
+      {
+        "text": "Sequence alone does not prove cause",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse internal logic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Align dimensions The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-024",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Metaphor interpreted literally.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Metaphor interpreted literally.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -298,26 +985,699 @@
         "is_correct": false
       },
       {
+        "text": "Sequence alone does not prove cause",
+        "is_correct": false
+      },
+      {
         "text": "Track mapping and limits",
+        "is_correct": true
+      },
+      {
+        "text": "Analyse internal logic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Track mapping and limits The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-025",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Chronology assumed causal” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Chronology assumed causal” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Chronology assumed causal",
         "is_correct": false
       },
       {
-        "text": "Hierarchical classification of concepts",
+        "text": "Analyse internal logic",
         "is_correct": false
       },
       {
-        "text": "Idea structure describes the logical relationship among concepts, which may differ from the visible paragraph or screen structure.",
+        "text": "Align dimensions",
+        "is_correct": false
+      },
+      {
+        "text": "Sequence alone does not prove cause",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Idea structure describes the logical relationship among concepts, which may differ from the visible paragraph or screen structure.",
-      "hint": "Track mapping and limits."
+      "summary": "Sequence alone does not prove cause The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-026",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Paragraph order treated as idea structure.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Paragraph order treated as idea structure.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Analyse internal logic",
+        "is_correct": true
+      },
+      {
+        "text": "Paragraph order treated as idea structure",
+        "is_correct": false
+      },
+      {
+        "text": "Sequence alone does not prove cause",
+        "is_correct": false
+      },
+      {
+        "text": "Align dimensions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Analyse internal logic The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-027",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Comparison lacks common criteria”?",
+    "audio_prompt": "What is the main problem with this statement: “Comparison lacks common criteria”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comparison lacks common criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Align dimensions",
+        "is_correct": true
+      },
+      {
+        "text": "Sequence alone does not prove cause",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse internal logic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Align dimensions The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-028",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Metaphor interpreted literally”?",
+    "audio_prompt": "Which correction avoids the misconception in “Metaphor interpreted literally”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Metaphor interpreted literally",
+        "is_correct": false
+      },
+      {
+        "text": "Sequence alone does not prove cause",
+        "is_correct": false
+      },
+      {
+        "text": "Track mapping and limits",
+        "is_correct": true
+      },
+      {
+        "text": "Analyse internal logic",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Track mapping and limits The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-029",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Chronology assumed causal.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Chronology assumed causal.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Chronology assumed causal",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse internal logic",
+        "is_correct": false
+      },
+      {
+        "text": "Align dimensions",
+        "is_correct": false
+      },
+      {
+        "text": "Sequence alone does not prove cause",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Sequence alone does not prove cause The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-030",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Paragraph order treated as idea structure” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Paragraph order treated as idea structure” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Analyse internal logic",
+        "is_correct": true
+      },
+      {
+        "text": "Paragraph order treated as idea structure",
+        "is_correct": false
+      },
+      {
+        "text": "Sequence alone does not prove cause",
+        "is_correct": false
+      },
+      {
+        "text": "Align dimensions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Analyse internal logic The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-031",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "structures_of_ideas_across_texts",
+    "question": "A school assembly speech needs a concise example of Structures of Ideas Across Texts. Which choice best fits?",
+    "audio_prompt": "A school assembly speech needs a concise example of Structures of Ideas Across Texts. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Chronology assumed causal",
+        "is_correct": false
+      },
+      {
+        "text": "A text can classify solutions before comparing them against cost and effectiveness criteria",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name taxonomy/classification without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A text can classify solutions before comparing them against cost and effectiveness criteria",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-032",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a media review, someone writes, “Paragraph order treated as idea structure.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a media review, someone writes, “Paragraph order treated as idea structure.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Paragraph order treated as idea structure",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Analyse internal logic",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Analyse internal logic The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-033",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "cause_effect",
+    "question": "A geography field report includes “explains mechanism or consequence.” Which analysis is strongest?",
+    "audio_prompt": "A geography field report includes “explains mechanism or consequence.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of cause–effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-034",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "solution",
+    "question": "Which interpretation of “combined strategy” would be most useful in a school podcast?",
+    "audio_prompt": "Which interpretation of “combined strategy” would be most useful in a school podcast?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that Solution always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-035",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "causal_structure",
+    "question": "A local history display uses the idea “organisation explaining causes and consequences.” Which term would make the analysis most precise?",
+    "audio_prompt": "A local history display uses the idea “organisation explaining causes and consequences.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "taxonomy",
+        "is_correct": false
+      },
+      {
+        "text": "causal structure",
+        "is_correct": true
+      },
+      {
+        "text": "extended metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Causal structure is the precise term for organisation explaining causes and consequences.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-036",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "structures_of_ideas_across_texts",
+    "question": "A science expo needs a concise example of Structures of Ideas Across Texts. Which choice best fits?",
+    "audio_prompt": "A science expo needs a concise example of Structures of Ideas Across Texts. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Paragraph order treated as idea structure",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name extended metaphor without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "A text can classify solutions before comparing them against cost and effectiveness criteria",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A text can classify solutions before comparing them against cost and effectiveness criteria",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-037",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a library newsletter, someone writes, “Comparison lacks common criteria.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a library newsletter, someone writes, “Comparison lacks common criteria.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comparison lacks common criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Align dimensions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Align dimensions The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-038",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "chronology",
+    "question": "A student council proposal includes “orders events in time.” Which analysis is strongest?",
+    "audio_prompt": "A student council proposal includes “orders events in time.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of chronology.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-039",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "solution",
+    "question": "Which interpretation of “combined strategy” would be most useful in a sports club notice?",
+    "audio_prompt": "Which interpretation of “combined strategy” would be most useful in a sports club notice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that Solution always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-p-040",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "taxonomy",
+    "question": "A museum exhibit uses the idea “hierarchical classification of concepts.” Which term would make the analysis most precise?",
+    "audio_prompt": "A museum exhibit uses the idea “hierarchical classification of concepts.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "causal structure",
+        "is_correct": false
+      },
+      {
+        "text": "extended metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "taxonomy",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Taxonomy is the precise term for hierarchical classification of concepts.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "set_comparison_criteria",
-    "question": "A Year 7 student is working with a text and needs to use set comparison criteria. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use set comparison criteria. Which option best demonstrates the skill?",
+    "skill": "chronology",
+    "question": "A town festival website includes “orders events in time.” Which analysis is strongest?",
+    "audio_prompt": "A town festival website includes “orders events in time.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A text can classify solutions before comparing them against cost and effectiveness criteria",
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
         "is_correct": true
       },
       {
-        "text": "Chronology assumed causal",
+        "text": "It is important only because it is an example of chronology.",
         "is_correct": false
       },
       {
-        "text": "Sequence alone does not prove cause",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Hierarchical classification of concepts",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A text can classify solutions before comparing them against cost and effectiveness criteria",
-      "hint": "Sequence alone does not prove cause."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "trace_extended_metaphor",
-    "question": "A Year 7 student is working with a text and needs to use trace extended metaphor. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace extended metaphor. Which option best demonstrates the skill?",
+    "skill": "solution",
+    "question": "Read the new context carefully. Which interpretation of “combined strategy” would be most useful in a youth radio interview?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “combined strategy” would be most useful in a youth radio interview?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Paragraph order treated as idea structure",
+        "text": "It proves that Solution always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them.",
+        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
         "is_correct": true
       },
       {
-        "text": "Analyse internal logic",
+        "text": "It can be analysed without referring to the actual wording.",
         "is_correct": false
       },
       {
-        "text": "Hierarchical classification of concepts",
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One text may combine structures. Identify which dominates each section and how transitions connect them.",
-      "hint": "Analyse internal logic."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-t-003",
@@ -399,9 +1767,50 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_dominant_structure",
-    "question": "A Year 7 student is working with a text and needs to use identify dominant structure. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify dominant structure. Which option best demonstrates the skill?",
+    "skill": "taxonomy",
+    "question": "Which answer is best supported in this new situation? A coastal restoration article uses the idea “hierarchical classification of concepts.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A coastal restoration article uses the idea “hierarchical classification of concepts.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "causal structure",
+        "is_correct": false
+      },
+      {
+        "text": "extended metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "taxonomy",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Taxonomy is the precise term for hierarchical classification of concepts.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-t-004",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "structures_of_ideas_across_texts",
+    "question": "Use the evidence in this public transport campaign. A public transport campaign needs a concise example of Structures of Ideas Across Texts. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this public transport campaign. A public transport campaign needs a concise example of Structures of Ideas Across Texts. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -412,60 +1821,27 @@
         "is_correct": false
       },
       {
-        "text": "Align dimensions",
+        "text": "Simply name problem–solution without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation.",
-        "is_correct": true
-      },
-      {
-        "text": "Hierarchical classification of concepts",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation.",
-      "hint": "Align dimensions."
-    }
-  },
-  {
-    "id": "ac9e7ly04-t-004",
-    "curriculum_code": "AC9E7LY04",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "map_a_hybrid_text",
-    "question": "A Year 7 student is working with a text and needs to use map a hybrid text. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use map a hybrid text. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Metaphor interpreted literally",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       },
       {
-        "text": "Track mapping and limits",
-        "is_correct": false
-      },
-      {
-        "text": "Hierarchical classification of concepts",
-        "is_correct": false
-      },
-      {
-        "text": "Idea structure describes the logical relationship among concepts, which may differ from the visible paragraph or screen structure.",
+        "text": "A text can classify solutions before comparing them against cost and effectiveness criteria",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Idea structure describes the logical relationship among concepts, which may differ from the visible paragraph or screen structure.",
-      "hint": "Track mapping and limits."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: A text can classify solutions before comparing them against cost and effectiveness criteria",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly04-t-005",
@@ -473,9 +1849,173 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "distinguish_chronology_cause",
-    "question": "What should be checked when applying distinguish chronology/cause in structures of ideas across texts?",
-    "audio_prompt": "What should be checked when applying distinguish chronology/cause in structures of ideas across texts?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a regional museum audio guide, someone writes, “Metaphor interpreted literally.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a regional museum audio guide, someone writes, “Metaphor interpreted literally.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Track mapping and limits",
+        "is_correct": true
+      },
+      {
+        "text": "Metaphor interpreted literally",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Track mapping and limits The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-t-006",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "taxonomy_classification",
+    "question": "Which response would hold up under close reading? A wildlife rescue webpage includes “groups concepts by shared properties.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A wildlife rescue webpage includes “groups concepts by shared properties.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of taxonomy/classification.",
+        "is_correct": false
+      },
+      {
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-t-007",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "solution",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “combined strategy” would be most useful in a local council consultation?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “combined strategy” would be most useful in a local council consultation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that Solution always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-t-008",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_metaphor",
+    "question": "Which choice uses the concept without overgeneralising? A heritage trail brochure uses the idea “sustained comparison structuring several ideas.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A heritage trail brochure uses the idea “sustained comparison structuring several ideas.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "taxonomy",
+        "is_correct": false
+      },
+      {
+        "text": "causal structure",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "extended metaphor",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Extended metaphor is the precise term for sustained comparison structuring several ideas.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-t-009",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "structures_of_ideas_across_texts",
+    "question": "A community theatre review needs a concise example of Structures of Ideas Across Texts. Which choice best fits?",
+    "audio_prompt": "A community theatre review needs a concise example of Structures of Ideas Across Texts. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -486,33 +2026,242 @@
         "is_correct": true
       },
       {
-        "text": "Chronology assumed causal",
+        "text": "Metaphor interpreted literally",
         "is_correct": false
       },
       {
-        "text": "Sequence alone does not prove cause",
+        "text": "Simply name comparison without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Hierarchical classification of concepts",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A text can classify solutions before comparing them against cost and effectiveness criteria",
-      "hint": "Sequence alone does not prove cause."
-    }
+      "summary": "The strongest choice demonstrates the concept itself: A text can classify solutions before comparing them against cost and effectiveness criteria",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly04-t-006",
+    "id": "ac9e7ly04-t-010",
     "curriculum_code": "AC9E7LY04",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "set_comparison_criteria",
-    "question": "Which response best uses set comparison criteria in structures of ideas across texts?",
-    "audio_prompt": "Which response best uses set comparison criteria in structures of ideas across texts?",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a water-quality report, someone writes, “Chronology assumed causal.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a water-quality report, someone writes, “Chronology assumed causal.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Chronology assumed causal",
+        "is_correct": false
+      },
+      {
+        "text": "Sequence alone does not prove cause",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Sequence alone does not prove cause The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-t-011",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "extended_metaphor",
+    "question": "Which answer is best supported in this new situation? A regional sports commentary includes “organises abstract idea through sustained comparison.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A regional sports commentary includes “organises abstract idea through sustained comparison.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of extended metaphor.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-t-012",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "solution",
+    "question": "Use the evidence in this astronomy exhibition. Which interpretation of “combined strategy” would be most useful in a astronomy exhibition?",
+    "audio_prompt": "Use the evidence in this astronomy exhibition. Which interpretation of “combined strategy” would be most useful in a astronomy exhibition?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that Solution always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-t-013",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "causal_structure",
+    "question": "Choose the most precise analysis for this unfamiliar example. A farmers market profile uses the idea “organisation explaining causes and consequences.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A farmers market profile uses the idea “organisation explaining causes and consequences.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "causal structure",
+        "is_correct": true
+      },
+      {
+        "text": "taxonomy",
+        "is_correct": false
+      },
+      {
+        "text": "extended metaphor",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Causal structure is the precise term for organisation explaining causes and consequences.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-t-014",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "structures_of_ideas_across_texts",
+    "question": "Which response would hold up under close reading? A emergency-preparedness video needs a concise example of Structures of Ideas Across Texts. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A emergency-preparedness video needs a concise example of Structures of Ideas Across Texts. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Chronology assumed causal",
+        "is_correct": false
+      },
+      {
+        "text": "A text can classify solutions before comparing them against cost and effectiveness criteria",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name cause–effect without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A text can classify solutions before comparing them against cost and effectiveness criteria",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly04-t-015",
+    "curriculum_code": "AC9E7LY04",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a cycling safety infographic, someone writes, “Paragraph order treated as idea structure.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a cycling safety infographic, someone writes, “Paragraph order treated as idea structure.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -523,96 +2272,67 @@
         "is_correct": false
       },
       {
-        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them.",
-        "is_correct": true
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
       },
       {
         "text": "Analyse internal logic",
-        "is_correct": false
-      },
-      {
-        "text": "Hierarchical classification of concepts",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "One text may combine structures. Identify which dominates each section and how transitions connect them.",
-      "hint": "Analyse internal logic."
-    }
-  },
-  {
-    "id": "ac9e7ly04-t-007",
-    "curriculum_code": "AC9E7LY04",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "trace_extended_metaphor",
-    "question": "A Year 7 student is working with a text and needs to use trace extended metaphor. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use trace extended metaphor. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Comparison lacks common criteria",
-        "is_correct": false
-      },
-      {
-        "text": "Align dimensions",
-        "is_correct": false
-      },
-      {
-        "text": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation.",
         "is_correct": true
       },
       {
-        "text": "Hierarchical classification of concepts",
+        "text": "Remove the evidence and replace it with a personal preference.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Headings can reveal idea structure but should be confirmed by sentence relationships and evidence organisation.",
-      "hint": "Align dimensions."
-    }
+      "summary": "Analyse internal logic The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly04-t-008",
+    "id": "ac9e7ly04-t-016",
     "curriculum_code": "AC9E7LY04",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_dominant_structure",
-    "question": "A Year 7 student is working with a text and needs to use identify dominant structure. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify dominant structure. Which option best demonstrates the skill?",
+    "skill": "problem_solution",
+    "question": "Which choice uses the concept without overgeneralising? A river-health podcast includes “defines issue, criteria and responses.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A river-health podcast includes “defines issue, criteria and responses.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Metaphor interpreted literally",
+        "text": "It is important only because it is an example of problem–solution.",
         "is_correct": false
       },
       {
-        "text": "Track mapping and limits",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Hierarchical classification of concepts",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       },
       {
-        "text": "Idea structure describes the logical relationship among concepts, which may differ from the visible paragraph or screen structure.",
+        "text": "One text may combine structures. Identify which dominates each section and how transitions connect them",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Idea structure describes the logical relationship among concepts, which may differ from the visible paragraph or screen structure.",
-      "hint": "Track mapping and limits."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: One text may combine structures. Identify which dominates each section and how transitions connect them",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

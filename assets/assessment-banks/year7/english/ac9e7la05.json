@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_main_clauses",
-    "question": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "main_clause",
+    "question": "Which term best matches this meaning: “clause functioning as an independent message”?",
+    "audio_prompt": "Which term best matches this meaning: “clause functioning as an independent message”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+        "text": "main clause",
         "is_correct": true
       },
       {
-        "text": "Long sentence assumed compound-complex",
+        "text": "dependent clause",
         "is_correct": false
       },
       {
-        "text": "Identify clause independence and dependency",
+        "text": "compound-complex sentence",
         "is_correct": false
       },
       {
-        "text": "Clause functioning as an independent message",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
-      "hint": "Identify clause independence and dependency."
+      "summary": "Main clause means clause functioning as an independent message. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Complex and Compound-complex Sentences."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_dependent_clauses",
-    "question": "A Year 7 student is working with a text and needs to use identify dependent clauses. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify dependent clauses. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "coordinator",
+    "question": "Read this example: “and.” Which description fits it best?",
+    "audio_prompt": "Read this example: “and.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Comma splice joins main clauses",
+        "text": "main clause 1",
         "is_correct": false
       },
       {
-        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake.",
+        "text": "coordinator",
         "is_correct": true
       },
       {
-        "text": "Use coordinator, semicolon or full stop",
+        "text": "main clause 2",
         "is_correct": false
       },
       {
-        "text": "Clause functioning as an independent message",
+        "text": "dependent clause",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake.",
-      "hint": "Use coordinator, semicolon or full stop."
+      "summary": "The example matches coordinator. Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "repair_comma_splice",
-    "question": "A Year 7 student is working with a text and needs to use repair comma splice. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair comma splice. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "condition",
+    "question": "Which label most accurately describes “if, unless”?",
+    "audio_prompt": "Which label most accurately describes “if, unless”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dependent clause left as fragment",
+        "text": "cause",
         "is_correct": false
       },
       {
-        "text": "Attach it deliberately",
+        "text": "concession",
         "is_correct": false
       },
       {
-        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended.",
+        "text": "condition",
         "is_correct": true
       },
       {
-        "text": "Clause functioning as an independent message",
+        "text": "coordination",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended.",
-      "hint": "Attach it deliberately."
+      "summary": "“if, unless” is best described as condition.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "combine_ideas_purposefully",
-    "question": "A Year 7 student is working with a text and needs to use combine ideas purposefully. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use combine ideas purposefully. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "dependent_clause",
+    "question": "Read this example: “because the sensor had shifted.” Which description fits it best?",
+    "audio_prompt": "Read this example: “because the sensor had shifted.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Too many clauses obscure hierarchy",
+        "text": "main clause 1",
         "is_correct": false
       },
       {
-        "text": "Split or reorder for clarity",
+        "text": "coordinator",
         "is_correct": false
       },
       {
-        "text": "Clause functioning as an independent message",
+        "text": "main clause 2",
         "is_correct": false
       },
       {
-        "text": "A compound-complex sentence contains at least two main clauses and at least one dependent clause, allowing coordination and subordination in one structure.",
+        "text": "dependent clause",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A compound-complex sentence contains at least two main clauses and at least one dependent clause, allowing coordination and subordination in one structure.",
-      "hint": "Split or reorder for clarity."
+      "summary": "The example matches dependent clause. Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_punctuation",
-    "question": "Which statement correctly identifies dependent clause in complex and compound-complex sentences?",
-    "audio_prompt": "Which statement correctly identifies dependent clause in complex and compound-complex sentences?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Long sentence assumed compound-complex”?",
+    "audio_prompt": "Which response best corrects this claim: “Long sentence assumed compound-complex”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+        "text": "Identify clause independence and dependency",
         "is_correct": true
       },
       {
-        "text": "Long sentence assumed compound-complex",
+        "text": "Comma splice joins main clauses",
         "is_correct": false
       },
       {
-        "text": "Identify clause independence and dependency",
+        "text": "Dependent clause left as fragment",
         "is_correct": false
       },
       {
-        "text": "Clause functioning as an independent message",
+        "text": "Too many clauses obscure hierarchy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
-      "hint": "Identify clause independence and dependency."
+      "summary": "Identify clause independence and dependency This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_main_clauses",
-    "question": "Which choice best describes compound-complex sentence in complex and compound-complex sentences?",
-    "audio_prompt": "Which choice best describes compound-complex sentence in complex and compound-complex sentences?",
+    "stage": "recognise",
+    "skill": "compound_complex_sentence",
+    "question": "Which term best matches this meaning: “sentence with multiple main clauses and at least one dependent clause”?",
+    "audio_prompt": "Which term best matches this meaning: “sentence with multiple main clauses and at least one dependent clause”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Comma splice joins main clauses",
+        "text": "main clause",
         "is_correct": false
       },
       {
-        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake.",
+        "text": "compound-complex sentence",
         "is_correct": true
       },
       {
-        "text": "Use coordinator, semicolon or full stop",
+        "text": "dependent clause",
         "is_correct": false
       },
       {
-        "text": "Clause functioning as an independent message",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake.",
-      "hint": "Use coordinator, semicolon or full stop."
+      "summary": "Compound-complex sentence means sentence with multiple main clauses and at least one dependent clause. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Complex and Compound-complex Sentences."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_dependent_clauses",
-    "question": "What does correct use require for main clause in complex and compound-complex sentences?",
-    "audio_prompt": "What does correct use require for main clause in complex and compound-complex sentences?",
+    "stage": "recognise",
+    "skill": "main_clause_2",
+    "question": "Read this example: “they repeated the test.” Which description fits it best?",
+    "audio_prompt": "Read this example: “they repeated the test.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dependent clause left as fragment",
+        "text": "main clause 1",
         "is_correct": false
       },
       {
-        "text": "Attach it deliberately",
+        "text": "coordinator",
         "is_correct": false
       },
       {
-        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended.",
+        "text": "main clause 2",
         "is_correct": true
       },
       {
-        "text": "Clause functioning as an independent message",
+        "text": "dependent clause",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended.",
-      "hint": "Attach it deliberately."
+      "summary": "The example matches main clause 2. Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "repair_comma_splice",
-    "question": "A Year 7 student is working with a text and needs to use repair comma splice. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use repair comma splice. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "concession",
+    "question": "Which label most accurately describes “although, even though”?",
+    "audio_prompt": "Which label most accurately describes “although, even though”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "cause",
+        "is_correct": false
+      },
+      {
+        "text": "condition",
+        "is_correct": false
+      },
+      {
+        "text": "coordination",
+        "is_correct": false
+      },
+      {
+        "text": "concession",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“although, even though” is best described as concession.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-009",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "main_clause_1",
+    "question": "Read this example: “the group retained the result,.” Which description fits it best?",
+    "audio_prompt": "Read this example: “the group retained the result,.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "main clause 1",
+        "is_correct": true
+      },
+      {
+        "text": "coordinator",
+        "is_correct": false
+      },
+      {
+        "text": "main clause 2",
+        "is_correct": false
+      },
+      {
+        "text": "dependent clause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example matches main clause 1. Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-010",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Comma splice joins main clauses”?",
+    "audio_prompt": "Which response best corrects this claim: “Comma splice joins main clauses”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Long sentence assumed compound-complex",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": true
+      },
+      {
+        "text": "Dependent clause left as fragment",
+        "is_correct": false
+      },
+      {
+        "text": "Too many clauses obscure hierarchy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use coordinator, semicolon or full stop This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-011",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "main_clause_1",
+    "question": "Why does “the group retained the result,” illustrate main clause 1?",
+    "audio_prompt": "Why does “the group retained the result,” illustrate main clause 1?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “the group retained”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-012",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "coordinator",
+    "question": "What is the best explanation of how “and” works?",
+    "audio_prompt": "What is the best explanation of how “and” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “and”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-013",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "main_clause_2",
+    "question": "Which explanation connects the feature in “they repeated the test” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “they repeated the test” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “they repeated the”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-014",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "dependent_clause",
+    "question": "What should a careful reader notice about “because the sensor had shifted”?",
+    "audio_prompt": "What should a careful reader notice about “because the sensor had shifted”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “because the sensor”.",
+        "is_correct": false
+      },
+      {
+        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-015",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "cause",
+    "question": "How does the example “because, since” contribute to meaning?",
+    "audio_prompt": "How does the example “because, since” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “because, since”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-016",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "concession",
+    "question": "Why does “although, even though” illustrate concession?",
+    "audio_prompt": "Why does “although, even though” illustrate concession?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “although, even though”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-017",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "condition",
+    "question": "What is the best explanation of how “if, unless” works?",
+    "audio_prompt": "What is the best explanation of how “if, unless” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “if, unless”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-018",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "coordination",
+    "question": "Which explanation connects the feature in “and, but, so, yet” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “and, but, so, yet” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “and, but, so,”.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-019",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "relative_elaboration",
+    "question": "What should a careful reader notice about “which, who, that”?",
+    "audio_prompt": "What should a careful reader notice about “which, who, that”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “which, who, that”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-020",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "time",
+    "question": "How does the example “when, while, after” contribute to meaning?",
+    "audio_prompt": "How does the example “when, while, after” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “when, while, after”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-021",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Long sentence assumed compound-complex.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Long sentence assumed compound-complex.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Identify clause independence and dependency",
+        "is_correct": true
+      },
+      {
+        "text": "Long sentence assumed compound-complex",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": false
+      },
+      {
+        "text": "Attach it deliberately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify clause independence and dependency The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-022",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Comma splice joins main clauses”?",
+    "audio_prompt": "What is the main problem with this statement: “Comma splice joins main clauses”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comma splice joins main clauses",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": true
+      },
+      {
+        "text": "Identify clause independence and dependency",
+        "is_correct": false
+      },
+      {
+        "text": "Attach it deliberately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use coordinator, semicolon or full stop The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-023",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Dependent clause left as fragment”?",
+    "audio_prompt": "Which correction avoids the misconception in “Dependent clause left as fragment”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dependent clause left as fragment",
+        "is_correct": false
+      },
+      {
+        "text": "Identify clause independence and dependency",
+        "is_correct": false
+      },
+      {
+        "text": "Attach it deliberately",
+        "is_correct": true
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Attach it deliberately The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-024",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Too many clauses obscure hierarchy.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Too many clauses obscure hierarchy.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -298,26 +985,699 @@
         "is_correct": false
       },
       {
+        "text": "Identify clause independence and dependency",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": false
+      },
+      {
         "text": "Split or reorder for clarity",
-        "is_correct": false
-      },
-      {
-        "text": "Clause functioning as an independent message",
-        "is_correct": false
-      },
-      {
-        "text": "A compound-complex sentence contains at least two main clauses and at least one dependent clause, allowing coordination and subordination in one structure.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A compound-complex sentence contains at least two main clauses and at least one dependent clause, allowing coordination and subordination in one structure.",
-      "hint": "Split or reorder for clarity."
+      "summary": "Split or reorder for clarity The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-025",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Long sentence assumed compound-complex” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Long sentence assumed compound-complex” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Identify clause independence and dependency",
+        "is_correct": true
+      },
+      {
+        "text": "Long sentence assumed compound-complex",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": false
+      },
+      {
+        "text": "Attach it deliberately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify clause independence and dependency The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-026",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Comma splice joins main clauses.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Comma splice joins main clauses.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comma splice joins main clauses",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": true
+      },
+      {
+        "text": "Identify clause independence and dependency",
+        "is_correct": false
+      },
+      {
+        "text": "Attach it deliberately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use coordinator, semicolon or full stop The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-027",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Dependent clause left as fragment”?",
+    "audio_prompt": "What is the main problem with this statement: “Dependent clause left as fragment”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dependent clause left as fragment",
+        "is_correct": false
+      },
+      {
+        "text": "Identify clause independence and dependency",
+        "is_correct": false
+      },
+      {
+        "text": "Attach it deliberately",
+        "is_correct": true
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Attach it deliberately The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-028",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Too many clauses obscure hierarchy”?",
+    "audio_prompt": "Which correction avoids the misconception in “Too many clauses obscure hierarchy”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Too many clauses obscure hierarchy",
+        "is_correct": false
+      },
+      {
+        "text": "Identify clause independence and dependency",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": false
+      },
+      {
+        "text": "Split or reorder for clarity",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Split or reorder for clarity The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-029",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Long sentence assumed compound-complex.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Long sentence assumed compound-complex.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Identify clause independence and dependency",
+        "is_correct": true
+      },
+      {
+        "text": "Long sentence assumed compound-complex",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": false
+      },
+      {
+        "text": "Attach it deliberately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Identify clause independence and dependency The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-030",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Comma splice joins main clauses” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Comma splice joins main clauses” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comma splice joins main clauses",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": true
+      },
+      {
+        "text": "Identify clause independence and dependency",
+        "is_correct": false
+      },
+      {
+        "text": "Attach it deliberately",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use coordinator, semicolon or full stop The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-031",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "complex_and_compound_complex_sentences",
+    "question": "A school website needs a concise example of Complex and Compound-complex Sentences. Which choice best fits?",
+    "audio_prompt": "A school website needs a concise example of Complex and Compound-complex Sentences. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Long sentence assumed compound-complex",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name main clause 1 without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-032",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a arts festival program, someone writes, “Comma splice joins main clauses.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a arts festival program, someone writes, “Comma splice joins main clauses.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comma splice joins main clauses",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use coordinator, semicolon or full stop The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-033",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "main_clause_2",
+    "question": "A peer feedback session includes “they repeated the test.” Which analysis is strongest?",
+    "audio_prompt": "A peer feedback session includes “they repeated the test.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of main clause 2.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-034",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "coordination",
+    "question": "Which interpretation of “and, but, so, yet” would be most useful in a technology showcase?",
+    "audio_prompt": "Which interpretation of “and, but, so, yet” would be most useful in a technology showcase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that coordination always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-035",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "dependent_clause",
+    "question": "A canteen survey uses the idea “clause relying on another clause.” Which term would make the analysis most precise?",
+    "audio_prompt": "A canteen survey uses the idea “clause relying on another clause.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "main clause",
+        "is_correct": false
+      },
+      {
+        "text": "compound-complex sentence",
+        "is_correct": false
+      },
+      {
+        "text": "dependent clause",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dependent clause is the precise term for clause relying on another clause.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-036",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "complex_and_compound_complex_sentences",
+    "question": "A school assembly speech needs a concise example of Complex and Compound-complex Sentences. Which choice best fits?",
+    "audio_prompt": "A school assembly speech needs a concise example of Complex and Compound-complex Sentences. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comma splice joins main clauses",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name coordinator without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-037",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a media review, someone writes, “Dependent clause left as fragment.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a media review, someone writes, “Dependent clause left as fragment.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Attach it deliberately",
+        "is_correct": true
+      },
+      {
+        "text": "Dependent clause left as fragment",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Attach it deliberately The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-038",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "dependent_clause",
+    "question": "A geography field report includes “because the sensor had shifted.” Which analysis is strongest?",
+    "audio_prompt": "A geography field report includes “because the sensor had shifted.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of dependent clause.",
+        "is_correct": false
+      },
+      {
+        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-039",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "condition",
+    "question": "Which interpretation of “if, unless” would be most useful in a school podcast?",
+    "audio_prompt": "Which interpretation of “if, unless” would be most useful in a school podcast?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that condition always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-p-040",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "main_clause",
+    "question": "A local history display uses the idea “clause functioning as an independent message.” Which term would make the analysis most precise?",
+    "audio_prompt": "A local history display uses the idea “clause functioning as an independent message.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "dependent clause",
+        "is_correct": false
+      },
+      {
+        "text": "compound-complex sentence",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "main clause",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Main clause is the precise term for clause functioning as an independent message.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "combine_ideas_purposefully",
-    "question": "A Year 7 student is working with a text and needs to use combine ideas purposefully. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use combine ideas purposefully. Which option best demonstrates the skill?",
+    "skill": "dependent_clause",
+    "question": "A wildlife rescue webpage includes “because the sensor had shifted.” Which analysis is strongest?",
+    "audio_prompt": "A wildlife rescue webpage includes “because the sensor had shifted.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+        "text": "It is important only because it is an example of dependent clause.",
+        "is_correct": false
+      },
+      {
+        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
         "is_correct": true
       },
       {
-        "text": "Long sentence assumed compound-complex",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Identify clause independence and dependency",
-        "is_correct": false
-      },
-      {
-        "text": "Clause functioning as an independent message",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
-      "hint": "Identify clause independence and dependency."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "explain_punctuation",
-    "question": "A Year 7 student is working with a text and needs to use explain punctuation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain punctuation. Which option best demonstrates the skill?",
+    "skill": "condition",
+    "question": "Read the new context carefully. Which interpretation of “if, unless” would be most useful in a local council consultation?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “if, unless” would be most useful in a local council consultation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Comma splice joins main clauses",
+        "text": "It proves that condition always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake.",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
         "is_correct": true
       },
       {
-        "text": "Use coordinator, semicolon or full stop",
-        "is_correct": false
-      },
-      {
-        "text": "Clause functioning as an independent message",
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake.",
-      "hint": "Use coordinator, semicolon or full stop."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-t-003",
@@ -399,36 +1767,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_main_clauses",
-    "question": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
+    "skill": "main_clause",
+    "question": "Which answer is best supported in this new situation? A heritage trail brochure uses the idea “clause functioning as an independent message.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A heritage trail brochure uses the idea “clause functioning as an independent message.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Dependent clause left as fragment",
+        "text": "dependent clause",
         "is_correct": false
       },
       {
-        "text": "Attach it deliberately",
+        "text": "compound-complex sentence",
         "is_correct": false
       },
       {
-        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended.",
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "main clause",
         "is_correct": true
-      },
-      {
-        "text": "Clause functioning as an independent message",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended.",
-      "hint": "Attach it deliberately."
-    }
+      "summary": "Main clause is the precise term for clause functioning as an independent message.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7la05-t-004",
@@ -436,46 +1808,9 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "identify_dependent_clauses",
-    "question": "A Year 7 student is working with a text and needs to use identify dependent clauses. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify dependent clauses. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Too many clauses obscure hierarchy",
-        "is_correct": false
-      },
-      {
-        "text": "Split or reorder for clarity",
-        "is_correct": false
-      },
-      {
-        "text": "Clause functioning as an independent message",
-        "is_correct": false
-      },
-      {
-        "text": "A compound-complex sentence contains at least two main clauses and at least one dependent clause, allowing coordination and subordination in one structure.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "A compound-complex sentence contains at least two main clauses and at least one dependent clause, allowing coordination and subordination in one structure.",
-      "hint": "Split or reorder for clarity."
-    }
-  },
-  {
-    "id": "ac9e7la05-t-005",
-    "curriculum_code": "AC9E7LA05",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "repair_comma_splice",
-    "question": "What should be checked when applying repair comma splice in complex and compound-complex sentences?",
-    "audio_prompt": "What should be checked when applying repair comma splice in complex and compound-complex sentences?",
+    "skill": "complex_and_compound_complex_sentences",
+    "question": "Use the evidence in this community theatre review. A community theatre review needs a concise example of Complex and Compound-complex Sentences. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this community theatre review. A community theatre review needs a concise example of Complex and Compound-complex Sentences. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -486,107 +1821,37 @@
         "is_correct": true
       },
       {
-        "text": "Long sentence assumed compound-complex",
+        "text": "Dependent clause left as fragment",
         "is_correct": false
       },
       {
-        "text": "Identify clause independence and dependency",
+        "text": "Simply name main clause 2 without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Clause functioning as an independent message",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
-      "hint": "Identify clause independence and dependency."
-    }
-  },
-  {
-    "id": "ac9e7la05-t-006",
-    "curriculum_code": "AC9E7LA05",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "combine_ideas_purposefully",
-    "question": "Which response best uses combine ideas purposefully in complex and compound-complex sentences?",
-    "audio_prompt": "Which response best uses combine ideas purposefully in complex and compound-complex sentences?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "The strongest choice demonstrates the concept itself: Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
-    "answers": [
-      {
-        "text": "Comma splice joins main clauses",
-        "is_correct": false
-      },
-      {
-        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake.",
-        "is_correct": true
-      },
-      {
-        "text": "Use coordinator, semicolon or full stop",
-        "is_correct": false
-      },
-      {
-        "text": "Clause functioning as an independent message",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake.",
-      "hint": "Use coordinator, semicolon or full stop."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7la05-t-007",
+    "id": "ac9e7la05-t-005",
     "curriculum_code": "AC9E7LA05",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "explain_punctuation",
-    "question": "A Year 7 student is working with a text and needs to use explain punctuation. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain punctuation. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Dependent clause left as fragment",
-        "is_correct": false
-      },
-      {
-        "text": "Attach it deliberately",
-        "is_correct": false
-      },
-      {
-        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended.",
-        "is_correct": true
-      },
-      {
-        "text": "Clause functioning as an independent message",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended.",
-      "hint": "Attach it deliberately."
-    }
-  },
-  {
-    "id": "ac9e7la05-t-008",
-    "curriculum_code": "AC9E7LA05",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "identify_main_clauses",
-    "question": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify main clauses. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a water-quality report, someone writes, “Too many clauses obscure hierarchy.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a water-quality report, someone writes, “Too many clauses obscure hierarchy.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -598,21 +1863,476 @@
       },
       {
         "text": "Split or reorder for clarity",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
         "is_correct": false
       },
       {
-        "text": "Clause functioning as an independent message",
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Split or reorder for clarity The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-006",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "main_clause_1",
+    "question": "Which response would hold up under close reading? A regional sports commentary includes “the group retained the result,.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A regional sports commentary includes “the group retained the result,.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of main clause 1.",
         "is_correct": false
       },
       {
-        "text": "A compound-complex sentence contains at least two main clauses and at least one dependent clause, allowing coordination and subordination in one structure.",
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-007",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "concession",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “although, even though” would be most useful in a astronomy exhibition?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “although, even though” would be most useful in a astronomy exhibition?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that concession always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A compound-complex sentence contains at least two main clauses and at least one dependent clause, allowing coordination and subordination in one structure.",
-      "hint": "Split or reorder for clarity."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-008",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "compound_complex_sentence",
+    "question": "Which choice uses the concept without overgeneralising? A farmers market profile uses the idea “sentence with multiple main clauses and at least one dependent clause.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A farmers market profile uses the idea “sentence with multiple main clauses and at least one dependent clause.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "compound-complex sentence",
+        "is_correct": true
+      },
+      {
+        "text": "main clause",
+        "is_correct": false
+      },
+      {
+        "text": "dependent clause",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compound-complex sentence is the precise term for sentence with multiple main clauses and at least one dependent clause.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-009",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "complex_and_compound_complex_sentences",
+    "question": "A emergency-preparedness video needs a concise example of Complex and Compound-complex Sentences. Which choice best fits?",
+    "audio_prompt": "A emergency-preparedness video needs a concise example of Complex and Compound-complex Sentences. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Too many clauses obscure hierarchy",
+        "is_correct": false
+      },
+      {
+        "text": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name dependent clause without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-010",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a cycling safety infographic, someone writes, “Long sentence assumed compound-complex.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a cycling safety infographic, someone writes, “Long sentence assumed compound-complex.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Long sentence assumed compound-complex",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Identify clause independence and dependency",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identify clause independence and dependency The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-011",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "coordinator",
+    "question": "Which answer is best supported in this new situation? A river-health podcast includes “and.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A river-health podcast includes “and.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of coordinator.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-012",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "cause",
+    "question": "Use the evidence in this town festival website. Which interpretation of “because, since” would be most useful in a town festival website?",
+    "audio_prompt": "Use the evidence in this town festival website. Which interpretation of “because, since” would be most useful in a town festival website?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Check that each dependent clause attaches clearly and that coordinated clauses have balanced grammatical structure where intended",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that cause always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-013",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "dependent_clause",
+    "question": "Choose the most precise analysis for this unfamiliar example. A youth radio interview uses the idea “clause relying on another clause.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A youth radio interview uses the idea “clause relying on another clause.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "main clause",
+        "is_correct": false
+      },
+      {
+        "text": "dependent clause",
+        "is_correct": true
+      },
+      {
+        "text": "compound-complex sentence",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dependent clause is the precise term for clause relying on another clause.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-014",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "complex_and_compound_complex_sentences",
+    "question": "Which response would hold up under close reading? A coastal restoration article needs a concise example of Complex and Compound-complex Sentences. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A coastal restoration article needs a concise example of Complex and Compound-complex Sentences. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Long sentence assumed compound-complex",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name main clause 1 without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: Although data varied, the team retained all results, and they repeated the trial because the sensor shifted",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-015",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a public transport campaign, someone writes, “Comma splice joins main clauses.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a public transport campaign, someone writes, “Comma splice joins main clauses.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Comma splice joins main clauses",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Use coordinator, semicolon or full stop",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Use coordinator, semicolon or full stop The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7la05-t-016",
+    "curriculum_code": "AC9E7LA05",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "main_clause_2",
+    "question": "Which choice uses the concept without overgeneralising? A regional museum audio guide includes “they repeated the test.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A regional museum audio guide includes “they repeated the test.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of main clause 2.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Punctuation should show clause relationships and support readability. Complexity serves meaning, not sentence length for its own sake",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]

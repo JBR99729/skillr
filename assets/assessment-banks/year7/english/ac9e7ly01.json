@@ -5,39 +5,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_print_digital",
-    "question": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "affordance",
+    "question": "Which term best matches this meaning: “action or possibility enabled by a tool or mode”?",
+    "audio_prompt": "Which term best matches this meaning: “action or possibility enabled by a tool or mode”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+        "text": "affordance",
         "is_correct": true
       },
       {
-        "text": "Technology treated as neutral container",
+        "text": "interface",
         "is_correct": false
       },
       {
-        "text": "Design shapes pathway and visibility",
+        "text": "algorithmic selection",
         "is_correct": false
       },
       {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
-      "hint": "Design shapes pathway and visibility."
+      "summary": "Affordance means action or possibility enabled by a tool or mode. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Technology, Reading and Text Creation."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-p-002",
@@ -45,39 +47,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_interface_pathway",
-    "question": "A Year 7 student is working with a text and needs to use analyse interface pathway. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse interface pathway. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "printed_book",
+    "question": "Read this example: “stable sequence, annotation, sustained layout.” Which description fits it best?",
+    "audio_prompt": "Read this example: “stable sequence, annotation, sustained layout.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Digital equals interactive for everyone",
+        "text": "technology",
         "is_correct": false
       },
       {
-        "text": "Do not assume newer is automatically better. Evaluate the task, audience, accessibility, evidence and control over the text.",
+        "text": "printed book",
         "is_correct": true
       },
       {
-        "text": "Access and accessibility vary",
+        "text": "webpage",
         "is_correct": false
       },
       {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "collaborative document",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Do not assume newer is automatically better. Evaluate the task, audience, accessibility, evidence and control over the text.",
-      "hint": "Access and accessibility vary."
+      "summary": "The example matches printed book. Limited search and update",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-p-003",
@@ -85,39 +89,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_accessibility_issue",
-    "question": "A Year 7 student is working with a text and needs to use identify accessibility issue. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify accessibility issue. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "navigation",
+    "question": "Which label most accurately describes “scroll, menu, hyperlink”?",
+    "audio_prompt": "Which label most accurately describes “scroll, menu, hyperlink”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Search result snippet accepted as full text",
+        "text": "Entry",
         "is_correct": false
       },
       {
-        "text": "Open and evaluate context",
+        "text": "Attention",
         "is_correct": false
       },
       {
-        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature.",
+        "text": "Navigation",
         "is_correct": true
       },
       {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "Interaction",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature.",
-      "hint": "Open and evaluate context."
+      "summary": "“scroll, menu, hyperlink” is best described as Navigation.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-p-004",
@@ -125,39 +131,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "explain_algorithmic_selection",
-    "question": "A Year 7 student is working with a text and needs to use explain algorithmic selection. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain algorithmic selection. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "collaborative_document",
+    "question": "Read this example: “shared drafting and version history.” Which description fits it best?",
+    "audio_prompt": "Read this example: “shared drafting and version history.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Tool feature replaces authorship decisions",
+        "text": "technology",
         "is_correct": false
       },
       {
-        "text": "Creators remain responsible for meaning and sources",
+        "text": "printed book",
         "is_correct": false
       },
       {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "webpage",
         "is_correct": false
       },
       {
-        "text": "Technology changes available modes, navigation, speed, collaboration and distribution, while interfaces and algorithms also influence attention, access and authority.",
+        "text": "collaborative document",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Technology changes available modes, navigation, speed, collaboration and distribution, while interfaces and algorithms also influence attention, access and authority.",
-      "hint": "Creators remain responsible for meaning and sources."
+      "summary": "The example matches collaborative document. Permission and authorship issues",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-p-005",
@@ -165,39 +173,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "evaluate_collaborative_authorship",
-    "question": "Which statement correctly identifies interface in technology, reading and text creation?",
-    "audio_prompt": "Which statement correctly identifies interface in technology, reading and text creation?",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Technology treated as neutral container”?",
+    "audio_prompt": "Which response best corrects this claim: “Technology treated as neutral container”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+        "text": "Design shapes pathway and visibility",
         "is_correct": true
       },
       {
-        "text": "Technology treated as neutral container",
+        "text": "Digital equals interactive for everyone",
         "is_correct": false
       },
       {
-        "text": "Design shapes pathway and visibility",
+        "text": "Search result snippet accepted as full text",
         "is_correct": false
       },
       {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "Tool feature replaces authorship decisions",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
-      "hint": "Design shapes pathway and visibility."
+      "summary": "Design shapes pathway and visibility This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-p-006",
@@ -205,39 +215,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "compare_print_digital",
-    "question": "Which choice best describes algorithmic selection in technology, reading and text creation?",
-    "audio_prompt": "Which choice best describes algorithmic selection in technology, reading and text creation?",
+    "stage": "recognise",
+    "skill": "algorithmic_selection",
+    "question": "Which term best matches this meaning: “automated ordering or recommendation of content”?",
+    "audio_prompt": "Which term best matches this meaning: “automated ordering or recommendation of content”?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Digital equals interactive for everyone",
+        "text": "affordance",
         "is_correct": false
       },
       {
-        "text": "Do not assume newer is automatically better. Evaluate the task, audience, accessibility, evidence and control over the text.",
+        "text": "algorithmic selection",
         "is_correct": true
       },
       {
-        "text": "Access and accessibility vary",
+        "text": "interface",
         "is_correct": false
       },
       {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "It makes a broader claim than the evidence supports.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Do not assume newer is automatically better. Evaluate the task, audience, accessibility, evidence and control over the text.",
-      "hint": "Access and accessibility vary."
+      "summary": "Algorithmic selection means automated ordering or recommendation of content. The strongest answer matches the whole meaning, not just one familiar word.",
+      "hint": "Match the definition to the most precise term used in Technology, Reading and Text Creation."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-p-007",
@@ -245,39 +257,41 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "analyse_interface_pathway",
-    "question": "What does correct use require for affordance in technology, reading and text creation?",
-    "audio_prompt": "What does correct use require for affordance in technology, reading and text creation?",
+    "stage": "recognise",
+    "skill": "technology",
+    "question": "Read this example: “affordance.” Which description fits it best?",
+    "audio_prompt": "Read this example: “affordance.” Which description fits it best?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Search result snippet accepted as full text",
+        "text": "printed book",
         "is_correct": false
       },
       {
-        "text": "Open and evaluate context",
+        "text": "webpage",
         "is_correct": false
       },
       {
-        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature.",
+        "text": "technology",
         "is_correct": true
       },
       {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "collaborative document",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature.",
-      "hint": "Open and evaluate context."
+      "summary": "The example matches technology. Constraint/risk",
+      "hint": "Identify the feature that is actually present before deciding what it does."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-p-008",
@@ -285,9 +299,682 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "practice",
-    "skill": "identify_accessibility_issue",
-    "question": "A Year 7 student is working with a text and needs to use identify accessibility issue. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use identify accessibility issue. Which option best demonstrates the skill?",
+    "stage": "recognise",
+    "skill": "entry",
+    "question": "Which label most accurately describes “search result, link or recommendation”?",
+    "audio_prompt": "Which label most accurately describes “search result, link or recommendation”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Attention",
+        "is_correct": false
+      },
+      {
+        "text": "Navigation",
+        "is_correct": false
+      },
+      {
+        "text": "Interaction",
+        "is_correct": false
+      },
+      {
+        "text": "Entry",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“search result, link or recommendation” is best described as Entry.",
+      "hint": "Use the wording in the example, not the length or complexity of the options."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-009",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "webpage",
+    "question": "Read this example: “links, search, rapid update.” Which description fits it best?",
+    "audio_prompt": "Read this example: “links, search, rapid update.” Which description fits it best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "webpage",
+        "is_correct": true
+      },
+      {
+        "text": "technology",
+        "is_correct": false
+      },
+      {
+        "text": "printed book",
+        "is_correct": false
+      },
+      {
+        "text": "collaborative document",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The example matches webpage. Distraction, unstable content, tracking",
+      "hint": "Identify the feature that is actually present before deciding what it does."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-010",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "misconception_repair",
+    "question": "Which response best corrects this claim: “Digital equals interactive for everyone”?",
+    "audio_prompt": "Which response best corrects this claim: “Digital equals interactive for everyone”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Technology treated as neutral container",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": true
+      },
+      {
+        "text": "Search result snippet accepted as full text",
+        "is_correct": false
+      },
+      {
+        "text": "Tool feature replaces authorship decisions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Access and accessibility vary This corrects the overgeneralisation in the original claim.",
+      "hint": "Choose the response that keeps the useful idea but fixes what is inaccurate."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-011",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "technology",
+    "question": "Why does “affordance” illustrate technology?",
+    "audio_prompt": "Why does “affordance” illustrate technology?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “affordance”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Constraint/risk",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Constraint/risk",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-012",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "printed_book",
+    "question": "What is the best explanation of how “stable sequence, annotation, sustained layout” works?",
+    "audio_prompt": "What is the best explanation of how “stable sequence, annotation, sustained layout” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “stable sequence, annotation,”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Limited search and update",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Limited search and update",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-013",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "webpage",
+    "question": "Which explanation connects the feature in “links, search, rapid update” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “links, search, rapid update” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Distraction, unstable content, tracking",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “links, search, rapid”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Distraction, unstable content, tracking",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-014",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "collaborative_document",
+    "question": "What should a careful reader notice about “shared drafting and version history”?",
+    "audio_prompt": "What should a careful reader notice about “shared drafting and version history”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “shared drafting and”.",
+        "is_correct": false
+      },
+      {
+        "text": "Permission and authorship issues",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Permission and authorship issues",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-015",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "video_platform",
+    "question": "How does the example “sound, movement, captions, wide reach” contribute to meaning?",
+    "audio_prompt": "How does the example “sound, movement, captions, wide reach” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “sound, movement, captions,”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Algorithmic selection and context loss",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Algorithmic selection and context loss",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-016",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "ebook_audio",
+    "question": "Why does “search, resize, read-aloud” illustrate ebook/audio?",
+    "audio_prompt": "Why does “search, resize, read-aloud” illustrate ebook/audio?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “search, resize, read-aloud”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Device access and platform dependence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Device access and platform dependence",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-017",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "entry",
+    "question": "What is the best explanation of how “search result, link or recommendation” works?",
+    "audio_prompt": "What is the best explanation of how “search result, link or recommendation” works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+        "is_correct": true
+      },
+      {
+        "text": "It is effective simply because it contains the words “search result, link”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-018",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "attention",
+    "question": "Which explanation connects the feature in “headline, thumbnail, notification” to its effect most clearly?",
+    "audio_prompt": "Which explanation connects the feature in “headline, thumbnail, notification” to its effect most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “headline, thumbnail, notification”.",
+        "is_correct": false
+      },
+      {
+        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-019",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "navigation",
+    "question": "What should a careful reader notice about “scroll, menu, hyperlink”?",
+    "audio_prompt": "What should a careful reader notice about “scroll, menu, hyperlink”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “scroll, menu, hyperlink”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+        "is_correct": true
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-020",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "interaction",
+    "question": "How does the example “comment, share, annotate” contribute to meaning?",
+    "audio_prompt": "How does the example “comment, share, annotate” contribute to meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is effective simply because it contains the words “comment, share, annotate”.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the same effect for every audience and context.",
+        "is_correct": false
+      },
+      {
+        "text": "It matters only because the example is longer than a simpler sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A strong explanation identifies the feature and then explains its effect in context. Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+      "hint": "Do not stop at naming the feature; connect it to the meaning, audience or purpose."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-021",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Technology treated as neutral container.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Technology treated as neutral container.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": true
+      },
+      {
+        "text": "Technology treated as neutral container",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": false
+      },
+      {
+        "text": "Open and evaluate context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Design shapes pathway and visibility The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-022",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Digital equals interactive for everyone”?",
+    "audio_prompt": "What is the main problem with this statement: “Digital equals interactive for everyone”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital equals interactive for everyone",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": true
+      },
+      {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": false
+      },
+      {
+        "text": "Open and evaluate context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Access and accessibility vary The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-023",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Search result snippet accepted as full text”?",
+    "audio_prompt": "Which correction avoids the misconception in “Search result snippet accepted as full text”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Search result snippet accepted as full text",
+        "is_correct": false
+      },
+      {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": false
+      },
+      {
+        "text": "Open and evaluate context",
+        "is_correct": true
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Open and evaluate context The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-024",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Tool feature replaces authorship decisions.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Tool feature replaces authorship decisions.” Which response is better supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -298,26 +985,699 @@
         "is_correct": false
       },
       {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": false
+      },
+      {
         "text": "Creators remain responsible for meaning and sources",
-        "is_correct": false
-      },
-      {
-        "text": "Action or possibility enabled by a tool or mode",
-        "is_correct": false
-      },
-      {
-        "text": "Technology changes available modes, navigation, speed, collaboration and distribution, while interfaces and algorithms also influence attention, access and authority.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Technology changes available modes, navigation, speed, collaboration and distribution, while interfaces and algorithms also influence attention, access and authority.",
-      "hint": "Creators remain responsible for meaning and sources."
+      "summary": "Creators remain responsible for meaning and sources The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-025",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Technology treated as neutral container” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Technology treated as neutral container” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": true
+      },
+      {
+        "text": "Technology treated as neutral container",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": false
+      },
+      {
+        "text": "Open and evaluate context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Design shapes pathway and visibility The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-026",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "A claim says, “Digital equals interactive for everyone.” Which response makes the most accurate distinction?",
+    "audio_prompt": "A claim says, “Digital equals interactive for everyone.” Which response makes the most accurate distinction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital equals interactive for everyone",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": true
+      },
+      {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": false
+      },
+      {
+        "text": "Open and evaluate context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Access and accessibility vary The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-027",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "What is the main problem with this statement: “Search result snippet accepted as full text”?",
+    "audio_prompt": "What is the main problem with this statement: “Search result snippet accepted as full text”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Search result snippet accepted as full text",
+        "is_correct": false
+      },
+      {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": false
+      },
+      {
+        "text": "Open and evaluate context",
+        "is_correct": true
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Open and evaluate context The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-028",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which correction avoids the misconception in “Tool feature replaces authorship decisions”?",
+    "audio_prompt": "Which correction avoids the misconception in “Tool feature replaces authorship decisions”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Tool feature replaces authorship decisions",
+        "is_correct": false
+      },
+      {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": false
+      },
+      {
+        "text": "Creators remain responsible for meaning and sources",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Creators remain responsible for meaning and sources The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-029",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Two readers disagree about “Technology treated as neutral container.” Which response is better supported?",
+    "audio_prompt": "Two readers disagree about “Technology treated as neutral container.” Which response is better supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": true
+      },
+      {
+        "text": "Technology treated as neutral container",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": false
+      },
+      {
+        "text": "Open and evaluate context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Design shapes pathway and visibility The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-030",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "discriminate_misconception",
+    "question": "Which idea should replace “Digital equals interactive for everyone” so the analysis stays accurate?",
+    "audio_prompt": "Which idea should replace “Digital equals interactive for everyone” so the analysis stays accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital equals interactive for everyone",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": true
+      },
+      {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": false
+      },
+      {
+        "text": "Open and evaluate context",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Access and accessibility vary The original statement is too broad, incomplete or inaccurate.",
+      "hint": "Look for the answer that keeps important qualifications instead of turning a useful pattern into an absolute rule."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-031",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "technology_reading_and_text_creation",
+    "question": "A class debate needs a concise example of Technology, Reading and Text Creation. Which choice best fits?",
+    "audio_prompt": "A class debate needs a concise example of Technology, Reading and Text Creation. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Technology treated as neutral container",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name technology without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-032",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a environmental campaign, someone writes, “Digital equals interactive for everyone.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a environmental campaign, someone writes, “Digital equals interactive for everyone.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital equals interactive for everyone",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Access and accessibility vary The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-033",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "webpage",
+    "question": "A excursion briefing includes “links, search, rapid update.” Which analysis is strongest?",
+    "audio_prompt": "A excursion briefing includes “links, search, rapid update.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Distraction, unstable content, tracking",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of webpage.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Distraction, unstable content, tracking",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-034",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "interaction",
+    "question": "Which interpretation of “comment, share, annotate” would be most useful in a book-club discussion?",
+    "audio_prompt": "Which interpretation of “comment, share, annotate” would be most useful in a book-club discussion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that Interaction always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+        "is_correct": true
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-035",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "interface",
+    "question": "A school website uses the idea “designed point of interaction between user and system.” Which term would make the analysis most precise?",
+    "audio_prompt": "A school website uses the idea “designed point of interaction between user and system.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "affordance",
+        "is_correct": false
+      },
+      {
+        "text": "algorithmic selection",
+        "is_correct": false
+      },
+      {
+        "text": "interface",
+        "is_correct": true
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Interface is the precise term for designed point of interaction between user and system.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-036",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "technology_reading_and_text_creation",
+    "question": "A arts festival program needs a concise example of Technology, Reading and Text Creation. Which choice best fits?",
+    "audio_prompt": "A arts festival program needs a concise example of Technology, Reading and Text Creation. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital equals interactive for everyone",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name ebook/audio without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-037",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "revision",
+    "question": "In a peer feedback session, someone writes, “Search result snippet accepted as full text.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "In a peer feedback session, someone writes, “Search result snippet accepted as full text.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Open and evaluate context",
+        "is_correct": true
+      },
+      {
+        "text": "Search result snippet accepted as full text",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Open and evaluate context The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-038",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "printed_book",
+    "question": "A technology showcase includes “stable sequence, annotation, sustained layout.” Which analysis is strongest?",
+    "audio_prompt": "A technology showcase includes “stable sequence, annotation, sustained layout.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of printed book.",
+        "is_correct": false
+      },
+      {
+        "text": "Limited search and update",
+        "is_correct": true
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Limited search and update",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-039",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "attention",
+    "question": "Which interpretation of “headline, thumbnail, notification” would be most useful in a canteen survey?",
+    "audio_prompt": "Which interpretation of “headline, thumbnail, notification” would be most useful in a canteen survey?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that Attention always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+        "is_correct": true
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-p-040",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "affordance",
+    "question": "A school assembly speech uses the idea “action or possibility enabled by a tool or mode.” Which term would make the analysis most precise?",
+    "audio_prompt": "A school assembly speech uses the idea “action or possibility enabled by a tool or mode.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "interface",
+        "is_correct": false
+      },
+      {
+        "text": "algorithmic selection",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "affordance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Affordance is the precise term for action or possibility enabled by a tool or mode.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-t-001",
@@ -325,36 +1685,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "explain_algorithmic_selection",
-    "question": "A Year 7 student is working with a text and needs to use explain algorithmic selection. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use explain algorithmic selection. Which option best demonstrates the skill?",
+    "skill": "printed_book",
+    "question": "A youth radio interview includes “stable sequence, annotation, sustained layout.” Which analysis is strongest?",
+    "audio_prompt": "A youth radio interview includes “stable sequence, annotation, sustained layout.” Which analysis is strongest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+        "text": "It is important only because it is an example of printed book.",
+        "is_correct": false
+      },
+      {
+        "text": "Limited search and update",
         "is_correct": true
       },
       {
-        "text": "Technology treated as neutral container",
+        "text": "Its effect is guaranteed no matter who the audience is.",
         "is_correct": false
       },
       {
-        "text": "Design shapes pathway and visibility",
-        "is_correct": false
-      },
-      {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "It should be judged only by whether the reader personally likes it.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
-      "hint": "Design shapes pathway and visibility."
-    }
+      "summary": "The strongest analysis connects the evidence to its function: Limited search and update",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-t-002",
@@ -362,36 +1726,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "evaluate_collaborative_authorship",
-    "question": "A Year 7 student is working with a text and needs to use evaluate collaborative authorship. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use evaluate collaborative authorship. Which option best demonstrates the skill?",
+    "skill": "attention",
+    "question": "Read the new context carefully. Which interpretation of “headline, thumbnail, notification” would be most useful in a coastal restoration article?",
+    "audio_prompt": "Read the new context carefully. Which interpretation of “headline, thumbnail, notification” would be most useful in a coastal restoration article?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Digital equals interactive for everyone",
+        "text": "It proves that Attention always has one fixed effect.",
         "is_correct": false
       },
       {
-        "text": "Do not assume newer is automatically better. Evaluate the task, audience, accessibility, evidence and control over the text.",
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
         "is_correct": true
       },
       {
-        "text": "Access and accessibility vary",
-        "is_correct": false
-      },
-      {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "It is automatically better because it sounds more formal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Do not assume newer is automatically better. Evaluate the task, audience, accessibility, evidence and control over the text.",
-      "hint": "Access and accessibility vary."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-t-003",
@@ -399,36 +1767,40 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "compare_print_digital",
-    "question": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
+    "skill": "affordance",
+    "question": "Which answer is best supported in this new situation? A public transport campaign uses the idea “action or possibility enabled by a tool or mode.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which answer is best supported in this new situation? A public transport campaign uses the idea “action or possibility enabled by a tool or mode.” Which term would make the analysis most precise?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Search result snippet accepted as full text",
+        "text": "interface",
         "is_correct": false
       },
       {
-        "text": "Open and evaluate context",
+        "text": "algorithmic selection",
         "is_correct": false
       },
       {
-        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature.",
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      },
+      {
+        "text": "affordance",
         "is_correct": true
-      },
-      {
-        "text": "Action or possibility enabled by a tool or mode",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature.",
-      "hint": "Open and evaluate context."
-    }
+      "summary": "Affordance is the precise term for action or possibility enabled by a tool or mode.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v4"
   },
   {
     "id": "ac9e7ly01-t-004",
@@ -436,46 +1808,9 @@
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "analyse_interface_pathway",
-    "question": "A Year 7 student is working with a text and needs to use analyse interface pathway. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use analyse interface pathway. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Tool feature replaces authorship decisions",
-        "is_correct": false
-      },
-      {
-        "text": "Creators remain responsible for meaning and sources",
-        "is_correct": false
-      },
-      {
-        "text": "Action or possibility enabled by a tool or mode",
-        "is_correct": false
-      },
-      {
-        "text": "Technology changes available modes, navigation, speed, collaboration and distribution, while interfaces and algorithms also influence attention, access and authority.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Technology changes available modes, navigation, speed, collaboration and distribution, while interfaces and algorithms also influence attention, access and authority.",
-      "hint": "Creators remain responsible for meaning and sources."
-    }
-  },
-  {
-    "id": "ac9e7ly01-t-005",
-    "curriculum_code": "AC9E7LY01",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "identify_accessibility_issue",
-    "question": "What should be checked when applying identify accessibility issue in technology, reading and text creation?",
-    "audio_prompt": "What should be checked when applying identify accessibility issue in technology, reading and text creation?",
+    "skill": "technology_reading_and_text_creation",
+    "question": "Use the evidence in this regional museum audio guide. A regional museum audio guide needs a concise example of Technology, Reading and Text Creation. Which choice best fits?",
+    "audio_prompt": "Use the evidence in this regional museum audio guide. A regional museum audio guide needs a concise example of Technology, Reading and Text Creation. Which choice best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -486,107 +1821,37 @@
         "is_correct": true
       },
       {
-        "text": "Technology treated as neutral container",
+        "text": "Search result snippet accepted as full text",
         "is_correct": false
       },
       {
-        "text": "Design shapes pathway and visibility",
+        "text": "Simply name video platform without showing it in context.",
         "is_correct": false
       },
       {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "Use a broad claim that ignores audience and purpose.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
-      "hint": "Design shapes pathway and visibility."
-    }
-  },
-  {
-    "id": "ac9e7ly01-t-006",
-    "curriculum_code": "AC9E7LY01",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "explain_algorithmic_selection",
-    "question": "Which response best uses explain algorithmic selection in technology, reading and text creation?",
-    "audio_prompt": "Which response best uses explain algorithmic selection in technology, reading and text creation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "The strongest choice demonstrates the concept itself: A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
     },
-    "answers": [
-      {
-        "text": "Digital equals interactive for everyone",
-        "is_correct": false
-      },
-      {
-        "text": "Do not assume newer is automatically better. Evaluate the task, audience, accessibility, evidence and control over the text.",
-        "is_correct": true
-      },
-      {
-        "text": "Access and accessibility vary",
-        "is_correct": false
-      },
-      {
-        "text": "Action or possibility enabled by a tool or mode",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Do not assume newer is automatically better. Evaluate the task, audience, accessibility, evidence and control over the text.",
-      "hint": "Access and accessibility vary."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v4"
   },
   {
-    "id": "ac9e7ly01-t-007",
+    "id": "ac9e7ly01-t-005",
     "curriculum_code": "AC9E7LY01",
     "year_level": "Year 7",
     "subject": "english",
     "bank": "test",
-    "skill": "evaluate_collaborative_authorship",
-    "question": "A Year 7 student is working with a text and needs to use evaluate collaborative authorship. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use evaluate collaborative authorship. Which option best demonstrates the skill?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Search result snippet accepted as full text",
-        "is_correct": false
-      },
-      {
-        "text": "Open and evaluate context",
-        "is_correct": false
-      },
-      {
-        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature.",
-        "is_correct": true
-      },
-      {
-        "text": "Action or possibility enabled by a tool or mode",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature.",
-      "hint": "Open and evaluate context."
-    }
-  },
-  {
-    "id": "ac9e7ly01-t-008",
-    "curriculum_code": "AC9E7LY01",
-    "year_level": "Year 7",
-    "subject": "english",
-    "bank": "test",
-    "skill": "compare_print_digital",
-    "question": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
-    "audio_prompt": "A Year 7 student is working with a text and needs to use compare print digital. Which option best demonstrates the skill?",
+    "skill": "revision",
+    "question": "Choose the most precise analysis for this unfamiliar example. In a wildlife rescue webpage, someone writes, “Tool feature replaces authorship decisions.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. In a wildlife rescue webpage, someone writes, “Tool feature replaces authorship decisions.” Which revision would make the analysis more accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -598,21 +1863,476 @@
       },
       {
         "text": "Creators remain responsible for meaning and sources",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
         "is_correct": false
       },
       {
-        "text": "Action or possibility enabled by a tool or mode",
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Creators remain responsible for meaning and sources The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-006",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "technology",
+    "question": "Which response would hold up under close reading? A local council consultation includes “affordance.” Which analysis is strongest?",
+    "audio_prompt": "Which response would hold up under close reading? A local council consultation includes “affordance.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of technology.",
         "is_correct": false
       },
       {
-        "text": "Technology changes available modes, navigation, speed, collaboration and distribution, while interfaces and algorithms also influence attention, access and authority.",
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "Constraint/risk",
+        "is_correct": true
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Constraint/risk",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-007",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "archive",
+    "question": "What is the strongest conclusion from the wording given? Which interpretation of “version, deletion and persistence” would be most useful in a heritage trail brochure?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? Which interpretation of “version, deletion and persistence” would be most useful in a heritage trail brochure?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves that Archive always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      },
+      {
+        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "Technology changes available modes, navigation, speed, collaboration and distribution, while interfaces and algorithms also influence attention, access and authority.",
-      "hint": "Creators remain responsible for meaning and sources."
-    }
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-008",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "algorithmic_selection",
+    "question": "Which choice uses the concept without overgeneralising? A community theatre review uses the idea “automated ordering or recommendation of content.” Which term would make the analysis most precise?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A community theatre review uses the idea “automated ordering or recommendation of content.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "algorithmic selection",
+        "is_correct": true
+      },
+      {
+        "text": "affordance",
+        "is_correct": false
+      },
+      {
+        "text": "interface",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Algorithmic selection is the precise term for automated ordering or recommendation of content.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-009",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "technology_reading_and_text_creation",
+    "question": "A water-quality report needs a concise example of Technology, Reading and Text Creation. Which choice best fits?",
+    "audio_prompt": "A water-quality report needs a concise example of Technology, Reading and Text Creation. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Tool feature replaces authorship decisions",
+        "is_correct": false
+      },
+      {
+        "text": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+        "is_correct": true
+      },
+      {
+        "text": "Simply name collaborative document without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-010",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "Read the new context carefully. In a regional sports commentary, someone writes, “Technology treated as neutral container.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "Read the new context carefully. In a regional sports commentary, someone writes, “Technology treated as neutral container.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Technology treated as neutral container",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Design shapes pathway and visibility",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Design shapes pathway and visibility The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-011",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "ebook_audio",
+    "question": "Which answer is best supported in this new situation? A astronomy exhibition includes “search, resize, read-aloud.” Which analysis is strongest?",
+    "audio_prompt": "Which answer is best supported in this new situation? A astronomy exhibition includes “search, resize, read-aloud.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It is important only because it is an example of ebook/audio.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      },
+      {
+        "text": "Device access and platform dependence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Device access and platform dependence",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-012",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "creation",
+    "question": "Use the evidence in this farmers market profile. Which interpretation of “templates, editing and media tools” would be most useful in a farmers market profile?",
+    "audio_prompt": "Use the evidence in this farmers market profile. Which interpretation of “templates, editing and media tools” would be most useful in a farmers market profile?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Current technologies can change quickly, so durable analysis focuses on functions and effects rather than one temporary platform feature",
+        "is_correct": true
+      },
+      {
+        "text": "It proves that Creation always has one fixed effect.",
+        "is_correct": false
+      },
+      {
+        "text": "It can be analysed without referring to the actual wording.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically better because it sounds more formal.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The interpretation uses the specific evidence and keeps the effect tied to context.",
+      "hint": "Avoid automatic rules; explain what this example does here."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-013",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "interface",
+    "question": "Choose the most precise analysis for this unfamiliar example. A emergency-preparedness video uses the idea “designed point of interaction between user and system.” Which term would make the analysis most precise?",
+    "audio_prompt": "Choose the most precise analysis for this unfamiliar example. A emergency-preparedness video uses the idea “designed point of interaction between user and system.” Which term would make the analysis most precise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "affordance",
+        "is_correct": false
+      },
+      {
+        "text": "interface",
+        "is_correct": true
+      },
+      {
+        "text": "algorithmic selection",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broader claim than the evidence supports.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Interface is the precise term for designed point of interaction between user and system.",
+      "hint": "Select the term that matches the whole definition and then check it against the context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-014",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "technology_reading_and_text_creation",
+    "question": "Which response would hold up under close reading? A cycling safety infographic needs a concise example of Technology, Reading and Text Creation. Which choice best fits?",
+    "audio_prompt": "Which response would hold up under close reading? A cycling safety infographic needs a concise example of Technology, Reading and Text Creation. Which choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Technology treated as neutral container",
+        "is_correct": false
+      },
+      {
+        "text": "Simply name webpage without showing it in context.",
+        "is_correct": false
+      },
+      {
+        "text": "A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+        "is_correct": true
+      },
+      {
+        "text": "Use a broad claim that ignores audience and purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The strongest choice demonstrates the concept itself: A webpage enables non-linear navigation, but links and recommendations influence which evidence users encounter",
+      "hint": "Choose the option that actually applies the idea rather than merely naming it."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-015",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "revision",
+    "question": "What is the strongest conclusion from the wording given? In a river-health podcast, someone writes, “Digital equals interactive for everyone.” Which revision would make the analysis more accurate?",
+    "audio_prompt": "What is the strongest conclusion from the wording given? In a river-health podcast, someone writes, “Digital equals interactive for everyone.” Which revision would make the analysis more accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Digital equals interactive for everyone",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the claim but add “always” to make it sound certain.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the evidence and replace it with a personal preference.",
+        "is_correct": false
+      },
+      {
+        "text": "Access and accessibility vary",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Access and accessibility vary The revision fixes the misconception without losing the useful part of the original idea.",
+      "hint": "Prefer qualified, evidence-based wording over an absolute claim."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v4"
+  },
+  {
+    "id": "ac9e7ly01-t-016",
+    "curriculum_code": "AC9E7LY01",
+    "year_level": "Year 7",
+    "subject": "english",
+    "bank": "test",
+    "skill": "video_platform",
+    "question": "Which choice uses the concept without overgeneralising? A town festival website includes “sound, movement, captions, wide reach.” Which analysis is strongest?",
+    "audio_prompt": "Which choice uses the concept without overgeneralising? A town festival website includes “sound, movement, captions, wide reach.” Which analysis is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Algorithmic selection and context loss",
+        "is_correct": true
+      },
+      {
+        "text": "It is important only because it is an example of video platform.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effect is guaranteed no matter who the audience is.",
+        "is_correct": false
+      },
+      {
+        "text": "It should be judged only by whether the reader personally likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The strongest analysis connects the evidence to its function: Algorithmic selection and context loss",
+      "hint": "Use a feature → evidence → effect chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "test",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v4"
   }
 ]
