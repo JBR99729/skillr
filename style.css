@@ -4075,3 +4075,21 @@ pre { overflow-x: auto; }
 .sitemap-section a { overflow-wrap:anywhere; }
 @media (max-width:900px) { .sitemap-directory { grid-template-columns:repeat(2,minmax(0,1fr)); } }
 @media (max-width:600px) { .sitemap-directory { grid-template-columns:1fr; } .sitemap-hero { margin-top:14px; } }
+
+/* Keep worksheet paper readable on white screen, print and PDF backgrounds. */
+.quiz-app .worksheet-paper,
+.quiz-app .worksheet-paper .worksheet-question,
+.quiz-app .worksheet-paper .question-prompt,
+.quiz-app .worksheet-paper .worksheet-options span,
+.quiz-app .worksheet-paper .match-grid p,
+.quiz-app .worksheet-paper .fill-template,
+.quiz-app .worksheet-paper .response-lines,
+.worksheet-paper,
+.worksheet-paper .worksheet-question,
+.worksheet-paper .question-prompt,
+.worksheet-paper .worksheet-options span,
+.worksheet-paper .match-grid p,
+.worksheet-paper .fill-template,
+.worksheet-paper .response-lines {
+    color: #203047 !important;
+}
