@@ -4,466 +4,512 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-001",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "In the garden design, which statement clearly identifies the need?",
-    "audioPrompt": "In the garden design, which statement clearly identifies the need?",
-    "visual": "In the garden design: design decision display showing [\"need: help seedlings grow\",\"solution: self-watering planter\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden design: design decision display showing [&quot;need: help seedlings grow&quot;,&quot;solution: self-watering planter&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-001\"></use></svg>",
+    "question": "A bushwalking shelter should reduce direct summer sun. Which idea is most relevant?",
+    "audioPrompt": "A bushwalking shelter should reduce direct summer sun. Which idea is most relevant?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-001",
-      "alt_text": "In the garden design: design decision display showing [\"need: help seedlings grow\",\"solution: self-watering planter\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The design should be blue",
-      "People need to help seedlings grow",
-      "Every solution is already perfect"
+      "Sunlight cannot heat objects",
+      "Roof colour is the only factor",
+      "Shade blocks some incoming solar energy",
+      "Shelters create cold"
     ],
-    "correct": 1,
-    "explanation": "A design process begins with a clearly described need or problem.\nHint: State what people require, not what the object should look like.",
+    "correct": 2,
+    "explanation": "Shade reduces direct solar heating.\nHint: What does the roof block?",
     "structuredExplanation": {
-      "summary": "A design process begins with a clearly described need or problem.",
-      "hint": "State what people require, not what the object should look like."
+      "summary": "Shade reduces direct solar heating.",
+      "hint": "What does the roof block?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-002",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "In the garden design, how does the self-watering planter use science to meet the need?",
-    "audioPrompt": "In the garden design, how does the self-watering planter use science to meet the need?",
-    "visual": "In the garden design: design decision display showing [\"scientific idea\",\"self-watering planter\",\"test\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden design: design decision display showing [&quot;scientific idea&quot;,&quot;self-watering planter&quot;,&quot;test&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-002\"></use></svg>",
+    "question": "A compost bin needs airflow. Which feature helps most?",
+    "audioPrompt": "A compost bin needs airflow. Which feature helps most?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-002",
-      "alt_text": "In the garden design: design decision display showing [\"scientific idea\",\"self-watering planter\",\"test\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Its name guarantees success",
-      "It is chosen only because it looks attractive",
-      "Its design uses relevant scientific ideas and can be tested"
+      "A sticker",
+      "Ventilation openings",
+      "A green lid",
+      "A bigger label"
     ],
-    "correct": 2,
-    "explanation": "Science informs a solution when explanations guide a testable design.\nHint: Connect a scientific property or process to the need.",
+    "correct": 1,
+    "explanation": "Openings allow air exchange.\nHint: What changes airflow?",
     "structuredExplanation": {
-      "summary": "Science informs a solution when explanations guide a testable design.",
-      "hint": "Connect a scientific property or process to the need."
+      "summary": "Openings allow air exchange.",
+      "hint": "What changes airflow?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-003",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "In the garden design, which is a measurable success criterion?",
-    "audioPrompt": "In the garden design, which is a measurable success criterion?",
-    "visual": "In the garden design: design decision display showing [[\"criterion\",\"keeps soil moist for a school day\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden design: design decision display showing [[&quot;criterion&quot;,&quot;keeps soil moist for a school day&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-003\"></use></svg>",
+    "question": "A footpath surface becomes very hot. What evidence best compares replacements?",
+    "audioPrompt": "A footpath surface becomes very hot. What evidence best compares replacements?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-003",
-      "alt_text": "In the garden design: design decision display showing [[\"criterion\",\"keeps soil moist for a school day\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "keeps soil moist for a school day",
-      "looks best to everyone",
-      "is completely perfect"
+      "Surface temperatures under the same sunlight",
+      "Which looks newest",
+      "Which name is shortest",
+      "Which colour is popular"
     ],
     "correct": 0,
-    "explanation": "A measurable criterion allows evidence-based evaluation.\nHint: Choose the condition that can be measured with a number or clear check.",
+    "explanation": "Temperature directly tests the heat problem.\nHint: Measure the relevant outcome.",
     "structuredExplanation": {
-      "summary": "A measurable criterion allows evidence-based evaluation.",
-      "hint": "Choose the condition that can be measured with a number or clear check."
+      "summary": "Temperature directly tests the heat problem.",
+      "hint": "Measure the relevant outcome."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-004",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "In the garden design, what should designers do after making the first self-watering planter?",
-    "audioPrompt": "In the garden design, what should designers do after making the first self-watering planter?",
-    "visual": "In the garden design: design decision display showing [\"design\",\"test\",\"evaluate\",\"improve\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden design: design decision display showing [&quot;design&quot;,&quot;test&quot;,&quot;evaluate&quot;,&quot;improve&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-004\"></use></svg>",
+    "question": "Why might a rescue blanket have a reflective surface?",
+    "audioPrompt": "Why might a rescue blanket have a reflective surface?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-004",
-      "alt_text": "In the garden design: design decision display showing [\"design\",\"test\",\"evaluate\",\"improve\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Declare it perfect without testing",
-      "Test it against the criteria and use data to improve it",
-      "Change the need to match the design"
+      "It makes new body heat",
+      "It increases body mass",
+      "Shiny materials are always waterproof",
+      "It can reduce some heat transfer by reflecting radiation"
     ],
-    "correct": 1,
-    "explanation": "Testing provides evidence for judging and improving a solution.\nHint: Compare test results with the agreed criteria.",
+    "correct": 3,
+    "explanation": "Reflective surfaces can reduce radiative heat transfer.\nHint: Think heat loss.",
     "structuredExplanation": {
-      "summary": "Testing provides evidence for judging and improving a solution.",
-      "hint": "Compare test results with the agreed criteria."
+      "summary": "Reflective surfaces can reduce radiative heat transfer.",
+      "hint": "Think heat loss."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-005",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "In the garden design, two designs both meet the main need. How should the class choose?",
-    "audioPrompt": "In the garden design, two designs both meet the main need. How should the class choose?",
-    "visual": "In the garden design: design decision display showing [\"performance\",\"safety\",\"cost\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden design: design decision display showing [&quot;performance&quot;,&quot;safety&quot;,&quot;cost&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-005\"></use></svg>",
+    "question": "A new filter is being tested. What result best shows it meets the need?",
+    "audioPrompt": "A new filter is being tested. What result best shows it meets the need?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-005",
-      "alt_text": "In the garden design: design decision display showing [\"performance\",\"safety\",\"cost\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Choose the brightest colour only",
-      "Ignore the test results",
-      "Compare how well each meets all agreed criteria"
+      "The filter is expensive",
+      "The filter name is long",
+      "Cleaner water after passing through the filter under the tested conditions",
+      "The filter has a bright colour"
     ],
     "correct": 2,
-    "explanation": "Several criteria can be weighed when evaluating solutions.\nHint: Use the results table for every important criterion.",
+    "explanation": "Performance evidence should match the need.\nHint: What changed in the water?",
     "structuredExplanation": {
-      "summary": "Several criteria can be weighed when evaluating solutions.",
-      "hint": "Use the results table for every important criterion."
+      "summary": "Performance evidence should match the need.",
+      "hint": "What changed in the water?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-006",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "In the garden design, which evidence best shows that the self-watering planter works?",
-    "audioPrompt": "In the garden design, which evidence best shows that the self-watering planter works?",
-    "visual": "In the garden design: design decision display showing [\"keeps soil moist for a school day\",\"fair test\",\"result\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden design: design decision display showing [&quot;keeps soil moist for a school day&quot;,&quot;fair test&quot;,&quot;result&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-006\"></use></svg>",
+    "question": "Why test a prototype?",
+    "audioPrompt": "Why test a prototype?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-006",
-      "alt_text": "In the garden design: design decision display showing [\"keeps soil moist for a school day\",\"fair test\",\"result\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Results from a fair test linked to the criterion",
-      "A claim printed on its label",
-      "One person's guess before testing"
+      "Because designs cannot change",
+      "To find problems and improve the design before wider use",
+      "To prove perfection",
+      "To avoid evidence"
     ],
-    "correct": 0,
-    "explanation": "Test data tied to the need are stronger than claims or preferences.\nHint: Look for measured performance under fair conditions.",
+    "correct": 1,
+    "explanation": "Prototype testing supports revision.\nHint: Test before finalising.",
     "structuredExplanation": {
-      "summary": "Test data tied to the need are stronger than claims or preferences.",
-      "hint": "Look for measured performance under fair conditions."
+      "summary": "Prototype testing supports revision.",
+      "hint": "Test before finalising."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-007",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "In the garden design, a test shows one criterion is not met. What is the best next step?",
-    "audioPrompt": "In the garden design, a test shows one criterion is not met. What is the best next step?",
-    "visual": "In the garden design: design decision display showing [\"result\",\"improve\",\"retest\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden design: design decision display showing [&quot;result&quot;,&quot;improve&quot;,&quot;retest&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-007\"></use></svg>",
+    "question": "A lunch container must keep food warm. Which property matters most?",
+    "audioPrompt": "A lunch container must keep food warm. Which property matters most?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-007",
-      "alt_text": "In the garden design: design decision display showing [\"result\",\"improve\",\"retest\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Hide the result",
-      "Improve the design and test it again",
-      "Stop using criteria"
+      "Ability to slow heat transfer",
+      "Bright colour",
+      "Large logo",
+      "Loud lid"
     ],
-    "correct": 1,
-    "explanation": "Evidence can identify a specific part of a solution to improve.\nHint: Use the failed criterion to guide the change.",
+    "correct": 0,
+    "explanation": "Insulation supports temperature control.\nHint: Think heat transfer.",
     "structuredExplanation": {
-      "summary": "Evidence can identify a specific part of a solution to improve.",
-      "hint": "Use the failed criterion to guide the change."
+      "summary": "Insulation supports temperature control.",
+      "hint": "Think heat transfer."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-008",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "In the garden design, why might people choose different solutions to the same need?",
-    "audioPrompt": "In the garden design, why might people choose different solutions to the same need?",
-    "visual": "In the garden design: design decision display showing [\"cost\",\"safety\",\"performance\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the garden design: design decision display showing [&quot;cost&quot;,&quot;safety&quot;,&quot;performance&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-008\"></use></svg>",
+    "question": "A garden path erodes in rain. Which solution is most relevant?",
+    "audioPrompt": "A garden path erodes in rain. Which solution is most relevant?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-008",
-      "alt_text": "In the garden design: design decision display showing [\"cost\",\"safety\",\"performance\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Science allows no comparisons",
-      "A solution never has trade-offs",
-      "They may give different importance to cost, safety and performance"
+      "Add more signs",
+      "Change the path name",
+      "Paint nearby fences",
+      "Improve drainage and protect exposed soil"
     ],
-    "correct": 2,
-    "explanation": "Solutions can meet criteria to different degrees.\nHint: Compare strengths and limits across several criteria.",
+    "correct": 3,
+    "explanation": "Drainage and ground protection address erosion.\nHint: Tackle soil movement.",
     "structuredExplanation": {
-      "summary": "Solutions can meet criteria to different degrees.",
-      "hint": "Compare strengths and limits across several criteria."
+      "summary": "Drainage and ground protection address erosion.",
+      "hint": "Tackle soil movement."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-009",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "At the cooling project, which statement clearly identifies the need?",
-    "audioPrompt": "At the cooling project, which statement clearly identifies the need?",
-    "visual": "At the cooling project: design decision display showing [\"need: keep a drink warm\",\"solution: insulated cup\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the cooling project: design decision display showing [&quot;need: keep a drink warm&quot;,&quot;solution: insulated cup&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-009\"></use></svg>",
+    "question": "Which statement evaluates a solution carefully?",
+    "audioPrompt": "Which statement evaluates a solution carefully?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-009",
-      "alt_text": "At the cooling project: design decision display showing [\"need: keep a drink warm\",\"solution: insulated cup\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "People need to keep a drink warm",
-      "The design should be blue",
-      "Every solution is already perfect"
+      "It looks strong, so no test is needed",
+      "Everyone liked it, so science proves it works",
+      "It reduced temperature by 5°C in our test, so it met the cooling need better under these conditions",
+      "It worked once, so it is perfect"
     ],
-    "correct": 0,
-    "explanation": "A design process begins with a clearly described need or problem.\nHint: State what people require, not what the object should look like.",
+    "correct": 2,
+    "explanation": "The first statement uses evidence and limits the claim.\nHint: Evidence + conditions.",
     "structuredExplanation": {
-      "summary": "A design process begins with a clearly described need or problem.",
-      "hint": "State what people require, not what the object should look like."
+      "summary": "The first statement uses evidence and limits the claim.",
+      "hint": "Evidence + conditions."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-010",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "At the cooling project, how does the insulated cup use science to meet the need?",
-    "audioPrompt": "At the cooling project, how does the insulated cup use science to meet the need?",
-    "visual": "At the cooling project: design decision display showing [\"scientific idea\",\"insulated cup\",\"test\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the cooling project: design decision display showing [&quot;scientific idea&quot;,&quot;insulated cup&quot;,&quot;test&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-010\"></use></svg>",
+    "question": "A design is strong but too heavy to carry. What does this show?",
+    "audioPrompt": "A design is strong but too heavy to carry. What does this show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-010",
-      "alt_text": "At the cooling project: design decision display showing [\"scientific idea\",\"insulated cup\",\"test\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Its name guarantees success",
-      "Its design uses relevant scientific ideas and can be tested",
-      "It is chosen only because it looks attractive"
+      "The design is automatically best",
+      "It meets one criterion but not the full need",
+      "Strength is useless",
+      "Weight never matters"
     ],
     "correct": 1,
-    "explanation": "Science informs a solution when explanations guide a testable design.\nHint: Connect a scientific property or process to the need.",
+    "explanation": "Real solutions often need to satisfy multiple criteria.\nHint: One success can coexist with one problem.",
     "structuredExplanation": {
-      "summary": "Science informs a solution when explanations guide a testable design.",
-      "hint": "Connect a scientific property or process to the need."
+      "summary": "Real solutions often need to satisfy multiple criteria.",
+      "hint": "One success can coexist with one problem."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-011",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "At the cooling project, which is a measurable success criterion?",
-    "audioPrompt": "At the cooling project, which is a measurable success criterion?",
-    "visual": "At the cooling project: design decision display showing [[\"criterion\",\"loses less than 8 degrees Celsius in one hour\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the cooling project: design decision display showing [[&quot;criterion&quot;,&quot;loses less than 8 degrees Celsius in one hour&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-011\"></use></svg>",
+    "question": "Which solution best uses science to reduce glare?",
+    "audioPrompt": "Which solution best uses science to reduce glare?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-011",
-      "alt_text": "At the cooling project: design decision display showing [[\"criterion\",\"loses less than 8 degrees Celsius in one hour\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "looks best to everyone",
-      "is completely perfect",
-      "loses less than 8 degrees Celsius in one hour"
+      "Use a screen that blocks some incoming light",
+      "Add shiny surfaces",
+      "Use a louder fan",
+      "Change desk names"
     ],
-    "correct": 2,
-    "explanation": "A measurable criterion allows evidence-based evaluation.\nHint: Choose the condition that can be measured with a number or clear check.",
+    "correct": 0,
+    "explanation": "Reducing incoming light addresses glare.\nHint: Change the cause.",
     "structuredExplanation": {
-      "summary": "A measurable criterion allows evidence-based evaluation.",
-      "hint": "Choose the condition that can be measured with a number or clear check."
+      "summary": "Reducing incoming light addresses glare.",
+      "hint": "Change the cause."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-012",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "At the cooling project, what should designers do after making the first insulated cup?",
-    "audioPrompt": "At the cooling project, what should designers do after making the first insulated cup?",
-    "visual": "At the cooling project: design decision display showing [\"design\",\"test\",\"evaluate\",\"improve\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the cooling project: design decision display showing [&quot;design&quot;,&quot;test&quot;,&quot;evaluate&quot;,&quot;improve&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-012\"></use></svg>",
+    "question": "A water-saving device reduces flow too much to work properly. What should designers do?",
+    "audioPrompt": "A water-saving device reduces flow too much to work properly. What should designers do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-012",
-      "alt_text": "At the cooling project: design decision display showing [\"design\",\"test\",\"evaluate\",\"improve\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Test it against the criteria and use data to improve it",
-      "Declare it perfect without testing",
-      "Change the need to match the design"
+      "Keep it unchanged",
+      "Ignore the problem",
+      "Use more water without measuring",
+      "Adjust and retest to balance water saving with function"
     ],
-    "correct": 0,
-    "explanation": "Testing provides evidence for judging and improving a solution.\nHint: Compare test results with the agreed criteria.",
+    "correct": 3,
+    "explanation": "Design improvement balances criteria.\nHint: Test, revise, retest.",
     "structuredExplanation": {
-      "summary": "Testing provides evidence for judging and improving a solution.",
-      "hint": "Compare test results with the agreed criteria."
+      "summary": "Design improvement balances criteria.",
+      "hint": "Test, revise, retest."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-013",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "At the cooling project, two designs both meet the main need. How should the class choose?",
-    "audioPrompt": "At the cooling project, two designs both meet the main need. How should the class choose?",
-    "visual": "At the cooling project: design decision display showing [\"performance\",\"safety\",\"cost\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the cooling project: design decision display showing [&quot;performance&quot;,&quot;safety&quot;,&quot;cost&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-013\"></use></svg>",
+    "question": "Which is a need?",
+    "audioPrompt": "Which is a need?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-013",
-      "alt_text": "At the cooling project: design decision display showing [\"performance\",\"safety\",\"cost\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Choose the brightest colour only",
-      "Compare how well each meets all agreed criteria",
-      "Ignore the test results"
+      "Use a lid",
+      "Add a filter",
+      "Keep stored water free of leaves",
+      "Install mesh"
     ],
-    "correct": 1,
-    "explanation": "Several criteria can be weighed when evaluating solutions.\nHint: Use the results table for every important criterion.",
+    "correct": 2,
+    "explanation": "The need is the goal; the others are possible solutions.\nHint: Goal versus method.",
     "structuredExplanation": {
-      "summary": "Several criteria can be weighed when evaluating solutions.",
-      "hint": "Use the results table for every important criterion."
+      "summary": "The need is the goal; the others are possible solutions.",
+      "hint": "Goal versus method."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-014",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "At the cooling project, which evidence best shows that the insulated cup works?",
-    "audioPrompt": "At the cooling project, which evidence best shows that the insulated cup works?",
-    "visual": "At the cooling project: design decision display showing [\"loses less than 8 degrees Celsius in one hour\",\"fair test\",\"result\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the cooling project: design decision display showing [&quot;loses less than 8 degrees Celsius in one hour&quot;,&quot;fair test&quot;,&quot;result&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-014\"></use></svg>",
+    "question": "A reflective strip improves visibility only slightly. What is the best next step?",
+    "audioPrompt": "A reflective strip improves visibility only slightly. What is the best next step?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-014",
-      "alt_text": "At the cooling project: design decision display showing [\"loses less than 8 degrees Celsius in one hour\",\"fair test\",\"result\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A claim printed on its label",
-      "One person's guess before testing",
-      "Results from a fair test linked to the criterion"
+      "Choose by colour only",
+      "Try alternative reflective materials or placements and retest",
+      "Declare the problem solved",
+      "Remove all evidence"
     ],
-    "correct": 2,
-    "explanation": "Test data tied to the need are stronger than claims or preferences.\nHint: Look for measured performance under fair conditions.",
+    "correct": 1,
+    "explanation": "Weak performance is a reason to improve and retest.\nHint: Use evidence to revise.",
     "structuredExplanation": {
-      "summary": "Test data tied to the need are stronger than claims or preferences.",
-      "hint": "Look for measured performance under fair conditions."
+      "summary": "Weak performance is a reason to improve and retest.",
+      "hint": "Use evidence to revise."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-015",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "At the cooling project, a test shows one criterion is not met. What is the best next step?",
-    "audioPrompt": "At the cooling project, a test shows one criterion is not met. What is the best next step?",
-    "visual": "At the cooling project: design decision display showing [\"result\",\"improve\",\"retest\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the cooling project: design decision display showing [&quot;result&quot;,&quot;improve&quot;,&quot;retest&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-015\"></use></svg>",
+    "question": "Why should solutions be checked in real use?",
+    "audioPrompt": "Why should solutions be checked in real use?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-015",
-      "alt_text": "At the cooling project: design decision display showing [\"result\",\"improve\",\"retest\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Improve the design and test it again",
-      "Hide the result",
-      "Stop using criteria"
+      "Real conditions can reveal whether the solution actually works",
+      "Lab results guarantee everything",
+      "Testing weakens science",
+      "Installed solutions cannot change"
     ],
     "correct": 0,
-    "explanation": "Evidence can identify a specific part of a solution to improve.\nHint: Use the failed criterion to guide the change.",
+    "explanation": "Real-world evidence can expose new problems or confirm performance.\nHint: Did it work where needed?",
     "structuredExplanation": {
-      "summary": "Evidence can identify a specific part of a solution to improve.",
-      "hint": "Use the failed criterion to guide the change."
+      "summary": "Real-world evidence can expose new problems or confirm performance.",
+      "hint": "Did it work where needed?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3h02-t-016",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "Science Solves Needs and Problems",
+    "skill": "using scientific explanations to meet needs and solve problems",
     "printable": true,
     "type": "single",
-    "question": "At the cooling project, why might people choose different solutions to the same need?",
-    "audioPrompt": "At the cooling project, why might people choose different solutions to the same need?",
-    "visual": "At the cooling project: design decision display showing [\"cost\",\"safety\",\"performance\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the cooling project: design decision display showing [&quot;cost&quot;,&quot;safety&quot;,&quot;performance&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-016\"></use></svg>",
+    "question": "Which statement best captures scientific problem solving?",
+    "audioPrompt": "Which statement best captures scientific problem solving?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3h02.svg#ac9s3h02-t-016",
-      "alt_text": "At the cooling project: design decision display showing [\"cost\",\"safety\",\"performance\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Science allows no comparisons",
-      "They may give different importance to cost, safety and performance",
-      "A solution never has trade-offs"
+      "Pick the first idea and stop",
+      "Choose by appearance",
+      "Avoid measuring results",
+      "Define the need, apply relevant science, test a solution, use evidence to improve it"
     ],
-    "correct": 1,
-    "explanation": "Solutions can meet criteria to different degrees.\nHint: Compare strengths and limits across several criteria.",
+    "correct": 3,
+    "explanation": "Scientific problem solving is evidence-based and iterative.\nHint: Need → science → test → improve.",
     "structuredExplanation": {
-      "summary": "Solutions can meet criteria to different degrees.",
-      "hint": "Compare strengths and limits across several criteria."
+      "summary": "Scientific problem solving is evidence-based and iterative.",
+      "hint": "Need → science → test → improve."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

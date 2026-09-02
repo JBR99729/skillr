@@ -4,697 +4,1320 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3u01-p-001",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "In the school garden, which evidence best shows that the bean plant is living?",
-    "audioPrompt": "In the school garden, which evidence best shows that the bean plant is living?",
-    "visual": "In the school garden: living and non-living comparison showing [\"bean plant: grows and uses resources\",\"toy car: can move but does not grow\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school garden: living and non-living comparison showing [&quot;bean plant: grows and uses resources&quot;,&quot;toy car: can move but does not grow&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-001\"></use></svg>",
+    "question": "Which is a characteristic of living things?",
+    "audioPrompt": "Which is a characteristic of living things?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-001",
-      "alt_text": "In the school garden: living and non-living comparison showing [\"bean plant: grows and uses resources\",\"toy car: can move but does not grow\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It has a colour",
-      "It can be moved",
-      "It grows and needs resources"
+      "They grow and change over time",
+      "They are always green",
+      "They always move from place to place",
+      "They are all the same size"
     ],
-    "correct": 2,
-    "explanation": "Living things carry out life processes such as growing and using resources.\nHint: Look for a life process, not appearance or movement alone.",
+    "correct": 0,
+    "explanation": "Living things show life processes such as growth and change.\nHint: Look for a life process.",
     "structuredExplanation": {
-      "summary": "Living things carry out life processes such as growing and using resources.",
-      "hint": "Look for a life process, not appearance or movement alone."
+      "summary": "Living things show life processes such as growth and change.",
+      "hint": "Look for a life process."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-002",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "In the school garden, why is a toy car not classified as living?",
-    "audioPrompt": "In the school garden, why is a toy car not classified as living?",
-    "visual": "In the school garden: living and non-living comparison showing [\"toy car\",\"bean plant\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school garden: living and non-living comparison showing [&quot;toy car&quot;,&quot;bean plant&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-002\"></use></svg>",
+    "question": "Which object is non-living?",
+    "audioPrompt": "Which object is non-living?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-002",
-      "alt_text": "In the school garden: living and non-living comparison showing [\"toy car\",\"bean plant\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It does not carry out all life processes",
-      "It never moves",
-      "It has no parts"
+      "A worm",
+      "A seedling",
+      "A bird",
+      "A rock"
     ],
-    "correct": 0,
-    "explanation": "Movement or having parts does not by itself make something living.\nHint: Ask whether it grows, responds and reproduces through life processes.",
+    "correct": 3,
+    "explanation": "A rock does not carry out life processes.\nHint: Which one does not grow, reproduce or need resources?",
     "structuredExplanation": {
-      "summary": "Movement or having parts does not by itself make something living.",
-      "hint": "Ask whether it grows, responds and reproduces through life processes."
+      "summary": "A rock does not carry out life processes.",
+      "hint": "Which one does not grow, reproduce or need resources?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-003",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "In the school garden, which stage comes after the young stage called seedling?",
-    "audioPrompt": "In the school garden, which stage comes after the young stage called seedling?",
-    "visual": "In the school garden: living and non-living comparison showing [\"beginning\",\"seedling\",\"flowering bean plant\",\"reproduction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school garden: living and non-living comparison showing [&quot;beginning&quot;,&quot;seedling&quot;,&quot;flowering bean plant&quot;,&quot;reproduction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-003\"></use></svg>",
+    "question": "Which statement about movement is correct?",
+    "audioPrompt": "Which statement about movement is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-003",
-      "alt_text": "In the school garden: living and non-living comparison showing [\"beginning\",\"seedling\",\"flowering bean plant\",\"reproduction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "egg",
-      "flowering bean plant",
-      "seed"
+      "Living things must walk",
+      "Clouds are animals because they move",
+      "Movement alone does not prove something is living",
+      "Anything that moves is alive"
     ],
-    "correct": 1,
-    "explanation": "Life cycles have ordered stages of growth and development.\nHint: Follow the organism's cycle forward from its young stage.",
+    "correct": 2,
+    "explanation": "Non-living things such as cars and clouds can move too.\nHint: Movement is only one clue.",
     "structuredExplanation": {
-      "summary": "Life cycles have ordered stages of growth and development.",
-      "hint": "Follow the organism's cycle forward from its young stage."
+      "summary": "Non-living things such as cars and clouds can move too.",
+      "hint": "Movement is only one clue."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-004",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "In the school garden, which change is part of the bean plant's life cycle?",
-    "audioPrompt": "In the school garden, which change is part of the bean plant's life cycle?",
-    "visual": "In the school garden: living and non-living comparison showing [\"seedling\",\"growth\",\"flowering bean plant\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school garden: living and non-living comparison showing [&quot;seedling&quot;,&quot;growth&quot;,&quot;flowering bean plant&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-004\"></use></svg>",
+    "question": "Which stage comes after a seed germinates?",
+    "audioPrompt": "Which stage comes after a seed germinates?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-004",
-      "alt_text": "In the school garden: living and non-living comparison showing [\"seedling\",\"growth\",\"flowering bean plant\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It is shaped into a new object",
-      "It breaks into smaller pieces",
-      "It grows from a young stage into an adult"
+      "The life cycle stops",
+      "A seedling begins to grow",
+      "The seed becomes a rock",
+      "The plant becomes an egg"
     ],
-    "correct": 2,
-    "explanation": "Growth into an adult is a biological life-cycle change.\nHint: Choose the change caused by life processes.",
+    "correct": 1,
+    "explanation": "Germination is followed by seedling growth.\nHint: Think plant life cycle.",
     "structuredExplanation": {
-      "summary": "Growth into an adult is a biological life-cycle change.",
-      "hint": "Choose the change caused by life processes."
+      "summary": "Germination is followed by seedling growth.",
+      "hint": "Think plant life cycle."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-005",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "In the school garden, which pair should both be classified as living?",
-    "audioPrompt": "In the school garden, which pair should both be classified as living?",
-    "visual": "In the school garden: living and non-living comparison showing [\"bean plant\",\"grass plant\",\"toy car\",\"stone\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school garden: living and non-living comparison showing [&quot;bean plant&quot;,&quot;grass plant&quot;,&quot;toy car&quot;,&quot;stone&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-005\"></use></svg>",
+    "question": "Which sequence is an animal life cycle?",
+    "audioPrompt": "Which sequence is an animal life cycle?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-005",
-      "alt_text": "In the school garden: living and non-living comparison showing [\"bean plant\",\"grass plant\",\"toy car\",\"stone\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "bean plant and a grass plant",
-      "toy car and a stone",
-      "bean plant and toy car"
+      "Egg → chick → adult bird",
+      "Seed → seedling → tree",
+      "Rock → pebble → bird",
+      "Water → tadpole → flower"
     ],
     "correct": 0,
-    "explanation": "Both members of a living pair must carry out life processes.\nHint: Check each member of the pair separately.",
+    "explanation": "Egg, young bird and adult bird are stages in an animal life cycle.\nHint: Choose stages of one animal.",
     "structuredExplanation": {
-      "summary": "Both members of a living pair must carry out life processes.",
-      "hint": "Check each member of the pair separately."
+      "summary": "Egg, young bird and adult bird are stages in an animal life cycle.",
+      "hint": "Choose stages of one animal."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-006",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "In the school garden, a bean plant and an animal both have life cycles. What do both cycles include?",
-    "audioPrompt": "In the school garden, a bean plant and an animal both have life cycles. What do both cycles include?",
-    "visual": "In the school garden: living and non-living comparison showing [\"beginning\",\"young\",\"adult\",\"reproduction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school garden: living and non-living comparison showing [&quot;beginning&quot;,&quot;young&quot;,&quot;adult&quot;,&quot;reproduction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-006\"></use></svg>",
+    "question": "Which feature is shared by plants and animals?",
+    "audioPrompt": "Which feature is shared by plants and animals?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-006",
-      "alt_text": "In the school garden: living and non-living comparison showing [\"beginning\",\"young\",\"adult\",\"reproduction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Turning into rock",
-      "Growth and reproduction",
-      "Being built in a factory"
+      "Both hatch from eggs",
+      "Both have roots",
+      "Both can fly",
+      "Both grow during their life cycles"
     ],
-    "correct": 1,
-    "explanation": "Plant and animal cycles both include growth and reproduction.\nHint: Find the stages shared by living organisms.",
+    "correct": 3,
+    "explanation": "Plants and animals both grow and change.\nHint: Find the shared life process.",
     "structuredExplanation": {
-      "summary": "Plant and animal cycles both include growth and reproduction.",
-      "hint": "Find the stages shared by living organisms."
+      "summary": "Plants and animals both grow and change.",
+      "hint": "Find the shared life process."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-007",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "In the school garden, a toy car moves. What other evidence is needed before calling it living?",
-    "audioPrompt": "In the school garden, a toy car moves. What other evidence is needed before calling it living?",
-    "visual": "In the school garden: living and non-living comparison showing [\"toy car: moves\",\"living evidence: life processes\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school garden: living and non-living comparison showing [&quot;toy car: moves&quot;,&quot;living evidence: life processes&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-007\"></use></svg>",
+    "question": "A dry seed can look inactive. Why can it still be living?",
+    "audioPrompt": "A dry seed can look inactive. Why can it still be living?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-007",
-      "alt_text": "In the school garden: living and non-living comparison showing [\"toy car: moves\",\"living evidence: life processes\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Evidence that it is heavy",
-      "Evidence that people can see it",
-      "Evidence that it carries out life processes"
+      "It has wheels",
+      "It changes colour every minute",
+      "It can later germinate and grow under suitable conditions",
+      "It is always moving"
     ],
     "correct": 2,
-    "explanation": "Movement alone can be caused by wind, water, motors or people.\nHint: Look for growth, response and reproduction rather than movement alone.",
+    "explanation": "Some living things can be dormant and show little visible activity.\nHint: Can it later grow?",
     "structuredExplanation": {
-      "summary": "Movement alone can be caused by wind, water, motors or people.",
-      "hint": "Look for growth, response and reproduction rather than movement alone."
+      "summary": "Some living things can be dormant and show little visible activity.",
+      "hint": "Can it later grow?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-008",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "In the school garden, which statement correctly compares plant and animal life cycles?",
-    "audioPrompt": "In the school garden, which statement correctly compares plant and animal life cycles?",
-    "visual": "In the school garden: living and non-living comparison showing [\"plant cycle\",\"animal cycle\",\"growth and reproduction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the school garden: living and non-living comparison showing [&quot;plant cycle&quot;,&quot;animal cycle&quot;,&quot;growth and reproduction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-008\"></use></svg>",
+    "question": "Which is evidence that a bean plant is living?",
+    "audioPrompt": "Which is evidence that a bean plant is living?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-008",
-      "alt_text": "In the school garden: living and non-living comparison showing [\"plant cycle\",\"animal cycle\",\"growth and reproduction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Both grow and reproduce, but their stages can look different",
-      "They always have identical stages",
-      "Only animals have young stages"
+      "It casts a shadow",
+      "It produces new leaves and grows taller",
+      "Its pot is red",
+      "It is next to a window"
     ],
-    "correct": 0,
-    "explanation": "Plants and animals share broad life processes but have different stage forms.\nHint: Compare the purposes of stages, not whether they look the same.",
+    "correct": 1,
+    "explanation": "Growth and new structures are life processes.\nHint: Look for biological change.",
     "structuredExplanation": {
-      "summary": "Plants and animals share broad life processes but have different stage forms.",
-      "hint": "Compare the purposes of stages, not whether they look the same."
+      "summary": "Growth and new structures are life processes.",
+      "hint": "Look for biological change."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-009",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "At the pond table, which evidence best shows that the frog is living?",
-    "audioPrompt": "At the pond table, which evidence best shows that the frog is living?",
-    "visual": "At the pond table: living and non-living comparison showing [\"frog: grows and uses resources\",\"cloud: can move but does not grow\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the pond table: living and non-living comparison showing [&quot;frog: grows and uses resources&quot;,&quot;cloud: can move but does not grow&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-009\"></use></svg>",
+    "question": "Which is not part of a frog life cycle?",
+    "audioPrompt": "Which is not part of a frog life cycle?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-009",
-      "alt_text": "At the pond table: living and non-living comparison showing [\"frog: grows and uses resources\",\"cloud: can move but does not grow\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It has a colour",
-      "It grows and needs resources",
-      "It can be moved"
+      "Seedling",
+      "Egg",
+      "Tadpole",
+      "Adult frog"
     ],
-    "correct": 1,
-    "explanation": "Living things carry out life processes such as growing and using resources.\nHint: Look for a life process, not appearance or movement alone.",
+    "correct": 0,
+    "explanation": "A seedling is a plant stage, not a frog stage.\nHint: Keep the stages in one organism.",
     "structuredExplanation": {
-      "summary": "Living things carry out life processes such as growing and using resources.",
-      "hint": "Look for a life process, not appearance or movement alone."
+      "summary": "A seedling is a plant stage, not a frog stage.",
+      "hint": "Keep the stages in one organism."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-010",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "At the pond table, why is a cloud not classified as living?",
-    "audioPrompt": "At the pond table, why is a cloud not classified as living?",
-    "visual": "At the pond table: living and non-living comparison showing [\"cloud\",\"frog\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the pond table: living and non-living comparison showing [&quot;cloud&quot;,&quot;frog&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-010\"></use></svg>",
+    "question": "Which statement is true of life cycles?",
+    "audioPrompt": "Which statement is true of life cycles?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-010",
-      "alt_text": "At the pond table: living and non-living comparison showing [\"cloud\",\"frog\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It never moves",
-      "It has no parts",
-      "It does not carry out all life processes"
+      "Every life cycle has exactly the same stages",
+      "Only animals have life cycles",
+      "A life cycle happens once and never leads to new organisms",
+      "Living things pass through stages as they grow and reproduce"
     ],
-    "correct": 2,
-    "explanation": "Movement or having parts does not by itself make something living.\nHint: Ask whether it grows, responds and reproduces through life processes.",
+    "correct": 3,
+    "explanation": "Life cycles describe stages of growth and reproduction.\nHint: Think stages and continuation.",
     "structuredExplanation": {
-      "summary": "Movement or having parts does not by itself make something living.",
-      "hint": "Ask whether it grows, responds and reproduces through life processes."
+      "summary": "Life cycles describe stages of growth and reproduction.",
+      "hint": "Think stages and continuation."
     },
-    "qualitySchema": "production-v1"
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-011",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "At the pond table, which stage comes after the young stage called tadpole?",
-    "audioPrompt": "At the pond table, which stage comes after the young stage called tadpole?",
-    "visual": "At the pond table: living and non-living comparison showing [\"beginning\",\"tadpole\",\"adult frog\",\"reproduction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the pond table: living and non-living comparison showing [&quot;beginning&quot;,&quot;tadpole&quot;,&quot;adult frog&quot;,&quot;reproduction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-011\"></use></svg>",
+    "question": "Why is a toy robot non-living even though it can move?",
+    "audioPrompt": "Why is a toy robot non-living even though it can move?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-011",
-      "alt_text": "At the pond table: living and non-living comparison showing [\"beginning\",\"tadpole\",\"adult frog\",\"reproduction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "adult frog",
-      "egg",
-      "seed"
+      "It is made of metal",
+      "It can make sound",
+      "Its movement comes from a mechanism, not life processes such as growth and reproduction",
+      "Anything with batteries is living"
     ],
-    "correct": 0,
-    "explanation": "Life cycles have ordered stages of growth and development.\nHint: Follow the organism's cycle forward from its young stage.",
+    "correct": 2,
+    "explanation": "Movement by itself is not enough to classify something as living.\nHint: Does it carry out life processes?",
     "structuredExplanation": {
-      "summary": "Life cycles have ordered stages of growth and development.",
-      "hint": "Follow the organism's cycle forward from its young stage."
+      "summary": "Movement by itself is not enough to classify something as living.",
+      "hint": "Does it carry out life processes?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-012",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "At the pond table, which change is part of the frog's life cycle?",
-    "audioPrompt": "At the pond table, which change is part of the frog's life cycle?",
-    "visual": "At the pond table: living and non-living comparison showing [\"tadpole\",\"growth\",\"adult frog\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the pond table: living and non-living comparison showing [&quot;tadpole&quot;,&quot;growth&quot;,&quot;adult frog&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-012\"></use></svg>",
+    "question": "Why can a seed be classified as living before it sprouts?",
+    "audioPrompt": "Why can a seed be classified as living before it sprouts?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-012",
-      "alt_text": "At the pond table: living and non-living comparison showing [\"tadpole\",\"growth\",\"adult frog\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It is shaped into a new object",
-      "It grows from a young stage into an adult",
-      "It breaks into smaller pieces"
+      "It has a hard coat",
+      "It contains a living embryo that can grow when conditions are suitable",
+      "Anything small is living",
+      "Seeds always move"
     ],
     "correct": 1,
-    "explanation": "Growth into an adult is a biological life-cycle change.\nHint: Choose the change caused by life processes.",
+    "explanation": "Dormant seeds can resume growth under suitable conditions.\nHint: Inactive does not mean non-living.",
     "structuredExplanation": {
-      "summary": "Growth into an adult is a biological life-cycle change.",
-      "hint": "Choose the change caused by life processes."
+      "summary": "Dormant seeds can resume growth under suitable conditions.",
+      "hint": "Inactive does not mean non-living."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-013",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "At the pond table, which pair should both be classified as living?",
-    "audioPrompt": "At the pond table, which pair should both be classified as living?",
-    "visual": "At the pond table: living and non-living comparison showing [\"frog\",\"grass plant\",\"cloud\",\"stone\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the pond table: living and non-living comparison showing [&quot;frog&quot;,&quot;grass plant&quot;,&quot;cloud&quot;,&quot;stone&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-013\"></use></svg>",
+    "question": "Why is a crystal growing larger not enough to call it living?",
+    "audioPrompt": "Why is a crystal growing larger not enough to call it living?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-013",
-      "alt_text": "At the pond table: living and non-living comparison showing [\"frog\",\"grass plant\",\"cloud\",\"stone\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "cloud and a stone",
-      "frog and cloud",
-      "frog and a grass plant"
+      "Living growth involves life processes, not just material being added to the outside",
+      "Anything that grows is alive",
+      "Crystals reproduce like animals",
+      "Crystals eat food"
     ],
-    "correct": 2,
-    "explanation": "Both members of a living pair must carry out life processes.\nHint: Check each member of the pair separately.",
+    "correct": 0,
+    "explanation": "Some non-living things can increase in size without carrying out life processes.\nHint: Growth alone needs context.",
     "structuredExplanation": {
-      "summary": "Both members of a living pair must carry out life processes.",
-      "hint": "Check each member of the pair separately."
+      "summary": "Some non-living things can increase in size without carrying out life processes.",
+      "hint": "Growth alone needs context."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-014",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "At the pond table, a frog and an animal both have life cycles. What do both cycles include?",
-    "audioPrompt": "At the pond table, a frog and an animal both have life cycles. What do both cycles include?",
-    "visual": "At the pond table: living and non-living comparison showing [\"beginning\",\"young\",\"adult\",\"reproduction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the pond table: living and non-living comparison showing [&quot;beginning&quot;,&quot;young&quot;,&quot;adult&quot;,&quot;reproduction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-014\"></use></svg>",
+    "question": "How are plant and animal life cycles similar?",
+    "audioPrompt": "How are plant and animal life cycles similar?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-014",
-      "alt_text": "At the pond table: living and non-living comparison showing [\"beginning\",\"young\",\"adult\",\"reproduction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Growth and reproduction",
-      "Turning into rock",
-      "Being built in a factory"
+      "Both always begin as seeds",
+      "Both always hatch from eggs",
+      "Both have roots",
+      "Both involve stages of growth and development"
     ],
-    "correct": 0,
-    "explanation": "Plant and animal cycles both include growth and reproduction.\nHint: Find the stages shared by living organisms.",
+    "correct": 3,
+    "explanation": "Plants and animals develop through stages, even though the stages differ.\nHint: Compare the overall pattern.",
     "structuredExplanation": {
-      "summary": "Plant and animal cycles both include growth and reproduction.",
-      "hint": "Find the stages shared by living organisms."
+      "summary": "Plants and animals develop through stages, even though the stages differ.",
+      "hint": "Compare the overall pattern."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-015",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "At the pond table, a cloud moves. What other evidence is needed before calling it living?",
-    "audioPrompt": "At the pond table, a cloud moves. What other evidence is needed before calling it living?",
-    "visual": "At the pond table: living and non-living comparison showing [\"cloud: moves\",\"living evidence: life processes\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the pond table: living and non-living comparison showing [&quot;cloud: moves&quot;,&quot;living evidence: life processes&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-015\"></use></svg>",
+    "question": "How are a flowering plant and a frog life cycle different?",
+    "audioPrompt": "How are a flowering plant and a frog life cycle different?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-015",
-      "alt_text": "At the pond table: living and non-living comparison showing [\"cloud: moves\",\"living evidence: life processes\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Evidence that it is heavy",
-      "Evidence that it carries out life processes",
-      "Evidence that people can see it"
+      "Only the plant is living",
+      "Both have exactly the same stages",
+      "The plant includes seed and germination stages; the frog includes egg and tadpole stages",
+      "Only the frog grows"
     ],
-    "correct": 1,
-    "explanation": "Movement alone can be caused by wind, water, motors or people.\nHint: Look for growth, response and reproduction rather than movement alone.",
+    "correct": 2,
+    "explanation": "Different organisms have different life-cycle stages.\nHint: Compare the stage names.",
     "structuredExplanation": {
-      "summary": "Movement alone can be caused by wind, water, motors or people.",
-      "hint": "Look for growth, response and reproduction rather than movement alone."
+      "summary": "Different organisms have different life-cycle stages.",
+      "hint": "Compare the stage names."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-016",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "At the pond table, which statement correctly compares plant and animal life cycles?",
-    "audioPrompt": "At the pond table, which statement correctly compares plant and animal life cycles?",
-    "visual": "At the pond table: living and non-living comparison showing [\"plant cycle\",\"animal cycle\",\"growth and reproduction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the pond table: living and non-living comparison showing [&quot;plant cycle&quot;,&quot;animal cycle&quot;,&quot;growth and reproduction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-016\"></use></svg>",
+    "question": "Why is reproduction important in a life cycle?",
+    "audioPrompt": "Why is reproduction important in a life cycle?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-016",
-      "alt_text": "At the pond table: living and non-living comparison showing [\"plant cycle\",\"animal cycle\",\"growth and reproduction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "They always have identical stages",
-      "Only animals have young stages",
-      "Both grow and reproduce, but their stages can look different"
+      "It means every organism has many babies",
+      "It allows new individuals of the same kind to begin another life cycle",
+      "It makes the organism non-living",
+      "It always happens before growth"
     ],
-    "correct": 2,
-    "explanation": "Plants and animals share broad life processes but have different stage forms.\nHint: Compare the purposes of stages, not whether they look the same.",
+    "correct": 1,
+    "explanation": "Reproduction links one generation to the next.\nHint: How does the cycle continue?",
     "structuredExplanation": {
-      "summary": "Plants and animals share broad life processes but have different stage forms.",
-      "hint": "Compare the purposes of stages, not whether they look the same."
+      "summary": "Reproduction links one generation to the next.",
+      "hint": "How does the cycle continue?"
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-017",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "During the seed study, which evidence best shows that the butterfly is living?",
-    "audioPrompt": "During the seed study, which evidence best shows that the butterfly is living?",
-    "visual": "During the seed study: living and non-living comparison showing [\"butterfly: grows and uses resources\",\"bicycle: can move but does not grow\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the seed study: living and non-living comparison showing [&quot;butterfly: grows and uses resources&quot;,&quot;bicycle: can move but does not grow&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-017\"></use></svg>",
+    "question": "Why is “all living things walk” incorrect?",
+    "audioPrompt": "Why is “all living things walk” incorrect?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-017",
-      "alt_text": "During the seed study: living and non-living comparison showing [\"butterfly: grows and uses resources\",\"bicycle: can move but does not grow\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It grows and needs resources",
-      "It has a colour",
-      "It can be moved"
+      "Many living things such as plants do not walk",
+      "Plants are non-living",
+      "Only animals are living",
+      "Walking is the only life process"
     ],
     "correct": 0,
-    "explanation": "Living things carry out life processes such as growing and using resources.\nHint: Look for a life process, not appearance or movement alone.",
+    "explanation": "Living things show different types of movement or may not move from place to place.\nHint: Plants are living too.",
     "structuredExplanation": {
-      "summary": "Living things carry out life processes such as growing and using resources.",
-      "hint": "Look for a life process, not appearance or movement alone."
+      "summary": "Living things show different types of movement or may not move from place to place.",
+      "hint": "Plants are living too."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-018",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "During the seed study, why is a bicycle not classified as living?",
-    "audioPrompt": "During the seed study, why is a bicycle not classified as living?",
-    "visual": "During the seed study: living and non-living comparison showing [\"bicycle\",\"butterfly\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the seed study: living and non-living comparison showing [&quot;bicycle&quot;,&quot;butterfly&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-018\"></use></svg>",
+    "question": "Why can fire seem alive but still be classified as non-living?",
+    "audioPrompt": "Why can fire seem alive but still be classified as non-living?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-018",
-      "alt_text": "During the seed study: living and non-living comparison showing [\"bicycle\",\"butterfly\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It never moves",
-      "It does not carry out all life processes",
-      "It has no parts"
+      "Anything that uses fuel is alive",
+      "Fire has babies",
+      "Fire has cells",
+      "It can spread and use fuel, but it does not carry out the full set of biological life processes"
     ],
-    "correct": 1,
-    "explanation": "Movement or having parts does not by itself make something living.\nHint: Ask whether it grows, responds and reproduces through life processes.",
+    "correct": 3,
+    "explanation": "Some non-living processes can mimic one or two characteristics of life.\nHint: One or two features are not enough.",
     "structuredExplanation": {
-      "summary": "Movement or having parts does not by itself make something living.",
-      "hint": "Ask whether it grows, responds and reproduces through life processes."
+      "summary": "Some non-living processes can mimic one or two characteristics of life.",
+      "hint": "One or two features are not enough."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-019",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "During the seed study, which stage comes after the young stage called caterpillar?",
-    "audioPrompt": "During the seed study, which stage comes after the young stage called caterpillar?",
-    "visual": "During the seed study: living and non-living comparison showing [\"beginning\",\"caterpillar\",\"butterfly\",\"reproduction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the seed study: living and non-living comparison showing [&quot;beginning&quot;,&quot;caterpillar&quot;,&quot;butterfly&quot;,&quot;reproduction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-019\"></use></svg>",
+    "question": "Why do scientists use several characteristics when deciding if something is living?",
+    "audioPrompt": "Why do scientists use several characteristics when deciding if something is living?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-019",
-      "alt_text": "During the seed study: living and non-living comparison showing [\"beginning\",\"caterpillar\",\"butterfly\",\"reproduction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "egg",
-      "seed",
-      "butterfly"
+      "Living things must all look alike",
+      "Only colour matters",
+      "No single clue such as movement or size change is enough in every case",
+      "One characteristic always proves life"
     ],
     "correct": 2,
-    "explanation": "Life cycles have ordered stages of growth and development.\nHint: Follow the organism's cycle forward from its young stage.",
+    "explanation": "Using several characteristics avoids misclassifying things that share only one feature.\nHint: Use multiple clues.",
     "structuredExplanation": {
-      "summary": "Life cycles have ordered stages of growth and development.",
-      "hint": "Follow the organism's cycle forward from its young stage."
+      "summary": "Using several characteristics avoids misclassifying things that share only one feature.",
+      "hint": "Use multiple clues."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-020",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "During the seed study, which change is part of the butterfly's life cycle?",
-    "audioPrompt": "During the seed study, which change is part of the butterfly's life cycle?",
-    "visual": "During the seed study: living and non-living comparison showing [\"caterpillar\",\"growth\",\"butterfly\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the seed study: living and non-living comparison showing [&quot;caterpillar&quot;,&quot;growth&quot;,&quot;butterfly&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-020\"></use></svg>",
+    "question": "Why do adult organisms appear again at the end of many life-cycle diagrams?",
+    "audioPrompt": "Why do adult organisms appear again at the end of many life-cycle diagrams?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-020",
-      "alt_text": "During the seed study: living and non-living comparison showing [\"caterpillar\",\"growth\",\"butterfly\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It grows from a young stage into an adult",
-      "It is shaped into a new object",
-      "It breaks into smaller pieces"
+      "Young stages never grow",
+      "Adults can reproduce and begin a new generation",
+      "Adults become non-living immediately",
+      "Life cycles are circles only for decoration"
     ],
-    "correct": 0,
-    "explanation": "Growth into an adult is a biological life-cycle change.\nHint: Choose the change caused by life processes.",
+    "correct": 1,
+    "explanation": "Reproduction connects the adult stage to a new beginning.\nHint: Cycle means generations continue.",
     "structuredExplanation": {
-      "summary": "Growth into an adult is a biological life-cycle change.",
-      "hint": "Choose the change caused by life processes."
+      "summary": "Reproduction connects the adult stage to a new beginning.",
+      "hint": "Cycle means generations continue."
     },
-    "qualitySchema": "production-v1"
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-021",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "During the seed study, which pair should both be classified as living?",
-    "audioPrompt": "During the seed study, which pair should both be classified as living?",
-    "visual": "During the seed study: living and non-living comparison showing [\"butterfly\",\"grass plant\",\"bicycle\",\"stone\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the seed study: living and non-living comparison showing [&quot;butterfly&quot;,&quot;grass plant&quot;,&quot;bicycle&quot;,&quot;stone&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-021\"></use></svg>",
+    "question": "Which example is living?",
+    "audioPrompt": "Which example is living?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-021",
-      "alt_text": "During the seed study: living and non-living comparison showing [\"butterfly\",\"grass plant\",\"bicycle\",\"stone\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "bicycle and a stone",
-      "butterfly and a grass plant",
-      "butterfly and bicycle"
+      "A mushroom growing on a log",
+      "A rolling soccer ball",
+      "A flowing river",
+      "A moving toy car"
     ],
-    "correct": 1,
-    "explanation": "Both members of a living pair must carry out life processes.\nHint: Check each member of the pair separately.",
+    "correct": 0,
+    "explanation": "A mushroom is an organism that grows and reproduces.\nHint: Movement alone can mislead.",
     "structuredExplanation": {
-      "summary": "Both members of a living pair must carry out life processes.",
-      "hint": "Check each member of the pair separately."
+      "summary": "A mushroom is an organism that grows and reproduces.",
+      "hint": "Movement alone can mislead."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-022",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "During the seed study, a butterfly and an animal both have life cycles. What do both cycles include?",
-    "audioPrompt": "During the seed study, a butterfly and an animal both have life cycles. What do both cycles include?",
-    "visual": "During the seed study: living and non-living comparison showing [\"beginning\",\"young\",\"adult\",\"reproduction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the seed study: living and non-living comparison showing [&quot;beginning&quot;,&quot;young&quot;,&quot;adult&quot;,&quot;reproduction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-022\"></use></svg>",
+    "question": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-022",
-      "alt_text": "During the seed study: living and non-living comparison showing [\"beginning\",\"young\",\"adult\",\"reproduction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Turning into rock",
-      "Being built in a factory",
-      "Growth and reproduction"
+      "Living things grow and change",
+      "Plants are living organisms",
+      "Animals have life cycles",
+      "Anything that moves must be living"
     ],
-    "correct": 2,
-    "explanation": "Plant and animal cycles both include growth and reproduction.\nHint: Find the stages shared by living organisms.",
+    "correct": 3,
+    "explanation": "Many non-living things can move.\nHint: Movement alone is not enough.",
     "structuredExplanation": {
-      "summary": "Plant and animal cycles both include growth and reproduction.",
-      "hint": "Find the stages shared by living organisms."
+      "summary": "Many non-living things can move.",
+      "hint": "Movement alone is not enough."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-023",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "During the seed study, a bicycle moves. What other evidence is needed before calling it living?",
-    "audioPrompt": "During the seed study, a bicycle moves. What other evidence is needed before calling it living?",
-    "visual": "During the seed study: living and non-living comparison showing [\"bicycle: moves\",\"living evidence: life processes\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the seed study: living and non-living comparison showing [&quot;bicycle: moves&quot;,&quot;living evidence: life processes&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-023\"></use></svg>",
+    "question": "Which sequence is in the correct order for a flowering plant?",
+    "audioPrompt": "Which sequence is in the correct order for a flowering plant?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-023",
-      "alt_text": "During the seed study: living and non-living comparison showing [\"bicycle: moves\",\"living evidence: life processes\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Evidence that it carries out life processes",
-      "Evidence that it is heavy",
-      "Evidence that people can see it"
+      "Seedling → seed → mature plant → germination",
+      "Seed → adult frog → flower → seedling",
+      "Seed → germination → seedling → mature plant",
+      "Mature plant → seedling → seed → germination"
     ],
-    "correct": 0,
-    "explanation": "Movement alone can be caused by wind, water, motors or people.\nHint: Look for growth, response and reproduction rather than movement alone.",
+    "correct": 2,
+    "explanation": "A plant grows from seed through germination and seedling stages to maturity.\nHint: Follow growth order.",
     "structuredExplanation": {
-      "summary": "Movement alone can be caused by wind, water, motors or people.",
-      "hint": "Look for growth, response and reproduction rather than movement alone."
+      "summary": "A plant grows from seed through germination and seedling stages to maturity.",
+      "hint": "Follow growth order."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u01-p-024",
     "curriculumCode": "AC9S3U01",
     "bank": "practice",
-    "skill": "Living, Non-living and Life Cycles",
+    "skill": "living, non-living things and life cycles",
     "printable": true,
     "type": "single",
-    "question": "During the seed study, which statement correctly compares plant and animal life cycles?",
-    "audioPrompt": "During the seed study, which statement correctly compares plant and animal life cycles?",
-    "visual": "During the seed study: living and non-living comparison showing [\"plant cycle\",\"animal cycle\",\"growth and reproduction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the seed study: living and non-living comparison showing [&quot;plant cycle&quot;,&quot;animal cycle&quot;,&quot;growth and reproduction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-024\"></use></svg>",
+    "question": "Which sequence is correct for a frog?",
+    "audioPrompt": "Which sequence is correct for a frog?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u01.svg#ac9s3u01-p-024",
-      "alt_text": "During the seed study: living and non-living comparison showing [\"plant cycle\",\"animal cycle\",\"growth and reproduction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "They always have identical stages",
-      "Both grow and reproduce, but their stages can look different",
-      "Only animals have young stages"
+      "Egg → chick → froglet → plant",
+      "Egg → tadpole → froglet → adult frog",
+      "Tadpole → egg → adult → seed",
+      "Adult → seedling → tadpole → egg"
     ],
     "correct": 1,
-    "explanation": "Plants and animals share broad life processes but have different stage forms.\nHint: Compare the purposes of stages, not whether they look the same.",
+    "explanation": "Frogs develop from eggs through tadpole and froglet stages.\nHint: Stay within one animal.",
     "structuredExplanation": {
-      "summary": "Plants and animals share broad life processes but have different stage forms.",
-      "hint": "Compare the purposes of stages, not whether they look the same."
+      "summary": "Frogs develop from eggs through tadpole and froglet stages.",
+      "hint": "Stay within one animal."
     },
-    "qualitySchema": "production-v1"
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-025",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "Which characteristic alone would be least reliable for deciding if something is living?",
+    "audioPrompt": "Which characteristic alone would be least reliable for deciding if something is living?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It moves",
+      "It grows by life processes",
+      "It reproduces",
+      "It uses resources to stay alive"
+    ],
+    "correct": 0,
+    "explanation": "Non-living things can move, so movement alone is weak evidence.\nHint: Cars move too.",
+    "structuredExplanation": {
+      "summary": "Non-living things can move, so movement alone is weak evidence.",
+      "hint": "Cars move too."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-026",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement best compares a seed and a pebble?",
+    "audioPrompt": "Which statement best compares a seed and a pebble?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Both are non-living because neither walks",
+      "Both are living because both can get bigger",
+      "A pebble can reproduce",
+      "A seed can germinate and grow; a pebble cannot carry out a life cycle"
+    ],
+    "correct": 3,
+    "explanation": "The seed has the potential to continue a plant life cycle.\nHint: Dormancy versus non-life.",
+    "structuredExplanation": {
+      "summary": "The seed has the potential to continue a plant life cycle.",
+      "hint": "Dormancy versus non-life."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-027",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the strongest evidence that an unknown object is living?",
+    "audioPrompt": "Which is the strongest evidence that an unknown object is living?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It becomes wet in rain",
+      "It is warm in sunlight",
+      "It grows, uses resources and produces new individuals of its kind",
+      "It rolls downhill"
+    ],
+    "correct": 2,
+    "explanation": "Several life characteristics together provide stronger evidence than one physical change.\nHint: Use multiple life processes.",
+    "structuredExplanation": {
+      "summary": "Several life characteristics together provide stronger evidence than one physical change.",
+      "hint": "Use multiple life processes."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-028",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement about plant life cycles is wrong?",
+    "audioPrompt": "Which statement about plant life cycles is wrong?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Mature plants can produce new seeds",
+      "Every plant life cycle includes a tadpole stage",
+      "Many plants begin as seeds",
+      "Plants grow through stages"
+    ],
+    "correct": 1,
+    "explanation": "Tadpoles belong to frog life cycles, not plant life cycles.\nHint: Do not mix plant and animal stages.",
+    "structuredExplanation": {
+      "summary": "Tadpoles belong to frog life cycles, not plant life cycles.",
+      "hint": "Do not mix plant and animal stages."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-029",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement about animal life cycles is most accurate?",
+    "audioPrompt": "Which statement about animal life cycles is most accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Different animals can have different young stages",
+      "All animals hatch from eggs",
+      "Every animal has a tadpole stage",
+      "All animals are born as miniature adults"
+    ],
+    "correct": 0,
+    "explanation": "Animal life cycles vary widely among groups.\nHint: Avoid one-size-fits-all claims.",
+    "structuredExplanation": {
+      "summary": "Animal life cycles vary widely among groups.",
+      "hint": "Avoid one-size-fits-all claims."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-030",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "Which example shows development rather than simply movement?",
+    "audioPrompt": "Which example shows development rather than simply movement?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A bicycle rolls downhill",
+      "A leaf blows across a path",
+      "A ball bounces",
+      "A caterpillar changes into a butterfly"
+    ],
+    "correct": 3,
+    "explanation": "Metamorphosis is a developmental life-cycle change.\nHint: Biological stage change.",
+    "structuredExplanation": {
+      "summary": "Metamorphosis is a developmental life-cycle change.",
+      "hint": "Biological stage change."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-031",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "You find an object that slowly increases in size. What extra evidence would best help decide whether it is living?",
+    "audioPrompt": "You find an object that slowly increases in size. What extra evidence would best help decide whether it is living?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "See whether it can roll",
+      "Measure its shadow only",
+      "Check whether it carries out other life processes such as using resources and reproducing",
+      "Check whether it is your favourite colour"
+    ],
+    "correct": 2,
+    "explanation": "Several biological characteristics are needed to classify life confidently.\nHint: Do not rely on size change alone.",
+    "structuredExplanation": {
+      "summary": "Several biological characteristics are needed to classify life confidently.",
+      "hint": "Do not rely on size change alone."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-032",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "A class says, “The sunflower is non-living because it cannot walk.” What is the best correction?",
+    "audioPrompt": "A class says, “The sunflower is non-living because it cannot walk.” What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The flower is living only when moving in wind",
+      "Plants are living because they grow, use resources and reproduce even though they do not walk",
+      "Anything that cannot walk is non-living",
+      "Only animals count as living"
+    ],
+    "correct": 1,
+    "explanation": "Walking is not required for life.\nHint: Plants show other life processes.",
+    "structuredExplanation": {
+      "summary": "Walking is not required for life.",
+      "hint": "Plants show other life processes."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-033",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "A tadpole has back legs but still has a tail. Which stage is it approaching?",
+    "audioPrompt": "A tadpole has back legs but still has a tail. Which stage is it approaching?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Froglet",
+      "Egg",
+      "Adult bird",
+      "Seedling"
+    ],
+    "correct": 0,
+    "explanation": "A froglet develops legs while the tail is still reducing.\nHint: Look at frog development.",
+    "structuredExplanation": {
+      "summary": "A froglet develops legs while the tail is still reducing.",
+      "hint": "Look at frog development."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-034",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "A bean seed swells and a root emerges. What process has begun?",
+    "audioPrompt": "A bean seed swells and a root emerges. What process has begun?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Reproduction of an adult animal",
+      "Weathering",
+      "Melting",
+      "Germination"
+    ],
+    "correct": 3,
+    "explanation": "Germination begins when a seed starts active growth.\nHint: Seed starts growing.",
+    "structuredExplanation": {
+      "summary": "Germination begins when a seed starts active growth.",
+      "hint": "Seed starts growing."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-035",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "Two life cycles are shown. One includes seed, seedling, flowering adult; the other egg, larva, pupa, adult. What is the best comparison?",
+    "audioPrompt": "Two life cycles are shown. One includes seed, seedling, flowering adult; the other egg, larva, pupa, adult. What is the best comparison?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Only the plant grows",
+      "Only the animal reproduces",
+      "Both have stages of growth, but the stages and body changes differ",
+      "They are exactly the same"
+    ],
+    "correct": 2,
+    "explanation": "Life cycles share broad patterns but differ in stage details.\nHint: Similarity and difference.",
+    "structuredExplanation": {
+      "summary": "Life cycles share broad patterns but differ in stage details.",
+      "hint": "Similarity and difference."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-036",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "A student says a cloud is alive because it moves and changes shape. What should you ask next?",
+    "audioPrompt": "A student says a cloud is alive because it moves and changes shape. What should you ask next?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Does it cast a shadow?",
+      "Does it carry out biological processes such as growth from cells and reproduction?",
+      "Is it large?",
+      "Is it white?"
+    ],
+    "correct": 1,
+    "explanation": "Movement and shape change alone do not establish life.\nHint: Check life processes.",
+    "structuredExplanation": {
+      "summary": "Movement and shape change alone do not establish life.",
+      "hint": "Check life processes."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-037",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "An adult butterfly lays eggs. How does this fit the life cycle?",
+    "audioPrompt": "An adult butterfly lays eggs. How does this fit the life cycle?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It begins the next generation",
+      "It ends all future life cycles",
+      "It turns the adult into a plant",
+      "It skips development"
+    ],
+    "correct": 0,
+    "explanation": "Egg laying links the adult to a new life-cycle beginning.\nHint: Cycle continues.",
+    "structuredExplanation": {
+      "summary": "Egg laying links the adult to a new life-cycle beginning.",
+      "hint": "Cycle continues."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-038",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "Which observation best shows a young plant developing?",
+    "audioPrompt": "Which observation best shows a young plant developing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The pot becomes dusty",
+      "The label fades",
+      "The table is moved",
+      "New leaves appear and the stem becomes taller over days"
+    ],
+    "correct": 3,
+    "explanation": "New structures and increasing size are biological development.\nHint: Look at the organism, not surroundings.",
+    "structuredExplanation": {
+      "summary": "New structures and increasing size are biological development.",
+      "hint": "Look at the organism, not surroundings."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-039",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "A student compares a battery toy and a mouse. What is the key difference?",
+    "audioPrompt": "A student compares a battery toy and a mouse. What is the key difference?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The mouse has no energy needs",
+      "Both are equally living because both move",
+      "The mouse carries out life processes such as growth and reproduction; the toy does not",
+      "Only the toy can move"
+    ],
+    "correct": 2,
+    "explanation": "Life involves biological processes, not movement alone.\nHint: Compare life processes.",
+    "structuredExplanation": {
+      "summary": "Life involves biological processes, not movement alone.",
+      "hint": "Compare life processes."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3u01-p-040",
+    "curriculumCode": "AC9S3U01",
+    "bank": "practice",
+    "skill": "living, non-living things and life cycles",
+    "printable": true,
+    "type": "single",
+    "question": "Which conclusion best fits observations that a seed germinated, grew leaves and later produced flowers?",
+    "audioPrompt": "Which conclusion best fits observations that a seed germinated, grew leaves and later produced flowers?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The pot caused the life cycle",
+      "The seed was part of a living plant life cycle",
+      "The seed was non-living until flowering",
+      "Only flowers are living"
+    ],
+    "correct": 1,
+    "explanation": "The sequence shows growth and development from an already living seed.\nHint: Life cycle starts before visible sprouting.",
+    "structuredExplanation": {
+      "summary": "The sequence shows growth and development from an already living seed.",
+      "hint": "Life cycle starts before visible sprouting."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

@@ -1,2194 +1,3402 @@
 [
   {
-    "id": "AC9S3U04-P-001",
+    "id": "ac9s3u04-p-001",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, which observation best shows that the water is a liquid?",
-    "audio_prompt": "At the ice station, which observation best shows that the water is a liquid?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which is a property of a solid?",
+    "audio_prompt": "Which is a property of a solid?",
+    "audioPrompt": "Which is a property of a solid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-001",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"ice cube\",\"water\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It keeps its own shape in every container",
-        "is_correct": false
-      },
-      {
-        "text": "It has no volume or mass",
-        "is_correct": false
-      },
-      {
-        "text": "It must always be clear and colourless",
-        "is_correct": false
-      },
-      {
-        "text": "It flows and takes the shape of the occupied part of its container",
+        "text": "It keeps its own shape unless a force changes it",
         "is_correct": true
+      },
+      {
+        "text": "It always takes the shape of its container",
+        "is_correct": false
+      },
+      {
+        "text": "It can be poured like water",
+        "is_correct": false
+      },
+      {
+        "text": "It has no volume",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "answer_texts": [
+      "It keeps its own shape unless a force changes it",
+      "It always takes the shape of its container",
+      "It can be poured like water",
+      "It has no volume"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Liquids flow and take the shape of the part of a container they occupy.",
-      "hint": "Focus on observable shape and flow."
+      "summary": "Solids have a definite shape and volume.",
+      "hint": "Think shape."
     },
+    "structuredExplanation": {
+      "summary": "Solids have a definite shape and volume.",
+      "hint": "Think shape."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-002",
+    "id": "ac9s3u04-p-002",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, which observation best shows that the ice cube is a solid?",
-    "audio_prompt": "At the ice station, which observation best shows that the ice cube is a solid?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which is a property of a liquid?",
+    "audio_prompt": "Which is a property of a liquid?",
+    "audioPrompt": "Which is a property of a liquid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-002",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"ice cube\",\"water\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It keeps its own shape when moved between containers",
+        "text": "It keeps one fixed shape",
+        "is_correct": false
+      },
+      {
+        "text": "It has no volume",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot flow",
+        "is_correct": false
+      },
+      {
+        "text": "It has a definite amount but takes the shape of its container",
         "is_correct": true
-      },
-      {
-        "text": "It fills the bottom of every container",
-        "is_correct": false
-      },
-      {
-        "text": "It must be hard and heavy",
-        "is_correct": false
-      },
-      {
-        "text": "It has no observable properties",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "It keeps one fixed shape",
+      "It has no volume",
+      "It cannot flow",
+      "It has a definite amount but takes the shape of its container"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A solid keeps its own shape under ordinary conditions, even when it is soft.",
-      "hint": "Ask what happens when only the container changes."
+      "summary": "Liquids have definite volume but no fixed shape.",
+      "hint": "Container shape changes, amount remains."
     },
+    "structuredExplanation": {
+      "summary": "Liquids have definite volume but no fixed shape.",
+      "hint": "Container shape changes, amount remains."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-003",
+    "id": "ac9s3u04-p-003",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, what happens when enough heat energy is added to the ice cube?",
-    "audio_prompt": "At the ice station, what happens when enough heat energy is added to the ice cube?",
+    "skill": "solids, liquids and changes of state",
+    "question": "What is melting?",
+    "audio_prompt": "What is melting?",
+    "audioPrompt": "What is melting?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-003",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"ice cube\",\"heat added\",\"water\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It freezes and becomes water",
+        "text": "A gas changing to liquid",
         "is_correct": false
       },
       {
-        "text": "It melts and becomes water",
+        "text": "A solid breaking into pieces",
+        "is_correct": false
+      },
+      {
+        "text": "A solid changing to a liquid",
         "is_correct": true
       },
       {
-        "text": "It disappears from the container",
-        "is_correct": false
-      },
-      {
-        "text": "It stays solid with no observable change",
+        "text": "A liquid changing to a solid",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "A gas changing to liquid",
+      "A solid breaking into pieces",
+      "A solid changing to a liquid",
+      "A liquid changing to a solid"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Melting is the change from solid to liquid caused by adding heat energy.",
-      "hint": "Follow the solid-to-liquid arrow."
+      "summary": "Melting is a change of state from solid to liquid.",
+      "hint": "Solid → liquid."
     },
+    "structuredExplanation": {
+      "summary": "Melting is a change of state from solid to liquid.",
+      "hint": "Solid → liquid."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-004",
+    "id": "ac9s3u04-p-004",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, what can happen when heat energy is removed from the water?",
-    "audio_prompt": "At the ice station, what can happen when heat energy is removed from the water?",
+    "skill": "solids, liquids and changes of state",
+    "question": "What is freezing?",
+    "audio_prompt": "What is freezing?",
+    "audioPrompt": "What is freezing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-004",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"water\",\"heat removed\",\"solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It melts into another liquid",
+        "text": "A rock cracking",
         "is_correct": false
       },
       {
-        "text": "It stops being matter",
-        "is_correct": false
-      },
-      {
-        "text": "It freezes and becomes a solid",
+        "text": "A liquid changing to a solid",
         "is_correct": true
       },
       {
-        "text": "It must boil",
+        "text": "A solid changing to liquid",
+        "is_correct": false
+      },
+      {
+        "text": "A liquid evaporating",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "A rock cracking",
+      "A liquid changing to a solid",
+      "A solid changing to liquid",
+      "A liquid evaporating"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Freezing is the change from liquid to solid as heat energy is removed.",
-      "hint": "Follow the liquid-to-solid arrow."
+      "summary": "Freezing is a change of state from liquid to solid.",
+      "hint": "Liquid → solid."
     },
+    "structuredExplanation": {
+      "summary": "Freezing is a change of state from liquid to solid.",
+      "hint": "Liquid → solid."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-005",
+    "id": "ac9s3u04-p-005",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, which sequence is a reversible change of state?",
-    "audio_prompt": "At the ice station, which sequence is a reversible change of state?",
+    "skill": "solids, liquids and changes of state",
+    "question": "What happens when heat energy is added to ice?",
+    "audio_prompt": "What happens when heat energy is added to ice?",
+    "audioPrompt": "What happens when heat energy is added to ice?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-005",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"ice cube\",\"water\",\"ice cube\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "ice cube → ash → ice cube",
-        "is_correct": false
-      },
-      {
-        "text": "ice cube → smaller pieces → smoke",
-        "is_correct": false
-      },
-      {
-        "text": "water → a different material → ice cube",
-        "is_correct": false
-      },
-      {
-        "text": "ice cube → water → ice cube",
+        "text": "It can melt into liquid water",
         "is_correct": true
+      },
+      {
+        "text": "It always freezes harder",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes a gas immediately at any temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Its mass doubles",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "answer_texts": [
+      "It can melt into liquid water",
+      "It always freezes harder",
+      "It becomes a gas immediately at any temperature",
+      "Its mass doubles"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Melting and freezing can reverse the state while the material remains the same.",
-      "hint": "Look for opposite changes controlled by adding and removing heat."
+      "summary": "Adding heat can cause ice to change from solid to liquid.",
+      "hint": "Heating ice."
     },
+    "structuredExplanation": {
+      "summary": "Adding heat can cause ice to change from solid to liquid.",
+      "hint": "Heating ice."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-006",
+    "id": "ac9s3u04-p-006",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, the ice cube changes into water inside a sealed bag. What stayed the same?",
-    "audio_prompt": "At the ice station, the ice cube changes into water inside a sealed bag. What stayed the same?",
+    "skill": "solids, liquids and changes of state",
+    "question": "What happens when heat energy is removed from liquid water enough?",
+    "audio_prompt": "What happens when heat energy is removed from liquid water enough?",
+    "audioPrompt": "What happens when heat energy is removed from liquid water enough?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-006",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"solid material\",\"liquid material\",\"same sealed bag\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The material remained present inside the bag",
+        "text": "It always boils",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes more liquid",
+        "is_correct": false
+      },
+      {
+        "text": "It disappears",
+        "is_correct": false
+      },
+      {
+        "text": "It can freeze into ice",
         "is_correct": true
-      },
-      {
-        "text": "Its state remained solid",
-        "is_correct": false
-      },
-      {
-        "text": "Its shape remained unchanged",
-        "is_correct": false
-      },
-      {
-        "text": "A new material replaced it",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "It always boils",
+      "It becomes more liquid",
+      "It disappears",
+      "It can freeze into ice"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A state change alters state and observable properties, not the material's identity.",
-      "hint": "Track the material inside the sealed boundary."
+      "summary": "Removing heat can cause liquid water to become solid ice.",
+      "hint": "Cooling water."
     },
+    "structuredExplanation": {
+      "summary": "Removing heat can cause liquid water to become solid ice.",
+      "hint": "Cooling water."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-007",
+    "id": "ac9s3u04-p-007",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, which observation is the strongest evidence that melting occurred?",
-    "audio_prompt": "At the ice station, which observation is the strongest evidence that melting occurred?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which substance can be poured?",
+    "audio_prompt": "Which substance can be poured?",
+    "audioPrompt": "Which substance can be poured?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-007",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"solid\",\"melting\",\"liquid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The solid was cut into two pieces",
+        "text": "A metal spoon",
         "is_correct": false
       },
       {
-        "text": "The solid lost its own shape and began to flow",
+        "text": "A stone",
+        "is_correct": false
+      },
+      {
+        "text": "Water",
         "is_correct": true
       },
       {
-        "text": "The container was given a new label",
-        "is_correct": false
-      },
-      {
-        "text": "The liquid was poured into another cup",
+        "text": "A wooden block",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "A metal spoon",
+      "A stone",
+      "Water",
+      "A wooden block"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Melting is observed when a solid becomes a flowing liquid.",
-      "hint": "Choose evidence of a state change, not a size or location change."
+      "summary": "Liquids flow and can be poured.",
+      "hint": "Which takes container shape?"
     },
+    "structuredExplanation": {
+      "summary": "Liquids flow and can be poured.",
+      "hint": "Which takes container shape?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-008",
+    "id": "ac9s3u04-p-008",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, two equal ice cube samples are placed in warmer and cooler locations. Which prediction is most reasonable?",
-    "audio_prompt": "At the ice station, two equal ice cube samples are placed in warmer and cooler locations. Which prediction is most reasonable?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which statement about liquids is correct?",
+    "audio_prompt": "Which statement about liquids is correct?",
+    "audioPrompt": "Which statement about liquids is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-008",
-      "alt_text": "At the ice station: observable state-change evidence showing [[\"location\",\"prediction\"],[\"warmer\",\"sooner\"],[\"cooler\",\"later\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The cooler sample must melt sooner",
+        "text": "They are all water",
         "is_correct": false
       },
       {
-        "text": "Both must change at exactly the same second",
-        "is_correct": false
-      },
-      {
-        "text": "The warmer sample will probably melt sooner",
+        "text": "They have volume even though their shape changes",
         "is_correct": true
       },
       {
-        "text": "Neither sample can change state",
+        "text": "They have no volume",
+        "is_correct": false
+      },
+      {
+        "text": "They are always invisible",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A warmer surrounding can transfer heat energy to the sample more quickly.",
-      "hint": "Compare the direction and likely rate of heat transfer."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3U04-P-009",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, which record gives useful evidence during a ice cube melting investigation?",
-    "audio_prompt": "At the ice station, which record gives useful evidence during a ice cube melting investigation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-009",
-      "alt_text": "At the ice station: observable state-change evidence showing [[\"time\",\"state\"],[\"0 min\",\"solid\"],[\"later\",\"partly liquid\"]]"
-    },
-    "answers": [
-      {
-        "text": "A vote for the nicest-looking sample",
-        "is_correct": false
-      },
-      {
-        "text": "Only the colour of each bag label",
-        "is_correct": false
-      },
-      {
-        "text": "A guess written after the investigation",
-        "is_correct": false
-      },
-      {
-        "text": "State and visible change recorded at equal time intervals",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "They are all water",
+      "They have volume even though their shape changes",
+      "They have no volume",
+      "They are always invisible"
     ],
-    "correct_index": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Timed observations provide evidence about when and how the state changes.",
-      "hint": "Choose information another observer could check."
+      "summary": "Liquids occupy a definite amount of space.",
+      "hint": "Shape can change, volume remains."
     },
+    "structuredExplanation": {
+      "summary": "Liquids occupy a definite amount of space.",
+      "hint": "Shape can change, volume remains."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-010",
+    "id": "ac9s3u04-p-009",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, why should equal pieces of ice cube be used when comparing two locations?",
-    "audio_prompt": "At the ice station, why should equal pieces of ice cube be used when comparing two locations?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which observation suggests melting?",
+    "audio_prompt": "Which observation suggests melting?",
+    "audioPrompt": "Which observation suggests melting?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-010",
-      "alt_text": "At the ice station: observable state-change evidence showing [[\"change\",\"location\"],[\"same\",\"sample size\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "So location is the main tested difference",
+        "text": "A solid candle-wax puddle forms near a heat source",
         "is_correct": true
       },
       {
-        "text": "So both results are guaranteed to match",
+        "text": "Water becomes ice",
         "is_correct": false
       },
       {
-        "text": "So no observations need to be recorded",
+        "text": "A rock gets dusty",
         "is_correct": false
       },
       {
-        "text": "So heat energy cannot transfer",
+        "text": "A spoon bends",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "A solid candle-wax puddle forms near a heat source",
+      "Water becomes ice",
+      "A rock gets dusty",
+      "A spoon bends"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Keeping sample size the same makes the comparison fairer.",
-      "hint": "Identify what should change and what should stay the same."
+      "summary": "Liquid wax forming from solid wax is melting.",
+      "hint": "Solid becoming liquid."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Liquid wax forming from solid wax is melting.",
+      "hint": "Solid becoming liquid."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-011",
+    "id": "ac9s3u04-p-010",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, a soft sponge keeps its shape when placed in a bowl. How should it be classified?",
-    "audio_prompt": "At the ice station, a soft sponge keeps its shape when placed in a bowl. How should it be classified?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which observation suggests freezing?",
+    "audio_prompt": "Which observation suggests freezing?",
+    "audioPrompt": "Which observation suggests freezing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-011",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"soft sponge\",\"keeps shape\",\"solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "As a liquid because it is soft",
+        "text": "Ice becomes a puddle",
         "is_correct": false
       },
       {
-        "text": "As a solid because it keeps its own shape",
+        "text": "Chocolate softens and flows",
+        "is_correct": false
+      },
+      {
+        "text": "Butter melts",
+        "is_correct": false
+      },
+      {
+        "text": "Liquid water becomes solid ice",
         "is_correct": true
-      },
-      {
-        "text": "As neither because all solids are hard",
-        "is_correct": false
-      },
-      {
-        "text": "As a liquid because the bowl is curved",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Hardness is not the defining property; solids keep their own shape.",
-      "hint": "Use shape and flow rather than hard and soft."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3U04-P-012",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, thick syrup moves slowly but spreads across the bottom of a container. What is it?",
-    "audio_prompt": "At the ice station, thick syrup moves slowly but spreads across the bottom of a container. What is it?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-012",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"thick syrup\",\"slow flow\",\"container shape\"]"
-    },
-    "answers": [
-      {
-        "text": "A solid because it flows slowly",
-        "is_correct": false
-      },
-      {
-        "text": "A solid because it is sticky",
-        "is_correct": false
-      },
-      {
-        "text": "A liquid because it flows and takes the container's shape",
-        "is_correct": true
-      },
-      {
-        "text": "Not matter because it changes shape",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A liquid can flow slowly; speed and stickiness do not change its state classification.",
-      "hint": "Ask whether it flows, not whether it flows quickly."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3U04-P-013",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, why can heating and cooling help form a new glass object during specialist recycling?",
-    "audio_prompt": "At the ice station, why can heating and cooling help form a new glass object during specialist recycling?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-013",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"sorted glass\",\"heat and shape\",\"cool to solid\"]"
-    },
-    "answers": [
-      {
-        "text": "Heating makes the glass disappear",
-        "is_correct": false
-      },
-      {
-        "text": "Cooling changes glass into plastic",
-        "is_correct": false
-      },
-      {
-        "text": "Every material can be recycled with the same process",
-        "is_correct": false
-      },
-      {
-        "text": "Heating makes glass workable and cooling lets it become solid again",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Ice becomes a puddle",
+      "Chocolate softens and flows",
+      "Butter melts",
+      "Liquid water becomes solid ice"
     ],
     "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Controlled heating and cooling can allow suitable materials to be reshaped and solidified.",
-      "hint": "Sequence heat, shape and cool."
+      "summary": "Freezing changes a liquid to a solid.",
+      "hint": "Liquid → solid."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Freezing changes a liquid to a solid.",
+      "hint": "Liquid → solid."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-014",
+    "id": "ac9s3u04-p-011",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the ice station, a student says cold is added when water freezes. Which correction is most accurate?",
-    "audio_prompt": "At the ice station, a student says cold is added when water freezes. Which correction is most accurate?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why does water take the shape of different containers?",
+    "audio_prompt": "Why does water take the shape of different containers?",
+    "audioPrompt": "Why does water take the shape of different containers?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-014",
-      "alt_text": "At the ice station: observable state-change evidence showing [\"water\",\"heat transferred away\",\"solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Heat energy is removed from the water",
+        "text": "The container creates new water",
+        "is_correct": false
+      },
+      {
+        "text": "Water is a solid",
+        "is_correct": false
+      },
+      {
+        "text": "Water is a liquid and can flow while keeping its volume",
         "is_correct": true
       },
       {
-        "text": "Cold matter is poured into the water",
-        "is_correct": false
-      },
-      {
-        "text": "Heat energy is added until it freezes",
-        "is_correct": false
-      },
-      {
-        "text": "No energy transfer is involved",
+        "text": "Water has no volume",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Freezing occurs as heat energy transfers away from a liquid.",
-      "hint": "Describe the direction of heat transfer, not cold as a substance."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3U04-P-015",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, which observation best shows that the melted chocolate is a liquid?",
-    "audio_prompt": "In the materials tray, which observation best shows that the melted chocolate is a liquid?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-015",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"chocolate piece\",\"melted chocolate\"]"
-    },
-    "answers": [
-      {
-        "text": "It keeps its own shape in every container",
-        "is_correct": false
-      },
-      {
-        "text": "It flows and takes the shape of the occupied part of its container",
-        "is_correct": true
-      },
-      {
-        "text": "It has no volume or mass",
-        "is_correct": false
-      },
-      {
-        "text": "It must always be clear and colourless",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Liquids flow and take the shape of the part of a container they occupy.",
-      "hint": "Focus on observable shape and flow."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3U04-P-016",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, which observation best shows that the chocolate piece is a solid?",
-    "audio_prompt": "In the materials tray, which observation best shows that the chocolate piece is a solid?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-016",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"chocolate piece\",\"melted chocolate\"]"
-    },
-    "answers": [
-      {
-        "text": "It fills the bottom of every container",
-        "is_correct": false
-      },
-      {
-        "text": "It must be hard and heavy",
-        "is_correct": false
-      },
-      {
-        "text": "It keeps its own shape when moved between containers",
-        "is_correct": true
-      },
-      {
-        "text": "It has no observable properties",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "The container creates new water",
+      "Water is a solid",
+      "Water is a liquid and can flow while keeping its volume",
+      "Water has no volume"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A solid keeps its own shape under ordinary conditions, even when it is soft.",
-      "hint": "Ask what happens when only the container changes."
+      "summary": "Liquids do not have a fixed shape.",
+      "hint": "Flowing changes shape, not amount."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Liquids do not have a fixed shape.",
+      "hint": "Flowing changes shape, not amount."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-017",
+    "id": "ac9s3u04-p-012",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, what happens when enough heat energy is added to the chocolate piece?",
-    "audio_prompt": "In the materials tray, what happens when enough heat energy is added to the chocolate piece?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why does a wooden block keep its shape when moved between containers?",
+    "audio_prompt": "Why does a wooden block keep its shape when moved between containers?",
+    "audioPrompt": "Why does a wooden block keep its shape when moved between containers?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-017",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"chocolate piece\",\"heat added\",\"melted chocolate\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It freezes and becomes melted chocolate",
+        "text": "Wood is a liquid",
         "is_correct": false
       },
       {
-        "text": "It disappears from the container",
+        "text": "It is a solid with a definite shape",
+        "is_correct": true
+      },
+      {
+        "text": "The containers force it to be solid",
         "is_correct": false
       },
       {
-        "text": "It stays solid with no observable change",
+        "text": "Solids have no volume",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Wood is a liquid",
+      "It is a solid with a definite shape",
+      "The containers force it to be solid",
+      "Solids have no volume"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Solids generally retain their own shape.",
+      "hint": "Fixed shape."
+    },
+    "structuredExplanation": {
+      "summary": "Solids generally retain their own shape.",
+      "hint": "Fixed shape."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why is “liquids have no volume” incorrect?",
+    "audio_prompt": "Why is “liquids have no volume” incorrect?",
+    "audioPrompt": "Why is “liquids have no volume” incorrect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A liquid amount can be measured even though its shape changes",
+        "is_correct": true
+      },
+      {
+        "text": "Liquids are empty",
         "is_correct": false
       },
       {
-        "text": "It melts and becomes melted chocolate",
+        "text": "Only solids take up space",
+        "is_correct": false
+      },
+      {
+        "text": "Volume means shape",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A liquid amount can be measured even though its shape changes",
+      "Liquids are empty",
+      "Only solids take up space",
+      "Volume means shape"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Liquids occupy space and their volume can be measured.",
+      "hint": "Amount is not the same as shape."
+    },
+    "structuredExplanation": {
+      "summary": "Liquids occupy space and their volume can be measured.",
+      "hint": "Amount is not the same as shape."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why does ice melt on a warm bench?",
+    "audio_prompt": "Why does ice melt on a warm bench?",
+    "audioPrompt": "Why does ice melt on a warm bench?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Cold leaves as a substance",
+        "is_correct": false
+      },
+      {
+        "text": "The ice chooses to melt",
+        "is_correct": false
+      },
+      {
+        "text": "Melting happens without energy transfer",
+        "is_correct": false
+      },
+      {
+        "text": "Heat energy transfers into the colder ice",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "Cold leaves as a substance",
+      "The ice chooses to melt",
+      "Melting happens without energy transfer",
+      "Heat energy transfers into the colder ice"
     ],
     "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Melting is the change from solid to liquid caused by adding heat energy.",
-      "hint": "Follow the solid-to-liquid arrow."
+      "summary": "Heat from warmer surroundings can cause the state change.",
+      "hint": "Heat added to ice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Heat from warmer surroundings can cause the state change.",
+      "hint": "Heat added to ice."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-018",
+    "id": "ac9s3u04-p-015",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, what can happen when heat energy is removed from the melted chocolate?",
-    "audio_prompt": "In the materials tray, what can happen when heat energy is removed from the melted chocolate?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why does water freeze in a freezer?",
+    "audio_prompt": "Why does water freeze in a freezer?",
+    "audioPrompt": "Why does water freeze in a freezer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-018",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"melted chocolate\",\"heat removed\",\"solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It freezes and becomes a solid",
+        "text": "Cold is poured into the water",
+        "is_correct": false
+      },
+      {
+        "text": "Water freezes because it is in a container",
+        "is_correct": false
+      },
+      {
+        "text": "Heat energy is removed from the water until it changes state",
         "is_correct": true
       },
       {
-        "text": "It melts into another liquid",
-        "is_correct": false
-      },
-      {
-        "text": "It stops being matter",
-        "is_correct": false
-      },
-      {
-        "text": "It must boil",
+        "text": "The freezer adds heat",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Freezing is the change from liquid to solid as heat energy is removed.",
-      "hint": "Follow the liquid-to-solid arrow."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3U04-P-019",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, which sequence is a reversible change of state?",
-    "audio_prompt": "In the materials tray, which sequence is a reversible change of state?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-019",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"chocolate piece\",\"melted chocolate\",\"chocolate piece\"]"
-    },
-    "answers": [
-      {
-        "text": "chocolate piece → ash → chocolate piece",
-        "is_correct": false
-      },
-      {
-        "text": "chocolate piece → melted chocolate → chocolate piece",
-        "is_correct": true
-      },
-      {
-        "text": "chocolate piece → smaller pieces → smoke",
-        "is_correct": false
-      },
-      {
-        "text": "melted chocolate → a different material → chocolate piece",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Melting and freezing can reverse the state while the material remains the same.",
-      "hint": "Look for opposite changes controlled by adding and removing heat."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3U04-P-020",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, the chocolate piece changes into melted chocolate inside a sealed bag. What stayed the same?",
-    "audio_prompt": "In the materials tray, the chocolate piece changes into melted chocolate inside a sealed bag. What stayed the same?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-020",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"solid material\",\"liquid material\",\"same sealed bag\"]"
-    },
-    "answers": [
-      {
-        "text": "Its state remained solid",
-        "is_correct": false
-      },
-      {
-        "text": "Its shape remained unchanged",
-        "is_correct": false
-      },
-      {
-        "text": "The material remained present inside the bag",
-        "is_correct": true
-      },
-      {
-        "text": "A new material replaced it",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Cold is poured into the water",
+      "Water freezes because it is in a container",
+      "Heat energy is removed from the water until it changes state",
+      "The freezer adds heat"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A state change alters state and observable properties, not the material's identity.",
-      "hint": "Track the material inside the sealed boundary."
+      "summary": "Cooling removes heat and can cause liquid water to become solid.",
+      "hint": "Heat removed."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Cooling removes heat and can cause liquid water to become solid.",
+      "hint": "Heat removed."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-021",
+    "id": "ac9s3u04-p-016",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, which observation is the strongest evidence that melting occurred?",
-    "audio_prompt": "In the materials tray, which observation is the strongest evidence that melting occurred?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why can melted chocolate become solid again when cooled?",
+    "audio_prompt": "Why can melted chocolate become solid again when cooled?",
+    "audioPrompt": "Why can melted chocolate become solid again when cooled?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-021",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"solid\",\"melting\",\"liquid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The solid was cut into two pieces",
+        "text": "The chocolate is replaced",
         "is_correct": false
       },
       {
-        "text": "The container was given a new label",
+        "text": "Removing heat can reverse the change from liquid back to solid",
+        "is_correct": true
+      },
+      {
+        "text": "Chocolate stops being matter",
         "is_correct": false
       },
       {
-        "text": "The liquid was poured into another cup",
+        "text": "Cooling always makes gases",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The chocolate is replaced",
+      "Removing heat can reverse the change from liquid back to solid",
+      "Chocolate stops being matter",
+      "Cooling always makes gases"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Some changes of state are reversible by adding or removing heat.",
+      "hint": "Liquid → solid when cooled."
+    },
+    "structuredExplanation": {
+      "summary": "Some changes of state are reversible by adding or removing heat.",
+      "hint": "Liquid → solid when cooled."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-017",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why is cutting an ice cube not the same as melting it?",
+    "audio_prompt": "Why is cutting an ice cube not the same as melting it?",
+    "audioPrompt": "Why is cutting an ice cube not the same as melting it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Cutting changes size and shape but not state; melting changes solid to liquid",
+        "is_correct": true
+      },
+      {
+        "text": "Cutting always creates liquid",
         "is_correct": false
       },
       {
-        "text": "The solid lost its own shape and began to flow",
+        "text": "Both are chemical reactions",
+        "is_correct": false
+      },
+      {
+        "text": "Both remove all volume",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Cutting changes size and shape but not state; melting changes solid to liquid",
+      "Cutting always creates liquid",
+      "Both are chemical reactions",
+      "Both remove all volume"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A change of state is different from simply changing shape.",
+      "hint": "State versus size."
+    },
+    "structuredExplanation": {
+      "summary": "A change of state is different from simply changing shape.",
+      "hint": "State versus size."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-018",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why does the same 100 mL of water look different in a tall glass and wide bowl?",
+    "audio_prompt": "Why does the same 100 mL of water look different in a tall glass and wide bowl?",
+    "audioPrompt": "Why does the same 100 mL of water look different in a tall glass and wide bowl?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Its amount doubles in the bowl",
+        "is_correct": false
+      },
+      {
+        "text": "Water has no volume",
+        "is_correct": false
+      },
+      {
+        "text": "The glass creates a new liquid",
+        "is_correct": false
+      },
+      {
+        "text": "Its shape changes to fit each container, but the volume stays 100 mL",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "Its amount doubles in the bowl",
+      "Water has no volume",
+      "The glass creates a new liquid",
+      "Its shape changes to fit each container, but the volume stays 100 mL"
     ],
     "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Melting is observed when a solid becomes a flowing liquid.",
-      "hint": "Choose evidence of a state change, not a size or location change."
+      "summary": "Liquid shape depends on container while volume can remain constant.",
+      "hint": "Same amount, different shape."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Liquid shape depends on container while volume can remain constant.",
+      "hint": "Same amount, different shape."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-022",
+    "id": "ac9s3u04-p-019",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, two equal chocolate piece samples are placed in warmer and cooler locations. Which prediction is most reasonable?",
-    "audio_prompt": "In the materials tray, two equal chocolate piece samples are placed in warmer and cooler locations. Which prediction is most reasonable?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why can heating a solid cause melting?",
+    "audio_prompt": "Why can heating a solid cause melting?",
+    "audioPrompt": "Why can heating a solid cause melting?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-022",
-      "alt_text": "In the materials tray: observable state-change evidence showing [[\"location\",\"prediction\"],[\"warmer\",\"sooner\"],[\"cooler\",\"later\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The warmer sample will probably melt sooner",
+        "text": "Melting needs no energy",
+        "is_correct": false
+      },
+      {
+        "text": "All solids melt at room temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Added heat energy can allow the solid to change into a liquid",
         "is_correct": true
       },
       {
-        "text": "The cooler sample must melt sooner",
-        "is_correct": false
-      },
-      {
-        "text": "Both must change at exactly the same second",
-        "is_correct": false
-      },
-      {
-        "text": "Neither sample can change state",
+        "text": "Heat makes every solid vanish",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Melting needs no energy",
+      "All solids melt at room temperature",
+      "Added heat energy can allow the solid to change into a liquid",
+      "Heat makes every solid vanish"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A warmer surrounding can transfer heat energy to the sample more quickly.",
-      "hint": "Compare the direction and likely rate of heat transfer."
+      "summary": "Heating can trigger a solid-to-liquid state change when enough energy is transferred.",
+      "hint": "Add heat."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Heating can trigger a solid-to-liquid state change when enough energy is transferred.",
+      "hint": "Add heat."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-023",
+    "id": "ac9s3u04-p-020",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, which record gives useful evidence during a chocolate piece melting investigation?",
-    "audio_prompt": "In the materials tray, which record gives useful evidence during a chocolate piece melting investigation?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why can cooling a liquid cause freezing?",
+    "audio_prompt": "Why can cooling a liquid cause freezing?",
+    "audioPrompt": "Why can cooling a liquid cause freezing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-023",
-      "alt_text": "In the materials tray: observable state-change evidence showing [[\"time\",\"state\"],[\"0 min\",\"solid\"],[\"later\",\"partly liquid\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A vote for the nicest-looking sample",
+        "text": "Freezing changes mass into nothing",
         "is_correct": false
       },
       {
-        "text": "State and visible change recorded at equal time intervals",
+        "text": "Removing heat energy can allow the liquid to become solid",
         "is_correct": true
       },
       {
-        "text": "Only the colour of each bag label",
+        "text": "Cooling adds heat",
         "is_correct": false
       },
       {
-        "text": "A guess written after the investigation",
+        "text": "Every liquid freezes at the same temperature",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Freezing changes mass into nothing",
+      "Removing heat energy can allow the liquid to become solid",
+      "Cooling adds heat",
+      "Every liquid freezes at the same temperature"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Timed observations provide evidence about when and how the state changes.",
-      "hint": "Choose information another observer could check."
+      "summary": "Cooling can produce a liquid-to-solid state change.",
+      "hint": "Remove heat."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Cooling can produce a liquid-to-solid state change.",
+      "hint": "Remove heat."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-024",
+    "id": "ac9s3u04-p-021",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, why should equal pieces of chocolate piece be used when comparing two locations?",
-    "audio_prompt": "In the materials tray, why should equal pieces of chocolate piece be used when comparing two locations?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which statement describes a liquid rather than a solid?",
+    "audio_prompt": "Which statement describes a liquid rather than a solid?",
+    "audioPrompt": "Which statement describes a liquid rather than a solid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-024",
-      "alt_text": "In the materials tray: observable state-change evidence showing [[\"change\",\"location\"],[\"same\",\"sample size\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "So both results are guaranteed to match",
-        "is_correct": false
-      },
-      {
-        "text": "So no observations need to be recorded",
-        "is_correct": false
-      },
-      {
-        "text": "So location is the main tested difference",
+        "text": "It flows and takes the shape of its container",
         "is_correct": true
       },
       {
-        "text": "So heat energy cannot transfer",
+        "text": "It keeps its own shape",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot be poured",
+        "is_correct": false
+      },
+      {
+        "text": "It always stays rigid",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "It flows and takes the shape of its container",
+      "It keeps its own shape",
+      "It cannot be poured",
+      "It always stays rigid"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Keeping sample size the same makes the comparison fairer.",
-      "hint": "Identify what should change and what should stay the same."
+      "summary": "Flow and container-shaped form are liquid properties.",
+      "hint": "Liquid behaviour."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Flow and container-shaped form are liquid properties.",
+      "hint": "Liquid behaviour."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-025",
+    "id": "ac9s3u04-p-022",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, a soft sponge keeps its shape when placed in a bowl. How should it be classified?",
-    "audio_prompt": "In the materials tray, a soft sponge keeps its shape when placed in a bowl. How should it be classified?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which statement is a misconception?",
+    "audio_prompt": "Which statement is a misconception?",
+    "audioPrompt": "Which statement is a misconception?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-025",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"soft sponge\",\"keeps shape\",\"solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "As a liquid because it is soft",
+        "text": "Liquids can be measured by volume",
         "is_correct": false
       },
       {
-        "text": "As neither because all solids are hard",
+        "text": "Solids usually keep their shape",
         "is_correct": false
       },
       {
-        "text": "As a liquid because the bowl is curved",
+        "text": "Heating can melt some solids",
         "is_correct": false
       },
       {
-        "text": "As a solid because it keeps its own shape",
+        "text": "Liquids have no volume because they change shape",
         "is_correct": true
       }
     ],
+    "answer_texts": [
+      "Liquids can be measured by volume",
+      "Solids usually keep their shape",
+      "Heating can melt some solids",
+      "Liquids have no volume because they change shape"
+    ],
     "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Hardness is not the defining property; solids keep their own shape.",
-      "hint": "Use shape and flow rather than hard and soft."
+      "summary": "Shape change does not mean the liquid lacks volume.",
+      "hint": "Amount still exists."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Shape change does not mean the liquid lacks volume.",
+      "hint": "Amount still exists."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-026",
+    "id": "ac9s3u04-p-023",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, thick syrup moves slowly but spreads across the bottom of a container. What is it?",
-    "audio_prompt": "In the materials tray, thick syrup moves slowly but spreads across the bottom of a container. What is it?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which is a change of state?",
+    "audio_prompt": "Which is a change of state?",
+    "audioPrompt": "Which is a change of state?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-026",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"thick syrup\",\"slow flow\",\"container shape\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A liquid because it flows and takes the container's shape",
+        "text": "A can being crushed",
+        "is_correct": false
+      },
+      {
+        "text": "Clay being shaped",
+        "is_correct": false
+      },
+      {
+        "text": "Ice melting into water",
         "is_correct": true
       },
       {
-        "text": "A solid because it flows slowly",
-        "is_correct": false
-      },
-      {
-        "text": "A solid because it is sticky",
-        "is_correct": false
-      },
-      {
-        "text": "Not matter because it changes shape",
+        "text": "Paper being cut",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A can being crushed",
+      "Clay being shaped",
+      "Ice melting into water",
+      "Paper being cut"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A liquid can flow slowly; speed and stickiness do not change its state classification.",
-      "hint": "Ask whether it flows, not whether it flows quickly."
+      "summary": "Melting changes matter from solid to liquid.",
+      "hint": "State changes, not just shape."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Melting changes matter from solid to liquid.",
+      "hint": "State changes, not just shape."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-027",
+    "id": "ac9s3u04-p-024",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, why can heating and cooling help form a new glass object during specialist recycling?",
-    "audio_prompt": "In the materials tray, why can heating and cooling help form a new glass object during specialist recycling?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which is NOT a change of state?",
+    "audio_prompt": "Which is NOT a change of state?",
+    "audioPrompt": "Which is NOT a change of state?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-027",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"sorted glass\",\"heat and shape\",\"cool to solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Heating makes the glass disappear",
+        "text": "Ice melting",
         "is_correct": false
       },
       {
-        "text": "Heating makes glass workable and cooling lets it become solid again",
+        "text": "Breaking a chocolate bar into pieces",
         "is_correct": true
       },
       {
-        "text": "Cooling changes glass into plastic",
+        "text": "Chocolate melting",
         "is_correct": false
       },
       {
-        "text": "Every material can be recycled with the same process",
+        "text": "Water freezing",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Ice melting",
+      "Breaking a chocolate bar into pieces",
+      "Chocolate melting",
+      "Water freezing"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Controlled heating and cooling can allow suitable materials to be reshaped and solidified.",
-      "hint": "Sequence heat, shape and cool."
+      "summary": "Breaking changes size and shape while the chocolate remains solid.",
+      "hint": "Physical shape change only."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Breaking changes size and shape while the chocolate remains solid.",
+      "hint": "Physical shape change only."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-P-028",
+    "id": "ac9s3u04-p-025",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "practice",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "In the materials tray, a student says cold is added when melted chocolate freezes. Which correction is most accurate?",
-    "audio_prompt": "In the materials tray, a student says cold is added when melted chocolate freezes. Which correction is most accurate?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which sequence is correct when heating ice?",
+    "audio_prompt": "Which sequence is correct when heating ice?",
+    "audioPrompt": "Which sequence is correct when heating ice?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-p-028",
-      "alt_text": "In the materials tray: observable state-change evidence showing [\"melted chocolate\",\"heat transferred away\",\"solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Cold matter is poured into the melted chocolate",
-        "is_correct": false
-      },
-      {
-        "text": "Heat energy is added until it freezes",
-        "is_correct": false
-      },
-      {
-        "text": "Heat energy is removed from the melted chocolate",
+        "text": "Solid ice → liquid water",
         "is_correct": true
       },
       {
-        "text": "No energy transfer is involved",
+        "text": "Liquid water → solid ice",
+        "is_correct": false
+      },
+      {
+        "text": "Solid ice → smaller solid only",
+        "is_correct": false
+      },
+      {
+        "text": "Liquid water → rock",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Solid ice → liquid water",
+      "Liquid water → solid ice",
+      "Solid ice → smaller solid only",
+      "Liquid water → rock"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Freezing occurs as heat energy transfers away from a liquid.",
-      "hint": "Describe the direction of heat transfer, not cold as a substance."
+      "summary": "Heating can melt solid ice into liquid water.",
+      "hint": "Solid to liquid."
+    },
+    "structuredExplanation": {
+      "summary": "Heating can melt solid ice into liquid water.",
+      "hint": "Solid to liquid."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-026",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which sequence is correct when cooling water in a freezer?",
+    "audio_prompt": "Which sequence is correct when cooling water in a freezer?",
+    "audioPrompt": "Which sequence is correct when cooling water in a freezer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Solid ice → liquid water",
+        "is_correct": false
+      },
+      {
+        "text": "Water → smoke",
+        "is_correct": false
+      },
+      {
+        "text": "Solid → liquid",
+        "is_correct": false
+      },
+      {
+        "text": "Liquid water → solid ice",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Solid ice → liquid water",
+      "Water → smoke",
+      "Solid → liquid",
+      "Liquid water → solid ice"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Cooling water sufficiently causes freezing.",
+      "hint": "Liquid to solid."
+    },
+    "structuredExplanation": {
+      "summary": "Cooling water sufficiently causes freezing.",
+      "hint": "Liquid to solid."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-027",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which observation best shows a liquid has volume?",
+    "audio_prompt": "Which observation best shows a liquid has volume?",
+    "audioPrompt": "Which observation best shows a liquid has volume?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The juice can flow",
+        "is_correct": false
+      },
+      {
+        "text": "The juice is orange",
+        "is_correct": false
+      },
+      {
+        "text": "A measuring cup shows 250 mL of juice",
+        "is_correct": true
+      },
+      {
+        "text": "The juice changes shape",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The juice can flow",
+      "The juice is orange",
+      "A measuring cup shows 250 mL of juice",
+      "The juice changes shape"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "A measured volume directly shows the liquid occupies a definite amount.",
+      "hint": "Look for mL."
+    },
+    "structuredExplanation": {
+      "summary": "A measured volume directly shows the liquid occupies a definite amount.",
+      "hint": "Look for mL."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-028",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which statement best compares solids and liquids?",
+    "audio_prompt": "Which statement best compares solids and liquids?",
+    "audioPrompt": "Which statement best compares solids and liquids?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Neither occupies space",
+        "is_correct": false
+      },
+      {
+        "text": "Both have volume, but solids keep shape while liquids take container shape",
+        "is_correct": true
+      },
+      {
+        "text": "Only solids have volume",
+        "is_correct": false
+      },
+      {
+        "text": "Liquids keep shape and solids flow",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Neither occupies space",
+      "Both have volume, but solids keep shape while liquids take container shape",
+      "Only solids have volume",
+      "Liquids keep shape and solids flow"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Both states occupy space, but their shape behaviour differs.",
+      "hint": "Volume shared, shape differs."
+    },
+    "structuredExplanation": {
+      "summary": "Both states occupy space, but their shape behaviour differs.",
+      "hint": "Volume shared, shape differs."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-029",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Chocolate is softening near a heater. What is most likely happening?",
+    "audio_prompt": "Chocolate is softening near a heater. What is most likely happening?",
+    "audioPrompt": "Chocolate is softening near a heater. What is most likely happening?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It is gaining heat and beginning to melt",
+        "is_correct": true
+      },
+      {
+        "text": "It is freezing",
+        "is_correct": false
+      },
+      {
+        "text": "It is losing heat",
+        "is_correct": false
+      },
+      {
+        "text": "It is turning into a gas instantly",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It is gaining heat and beginning to melt",
+      "It is freezing",
+      "It is losing heat",
+      "It is turning into a gas instantly"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Added heat can cause chocolate to soften and melt.",
+      "hint": "Warmth added."
+    },
+    "structuredExplanation": {
+      "summary": "Added heat can cause chocolate to soften and melt.",
+      "hint": "Warmth added."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-030",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Water left in an ice tray becomes solid. What changed?",
+    "audio_prompt": "Water left in an ice tray becomes solid. What changed?",
+    "audioPrompt": "Water left in an ice tray becomes solid. What changed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Its matter disappeared",
+        "is_correct": false
+      },
+      {
+        "text": "Its volume became zero",
+        "is_correct": false
+      },
+      {
+        "text": "It became a different substance automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Its state changed from liquid to solid",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Its matter disappeared",
+      "Its volume became zero",
+      "It became a different substance automatically",
+      "Its state changed from liquid to solid"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Freezing is a physical state change.",
+      "hint": "Same substance, different state."
+    },
+    "structuredExplanation": {
+      "summary": "Freezing is a physical state change.",
+      "hint": "Same substance, different state."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-031",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "You pour 150 mL of water from a narrow cylinder into a wide bowl without spilling. What volume should you still have?",
+    "audio_prompt": "You pour 150 mL of water from a narrow cylinder into a wide bowl without spilling. What volume should you still have?",
+    "audioPrompt": "You pour 150 mL of water from a narrow cylinder into a wide bowl without spilling. What volume should you still have?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "75 mL",
+        "is_correct": false
+      },
+      {
+        "text": "0 mL",
+        "is_correct": false
+      },
+      {
+        "text": "150 mL",
+        "is_correct": true
+      },
+      {
+        "text": "300 mL",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "75 mL",
+      "0 mL",
+      "150 mL",
+      "300 mL"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Changing container shape does not change the amount of liquid if none is lost.",
+      "hint": "Same amount."
+    },
+    "structuredExplanation": {
+      "summary": "Changing container shape does not change the amount of liquid if none is lost.",
+      "hint": "Same amount."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-032",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "A butter cube sits on a warm plate and becomes a puddle. What caused the change?",
+    "audio_prompt": "A butter cube sits on a warm plate and becomes a puddle. What caused the change?",
+    "audioPrompt": "A butter cube sits on a warm plate and becomes a puddle. What caused the change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The butter stopped being matter",
+        "is_correct": false
+      },
+      {
+        "text": "Heat energy transferred into the butter and it melted",
+        "is_correct": true
+      },
+      {
+        "text": "The plate removed heat",
+        "is_correct": false
+      },
+      {
+        "text": "The butter froze",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The butter stopped being matter",
+      "Heat energy transferred into the butter and it melted",
+      "The plate removed heat",
+      "The butter froze"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Warming caused a solid-to-liquid state change.",
+      "hint": "Heat in → melting."
+    },
+    "structuredExplanation": {
+      "summary": "Warming caused a solid-to-liquid state change.",
+      "hint": "Heat in → melting."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-033",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "A tray of liquid juice becomes icy in a freezer. What process occurred?",
+    "audio_prompt": "A tray of liquid juice becomes icy in a freezer. What process occurred?",
+    "audioPrompt": "A tray of liquid juice becomes icy in a freezer. What process occurred?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Freezing",
+        "is_correct": true
+      },
+      {
+        "text": "Melting",
+        "is_correct": false
+      },
+      {
+        "text": "Cutting",
+        "is_correct": false
+      },
+      {
+        "text": "Dissolving",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Freezing",
+      "Melting",
+      "Cutting",
+      "Dissolving"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The liquid became solid as heat was removed.",
+      "hint": "Liquid to solid."
+    },
+    "structuredExplanation": {
+      "summary": "The liquid became solid as heat was removed.",
+      "hint": "Liquid to solid."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-034",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "A student says “because water changes shape, the amount changes too.” What evidence would best challenge this?",
+    "audio_prompt": "A student says “because water changes shape, the amount changes too.” What evidence would best challenge this?",
+    "audioPrompt": "A student says “because water changes shape, the amount changes too.” What evidence would best challenge this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Look only at container colour",
+        "is_correct": false
+      },
+      {
+        "text": "Use different water amounts",
+        "is_correct": false
+      },
+      {
+        "text": "Spill some water",
+        "is_correct": false
+      },
+      {
+        "text": "Measure the same water before and after pouring into a different-shaped container",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Look only at container colour",
+      "Use different water amounts",
+      "Spill some water",
+      "Measure the same water before and after pouring into a different-shaped container"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A controlled volume measurement shows shape can change while amount stays constant.",
+      "hint": "Measure before and after."
+    },
+    "structuredExplanation": {
+      "summary": "A controlled volume measurement shows shape can change while amount stays constant.",
+      "hint": "Measure before and after."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-035",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which investigation best compares solid and liquid properties?",
+    "audio_prompt": "Which investigation best compares solid and liquid properties?",
+    "audioPrompt": "Which investigation best compares solid and liquid properties?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Use different substances and no measurements",
+        "is_correct": false
+      },
+      {
+        "text": "Ask which looks better",
+        "is_correct": false
+      },
+      {
+        "text": "Place a block and equal-volume water into differently shaped containers and observe shape and volume",
+        "is_correct": true
+      },
+      {
+        "text": "Heat both until they burn",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Use different substances and no measurements",
+      "Ask which looks better",
+      "Place a block and equal-volume water into differently shaped containers and observe shape and volume",
+      "Heat both until they burn"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The setup directly compares shape behaviour and occupied volume.",
+      "hint": "Observe state properties."
+    },
+    "structuredExplanation": {
+      "summary": "The setup directly compares shape behaviour and occupied volume.",
+      "hint": "Observe state properties."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-036",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "An ice cube is cut in half but remains frozen. Has a state change occurred?",
+    "audio_prompt": "An ice cube is cut in half but remains frozen. Has a state change occurred?",
+    "audioPrompt": "An ice cube is cut in half but remains frozen. Has a state change occurred?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "No, because solids cannot change shape",
+        "is_correct": false
+      },
+      {
+        "text": "No, it is still solid ice",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, cutting means melting",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, every size change is a state change",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "No, because solids cannot change shape",
+      "No, it is still solid ice",
+      "Yes, cutting means melting",
+      "Yes, every size change is a state change"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The ice changed size but remained in the solid state.",
+      "hint": "State stayed solid."
+    },
+    "structuredExplanation": {
+      "summary": "The ice changed size but remained in the solid state.",
+      "hint": "State stayed solid."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-037",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "A class wants to reverse melted wax back to solid wax. What should they do?",
+    "audio_prompt": "A class wants to reverse melted wax back to solid wax. What should they do?",
+    "audioPrompt": "A class wants to reverse melted wax back to solid wax. What should they do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Remove heat and allow it to cool",
+        "is_correct": true
+      },
+      {
+        "text": "Add more heat",
+        "is_correct": false
+      },
+      {
+        "text": "Add water only",
+        "is_correct": false
+      },
+      {
+        "text": "Break the liquid into pieces",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Remove heat and allow it to cool",
+      "Add more heat",
+      "Add water only",
+      "Break the liquid into pieces"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Cooling can reverse melting by allowing the liquid to solidify.",
+      "hint": "Remove heat."
+    },
+    "structuredExplanation": {
+      "summary": "Cooling can reverse melting by allowing the liquid to solidify.",
+      "hint": "Remove heat."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-038",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "A liquid is transferred to a star-shaped mould. What should happen before freezing?",
+    "audio_prompt": "A liquid is transferred to a star-shaped mould. What should happen before freezing?",
+    "audioPrompt": "A liquid is transferred to a star-shaped mould. What should happen before freezing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It keeps the old container shape",
+        "is_correct": false
+      },
+      {
+        "text": "Its volume becomes zero",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes solid immediately just from pouring",
+        "is_correct": false
+      },
+      {
+        "text": "It takes the mould’s shape while remaining liquid",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "It keeps the old container shape",
+      "Its volume becomes zero",
+      "It becomes solid immediately just from pouring",
+      "It takes the mould’s shape while remaining liquid"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Liquids adopt container shape before any state change.",
+      "hint": "Container shape."
+    },
+    "structuredExplanation": {
+      "summary": "Liquids adopt container shape before any state change.",
+      "hint": "Container shape."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-039",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "A solid sample becomes liquid after heating, then solid again after cooling. What does this show?",
+    "audio_prompt": "A solid sample becomes liquid after heating, then solid again after cooling. What does this show?",
+    "audioPrompt": "A solid sample becomes liquid after heating, then solid again after cooling. What does this show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Only one state existed",
+        "is_correct": false
+      },
+      {
+        "text": "Cooling and heating have no effect",
+        "is_correct": false
+      },
+      {
+        "text": "The state change can be reversible by adding or removing heat",
+        "is_correct": true
+      },
+      {
+        "text": "The material was destroyed",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Only one state existed",
+      "Cooling and heating have no effect",
+      "The state change can be reversible by adding or removing heat",
+      "The material was destroyed"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Melting and freezing can be reverse physical changes.",
+      "hint": "Heat in / heat out."
+    },
+    "structuredExplanation": {
+      "summary": "Melting and freezing can be reverse physical changes.",
+      "hint": "Heat in / heat out."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-p-040",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "practice",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which explanation is strongest for ice cream melting outdoors?",
+    "audio_prompt": "Which explanation is strongest for ice cream melting outdoors?",
+    "audioPrompt": "Which explanation is strongest for ice cream melting outdoors?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Melting means it loses all volume",
+        "is_correct": false
+      },
+      {
+        "text": "It receives heat energy from warmer surroundings, causing solid parts to become liquid",
+        "is_correct": true
+      },
+      {
+        "text": "Cold escapes as a substance",
+        "is_correct": false
+      },
+      {
+        "text": "Sunlight turns it into a new element",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Melting means it loses all volume",
+      "It receives heat energy from warmer surroundings, causing solid parts to become liquid",
+      "Cold escapes as a substance",
+      "Sunlight turns it into a new element"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Heat transfer from warmer surroundings drives melting.",
+      "hint": "Warm surroundings → colder ice cream."
+    },
+    "structuredExplanation": {
+      "summary": "Heat transfer from warmer surroundings drives melting.",
+      "hint": "Warm surroundings → colder ice cream."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-t-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "test",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which describes a solid?",
+    "audio_prompt": "Which describes a solid?",
+    "audioPrompt": "Which describes a solid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Has no volume",
+        "is_correct": false
+      },
+      {
+        "text": "Always flows",
+        "is_correct": false
+      },
+      {
+        "text": "Keeps its own shape",
+        "is_correct": true
+      },
+      {
+        "text": "Takes any container shape",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Has no volume",
+      "Always flows",
+      "Keeps its own shape",
+      "Takes any container shape"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Solids have definite shape and volume.",
+      "hint": "Think fixed shape."
+    },
+    "structuredExplanation": {
+      "summary": "Solids have definite shape and volume.",
+      "hint": "Think fixed shape."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-T-001",
+    "id": "ac9s3u04-t-002",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, which observation best shows that the melted wax is a liquid?",
-    "audio_prompt": "During the chocolate test, which observation best shows that the melted wax is a liquid?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which describes a liquid?",
+    "audio_prompt": "Which describes a liquid?",
+    "audioPrompt": "Which describes a liquid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-001",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"candle wax\",\"melted wax\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It keeps its own shape in every container",
+        "text": "Cannot flow",
         "is_correct": false
       },
       {
-        "text": "It has no volume or mass",
-        "is_correct": false
-      },
-      {
-        "text": "It must always be clear and colourless",
-        "is_correct": false
-      },
-      {
-        "text": "It flows and takes the shape of the occupied part of its container",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Liquids flow and take the shape of the part of a container they occupy.",
-      "hint": "Focus on observable shape and flow."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-002",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, which observation best shows that the candle wax is a solid?",
-    "audio_prompt": "During the chocolate test, which observation best shows that the candle wax is a solid?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-002",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"candle wax\",\"melted wax\"]"
-    },
-    "answers": [
-      {
-        "text": "It keeps its own shape when moved between containers",
+        "text": "Takes container shape but has volume",
         "is_correct": true
       },
       {
-        "text": "It fills the bottom of every container",
+        "text": "Keeps one fixed shape",
         "is_correct": false
       },
       {
-        "text": "It must be hard and heavy",
-        "is_correct": false
-      },
-      {
-        "text": "It has no observable properties",
+        "text": "Has no volume",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A solid keeps its own shape under ordinary conditions, even when it is soft.",
-      "hint": "Ask what happens when only the container changes."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-003",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, what happens when enough heat energy is added to the candle wax?",
-    "audio_prompt": "During the chocolate test, what happens when enough heat energy is added to the candle wax?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-003",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"candle wax\",\"heat added\",\"melted wax\"]"
-    },
-    "answers": [
-      {
-        "text": "It freezes and becomes melted wax",
-        "is_correct": false
-      },
-      {
-        "text": "It melts and becomes melted wax",
-        "is_correct": true
-      },
-      {
-        "text": "It disappears from the container",
-        "is_correct": false
-      },
-      {
-        "text": "It stays solid with no observable change",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Cannot flow",
+      "Takes container shape but has volume",
+      "Keeps one fixed shape",
+      "Has no volume"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Melting is the change from solid to liquid caused by adding heat energy.",
-      "hint": "Follow the solid-to-liquid arrow."
-    }
+      "summary": "Liquids flow and have definite volume.",
+      "hint": "Shape changes, amount remains."
+    },
+    "structuredExplanation": {
+      "summary": "Liquids flow and have definite volume.",
+      "hint": "Shape changes, amount remains."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-T-004",
+    "id": "ac9s3u04-t-003",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, what can happen when heat energy is removed from the melted wax?",
-    "audio_prompt": "During the chocolate test, what can happen when heat energy is removed from the melted wax?",
+    "skill": "solids, liquids and changes of state",
+    "question": "When solid chocolate becomes liquid chocolate, what change is occurring?",
+    "audio_prompt": "When solid chocolate becomes liquid chocolate, what change is occurring?",
+    "audioPrompt": "When solid chocolate becomes liquid chocolate, what change is occurring?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-004",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"melted wax\",\"heat removed\",\"solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It melts into another liquid",
-        "is_correct": false
-      },
-      {
-        "text": "It stops being matter",
-        "is_correct": false
-      },
-      {
-        "text": "It freezes and becomes a solid",
+        "text": "Melting",
         "is_correct": true
       },
       {
-        "text": "It must boil",
+        "text": "Freezing",
+        "is_correct": false
+      },
+      {
+        "text": "Condensing",
+        "is_correct": false
+      },
+      {
+        "text": "Breaking into pieces",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Freezing is the change from liquid to solid as heat energy is removed.",
-      "hint": "Follow the liquid-to-solid arrow."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-005",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, which sequence is a reversible change of state?",
-    "audio_prompt": "During the chocolate test, which sequence is a reversible change of state?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-005",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"candle wax\",\"melted wax\",\"candle wax\"]"
-    },
-    "answers": [
-      {
-        "text": "candle wax → ash → candle wax",
-        "is_correct": false
-      },
-      {
-        "text": "candle wax → smaller pieces → smoke",
-        "is_correct": false
-      },
-      {
-        "text": "melted wax → a different material → candle wax",
-        "is_correct": false
-      },
-      {
-        "text": "candle wax → melted wax → candle wax",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Melting and freezing can reverse the state while the material remains the same.",
-      "hint": "Look for opposite changes controlled by adding and removing heat."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-006",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, the candle wax changes into melted wax inside a sealed bag. What stayed the same?",
-    "audio_prompt": "During the chocolate test, the candle wax changes into melted wax inside a sealed bag. What stayed the same?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-006",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"solid material\",\"liquid material\",\"same sealed bag\"]"
-    },
-    "answers": [
-      {
-        "text": "The material remained present inside the bag",
-        "is_correct": true
-      },
-      {
-        "text": "Its state remained solid",
-        "is_correct": false
-      },
-      {
-        "text": "Its shape remained unchanged",
-        "is_correct": false
-      },
-      {
-        "text": "A new material replaced it",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Melting",
+      "Freezing",
+      "Condensing",
+      "Breaking into pieces"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A state change alters state and observable properties, not the material's identity.",
-      "hint": "Track the material inside the sealed boundary."
-    }
+      "summary": "Melting changes state from solid to liquid.",
+      "hint": "Solid → liquid."
+    },
+    "structuredExplanation": {
+      "summary": "Melting changes state from solid to liquid.",
+      "hint": "Solid → liquid."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-T-007",
+    "id": "ac9s3u04-t-004",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, which observation is the strongest evidence that melting occurred?",
-    "audio_prompt": "During the chocolate test, which observation is the strongest evidence that melting occurred?",
+    "skill": "solids, liquids and changes of state",
+    "question": "When liquid water becomes ice, what change is occurring?",
+    "audio_prompt": "When liquid water becomes ice, what change is occurring?",
+    "audioPrompt": "When liquid water becomes ice, what change is occurring?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-007",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"solid\",\"melting\",\"liquid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The solid was cut into two pieces",
+        "text": "Melting",
         "is_correct": false
       },
       {
-        "text": "The solid lost its own shape and began to flow",
+        "text": "Evaporating",
+        "is_correct": false
+      },
+      {
+        "text": "Breaking",
+        "is_correct": false
+      },
+      {
+        "text": "Freezing",
         "is_correct": true
-      },
-      {
-        "text": "The container was given a new label",
-        "is_correct": false
-      },
-      {
-        "text": "The liquid was poured into another cup",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Melting is observed when a solid becomes a flowing liquid.",
-      "hint": "Choose evidence of a state change, not a size or location change."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-008",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, two equal candle wax samples are placed in warmer and cooler locations. Which prediction is most reasonable?",
-    "audio_prompt": "During the chocolate test, two equal candle wax samples are placed in warmer and cooler locations. Which prediction is most reasonable?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-008",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [[\"location\",\"prediction\"],[\"warmer\",\"sooner\"],[\"cooler\",\"later\"]]"
-    },
-    "answers": [
-      {
-        "text": "The cooler sample must melt sooner",
-        "is_correct": false
-      },
-      {
-        "text": "Both must change at exactly the same second",
-        "is_correct": false
-      },
-      {
-        "text": "The warmer sample will probably melt sooner",
-        "is_correct": true
-      },
-      {
-        "text": "Neither sample can change state",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A warmer surrounding can transfer heat energy to the sample more quickly.",
-      "hint": "Compare the direction and likely rate of heat transfer."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-009",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, which record gives useful evidence during a candle wax melting investigation?",
-    "audio_prompt": "During the chocolate test, which record gives useful evidence during a candle wax melting investigation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-009",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [[\"time\",\"state\"],[\"0 min\",\"solid\"],[\"later\",\"partly liquid\"]]"
-    },
-    "answers": [
-      {
-        "text": "A vote for the nicest-looking sample",
-        "is_correct": false
-      },
-      {
-        "text": "Only the colour of each bag label",
-        "is_correct": false
-      },
-      {
-        "text": "A guess written after the investigation",
-        "is_correct": false
-      },
-      {
-        "text": "State and visible change recorded at equal time intervals",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Melting",
+      "Evaporating",
+      "Breaking",
+      "Freezing"
     ],
     "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Timed observations provide evidence about when and how the state changes.",
-      "hint": "Choose information another observer could check."
-    }
+      "summary": "Freezing changes state from liquid to solid.",
+      "hint": "Liquid → solid."
+    },
+    "structuredExplanation": {
+      "summary": "Freezing changes state from liquid to solid.",
+      "hint": "Liquid → solid."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-T-010",
+    "id": "ac9s3u04-t-005",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, why should equal pieces of candle wax be used when comparing two locations?",
-    "audio_prompt": "During the chocolate test, why should equal pieces of candle wax be used when comparing two locations?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Why does ice melt on a warm surface?",
+    "audio_prompt": "Why does ice melt on a warm surface?",
+    "audioPrompt": "Why does ice melt on a warm surface?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-010",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [[\"change\",\"location\"],[\"same\",\"sample size\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "So location is the main tested difference",
+        "text": "Cold is added",
+        "is_correct": false
+      },
+      {
+        "text": "Its volume becomes zero",
+        "is_correct": false
+      },
+      {
+        "text": "It gains heat energy",
         "is_correct": true
       },
       {
-        "text": "So both results are guaranteed to match",
-        "is_correct": false
-      },
-      {
-        "text": "So no observations need to be recorded",
-        "is_correct": false
-      },
-      {
-        "text": "So heat energy cannot transfer",
+        "text": "It loses heat",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Keeping sample size the same makes the comparison fairer.",
-      "hint": "Identify what should change and what should stay the same."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-011",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, a soft sponge keeps its shape when placed in a bowl. How should it be classified?",
-    "audio_prompt": "During the chocolate test, a soft sponge keeps its shape when placed in a bowl. How should it be classified?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-011",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"soft sponge\",\"keeps shape\",\"solid\"]"
-    },
-    "answers": [
-      {
-        "text": "As a liquid because it is soft",
-        "is_correct": false
-      },
-      {
-        "text": "As a solid because it keeps its own shape",
-        "is_correct": true
-      },
-      {
-        "text": "As neither because all solids are hard",
-        "is_correct": false
-      },
-      {
-        "text": "As a liquid because the bowl is curved",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Hardness is not the defining property; solids keep their own shape.",
-      "hint": "Use shape and flow rather than hard and soft."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-012",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, thick syrup moves slowly but spreads across the bottom of a container. What is it?",
-    "audio_prompt": "During the chocolate test, thick syrup moves slowly but spreads across the bottom of a container. What is it?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-012",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"thick syrup\",\"slow flow\",\"container shape\"]"
-    },
-    "answers": [
-      {
-        "text": "A solid because it flows slowly",
-        "is_correct": false
-      },
-      {
-        "text": "A solid because it is sticky",
-        "is_correct": false
-      },
-      {
-        "text": "A liquid because it flows and takes the container's shape",
-        "is_correct": true
-      },
-      {
-        "text": "Not matter because it changes shape",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Cold is added",
+      "Its volume becomes zero",
+      "It gains heat energy",
+      "It loses heat"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A liquid can flow slowly; speed and stickiness do not change its state classification.",
-      "hint": "Ask whether it flows, not whether it flows quickly."
-    }
+      "summary": "Heat entering the ice can cause melting.",
+      "hint": "Heat in."
+    },
+    "structuredExplanation": {
+      "summary": "Heat entering the ice can cause melting.",
+      "hint": "Heat in."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-T-013",
+    "id": "ac9s3u04-t-006",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, why can heating and cooling help form a new glass object during specialist recycling?",
-    "audio_prompt": "During the chocolate test, why can heating and cooling help form a new glass object during specialist recycling?",
+    "skill": "solids, liquids and changes of state",
+    "question": "A container of juice is left in the freezer overnight. Why did it become solid?",
+    "audio_prompt": "A container of juice is left in the freezer overnight. Why did it become solid?",
+    "audioPrompt": "A container of juice is left in the freezer overnight. Why did it become solid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-013",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"sorted glass\",\"heat and shape\",\"cool to solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Heating makes the glass disappear",
+        "text": "The juice stopped being matter.",
         "is_correct": false
       },
       {
-        "text": "Cooling changes glass into plastic",
+        "text": "It lost heat energy until it froze.",
+        "is_correct": true
+      },
+      {
+        "text": "It gained heat energy.",
         "is_correct": false
       },
       {
-        "text": "Every material can be recycled with the same process",
+        "text": "The freezer added solid matter.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The juice stopped being matter.",
+      "It lost heat energy until it froze.",
+      "It gained heat energy.",
+      "The freezer added solid matter."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Freezing happens when a substance loses enough heat energy for a liquid to change into a solid.",
+      "hint": "Heat out."
+    },
+    "structuredExplanation": {
+      "summary": "Freezing happens when a substance loses enough heat energy for a liquid to change into a solid.",
+      "hint": "Heat out."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-t-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "test",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which is NOT a state change?",
+    "audio_prompt": "Which is NOT a state change?",
+    "audioPrompt": "Which is NOT a state change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Cutting a solid block",
+        "is_correct": true
+      },
+      {
+        "text": "Melting butter",
         "is_correct": false
       },
       {
-        "text": "Heating makes glass workable and cooling lets it become solid again",
+        "text": "Freezing water",
+        "is_correct": false
+      },
+      {
+        "text": "Melting ice",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Cutting a solid block",
+      "Melting butter",
+      "Freezing water",
+      "Melting ice"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Cutting changes size and shape but not state.",
+      "hint": "State remains solid."
+    },
+    "structuredExplanation": {
+      "summary": "Cutting changes size and shape but not state.",
+      "hint": "State remains solid."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-t-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "test",
+    "skill": "solids, liquids and changes of state",
+    "question": "A liquid is poured into a new container. What usually changes?",
+    "audio_prompt": "A liquid is poured into a new container. What usually changes?",
+    "audioPrompt": "A liquid is poured into a new container. What usually changes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Its amount automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Its state immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Its mass to zero",
+        "is_correct": false
+      },
+      {
+        "text": "Its shape",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "Its amount automatically",
+      "Its state immediately",
+      "Its mass to zero",
+      "Its shape"
     ],
     "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Controlled heating and cooling can allow suitable materials to be reshaped and solidified.",
-      "hint": "Sequence heat, shape and cool."
-    }
+      "summary": "Liquids take the shape of their container.",
+      "hint": "Container shape."
+    },
+    "structuredExplanation": {
+      "summary": "Liquids take the shape of their container.",
+      "hint": "Container shape."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-T-014",
+    "id": "ac9s3u04-t-009",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "During the chocolate test, a student says cold is added when melted wax freezes. Which correction is most accurate?",
-    "audio_prompt": "During the chocolate test, a student says cold is added when melted wax freezes. Which correction is most accurate?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which statement is false?",
+    "audio_prompt": "Which statement is false?",
+    "audioPrompt": "Which statement is false?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-014",
-      "alt_text": "During the chocolate test: observable state-change evidence showing [\"melted wax\",\"heat transferred away\",\"solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Heat energy is removed from the melted wax",
+        "text": "Solids keep shape",
+        "is_correct": false
+      },
+      {
+        "text": "Heating can melt some solids",
+        "is_correct": false
+      },
+      {
+        "text": "Liquids have no volume",
         "is_correct": true
       },
       {
-        "text": "Cold matter is poured into the melted wax",
-        "is_correct": false
-      },
-      {
-        "text": "Heat energy is added until it freezes",
-        "is_correct": false
-      },
-      {
-        "text": "No energy transfer is involved",
+        "text": "Liquids can be measured in mL",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Freezing occurs as heat energy transfers away from a liquid.",
-      "hint": "Describe the direction of heat transfer, not cold as a substance."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-015",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, which observation best shows that the melted butter is a liquid?",
-    "audio_prompt": "At the water table, which observation best shows that the melted butter is a liquid?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-015",
-      "alt_text": "At the water table: observable state-change evidence showing [\"butter pat\",\"melted butter\"]"
-    },
-    "answers": [
-      {
-        "text": "It keeps its own shape in every container",
-        "is_correct": false
-      },
-      {
-        "text": "It flows and takes the shape of the occupied part of its container",
-        "is_correct": true
-      },
-      {
-        "text": "It has no volume or mass",
-        "is_correct": false
-      },
-      {
-        "text": "It must always be clear and colourless",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Liquids flow and take the shape of the part of a container they occupy.",
-      "hint": "Focus on observable shape and flow."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-016",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, which observation best shows that the butter pat is a solid?",
-    "audio_prompt": "At the water table, which observation best shows that the butter pat is a solid?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-016",
-      "alt_text": "At the water table: observable state-change evidence showing [\"butter pat\",\"melted butter\"]"
-    },
-    "answers": [
-      {
-        "text": "It fills the bottom of every container",
-        "is_correct": false
-      },
-      {
-        "text": "It must be hard and heavy",
-        "is_correct": false
-      },
-      {
-        "text": "It keeps its own shape when moved between containers",
-        "is_correct": true
-      },
-      {
-        "text": "It has no observable properties",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Solids keep shape",
+      "Heating can melt some solids",
+      "Liquids have no volume",
+      "Liquids can be measured in mL"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A solid keeps its own shape under ordinary conditions, even when it is soft.",
-      "hint": "Ask what happens when only the container changes."
-    }
+      "summary": "Liquids have measurable volume.",
+      "hint": "Shape is not volume."
+    },
+    "structuredExplanation": {
+      "summary": "Liquids have measurable volume.",
+      "hint": "Shape is not volume."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-T-017",
+    "id": "ac9s3u04-t-010",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, what happens when enough heat energy is added to the butter pat?",
-    "audio_prompt": "At the water table, what happens when enough heat energy is added to the butter pat?",
+    "skill": "solids, liquids and changes of state",
+    "question": "100 mL of water is poured into a bowl without spilling. How much water remains?",
+    "audio_prompt": "100 mL of water is poured into a bowl without spilling. How much water remains?",
+    "audioPrompt": "100 mL of water is poured into a bowl without spilling. How much water remains?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-017",
-      "alt_text": "At the water table: observable state-change evidence showing [\"butter pat\",\"heat added\",\"melted butter\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It freezes and becomes melted butter",
+        "text": "0 mL",
         "is_correct": false
       },
       {
-        "text": "It disappears from the container",
+        "text": "100 mL",
+        "is_correct": true
+      },
+      {
+        "text": "200 mL",
         "is_correct": false
       },
       {
-        "text": "It stays solid with no observable change",
+        "text": "50 mL",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "0 mL",
+      "100 mL",
+      "200 mL",
+      "50 mL"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The volume remains the same if none is lost.",
+      "hint": "Same amount."
+    },
+    "structuredExplanation": {
+      "summary": "The volume remains the same if none is lost.",
+      "hint": "Same amount."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-t-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "test",
+    "skill": "solids, liquids and changes of state",
+    "question": "Chocolate becomes liquid near a heater. This is:",
+    "audio_prompt": "Chocolate becomes liquid near a heater. This is:",
+    "audioPrompt": "Chocolate becomes liquid near a heater. This is:",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "melting",
+        "is_correct": true
+      },
+      {
+        "text": "freezing",
         "is_correct": false
       },
       {
-        "text": "It melts and becomes melted butter",
+        "text": "cutting",
+        "is_correct": false
+      },
+      {
+        "text": "crushing",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "melting",
+      "freezing",
+      "cutting",
+      "crushing"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Heat caused a solid-to-liquid state change.",
+      "hint": "Solid to liquid."
+    },
+    "structuredExplanation": {
+      "summary": "Heat caused a solid-to-liquid state change.",
+      "hint": "Solid to liquid."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-t-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "test",
+    "skill": "solids, liquids and changes of state",
+    "question": "Juice becomes an icy solid. This is:",
+    "audio_prompt": "Juice becomes an icy solid. This is:",
+    "audioPrompt": "Juice becomes an icy solid. This is:",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "melting",
+        "is_correct": false
+      },
+      {
+        "text": "evaporation only",
+        "is_correct": false
+      },
+      {
+        "text": "breaking",
+        "is_correct": false
+      },
+      {
+        "text": "freezing",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "melting",
+      "evaporation only",
+      "breaking",
+      "freezing"
     ],
     "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Melting is the change from solid to liquid caused by adding heat energy.",
-      "hint": "Follow the solid-to-liquid arrow."
-    }
+      "summary": "The liquid changed to solid.",
+      "hint": "Liquid to solid."
+    },
+    "structuredExplanation": {
+      "summary": "The liquid changed to solid.",
+      "hint": "Liquid to solid."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-T-018",
+    "id": "ac9s3u04-t-013",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, what can happen when heat energy is removed from the melted butter?",
-    "audio_prompt": "At the water table, what can happen when heat energy is removed from the melted butter?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which property is shared by solids and liquids?",
+    "audio_prompt": "Which property is shared by solids and liquids?",
+    "audioPrompt": "Which property is shared by solids and liquids?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-018",
-      "alt_text": "At the water table: observable state-change evidence showing [\"melted butter\",\"heat removed\",\"solid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It freezes and becomes a solid",
+        "text": "Both always flow",
+        "is_correct": false
+      },
+      {
+        "text": "Neither occupies space",
+        "is_correct": false
+      },
+      {
+        "text": "Both have volume",
         "is_correct": true
       },
       {
-        "text": "It melts into another liquid",
-        "is_correct": false
-      },
-      {
-        "text": "It stops being matter",
-        "is_correct": false
-      },
-      {
-        "text": "It must boil",
+        "text": "Both always keep shape",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Freezing is the change from liquid to solid as heat energy is removed.",
-      "hint": "Follow the liquid-to-solid arrow."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-019",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, which sequence is a reversible change of state?",
-    "audio_prompt": "At the water table, which sequence is a reversible change of state?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-019",
-      "alt_text": "At the water table: observable state-change evidence showing [\"butter pat\",\"melted butter\",\"butter pat\"]"
-    },
-    "answers": [
-      {
-        "text": "butter pat → ash → butter pat",
-        "is_correct": false
-      },
-      {
-        "text": "butter pat → melted butter → butter pat",
-        "is_correct": true
-      },
-      {
-        "text": "butter pat → smaller pieces → smoke",
-        "is_correct": false
-      },
-      {
-        "text": "melted butter → a different material → butter pat",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Melting and freezing can reverse the state while the material remains the same.",
-      "hint": "Look for opposite changes controlled by adding and removing heat."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-020",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, the butter pat changes into melted butter inside a sealed bag. What stayed the same?",
-    "audio_prompt": "At the water table, the butter pat changes into melted butter inside a sealed bag. What stayed the same?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-020",
-      "alt_text": "At the water table: observable state-change evidence showing [\"solid material\",\"liquid material\",\"same sealed bag\"]"
-    },
-    "answers": [
-      {
-        "text": "Its state remained solid",
-        "is_correct": false
-      },
-      {
-        "text": "Its shape remained unchanged",
-        "is_correct": false
-      },
-      {
-        "text": "The material remained present inside the bag",
-        "is_correct": true
-      },
-      {
-        "text": "A new material replaced it",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Both always flow",
+      "Neither occupies space",
+      "Both have volume",
+      "Both always keep shape"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A state change alters state and observable properties, not the material's identity.",
-      "hint": "Track the material inside the sealed boundary."
-    }
+      "summary": "Both states occupy space.",
+      "hint": "Shared property."
+    },
+    "structuredExplanation": {
+      "summary": "Both states occupy space.",
+      "hint": "Shared property."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3U04-T-021",
+    "id": "ac9s3u04-t-014",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, which observation is the strongest evidence that melting occurred?",
-    "audio_prompt": "At the water table, which observation is the strongest evidence that melting occurred?",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which sequence can be reversed by heating then cooling?",
+    "audio_prompt": "Which sequence can be reversed by heating then cooling?",
+    "audioPrompt": "Which sequence can be reversed by heating then cooling?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-021",
-      "alt_text": "At the water table: observable state-change evidence showing [\"solid\",\"melting\",\"liquid\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The solid was cut into two pieces",
+        "text": "Wood → smoke → wood",
         "is_correct": false
       },
       {
-        "text": "The container was given a new label",
+        "text": "Solid wax → liquid wax → solid wax",
+        "is_correct": true
+      },
+      {
+        "text": "Rock → bird → rock",
         "is_correct": false
       },
       {
-        "text": "The liquid was poured into another cup",
+        "text": "Paper → ash → paper",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Wood → smoke → wood",
+      "Solid wax → liquid wax → solid wax",
+      "Rock → bird → rock",
+      "Paper → ash → paper"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Melting and solidifying can be reversible physical state changes.",
+      "hint": "Same substance, different state."
+    },
+    "structuredExplanation": {
+      "summary": "Melting and solidifying can be reversible physical state changes.",
+      "hint": "Same substance, different state."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-t-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "test",
+    "skill": "solids, liquids and changes of state",
+    "question": "If ice is cut in half but stays frozen, what happened?",
+    "audio_prompt": "If ice is cut in half but stays frozen, what happened?",
+    "audioPrompt": "If ice is cut in half but stays frozen, what happened?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Its size changed, not its state",
+        "is_correct": true
+      },
+      {
+        "text": "It melted",
         "is_correct": false
       },
       {
-        "text": "The solid lost its own shape and began to flow",
+        "text": "It froze",
+        "is_correct": false
+      },
+      {
+        "text": "It became liquid",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Its size changed, not its state",
+      "It melted",
+      "It froze",
+      "It became liquid"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Cutting does not change the solid state.",
+      "hint": "Shape/size versus state."
+    },
+    "structuredExplanation": {
+      "summary": "Cutting does not change the solid state.",
+      "hint": "Shape/size versus state."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u04-t-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U04",
+    "curriculumCode": "AC9S3U04",
+    "bank": "test",
+    "skill": "solids, liquids and changes of state",
+    "question": "Which explanation is best?",
+    "audio_prompt": "Which explanation is best?",
+    "audioPrompt": "Which explanation is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "State changes happen without energy transfer",
+        "is_correct": false
+      },
+      {
+        "text": "All solids melt at the same temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Liquids have no measurable amount",
+        "is_correct": false
+      },
+      {
+        "text": "Adding or removing heat energy can cause some substances to change between solid and liquid states",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "State changes happen without energy transfer",
+      "All solids melt at the same temperature",
+      "Liquids have no measurable amount",
+      "Adding or removing heat energy can cause some substances to change between solid and liquid states"
     ],
     "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Melting is observed when a solid becomes a flowing liquid.",
-      "hint": "Choose evidence of a state change, not a size or location change."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-022",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, two equal butter pat samples are placed in warmer and cooler locations. Which prediction is most reasonable?",
-    "audio_prompt": "At the water table, two equal butter pat samples are placed in warmer and cooler locations. Which prediction is most reasonable?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-022",
-      "alt_text": "At the water table: observable state-change evidence showing [[\"location\",\"prediction\"],[\"warmer\",\"sooner\"],[\"cooler\",\"later\"]]"
+      "summary": "Heat transfer can drive melting and freezing.",
+      "hint": "Connect energy and state."
     },
-    "answers": [
-      {
-        "text": "The warmer sample will probably melt sooner",
-        "is_correct": true
-      },
-      {
-        "text": "The cooler sample must melt sooner",
-        "is_correct": false
-      },
-      {
-        "text": "Both must change at exactly the same second",
-        "is_correct": false
-      },
-      {
-        "text": "Neither sample can change state",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A warmer surrounding can transfer heat energy to the sample more quickly.",
-      "hint": "Compare the direction and likely rate of heat transfer."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-023",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, which record gives useful evidence during a butter pat melting investigation?",
-    "audio_prompt": "At the water table, which record gives useful evidence during a butter pat melting investigation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-023",
-      "alt_text": "At the water table: observable state-change evidence showing [[\"time\",\"state\"],[\"0 min\",\"solid\"],[\"later\",\"partly liquid\"]]"
+    "structuredExplanation": {
+      "summary": "Heat transfer can drive melting and freezing.",
+      "hint": "Connect energy and state."
     },
-    "answers": [
-      {
-        "text": "A vote for the nicest-looking sample",
-        "is_correct": false
-      },
-      {
-        "text": "State and visible change recorded at equal time intervals",
-        "is_correct": true
-      },
-      {
-        "text": "Only the colour of each bag label",
-        "is_correct": false
-      },
-      {
-        "text": "A guess written after the investigation",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Timed observations provide evidence about when and how the state changes.",
-      "hint": "Choose information another observer could check."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-024",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, why should equal pieces of butter pat be used when comparing two locations?",
-    "audio_prompt": "At the water table, why should equal pieces of butter pat be used when comparing two locations?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-024",
-      "alt_text": "At the water table: observable state-change evidence showing [[\"change\",\"location\"],[\"same\",\"sample size\"]]"
-    },
-    "answers": [
-      {
-        "text": "So both results are guaranteed to match",
-        "is_correct": false
-      },
-      {
-        "text": "So no observations need to be recorded",
-        "is_correct": false
-      },
-      {
-        "text": "So location is the main tested difference",
-        "is_correct": true
-      },
-      {
-        "text": "So heat energy cannot transfer",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Keeping sample size the same makes the comparison fairer.",
-      "hint": "Identify what should change and what should stay the same."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-025",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, a soft sponge keeps its shape when placed in a bowl. How should it be classified?",
-    "audio_prompt": "At the water table, a soft sponge keeps its shape when placed in a bowl. How should it be classified?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-025",
-      "alt_text": "At the water table: observable state-change evidence showing [\"soft sponge\",\"keeps shape\",\"solid\"]"
-    },
-    "answers": [
-      {
-        "text": "As a liquid because it is soft",
-        "is_correct": false
-      },
-      {
-        "text": "As neither because all solids are hard",
-        "is_correct": false
-      },
-      {
-        "text": "As a liquid because the bowl is curved",
-        "is_correct": false
-      },
-      {
-        "text": "As a solid because it keeps its own shape",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "Hardness is not the defining property; solids keep their own shape.",
-      "hint": "Use shape and flow rather than hard and soft."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-026",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, thick syrup moves slowly but spreads across the bottom of a container. What is it?",
-    "audio_prompt": "At the water table, thick syrup moves slowly but spreads across the bottom of a container. What is it?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-026",
-      "alt_text": "At the water table: observable state-change evidence showing [\"thick syrup\",\"slow flow\",\"container shape\"]"
-    },
-    "answers": [
-      {
-        "text": "A liquid because it flows and takes the container's shape",
-        "is_correct": true
-      },
-      {
-        "text": "A solid because it flows slowly",
-        "is_correct": false
-      },
-      {
-        "text": "A solid because it is sticky",
-        "is_correct": false
-      },
-      {
-        "text": "Not matter because it changes shape",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A liquid can flow slowly; speed and stickiness do not change its state classification.",
-      "hint": "Ask whether it flows, not whether it flows quickly."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-027",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, why can heating and cooling help form a new glass object during specialist recycling?",
-    "audio_prompt": "At the water table, why can heating and cooling help form a new glass object during specialist recycling?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-027",
-      "alt_text": "At the water table: observable state-change evidence showing [\"sorted glass\",\"heat and shape\",\"cool to solid\"]"
-    },
-    "answers": [
-      {
-        "text": "Heating makes the glass disappear",
-        "is_correct": false
-      },
-      {
-        "text": "Heating makes glass workable and cooling lets it become solid again",
-        "is_correct": true
-      },
-      {
-        "text": "Cooling changes glass into plastic",
-        "is_correct": false
-      },
-      {
-        "text": "Every material can be recycled with the same process",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Controlled heating and cooling can allow suitable materials to be reshaped and solidified.",
-      "hint": "Sequence heat, shape and cool."
-    }
-  },
-  {
-    "id": "AC9S3U04-T-028",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U04",
-    "bank": "test",
-    "skill": "Solids, Liquids and Changes of State",
-    "question": "At the water table, a student says cold is added when melted butter freezes. Which correction is most accurate?",
-    "audio_prompt": "At the water table, a student says cold is added when melted butter freezes. Which correction is most accurate?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u04.svg#ac9s3u04-t-028",
-      "alt_text": "At the water table: observable state-change evidence showing [\"melted butter\",\"heat transferred away\",\"solid\"]"
-    },
-    "answers": [
-      {
-        "text": "Cold matter is poured into the melted butter",
-        "is_correct": false
-      },
-      {
-        "text": "Heat energy is added until it freezes",
-        "is_correct": false
-      },
-      {
-        "text": "Heat energy is removed from the melted butter",
-        "is_correct": true
-      },
-      {
-        "text": "No energy transfer is involved",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Freezing occurs as heat energy transfers away from a liquid.",
-      "hint": "Describe the direction of heat transfer, not cold as a substance."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]

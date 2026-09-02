@@ -1,1418 +1,3402 @@
 [
   {
-    "id": "AC9S3I04-P-001",
+    "id": "ac9s3i04-p-001",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the graph table, which representation best shows exact seedling height values?",
-    "audio_prompt": "At the graph table, which representation best shows exact seedling height values?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which representation is best for organising bird counts from four locations?",
+    "audio_prompt": "Which representation is best for organising bird counts from four locations?",
+    "audioPrompt": "Which representation is best for organising bird counts from four locations?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-001",
-      "alt_text": "At the graph table: data representation for seedling height showing [[\"condition\",\"seedling height\"],[\"low\",\"5 cm\"],[\"medium\",\"9 cm\"],[\"high\",\"13 cm\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "An unlabelled picture",
-        "is_correct": false
-      },
-      {
-        "text": "A decorative border",
-        "is_correct": false
-      },
-      {
-        "text": "A table with labelled rows, columns and units",
+        "text": "A table",
         "is_correct": true
+      },
+      {
+        "text": "A story",
+        "is_correct": false
+      },
+      {
+        "text": "A joke",
+        "is_correct": false
+      },
+      {
+        "text": "A random drawing",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "A table",
+      "A story",
+      "A joke",
+      "A random drawing"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Tables organise exact values so readers can find them.",
-      "hint": "Choose the representation that preserves every recorded number."
+      "summary": "A table can organise categories and counts clearly.",
+      "hint": "Choose the format that lines up data."
     },
+    "structuredExplanation": {
+      "summary": "A table can organise categories and counts clearly.",
+      "hint": "Choose the format that lines up data."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-002",
+    "id": "ac9s3i04-p-002",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the graph table, which representation helps compare the three seedling height values quickly?",
-    "audio_prompt": "At the graph table, which representation helps compare the three seedling height values quickly?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which graph is suitable for comparing the number of insects found in four habitats?",
+    "audio_prompt": "Which graph is suitable for comparing the number of insects found in four habitats?",
+    "audioPrompt": "Which graph is suitable for comparing the number of insects found in four habitats?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-002",
-      "alt_text": "At the graph table: data representation for seedling height showing [5,9,13]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A labelled column graph with a consistent scale",
+        "text": "A paragraph only",
+        "is_correct": false
+      },
+      {
+        "text": "A photograph without labels",
+        "is_correct": false
+      },
+      {
+        "text": "A map with no counts",
+        "is_correct": false
+      },
+      {
+        "text": "A simple column graph",
         "is_correct": true
-      },
-      {
-        "text": "A paragraph with no numbers",
-        "is_correct": false
-      },
-      {
-        "text": "Three columns drawn to equal height",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Column heights make comparisons visible when they match a consistent scale.",
-      "hint": "Look for labels, units and heights based on the data."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I04-P-003",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the graph table, which condition has the highest recorded value?",
-    "audio_prompt": "At the graph table, which condition has the highest recorded value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-003",
-      "alt_text": "At the graph table: data representation for seedling height showing [5,9,13]"
-    },
-    "answers": [
-      {
-        "text": "low",
-        "is_correct": false
-      },
-      {
-        "text": "high",
-        "is_correct": true
-      },
-      {
-        "text": "medium",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "A paragraph only",
+      "A photograph without labels",
+      "A map with no counts",
+      "A simple column graph"
     ],
-    "correct_index": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The greatest value is shown by the tallest accurate column or largest table entry.",
-      "hint": "Compare the three numbers, not the label positions."
+      "summary": "A column graph clearly compares amounts across categories.",
+      "hint": "Compare categories with bars."
     },
+    "structuredExplanation": {
+      "summary": "A column graph clearly compares amounts across categories.",
+      "hint": "Compare categories with bars."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-004",
+    "id": "ac9s3i04-p-003",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the graph table, what must be checked when turning the table into a graph?",
-    "audio_prompt": "At the graph table, what must be checked when turning the table into a graph?",
+    "skill": "tables, graphs and scientific models",
+    "question": "In a column graph, what does the height of each column show?",
+    "audio_prompt": "In a column graph, what does the height of each column show?",
+    "audioPrompt": "In a column graph, what does the height of each column show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-004",
-      "alt_text": "At the graph table: data representation for seedling height showing [[\"labels\",\"low, medium, high\"],[\"values\",\"5, 9, 13\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Every column uses a different scale",
+        "text": "The colour choice",
         "is_correct": false
       },
       {
-        "text": "The largest value is always placed first",
+        "text": "The order of the alphabet",
         "is_correct": false
       },
       {
-        "text": "Every column height matches the source value",
+        "text": "The value for that category",
         "is_correct": true
+      },
+      {
+        "text": "The title length",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "The colour choice",
+      "The order of the alphabet",
+      "The value for that category",
+      "The title length"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A graph must accurately represent its source data.",
-      "hint": "Match each label and value one at a time."
+      "summary": "Column height represents the measured or counted value.",
+      "hint": "Read the scale."
     },
+    "structuredExplanation": {
+      "summary": "Column height represents the measured or counted value.",
+      "hint": "Read the scale."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-005",
+    "id": "ac9s3i04-p-004",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the graph table, why should a graph use a consistent scale?",
-    "audio_prompt": "At the graph table, why should a graph use a consistent scale?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which feature must a graph have so values can be understood?",
+    "audio_prompt": "Which feature must a graph have so values can be understood?",
+    "audioPrompt": "Which feature must a graph have so values can be understood?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-005",
-      "alt_text": "At the graph table: data representation for seedling height showing [\"0\",7,13]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "So equal height changes represent equal value changes",
+        "text": "A rhyme",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled scale",
         "is_correct": true
       },
       {
-        "text": "So the result can be made more dramatic",
+        "text": "Decorative stickers",
         "is_correct": false
       },
       {
-        "text": "So labels are unnecessary",
+        "text": "A border colour",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A rhyme",
+      "A labelled scale",
+      "Decorative stickers",
+      "A border colour"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A consistent scale supports accurate visual comparison.",
-      "hint": "Check that equal spaces have equal numerical value."
+      "summary": "A scale tells what the bar heights mean.",
+      "hint": "Without a scale, numbers cannot be read."
     },
+    "structuredExplanation": {
+      "summary": "A scale tells what the bar heights mean.",
+      "hint": "Without a scale, numbers cannot be read."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-006",
+    "id": "ac9s3i04-p-005",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the graph table, which statement describes a pattern in these data?",
-    "audio_prompt": "At the graph table, which statement describes a pattern in these data?",
+    "skill": "tables, graphs and scientific models",
+    "question": "A model of the water cycle with arrows is mainly used to:",
+    "audio_prompt": "A model of the water cycle with arrows is mainly used to:",
+    "audioPrompt": "A model of the water cycle with arrows is mainly used to:",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-006",
-      "alt_text": "At the graph table: data representation for seedling height showing [5,9,13]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "All three values are identical",
-        "is_correct": false
-      },
-      {
-        "text": "high has the highest seedling height value",
+        "text": "show relationships and movement between parts",
         "is_correct": true
       },
       {
-        "text": "There are no recorded values",
+        "text": "measure exact rainfall",
+        "is_correct": false
+      },
+      {
+        "text": "replace all observations",
+        "is_correct": false
+      },
+      {
+        "text": "prove every weather event",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "show relationships and movement between parts",
+      "measure exact rainfall",
+      "replace all observations",
+      "prove every weather event"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A pattern statement is based on relationships visible in the data.",
-      "hint": "Compare the entries and describe only what they show."
+      "summary": "Models can represent processes and relationships.",
+      "hint": "What does the model help show?"
     },
+    "structuredExplanation": {
+      "summary": "Models can represent processes and relationships.",
+      "hint": "What does the model help show?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-007",
+    "id": "ac9s3i04-p-006",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the graph table, a model shows how one factor may affect seedling height. What is an important limit of the model?",
-    "audio_prompt": "At the graph table, a model shows how one factor may affect seedling height. What is an important limit of the model?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which table heading is clearest?",
+    "audio_prompt": "Which table heading is clearest?",
+    "audioPrompt": "Which table heading is clearest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-007",
-      "alt_text": "At the graph table: data representation for seedling height showing [\"factor\",\"relationship\",\"seedling height\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It must include every detail of reality",
+        "text": "Stuff | Result",
         "is_correct": false
       },
       {
-        "text": "It cannot show any relationship",
+        "text": "Thing | Number",
         "is_correct": false
       },
       {
-        "text": "It is a simplified representation, not the real system",
+        "text": "Test | Good",
+        "is_correct": false
+      },
+      {
+        "text": "Soil type | Water drained (mL)",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Stuff | Result",
+      "Thing | Number",
+      "Test | Good",
+      "Soil type | Water drained (mL)"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Models simplify selected features to help explain a relationship.",
-      "hint": "Ask what the model leaves out as well as what it shows."
+      "summary": "Clear headings name the variables and units.",
+      "hint": "Labels should say what the data mean."
     },
+    "structuredExplanation": {
+      "summary": "Clear headings name the variables and units.",
+      "hint": "Labels should say what the data mean."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-008",
+    "id": "ac9s3i04-p-007",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the graph table, a graph column does not match its table value. What should students do?",
-    "audio_prompt": "At the graph table, a graph column does not match its table value. What should students do?",
+    "skill": "tables, graphs and scientific models",
+    "question": "A graph shows plant heights of 8, 12 and 15 cm. Which column should be tallest?",
+    "audio_prompt": "A graph shows plant heights of 8, 12 and 15 cm. Which column should be tallest?",
+    "audioPrompt": "A graph shows plant heights of 8, 12 and 15 cm. Which column should be tallest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-008",
-      "alt_text": "At the graph table: data representation for seedling height showing [\"source table\",\"graph\",\"must match\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Correct the graph to match the recorded data",
+        "text": "8 cm",
+        "is_correct": false
+      },
+      {
+        "text": "All equal",
+        "is_correct": false
+      },
+      {
+        "text": "15 cm",
         "is_correct": true
       },
       {
-        "text": "Change the table to make the graph look right",
-        "is_correct": false
-      },
-      {
-        "text": "Leave both versions unexplained",
+        "text": "12 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "8 cm",
+      "All equal",
+      "15 cm",
+      "12 cm"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Representations must remain faithful to the source data.",
-      "hint": "Treat the recorded observations as the source."
+      "summary": "The largest value is represented by the tallest column.",
+      "hint": "Tallest bar = greatest value."
     },
+    "structuredExplanation": {
+      "summary": "The largest value is represented by the tallest column.",
+      "hint": "Tallest bar = greatest value."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-009",
+    "id": "ac9s3i04-p-008",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the drainage study, which representation best shows exact soil drainage values?",
-    "audio_prompt": "During the drainage study, which representation best shows exact soil drainage values?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which representation is best for showing the parts of a flower and their positions?",
+    "audio_prompt": "Which representation is best for showing the parts of a flower and their positions?",
+    "audioPrompt": "Which representation is best for showing the parts of a flower and their positions?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-009",
-      "alt_text": "During the drainage study: data representation for soil drainage showing [[\"condition\",\"soil drainage\"],[\"sand\",\"80 mL\"],[\"loam\",\"48 mL\"],[\"clay\",\"22 mL\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "An unlabelled picture",
+        "text": "A stopwatch",
         "is_correct": false
       },
       {
-        "text": "A table with labelled rows, columns and units",
+        "text": "A labelled diagram or model",
         "is_correct": true
       },
       {
-        "text": "A decorative border",
+        "text": "A column graph",
+        "is_correct": false
+      },
+      {
+        "text": "A tally only",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "A stopwatch",
+      "A labelled diagram or model",
+      "A column graph",
+      "A tally only"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Tables organise exact values so readers can find them.",
-      "hint": "Choose the representation that preserves every recorded number."
+      "summary": "A labelled diagram or model shows structure and relative position.",
+      "hint": "Think parts and location."
     },
+    "structuredExplanation": {
+      "summary": "A labelled diagram or model shows structure and relative position.",
+      "hint": "Think parts and location."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-010",
+    "id": "ac9s3i04-p-009",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the drainage study, which representation helps compare the three soil drainage values quickly?",
-    "audio_prompt": "During the drainage study, which representation helps compare the three soil drainage values quickly?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which statement describes a pattern?",
+    "audio_prompt": "Which statement describes a pattern?",
+    "audioPrompt": "Which statement describes a pattern?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-010",
-      "alt_text": "During the drainage study: data representation for soil drainage showing [80,48,22]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A paragraph with no numbers",
-        "is_correct": false
-      },
-      {
-        "text": "Three columns drawn to equal height",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled column graph with a consistent scale",
+        "text": "As ramp height increased, car distance generally increased",
         "is_correct": true
+      },
+      {
+        "text": "The graph uses blue bars",
+        "is_correct": false
+      },
+      {
+        "text": "The table has five rows",
+        "is_correct": false
+      },
+      {
+        "text": "The title is centred",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Column heights make comparisons visible when they match a consistent scale.",
-      "hint": "Look for labels, units and heights based on the data."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I04-P-011",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the drainage study, which condition has the highest recorded value?",
-    "audio_prompt": "During the drainage study, which condition has the highest recorded value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-011",
-      "alt_text": "During the drainage study: data representation for soil drainage showing [80,48,22]"
-    },
-    "answers": [
-      {
-        "text": "sand",
-        "is_correct": true
-      },
-      {
-        "text": "loam",
-        "is_correct": false
-      },
-      {
-        "text": "clay",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "As ramp height increased, car distance generally increased",
+      "The graph uses blue bars",
+      "The table has five rows",
+      "The title is centred"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The greatest value is shown by the tallest accurate column or largest table entry.",
-      "hint": "Compare the three numbers, not the label positions."
+      "summary": "A pattern is a relationship or repeated trend in the data.",
+      "hint": "Look for how values change together."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A pattern is a relationship or repeated trend in the data.",
+      "hint": "Look for how values change together."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-012",
+    "id": "ac9s3i04-p-010",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the drainage study, what must be checked when turning the table into a graph?",
-    "audio_prompt": "During the drainage study, what must be checked when turning the table into a graph?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which is a model rather than a measurement tool?",
+    "audio_prompt": "Which is a model rather than a measurement tool?",
+    "audioPrompt": "Which is a model rather than a measurement tool?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-012",
-      "alt_text": "During the drainage study: data representation for soil drainage showing [[\"labels\",\"sand, loam, clay\"],[\"values\",\"80, 48, 22\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Every column uses a different scale",
+        "text": "A ruler",
         "is_correct": false
       },
       {
-        "text": "Every column height matches the source value",
+        "text": "A thermometer",
+        "is_correct": false
+      },
+      {
+        "text": "A balance",
+        "is_correct": false
+      },
+      {
+        "text": "A clay model of Earth layers",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A ruler",
+      "A thermometer",
+      "A balance",
+      "A clay model of Earth layers"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A model represents an idea or structure; the other tools measure.",
+      "hint": "Representation versus instrument."
+    },
+    "structuredExplanation": {
+      "summary": "A model represents an idea or structure; the other tools measure.",
+      "hint": "Representation versus instrument."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why transfer table data carefully to a graph?",
+    "audio_prompt": "Why transfer table data carefully to a graph?",
+    "audioPrompt": "Why transfer table data carefully to a graph?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Tables are always wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Bar colours determine accuracy",
+        "is_correct": false
+      },
+      {
+        "text": "A graph must match the source data or it can create a false pattern",
         "is_correct": true
       },
       {
-        "text": "The largest value is always placed first",
+        "text": "Graphs are only decorations",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A graph must accurately represent its source data.",
-      "hint": "Match each label and value one at a time."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I04-P-013",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the drainage study, why should a graph use a consistent scale?",
-    "audio_prompt": "During the drainage study, why should a graph use a consistent scale?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-013",
-      "alt_text": "During the drainage study: data representation for soil drainage showing [\"0\",40,80]"
-    },
-    "answers": [
-      {
-        "text": "So the result can be made more dramatic",
-        "is_correct": false
-      },
-      {
-        "text": "So labels are unnecessary",
-        "is_correct": false
-      },
-      {
-        "text": "So equal height changes represent equal value changes",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Tables are always wrong",
+      "Bar colours determine accuracy",
+      "A graph must match the source data or it can create a false pattern",
+      "Graphs are only decorations"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A consistent scale supports accurate visual comparison.",
-      "hint": "Check that equal spaces have equal numerical value."
+      "summary": "Incorrectly copied values change the evidence being represented.",
+      "hint": "Source data and graph should agree."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Incorrectly copied values change the evidence being represented.",
+      "hint": "Source data and graph should agree."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-014",
+    "id": "ac9s3i04-p-012",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the drainage study, which statement describes a pattern in these data?",
-    "audio_prompt": "During the drainage study, which statement describes a pattern in these data?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why label graph axes?",
+    "audio_prompt": "Why label graph axes?",
+    "audioPrompt": "Why label graph axes?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-014",
-      "alt_text": "During the drainage study: data representation for soil drainage showing [80,48,22]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "sand has the highest soil drainage value",
+        "text": "Labels prove the conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "Labels tell what each direction and scale represent",
         "is_correct": true
       },
       {
-        "text": "All three values are identical",
+        "text": "Labels make bars taller",
         "is_correct": false
       },
       {
-        "text": "There are no recorded values",
+        "text": "Axes cannot be read without colours",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Labels prove the conclusion",
+      "Labels tell what each direction and scale represent",
+      "Labels make bars taller",
+      "Axes cannot be read without colours"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Axis labels give meaning to the categories and values.",
+      "hint": "What does each axis stand for?"
+    },
+    "structuredExplanation": {
+      "summary": "Axis labels give meaning to the categories and values.",
+      "hint": "What does each axis stand for?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why use equal spacing on a numerical scale?",
+    "audio_prompt": "Why use equal spacing on a numerical scale?",
+    "audioPrompt": "Why use equal spacing on a numerical scale?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Equal intervals let bar heights represent values consistently",
+        "is_correct": true
+      },
+      {
+        "text": "Unequal spacing makes graphs more exciting",
+        "is_correct": false
+      },
+      {
+        "text": "Spacing never affects interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The largest value should get more space",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Equal intervals let bar heights represent values consistently",
+      "Unequal spacing makes graphs more exciting",
+      "Spacing never affects interpretation",
+      "The largest value should get more space"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A pattern statement is based on relationships visible in the data.",
-      "hint": "Compare the entries and describe only what they show."
+      "summary": "A consistent scale prevents distortion.",
+      "hint": "10 to 20 should use the same distance as 20 to 30."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A consistent scale prevents distortion.",
+      "hint": "10 to 20 should use the same distance as 20 to 30."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-015",
+    "id": "ac9s3i04-p-014",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the drainage study, a model shows how one factor may affect soil drainage. What is an important limit of the model?",
-    "audio_prompt": "During the drainage study, a model shows how one factor may affect soil drainage. What is an important limit of the model?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why might a physical model be useful when a real object is too large to bring into class?",
+    "audio_prompt": "Why might a physical model be useful when a real object is too large to bring into class?",
+    "audioPrompt": "Why might a physical model be useful when a real object is too large to bring into class?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-015",
-      "alt_text": "During the drainage study: data representation for soil drainage showing [\"factor\",\"relationship\",\"soil drainage\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It must include every detail of reality",
+        "text": "It becomes the real object",
         "is_correct": false
       },
       {
-        "text": "It is a simplified representation, not the real system",
+        "text": "It always contains every detail",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need for explanation",
+        "is_correct": false
+      },
+      {
+        "text": "It can represent important features at a manageable size",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "It becomes the real object",
+      "It always contains every detail",
+      "It removes the need for explanation",
+      "It can represent important features at a manageable size"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Models simplify and represent selected features of real things.",
+      "hint": "Useful representation, not exact copy."
+    },
+    "structuredExplanation": {
+      "summary": "Models simplify and represent selected features of real things.",
+      "hint": "Useful representation, not exact copy."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why is a table useful before making a graph?",
+    "audio_prompt": "Why is a table useful before making a graph?",
+    "audioPrompt": "Why is a table useful before making a graph?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Tables automatically find conclusions",
+        "is_correct": false
+      },
+      {
+        "text": "Tables make units unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "It organises the original values so they can be checked and plotted accurately",
         "is_correct": true
       },
       {
-        "text": "It cannot show any relationship",
+        "text": "A graph cannot exist without a table",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Models simplify selected features to help explain a relationship.",
-      "hint": "Ask what the model leaves out as well as what it shows."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I04-P-016",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the drainage study, a graph column does not match its table value. What should students do?",
-    "audio_prompt": "During the drainage study, a graph column does not match its table value. What should students do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-016",
-      "alt_text": "During the drainage study: data representation for soil drainage showing [\"source table\",\"graph\",\"must match\"]"
-    },
-    "answers": [
-      {
-        "text": "Change the table to make the graph look right",
-        "is_correct": false
-      },
-      {
-        "text": "Leave both versions unexplained",
-        "is_correct": false
-      },
-      {
-        "text": "Correct the graph to match the recorded data",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Tables automatically find conclusions",
+      "Tables make units unnecessary",
+      "It organises the original values so they can be checked and plotted accurately",
+      "A graph cannot exist without a table"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Representations must remain faithful to the source data.",
-      "hint": "Treat the recorded observations as the source."
+      "summary": "Organised source data helps reduce plotting mistakes.",
+      "hint": "Record first, represent second."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Organised source data helps reduce plotting mistakes.",
+      "hint": "Record first, represent second."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-017",
+    "id": "ac9s3i04-p-016",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "In the plant-light study, which representation best shows exact water temperature values?",
-    "audio_prompt": "In the plant-light study, which representation best shows exact water temperature values?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why should a model include only relevant detail?",
+    "audio_prompt": "Why should a model include only relevant detail?",
+    "audioPrompt": "Why should a model include only relevant detail?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-017",
-      "alt_text": "In the plant-light study: data representation for water temperature showing [[\"condition\",\"water temperature\"],[\"0 min\",\"55 °C\"],[\"5 min\",\"46 °C\"],[\"10 min\",\"39 °C\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A table with labelled rows, columns and units",
+        "text": "Every model must be identical",
+        "is_correct": false
+      },
+      {
+        "text": "Too much unrelated detail can make the scientific idea harder to see",
         "is_correct": true
       },
       {
-        "text": "An unlabelled picture",
+        "text": "Models must be plain",
         "is_correct": false
       },
       {
-        "text": "A decorative border",
+        "text": "Detail is never useful",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Every model must be identical",
+      "Too much unrelated detail can make the scientific idea harder to see",
+      "Models must be plain",
+      "Detail is never useful"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A model is useful when its features support the purpose.",
+      "hint": "Keep what helps explain the idea."
+    },
+    "structuredExplanation": {
+      "summary": "A model is useful when its features support the purpose.",
+      "hint": "Keep what helps explain the idea."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-017",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why is a column graph better than a paragraph for comparing four counts quickly?",
+    "audio_prompt": "Why is a column graph better than a paragraph for comparing four counts quickly?",
+    "audioPrompt": "Why is a column graph better than a paragraph for comparing four counts quickly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Bar heights make relative amounts easy to compare visually",
+        "is_correct": true
+      },
+      {
+        "text": "Paragraphs are never scientific",
+        "is_correct": false
+      },
+      {
+        "text": "Graphs always prove cause",
+        "is_correct": false
+      },
+      {
+        "text": "Words cannot contain data",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Bar heights make relative amounts easy to compare visually",
+      "Paragraphs are never scientific",
+      "Graphs always prove cause",
+      "Words cannot contain data"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Tables organise exact values so readers can find them.",
-      "hint": "Choose the representation that preserves every recorded number."
+      "summary": "Visual comparison can make differences and patterns more obvious.",
+      "hint": "Look across categories quickly."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Visual comparison can make differences and patterns more obvious.",
+      "hint": "Look across categories quickly."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-018",
+    "id": "ac9s3i04-p-018",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "In the plant-light study, which representation helps compare the three water temperature values quickly?",
-    "audio_prompt": "In the plant-light study, which representation helps compare the three water temperature values quickly?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why should a graph title name what was measured?",
+    "audio_prompt": "Why should a graph title name what was measured?",
+    "audioPrompt": "Why should a graph title name what was measured?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-018",
-      "alt_text": "In the plant-light study: data representation for water temperature showing [55,46,39]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A paragraph with no numbers",
+        "text": "Titles change the data",
         "is_correct": false
       },
       {
-        "text": "A labelled column graph with a consistent scale",
+        "text": "Titles make axes optional",
+        "is_correct": false
+      },
+      {
+        "text": "A title is only decoration",
+        "is_correct": false
+      },
+      {
+        "text": "It helps the reader know what the data set is about",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Titles change the data",
+      "Titles make axes optional",
+      "A title is only decoration",
+      "It helps the reader know what the data set is about"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A clear title gives context for interpreting the graph.",
+      "hint": "What question does the graph answer?"
+    },
+    "structuredExplanation": {
+      "summary": "A clear title gives context for interpreting the graph.",
+      "hint": "What question does the graph answer?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-019",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why can a model be useful even though it is not exactly like the real thing?",
+    "audio_prompt": "Why can a model be useful even though it is not exactly like the real thing?",
+    "audioPrompt": "Why can a model be useful even though it is not exactly like the real thing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A model is always a toy",
+        "is_correct": false
+      },
+      {
+        "text": "Models replace evidence",
+        "is_correct": false
+      },
+      {
+        "text": "It can simplify features to make a relationship easier to understand",
         "is_correct": true
       },
       {
-        "text": "Three columns drawn to equal height",
+        "text": "Models are useful only if perfect",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Column heights make comparisons visible when they match a consistent scale.",
-      "hint": "Look for labels, units and heights based on the data."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I04-P-019",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "In the plant-light study, which condition has the highest recorded value?",
-    "audio_prompt": "In the plant-light study, which condition has the highest recorded value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-019",
-      "alt_text": "In the plant-light study: data representation for water temperature showing [55,46,39]"
-    },
-    "answers": [
-      {
-        "text": "5 min",
-        "is_correct": false
-      },
-      {
-        "text": "10 min",
-        "is_correct": false
-      },
-      {
-        "text": "0 min",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "A model is always a toy",
+      "Models replace evidence",
+      "It can simplify features to make a relationship easier to understand",
+      "Models are useful only if perfect"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The greatest value is shown by the tallest accurate column or largest table entry.",
-      "hint": "Compare the three numbers, not the label positions."
+      "summary": "Models are purposeful simplifications, not exact replicas.",
+      "hint": "Simplify to explain."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Models are purposeful simplifications, not exact replicas.",
+      "hint": "Simplify to explain."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-020",
+    "id": "ac9s3i04-p-020",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "In the plant-light study, what must be checked when turning the table into a graph?",
-    "audio_prompt": "In the plant-light study, what must be checked when turning the table into a graph?",
+    "skill": "tables, graphs and scientific models",
+    "question": "A graph shows a steady rise across five trials. What should a student do before claiming a pattern?",
+    "audio_prompt": "A graph shows a steady rise across five trials. What should a student do before claiming a pattern?",
+    "audioPrompt": "A graph shows a steady rise across five trials. What should a student do before claiming a pattern?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-020",
-      "alt_text": "In the plant-light study: data representation for water temperature showing [[\"labels\",\"0 min, 5 min, 10 min\"],[\"values\",\"55, 46, 39\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Every column height matches the source value",
+        "text": "Ignore the table",
+        "is_correct": false
+      },
+      {
+        "text": "Check that the plotted values match the recorded data",
         "is_correct": true
       },
       {
-        "text": "Every column uses a different scale",
+        "text": "Assume any rising line is true",
         "is_correct": false
       },
       {
-        "text": "The largest value is always placed first",
+        "text": "Change low values",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Ignore the table",
+      "Check that the plotted values match the recorded data",
+      "Assume any rising line is true",
+      "Change low values"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Patterns should be based on accurate representation of source data.",
+      "hint": "Verify the graph first."
+    },
+    "structuredExplanation": {
+      "summary": "Patterns should be based on accurate representation of source data.",
+      "hint": "Verify the graph first."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-021",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which graph has a misleading scale?",
+    "audio_prompt": "Which graph has a misleading scale?",
+    "audioPrompt": "Which graph has a misleading scale?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "One where equal value intervals are shown with unequal distances",
+        "is_correct": true
+      },
+      {
+        "text": "One with equal 5-unit intervals",
+        "is_correct": false
+      },
+      {
+        "text": "One with labelled categories",
+        "is_correct": false
+      },
+      {
+        "text": "One with a clear title",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "One where equal value intervals are shown with unequal distances",
+      "One with equal 5-unit intervals",
+      "One with labelled categories",
+      "One with a clear title"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A graph must accurately represent its source data.",
-      "hint": "Match each label and value one at a time."
+      "summary": "Unequal spacing for equal numerical intervals can distort visual comparison.",
+      "hint": "Check the scale spacing."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Unequal spacing for equal numerical intervals can distort visual comparison.",
+      "hint": "Check the scale spacing."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-021",
+    "id": "ac9s3i04-p-022",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "In the plant-light study, why should a graph use a consistent scale?",
-    "audio_prompt": "In the plant-light study, why should a graph use a consistent scale?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which table is easiest to use?",
+    "audio_prompt": "Which table is easiest to use?",
+    "audioPrompt": "Which table is easiest to use?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-021",
-      "alt_text": "In the plant-light study: data representation for water temperature showing [\"0\",28,55]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "So the result can be made more dramatic",
+        "text": "One with no headings",
         "is_correct": false
       },
       {
-        "text": "So equal height changes represent equal value changes",
+        "text": "One with values scattered randomly",
+        "is_correct": false
+      },
+      {
+        "text": "One with only colours",
+        "is_correct": false
+      },
+      {
+        "text": "One with clear headings and units",
         "is_correct": true
-      },
-      {
-        "text": "So labels are unnecessary",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "One with no headings",
+      "One with values scattered randomly",
+      "One with only colours",
+      "One with clear headings and units"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A consistent scale supports accurate visual comparison.",
-      "hint": "Check that equal spaces have equal numerical value."
+      "summary": "Clear structure helps readers understand and compare data.",
+      "hint": "Organisation matters."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Clear structure helps readers understand and compare data.",
+      "hint": "Organisation matters."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-022",
+    "id": "ac9s3i04-p-023",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "In the plant-light study, which statement describes a pattern in these data?",
-    "audio_prompt": "In the plant-light study, which statement describes a pattern in these data?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which statement is supported by bars of 4, 8, 12 and 16?",
+    "audio_prompt": "Which statement is supported by bars of 4, 8, 12 and 16?",
+    "audioPrompt": "Which statement is supported by bars of 4, 8, 12 and 16?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-022",
-      "alt_text": "In the plant-light study: data representation for water temperature showing [55,46,39]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "All three values are identical",
+        "text": "The second value is largest",
         "is_correct": false
       },
       {
-        "text": "There are no recorded values",
+        "text": "There is no pattern",
         "is_correct": false
       },
       {
-        "text": "0 min has the highest water temperature value",
+        "text": "The values increase by 4 each category",
         "is_correct": true
+      },
+      {
+        "text": "The values are all equal",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "The second value is largest",
+      "There is no pattern",
+      "The values increase by 4 each category",
+      "The values are all equal"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A pattern statement is based on relationships visible in the data.",
-      "hint": "Compare the entries and describe only what they show."
+      "summary": "Each value is 4 more than the previous one.",
+      "hint": "Compare consecutive bars."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Each value is 4 more than the previous one.",
+      "hint": "Compare consecutive bars."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-023",
+    "id": "ac9s3i04-p-024",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "In the plant-light study, a model shows how one factor may affect water temperature. What is an important limit of the model?",
-    "audio_prompt": "In the plant-light study, a model shows how one factor may affect water temperature. What is an important limit of the model?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which representation is best for showing stages of a frog life cycle in order?",
+    "audio_prompt": "Which representation is best for showing stages of a frog life cycle in order?",
+    "audioPrompt": "Which representation is best for showing stages of a frog life cycle in order?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-023",
-      "alt_text": "In the plant-light study: data representation for water temperature showing [\"factor\",\"relationship\",\"water temperature\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It is a simplified representation, not the real system",
+        "text": "A balance",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled sequence diagram",
         "is_correct": true
       },
       {
-        "text": "It must include every detail of reality",
+        "text": "A column graph of random numbers",
         "is_correct": false
       },
       {
-        "text": "It cannot show any relationship",
+        "text": "A table of colours only",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A balance",
+      "A labelled sequence diagram",
+      "A column graph of random numbers",
+      "A table of colours only"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Models simplify selected features to help explain a relationship.",
-      "hint": "Ask what the model leaves out as well as what it shows."
+      "summary": "A sequence diagram shows order and change through stages.",
+      "hint": "Think ordered stages."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A sequence diagram shows order and change through stages.",
+      "hint": "Think ordered stages."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-P-024",
+    "id": "ac9s3i04-p-025",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "In the plant-light study, a graph column does not match its table value. What should students do?",
-    "audio_prompt": "In the plant-light study, a graph column does not match its table value. What should students do?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which model would best show how a lever works?",
+    "audio_prompt": "Which model would best show how a lever works?",
+    "audioPrompt": "Which model would best show how a lever works?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-p-024",
-      "alt_text": "In the plant-light study: data representation for water temperature showing [\"source table\",\"graph\",\"must match\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Change the table to make the graph look right",
-        "is_correct": false
-      },
-      {
-        "text": "Correct the graph to match the recorded data",
+        "text": "A physical model with a beam and pivot",
         "is_correct": true
       },
       {
-        "text": "Leave both versions unexplained",
+        "text": "A list of unrelated words",
+        "is_correct": false
+      },
+      {
+        "text": "A temperature graph",
+        "is_correct": false
+      },
+      {
+        "text": "A soil tally",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "A physical model with a beam and pivot",
+      "A list of unrelated words",
+      "A temperature graph",
+      "A soil tally"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Representations must remain faithful to the source data.",
-      "hint": "Treat the recorded observations as the source."
+      "summary": "A physical model can show moving parts and relationships directly.",
+      "hint": "Show the mechanism."
+    },
+    "structuredExplanation": {
+      "summary": "A physical model can show moving parts and relationships directly.",
+      "hint": "Show the mechanism."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-026",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which statement confuses a model with reality?",
+    "audio_prompt": "Which statement confuses a model with reality?",
+    "audioPrompt": "Which statement confuses a model with reality?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "“The model shows selected Earth features.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The model is smaller than Earth.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The model helps explain layers.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The model proves Earth is exactly this size.”",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "“The model shows selected Earth features.”",
+      "“The model is smaller than Earth.”",
+      "“The model helps explain layers.”",
+      "“The model proves Earth is exactly this size.”"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Models are representations and usually differ in scale or detail from reality.",
+      "hint": "Representation is not the real object."
+    },
+    "structuredExplanation": {
+      "summary": "Models are representations and usually differ in scale or detail from reality.",
+      "hint": "Representation is not the real object."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-027",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which graph-reading statement is wrong if the tallest bar is 18 and the shortest is 6?",
+    "audio_prompt": "Which graph-reading statement is wrong if the tallest bar is 18 and the shortest is 6?",
+    "audioPrompt": "Which graph-reading statement is wrong if the tallest bar is 18 and the shortest is 6?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The shortest category has value 6",
+        "is_correct": false
+      },
+      {
+        "text": "The difference is 12",
+        "is_correct": false
+      },
+      {
+        "text": "The shortest category has the greatest value",
+        "is_correct": true
+      },
+      {
+        "text": "The tallest category has value 18",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The shortest category has value 6",
+      "The difference is 12",
+      "The shortest category has the greatest value",
+      "The tallest category has value 18"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The shortest bar represents the smallest value, not the greatest.",
+      "hint": "Match bar height to value."
+    },
+    "structuredExplanation": {
+      "summary": "The shortest bar represents the smallest value, not the greatest.",
+      "hint": "Match bar height to value."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-028",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which choice would improve a graph with unlabeled bars?",
+    "audio_prompt": "Which choice would improve a graph with unlabeled bars?",
+    "audioPrompt": "Which choice would improve a graph with unlabeled bars?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Change every value",
+        "is_correct": false
+      },
+      {
+        "text": "Add category names beneath each bar",
+        "is_correct": true
+      },
+      {
+        "text": "Make the bars decorative",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the scale too",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Change every value",
+      "Add category names beneath each bar",
+      "Make the bars decorative",
+      "Remove the scale too"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Category labels show what each bar represents.",
+      "hint": "Readers need to know which bar is which."
+    },
+    "structuredExplanation": {
+      "summary": "Category labels show what each bar represents.",
+      "hint": "Readers need to know which bar is which."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-029",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which representation best helps identify whether temperature changes over time?",
+    "audio_prompt": "Which representation best helps identify whether temperature changes over time?",
+    "audioPrompt": "Which representation best helps identify whether temperature changes over time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A table or graph with time and temperature values",
+        "is_correct": true
+      },
+      {
+        "text": "A photo of the thermometer case",
+        "is_correct": false
+      },
+      {
+        "text": "A list of students",
+        "is_correct": false
+      },
+      {
+        "text": "A map of the room",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A table or graph with time and temperature values",
+      "A photo of the thermometer case",
+      "A list of students",
+      "A map of the room"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Organising paired time and temperature data reveals changes over time.",
+      "hint": "Show two related variables."
+    },
+    "structuredExplanation": {
+      "summary": "Organising paired time and temperature data reveals changes over time.",
+      "hint": "Show two related variables."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-030",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "A student copies 25 mL from a table as 52 mL on a graph. What is the main problem?",
+    "audio_prompt": "A student copies 25 mL from a table as 52 mL on a graph. What is the main problem?",
+    "audioPrompt": "A student copies 25 mL from a table as 52 mL on a graph. What is the main problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The graph needs more colour",
+        "is_correct": false
+      },
+      {
+        "text": "The table should be deleted",
+        "is_correct": false
+      },
+      {
+        "text": "52 is always a better number",
+        "is_correct": false
+      },
+      {
+        "text": "The representation no longer matches the source data",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The graph needs more colour",
+      "The table should be deleted",
+      "52 is always a better number",
+      "The representation no longer matches the source data"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A transcription error changes the evidence shown.",
+      "hint": "Check the copied value."
+    },
+    "structuredExplanation": {
+      "summary": "A transcription error changes the evidence shown.",
+      "hint": "Check the copied value."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-031",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Data show shade temperatures of 22°C, 23°C and 22°C and sun temperatures of 31°C, 30°C and 32°C. Which representation would best compare the two groups?",
+    "audio_prompt": "Data show shade temperatures of 22°C, 23°C and 22°C and sun temperatures of 31°C, 30°C and 32°C. Which representation would best compare the two groups?",
+    "audioPrompt": "Data show shade temperatures of 22°C, 23°C and 22°C and sun temperatures of 31°C, 30°C and 32°C. Which representation would best compare the two groups?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A picture of the Sun",
+        "is_correct": false
+      },
+      {
+        "text": "A list of days without values",
+        "is_correct": false
+      },
+      {
+        "text": "A table or column graph showing the recorded temperatures for shade and sun",
+        "is_correct": true
+      },
+      {
+        "text": "A paragraph saying “sun was hot” only",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A picture of the Sun",
+      "A list of days without values",
+      "A table or column graph showing the recorded temperatures for shade and sun",
+      "A paragraph saying “sun was hot” only"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Structured numerical representation allows the two groups to be compared.",
+      "hint": "Keep the measurements visible."
+    },
+    "structuredExplanation": {
+      "summary": "Structured numerical representation allows the two groups to be compared.",
+      "hint": "Keep the measurements visible."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-032",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "A class counts litter types: paper 12, plastic 18, metal 5. Which statement should a graph make easiest to see?",
+    "audio_prompt": "A class counts litter types: paper 12, plastic 18, metal 5. Which statement should a graph make easiest to see?",
+    "audioPrompt": "A class counts litter types: paper 12, plastic 18, metal 5. Which statement should a graph make easiest to see?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "There were no differences",
+        "is_correct": false
+      },
+      {
+        "text": "Plastic was the most common category",
+        "is_correct": true
+      },
+      {
+        "text": "Paper and plastic were equal",
+        "is_correct": false
+      },
+      {
+        "text": "Metal was most common",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "There were no differences",
+      "Plastic was the most common category",
+      "Paper and plastic were equal",
+      "Metal was most common"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A column graph would show the 18-count bar as tallest.",
+      "hint": "Compare the category counts."
+    },
+    "structuredExplanation": {
+      "summary": "A column graph would show the 18-count bar as tallest.",
+      "hint": "Compare the category counts."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-033",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "A table shows car distance increasing as ramp height increases. What conclusion is safest?",
+    "audio_prompt": "A table shows car distance increasing as ramp height increases. What conclusion is safest?",
+    "audioPrompt": "A table shows car distance increasing as ramp height increases. What conclusion is safest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "In this investigation, higher ramps were associated with greater travel distance",
+        "is_correct": true
+      },
+      {
+        "text": "Higher ramps always make every car travel farther",
+        "is_correct": false
+      },
+      {
+        "text": "Ramp height is the only factor that ever matters",
+        "is_correct": false
+      },
+      {
+        "text": "The graph proves a universal law",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "In this investigation, higher ramps were associated with greater travel distance",
+      "Higher ramps always make every car travel farther",
+      "Ramp height is the only factor that ever matters",
+      "The graph proves a universal law"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The conclusion should stay within the evidence collected.",
+      "hint": "Describe this data set, not every future case."
+    },
+    "structuredExplanation": {
+      "summary": "The conclusion should stay within the evidence collected.",
+      "hint": "Describe this data set, not every future case."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-034",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "You are building a model of a flower to show where pollen is produced. What should the model emphasise?",
+    "audio_prompt": "You are building a model of a flower to show where pollen is produced. What should the model emphasise?",
+    "audioPrompt": "You are building a model of a flower to show where pollen is produced. What should the model emphasise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The colour of the classroom",
+        "is_correct": false
+      },
+      {
+        "text": "Every cell in the flower",
+        "is_correct": false
+      },
+      {
+        "text": "Unrelated decorations",
+        "is_correct": false
+      },
+      {
+        "text": "The relevant flower structures and labels",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The colour of the classroom",
+      "Every cell in the flower",
+      "Unrelated decorations",
+      "The relevant flower structures and labels"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A useful model highlights features needed for the explanation.",
+      "hint": "Match model detail to purpose."
+    },
+    "structuredExplanation": {
+      "summary": "A useful model highlights features needed for the explanation.",
+      "hint": "Match model detail to purpose."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-035",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "A graph has values 10, 20, 30 but the axis uses 0, 10, 50, 60 at equal spacing. What should be fixed?",
+    "audio_prompt": "A graph has values 10, 20, 30 but the axis uses 0, 10, 50, 60 at equal spacing. What should be fixed?",
+    "audioPrompt": "A graph has values 10, 20, 30 but the axis uses 0, 10, 50, 60 at equal spacing. What should be fixed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Change the title colour",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the axis",
+        "is_correct": false
+      },
+      {
+        "text": "Use equal numerical intervals at equal visual spacing",
+        "is_correct": true
+      },
+      {
+        "text": "Make bars wider",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Change the title colour",
+      "Remove the axis",
+      "Use equal numerical intervals at equal visual spacing",
+      "Make bars wider"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The scale should progress consistently so values are represented honestly.",
+      "hint": "Fix the scale sequence."
+    },
+    "structuredExplanation": {
+      "summary": "The scale should progress consistently so values are represented honestly.",
+      "hint": "Fix the scale sequence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-036",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "A class wants to show how Moon phases follow one another. Which representation is strongest?",
+    "audio_prompt": "A class wants to show how Moon phases follow one another. Which representation is strongest?",
+    "audioPrompt": "A class wants to show how Moon phases follow one another. Which representation is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A ruler",
+        "is_correct": false
+      },
+      {
+        "text": "An ordered visual model showing the phase sequence",
+        "is_correct": true
+      },
+      {
+        "text": "A bar graph of unrelated masses",
+        "is_correct": false
+      },
+      {
+        "text": "A table with no images or labels",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A ruler",
+      "An ordered visual model showing the phase sequence",
+      "A bar graph of unrelated masses",
+      "A table with no images or labels"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "An ordered model can show the sequence and relationship among phases.",
+      "hint": "Use a representation suited to sequence."
+    },
+    "structuredExplanation": {
+      "summary": "An ordered model can show the sequence and relationship among phases.",
+      "hint": "Use a representation suited to sequence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-037",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "A student says, “My model is wrong because it is smaller than the real volcano.” What is the best response?",
+    "audio_prompt": "A student says, “My model is wrong because it is smaller than the real volcano.” What is the best response?",
+    "audioPrompt": "A student says, “My model is wrong because it is smaller than the real volcano.” What is the best response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Models can use a different scale while still representing important features",
+        "is_correct": true
+      },
+      {
+        "text": "All models must be full size",
+        "is_correct": false
+      },
+      {
+        "text": "A smaller model is useless",
+        "is_correct": false
+      },
+      {
+        "text": "Scale is never relevant",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Models can use a different scale while still representing important features",
+      "All models must be full size",
+      "A smaller model is useless",
+      "Scale is never relevant"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Models often change scale so large systems can be studied.",
+      "hint": "A model represents; it does not duplicate."
+    },
+    "structuredExplanation": {
+      "summary": "Models often change scale so large systems can be studied.",
+      "hint": "A model represents; it does not duplicate."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-038",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "A results table has temperatures but no units. What is the best revision?",
+    "audio_prompt": "A results table has temperatures but no units. What is the best revision?",
+    "audioPrompt": "A results table has temperatures but no units. What is the best revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Add more rows only",
+        "is_correct": false
+      },
+      {
+        "text": "Change all numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the heading",
+        "is_correct": false
+      },
+      {
+        "text": "Label the heading “Temperature (°C)”",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Add more rows only",
+      "Change all numbers",
+      "Remove the heading",
+      "Label the heading “Temperature (°C)”"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Units make the values interpretable and comparable.",
+      "hint": "Add the unit to the heading."
+    },
+    "structuredExplanation": {
+      "summary": "Units make the values interpretable and comparable.",
+      "hint": "Add the unit to the heading."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-039",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "A graph suggests one plant grew much taller, but the table shows similar heights. What should you do?",
+    "audio_prompt": "A graph suggests one plant grew much taller, but the table shows similar heights. What should you do?",
+    "audioPrompt": "A graph suggests one plant grew much taller, but the table shows similar heights. What should you do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Delete the table",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the more dramatic result",
+        "is_correct": false
+      },
+      {
+        "text": "Check for a plotting or scale error before interpreting the graph",
+        "is_correct": true
+      },
+      {
+        "text": "Trust the graph automatically",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Delete the table",
+      "Choose the more dramatic result",
+      "Check for a plotting or scale error before interpreting the graph",
+      "Trust the graph automatically"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Conflicting representations should be checked against the original data.",
+      "hint": "Return to the source values."
+    },
+    "structuredExplanation": {
+      "summary": "Conflicting representations should be checked against the original data.",
+      "hint": "Return to the source values."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-040",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which statement best uses both a model and data?",
+    "audio_prompt": "Which statement best uses both a model and data?",
+    "audioPrompt": "Which statement best uses both a model and data?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "“Models and data are the same thing.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The model shows the pathway, while our measurements show how much water moved.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The model replaces the measurements.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The data prove the model is perfect.”",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "“Models and data are the same thing.”",
+      "“The model shows the pathway, while our measurements show how much water moved.”",
+      "“The model replaces the measurements.”",
+      "“The data prove the model is perfect.”"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Models explain relationships; data provide observations or measurements.",
+      "hint": "Use each for its purpose."
+    },
+    "structuredExplanation": {
+      "summary": "Models explain relationships; data provide observations or measurements.",
+      "hint": "Use each for its purpose."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-t-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "test",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which representation best compares rainfall totals for four months?",
+    "audio_prompt": "Which representation best compares rainfall totals for four months?",
+    "audioPrompt": "Which representation best compares rainfall totals for four months?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A stopwatch",
+        "is_correct": false
+      },
+      {
+        "text": "A narrative only",
+        "is_correct": false
+      },
+      {
+        "text": "A column graph",
+        "is_correct": true
+      },
+      {
+        "text": "A labelled flower diagram",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A stopwatch",
+      "A narrative only",
+      "A column graph",
+      "A labelled flower diagram"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "A column graph compares category values clearly.",
+      "hint": "Think bars for categories."
+    },
+    "structuredExplanation": {
+      "summary": "A column graph compares category values clearly.",
+      "hint": "Think bars for categories."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-T-001",
+    "id": "ac9s3i04-t-002",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the temperature display, which representation best shows exact melting time values?",
-    "audio_prompt": "At the temperature display, which representation best shows exact melting time values?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why must a graph scale use equal intervals?",
+    "audio_prompt": "Why must a graph scale use equal intervals?",
+    "audioPrompt": "Why must a graph scale use equal intervals?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-001",
-      "alt_text": "At the temperature display: data representation for melting time showing [[\"condition\",\"melting time\"],[\"warm\",\"4 min\"],[\"room\",\"8 min\"],[\"cool\",\"14 min\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "An unlabelled picture",
+        "text": "To remove the need for labels",
         "is_correct": false
       },
       {
-        "text": "A decorative border",
-        "is_correct": false
-      },
-      {
-        "text": "A table with labelled rows, columns and units",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Tables organise exact values so readers can find them.",
-      "hint": "Choose the representation that preserves every recorded number."
-    }
-  },
-  {
-    "id": "AC9S3I04-T-002",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the temperature display, which representation helps compare the three melting time values quickly?",
-    "audio_prompt": "At the temperature display, which representation helps compare the three melting time values quickly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-002",
-      "alt_text": "At the temperature display: data representation for melting time showing [4,8,14]"
-    },
-    "answers": [
-      {
-        "text": "A labelled column graph with a consistent scale",
+        "text": "So visual distances represent numerical differences consistently",
         "is_correct": true
       },
       {
-        "text": "A paragraph with no numbers",
+        "text": "To make it colourful",
         "is_correct": false
       },
       {
-        "text": "Three columns drawn to equal height",
+        "text": "To increase values",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Column heights make comparisons visible when they match a consistent scale.",
-      "hint": "Look for labels, units and heights based on the data."
-    }
-  },
-  {
-    "id": "AC9S3I04-T-003",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the temperature display, which condition has the highest recorded value?",
-    "audio_prompt": "At the temperature display, which condition has the highest recorded value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-003",
-      "alt_text": "At the temperature display: data representation for melting time showing [4,8,14]"
-    },
-    "answers": [
-      {
-        "text": "warm",
-        "is_correct": false
-      },
-      {
-        "text": "cool",
-        "is_correct": true
-      },
-      {
-        "text": "room",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "To remove the need for labels",
+      "So visual distances represent numerical differences consistently",
+      "To make it colourful",
+      "To increase values"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The greatest value is shown by the tallest accurate column or largest table entry.",
-      "hint": "Compare the three numbers, not the label positions."
-    }
+      "summary": "Consistent intervals prevent misleading comparisons.",
+      "hint": "Same numerical jump, same spacing."
+    },
+    "structuredExplanation": {
+      "summary": "Consistent intervals prevent misleading comparisons.",
+      "hint": "Same numerical jump, same spacing."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-T-004",
+    "id": "ac9s3i04-t-003",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the temperature display, what must be checked when turning the table into a graph?",
-    "audio_prompt": "At the temperature display, what must be checked when turning the table into a graph?",
+    "skill": "tables, graphs and scientific models",
+    "question": "A student records temperature each day. Which table heading is clearest?",
+    "audio_prompt": "A student records temperature each day. Which table heading is clearest?",
+    "audioPrompt": "A student records temperature each day. Which table heading is clearest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-004",
-      "alt_text": "At the temperature display: data representation for melting time showing [[\"labels\",\"warm, room, cool\"],[\"values\",\"4, 8, 14\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Every column uses a different scale",
-        "is_correct": false
-      },
-      {
-        "text": "The largest value is always placed first",
-        "is_correct": false
-      },
-      {
-        "text": "Every column height matches the source value",
+        "text": "Day | Temperature (°C)",
         "is_correct": true
+      },
+      {
+        "text": "Thing | Number",
+        "is_correct": false
+      },
+      {
+        "text": "Test | Stuff",
+        "is_correct": false
+      },
+      {
+        "text": "Data | Good",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A graph must accurately represent its source data.",
-      "hint": "Match each label and value one at a time."
-    }
-  },
-  {
-    "id": "AC9S3I04-T-005",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the temperature display, why should a graph use a consistent scale?",
-    "audio_prompt": "At the temperature display, why should a graph use a consistent scale?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-005",
-      "alt_text": "At the temperature display: data representation for melting time showing [\"0\",7,14]"
-    },
-    "answers": [
-      {
-        "text": "So equal height changes represent equal value changes",
-        "is_correct": true
-      },
-      {
-        "text": "So the result can be made more dramatic",
-        "is_correct": false
-      },
-      {
-        "text": "So labels are unnecessary",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Day | Temperature (°C)",
+      "Thing | Number",
+      "Test | Stuff",
+      "Data | Good"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A consistent scale supports accurate visual comparison.",
-      "hint": "Check that equal spaces have equal numerical value."
-    }
+      "summary": "The heading names the variable and unit.",
+      "hint": "Be specific."
+    },
+    "structuredExplanation": {
+      "summary": "The heading names the variable and unit.",
+      "hint": "Be specific."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-T-006",
+    "id": "ac9s3i04-t-004",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the temperature display, which statement describes a pattern in these data?",
-    "audio_prompt": "At the temperature display, which statement describes a pattern in these data?",
+    "skill": "tables, graphs and scientific models",
+    "question": "A bar graph has heights 3, 9 and 6. Which category has the greatest value?",
+    "audio_prompt": "A bar graph has heights 3, 9 and 6. Which category has the greatest value?",
+    "audioPrompt": "A bar graph has heights 3, 9 and 6. Which category has the greatest value?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-006",
-      "alt_text": "At the temperature display: data representation for melting time showing [4,8,14]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "All three values are identical",
+        "text": "The 6-unit bar",
         "is_correct": false
       },
       {
-        "text": "cool has the highest melting time value",
+        "text": "The 3-unit bar",
+        "is_correct": false
+      },
+      {
+        "text": "All are equal",
+        "is_correct": false
+      },
+      {
+        "text": "The 9-unit bar",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The 6-unit bar",
+      "The 3-unit bar",
+      "All are equal",
+      "The 9-unit bar"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The tallest bar represents the greatest value.",
+      "hint": "Tallest bar."
+    },
+    "structuredExplanation": {
+      "summary": "The tallest bar represents the greatest value.",
+      "hint": "Tallest bar."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-t-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "test",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which is the best model for showing how gears interact?",
+    "audio_prompt": "Which is the best model for showing how gears interact?",
+    "audioPrompt": "Which is the best model for showing how gears interact?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A mass table",
+        "is_correct": false
+      },
+      {
+        "text": "A colour list",
+        "is_correct": false
+      },
+      {
+        "text": "A working physical gear model",
         "is_correct": true
       },
       {
-        "text": "There are no recorded values",
+        "text": "A rainfall graph",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A pattern statement is based on relationships visible in the data.",
-      "hint": "Compare the entries and describe only what they show."
-    }
-  },
-  {
-    "id": "AC9S3I04-T-007",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the temperature display, a model shows how one factor may affect melting time. What is an important limit of the model?",
-    "audio_prompt": "At the temperature display, a model shows how one factor may affect melting time. What is an important limit of the model?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-007",
-      "alt_text": "At the temperature display: data representation for melting time showing [\"factor\",\"relationship\",\"melting time\"]"
-    },
-    "answers": [
-      {
-        "text": "It must include every detail of reality",
-        "is_correct": false
-      },
-      {
-        "text": "It cannot show any relationship",
-        "is_correct": false
-      },
-      {
-        "text": "It is a simplified representation, not the real system",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "A mass table",
+      "A colour list",
+      "A working physical gear model",
+      "A rainfall graph"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Models simplify selected features to help explain a relationship.",
-      "hint": "Ask what the model leaves out as well as what it shows."
-    }
+      "summary": "A physical model can represent motion and interaction.",
+      "hint": "Show moving relationships."
+    },
+    "structuredExplanation": {
+      "summary": "A physical model can represent motion and interaction.",
+      "hint": "Show moving relationships."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-T-008",
+    "id": "ac9s3i04-t-006",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "At the temperature display, a graph column does not match its table value. What should students do?",
-    "audio_prompt": "At the temperature display, a graph column does not match its table value. What should students do?",
+    "skill": "tables, graphs and scientific models",
+    "question": "What should you do if graph values do not match the table?",
+    "audio_prompt": "What should you do if graph values do not match the table?",
+    "audioPrompt": "What should you do if graph values do not match the table?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-008",
-      "alt_text": "At the temperature display: data representation for melting time showing [\"source table\",\"graph\",\"must match\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Correct the graph to match the recorded data",
+        "text": "Ignore the mismatch",
+        "is_correct": false
+      },
+      {
+        "text": "Correct the graph using the source data",
         "is_correct": true
       },
       {
-        "text": "Change the table to make the graph look right",
+        "text": "Change the table to match the graph",
         "is_correct": false
       },
       {
-        "text": "Leave both versions unexplained",
+        "text": "Keep whichever looks better",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Ignore the mismatch",
+      "Correct the graph using the source data",
+      "Change the table to match the graph",
+      "Keep whichever looks better"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The representation should accurately reflect recorded evidence.",
+      "hint": "Source data first."
+    },
+    "structuredExplanation": {
+      "summary": "The representation should accurately reflect recorded evidence.",
+      "hint": "Source data first."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-t-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "test",
+    "skill": "tables, graphs and scientific models",
+    "question": "A graph shows bird counts rising from 2 to 4 to 6 to 8. What pattern is shown?",
+    "audio_prompt": "A graph shows bird counts rising from 2 to 4 to 6 to 8. What pattern is shown?",
+    "audioPrompt": "A graph shows bird counts rising from 2 to 4 to 6 to 8. What pattern is shown?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "An increase of 2 each time",
+        "is_correct": true
+      },
+      {
+        "text": "A decrease of 2",
+        "is_correct": false
+      },
+      {
+        "text": "No pattern",
+        "is_correct": false
+      },
+      {
+        "text": "All values equal",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "An increase of 2 each time",
+      "A decrease of 2",
+      "No pattern",
+      "All values equal"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Representations must remain faithful to the source data.",
-      "hint": "Treat the recorded observations as the source."
-    }
+      "summary": "Each successive count is 2 higher.",
+      "hint": "Compare consecutive values."
+    },
+    "structuredExplanation": {
+      "summary": "Each successive count is 2 higher.",
+      "hint": "Compare consecutive values."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-T-009",
+    "id": "ac9s3i04-t-008",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the class data review, which representation best shows exact shadow length values?",
-    "audio_prompt": "During the class data review, which representation best shows exact shadow length values?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why add a title to a graph?",
+    "audio_prompt": "Why add a title to a graph?",
+    "audioPrompt": "Why add a title to a graph?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-009",
-      "alt_text": "During the class data review: data representation for shadow length showing [[\"condition\",\"shadow length\"],[\"morning\",\"12 cm\"],[\"midday\",\"5 cm\"],[\"afternoon\",\"10 cm\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "An unlabelled picture",
+        "text": "To make bars taller",
         "is_correct": false
       },
       {
-        "text": "A table with labelled rows, columns and units",
+        "text": "To change units",
+        "is_correct": false
+      },
+      {
+        "text": "To prove a claim",
+        "is_correct": false
+      },
+      {
+        "text": "To tell readers what data are being shown",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "To make bars taller",
+      "To change units",
+      "To prove a claim",
+      "To tell readers what data are being shown"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A title provides context.",
+      "hint": "What is the graph about?"
+    },
+    "structuredExplanation": {
+      "summary": "A title provides context.",
+      "hint": "What is the graph about?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-t-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "test",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which representation is best for stages of seed germination?",
+    "audio_prompt": "Which representation is best for stages of seed germination?",
+    "audioPrompt": "Which representation is best for stages of seed germination?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A thermometer",
+        "is_correct": false
+      },
+      {
+        "text": "A mass scale",
+        "is_correct": false
+      },
+      {
+        "text": "An ordered labelled diagram",
         "is_correct": true
       },
       {
-        "text": "A decorative border",
+        "text": "A bar graph of shoe sizes",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Tables organise exact values so readers can find them.",
-      "hint": "Choose the representation that preserves every recorded number."
-    }
-  },
-  {
-    "id": "AC9S3I04-T-010",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the class data review, which representation helps compare the three shadow length values quickly?",
-    "audio_prompt": "During the class data review, which representation helps compare the three shadow length values quickly?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-010",
-      "alt_text": "During the class data review: data representation for shadow length showing [12,5,10]"
-    },
-    "answers": [
-      {
-        "text": "A paragraph with no numbers",
-        "is_correct": false
-      },
-      {
-        "text": "Three columns drawn to equal height",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled column graph with a consistent scale",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "A thermometer",
+      "A mass scale",
+      "An ordered labelled diagram",
+      "A bar graph of shoe sizes"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Column heights make comparisons visible when they match a consistent scale.",
-      "hint": "Look for labels, units and heights based on the data."
-    }
+      "summary": "An ordered diagram shows sequence and visible changes.",
+      "hint": "Think stages."
+    },
+    "structuredExplanation": {
+      "summary": "An ordered diagram shows sequence and visible changes.",
+      "hint": "Think stages."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-T-011",
+    "id": "ac9s3i04-t-010",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the class data review, which condition has the highest recorded value?",
-    "audio_prompt": "During the class data review, which condition has the highest recorded value?",
+    "skill": "tables, graphs and scientific models",
+    "question": "A model leaves out many real-world details. Is that always a problem?",
+    "audio_prompt": "A model leaves out many real-world details. Is that always a problem?",
+    "audioPrompt": "A model leaves out many real-world details. Is that always a problem?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-011",
-      "alt_text": "During the class data review: data representation for shadow length showing [12,5,10]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "morning",
+        "text": "No; detail never matters",
+        "is_correct": false
+      },
+      {
+        "text": "No; models often simplify to focus on relevant features",
         "is_correct": true
       },
       {
-        "text": "midday",
+        "text": "Yes; every model must include everything",
         "is_correct": false
       },
       {
-        "text": "afternoon",
+        "text": "Yes; simplification makes models false",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "No; detail never matters",
+      "No; models often simplify to focus on relevant features",
+      "Yes; every model must include everything",
+      "Yes; simplification makes models false"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Purposeful simplification can make a model clearer.",
+      "hint": "Match detail to purpose."
+    },
+    "structuredExplanation": {
+      "summary": "Purposeful simplification can make a model clearer.",
+      "hint": "Match detail to purpose."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-t-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "test",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which graph feature identifies what each bar stands for?",
+    "audio_prompt": "Which graph feature identifies what each bar stands for?",
+    "audioPrompt": "Which graph feature identifies what each bar stands for?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Category labels",
+        "is_correct": true
+      },
+      {
+        "text": "Border thickness",
+        "is_correct": false
+      },
+      {
+        "text": "Background colour",
+        "is_correct": false
+      },
+      {
+        "text": "Page size",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Category labels",
+      "Border thickness",
+      "Background colour",
+      "Page size"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The greatest value is shown by the tallest accurate column or largest table entry.",
-      "hint": "Compare the three numbers, not the label positions."
-    }
+      "summary": "Category labels name each bar.",
+      "hint": "What is each bar?"
+    },
+    "structuredExplanation": {
+      "summary": "Category labels name each bar.",
+      "hint": "What is each bar?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-T-012",
+    "id": "ac9s3i04-t-012",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the class data review, what must be checked when turning the table into a graph?",
-    "audio_prompt": "During the class data review, what must be checked when turning the table into a graph?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which statement is safest from a graph of one classroom experiment?",
+    "audio_prompt": "Which statement is safest from a graph of one classroom experiment?",
+    "audioPrompt": "Which statement is safest from a graph of one classroom experiment?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-012",
-      "alt_text": "During the class data review: data representation for shadow length showing [[\"labels\",\"morning, midday, afternoon\"],[\"values\",\"12, 5, 10\"]]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Every column uses a different scale",
+        "text": "All warm liquids everywhere always cool faster.",
         "is_correct": false
       },
       {
-        "text": "Every column height matches the source value",
+        "text": "The graph proves every future result.",
+        "is_correct": false
+      },
+      {
+        "text": "No other factor can matter.",
+        "is_correct": false
+      },
+      {
+        "text": "In our test, the warmer cup cooled faster at first.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "All warm liquids everywhere always cool faster.",
+      "The graph proves every future result.",
+      "No other factor can matter.",
+      "In our test, the warmer cup cooled faster at first."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Conclusions should remain within the evidence collected.",
+      "hint": "Avoid universal claims."
+    },
+    "structuredExplanation": {
+      "summary": "Conclusions should remain within the evidence collected.",
+      "hint": "Avoid universal claims."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-t-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "test",
+    "skill": "tables, graphs and scientific models",
+    "question": "A student plots 14 as 41. What kind of problem is this?",
+    "audio_prompt": "A student plots 14 as 41. What kind of problem is this?",
+    "audioPrompt": "A student plots 14 as 41. What kind of problem is this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A better model",
+        "is_correct": false
+      },
+      {
+        "text": "A safety issue",
+        "is_correct": false
+      },
+      {
+        "text": "A data transcription error",
         "is_correct": true
       },
       {
-        "text": "The largest value is always placed first",
+        "text": "A new pattern",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A graph must accurately represent its source data.",
-      "hint": "Match each label and value one at a time."
-    }
-  },
-  {
-    "id": "AC9S3I04-T-013",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the class data review, why should a graph use a consistent scale?",
-    "audio_prompt": "During the class data review, why should a graph use a consistent scale?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-013",
-      "alt_text": "During the class data review: data representation for shadow length showing [\"0\",6,12]"
-    },
-    "answers": [
-      {
-        "text": "So the result can be made more dramatic",
-        "is_correct": false
-      },
-      {
-        "text": "So labels are unnecessary",
-        "is_correct": false
-      },
-      {
-        "text": "So equal height changes represent equal value changes",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "A better model",
+      "A safety issue",
+      "A data transcription error",
+      "A new pattern"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A consistent scale supports accurate visual comparison.",
-      "hint": "Check that equal spaces have equal numerical value."
-    }
+      "summary": "The value was copied incorrectly.",
+      "hint": "Check source data."
+    },
+    "structuredExplanation": {
+      "summary": "The value was copied incorrectly.",
+      "hint": "Check source data."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-T-014",
+    "id": "ac9s3i04-t-014",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the class data review, which statement describes a pattern in these data?",
-    "audio_prompt": "During the class data review, which statement describes a pattern in these data?",
+    "skill": "tables, graphs and scientific models",
+    "question": "Which representation best shows where roots, stem and leaves are located?",
+    "audio_prompt": "Which representation best shows where roots, stem and leaves are located?",
+    "audioPrompt": "Which representation best shows where roots, stem and leaves are located?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-014",
-      "alt_text": "During the class data review: data representation for shadow length showing [12,5,10]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "morning has the highest shadow length value",
+        "text": "A tally only",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled plant diagram",
         "is_correct": true
       },
       {
-        "text": "All three values are identical",
+        "text": "A column graph",
         "is_correct": false
       },
       {
-        "text": "There are no recorded values",
+        "text": "A stopwatch reading",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "A tally only",
+      "A labelled plant diagram",
+      "A column graph",
+      "A stopwatch reading"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A labelled diagram shows spatial relationships.",
+      "hint": "Show parts and positions."
+    },
+    "structuredExplanation": {
+      "summary": "A labelled diagram shows spatial relationships.",
+      "hint": "Show parts and positions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-t-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "test",
+    "skill": "tables, graphs and scientific models",
+    "question": "Why might scientists use both tables and graphs?",
+    "audio_prompt": "Why might scientists use both tables and graphs?",
+    "audioPrompt": "Why might scientists use both tables and graphs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Tables preserve exact values; graphs can make patterns easier to see",
+        "is_correct": true
+      },
+      {
+        "text": "Graphs always replace tables",
+        "is_correct": false
+      },
+      {
+        "text": "Tables cannot contain measurements",
+        "is_correct": false
+      },
+      {
+        "text": "Both are only decorations",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Tables preserve exact values; graphs can make patterns easier to see",
+      "Graphs always replace tables",
+      "Tables cannot contain measurements",
+      "Both are only decorations"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A pattern statement is based on relationships visible in the data.",
-      "hint": "Compare the entries and describe only what they show."
-    }
+      "summary": "Different representations support different reading tasks.",
+      "hint": "Exact values versus visual pattern."
+    },
+    "structuredExplanation": {
+      "summary": "Different representations support different reading tasks.",
+      "hint": "Exact values versus visual pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I04-T-015",
+    "id": "ac9s3i04-t-016",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the class data review, a model shows how one factor may affect shadow length. What is an important limit of the model?",
-    "audio_prompt": "During the class data review, a model shows how one factor may affect shadow length. What is an important limit of the model?",
+    "skill": "tables, graphs and scientific models",
+    "question": "A scale jumps 0, 5, 10, 30 at equal spacing. What should be changed?",
+    "audio_prompt": "A scale jumps 0, 5, 10, 30 at equal spacing. What should be changed?",
+    "audioPrompt": "A scale jumps 0, 5, 10, 30 at equal spacing. What should be changed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-015",
-      "alt_text": "During the class data review: data representation for shadow length showing [\"factor\",\"relationship\",\"shadow length\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It must include every detail of reality",
+        "text": "Use more colours",
         "is_correct": false
       },
       {
-        "text": "It is a simplified representation, not the real system",
-        "is_correct": true
-      },
-      {
-        "text": "It cannot show any relationship",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Models simplify selected features to help explain a relationship.",
-      "hint": "Ask what the model leaves out as well as what it shows."
-    }
-  },
-  {
-    "id": "AC9S3I04-T-016",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I04",
-    "bank": "test",
-    "skill": "Tables, Graphs and Scientific Models",
-    "question": "During the class data review, a graph column does not match its table value. What should students do?",
-    "audio_prompt": "During the class data review, a graph column does not match its table value. What should students do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i04.svg#ac9s3i04-t-016",
-      "alt_text": "During the class data review: data representation for shadow length showing [\"source table\",\"graph\",\"must match\"]"
-    },
-    "answers": [
-      {
-        "text": "Change the table to make the graph look right",
+        "text": "Remove all numbers",
         "is_correct": false
       },
       {
-        "text": "Leave both versions unexplained",
+        "text": "Make the last bar taller",
         "is_correct": false
       },
       {
-        "text": "Correct the graph to match the recorded data",
+        "text": "Use consistent numerical intervals",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Use more colours",
+      "Remove all numbers",
+      "Make the last bar taller",
+      "Use consistent numerical intervals"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Representations must remain faithful to the source data.",
-      "hint": "Treat the recorded observations as the source."
-    }
+      "summary": "The scale should progress evenly.",
+      "hint": "Check the interval pattern."
+    },
+    "structuredExplanation": {
+      "summary": "The scale should progress evenly.",
+      "hint": "Check the interval pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]

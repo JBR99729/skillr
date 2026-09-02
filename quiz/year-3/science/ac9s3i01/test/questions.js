@@ -4,466 +4,512 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-001",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "During the soil study, students observe that water drained faster through sand. Which question is testable?",
-    "audioPrompt": "During the soil study, students observe that water drained faster through sand. Which question is testable?",
-    "visual": "During the soil study: question and prediction model showing [\"observe: water drained faster through sand\",\"change: soil type\",\"measure: drained water\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the soil study: question and prediction model showing [&quot;observe: water drained faster through sand&quot;,&quot;change: soil type&quot;,&quot;measure: drained water&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-001\"></use></svg>",
+    "question": "Wet sand holds a castle shape better than dry sand. Which question best follows?",
+    "audioPrompt": "Wet sand holds a castle shape better than dry sand. Which question best follows?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-001",
-      "alt_text": "During the soil study: question and prediction model showing [\"observe: water drained faster through sand\",\"change: soil type\",\"measure: drained water\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Which result is the nicest?",
-      "Why is my favourite condition best?",
-      "How does soil type affect drained water?"
+      "Why is the beach fun?",
+      "Are buckets useful?",
+      "Does water amount affect how well sand holds shape?",
+      "Which castle is prettiest?"
     ],
     "correct": 2,
-    "explanation": "A testable question links a changed factor to an observable or measurable outcome.\nHint: Find the question that could be answered by collecting data.",
+    "explanation": "It tests the observed relationship.\nHint: Make it measurable.",
     "structuredExplanation": {
-      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
-      "hint": "Find the question that could be answered by collecting data."
+      "summary": "It tests the observed relationship.",
+      "hint": "Make it measurable."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-002",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "During the soil study, which prediction has a testable outcome?",
-    "audioPrompt": "During the soil study, which prediction has a testable outcome?",
-    "visual": "During the soil study: question and prediction model showing [\"If\",\"soil type\",\"then\",\"drained water\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the soil study: question and prediction model showing [&quot;If&quot;,&quot;soil type&quot;,&quot;then&quot;,&quot;drained water&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-002\"></use></svg>",
+    "question": "Grass was wet after four dewy mornings. Which prediction is careful?",
+    "audioPrompt": "Grass was wet after four dewy mornings. Which prediction is careful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-002",
-      "alt_text": "During the soil study: question and prediction model showing [\"If\",\"soil type\",\"then\",\"drained water\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Changing soil type will change the measured drained water",
-      "The investigation will be fun",
-      "The best result will happen"
+      "Exactly four patches will be wet.",
+      "It may be wet after another dewy morning.",
+      "It must be wet forever.",
+      "Dew makes all grass identical."
     ],
-    "correct": 0,
-    "explanation": "A prediction states an expected measurable outcome.\nHint: Look for what students expect to observe or measure.",
+    "correct": 1,
+    "explanation": "The pattern supports “may”, not certainty.\nHint: Avoid must.",
     "structuredExplanation": {
-      "summary": "A prediction states an expected measurable outcome.",
-      "hint": "Look for what students expect to observe or measure."
+      "summary": "The pattern supports “may”, not certainty.",
+      "hint": "Avoid must."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-003",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "During the soil study, what evidence should support a prediction?",
-    "audioPrompt": "During the soil study, what evidence should support a prediction?",
-    "visual": "During the soil study: question and prediction model showing [\"water drained faster through sand\",\"prediction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the soil study: question and prediction model showing [&quot;water drained faster through sand&quot;,&quot;prediction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-003\"></use></svg>",
+    "question": "Which question is most measurable?",
+    "audioPrompt": "Which question is most measurable?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-003",
-      "alt_text": "During the soil study: question and prediction model showing [\"water drained faster through sand\",\"prediction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A favourite answer",
-      "Relevant observations or previous data",
-      "The colour of the equipment"
+      "Does string length affect pendulum swing time?",
+      "Which pendulum looks best?",
+      "Is swinging exciting?",
+      "Why is string useful?"
     ],
-    "correct": 1,
-    "explanation": "Evidence-based predictions grow from relevant observations or patterns.\nHint: Use what was noticed, not a preference.",
+    "correct": 0,
+    "explanation": "Both variables can be measured.\nHint: Choose measurable factors.",
     "structuredExplanation": {
-      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
-      "hint": "Use what was noticed, not a preference."
+      "summary": "Both variables can be measured.",
+      "hint": "Choose measurable factors."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-004",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "During the soil study, which part of the question is the factor students change?",
-    "audioPrompt": "During the soil study, which part of the question is the factor students change?",
-    "visual": "During the soil study: question and prediction model showing [\"changed: soil type\",\"measured: drained water\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the soil study: question and prediction model showing [&quot;changed: soil type&quot;,&quot;measured: drained water&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-004\"></use></svg>",
+    "question": "More-layer paper towels absorbed more water in three trials. Which prediction follows?",
+    "audioPrompt": "More-layer paper towels absorbed more water in three trials. Which prediction follows?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-004",
-      "alt_text": "During the soil study: question and prediction model showing [\"changed: soil type\",\"measured: drained water\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "drained water",
-      "the final opinion",
-      "soil type"
+      "More layers always absorb every drop.",
+      "The thickest is best for every job.",
+      "Paper towels choose water.",
+      "A towel with more layers may absorb more in another similar test."
     ],
-    "correct": 2,
-    "explanation": "The changed factor is deliberately varied to explore a relationship.\nHint: Look after \"How does\" and before \"affect\".",
+    "correct": 3,
+    "explanation": "It extends the pattern cautiously.\nHint: May, not always.",
     "structuredExplanation": {
-      "summary": "The changed factor is deliberately varied to explore a relationship.",
-      "hint": "Look after \"How does\" and before \"affect\"."
+      "summary": "It extends the pattern cautiously.",
+      "hint": "May, not always."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-005",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "During the soil study, which part is the outcome students measure?",
-    "audioPrompt": "During the soil study, which part is the outcome students measure?",
-    "visual": "During the soil study: question and prediction model showing [\"changed: soil type\",\"measured: drained water\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the soil study: question and prediction model showing [&quot;changed: soil type&quot;,&quot;measured: drained water&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-005\"></use></svg>",
+    "question": "Why is “Which bridge is best?” weak?",
+    "audioPrompt": "Why is “Which bridge is best?” weak?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-005",
-      "alt_text": "During the soil study: question and prediction model showing [\"changed: soil type\",\"measured: drained water\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "drained water",
-      "soil type",
-      "the equipment colour"
+      "Questions cannot use which.",
+      "Bridge is too technical.",
+      "“Best” does not name a measurable property.",
+      "Bridges cannot be tested."
     ],
-    "correct": 0,
-    "explanation": "The measured outcome provides data to answer the question.\nHint: Look for the result that can be recorded.",
+    "correct": 2,
+    "explanation": "A criterion such as load held must be defined.\nHint: Best at what?",
     "structuredExplanation": {
-      "summary": "The measured outcome provides data to answer the question.",
-      "hint": "Look for the result that can be recorded."
+      "summary": "A criterion such as load held must be defined.",
+      "hint": "Best at what?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-006",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "During the soil study, why is \"Which one is best?\" not yet a strong scientific question?",
-    "audioPrompt": "During the soil study, why is \"Which one is best?\" not yet a strong scientific question?",
-    "visual": "During the soil study: question and prediction model showing [\"opinion: best\",\"measure: drained water\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the soil study: question and prediction model showing [&quot;opinion: best&quot;,&quot;measure: drained water&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-006\"></use></svg>",
+    "question": "A magnet attracted steel clips before. What supports predicting it will attract another steel clip?",
+    "audioPrompt": "A magnet attracted steel clips before. What supports predicting it will attract another steel clip?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-006",
-      "alt_text": "During the soil study: question and prediction model showing [\"opinion: best\",\"measure: drained water\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It has too many units",
-      "It does not define an observable or measurable outcome",
-      "It already contains data"
+      "Writing the prediction first",
+      "Relevant previous observations",
+      "Liking magnets",
+      "The clip being shiny"
     ],
     "correct": 1,
-    "explanation": "Words such as best need a measurable meaning.\nHint: Replace \"best\" with a named measurement.",
+    "explanation": "Past relevant evidence supports the expectation.\nHint: Use evidence.",
     "structuredExplanation": {
-      "summary": "Words such as best need a measurable meaning.",
-      "hint": "Replace \"best\" with a named measurement."
+      "summary": "Past relevant evidence supports the expectation.",
+      "hint": "Use evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-007",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "During the soil study, what should students do if their results do not match the prediction?",
-    "audioPrompt": "During the soil study, what should students do if their results do not match the prediction?",
-    "visual": "During the soil study: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the soil study: question and prediction model showing [&quot;prediction&quot;,&quot;collect data&quot;,&quot;compare&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-007\"></use></svg>",
+    "question": "One shaded plant grew slowly. Which claim is too strong?",
+    "audioPrompt": "One shaded plant grew slowly. Which claim is too strong?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-007",
-      "alt_text": "During the soil study: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change the data to match",
-      "Say the investigation failed without checking",
-      "Record the results honestly and use them to explain what happened"
+      "Plants in shade always grow slowly.",
+      "This plant grew slowly in shade.",
+      "We could test more plants.",
+      "This suggests a light-growth question."
     ],
-    "correct": 2,
-    "explanation": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.\nHint: Keep observations separate from what was expected.",
+    "correct": 0,
+    "explanation": "One observation cannot justify a universal claim.\nHint: One result ≠ always.",
     "structuredExplanation": {
-      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
-      "hint": "Keep observations separate from what was expected."
+      "summary": "One observation cannot justify a universal claim.",
+      "hint": "One result ≠ always."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-008",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "During the soil study, which prediction frame includes a reason?",
-    "audioPrompt": "During the soil study, which prediction frame includes a reason?",
-    "visual": "During the soil study: question and prediction model showing [\"if\",\"soil type\",\"then\",\"drained water\",\"because\",\"water drained faster through sand\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the soil study: question and prediction model showing [&quot;if&quot;,&quot;soil type&quot;,&quot;then&quot;,&quot;drained water&quot;,&quot;because&quot;,&quot;water drained faster through sand&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-008\"></use></svg>",
+    "question": "Which statement reports a measured result rather than a prediction?",
+    "audioPrompt": "Which statement reports a measured result rather than a prediction?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-008",
-      "alt_text": "During the soil study: question and prediction model showing [\"if\",\"soil type\",\"then\",\"drained water\",\"because\",\"water drained faster through sand\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "If soil type changes, then drained water may change because the observation showed a pattern",
-      "The result will happen because I said so",
-      "I predict something interesting"
+      "Water may cool faster outside.",
+      "Metal may cool it faster.",
+      "The next test should differ.",
+      "Water cooled from 50°C to 38°C."
     ],
-    "correct": 0,
-    "explanation": "A useful prediction states an outcome and connects it to evidence or science.\nHint: Look for if, then and because.",
+    "correct": 3,
+    "explanation": "The temperature change reports measured evidence.\nHint: Choose what has already been measured.",
     "structuredExplanation": {
-      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
-      "hint": "Look for if, then and because."
+      "summary": "The temperature change reports measured evidence.",
+      "hint": "Choose what has already been measured."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-009",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "After observing shadows, students observe that shadows changed length during the day. Which question is testable?",
-    "audioPrompt": "After observing shadows, students observe that shadows changed length during the day. Which question is testable?",
-    "visual": "After observing shadows: question and prediction model showing [\"observe: shadows changed length during the day\",\"change: time of day\",\"measure: shadow length\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After observing shadows: question and prediction model showing [&quot;observe: shadows changed length during the day&quot;,&quot;change: time of day&quot;,&quot;measure: shadow length&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-009\"></use></svg>",
+    "question": "Snails are often found in damp spots. Which question is strongest?",
+    "audioPrompt": "Snails are often found in damp spots. Which question is strongest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-009",
-      "alt_text": "After observing shadows: question and prediction model showing [\"observe: shadows changed length during the day\",\"change: time of day\",\"measure: shadow length\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Which result is the nicest?",
-      "How does time of day affect shadow length?",
-      "Why is my favourite condition best?"
+      "Why is mud messy?",
+      "Are gardens fun?",
+      "Does soil moisture affect where snails are found?",
+      "Which snail is cutest?"
     ],
-    "correct": 1,
-    "explanation": "A testable question links a changed factor to an observable or measurable outcome.\nHint: Find the question that could be answered by collecting data.",
+    "correct": 2,
+    "explanation": "It tests the observed moisture-location relationship.\nHint: Turn pattern into question.",
     "structuredExplanation": {
-      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
-      "hint": "Find the question that could be answered by collecting data."
+      "summary": "It tests the observed moisture-location relationship.",
+      "hint": "Turn pattern into question."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-010",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "After observing shadows, which prediction has a testable outcome?",
-    "audioPrompt": "After observing shadows, which prediction has a testable outcome?",
-    "visual": "After observing shadows: question and prediction model showing [\"If\",\"time of day\",\"then\",\"shadow length\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After observing shadows: question and prediction model showing [&quot;If&quot;,&quot;time of day&quot;,&quot;then&quot;,&quot;shadow length&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-010\"></use></svg>",
+    "question": "A ball bounced higher on tile than carpet in several trials. Which prediction fits?",
+    "audioPrompt": "A ball bounced higher on tile than carpet in several trials. Which prediction fits?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-010",
-      "alt_text": "After observing shadows: question and prediction model showing [\"If\",\"time of day\",\"then\",\"shadow length\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The investigation will be fun",
-      "The best result will happen",
-      "Changing time of day will change the measured shadow length"
+      "The next bounce must be identical.",
+      "It may bounce higher on tile again.",
+      "Tile always makes every object bounce highest.",
+      "Carpet stops all motion."
     ],
-    "correct": 2,
-    "explanation": "A prediction states an expected measurable outcome.\nHint: Look for what students expect to observe or measure.",
+    "correct": 1,
+    "explanation": "The prediction uses the pattern cautiously.\nHint: Use may.",
     "structuredExplanation": {
-      "summary": "A prediction states an expected measurable outcome.",
-      "hint": "Look for what students expect to observe or measure."
+      "summary": "The prediction uses the pattern cautiously.",
+      "hint": "Use may."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-011",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "After observing shadows, what evidence should support a prediction?",
-    "audioPrompt": "After observing shadows, what evidence should support a prediction?",
-    "visual": "After observing shadows: question and prediction model showing [\"shadows changed length during the day\",\"prediction\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After observing shadows: question and prediction model showing [&quot;shadows changed length during the day&quot;,&quot;prediction&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-011\"></use></svg>",
+    "question": "Four rocks are being compared. Which question asks for an opinion rather than measurable evidence?",
+    "audioPrompt": "Four rocks are being compared. Which question asks for an opinion rather than measurable evidence?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-011",
-      "alt_text": "After observing shadows: question and prediction model showing [\"shadows changed length during the day\",\"prediction\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Relevant observations or previous data",
-      "A favourite answer",
-      "The colour of the equipment"
+      "Which rock is nicest?",
+      "Which rock has greatest mass?",
+      "Which is longest?",
+      "Which absorbs most water?"
     ],
     "correct": 0,
-    "explanation": "Evidence-based predictions grow from relevant observations or patterns.\nHint: Use what was noticed, not a preference.",
+    "explanation": "“Nicest” is personal preference.\nHint: Can it be measured objectively?",
     "structuredExplanation": {
-      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
-      "hint": "Use what was noticed, not a preference."
+      "summary": "“Nicest” is personal preference.",
+      "hint": "Can it be measured objectively?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-012",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "After observing shadows, which part of the question is the factor students change?",
-    "audioPrompt": "After observing shadows, which part of the question is the factor students change?",
-    "visual": "After observing shadows: question and prediction model showing [\"changed: time of day\",\"measured: shadow length\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After observing shadows: question and prediction model showing [&quot;changed: time of day&quot;,&quot;measured: shadow length&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-012\"></use></svg>",
+    "question": "A prediction is not supported. What should happen?",
+    "audioPrompt": "A prediction is not supported. What should happen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-012",
-      "alt_text": "After observing shadows: question and prediction model showing [\"changed: time of day\",\"measured: shadow length\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "shadow length",
-      "time of day",
-      "the final opinion"
+      "Erase the result.",
+      "Change the prediction after seeing data and pretend it was original.",
+      "Stop doing science.",
+      "Keep the evidence and revise the idea if needed."
     ],
-    "correct": 1,
-    "explanation": "The changed factor is deliberately varied to explore a relationship.\nHint: Look after \"How does\" and before \"affect\".",
+    "correct": 3,
+    "explanation": "Unexpected evidence helps improve thinking.\nHint: Evidence first.",
     "structuredExplanation": {
-      "summary": "The changed factor is deliberately varied to explore a relationship.",
-      "hint": "Look after \"How does\" and before \"affect\"."
+      "summary": "Unexpected evidence helps improve thinking.",
+      "hint": "Evidence first."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-013",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "After observing shadows, which part is the outcome students measure?",
-    "audioPrompt": "After observing shadows, which part is the outcome students measure?",
-    "visual": "After observing shadows: question and prediction model showing [\"changed: time of day\",\"measured: shadow length\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After observing shadows: question and prediction model showing [&quot;changed: time of day&quot;,&quot;measured: shadow length&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-013\"></use></svg>",
+    "question": "Three darker surfaces warmed more than lighter ones. Which new question is useful?",
+    "audioPrompt": "Three darker surfaces warmed more than lighter ones. Which new question is useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-013",
-      "alt_text": "After observing shadows: question and prediction model showing [\"changed: time of day\",\"measured: shadow length\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "time of day",
-      "the equipment colour",
-      "shadow length"
+      "Why is light pretty?",
+      "Who likes black?",
+      "Does surface colour affect temperature increase in sunlight?",
+      "Which colour is most fashionable?"
     ],
     "correct": 2,
-    "explanation": "The measured outcome provides data to answer the question.\nHint: Look for the result that can be recorded.",
+    "explanation": "It tests the observed colour-temperature relationship.\nHint: Ask about the pattern.",
     "structuredExplanation": {
-      "summary": "The measured outcome provides data to answer the question.",
-      "hint": "Look for the result that can be recorded."
+      "summary": "It tests the observed colour-temperature relationship.",
+      "hint": "Ask about the pattern."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-014",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "After observing shadows, why is \"Which one is best?\" not yet a strong scientific question?",
-    "audioPrompt": "After observing shadows, why is \"Which one is best?\" not yet a strong scientific question?",
-    "visual": "After observing shadows: question and prediction model showing [\"opinion: best\",\"measure: shadow length\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After observing shadows: question and prediction model showing [&quot;opinion: best&quot;,&quot;measure: shadow length&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-014\"></use></svg>",
+    "question": "Which statement is most cautious?",
+    "audioPrompt": "Which statement is most cautious?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-014",
-      "alt_text": "After observing shadows: question and prediction model showing [\"opinion: best\",\"measure: shadow length\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It does not define an observable or measurable outcome",
-      "It has too many units",
-      "It already contains data"
+      "The result can never change.",
+      "Our results suggest the rough surface may slow the car.",
+      "The rough surface always stops every car.",
+      "Roughness is the only factor that matters."
     ],
-    "correct": 0,
-    "explanation": "Words such as best need a measurable meaning.\nHint: Replace \"best\" with a named measurement.",
+    "correct": 1,
+    "explanation": "“Suggest” and “may” match limited evidence.\nHint: Match certainty to evidence.",
     "structuredExplanation": {
-      "summary": "Words such as best need a measurable meaning.",
-      "hint": "Replace \"best\" with a named measurement."
+      "summary": "“Suggest” and “may” match limited evidence.",
+      "hint": "Match certainty to evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-015",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "After observing shadows, what should students do if their results do not match the prediction?",
-    "audioPrompt": "After observing shadows, what should students do if their results do not match the prediction?",
-    "visual": "After observing shadows: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After observing shadows: question and prediction model showing [&quot;prediction&quot;,&quot;collect data&quot;,&quot;compare&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-015\"></use></svg>",
+    "question": "What makes a relationship question useful?",
+    "audioPrompt": "What makes a relationship question useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-015",
-      "alt_text": "After observing shadows: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change the data to match",
-      "Record the results honestly and use them to explain what happened",
-      "Say the investigation failed without checking"
+      "It links factors that can be observed or measured.",
+      "It guarantees a cause.",
+      "It must have one-word answers.",
+      "It should ask for a favourite."
     ],
-    "correct": 1,
-    "explanation": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.\nHint: Keep observations separate from what was expected.",
+    "correct": 0,
+    "explanation": "Measurable relationships can be investigated scientifically.\nHint: Observable factors.",
     "structuredExplanation": {
-      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
-      "hint": "Keep observations separate from what was expected."
+      "summary": "Measurable relationships can be investigated scientifically.",
+      "hint": "Observable factors."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i01-t-016",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
+    "skill": "questions about patterns and evidence-based predictions",
     "printable": true,
     "type": "single",
-    "question": "After observing shadows, which prediction frame includes a reason?",
-    "audioPrompt": "After observing shadows, which prediction frame includes a reason?",
-    "visual": "After observing shadows: question and prediction model showing [\"if\",\"time of day\",\"then\",\"shadow length\",\"because\",\"shadows changed length during the day\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After observing shadows: question and prediction model showing [&quot;if&quot;,&quot;time of day&quot;,&quot;then&quot;,&quot;shadow length&quot;,&quot;because&quot;,&quot;shadows changed length during the day&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-016\"></use></svg>",
+    "question": "Which sequence is best?",
+    "audioPrompt": "Which sequence is best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-016",
-      "alt_text": "After observing shadows: question and prediction model showing [\"if\",\"time of day\",\"then\",\"shadow length\",\"because\",\"shadows changed length during the day\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The result will happen because I said so",
-      "I predict something interesting",
-      "If time of day changes, then shadow length may change because the observation showed a pattern"
+      "Predict → change data → conclude",
+      "Vote → guess → stop",
+      "Choose answer → ignore results",
+      "Observe → question → predict → test → compare evidence"
     ],
-    "correct": 2,
-    "explanation": "A useful prediction states an outcome and connects it to evidence or science.\nHint: Look for if, then and because.",
+    "correct": 3,
+    "explanation": "Inquiry builds from observations to evidence.\nHint: Follow the scientific process.",
     "structuredExplanation": {
-      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
-      "hint": "Look for if, then and because."
+      "summary": "Inquiry builds from observations to evidence.",
+      "hint": "Follow the scientific process."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

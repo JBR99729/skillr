@@ -4,466 +4,512 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-001",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In the soil-drainage test, what should students change in this fair test?",
-    "audioPrompt": "In the soil-drainage test, what should students change in this fair test?",
-    "visual": "In the soil-drainage test: fair-test plan showing [[\"change\",\"soil type\"],[\"measure\",\"millilitres drained\"],[\"keep same\",\"soil amount and added water\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the soil-drainage test: fair-test plan showing [[&quot;change&quot;,&quot;soil type&quot;],[&quot;measure&quot;,&quot;millilitres drained&quot;],[&quot;keep same&quot;,&quot;soil amount and added water&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-001\"></use></svg>",
+    "question": "Which action makes a seed-growth comparison fairer?",
+    "audioPrompt": "Which action makes a seed-growth comparison fairer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-001",
-      "alt_text": "In the soil-drainage test: fair-test plan showing [[\"change\",\"soil type\"],[\"measure\",\"millilitres drained\"],[\"keep same\",\"soil amount and added water\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "soil type",
-      "millilitres drained",
-      "soil amount and added water"
+      "Water one pot twice as much",
+      "Move only the tallest plant",
+      "Give each pot the same soil amount and pot size while changing only light exposure",
+      "Use different pot sizes and soils"
     ],
-    "correct": 0,
-    "explanation": "A fair test deliberately changes one tested factor.\nHint: Identify the factor named after \"does\" in the question.",
+    "correct": 2,
+    "explanation": "Controlled conditions help isolate the effect of light.\nHint: Change the factor being tested.",
     "structuredExplanation": {
-      "summary": "A fair test deliberately changes one tested factor.",
-      "hint": "Identify the factor named after \"does\" in the question."
+      "summary": "Controlled conditions help isolate the effect of light.",
+      "hint": "Change the factor being tested."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-002",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In the soil-drainage test, what should students measure?",
-    "audioPrompt": "In the soil-drainage test, what should students measure?",
-    "visual": "In the soil-drainage test: fair-test plan showing [[\"change\",\"soil type\"],[\"measure\",\"millilitres drained\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the soil-drainage test: fair-test plan showing [[&quot;change&quot;,&quot;soil type&quot;],[&quot;measure&quot;,&quot;millilitres drained&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-002\"></use></svg>",
+    "question": "A class compares toy cars on two surfaces. Which factor should stay the same?",
+    "audioPrompt": "A class compares toy cars on two surfaces. Which factor should stay the same?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-002",
-      "alt_text": "In the soil-drainage test: fair-test plan showing [[\"change\",\"soil type\"],[\"measure\",\"millilitres drained\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "soil type",
-      "millilitres drained",
-      "soil amount and added water"
+      "The result",
+      "The car",
+      "The surface",
+      "The travel distance"
     ],
     "correct": 1,
-    "explanation": "The measured variable provides the result used to answer the question.\nHint: Choose the outcome, including its unit when appropriate.",
+    "explanation": "Using the same car helps make surface type the main difference.\nHint: Keep the object constant.",
     "structuredExplanation": {
-      "summary": "The measured variable provides the result used to answer the question.",
-      "hint": "Choose the outcome, including its unit when appropriate."
+      "summary": "Using the same car helps make surface type the main difference.",
+      "hint": "Keep the object constant."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-003",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In the soil-drainage test, which conditions should be kept the same?",
-    "audioPrompt": "In the soil-drainage test, which conditions should be kept the same?",
-    "visual": "In the soil-drainage test: fair-test plan showing [[\"keep same\",\"soil amount and added water\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the soil-drainage test: fair-test plan showing [[&quot;keep same&quot;,&quot;soil amount and added water&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-003\"></use></svg>",
+    "question": "Which is a safety issue in a water investigation?",
+    "audioPrompt": "Which is a safety issue in a water investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-003",
-      "alt_text": "In the soil-drainage test: fair-test plan showing [[\"keep same\",\"soil amount and added water\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "soil type and millilitres drained",
-      "nothing at all",
-      "soil amount and added water"
+      "A spill beside a power board",
+      "Different cup colours",
+      "Unequal trial numbers",
+      "Different starting volumes"
     ],
-    "correct": 2,
-    "explanation": "Relevant controls make the comparison fair.\nHint: Keep conditions that could otherwise affect the outcome.",
+    "correct": 0,
+    "explanation": "Water near electricity is a safety hazard.\nHint: Risk to people or equipment.",
     "structuredExplanation": {
-      "summary": "Relevant controls make the comparison fair.",
-      "hint": "Keep conditions that could otherwise affect the outcome."
+      "summary": "Water near electricity is a safety hazard.",
+      "hint": "Risk to people or equipment."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-004",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In the soil-drainage test, which safety step belongs in the plan?",
-    "audioPrompt": "In the soil-drainage test, which safety step belongs in the plan?",
-    "visual": "In the soil-drainage test: fair-test plan showing [\"keep soil off the floor\",\"teacher check\",\"careful clean-up\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the soil-drainage test: fair-test plan showing [&quot;keep soil off the floor&quot;,&quot;teacher check&quot;,&quot;careful clean-up&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-004\"></use></svg>",
+    "question": "Why repeat a bouncing-ball test?",
+    "audioPrompt": "Why repeat a bouncing-ball test?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-004",
-      "alt_text": "In the soil-drainage test: fair-test plan showing [\"keep soil off the floor\",\"teacher check\",\"careful clean-up\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "keep soil off the floor",
-      "ignore spills and hazards",
-      "rush while carrying equipment"
+      "To force the same number",
+      "To prove the prediction",
+      "To avoid measuring",
+      "To see whether the pattern is consistent across trials"
     ],
-    "correct": 0,
-    "explanation": "Safe investigations identify hazards and controls before work begins.\nHint: Choose the action that reduces a real risk.",
+    "correct": 3,
+    "explanation": "Repeats help reveal variation and consistency.\nHint: More evidence, not guaranteed sameness.",
     "structuredExplanation": {
-      "summary": "Safe investigations identify hazards and controls before work begins.",
-      "hint": "Choose the action that reduces a real risk."
+      "summary": "Repeats help reveal variation and consistency.",
+      "hint": "More evidence, not guaranteed sameness."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-005",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In the soil-drainage test, why should each condition be repeated?",
-    "audioPrompt": "In the soil-drainage test, why should each condition be repeated?",
-    "visual": "In the soil-drainage test: fair-test plan showing [\"trial 1\",\"trial 2\",\"trial 3\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the soil-drainage test: fair-test plan showing [&quot;trial 1&quot;,&quot;trial 2&quot;,&quot;trial 3&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-005\"></use></svg>",
+    "question": "Which plan best tests whether paper type affects bridge strength?",
+    "audioPrompt": "Which plan best tests whether paper type affects bridge strength?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-005",
-      "alt_text": "In the soil-drainage test: fair-test plan showing [\"trial 1\",\"trial 2\",\"trial 3\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "To change more variables",
-      "To see whether the pattern is consistent",
-      "To remove any result students dislike"
+      "Use a different span each trial",
+      "Press harder on the favourite bridge",
+      "Same bridge dimensions, different paper types, add equal masses one at a time",
+      "Different paper types and different bridge lengths"
     ],
-    "correct": 1,
-    "explanation": "Repeated trials help identify variation and improve confidence.\nHint: Compare all trials rather than choosing one.",
+    "correct": 2,
+    "explanation": "The first plan controls other important factors.\nHint: Isolate paper type.",
     "structuredExplanation": {
-      "summary": "Repeated trials help identify variation and improve confidence.",
-      "hint": "Compare all trials rather than choosing one."
+      "summary": "The first plan controls other important factors.",
+      "hint": "Isolate paper type."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-006",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In the soil-drainage test, which plan is fairest?",
-    "audioPrompt": "In the soil-drainage test, which plan is fairest?",
-    "visual": "In the soil-drainage test: fair-test plan showing [\"change one\",\"soil type\",\"measure\",\"millilitres drained\",\"control\",\"soil amount and added water\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the soil-drainage test: fair-test plan showing [&quot;change one&quot;,&quot;soil type&quot;,&quot;measure&quot;,&quot;millilitres drained&quot;,&quot;control&quot;,&quot;soil amount and added water&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-006\"></use></svg>",
+    "question": "A student uses cracked glassware. What should happen?",
+    "audioPrompt": "A student uses cracked glassware. What should happen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-006",
-      "alt_text": "In the soil-drainage test: fair-test plan showing [\"change one\",\"soil type\",\"measure\",\"millilitres drained\",\"control\",\"soil amount and added water\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change soil type and soil amount and added water together",
-      "Guess millilitres drained without recording",
-      "Change only soil type, measure millilitres drained, and keep soil amount and added water the same"
+      "Use it only for hot water",
+      "Stop and replace it with safe equipment",
+      "Continue if the crack is small",
+      "Cover the crack with a finger"
     ],
-    "correct": 2,
-    "explanation": "A fair-test plan states the change, measurement and controls.\nHint: Check that only one tested factor changes.",
+    "correct": 1,
+    "explanation": "Damaged glass can break and cause injury.\nHint: Do not use damaged equipment.",
     "structuredExplanation": {
-      "summary": "A fair-test plan states the change, measurement and controls.",
-      "hint": "Check that only one tested factor changes."
+      "summary": "Damaged glass can break and cause injury.",
+      "hint": "Do not use damaged equipment."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-007",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In the soil-drainage test, when should students check safety?",
-    "audioPrompt": "In the soil-drainage test, when should students check safety?",
-    "visual": "In the soil-drainage test: fair-test plan showing [\"identify hazards\",\"control risks\",\"work safely\",\"clean up\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the soil-drainage test: fair-test plan showing [&quot;identify hazards&quot;,&quot;control risks&quot;,&quot;work safely&quot;,&quot;clean up&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-007\"></use></svg>",
+    "question": "Which measured outcome fits “Does fan speed affect drying time?”",
+    "audioPrompt": "Which measured outcome fits “Does fan speed affect drying time?”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-007",
-      "alt_text": "In the soil-drainage test: fair-test plan showing [\"identify hazards\",\"control risks\",\"work safely\",\"clean up\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Before and during the investigation",
-      "Only after an accident",
-      "Never when equipment looks familiar"
+      "Time until the cloth is dry",
+      "Fan colour",
+      "Cloth pattern",
+      "Room name"
     ],
     "correct": 0,
-    "explanation": "Safety is planned before starting and monitored during work.\nHint: Think about preventing harm, not reacting after it.",
+    "explanation": "Drying time directly answers the question.\nHint: Measure what the question asks.",
     "structuredExplanation": {
-      "summary": "Safety is planned before starting and monitored during work.",
-      "hint": "Think about preventing harm, not reacting after it."
+      "summary": "Drying time directly answers the question.",
+      "hint": "Measure what the question asks."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-008",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In the soil-drainage test, the first trial has an unusual result. What is the best response?",
-    "audioPrompt": "In the soil-drainage test, the first trial has an unusual result. What is the best response?",
-    "visual": "In the soil-drainage test: fair-test plan showing [\"same method\",\"repeat\",\"compare\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the soil-drainage test: fair-test plan showing [&quot;same method&quot;,&quot;repeat&quot;,&quot;compare&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-008\"></use></svg>",
+    "question": "Why use the same amount of detergent in each cleaning trial?",
+    "audioPrompt": "Why use the same amount of detergent in each cleaning trial?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-008",
-      "alt_text": "In the soil-drainage test: fair-test plan showing [\"same method\",\"repeat\",\"compare\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Delete it immediately",
-      "Repeat using the same method and record every result",
-      "Change several conditions in the next trial"
+      "Detergent amount never matters",
+      "It makes colours match",
+      "It guarantees the same result",
+      "Different amounts could affect the result and make the comparison unfair"
     ],
-    "correct": 1,
-    "explanation": "Repeats help determine whether an unusual result is part of variation or an error.\nHint: Keep the method consistent before comparing.",
+    "correct": 3,
+    "explanation": "A controlled detergent amount prevents another factor from changing.\nHint: Control relevant conditions.",
     "structuredExplanation": {
-      "summary": "Repeats help determine whether an unusual result is part of variation or an error.",
-      "hint": "Keep the method consistent before comparing."
+      "summary": "A controlled detergent amount prevents another factor from changing.",
+      "hint": "Control relevant conditions."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-009",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "During the shade-material test, what should students change in this fair test?",
-    "audioPrompt": "During the shade-material test, what should students change in this fair test?",
-    "visual": "During the shade-material test: fair-test plan showing [[\"change\",\"shade material\"],[\"measure\",\"temperature under the shade\"],[\"keep same\",\"lamp distance and test time\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the shade-material test: fair-test plan showing [[&quot;change&quot;,&quot;shade material&quot;],[&quot;measure&quot;,&quot;temperature under the shade&quot;],[&quot;keep same&quot;,&quot;lamp distance and test time&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-009\"></use></svg>",
+    "question": "Which instruction is most specific and safe?",
+    "audioPrompt": "Which instruction is most specific and safe?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-009",
-      "alt_text": "During the shade-material test: fair-test plan showing [[\"change\",\"shade material\"],[\"measure\",\"temperature under the shade\"],[\"keep same\",\"lamp distance and test time\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "temperature under the shade",
-      "lamp distance and test time",
-      "shade material"
+      "Stand as close as possible",
+      "Touch every liquid first",
+      "Wear eye protection when testing liquids that may splash",
+      "Be careful somehow"
     ],
     "correct": 2,
-    "explanation": "A fair test deliberately changes one tested factor.\nHint: Identify the factor named after \"does\" in the question.",
+    "explanation": "Specific controls address a known hazard.\nHint: Name the action and hazard.",
     "structuredExplanation": {
-      "summary": "A fair test deliberately changes one tested factor.",
-      "hint": "Identify the factor named after \"does\" in the question."
+      "summary": "Specific controls address a known hazard.",
+      "hint": "Name the action and hazard."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-010",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "During the shade-material test, what should students measure?",
-    "audioPrompt": "During the shade-material test, what should students measure?",
-    "visual": "During the shade-material test: fair-test plan showing [[\"change\",\"shade material\"],[\"measure\",\"temperature under the shade\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the shade-material test: fair-test plan showing [[&quot;change&quot;,&quot;shade material&quot;],[&quot;measure&quot;,&quot;temperature under the shade&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-010\"></use></svg>",
+    "question": "One group drops balls from 1 m and another from 2 m. What is wrong with comparing bounce heights?",
+    "audioPrompt": "One group drops balls from 1 m and another from 2 m. What is wrong with comparing bounce heights?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-010",
-      "alt_text": "During the shade-material test: fair-test plan showing [[\"change\",\"shade material\"],[\"measure\",\"temperature under the shade\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "temperature under the shade",
-      "shade material",
-      "lamp distance and test time"
+      "The test is unsafe because it uses balls",
+      "Drop height is not controlled",
+      "Balls cannot bounce",
+      "Height is not measurable"
     ],
-    "correct": 0,
-    "explanation": "The measured variable provides the result used to answer the question.\nHint: Choose the outcome, including its unit when appropriate.",
+    "correct": 1,
+    "explanation": "Different starting heights could affect bounce height.\nHint: Same starting condition.",
     "structuredExplanation": {
-      "summary": "The measured variable provides the result used to answer the question.",
-      "hint": "Choose the outcome, including its unit when appropriate."
+      "summary": "Different starting heights could affect bounce height.",
+      "hint": "Same starting condition."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-011",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "During the shade-material test, which conditions should be kept the same?",
-    "audioPrompt": "During the shade-material test, which conditions should be kept the same?",
-    "visual": "During the shade-material test: fair-test plan showing [[\"keep same\",\"lamp distance and test time\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the shade-material test: fair-test plan showing [[&quot;keep same&quot;,&quot;lamp distance and test time&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-011\"></use></svg>",
+    "question": "Which plan best tests insulation?",
+    "audioPrompt": "Which plan best tests insulation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-011",
-      "alt_text": "During the shade-material test: fair-test plan showing [[\"keep same\",\"lamp distance and test time\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "shade material and temperature under the shade",
-      "lamp distance and test time",
-      "nothing at all"
+      "Place equal warm-water volumes in matching cups wrapped with different materials and compare temperature change",
+      "Use different water volumes and cup sizes",
+      "Wrap only one cup and do not measure the other",
+      "Use boiling water without supervision"
     ],
-    "correct": 1,
-    "explanation": "Relevant controls make the comparison fair.\nHint: Keep conditions that could otherwise affect the outcome.",
+    "correct": 0,
+    "explanation": "Matching starting conditions make wrapping material the main difference.\nHint: Control volume, cup and start temperature.",
     "structuredExplanation": {
-      "summary": "Relevant controls make the comparison fair.",
-      "hint": "Keep conditions that could otherwise affect the outcome."
+      "summary": "Matching starting conditions make wrapping material the main difference.",
+      "hint": "Control volume, cup and start temperature."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-012",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "During the shade-material test, which safety step belongs in the plan?",
-    "audioPrompt": "During the shade-material test, which safety step belongs in the plan?",
-    "visual": "During the shade-material test: fair-test plan showing [\"keep the lamp away from water\",\"teacher check\",\"careful clean-up\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the shade-material test: fair-test plan showing [&quot;keep the lamp away from water&quot;,&quot;teacher check&quot;,&quot;careful clean-up&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-012\"></use></svg>",
+    "question": "Why should spills be cleaned promptly?",
+    "audioPrompt": "Why should spills be cleaned promptly?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-012",
-      "alt_text": "During the shade-material test: fair-test plan showing [\"keep the lamp away from water\",\"teacher check\",\"careful clean-up\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "ignore spills and hazards",
-      "rush while carrying equipment",
-      "keep the lamp away from water"
+      "They improve fairness",
+      "They make data more accurate",
+      "They cool every material",
+      "They can create slipping or equipment hazards"
     ],
-    "correct": 2,
-    "explanation": "Safe investigations identify hazards and controls before work begins.\nHint: Choose the action that reduces a real risk.",
+    "correct": 3,
+    "explanation": "Spill management is a practical safety control.\nHint: Think about the floor and nearby equipment.",
     "structuredExplanation": {
-      "summary": "Safe investigations identify hazards and controls before work begins.",
-      "hint": "Choose the action that reduces a real risk."
+      "summary": "Spill management is a practical safety control.",
+      "hint": "Think about the floor and nearby equipment."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-013",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "During the shade-material test, why should each condition be repeated?",
-    "audioPrompt": "During the shade-material test, why should each condition be repeated?",
-    "visual": "During the shade-material test: fair-test plan showing [\"trial 1\",\"trial 2\",\"trial 3\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the shade-material test: fair-test plan showing [&quot;trial 1&quot;,&quot;trial 2&quot;,&quot;trial 3&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-013\"></use></svg>",
+    "question": "Which change would improve a vague plan that says “use some water”?",
+    "audioPrompt": "Which change would improve a vague plan that says “use some water”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-013",
-      "alt_text": "During the shade-material test: fair-test plan showing [\"trial 1\",\"trial 2\",\"trial 3\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "To see whether the pattern is consistent",
-      "To change more variables",
-      "To remove any result students dislike"
+      "Choose by eye only",
+      "Remove water from the plan",
+      "Specify and measure the same volume for each trial",
+      "Use any amount each time"
     ],
-    "correct": 0,
-    "explanation": "Repeated trials help identify variation and improve confidence.\nHint: Compare all trials rather than choosing one.",
+    "correct": 2,
+    "explanation": "A measured volume makes the procedure repeatable and fairer.\nHint: Replace vague amounts with measured ones.",
     "structuredExplanation": {
-      "summary": "Repeated trials help identify variation and improve confidence.",
-      "hint": "Compare all trials rather than choosing one."
+      "summary": "A measured volume makes the procedure repeatable and fairer.",
+      "hint": "Replace vague amounts with measured ones."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-014",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "During the shade-material test, which plan is fairest?",
-    "audioPrompt": "During the shade-material test, which plan is fairest?",
-    "visual": "During the shade-material test: fair-test plan showing [\"change one\",\"shade material\",\"measure\",\"temperature under the shade\",\"control\",\"lamp distance and test time\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the shade-material test: fair-test plan showing [&quot;change one&quot;,&quot;shade material&quot;,&quot;measure&quot;,&quot;temperature under the shade&quot;,&quot;control&quot;,&quot;lamp distance and test time&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-014\"></use></svg>",
+    "question": "If a test changes both light and water, what is the problem?",
+    "audioPrompt": "If a test changes both light and water, what is the problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-014",
-      "alt_text": "During the shade-material test: fair-test plan showing [\"change one\",\"shade material\",\"measure\",\"temperature under the shade\",\"control\",\"lamp distance and test time\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Change shade material and lamp distance and test time together",
-      "Change only shade material, measure temperature under the shade, and keep lamp distance and test time the same",
-      "Guess temperature under the shade without recording"
+      "The result becomes automatically correct",
+      "The effects of the two changes cannot be separated",
+      "Two changes are always more scientific",
+      "Plants need both factors"
     ],
     "correct": 1,
-    "explanation": "A fair-test plan states the change, measurement and controls.\nHint: Check that only one tested factor changes.",
+    "explanation": "Changing multiple factors at once confuses the explanation for any difference.\nHint: One tested factor at a time.",
     "structuredExplanation": {
-      "summary": "A fair-test plan states the change, measurement and controls.",
-      "hint": "Check that only one tested factor changes."
+      "summary": "Changing multiple factors at once confuses the explanation for any difference.",
+      "hint": "One tested factor at a time."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-015",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "During the shade-material test, when should students check safety?",
-    "audioPrompt": "During the shade-material test, when should students check safety?",
-    "visual": "During the shade-material test: fair-test plan showing [\"identify hazards\",\"control risks\",\"work safely\",\"clean up\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the shade-material test: fair-test plan showing [&quot;identify hazards&quot;,&quot;control risks&quot;,&quot;work safely&quot;,&quot;clean up&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-015\"></use></svg>",
+    "question": "Which behaviour is safest during a heated demonstration?",
+    "audioPrompt": "Which behaviour is safest during a heated demonstration?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-015",
-      "alt_text": "During the shade-material test: fair-test plan showing [\"identify hazards\",\"control risks\",\"work safely\",\"clean up\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Only after an accident",
-      "Never when equipment looks familiar",
-      "Before and during the investigation"
+      "Keep a safe distance and follow the teacher’s instructions",
+      "Reach over the heat source",
+      "Touch the hot container",
+      "Run past the equipment"
     ],
-    "correct": 2,
-    "explanation": "Safety is planned before starting and monitored during work.\nHint: Think about preventing harm, not reacting after it.",
+    "correct": 0,
+    "explanation": "Following controlled procedures reduces burn and collision risks.\nHint: Respect the hazard zone.",
     "structuredExplanation": {
-      "summary": "Safety is planned before starting and monitored during work.",
-      "hint": "Think about preventing harm, not reacting after it."
+      "summary": "Following controlled procedures reduces burn and collision risks.",
+      "hint": "Respect the hazard zone."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i02-t-016",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "Planning Fair and Safe Investigations",
+    "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "During the shade-material test, the first trial has an unusual result. What is the best response?",
-    "audioPrompt": "During the shade-material test, the first trial has an unusual result. What is the best response?",
-    "visual": "During the shade-material test: fair-test plan showing [\"same method\",\"repeat\",\"compare\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the shade-material test: fair-test plan showing [&quot;same method&quot;,&quot;repeat&quot;,&quot;compare&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-016\"></use></svg>",
+    "question": "A result is unusual but the method was followed. What should students do?",
+    "audioPrompt": "A result is unusual but the method was followed. What should students do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i02.svg#ac9s3i02-t-016",
-      "alt_text": "During the shade-material test: fair-test plan showing [\"same method\",\"repeat\",\"compare\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Repeat using the same method and record every result",
-      "Delete it immediately",
-      "Change several conditions in the next trial"
+      "Erase it",
+      "Change it to match the others",
+      "Ignore it completely",
+      "Record it and consider another repeat"
     ],
-    "correct": 0,
-    "explanation": "Repeats help determine whether an unusual result is part of variation or an error.\nHint: Keep the method consistent before comparing.",
+    "correct": 3,
+    "explanation": "Unusual results are still evidence and may be worth checking with further trials.\nHint: Keep the data.",
     "structuredExplanation": {
-      "summary": "Repeats help determine whether an unusual result is part of variation or an error.",
-      "hint": "Keep the method consistent before comparing."
+      "summary": "Unusual results are still evidence and may be worth checking with further trials.",
+      "hint": "Keep the data."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

@@ -4,466 +4,512 @@ window.skillrTestQuestions = [
     "id": "ac9s3u03-t-001",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "In the lunchbox test, a wrapped bottle is 50 degrees Celsius and the water is 22 degrees Celsius. Which way will heat energy transfer first?",
-    "audioPrompt": "In the lunchbox test, a wrapped bottle is 50 degrees Celsius and the water is 22 degrees Celsius. Which way will heat energy transfer first?",
-    "visual": "In the lunchbox test: heat investigation showing [\"wrapped bottle: 50°C\",\"water: 22°C\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunchbox test: heat investigation showing [&quot;wrapped bottle: 50°C&quot;,&quot;water: 22°C&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-001\"></use></svg>",
+    "question": "Which is a heat source?",
+    "audioPrompt": "Which is a heat source?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-001",
-      "alt_text": "In the lunchbox test: heat investigation showing [\"wrapped bottle: 50°C\",\"water: 22°C\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "From the water to the wrapped bottle",
-      "From the wrapped bottle to the water",
-      "Cold energy flows into the wrapped bottle"
+      "A pencil",
+      "A shadow",
+      "A campfire",
+      "A ruler"
     ],
-    "correct": 1,
-    "explanation": "Heat energy transfers from the warmer object to the cooler object.\nHint: Compare the starting temperatures and point from warmer to cooler.",
+    "correct": 2,
+    "explanation": "A campfire releases heat energy.\nHint: What can warm nearby objects?",
     "structuredExplanation": {
-      "summary": "Heat energy transfers from the warmer object to the cooler object.",
-      "hint": "Compare the starting temperatures and point from warmer to cooler."
+      "summary": "A campfire releases heat energy.",
+      "hint": "What can warm nearby objects?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-002",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "In the lunchbox test, later, the wrapped bottle is 40 degrees Celsius and the water is 32 degrees Celsius. What is the evidence of heat transfer?",
-    "audioPrompt": "In the lunchbox test, later, the wrapped bottle is 40 degrees Celsius and the water is 32 degrees Celsius. What is the evidence of heat transfer?",
-    "visual": "In the lunchbox test: heat investigation showing [[\"object\",\"start\",\"later\"],[\"wrapped bottle\",50,40],[\"water\",22,32]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunchbox test: heat investigation showing [[&quot;object&quot;,&quot;start&quot;,&quot;later&quot;],[&quot;wrapped bottle&quot;,50,40],[&quot;water&quot;,22,32]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-002\"></use></svg>",
+    "question": "What does a thermometer measure?",
+    "audioPrompt": "What does a thermometer measure?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-002",
-      "alt_text": "In the lunchbox test: heat investigation showing [[\"object\",\"start\",\"later\"],[\"wrapped bottle\",50,40],[\"water\",22,32]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Both temperatures stayed unchanged",
-      "Only the names changed",
-      "The warmer object cooled while the cooler water warmed"
+      "Time",
+      "Temperature",
+      "Mass",
+      "Length"
     ],
-    "correct": 2,
-    "explanation": "Opposite temperature changes show energy moving between the objects.\nHint: Compare each later reading with its starting reading.",
+    "correct": 1,
+    "explanation": "Thermometers measure hotness or coldness.\nHint: Think °C.",
     "structuredExplanation": {
-      "summary": "Opposite temperature changes show energy moving between the objects.",
-      "hint": "Compare each later reading with its starting reading."
+      "summary": "Thermometers measure hotness or coldness.",
+      "hint": "Think °C."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-003",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "In the lunchbox test, which item is a source of heat energy in this situation?",
-    "audioPrompt": "In the lunchbox test, which item is a source of heat energy in this situation?",
-    "visual": "In the lunchbox test: heat investigation showing [\"wrapped bottle\",\"warmer\",\"cooler water\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunchbox test: heat investigation showing [&quot;wrapped bottle&quot;,&quot;warmer&quot;,&quot;cooler water&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-003\"></use></svg>",
+    "question": "A cold spoon is placed in hot water. Heat moves:",
+    "audioPrompt": "A cold spoon is placed in hot water. Heat moves:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-003",
-      "alt_text": "In the lunchbox test: heat investigation showing [\"wrapped bottle\",\"warmer\",\"cooler water\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The warmer wrapped bottle",
-      "The ruler beside it",
-      "The recording sheet"
+      "from the water to the spoon",
+      "from the spoon to the water only",
+      "nowhere",
+      "from the table to the spoon only"
     ],
     "correct": 0,
-    "explanation": "The warmer object supplies transferred heat energy.\nHint: Identify the object at the higher temperature.",
+    "explanation": "The warmer water transfers heat to the cooler spoon.\nHint: Warm to cool.",
     "structuredExplanation": {
-      "summary": "The warmer object supplies transferred heat energy.",
-      "hint": "Identify the object at the higher temperature."
+      "summary": "The warmer water transfers heat to the cooler spoon.",
+      "hint": "Warm to cool."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-004",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "In the lunchbox test, which tool should students use to measure temperature change?",
-    "audioPrompt": "In the lunchbox test, which tool should students use to measure temperature change?",
-    "visual": "In the lunchbox test: heat investigation showing [\"thermometer\",\"ruler\",\"measuring jug\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunchbox test: heat investigation showing [&quot;thermometer&quot;,&quot;ruler&quot;,&quot;measuring jug&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-004\"></use></svg>",
+    "question": "During a heat-transfer discussion, which statement is scientifically correct?",
+    "audioPrompt": "During a heat-transfer discussion, which statement is scientifically correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-004",
-      "alt_text": "In the lunchbox test: heat investigation showing [\"thermometer\",\"ruler\",\"measuring jug\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A ruler",
-      "A thermometer",
-      "A measuring jug"
+      "Heat and temperature mean exactly the same thing",
+      "Temperature is a material",
+      "Heat is measured in centimetres",
+      "Heat and temperature are related but not identical"
     ],
-    "correct": 1,
-    "explanation": "A thermometer measures temperature on a scale.\nHint: Match the instrument to temperature.",
+    "correct": 3,
+    "explanation": "Temperature is a measure; heat is energy transfer.\nHint: Different concepts.",
     "structuredExplanation": {
-      "summary": "A thermometer measures temperature on a scale.",
-      "hint": "Match the instrument to temperature."
+      "summary": "Temperature is a measure; heat is energy transfer.",
+      "hint": "Different concepts."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-005",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "In the lunchbox test, how can students make a fair comparison of two materials that slow cooling?",
-    "audioPrompt": "In the lunchbox test, how can students make a fair comparison of two materials that slow cooling?",
-    "visual": "In the lunchbox test: heat investigation showing [\"change material\",\"same water\",\"same start temperature\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunchbox test: heat investigation showing [&quot;change material&quot;,&quot;same water&quot;,&quot;same start temperature&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-005\"></use></svg>",
+    "question": "Why does tea cool?",
+    "audioPrompt": "Why does tea cool?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-005",
-      "alt_text": "In the lunchbox test: heat investigation showing [\"change material\",\"same water\",\"same start temperature\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use different cup sizes and temperatures",
-      "Measure one cup but guess the other",
-      "Use equal water amounts at the same starting temperature"
+      "Heat disappears without transfer",
+      "The cup creates cold",
+      "It transfers heat to cooler surroundings",
+      "Cold pours into it"
     ],
     "correct": 2,
-    "explanation": "Controls allow the material to be the one tested difference.\nHint: Keep water amount, container and starting temperature the same.",
+    "explanation": "The warmer tea loses heat energy.\nHint: Hot to cooler surroundings.",
     "structuredExplanation": {
-      "summary": "Controls allow the material to be the one tested difference.",
-      "hint": "Keep water amount, container and starting temperature the same."
+      "summary": "The warmer tea loses heat energy.",
+      "hint": "Hot to cooler surroundings."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-006",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "In the lunchbox test, which statement correctly compares heat energy and temperature?",
-    "audioPrompt": "In the lunchbox test, which statement correctly compares heat energy and temperature?",
-    "visual": "In the lunchbox test: heat investigation showing [\"heat energy: transfer\",\"temperature: measurement\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunchbox test: heat investigation showing [&quot;heat energy: transfer&quot;,&quot;temperature: measurement&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-006\"></use></svg>",
+    "question": "Which is likely the best insulator?",
+    "audioPrompt": "Which is likely the best insulator?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-006",
-      "alt_text": "In the lunchbox test: heat investigation showing [\"heat energy: transfer\",\"temperature: measurement\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Heat is transferred energy; temperature measures hotness or coldness",
-      "They are two names for exactly the same thing",
-      "Temperature moves from object to object"
+      "Steel",
+      "Foam",
+      "Copper",
+      "Aluminium"
     ],
-    "correct": 0,
-    "explanation": "Temperature describes hotness; heat energy transfers because of a temperature difference.\nHint: Separate what is measured from what transfers.",
+    "correct": 1,
+    "explanation": "Foam slows heat transfer more than common metals.\nHint: Insulator versus conductor.",
     "structuredExplanation": {
-      "summary": "Temperature describes hotness; heat energy transfers because of a temperature difference.",
-      "hint": "Separate what is measured from what transfers."
+      "summary": "Foam slows heat transfer more than common metals.",
+      "hint": "Insulator versus conductor."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-007",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "In the lunchbox test, the temperature readings move closer together. What will happen as the objects approach the same temperature?",
-    "audioPrompt": "In the lunchbox test, the temperature readings move closer together. What will happen as the objects approach the same temperature?",
-    "visual": "In the lunchbox test: heat investigation showing [50,40,32,22]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunchbox test: heat investigation showing [50,40,32,22]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-007\"></use></svg>",
+    "question": "An ice pack cools skin because:",
+    "audioPrompt": "An ice pack cools skin because:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-007",
-      "alt_text": "In the lunchbox test: heat investigation showing [50,40,32,22]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Cold energy will start flowing",
-      "The net heat transfer will become smaller",
-      "Both will keep changing at the same rate forever"
+      "heat moves from warmer skin to colder pack",
+      "cold flows into the skin as matter",
+      "the pack destroys heat",
+      "the skin stops having energy"
     ],
-    "correct": 1,
-    "explanation": "The driving temperature difference decreases as temperatures approach each other.\nHint: Look at how the temperature difference changes.",
+    "correct": 0,
+    "explanation": "Heat leaves the warmer skin.\nHint: Warm to cold.",
     "structuredExplanation": {
-      "summary": "The driving temperature difference decreases as temperatures approach each other.",
-      "hint": "Look at how the temperature difference changes."
+      "summary": "Heat leaves the warmer skin.",
+      "hint": "Warm to cold."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-008",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "In the lunchbox test, which prediction is best supported before the warm wrapped bottle touches cooler water?",
-    "audioPrompt": "In the lunchbox test, which prediction is best supported before the warm wrapped bottle touches cooler water?",
-    "visual": "In the lunchbox test: heat investigation showing [\"warmer object\",\"heat transfer\",\"cooler water\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the lunchbox test: heat investigation showing [&quot;warmer object&quot;,&quot;heat transfer&quot;,&quot;cooler water&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-008\"></use></svg>",
+    "question": "Which measurement shows warming?",
+    "audioPrompt": "Which measurement shows warming?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-008",
-      "alt_text": "In the lunchbox test: heat investigation showing [\"warmer object\",\"heat transfer\",\"cooler water\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Both will instantly freeze",
-      "The water will cool the warmer object without warming",
-      "The wrapped bottle will cool and the water will warm"
+      "60°C to 40°C",
+      "30°C to 30°C",
+      "25 cm to 30 cm",
+      "20°C to 35°C"
     ],
-    "correct": 2,
-    "explanation": "Energy transfer causes the warmer object to cool and cooler object to warm.\nHint: Use the warm-to-cool direction to predict both changes.",
+    "correct": 3,
+    "explanation": "A temperature increase indicates warming.\nHint: Look for °C increasing.",
     "structuredExplanation": {
-      "summary": "Energy transfer causes the warmer object to cool and cooler object to warm.",
-      "hint": "Use the warm-to-cool direction to predict both changes."
+      "summary": "A temperature increase indicates warming.",
+      "hint": "Look for °C increasing."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-009",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "During the cooling investigation, a water jar is 60 degrees Celsius and the water is 16 degrees Celsius. Which way will heat energy transfer first?",
-    "audioPrompt": "During the cooling investigation, a water jar is 60 degrees Celsius and the water is 16 degrees Celsius. Which way will heat energy transfer first?",
-    "visual": "During the cooling investigation: heat investigation showing [\"water jar: 60°C\",\"water: 16°C\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling investigation: heat investigation showing [&quot;water jar: 60°C&quot;,&quot;water: 16°C&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-009\"></use></svg>",
+    "question": "Why can metal feel colder than wood at the same temperature?",
+    "audioPrompt": "Why can metal feel colder than wood at the same temperature?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-009",
-      "alt_text": "During the cooling investigation: heat investigation showing [\"water jar: 60°C\",\"water: 16°C\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "From the water jar to the water",
-      "From the water to the water jar",
-      "Cold energy flows into the water jar"
+      "Wood creates heat",
+      "Touch does not involve heat",
+      "Metal transfers heat from your hand faster",
+      "Metal must always be colder"
     ],
-    "correct": 0,
-    "explanation": "Heat energy transfers from the warmer object to the cooler object.\nHint: Compare the starting temperatures and point from warmer to cooler.",
+    "correct": 2,
+    "explanation": "Thermal conductivity affects sensation.\nHint: Transfer rate matters.",
     "structuredExplanation": {
-      "summary": "Heat energy transfers from the warmer object to the cooler object.",
-      "hint": "Compare the starting temperatures and point from warmer to cooler."
+      "summary": "Thermal conductivity affects sensation.",
+      "hint": "Transfer rate matters."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-010",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "During the cooling investigation, later, the water jar is 50 degrees Celsius and the water is 26 degrees Celsius. What is the evidence of heat transfer?",
-    "audioPrompt": "During the cooling investigation, later, the water jar is 50 degrees Celsius and the water is 26 degrees Celsius. What is the evidence of heat transfer?",
-    "visual": "During the cooling investigation: heat investigation showing [[\"object\",\"start\",\"later\"],[\"water jar\",60,50],[\"water\",16,26]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling investigation: heat investigation showing [[&quot;object&quot;,&quot;start&quot;,&quot;later&quot;],[&quot;water jar&quot;,60,50],[&quot;water&quot;,16,26]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-010\"></use></svg>",
+    "question": "Which statement is too strong?",
+    "audioPrompt": "Which statement is too strong?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-010",
-      "alt_text": "During the cooling investigation: heat investigation showing [[\"object\",\"start\",\"later\"],[\"water jar\",60,50],[\"water\",16,26]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Both temperatures stayed unchanged",
-      "The warmer object cooled while the cooler water warmed",
-      "Only the names changed"
+      "We could repeat the test",
+      "One black sample warmed most, so black is always hottest",
+      "The black sample warmed most in this test",
+      "Colour may affect heating"
     ],
     "correct": 1,
-    "explanation": "Opposite temperature changes show energy moving between the objects.\nHint: Compare each later reading with its starting reading.",
+    "explanation": "One result does not justify “always”.\nHint: Avoid universal claims.",
     "structuredExplanation": {
-      "summary": "Opposite temperature changes show energy moving between the objects.",
-      "hint": "Compare each later reading with its starting reading."
+      "summary": "One result does not justify “always”.",
+      "hint": "Avoid universal claims."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-011",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "During the cooling investigation, which item is a source of heat energy in this situation?",
-    "audioPrompt": "During the cooling investigation, which item is a source of heat energy in this situation?",
-    "visual": "During the cooling investigation: heat investigation showing [\"water jar\",\"warmer\",\"cooler water\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling investigation: heat investigation showing [&quot;water jar&quot;,&quot;warmer&quot;,&quot;cooler water&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-011\"></use></svg>",
+    "question": "A cup wrapped in wool cools more slowly. What does this suggest?",
+    "audioPrompt": "A cup wrapped in wool cools more slowly. What does this suggest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-011",
-      "alt_text": "During the cooling investigation: heat investigation showing [\"water jar\",\"warmer\",\"cooler water\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The ruler beside it",
-      "The recording sheet",
-      "The warmer water jar"
+      "Wool reduced heat transfer",
+      "Wool created heat",
+      "The cup had no temperature",
+      "Cooling was impossible"
     ],
-    "correct": 2,
-    "explanation": "The warmer object supplies transferred heat energy.\nHint: Identify the object at the higher temperature.",
+    "correct": 0,
+    "explanation": "Insulation slows heat loss.\nHint: Less temperature drop.",
     "structuredExplanation": {
-      "summary": "The warmer object supplies transferred heat energy.",
-      "hint": "Identify the object at the higher temperature."
+      "summary": "Insulation slows heat loss.",
+      "hint": "Less temperature drop."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-012",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "During the cooling investigation, which tool should students use to measure temperature change?",
-    "audioPrompt": "During the cooling investigation, which tool should students use to measure temperature change?",
-    "visual": "During the cooling investigation: heat investigation showing [\"thermometer\",\"ruler\",\"measuring jug\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling investigation: heat investigation showing [&quot;thermometer&quot;,&quot;ruler&quot;,&quot;measuring jug&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-012\"></use></svg>",
+    "question": "A hot plate warms a pan. Heat moves:",
+    "audioPrompt": "A hot plate warms a pan. Heat moves:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-012",
-      "alt_text": "During the cooling investigation: heat investigation showing [\"thermometer\",\"ruler\",\"measuring jug\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "A thermometer",
-      "A ruler",
-      "A measuring jug"
+      "from pan to plate only",
+      "from cold air into pan",
+      "nowhere",
+      "from plate to pan"
     ],
-    "correct": 0,
-    "explanation": "A thermometer measures temperature on a scale.\nHint: Match the instrument to temperature.",
+    "correct": 3,
+    "explanation": "The warmer heat source transfers energy to the cooler pan.\nHint: Warm to cool.",
     "structuredExplanation": {
-      "summary": "A thermometer measures temperature on a scale.",
-      "hint": "Match the instrument to temperature."
+      "summary": "The warmer heat source transfers energy to the cooler pan.",
+      "hint": "Warm to cool."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-013",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "During the cooling investigation, how can students make a fair comparison of two materials that slow cooling?",
-    "audioPrompt": "During the cooling investigation, how can students make a fair comparison of two materials that slow cooling?",
-    "visual": "During the cooling investigation: heat investigation showing [\"change material\",\"same water\",\"same start temperature\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling investigation: heat investigation showing [&quot;change material&quot;,&quot;same water&quot;,&quot;same start temperature&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-013\"></use></svg>",
+    "question": "What usually happens when a cooler object gains heat?",
+    "audioPrompt": "What usually happens when a cooler object gains heat?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-013",
-      "alt_text": "During the cooling investigation: heat investigation showing [\"change material\",\"same water\",\"same start temperature\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use different cup sizes and temperatures",
-      "Use equal water amounts at the same starting temperature",
-      "Measure one cup but guess the other"
+      "Its colour must change",
+      "It freezes",
+      "Its temperature rises",
+      "Its mass doubles"
     ],
-    "correct": 1,
-    "explanation": "Controls allow the material to be the one tested difference.\nHint: Keep water amount, container and starting temperature the same.",
+    "correct": 2,
+    "explanation": "Heating often raises temperature.\nHint: Gain heat → warmer.",
     "structuredExplanation": {
-      "summary": "Controls allow the material to be the one tested difference.",
-      "hint": "Keep water amount, container and starting temperature the same."
+      "summary": "Heating often raises temperature.",
+      "hint": "Gain heat → warmer."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-014",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "During the cooling investigation, which statement correctly compares heat energy and temperature?",
-    "audioPrompt": "During the cooling investigation, which statement correctly compares heat energy and temperature?",
-    "visual": "During the cooling investigation: heat investigation showing [\"heat energy: transfer\",\"temperature: measurement\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling investigation: heat investigation showing [&quot;heat energy: transfer&quot;,&quot;temperature: measurement&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-014\"></use></svg>",
+    "question": "Which everyday item is designed to reduce heat transfer?",
+    "audioPrompt": "Which everyday item is designed to reduce heat transfer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-014",
-      "alt_text": "During the cooling investigation: heat investigation showing [\"heat energy: transfer\",\"temperature: measurement\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "They are two names for exactly the same thing",
-      "Temperature moves from object to object",
-      "Heat is transferred energy; temperature measures hotness or coldness"
+      "Ruler",
+      "Insulated drink bottle",
+      "Metal fork",
+      "Paper clip"
     ],
-    "correct": 2,
-    "explanation": "Temperature describes hotness; heat energy transfers because of a temperature difference.\nHint: Separate what is measured from what transfers.",
+    "correct": 1,
+    "explanation": "Insulated bottles slow warming or cooling.\nHint: Think insulation.",
     "structuredExplanation": {
-      "summary": "Temperature describes hotness; heat energy transfers because of a temperature difference.",
-      "hint": "Separate what is measured from what transfers."
+      "summary": "Insulated bottles slow warming or cooling.",
+      "hint": "Think insulation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-015",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "During the cooling investigation, the temperature readings move closer together. What will happen as the objects approach the same temperature?",
-    "audioPrompt": "During the cooling investigation, the temperature readings move closer together. What will happen as the objects approach the same temperature?",
-    "visual": "During the cooling investigation: heat investigation showing [60,50,26,16]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling investigation: heat investigation showing [60,50,26,16]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-015\"></use></svg>",
+    "question": "A shaded bench is 25°C and a sunlit bench 38°C. What can you say?",
+    "audioPrompt": "A shaded bench is 25°C and a sunlit bench 38°C. What can you say?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-015",
-      "alt_text": "During the cooling investigation: heat investigation showing [60,50,26,16]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The net heat transfer will become smaller",
-      "Cold energy will start flowing",
-      "Both will keep changing at the same rate forever"
+      "The sunlit bench was warmer in this measurement",
+      "Sunlight always adds exactly 13°C",
+      "Shade creates cold",
+      "Benches cannot absorb energy"
     ],
     "correct": 0,
-    "explanation": "The driving temperature difference decreases as temperatures approach each other.\nHint: Look at how the temperature difference changes.",
+    "explanation": "The first statement reports the evidence accurately.\nHint: State the measured comparison.",
     "structuredExplanation": {
-      "summary": "The driving temperature difference decreases as temperatures approach each other.",
-      "hint": "Look at how the temperature difference changes."
+      "summary": "The first statement reports the evidence accurately.",
+      "hint": "State the measured comparison."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3u03-t-016",
     "curriculumCode": "AC9S3U03",
     "bank": "test",
-    "skill": "Heat Energy and Temperature Change",
+    "skill": "heat energy and temperature change",
     "printable": true,
     "type": "single",
-    "question": "During the cooling investigation, which prediction is best supported before the warm water jar touches cooler water?",
-    "audioPrompt": "During the cooling investigation, which prediction is best supported before the warm water jar touches cooler water?",
-    "visual": "During the cooling investigation: heat investigation showing [\"warmer object\",\"heat transfer\",\"cooler water\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling investigation: heat investigation showing [&quot;warmer object&quot;,&quot;heat transfer&quot;,&quot;cooler water&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-016\"></use></svg>",
+    "question": "Which explanation is best?",
+    "audioPrompt": "Which explanation is best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3u03.svg#ac9s3u03-t-016",
-      "alt_text": "During the cooling investigation: heat investigation showing [\"warmer object\",\"heat transfer\",\"cooler water\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Both will instantly freeze",
-      "The water jar will cool and the water will warm",
-      "The water will cool the warmer object without warming"
+      "Temperature changes for no reason",
+      "Cold is a substance",
+      "Heat only moves through living things",
+      "Temperature changes can occur when heat energy is transferred between objects or surroundings"
     ],
-    "correct": 1,
-    "explanation": "Energy transfer causes the warmer object to cool and cooler object to warm.\nHint: Use the warm-to-cool direction to predict both changes.",
+    "correct": 3,
+    "explanation": "Energy transfer can raise or lower temperature.\nHint: Connect heat transfer and temperature.",
     "structuredExplanation": {
-      "summary": "Energy transfer causes the warmer object to cool and cooler object to warm.",
-      "hint": "Use the warm-to-cool direction to predict both changes."
+      "summary": "Energy transfer can raise or lower temperature.",
+      "hint": "Connect heat transfer and temperature."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

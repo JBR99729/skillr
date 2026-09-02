@@ -4,466 +4,512 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-001",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "After the plant investigation, group A recorded 9 °C change and Group B recorded 11 °C change for water cooling. What should students do first?",
-    "audioPrompt": "After the plant investigation, group A recorded 9 °C change and Group B recorded 11 °C change for water cooling. What should students do first?",
-    "visual": "After the plant investigation: evaluation display for water cooling showing [[\"Group A\",\"9 °C change\"],[\"Group B\",\"11 °C change\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After the plant investigation: evaluation display for water cooling showing [[&quot;Group A&quot;,&quot;9 °C change&quot;],[&quot;Group B&quot;,&quot;11 °C change&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-001\"></use></svg>",
+    "question": "Two groups get nearly the same cooling results. What does this suggest?",
+    "audioPrompt": "Two groups get nearly the same cooling results. What does this suggest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-001",
-      "alt_text": "After the plant investigation: evaluation display for water cooling showing [[\"Group A\",\"9 °C change\"],[\"Group B\",\"11 °C change\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Compare the methods and all recorded results",
-      "Decide one group must be wrong",
-      "Keep only the preferred value"
+      "The prediction is proven forever",
+      "The test was automatically perfect",
+      "The finding may be consistent",
+      "One group copied"
     ],
-    "correct": 0,
-    "explanation": "Comparing findings includes checking both results and how they were obtained.\nHint: Look for method differences or normal variation before judging.",
+    "correct": 2,
+    "explanation": "Similar independent findings can strengthen confidence in the pattern.\nHint: Compare evidence.",
     "structuredExplanation": {
-      "summary": "Comparing findings includes checking both results and how they were obtained.",
-      "hint": "Look for method differences or normal variation before judging."
+      "summary": "Similar independent findings can strengthen confidence in the pattern.",
+      "hint": "Compare evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-002",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "After the plant investigation, which feature best supports a fair comparison?",
-    "audioPrompt": "After the plant investigation, which feature best supports a fair comparison?",
-    "visual": "After the plant investigation: evaluation display for water cooling showing [\"one changed factor\",\"same controls\",\"same units\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After the plant investigation: evaluation display for water cooling showing [&quot;one changed factor&quot;,&quot;same controls&quot;,&quot;same units&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-002\"></use></svg>",
+    "question": "Which question checks fairness?",
+    "audioPrompt": "Which question checks fairness?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-002",
-      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"one changed factor\",\"same controls\",\"same units\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Each group changes several factors",
-      "Both groups keep relevant conditions the same",
-      "Each group uses a different unit without converting"
+      "Did the prediction win?",
+      "Were important conditions kept the same apart from the tested factor?",
+      "Did the class enjoy the test?",
+      "Was the graph colourful?"
     ],
     "correct": 1,
-    "explanation": "Controls make results meaningfully comparable.\nHint: Check whether only the tested factor differs.",
+    "explanation": "Fairness depends on controlled conditions.\nHint: What changed?",
     "structuredExplanation": {
-      "summary": "Controls make results meaningfully comparable.",
-      "hint": "Check whether only the tested factor differs."
+      "summary": "Fairness depends on controlled conditions.",
+      "hint": "What changed?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-003",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "After the plant investigation, which conclusion is appropriately cautious?",
-    "audioPrompt": "After the plant investigation, which conclusion is appropriately cautious?",
-    "visual": "After the plant investigation: evaluation display for water cooling showing [\"in these trials\",\"evidence\",\"conclusion\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After the plant investigation: evaluation display for water cooling showing [&quot;in these trials&quot;,&quot;evidence&quot;,&quot;conclusion&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-003\"></use></svg>",
+    "question": "Which is a careful conclusion?",
+    "audioPrompt": "Which is a careful conclusion?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-003",
-      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"in these trials\",\"evidence\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "This proves one result is true everywhere",
-      "No repeat could add useful evidence",
-      "In these trials, the groups recorded different water cooling results"
+      "In our trials, the larger spinner fell more slowly",
+      "Larger spinners always fall slowly",
+      "The spinner was best",
+      "The data were fun"
     ],
-    "correct": 2,
-    "explanation": "A cautious conclusion stays within the collected evidence.\nHint: Use words such as \"in these trials\".",
+    "correct": 0,
+    "explanation": "The first statement stays within the evidence.\nHint: Avoid universal claims.",
     "structuredExplanation": {
-      "summary": "A cautious conclusion stays within the collected evidence.",
-      "hint": "Use words such as \"in these trials\"."
+      "summary": "The first statement stays within the evidence.",
+      "hint": "Avoid universal claims."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-004",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "After the plant investigation, what could explain a small difference between group findings?",
-    "audioPrompt": "After the plant investigation, what could explain a small difference between group findings?",
-    "visual": "After the plant investigation: evaluation display for water cooling showing [\"variation\",\"method difference\",\"repeat\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After the plant investigation: evaluation display for water cooling showing [&quot;variation&quot;,&quot;method difference&quot;,&quot;repeat&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-004\"></use></svg>",
+    "question": "Another group gets a different result. What should you do?",
+    "audioPrompt": "Another group gets a different result. What should you do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-004",
-      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"variation\",\"method difference\",\"repeat\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Normal variation or a method difference",
-      "The data must have changed itself",
-      "Scientific measurements can never differ"
+      "Say they are wrong",
+      "Delete their result",
+      "Choose your own automatically",
+      "Compare methods and data"
     ],
-    "correct": 0,
-    "explanation": "Repeats and method checks help explain variation.\nHint: Compare equipment, controls and repeated trials.",
+    "correct": 3,
+    "explanation": "Different findings should be investigated rather than dismissed.\nHint: Method may explain difference.",
     "structuredExplanation": {
-      "summary": "Repeats and method checks help explain variation.",
-      "hint": "Compare equipment, controls and repeated trials."
+      "summary": "Different findings should be investigated rather than dismissed.",
+      "hint": "Method may explain difference."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-005",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "After the plant investigation, which conclusion rule is correct?",
-    "audioPrompt": "After the plant investigation, which conclusion rule is correct?",
-    "visual": "After the plant investigation: evaluation display for water cooling showing [\"question\",\"evidence\",\"conclusion\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After the plant investigation: evaluation display for water cooling showing [&quot;question&quot;,&quot;evidence&quot;,&quot;conclusion&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-005\"></use></svg>",
+    "question": "Which is a good further question after finding wet soil held more worms?",
+    "audioPrompt": "Which is a good further question after finding wet soil held more worms?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-005",
-      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"question\",\"evidence\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "State a favourite result without data",
-      "Answer the question using relevant evidence",
-      "Claim more than the investigation tested"
+      "Which group likes worms?",
+      "Why is soil brown?",
+      "Does soil moisture level affect worm numbers?",
+      "Are worms cute?"
     ],
-    "correct": 1,
-    "explanation": "Conclusions connect the investigation question to its findings.\nHint: Include the observed pattern and avoid overclaiming.",
+    "correct": 2,
+    "explanation": "The question extends the observed relationship.\nHint: Build on the finding.",
     "structuredExplanation": {
-      "summary": "Conclusions connect the investigation question to its findings.",
-      "hint": "Include the observed pattern and avoid overclaiming."
+      "summary": "The question extends the observed relationship.",
+      "hint": "Build on the finding."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-006",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "After the plant investigation, which further question would extend the water cooling investigation?",
-    "audioPrompt": "After the plant investigation, which further question would extend the water cooling investigation?",
-    "visual": "After the plant investigation: evaluation display for water cooling showing [\"finding\",\"new testable question\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After the plant investigation: evaluation display for water cooling showing [&quot;finding&quot;,&quot;new testable question&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-006\"></use></svg>",
+    "question": "Which is an outlier?",
+    "audioPrompt": "Which is an outlier?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-006",
-      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"finding\",\"new testable question\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Which result has the nicest number?",
-      "Can the old data be ignored?",
-      "Would the pattern remain with another carefully chosen condition?"
+      "5, 5, 6, 5",
+      "11, 12, 12, 45",
+      "11, 12, 12, 13",
+      "20, 21, 20, 22"
     ],
-    "correct": 2,
-    "explanation": "A further question builds testably on findings or limitations.\nHint: Change or explore one meaningful factor.",
+    "correct": 1,
+    "explanation": "45 is far from the other values.\nHint: Find the unusual number.",
     "structuredExplanation": {
-      "summary": "A further question builds testably on findings or limitations.",
-      "hint": "Change or explore one meaningful factor."
+      "summary": "45 is far from the other values.",
+      "hint": "Find the unusual number."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-007",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "After the plant investigation, one group changed two factors at once. How does this affect the conclusion?",
-    "audioPrompt": "After the plant investigation, one group changed two factors at once. How does this affect the conclusion?",
-    "visual": "After the plant investigation: evaluation display for water cooling showing [\"factor 1\",\"factor 2\",\"unclear cause\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After the plant investigation: evaluation display for water cooling showing [&quot;factor 1&quot;,&quot;factor 2&quot;,&quot;unclear cause&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-007\"></use></svg>",
+    "question": "Why keep an unusual result?",
+    "audioPrompt": "Why keep an unusual result?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-007",
-      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"factor 1\",\"factor 2\",\"unclear cause\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It is unclear which change caused the result",
-      "It proves both factors had equal effects",
-      "It makes measurement units unnecessary"
+      "It may be real evidence or reveal something to check",
+      "All unusual results are wrong",
+      "It weakens the graph",
+      "Only averages matter"
     ],
     "correct": 0,
-    "explanation": "Changing multiple factors confounds the explanation.\nHint: Ask whether one cause can be separated from the other.",
+    "explanation": "Outliers should be investigated, not hidden.\nHint: Keep and check.",
     "structuredExplanation": {
-      "summary": "Changing multiple factors confounds the explanation.",
-      "hint": "Ask whether one cause can be separated from the other."
+      "summary": "Outliers should be investigated, not hidden.",
+      "hint": "Keep and check."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-008",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "After the plant investigation, why are repeated trials useful when evaluating findings?",
-    "audioPrompt": "After the plant investigation, why are repeated trials useful when evaluating findings?",
-    "visual": "After the plant investigation: evaluation display for water cooling showing [\"trial 1\",\"trial 2\",\"trial 3\",\"pattern\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"After the plant investigation: evaluation display for water cooling showing [&quot;trial 1&quot;,&quot;trial 2&quot;,&quot;trial 3&quot;,&quot;pattern&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-008\"></use></svg>",
+    "question": "Which statement overclaims?",
+    "audioPrompt": "Which statement overclaims?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-008",
-      "alt_text": "After the plant investigation: evaluation display for water cooling showing [\"trial 1\",\"trial 2\",\"trial 3\",\"pattern\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "They guarantee the prediction is correct",
-      "They show whether a pattern is consistent",
-      "They allow unwanted values to be removed"
+      "Foil worked best in this test",
+      "We could repeat the test",
+      "Our result suggests material matters",
+      "One test showed foil worked best, so foil is always the best insulator"
     ],
-    "correct": 1,
-    "explanation": "Repeated evidence helps judge reliability and variation.\nHint: Keep and compare every valid trial.",
+    "correct": 3,
+    "explanation": "One test cannot justify “always”.\nHint: Watch for certainty.",
     "structuredExplanation": {
-      "summary": "Repeated evidence helps judge reliability and variation.",
-      "hint": "Keep and compare every valid trial."
+      "summary": "One test cannot justify “always”.",
+      "hint": "Watch for certainty."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-009",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "During the insulation review, group A recorded 28 min and Group B recorded 24 min for cloth drying. What should students do first?",
-    "audioPrompt": "During the insulation review, group A recorded 28 min and Group B recorded 24 min for cloth drying. What should students do first?",
-    "visual": "During the insulation review: evaluation display for cloth drying showing [[\"Group A\",\"28 min\"],[\"Group B\",\"24 min\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the insulation review: evaluation display for cloth drying showing [[&quot;Group A&quot;,&quot;28 min&quot;],[&quot;Group B&quot;,&quot;24 min&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-009\"></use></svg>",
+    "question": "Why compare procedures?",
+    "audioPrompt": "Why compare procedures?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-009",
-      "alt_text": "During the insulation review: evaluation display for cloth drying showing [[\"Group A\",\"28 min\"],[\"Group B\",\"24 min\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Decide one group must be wrong",
-      "Keep only the preferred value",
-      "Compare the methods and all recorded results"
+      "Only conclusions matter",
+      "Longer methods are better",
+      "Method differences can explain result differences",
+      "Procedures never matter"
     ],
     "correct": 2,
-    "explanation": "Comparing findings includes checking both results and how they were obtained.\nHint: Look for method differences or normal variation before judging.",
+    "explanation": "How the investigation was done can affect the findings.\nHint: Compare methods.",
     "structuredExplanation": {
-      "summary": "Comparing findings includes checking both results and how they were obtained.",
-      "hint": "Look for method differences or normal variation before judging."
+      "summary": "How the investigation was done can affect the findings.",
+      "hint": "Compare methods."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-010",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "During the insulation review, which feature best supports a fair comparison?",
-    "audioPrompt": "During the insulation review, which feature best supports a fair comparison?",
-    "visual": "During the insulation review: evaluation display for cloth drying showing [\"one changed factor\",\"same controls\",\"same units\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the insulation review: evaluation display for cloth drying showing [&quot;one changed factor&quot;,&quot;same controls&quot;,&quot;same units&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-010\"></use></svg>",
+    "question": "A prediction is not supported. What should happen?",
+    "audioPrompt": "A prediction is not supported. What should happen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-010",
-      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"one changed factor\",\"same controls\",\"same units\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Both groups keep relevant conditions the same",
-      "Each group changes several factors",
-      "Each group uses a different unit without converting"
+      "Call the test a failure",
+      "Report that the evidence did not support it",
+      "Change the result",
+      "Hide the prediction"
     ],
-    "correct": 0,
-    "explanation": "Controls make results meaningfully comparable.\nHint: Check whether only the tested factor differs.",
+    "correct": 1,
+    "explanation": "Scientific conclusions reflect evidence, not expectations.\nHint: Evidence first.",
     "structuredExplanation": {
-      "summary": "Controls make results meaningfully comparable.",
-      "hint": "Check whether only the tested factor differs."
+      "summary": "Scientific conclusions reflect evidence, not expectations.",
+      "hint": "Evidence first."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-011",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "During the insulation review, which conclusion is appropriately cautious?",
-    "audioPrompt": "During the insulation review, which conclusion is appropriately cautious?",
-    "visual": "During the insulation review: evaluation display for cloth drying showing [\"in these trials\",\"evidence\",\"conclusion\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the insulation review: evaluation display for cloth drying showing [&quot;in these trials&quot;,&quot;evidence&quot;,&quot;conclusion&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-011\"></use></svg>",
+    "question": "Which conclusion is strongest if three trials are 8.1, 8.0 and 8.2 s?",
+    "audioPrompt": "Which conclusion is strongest if three trials are 8.1, 8.0 and 8.2 s?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-011",
-      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"in these trials\",\"evidence\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "This proves one result is true everywhere",
-      "In these trials, the groups recorded different cloth drying results",
-      "No repeat could add useful evidence"
+      "The result was very consistent across the three trials",
+      "The result was exactly identical",
+      "The test proves every future value",
+      "Only 8.2 matters"
     ],
-    "correct": 1,
-    "explanation": "A cautious conclusion stays within the collected evidence.\nHint: Use words such as \"in these trials\".",
+    "correct": 0,
+    "explanation": "Closely grouped values indicate consistency.\nHint: Look at variation.",
     "structuredExplanation": {
-      "summary": "A cautious conclusion stays within the collected evidence.",
-      "hint": "Use words such as \"in these trials\"."
+      "summary": "Closely grouped values indicate consistency.",
+      "hint": "Look at variation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-012",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "During the insulation review, what could explain a small difference between group findings?",
-    "audioPrompt": "During the insulation review, what could explain a small difference between group findings?",
-    "visual": "During the insulation review: evaluation display for cloth drying showing [\"variation\",\"method difference\",\"repeat\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the insulation review: evaluation display for cloth drying showing [&quot;variation&quot;,&quot;method difference&quot;,&quot;repeat&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-012\"></use></svg>",
+    "question": "One group changed two factors at once. What is the problem?",
+    "audioPrompt": "One group changed two factors at once. What is the problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-012",
-      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"variation\",\"method difference\",\"repeat\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The data must have changed itself",
-      "Scientific measurements can never differ",
-      "Normal variation or a method difference"
+      "Two changes prove more",
+      "The test is automatically unsafe",
+      "Graphs cannot be made",
+      "The effect of each factor cannot be separated clearly"
     ],
-    "correct": 2,
-    "explanation": "Repeats and method checks help explain variation.\nHint: Compare equipment, controls and repeated trials.",
+    "correct": 3,
+    "explanation": "Multiple changes weaken causal conclusions.\nHint: One tested factor at a time.",
     "structuredExplanation": {
-      "summary": "Repeats and method checks help explain variation.",
-      "hint": "Compare equipment, controls and repeated trials."
+      "summary": "Multiple changes weaken causal conclusions.",
+      "hint": "One tested factor at a time."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-013",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "During the insulation review, which conclusion rule is correct?",
-    "audioPrompt": "During the insulation review, which conclusion rule is correct?",
-    "visual": "During the insulation review: evaluation display for cloth drying showing [\"question\",\"evidence\",\"conclusion\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the insulation review: evaluation display for cloth drying showing [&quot;question&quot;,&quot;evidence&quot;,&quot;conclusion&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-013\"></use></svg>",
+    "question": "Which evidence best compares two groups?",
+    "audioPrompt": "Which evidence best compares two groups?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-013",
-      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"question\",\"evidence\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Answer the question using relevant evidence",
-      "State a favourite result without data",
-      "Claim more than the investigation tested"
+      "Who had better handwriting",
+      "Whose graph used more colours",
+      "Their recorded measurements using the same units",
+      "Who finished first"
     ],
-    "correct": 0,
-    "explanation": "Conclusions connect the investigation question to its findings.\nHint: Include the observed pattern and avoid overclaiming.",
+    "correct": 2,
+    "explanation": "Comparable measurements are relevant scientific evidence.\nHint: Use data.",
     "structuredExplanation": {
-      "summary": "Conclusions connect the investigation question to its findings.",
-      "hint": "Include the observed pattern and avoid overclaiming."
+      "summary": "Comparable measurements are relevant scientific evidence.",
+      "hint": "Use data."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-014",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "During the insulation review, which further question would extend the cloth drying investigation?",
-    "audioPrompt": "During the insulation review, which further question would extend the cloth drying investigation?",
-    "visual": "During the insulation review: evaluation display for cloth drying showing [\"finding\",\"new testable question\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the insulation review: evaluation display for cloth drying showing [&quot;finding&quot;,&quot;new testable question&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-014\"></use></svg>",
+    "question": "Why repeat after groups disagree?",
+    "audioPrompt": "Why repeat after groups disagree?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-014",
-      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"finding\",\"new testable question\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Which result has the nicest number?",
-      "Would the pattern remain with another carefully chosen condition?",
-      "Can the old data be ignored?"
+      "Only one group should repeat until it matches",
+      "More trials can reveal whether one result was unusual",
+      "Repeating forces agreement",
+      "The larger number must win"
     ],
     "correct": 1,
-    "explanation": "A further question builds testably on findings or limitations.\nHint: Change or explore one meaningful factor.",
+    "explanation": "Repeats add evidence and show consistency or variation.\nHint: Collect more evidence.",
     "structuredExplanation": {
-      "summary": "A further question builds testably on findings or limitations.",
-      "hint": "Change or explore one meaningful factor."
+      "summary": "Repeats add evidence and show consistency or variation.",
+      "hint": "Collect more evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-015",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "During the insulation review, one group changed two factors at once. How does this affect the conclusion?",
-    "audioPrompt": "During the insulation review, one group changed two factors at once. How does this affect the conclusion?",
-    "visual": "During the insulation review: evaluation display for cloth drying showing [\"factor 1\",\"factor 2\",\"unclear cause\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the insulation review: evaluation display for cloth drying showing [&quot;factor 1&quot;,&quot;factor 2&quot;,&quot;unclear cause&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-015\"></use></svg>",
+    "question": "Which further question follows from “higher ramps gave longer travel distances”?",
+    "audioPrompt": "Which further question follows from “higher ramps gave longer travel distances”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-015",
-      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"factor 1\",\"factor 2\",\"unclear cause\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It proves both factors had equal effects",
-      "It makes measurement units unnecessary",
-      "It is unclear which change caused the result"
+      "Does the pattern continue at even greater ramp heights?",
+      "Which car is coolest?",
+      "Why are ramps fun?",
+      "Who likes racing?"
     ],
-    "correct": 2,
-    "explanation": "Changing multiple factors confounds the explanation.\nHint: Ask whether one cause can be separated from the other.",
+    "correct": 0,
+    "explanation": "The question extends the observed relationship.\nHint: Stay on the same scientific idea.",
     "structuredExplanation": {
-      "summary": "Changing multiple factors confounds the explanation.",
-      "hint": "Ask whether one cause can be separated from the other."
+      "summary": "The question extends the observed relationship.",
+      "hint": "Stay on the same scientific idea."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i05-t-016",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "Evaluating Investigations and Drawing Conclusions",
+    "skill": "evaluating investigations and drawing conclusions",
     "printable": true,
     "type": "single",
-    "question": "During the insulation review, why are repeated trials useful when evaluating findings?",
-    "audioPrompt": "During the insulation review, why are repeated trials useful when evaluating findings?",
-    "visual": "During the insulation review: evaluation display for cloth drying showing [\"trial 1\",\"trial 2\",\"trial 3\",\"pattern\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the insulation review: evaluation display for cloth drying showing [&quot;trial 1&quot;,&quot;trial 2&quot;,&quot;trial 3&quot;,&quot;pattern&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-016\"></use></svg>",
+    "question": "Which wording is most scientifically cautious?",
+    "audioPrompt": "Which wording is most scientifically cautious?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i05.svg#ac9s3i05-t-016",
-      "alt_text": "During the insulation review: evaluation display for cloth drying showing [\"trial 1\",\"trial 2\",\"trial 3\",\"pattern\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "They show whether a pattern is consistent",
-      "They guarantee the prediction is correct",
-      "They allow unwanted values to be removed"
+      "The results prove this always happens",
+      "The result cannot ever change",
+      "No other factor matters",
+      "The results support the idea under the conditions we tested"
     ],
-    "correct": 0,
-    "explanation": "Repeated evidence helps judge reliability and variation.\nHint: Keep and compare every valid trial.",
+    "correct": 3,
+    "explanation": "Cautious wording matches the limits of the evidence.\nHint: Support, not universal proof.",
     "structuredExplanation": {
-      "summary": "Repeated evidence helps judge reliability and variation.",
-      "hint": "Keep and compare every valid trial."
+      "summary": "Cautious wording matches the limits of the evidence.",
+      "hint": "Support, not universal proof."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

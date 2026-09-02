@@ -4,466 +4,512 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-001",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "At the rock station, which tool should measure mass?",
-    "audioPrompt": "At the rock station, which tool should measure mass?",
-    "visual": "At the rock station: measurement display showing [\"balance → mass\",\"other tools measure other quantities\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the rock station: measurement display showing [&quot;balance → mass&quot;,&quot;other tools measure other quantities&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-001\"></use></svg>",
+    "question": "Which tool is best for measuring the mass of a shell?",
+    "audioPrompt": "Which tool is best for measuring the mass of a shell?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-001",
-      "alt_text": "At the rock station: measurement display showing [\"balance → mass\",\"other tools measure other quantities\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "a colour chart",
-      "balance",
-      "a drawing pencil"
+      "A stopwatch",
+      "A thermometer",
+      "A balance",
+      "A ruler"
     ],
-    "correct": 1,
-    "explanation": "The instrument must match the quantity being measured.\nHint: Match the tool's scale with the measurement needed.",
+    "correct": 2,
+    "explanation": "A balance measures mass.\nHint: Match tool and quantity.",
     "structuredExplanation": {
-      "summary": "The instrument must match the quantity being measured.",
-      "hint": "Match the tool's scale with the measurement needed."
+      "summary": "A balance measures mass.",
+      "hint": "Match tool and quantity."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-002",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "At the rock station, which record is a complete quantitative observation?",
-    "audioPrompt": "At the rock station, which record is a complete quantitative observation?",
-    "visual": "At the rock station: measurement display showing [\"120\",\"g\",\"120 g\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the rock station: measurement display showing [&quot;120&quot;,&quot;g&quot;,&quot;120 g&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-002\"></use></svg>",
+    "question": "A student measures a piece of string. Which record gives a complete measurement?",
+    "audioPrompt": "A student measures a piece of string. Which record gives a complete measurement?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-002",
-      "alt_text": "At the rock station: measurement display showing [\"120\",\"g\",\"120 g\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "120 with no unit",
-      "rough",
-      "120 g"
+      "The string looked good",
+      "The string was 42 cm long",
+      "The string was 42",
+      "The string was long"
     ],
-    "correct": 2,
-    "explanation": "A quantitative observation includes a number and an appropriate unit.\nHint: Check for both the value and its unit.",
+    "correct": 1,
+    "explanation": "A complete measurement includes number and unit.\nHint: Number + unit.",
     "structuredExplanation": {
-      "summary": "A quantitative observation includes a number and an appropriate unit.",
-      "hint": "Check for both the value and its unit."
+      "summary": "A complete measurement includes number and unit.",
+      "hint": "Number + unit."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-003",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "At the rock station, why should the unit be recorded?",
-    "audioPrompt": "At the rock station, why should the unit be recorded?",
-    "visual": "At the rock station: measurement display showing [\"value\",120,\"unit\",\"g\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the rock station: measurement display showing [&quot;value&quot;,120,&quot;unit&quot;,&quot;g&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-003\"></use></svg>",
+    "question": "Why measure from the zero mark of a ruler?",
+    "audioPrompt": "Why measure from the zero mark of a ruler?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-003",
-      "alt_text": "At the rock station: measurement display showing [\"value\",120,\"unit\",\"g\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It tells what the number means and allows comparison",
-      "It makes every result larger",
-      "It changes an observation into an opinion"
+      "It gives the correct reference for length",
+      "It makes the object longer",
+      "It changes centimetres to metres",
+      "It is only for decoration"
     ],
     "correct": 0,
-    "explanation": "A number without its unit can be unclear or misleading.\nHint: Ask whether another person could interpret the value.",
+    "explanation": "Zero is the normal starting reference.\nHint: Start at the reference point.",
     "structuredExplanation": {
-      "summary": "A number without its unit can be unclear or misleading.",
-      "hint": "Ask whether another person could interpret the value."
+      "summary": "Zero is the normal starting reference.",
+      "hint": "Start at the reference point."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-004",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "At the rock station, which statement is a qualitative observation?",
-    "audioPrompt": "At the rock station, which statement is a qualitative observation?",
-    "visual": "At the rock station: measurement display showing [\"qualitative: rough\",\"quantitative: 120 g\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the rock station: measurement display showing [&quot;qualitative: rough&quot;,&quot;quantitative: 120 g&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-004\"></use></svg>",
+    "question": "Which unit is suitable for elapsed time?",
+    "audioPrompt": "Which unit is suitable for elapsed time?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-004",
-      "alt_text": "At the rock station: measurement display showing [\"qualitative: rough\",\"quantitative: 120 g\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The measurement is 120 g",
-      "The sample looks rough",
-      "The result equals 120"
+      "centimetres",
+      "millilitres",
+      "grams",
+      "seconds"
     ],
-    "correct": 1,
-    "explanation": "Qualitative observations describe qualities without a numerical measure.\nHint: Choose the description rather than the number.",
+    "correct": 3,
+    "explanation": "Seconds measure time.\nHint: Think time.",
     "structuredExplanation": {
-      "summary": "Qualitative observations describe qualities without a numerical measure.",
-      "hint": "Choose the description rather than the number."
+      "summary": "Seconds measure time.",
+      "hint": "Think time."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-005",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "At the rock station, how should a student read the balance?",
-    "audioPrompt": "At the rock station, how should a student read the balance?",
-    "visual": "At the rock station: measurement display showing [\"balance\",\"reading: 120 g\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the rock station: measurement display showing [&quot;balance&quot;,&quot;reading: 120 g&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-005\"></use></svg>",
+    "question": "A student measures water as 75 mL. What quantity is this?",
+    "audioPrompt": "A student measures water as 75 mL. What quantity is this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-005",
-      "alt_text": "At the rock station: measurement display showing [\"balance\",\"reading: 120 g\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look from far to one side",
-      "Choose the nearest favourite number",
-      "Look straight at the scale and use the marked intervals"
+      "Temperature",
+      "Length",
+      "Volume",
+      "Mass"
     ],
     "correct": 2,
-    "explanation": "Reading a scale at eye level reduces viewing error.\nHint: Find the marked value from directly in front.",
+    "explanation": "Millilitres measure liquid volume.\nHint: mL = volume.",
     "structuredExplanation": {
-      "summary": "Reading a scale at eye level reduces viewing error.",
-      "hint": "Find the marked value from directly in front."
+      "summary": "Millilitres measure liquid volume.",
+      "hint": "mL = volume."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-006",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "At the rock station, a result is between two labelled marks. What should the student do?",
-    "audioPrompt": "At the rock station, a result is between two labelled marks. What should the student do?",
-    "visual": "At the rock station: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the rock station: measurement display showing [&quot;labelled marks&quot;,&quot;equal intervals&quot;,&quot;reading&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-006\"></use></svg>",
+    "question": "Which observation is safest?",
+    "audioPrompt": "Which observation is safest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-006",
-      "alt_text": "At the rock station: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use the smaller scale intervals to find the value",
-      "Ignore the scale and guess",
-      "Record both labels as the answer"
+      "Chew a small piece",
+      "Look at an unknown leaf with a hand lens",
+      "Taste the leaf",
+      "Rub it in your eyes"
     ],
-    "correct": 0,
-    "explanation": "Scale intervals show the value between labelled marks.\nHint: Count equal spaces and work out what each represents.",
+    "correct": 1,
+    "explanation": "Visual observation avoids unnecessary exposure.\nHint: Do not taste unknown materials.",
     "structuredExplanation": {
-      "summary": "Scale intervals show the value between labelled marks.",
-      "hint": "Count equal spaces and work out what each represents."
+      "summary": "Visual observation avoids unnecessary exposure.",
+      "hint": "Do not taste unknown materials."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-007",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "At the rock station, why should students follow the same measurement procedure each time?",
-    "audioPrompt": "At the rock station, why should students follow the same measurement procedure each time?",
-    "visual": "At the rock station: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the rock station: measurement display showing [&quot;same tool&quot;,&quot;same method&quot;,&quot;comparable records&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-007\"></use></svg>",
+    "question": "A class times the same ramp run several times. Why are repeated measurements useful?",
+    "audioPrompt": "A class times the same ramp run several times. Why are repeated measurements useful?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-007",
-      "alt_text": "At the rock station: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So every result becomes identical",
-      "So results can be compared fairly",
-      "So units are no longer needed"
+      "To check consistency",
+      "To guarantee the prediction",
+      "To remove units",
+      "To make values identical"
     ],
-    "correct": 1,
-    "explanation": "A consistent procedure reduces avoidable differences in measurement.\nHint: Keep tool, position and method consistent.",
+    "correct": 0,
+    "explanation": "Repeats can reveal variation or errors.\nHint: Compare repeated readings.",
     "structuredExplanation": {
-      "summary": "A consistent procedure reduces avoidable differences in measurement.",
-      "hint": "Keep tool, position and method consistent."
+      "summary": "Repeats can reveal variation or errors.",
+      "hint": "Compare repeated readings."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-008",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "At the rock station, which digital tool could appropriately record repeated mass results?",
-    "audioPrompt": "At the rock station, which digital tool could appropriately record repeated mass results?",
-    "visual": "At the rock station: measurement display showing [[\"trial\",\"mass\"],[\"1\",\"120 g\"],[\"2\",\"121 g\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the rock station: measurement display showing [[&quot;trial&quot;,&quot;mass&quot;],[&quot;1&quot;,&quot;120 g&quot;],[&quot;2&quot;,&quot;121 g&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-008\"></use></svg>",
+    "question": "An object starts at 4 cm and ends at 19 cm on a ruler. Its length is:",
+    "audioPrompt": "An object starts at 4 cm and ends at 19 cm on a ruler. Its length is:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-008",
-      "alt_text": "At the rock station: measurement display showing [[\"trial\",\"mass\"],[\"1\",\"120 g\"],[\"2\",\"121 g\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "An unrelated game",
-      "A blank picture with no labels",
-      "A data table with labelled units"
+      "19 cm",
+      "23 cm",
+      "4 cm",
+      "15 cm"
     ],
-    "correct": 2,
-    "explanation": "Digital tables can organise repeated measurements clearly.\nHint: Choose a tool that stores values and units.",
+    "correct": 3,
+    "explanation": "19 − 4 = 15 cm.\nHint: Subtract the starting mark.",
     "structuredExplanation": {
-      "summary": "Digital tables can organise repeated measurements clearly.",
-      "hint": "Choose a tool that stores values and units."
+      "summary": "19 − 4 = 15 cm.",
+      "hint": "Subtract the starting mark."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-009",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During the cooling test, which tool should measure time?",
-    "audioPrompt": "During the cooling test, which tool should measure time?",
-    "visual": "During the cooling test: measurement display showing [\"timer → time\",\"other tools measure other quantities\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling test: measurement display showing [&quot;timer → time&quot;,&quot;other tools measure other quantities&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-009\"></use></svg>",
+    "question": "Which result should be checked because it is very different?",
+    "audioPrompt": "Which result should be checked because it is very different?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-009",
-      "alt_text": "During the cooling test: measurement display showing [\"timer → time\",\"other tools measure other quantities\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "timer",
-      "a colour chart",
-      "a drawing pencil"
+      "30 s, 31 s, 30 s",
+      "20 mL, 21 mL, 20 mL",
+      "12 cm, 13 cm, 47 cm",
+      "12 cm, 13 cm, 12 cm"
     ],
-    "correct": 0,
-    "explanation": "The instrument must match the quantity being measured.\nHint: Match the tool's scale with the measurement needed.",
+    "correct": 2,
+    "explanation": "47 cm is far from the other readings.\nHint: Find the unusual value.",
     "structuredExplanation": {
-      "summary": "The instrument must match the quantity being measured.",
-      "hint": "Match the tool's scale with the measurement needed."
+      "summary": "47 cm is far from the other readings.",
+      "hint": "Find the unusual value."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-010",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During the cooling test, which record is a complete quantitative observation?",
-    "audioPrompt": "During the cooling test, which record is a complete quantitative observation?",
-    "visual": "During the cooling test: measurement display showing [\"9\",\"min\",\"9 min\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling test: measurement display showing [&quot;9&quot;,&quot;min&quot;,&quot;9 min&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-010\"></use></svg>",
+    "question": "What does a thermometer measure?",
+    "audioPrompt": "What does a thermometer measure?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-010",
-      "alt_text": "During the cooling test: measurement display showing [\"9\",\"min\",\"9 min\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "9 with no unit",
-      "9 min",
-      "cloudy"
+      "Volume",
+      "Temperature",
+      "Mass",
+      "Time"
     ],
     "correct": 1,
-    "explanation": "A quantitative observation includes a number and an appropriate unit.\nHint: Check for both the value and its unit.",
+    "explanation": "Thermometers measure temperature.\nHint: Think °C.",
     "structuredExplanation": {
-      "summary": "A quantitative observation includes a number and an appropriate unit.",
-      "hint": "Check for both the value and its unit."
+      "summary": "Thermometers measure temperature.",
+      "hint": "Think °C."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-011",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During the cooling test, why should the unit be recorded?",
-    "audioPrompt": "During the cooling test, why should the unit be recorded?",
-    "visual": "During the cooling test: measurement display showing [\"value\",9,\"unit\",\"min\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling test: measurement display showing [&quot;value&quot;,9,&quot;unit&quot;,&quot;min&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-011\"></use></svg>",
+    "question": "Which statement is an opinion?",
+    "audioPrompt": "Which statement is an opinion?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-011",
-      "alt_text": "During the cooling test: measurement display showing [\"value\",9,\"unit\",\"min\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "It makes every result larger",
-      "It changes an observation into an opinion",
-      "It tells what the number means and allows comparison"
+      "This is the best rock",
+      "The rock is 7 cm long",
+      "The rock is rough",
+      "The rock has white spots"
     ],
-    "correct": 2,
-    "explanation": "A number without its unit can be unclear or misleading.\nHint: Ask whether another person could interpret the value.",
+    "correct": 0,
+    "explanation": "“Best” is a judgement rather than a shared observation.\nHint: Preference versus observation.",
     "structuredExplanation": {
-      "summary": "A number without its unit can be unclear or misleading.",
-      "hint": "Ask whether another person could interpret the value."
+      "summary": "“Best” is a judgement rather than a shared observation.",
+      "hint": "Preference versus observation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-012",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During the cooling test, which statement is a qualitative observation?",
-    "audioPrompt": "During the cooling test, which statement is a qualitative observation?",
-    "visual": "During the cooling test: measurement display showing [\"qualitative: cloudy\",\"quantitative: 9 min\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling test: measurement display showing [&quot;qualitative: cloudy&quot;,&quot;quantitative: 9 min&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-012\"></use></svg>",
+    "question": "Why use the same stopwatch for repeated races?",
+    "audioPrompt": "Why use the same stopwatch for repeated races?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-012",
-      "alt_text": "During the cooling test: measurement display showing [\"qualitative: cloudy\",\"quantitative: 9 min\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The sample looks cloudy",
-      "The measurement is 9 min",
-      "The result equals 9"
+      "It makes racers equally fast",
+      "It guarantees no mistakes",
+      "It changes distance into time",
+      "It keeps the timing method consistent"
     ],
-    "correct": 0,
-    "explanation": "Qualitative observations describe qualities without a numerical measure.\nHint: Choose the description rather than the number.",
+    "correct": 3,
+    "explanation": "Consistent measurement methods improve comparability.\nHint: Same method.",
     "structuredExplanation": {
-      "summary": "Qualitative observations describe qualities without a numerical measure.",
-      "hint": "Choose the description rather than the number."
+      "summary": "Consistent measurement methods improve comparability.",
+      "hint": "Same method."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-013",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During the cooling test, how should a student read the timer?",
-    "audioPrompt": "During the cooling test, how should a student read the timer?",
-    "visual": "During the cooling test: measurement display showing [\"timer\",\"reading: 9 min\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling test: measurement display showing [&quot;timer&quot;,&quot;reading: 9 min&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-013\"></use></svg>",
+    "question": "Which digital tool could record temperature over time?",
+    "audioPrompt": "Which digital tool could record temperature over time?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-013",
-      "alt_text": "During the cooling test: measurement display showing [\"timer\",\"reading: 9 min\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Look from far to one side",
-      "Look straight at the scale and use the marked intervals",
-      "Choose the nearest favourite number"
+      "A speaker",
+      "A calculator with no sensor",
+      "A temperature probe connected to a device",
+      "A drawing app only"
     ],
-    "correct": 1,
-    "explanation": "Reading a scale at eye level reduces viewing error.\nHint: Find the marked value from directly in front.",
+    "correct": 2,
+    "explanation": "A probe can collect temperature measurements electronically.\nHint: Choose a sensor that measures temperature.",
     "structuredExplanation": {
-      "summary": "Reading a scale at eye level reduces viewing error.",
-      "hint": "Find the marked value from directly in front."
+      "summary": "A probe can collect temperature measurements electronically.",
+      "hint": "Choose a sensor that measures temperature."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-014",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During the cooling test, a result is between two labelled marks. What should the student do?",
-    "audioPrompt": "During the cooling test, a result is between two labelled marks. What should the student do?",
-    "visual": "During the cooling test: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling test: measurement display showing [&quot;labelled marks&quot;,&quot;equal intervals&quot;,&quot;reading&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-014\"></use></svg>",
+    "question": "Which is the strongest plant-growth record?",
+    "audioPrompt": "Which is the strongest plant-growth record?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-014",
-      "alt_text": "During the cooling test: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Ignore the scale and guess",
-      "Record both labels as the answer",
-      "Use the smaller scale intervals to find the value"
+      "It was nice",
+      "Monday 11 cm; Friday 15 cm",
+      "It grew",
+      "It looked taller"
     ],
-    "correct": 2,
-    "explanation": "Scale intervals show the value between labelled marks.\nHint: Count equal spaces and work out what each represents.",
+    "correct": 1,
+    "explanation": "Measured heights show the change clearly.\nHint: Use numerical evidence.",
     "structuredExplanation": {
-      "summary": "Scale intervals show the value between labelled marks.",
-      "hint": "Count equal spaces and work out what each represents."
+      "summary": "Measured heights show the change clearly.",
+      "hint": "Use numerical evidence."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-015",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During the cooling test, why should students follow the same measurement procedure each time?",
-    "audioPrompt": "During the cooling test, why should students follow the same measurement procedure each time?",
-    "visual": "During the cooling test: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling test: measurement display showing [&quot;same tool&quot;,&quot;same method&quot;,&quot;comparable records&quot;]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-015\"></use></svg>",
+    "question": "A measuring cup is read from above rather than eye level. What problem may occur?",
+    "audioPrompt": "A measuring cup is read from above rather than eye level. What problem may occur?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-015",
-      "alt_text": "During the cooling test: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "So results can be compared fairly",
-      "So every result becomes identical",
-      "So units are no longer needed"
+      "The scale can be misread due to viewing angle",
+      "The water changes mass",
+      "The cup becomes hotter",
+      "The unit changes"
     ],
     "correct": 0,
-    "explanation": "A consistent procedure reduces avoidable differences in measurement.\nHint: Keep tool, position and method consistent.",
+    "explanation": "Viewing angle can affect the apparent level against the scale.\nHint: Read at eye level.",
     "structuredExplanation": {
-      "summary": "A consistent procedure reduces avoidable differences in measurement.",
-      "hint": "Keep tool, position and method consistent."
+      "summary": "Viewing angle can affect the apparent level against the scale.",
+      "hint": "Read at eye level."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s3i03-t-016",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "Observing and Measuring Accurately",
+    "skill": "observing, measuring and recording accurately",
     "printable": true,
     "type": "single",
-    "question": "During the cooling test, which digital tool could appropriately record repeated time results?",
-    "audioPrompt": "During the cooling test, which digital tool could appropriately record repeated time results?",
-    "visual": "During the cooling test: measurement display showing [[\"trial\",\"time\"],[\"1\",\"9 min\"],[\"2\",\"10 min\"]]",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the cooling test: measurement display showing [[&quot;trial&quot;,&quot;time&quot;],[&quot;1&quot;,&quot;9 min&quot;],[&quot;2&quot;,&quot;10 min&quot;]]\"><use href=\"/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-016\"></use></svg>",
+    "question": "Which result table heading is best?",
+    "audioPrompt": "Which result table heading is best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-016",
-      "alt_text": "During the cooling test: measurement display showing [[\"trial\",\"time\"],[\"1\",\"9 min\"],[\"2\",\"10 min\"]]"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "An unrelated game",
-      "A data table with labelled units",
-      "A blank picture with no labels"
+      "Time stuff",
+      "How long maybe",
+      "Result",
+      "Time (s)"
     ],
-    "correct": 1,
-    "explanation": "Digital tables can organise repeated measurements clearly.\nHint: Choose a tool that stores values and units.",
+    "correct": 3,
+    "explanation": "A clear heading names the quantity and unit.\nHint: Label data precisely.",
     "structuredExplanation": {
-      "summary": "Digital tables can organise repeated measurements clearly.",
-      "hint": "Choose a tool that stores values and units."
+      "summary": "A clear heading names the quantity and unit.",
+      "hint": "Label data precisely."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

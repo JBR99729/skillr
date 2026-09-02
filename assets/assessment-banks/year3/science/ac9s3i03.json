@@ -1,1418 +1,3402 @@
 [
   {
-    "id": "AC9S3I03-P-001",
+    "id": "ac9s3i03-p-001",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the measurement table, which tool should measure length?",
-    "audio_prompt": "At the measurement table, which tool should measure length?",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which tool is best for measuring the length of a leaf?",
+    "audio_prompt": "Which tool is best for measuring the length of a leaf?",
+    "audioPrompt": "Which tool is best for measuring the length of a leaf?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-001",
-      "alt_text": "At the measurement table: measurement display showing [\"ruler → length\",\"other tools measure other quantities\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "a colour chart",
-        "is_correct": false
-      },
-      {
-        "text": "ruler",
+        "text": "A ruler",
         "is_correct": true
       },
       {
-        "text": "a drawing pencil",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The instrument must match the quantity being measured.",
-      "hint": "Match the tool's scale with the measurement needed."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S3I03-P-002",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the measurement table, which record is a complete quantitative observation?",
-    "audio_prompt": "At the measurement table, which record is a complete quantitative observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-002",
-      "alt_text": "At the measurement table: measurement display showing [\"14\",\"cm\",\"14 cm\"]"
-    },
-    "answers": [
-      {
-        "text": "14 with no unit",
+        "text": "A thermometer",
         "is_correct": false
       },
       {
-        "text": "smooth",
+        "text": "A stopwatch",
+        "is_correct": false
+      },
+      {
+        "text": "A measuring cup",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A ruler",
+      "A thermometer",
+      "A stopwatch",
+      "A measuring cup"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A ruler measures length.",
+      "hint": "Match the tool to the quantity."
+    },
+    "structuredExplanation": {
+      "summary": "A ruler measures length.",
+      "hint": "Match the tool to the quantity."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-002",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which unit is suitable for the length of a pencil?",
+    "audio_prompt": "Which unit is suitable for the length of a pencil?",
+    "audioPrompt": "Which unit is suitable for the length of a pencil?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "litres",
+        "is_correct": false
+      },
+      {
+        "text": "degrees Celsius",
+        "is_correct": false
+      },
+      {
+        "text": "seconds",
+        "is_correct": false
+      },
+      {
+        "text": "centimetres",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "litres",
+      "degrees Celsius",
+      "seconds",
+      "centimetres"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Centimetres are suitable for small lengths.",
+      "hint": "Choose a length unit."
+    },
+    "structuredExplanation": {
+      "summary": "Centimetres are suitable for small lengths.",
+      "hint": "Choose a length unit."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-003",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which tool measures temperature?",
+    "audio_prompt": "Which tool measures temperature?",
+    "audioPrompt": "Which tool measures temperature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Balance",
+        "is_correct": false
+      },
+      {
+        "text": "Stopwatch",
+        "is_correct": false
+      },
+      {
+        "text": "Thermometer",
+        "is_correct": true
+      },
+      {
+        "text": "Ruler",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Balance",
+      "Stopwatch",
+      "Thermometer",
+      "Ruler"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "A thermometer measures temperature.",
+      "hint": "Think temperature."
+    },
+    "structuredExplanation": {
+      "summary": "A thermometer measures temperature.",
+      "hint": "Think temperature."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-004",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which record is complete?",
+    "audio_prompt": "Which record is complete?",
+    "audioPrompt": "Which record is complete?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The cup was blue",
+        "is_correct": false
+      },
+      {
+        "text": "The water temperature was 24°C",
+        "is_correct": true
+      },
+      {
+        "text": "The water temperature was 24",
+        "is_correct": false
+      },
+      {
+        "text": "The water was nice",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The cup was blue",
+      "The water temperature was 24°C",
+      "The water temperature was 24",
+      "The water was nice"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A useful measurement includes a number and unit.",
+      "hint": "Number + unit."
+    },
+    "structuredExplanation": {
+      "summary": "A useful measurement includes a number and unit.",
+      "hint": "Number + unit."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which tool is best for timing how long a toy car takes to travel down a ramp?",
+    "audio_prompt": "Which tool is best for timing how long a toy car takes to travel down a ramp?",
+    "audioPrompt": "Which tool is best for timing how long a toy car takes to travel down a ramp?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Stopwatch",
+        "is_correct": true
+      },
+      {
+        "text": "Ruler",
+        "is_correct": false
+      },
+      {
+        "text": "Thermometer",
+        "is_correct": false
+      },
+      {
+        "text": "Measuring cylinder",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Stopwatch",
+      "Ruler",
+      "Thermometer",
+      "Measuring cylinder"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A stopwatch measures elapsed time.",
+      "hint": "Match the tool to time."
+    },
+    "structuredExplanation": {
+      "summary": "A stopwatch measures elapsed time.",
+      "hint": "Match the tool to time."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-006",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which measurement is about volume?",
+    "audio_prompt": "Which measurement is about volume?",
+    "audioPrompt": "Which measurement is about volume?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "15 cm",
+        "is_correct": false
+      },
+      {
+        "text": "20 s",
+        "is_correct": false
+      },
+      {
+        "text": "28°C",
+        "is_correct": false
+      },
+      {
+        "text": "150 mL",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "15 cm",
+      "20 s",
+      "28°C",
+      "150 mL"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Millilitres measure liquid volume.",
+      "hint": "Look for mL."
+    },
+    "structuredExplanation": {
+      "summary": "Millilitres measure liquid volume.",
+      "hint": "Look for mL."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A digital scale shows 82 g. What is being measured?",
+    "audio_prompt": "A digital scale shows 82 g. What is being measured?",
+    "audioPrompt": "A digital scale shows 82 g. What is being measured?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Time",
+        "is_correct": false
+      },
+      {
+        "text": "Mass",
+        "is_correct": true
+      },
+      {
+        "text": "Length",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Temperature",
+      "Time",
+      "Mass",
+      "Length"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Grams are units of mass.",
+      "hint": "What does g mean?"
+    },
+    "structuredExplanation": {
+      "summary": "Grams are units of mass.",
+      "hint": "What does g mean?"
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which observation uses a sense safely?",
+    "audio_prompt": "Which observation uses a sense safely?",
+    "audioPrompt": "Which observation uses a sense safely?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Smell an unknown chemical closely",
+        "is_correct": false
+      },
+      {
+        "text": "The flower has a sweet smell from a safe distance",
+        "is_correct": true
+      },
+      {
+        "text": "Taste the unknown berry",
+        "is_correct": false
+      },
+      {
+        "text": "Touch a hot plate",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Smell an unknown chemical closely",
+      "The flower has a sweet smell from a safe distance",
+      "Taste the unknown berry",
+      "Touch a hot plate"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Safe observation uses appropriate senses without unnecessary risk.",
+      "hint": "Do not taste or closely smell unknown substances."
+    },
+    "structuredExplanation": {
+      "summary": "Safe observation uses appropriate senses without unnecessary risk.",
+      "hint": "Do not taste or closely smell unknown substances."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which record belongs in a results table?",
+    "audio_prompt": "Which record belongs in a results table?",
+    "audioPrompt": "Which record belongs in a results table?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Trial 1: 36 cm",
+        "is_correct": true
+      },
+      {
+        "text": "It went far",
+        "is_correct": false
+      },
+      {
+        "text": "I liked trial 1",
+        "is_correct": false
+      },
+      {
+        "text": "The car is cool",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Trial 1: 36 cm",
+      "It went far",
+      "I liked trial 1",
+      "The car is cool"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A measured value with a unit is suitable evidence.",
+      "hint": "Record measurable evidence."
+    },
+    "structuredExplanation": {
+      "summary": "A measured value with a unit is suitable evidence.",
+      "hint": "Record measurable evidence."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-010",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A hand lens is most useful for:",
+    "audio_prompt": "A hand lens is most useful for:",
+    "audioPrompt": "A hand lens is most useful for:",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "measuring time",
+        "is_correct": false
+      },
+      {
+        "text": "measuring temperature",
+        "is_correct": false
+      },
+      {
+        "text": "measuring mass",
+        "is_correct": false
+      },
+      {
+        "text": "seeing small surface details",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "measuring time",
+      "measuring temperature",
+      "measuring mass",
+      "seeing small surface details"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A hand lens magnifies visible details.",
+      "hint": "Think close-up observation."
+    },
+    "structuredExplanation": {
+      "summary": "A hand lens magnifies visible details.",
+      "hint": "Think close-up observation."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why should a ruler start at zero when measuring?",
+    "audio_prompt": "Why should a ruler start at zero when measuring?",
+    "audioPrompt": "Why should a ruler start at zero when measuring?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Any mark gives the same answer",
+        "is_correct": false
+      },
+      {
+        "text": "It is only for neatness",
+        "is_correct": false
+      },
+      {
+        "text": "Starting at zero gives the correct distance from the beginning of the object",
+        "is_correct": true
+      },
+      {
+        "text": "Zero makes objects longer",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Any mark gives the same answer",
+      "It is only for neatness",
+      "Starting at zero gives the correct distance from the beginning of the object",
+      "Zero makes objects longer"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The zero mark is the reference point for the measured distance.",
+      "hint": "Start from the correct reference."
+    },
+    "structuredExplanation": {
+      "summary": "The zero mark is the reference point for the measured distance.",
+      "hint": "Start from the correct reference."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why include units with measurements?",
+    "audio_prompt": "Why include units with measurements?",
+    "audioPrompt": "Why include units with measurements?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Every measurement uses the same unit",
+        "is_correct": false
+      },
+      {
+        "text": "Units tell what the number means and allow clear comparison",
+        "is_correct": true
+      },
+      {
+        "text": "Units make the number larger",
+        "is_correct": false
+      },
+      {
+        "text": "Units are optional decoration",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Every measurement uses the same unit",
+      "Units tell what the number means and allow clear comparison",
+      "Units make the number larger",
+      "Units are optional decoration"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A number alone can be ambiguous.",
+      "hint": "What does 25 mean: cm, s, mL, °C?"
+    },
+    "structuredExplanation": {
+      "summary": "A number alone can be ambiguous.",
+      "hint": "What does 25 mean: cm, s, mL, °C?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why should eye level be used when reading liquid volume?",
+    "audio_prompt": "Why should eye level be used when reading liquid volume?",
+    "audioPrompt": "Why should eye level be used when reading liquid volume?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It reduces reading error from viewing the scale at an angle",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the liquid deeper",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the volume",
+        "is_correct": false
+      },
+      {
+        "text": "It keeps the cup warmer",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It reduces reading error from viewing the scale at an angle",
+      "It makes the liquid deeper",
+      "It changes the volume",
+      "It keeps the cup warmer"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Looking level with the scale gives a more accurate reading.",
+      "hint": "Avoid angle error."
+    },
+    "structuredExplanation": {
+      "summary": "Looking level with the scale gives a more accurate reading.",
+      "hint": "Avoid angle error."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why repeat a measurement?",
+    "audio_prompt": "Why repeat a measurement?",
+    "audioPrompt": "Why repeat a measurement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "To guarantee the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "To change the result",
+        "is_correct": false
+      },
+      {
+        "text": "Because the first reading never counts",
+        "is_correct": false
+      },
+      {
+        "text": "To check whether the readings are consistent",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "To guarantee the prediction",
+      "To change the result",
+      "Because the first reading never counts",
+      "To check whether the readings are consistent"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Repeating can reveal variation or mistakes.",
+      "hint": "Check consistency."
+    },
+    "structuredExplanation": {
+      "summary": "Repeating can reveal variation or mistakes.",
+      "hint": "Check consistency."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why record observations immediately?",
+    "audio_prompt": "Why record observations immediately?",
+    "audioPrompt": "Why record observations immediately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Later guesses are more scientific",
+        "is_correct": false
+      },
+      {
+        "text": "Recording changes the result",
+        "is_correct": false
+      },
+      {
+        "text": "Details and measurements are less likely to be forgotten or mixed up",
+        "is_correct": true
+      },
+      {
+        "text": "Memory always improves later",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Later guesses are more scientific",
+      "Recording changes the result",
+      "Details and measurements are less likely to be forgotten or mixed up",
+      "Memory always improves later"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Prompt recording protects the accuracy of the evidence.",
+      "hint": "Write it while it is fresh."
+    },
+    "structuredExplanation": {
+      "summary": "Prompt recording protects the accuracy of the evidence.",
+      "hint": "Write it while it is fresh."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why use the same type of tool for repeated measurements in one investigation?",
+    "audio_prompt": "Why use the same type of tool for repeated measurements in one investigation?",
+    "audioPrompt": "Why use the same type of tool for repeated measurements in one investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It guarantees identical numbers",
+        "is_correct": false
+      },
+      {
+        "text": "Using the same method improves comparability",
+        "is_correct": true
+      },
+      {
+        "text": "Different tools always give the same result",
+        "is_correct": false
+      },
+      {
+        "text": "It makes units unnecessary",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It guarantees identical numbers",
+      "Using the same method improves comparability",
+      "Different tools always give the same result",
+      "It makes units unnecessary"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Consistent tools reduce method differences between readings.",
+      "hint": "Keep the measurement method consistent."
+    },
+    "structuredExplanation": {
+      "summary": "Consistent tools reduce method differences between readings.",
+      "hint": "Keep the measurement method consistent."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-017",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why is “the plant grew a lot” weaker than “the plant grew 4 cm”?",
+    "audio_prompt": "Why is “the plant grew a lot” weaker than “the plant grew 4 cm”?",
+    "audioPrompt": "Why is “the plant grew a lot” weaker than “the plant grew 4 cm”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The second statement gives a measurable amount",
+        "is_correct": true
+      },
+      {
+        "text": "Words can never be scientific",
+        "is_correct": false
+      },
+      {
+        "text": "4 cm proves why it grew",
+        "is_correct": false
+      },
+      {
+        "text": "The first statement has no noun",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The second statement gives a measurable amount",
+      "Words can never be scientific",
+      "4 cm proves why it grew",
+      "The first statement has no noun"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A measured change is more precise and easier to compare.",
+      "hint": "Precise evidence is stronger."
+    },
+    "structuredExplanation": {
+      "summary": "A measured change is more precise and easier to compare.",
+      "hint": "Precise evidence is stronger."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-018",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why might a digital timer be useful?",
+    "audio_prompt": "Why might a digital timer be useful?",
+    "audioPrompt": "Why might a digital timer be useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Digital tools always make results correct",
+        "is_correct": false
+      },
+      {
+        "text": "It measures temperature too",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need to observe",
+        "is_correct": false
+      },
+      {
+        "text": "It can record elapsed time precisely and consistently",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Digital tools always make results correct",
+      "It measures temperature too",
+      "It removes the need to observe",
+      "It can record elapsed time precisely and consistently"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Digital tools can support precise measurements when used correctly.",
+      "hint": "Think about what the tool measures well."
+    },
+    "structuredExplanation": {
+      "summary": "Digital tools can support precise measurements when used correctly.",
+      "hint": "Think about what the tool measures well."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-019",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why should a thermometer be given time to settle before reading?",
+    "audio_prompt": "Why should a thermometer be given time to settle before reading?",
+    "audioPrompt": "Why should a thermometer be given time to settle before reading?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Waiting always raises temperature",
+        "is_correct": false
+      },
+      {
+        "text": "The unit changes over time",
+        "is_correct": false
+      },
+      {
+        "text": "The reading may change until it reflects the object or liquid temperature",
+        "is_correct": true
+      },
+      {
+        "text": "Thermometers need to rest for comfort",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Waiting always raises temperature",
+      "The unit changes over time",
+      "The reading may change until it reflects the object or liquid temperature",
+      "Thermometers need to rest for comfort"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "A stable reading is more reliable than reading too quickly.",
+      "hint": "Wait for the value to stop changing."
+    },
+    "structuredExplanation": {
+      "summary": "A stable reading is more reliable than reading too quickly.",
+      "hint": "Wait for the value to stop changing."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-020",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why should observations be factual rather than based on preference?",
+    "audio_prompt": "Why should observations be factual rather than based on preference?",
+    "audioPrompt": "Why should observations be factual rather than based on preference?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Facts must be numbers only",
+        "is_correct": false
+      },
+      {
+        "text": "Other people should be able to check what was observed",
+        "is_correct": true
+      },
+      {
+        "text": "Preferences are always wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Science cannot include words",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Facts must be numbers only",
+      "Other people should be able to check what was observed",
+      "Preferences are always wrong",
+      "Science cannot include words"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Scientific records aim to be shareable and checkable.",
+      "hint": "Record what was observed, not what was liked."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific records aim to be shareable and checkable.",
+      "hint": "Record what was observed, not what was liked."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-021",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which measurement is written correctly?",
+    "audio_prompt": "Which measurement is written correctly?",
+    "audioPrompt": "Which measurement is written correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "18 cm",
+        "is_correct": true
+      },
+      {
+        "text": "18 long",
+        "is_correct": false
+      },
+      {
+        "text": "18 temperature",
+        "is_correct": false
+      },
+      {
+        "text": "18 nice",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "18 cm",
+      "18 long",
+      "18 temperature",
+      "18 nice"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The value includes an appropriate unit for length.",
+      "hint": "Number + correct unit."
+    },
+    "structuredExplanation": {
+      "summary": "The value includes an appropriate unit for length.",
+      "hint": "Number + correct unit."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-022",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which tool would NOT help measure water temperature?",
+    "audio_prompt": "Which tool would NOT help measure water temperature?",
+    "audioPrompt": "Which tool would NOT help measure water temperature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A thermometer",
+        "is_correct": false
+      },
+      {
+        "text": "A digital temperature probe",
+        "is_correct": false
+      },
+      {
+        "text": "A temperature sensor",
+        "is_correct": false
+      },
+      {
+        "text": "A ruler",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A thermometer",
+      "A digital temperature probe",
+      "A temperature sensor",
+      "A ruler"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A ruler measures length, not temperature.",
+      "hint": "Which tool measures something else?"
+    },
+    "structuredExplanation": {
+      "summary": "A ruler measures length, not temperature.",
+      "hint": "Which tool measures something else?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-023",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which reading is most precise for a ruler marked in centimetres?",
+    "audio_prompt": "Which reading is most precise for a ruler marked in centimetres?",
+    "audioPrompt": "Which reading is most precise for a ruler marked in centimetres?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "long",
+        "is_correct": false
+      },
+      {
+        "text": "one handspan",
+        "is_correct": false
+      },
+      {
+        "text": "12 cm",
+        "is_correct": true
+      },
+      {
+        "text": "about 10 to 15 cm",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "long",
+      "one handspan",
+      "12 cm",
+      "about 10 to 15 cm"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "A scale reading is more precise than a vague estimate.",
+      "hint": "Use the instrument scale."
+    },
+    "structuredExplanation": {
+      "summary": "A scale reading is more precise than a vague estimate.",
+      "hint": "Use the instrument scale."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-024",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which observation is unsafe?",
+    "audio_prompt": "Which observation is unsafe?",
+    "audioPrompt": "Which observation is unsafe?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Recording its texture visually",
+        "is_correct": false
+      },
+      {
+        "text": "Tasting an unknown powder",
+        "is_correct": true
+      },
+      {
+        "text": "Looking at its colour",
+        "is_correct": false
+      },
+      {
+        "text": "Using a hand lens from a safe distance",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Recording its texture visually",
+      "Tasting an unknown powder",
+      "Looking at its colour",
+      "Using a hand lens from a safe distance"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Unknown substances should not be tasted.",
+      "hint": "Avoid unsafe senses."
+    },
+    "structuredExplanation": {
+      "summary": "Unknown substances should not be tasted.",
+      "hint": "Avoid unsafe senses."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-025",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which result is easier to compare?",
+    "audio_prompt": "Which result is easier to compare?",
+    "audioPrompt": "Which result is easier to compare?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Trial A: 28 s; Trial B: 34 s",
+        "is_correct": true
+      },
+      {
+        "text": "A was quick; B was slower",
+        "is_correct": false
+      },
+      {
+        "text": "A looked better",
+        "is_correct": false
+      },
+      {
+        "text": "B felt successful",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Trial A: 28 s; Trial B: 34 s",
+      "A was quick; B was slower",
+      "A looked better",
+      "B felt successful"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Measured times provide a clear comparison.",
+      "hint": "Use the same quantity and units."
+    },
+    "structuredExplanation": {
+      "summary": "Measured times provide a clear comparison.",
+      "hint": "Use the same quantity and units."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-026",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which ruler reading is likely wrong?",
+    "audio_prompt": "Which ruler reading is likely wrong?",
+    "audioPrompt": "Which ruler reading is likely wrong?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The student subtracts 3 from 11 and records 8 cm",
+        "is_correct": false
+      },
+      {
+        "text": "The object begins at 0 and ends at 8 cm",
+        "is_correct": false
+      },
+      {
+        "text": "The student checks the scale at eye level",
+        "is_correct": false
+      },
+      {
+        "text": "The object begins at 3 cm and ends at 11 cm, but the student records 11 cm",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The student subtracts 3 from 11 and records 8 cm",
+      "The object begins at 0 and ends at 8 cm",
+      "The student checks the scale at eye level",
+      "The object begins at 3 cm and ends at 11 cm, but the student records 11 cm"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "If the object does not start at zero, subtract the start reading from the end reading.",
+      "hint": "Measure the difference, not just the endpoint."
+    },
+    "structuredExplanation": {
+      "summary": "If the object does not start at zero, subtract the start reading from the end reading.",
+      "hint": "Measure the difference, not just the endpoint."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-027",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which record mixes observation with opinion?",
+    "audio_prompt": "Which record mixes observation with opinion?",
+    "audioPrompt": "Which record mixes observation with opinion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The rock is 6 cm long",
+        "is_correct": false
+      },
+      {
+        "text": "The rock has black spots",
+        "is_correct": false
+      },
+      {
+        "text": "The rock is the nicest because it is shiny",
+        "is_correct": true
+      },
+      {
+        "text": "The rock is shiny",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The rock is 6 cm long",
+      "The rock has black spots",
+      "The rock is the nicest because it is shiny",
+      "The rock is shiny"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "“Nicest” is a preference, not an objective observation.",
+      "hint": "Spot the judgement word."
+    },
+    "structuredExplanation": {
+      "summary": "“Nicest” is a preference, not an objective observation.",
+      "hint": "Spot the judgement word."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-028",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which unit best matches mass?",
+    "audio_prompt": "Which unit best matches mass?",
+    "audioPrompt": "Which unit best matches mass?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "degrees Celsius",
+        "is_correct": false
+      },
+      {
+        "text": "grams",
+        "is_correct": true
+      },
+      {
+        "text": "millilitres",
+        "is_correct": false
+      },
+      {
+        "text": "seconds",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "degrees Celsius",
+      "grams",
+      "millilitres",
+      "seconds"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Grams measure mass.",
+      "hint": "Match quantity and unit."
+    },
+    "structuredExplanation": {
+      "summary": "Grams measure mass.",
+      "hint": "Match quantity and unit."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-029",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which measurement procedure is strongest?",
+    "audio_prompt": "Which measurement procedure is strongest?",
+    "audioPrompt": "Which measurement procedure is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Measure each leaf with the same ruler from base to tip",
+        "is_correct": true
+      },
+      {
+        "text": "Use a ruler for one leaf and handspans for another",
+        "is_correct": false
+      },
+      {
+        "text": "Guess some lengths",
+        "is_correct": false
+      },
+      {
+        "text": "Record only the biggest leaf",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Measure each leaf with the same ruler from base to tip",
+      "Use a ruler for one leaf and handspans for another",
+      "Guess some lengths",
+      "Record only the biggest leaf"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A consistent procedure improves comparison.",
+      "hint": "Same method for each sample."
+    },
+    "structuredExplanation": {
+      "summary": "A consistent procedure improves comparison.",
+      "hint": "Same method for each sample."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-030",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which result suggests a measurement should be checked?",
+    "audio_prompt": "Which result suggests a measurement should be checked?",
+    "audioPrompt": "Which result suggests a measurement should be checked?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Three readings are 24 cm, 25 cm and 24 cm",
+        "is_correct": false
+      },
+      {
+        "text": "Two readings differ by 1 cm",
+        "is_correct": false
+      },
+      {
+        "text": "The same ruler is used each time",
+        "is_correct": false
+      },
+      {
+        "text": "Three readings are 24 cm, 25 cm and 61 cm",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Three readings are 24 cm, 25 cm and 24 cm",
+      "Two readings differ by 1 cm",
+      "The same ruler is used each time",
+      "Three readings are 24 cm, 25 cm and 61 cm"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "61 cm is very different from the other readings and may be an unusual value or error worth checking.",
+      "hint": "Look for the outlier."
+    },
+    "structuredExplanation": {
+      "summary": "61 cm is very different from the other readings and may be an unusual value or error worth checking.",
+      "hint": "Look for the outlier."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-031",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A class wants to measure how fast ice warms after leaving a freezer. What should they record?",
+    "audio_prompt": "A class wants to measure how fast ice warms after leaving a freezer. What should they record?",
+    "audioPrompt": "A class wants to measure how fast ice warms after leaving a freezer. What should they record?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The favourite ice cube",
+        "is_correct": false
+      },
+      {
+        "text": "The room name only",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature at regular time intervals",
+        "is_correct": true
+      },
+      {
+        "text": "Only the ice colour",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The favourite ice cube",
+      "The room name only",
+      "Temperature at regular time intervals",
+      "Only the ice colour"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Temperature over time directly shows warming.",
+      "hint": "Measure the changing quantity at set times."
+    },
+    "structuredExplanation": {
+      "summary": "Temperature over time directly shows warming.",
+      "hint": "Measure the changing quantity at set times."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-032",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A bean plant is 13 cm tall on Monday and 18 cm on Friday. How much did it grow?",
+    "audio_prompt": "A bean plant is 13 cm tall on Monday and 18 cm on Friday. How much did it grow?",
+    "audioPrompt": "A bean plant is 13 cm tall on Monday and 18 cm on Friday. How much did it grow?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "13 cm",
+        "is_correct": false
+      },
+      {
+        "text": "5 cm",
+        "is_correct": true
+      },
+      {
+        "text": "31 cm",
+        "is_correct": false
+      },
+      {
+        "text": "18 cm",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "13 cm",
+      "5 cm",
+      "31 cm",
+      "18 cm"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Growth is the difference between final and initial height: 18 − 13 = 5 cm.",
+      "hint": "Subtract starting height from final height."
+    },
+    "structuredExplanation": {
+      "summary": "Growth is the difference between final and initial height: 18 − 13 = 5 cm.",
+      "hint": "Subtract starting height from final height."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-033",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "You need 100 mL of water for each trial. Which procedure is best?",
+    "audio_prompt": "You need 100 mL of water for each trial. Which procedure is best?",
+    "audioPrompt": "You need 100 mL of water for each trial. Which procedure is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Measure to the 100 mL mark at eye level each time",
+        "is_correct": true
+      },
+      {
+        "text": "Pour until it looks similar",
+        "is_correct": false
+      },
+      {
+        "text": "Use different cups without markings",
+        "is_correct": false
+      },
+      {
+        "text": "Guess from the bottle weight",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Measure to the 100 mL mark at eye level each time",
+      "Pour until it looks similar",
+      "Use different cups without markings",
+      "Guess from the bottle weight"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A marked volume measured consistently supports accurate trials.",
+      "hint": "Use the scale."
+    },
+    "structuredExplanation": {
+      "summary": "A marked volume measured consistently supports accurate trials.",
+      "hint": "Use the scale."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-034",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A stopwatch reads 47.2 s. What should be recorded?",
+    "audio_prompt": "A stopwatch reads 47.2 s. What should be recorded?",
+    "audioPrompt": "A stopwatch reads 47.2 s. What should be recorded?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "47.2",
+        "is_correct": false
+      },
+      {
+        "text": "about a minute",
+        "is_correct": false
+      },
+      {
+        "text": "fast",
+        "is_correct": false
+      },
+      {
+        "text": "47.2 s",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "47.2",
+      "about a minute",
+      "fast",
+      "47.2 s"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The numerical value and unit make the record clear.",
+      "hint": "Keep the unit."
+    },
+    "structuredExplanation": {
+      "summary": "The numerical value and unit make the record clear.",
+      "hint": "Keep the unit."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-035",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A digital thermometer gives 21.6°C, 21.7°C and 21.6°C in repeated readings. What can you say?",
+    "audio_prompt": "A digital thermometer gives 21.6°C, 21.7°C and 21.6°C in repeated readings. What can you say?",
+    "audioPrompt": "A digital thermometer gives 21.6°C, 21.7°C and 21.6°C in repeated readings. What can you say?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Temperature is impossible to measure",
+        "is_correct": false
+      },
+      {
+        "text": "Only the largest reading counts",
+        "is_correct": false
+      },
+      {
+        "text": "The readings are very consistent",
+        "is_correct": true
+      },
+      {
+        "text": "The tool must be broken",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Temperature is impossible to measure",
+      "Only the largest reading counts",
+      "The readings are very consistent",
+      "The tool must be broken"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Closely grouped repeated readings suggest consistent measurement.",
+      "hint": "Compare the repeated values."
+    },
+    "structuredExplanation": {
+      "summary": "Closely grouped repeated readings suggest consistent measurement.",
+      "hint": "Compare the repeated values."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-036",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A student measures a pencil from the 2 cm mark to the 16 cm mark. What is its length?",
+    "audio_prompt": "A student measures a pencil from the 2 cm mark to the 16 cm mark. What is its length?",
+    "audioPrompt": "A student measures a pencil from the 2 cm mark to the 16 cm mark. What is its length?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "2 cm",
         "is_correct": false
       },
       {
         "text": "14 cm",
         "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A quantitative observation includes a number and an appropriate unit.",
-      "hint": "Check for both the value and its unit."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S3I03-P-003",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the measurement table, why should the unit be recorded?",
-    "audio_prompt": "At the measurement table, why should the unit be recorded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-003",
-      "alt_text": "At the measurement table: measurement display showing [\"value\",14,\"unit\",\"cm\"]"
-    },
-    "answers": [
-      {
-        "text": "It tells what the number means and allows comparison",
-        "is_correct": true
       },
       {
-        "text": "It makes every result larger",
+        "text": "16 cm",
         "is_correct": false
       },
       {
-        "text": "It changes an observation into an opinion",
+        "text": "18 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A number without its unit can be unclear or misleading.",
-      "hint": "Ask whether another person could interpret the value."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S3I03-P-004",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the measurement table, which statement is a qualitative observation?",
-    "audio_prompt": "At the measurement table, which statement is a qualitative observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-004",
-      "alt_text": "At the measurement table: measurement display showing [\"qualitative: smooth\",\"quantitative: 14 cm\"]"
-    },
-    "answers": [
-      {
-        "text": "The measurement is 14 cm",
-        "is_correct": false
-      },
-      {
-        "text": "The sample looks smooth",
-        "is_correct": true
-      },
-      {
-        "text": "The result equals 14",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "2 cm",
+      "14 cm",
+      "16 cm",
+      "18 cm"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Qualitative observations describe qualities without a numerical measure.",
-      "hint": "Choose the description rather than the number."
+      "summary": "Length is 16 − 2 = 14 cm.",
+      "hint": "Subtract the start mark from the end mark."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "structuredExplanation": {
+      "summary": "Length is 16 − 2 = 14 cm.",
+      "hint": "Subtract the start mark from the end mark."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-005",
+    "id": "ac9s3i03-p-037",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the measurement table, how should a student read the ruler?",
-    "audio_prompt": "At the measurement table, how should a student read the ruler?",
+    "skill": "observing, measuring and recording accurately",
+    "question": "You need to compare masses of three rocks. What is the best method?",
+    "audio_prompt": "You need to compare masses of three rocks. What is the best method?",
+    "audioPrompt": "You need to compare masses of three rocks. What is the best method?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-005",
-      "alt_text": "At the measurement table: measurement display showing [\"ruler\",\"reading: 14 cm\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Look from far to one side",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the nearest favourite number",
-        "is_correct": false
-      },
-      {
-        "text": "Look straight at the scale and use the marked intervals",
+        "text": "Use the same balance and record each result in grams",
         "is_correct": true
+      },
+      {
+        "text": "Lift them by hand only",
+        "is_correct": false
+      },
+      {
+        "text": "Use grams for one and kilograms for another",
+        "is_correct": false
+      },
+      {
+        "text": "Record only heaviest/lightest without values",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Reading a scale at eye level reduces viewing error.",
-      "hint": "Find the marked value from directly in front."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S3I03-P-006",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the measurement table, a result is between two labelled marks. What should the student do?",
-    "audio_prompt": "At the measurement table, a result is between two labelled marks. What should the student do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-006",
-      "alt_text": "At the measurement table: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
-    },
-    "answers": [
-      {
-        "text": "Use the smaller scale intervals to find the value",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore the scale and guess",
-        "is_correct": false
-      },
-      {
-        "text": "Record both labels as the answer",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Use the same balance and record each result in grams",
+      "Lift them by hand only",
+      "Use grams for one and kilograms for another",
+      "Record only heaviest/lightest without values"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scale intervals show the value between labelled marks.",
-      "hint": "Count equal spaces and work out what each represents."
+      "summary": "Using the same balance and unit makes the results directly comparable.",
+      "hint": "Same tool, same unit."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "structuredExplanation": {
+      "summary": "Using the same balance and unit makes the results directly comparable.",
+      "hint": "Same tool, same unit."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-007",
+    "id": "ac9s3i03-p-038",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the measurement table, why should students follow the same measurement procedure each time?",
-    "audio_prompt": "At the measurement table, why should students follow the same measurement procedure each time?",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A class photographs a seedling each day and measures height every third day. How do the tools help differently?",
+    "audio_prompt": "A class photographs a seedling each day and measures height every third day. How do the tools help differently?",
+    "audioPrompt": "A class photographs a seedling each day and measures height every third day. How do the tools help differently?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-007",
-      "alt_text": "At the measurement table: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "So every result becomes identical",
+        "text": "Both tools measure exactly the same quantity",
         "is_correct": false
       },
       {
-        "text": "So results can be compared fairly",
+        "text": "Photos make rulers unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "Rulers show leaf colour better",
+        "is_correct": false
+      },
+      {
+        "text": "Photos show visible changes; the ruler provides numerical height data",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Both tools measure exactly the same quantity",
+      "Photos make rulers unnecessary",
+      "Rulers show leaf colour better",
+      "Photos show visible changes; the ruler provides numerical height data"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Different tools can capture different kinds of evidence.",
+      "hint": "Image evidence versus measurement evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Different tools can capture different kinds of evidence.",
+      "hint": "Image evidence versus measurement evidence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-039",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A student records “water = 35” after using a thermometer. What should be fixed?",
+    "audio_prompt": "A student records “water = 35” after using a thermometer. What should be fixed?",
+    "audioPrompt": "A student records “water = 35” after using a thermometer. What should be fixed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Remove the number",
+        "is_correct": false
+      },
+      {
+        "text": "Write “warm” only",
+        "is_correct": false
+      },
+      {
+        "text": "Add the unit: 35°C",
         "is_correct": true
       },
       {
-        "text": "So units are no longer needed",
+        "text": "Change 35 to a word",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A consistent procedure reduces avoidable differences in measurement.",
-      "hint": "Keep tool, position and method consistent."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9S3I03-P-008",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the measurement table, which digital tool could appropriately record repeated length results?",
-    "audio_prompt": "At the measurement table, which digital tool could appropriately record repeated length results?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-008",
-      "alt_text": "At the measurement table: measurement display showing [[\"trial\",\"length\"],[\"1\",\"14 cm\"],[\"2\",\"15 cm\"]]"
-    },
-    "answers": [
-      {
-        "text": "An unrelated game",
-        "is_correct": false
-      },
-      {
-        "text": "A blank picture with no labels",
-        "is_correct": false
-      },
-      {
-        "text": "A data table with labelled units",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Remove the number",
+      "Write “warm” only",
+      "Add the unit: 35°C",
+      "Change 35 to a word"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Digital tables can organise repeated measurements clearly.",
-      "hint": "Choose a tool that stores values and units."
+      "summary": "The unit identifies the measurement as temperature.",
+      "hint": "A number needs its unit."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "structuredExplanation": {
+      "summary": "The unit identifies the measurement as temperature.",
+      "hint": "A number needs its unit."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-009",
+    "id": "ac9s3i03-p-040",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the water study, which tool should measure temperature?",
-    "audio_prompt": "During the water study, which tool should measure temperature?",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which investigation record is strongest?",
+    "audio_prompt": "Which investigation record is strongest?",
+    "audioPrompt": "Which investigation record is strongest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-009",
-      "alt_text": "During the water study: measurement display showing [\"thermometer → temperature\",\"other tools measure other quantities\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "thermometer",
-        "is_correct": true
-      },
-      {
-        "text": "a colour chart",
+        "text": "The cup looked normal",
         "is_correct": false
       },
       {
-        "text": "a drawing pencil",
+        "text": "Time (s): 0, 30, 60; Temperature (°C): 60, 53, 47",
+        "is_correct": true
+      },
+      {
+        "text": "It got cooler",
+        "is_correct": false
+      },
+      {
+        "text": "Hot, warm, less warm",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The instrument must match the quantity being measured.",
-      "hint": "Match the tool's scale with the measurement needed."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I03-P-010",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the water study, which record is a complete quantitative observation?",
-    "audio_prompt": "During the water study, which record is a complete quantitative observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-010",
-      "alt_text": "During the water study: measurement display showing [\"28\",\"°C\",\"28 °C\"]"
-    },
-    "answers": [
-      {
-        "text": "28 with no unit",
-        "is_correct": false
-      },
-      {
-        "text": "28 °C",
-        "is_correct": true
-      },
-      {
-        "text": "clear",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "The cup looked normal",
+      "Time (s): 0, 30, 60; Temperature (°C): 60, 53, 47",
+      "It got cooler",
+      "Hot, warm, less warm"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A quantitative observation includes a number and an appropriate unit.",
-      "hint": "Check for both the value and its unit."
+      "summary": "A labelled set of measurements allows the cooling pattern to be checked and graphed.",
+      "hint": "Use organised numerical evidence."
     },
+    "structuredExplanation": {
+      "summary": "A labelled set of measurements allows the cooling pattern to be checked and graphed.",
+      "hint": "Use organised numerical evidence."
+    },
+    "stage": "apply",
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-011",
+    "id": "ac9s3i03-t-001",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the water study, why should the unit be recorded?",
-    "audio_prompt": "During the water study, why should the unit be recorded?",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which tool is best for measuring the mass of a shell?",
+    "audio_prompt": "Which tool is best for measuring the mass of a shell?",
+    "audioPrompt": "Which tool is best for measuring the mass of a shell?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-011",
-      "alt_text": "During the water study: measurement display showing [\"value\",28,\"unit\",\"°C\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It makes every result larger",
+        "text": "A stopwatch",
         "is_correct": false
       },
       {
-        "text": "It changes an observation into an opinion",
+        "text": "A thermometer",
         "is_correct": false
       },
       {
-        "text": "It tells what the number means and allows comparison",
+        "text": "A balance",
         "is_correct": true
+      },
+      {
+        "text": "A ruler",
+        "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "A stopwatch",
+      "A thermometer",
+      "A balance",
+      "A ruler"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A number without its unit can be unclear or misleading.",
-      "hint": "Ask whether another person could interpret the value."
+      "summary": "A balance measures mass.",
+      "hint": "Match tool and quantity."
+    },
+    "structuredExplanation": {
+      "summary": "A balance measures mass.",
+      "hint": "Match tool and quantity."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-012",
+    "id": "ac9s3i03-t-002",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the water study, which statement is a qualitative observation?",
-    "audio_prompt": "During the water study, which statement is a qualitative observation?",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A student measures a piece of string. Which record gives a complete measurement?",
+    "audio_prompt": "A student measures a piece of string. Which record gives a complete measurement?",
+    "audioPrompt": "A student measures a piece of string. Which record gives a complete measurement?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-012",
-      "alt_text": "During the water study: measurement display showing [\"qualitative: clear\",\"quantitative: 28 °C\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The sample looks clear",
-        "is_correct": true
-      },
-      {
-        "text": "The measurement is 28 °C",
+        "text": "The string looked good",
         "is_correct": false
       },
       {
-        "text": "The result equals 28",
+        "text": "The string was 42 cm long",
+        "is_correct": true
+      },
+      {
+        "text": "The string was 42",
+        "is_correct": false
+      },
+      {
+        "text": "The string was long",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Qualitative observations describe qualities without a numerical measure.",
-      "hint": "Choose the description rather than the number."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I03-P-013",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the water study, how should a student read the thermometer?",
-    "audio_prompt": "During the water study, how should a student read the thermometer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-013",
-      "alt_text": "During the water study: measurement display showing [\"thermometer\",\"reading: 28 °C\"]"
-    },
-    "answers": [
-      {
-        "text": "Look from far to one side",
-        "is_correct": false
-      },
-      {
-        "text": "Look straight at the scale and use the marked intervals",
-        "is_correct": true
-      },
-      {
-        "text": "Choose the nearest favourite number",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "The string looked good",
+      "The string was 42 cm long",
+      "The string was 42",
+      "The string was long"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Reading a scale at eye level reduces viewing error.",
-      "hint": "Find the marked value from directly in front."
+      "summary": "A complete measurement includes number and unit.",
+      "hint": "Number + unit."
+    },
+    "structuredExplanation": {
+      "summary": "A complete measurement includes number and unit.",
+      "hint": "Number + unit."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-014",
+    "id": "ac9s3i03-t-003",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the water study, a result is between two labelled marks. What should the student do?",
-    "audio_prompt": "During the water study, a result is between two labelled marks. What should the student do?",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why measure from the zero mark of a ruler?",
+    "audio_prompt": "Why measure from the zero mark of a ruler?",
+    "audioPrompt": "Why measure from the zero mark of a ruler?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-014",
-      "alt_text": "During the water study: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Ignore the scale and guess",
+        "text": "It gives the correct reference for length",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the object longer",
         "is_correct": false
       },
       {
-        "text": "Record both labels as the answer",
+        "text": "It changes centimetres to metres",
         "is_correct": false
       },
       {
-        "text": "Use the smaller scale intervals to find the value",
+        "text": "It is only for decoration",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It gives the correct reference for length",
+      "It makes the object longer",
+      "It changes centimetres to metres",
+      "It is only for decoration"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Zero is the normal starting reference.",
+      "hint": "Start at the reference point."
+    },
+    "structuredExplanation": {
+      "summary": "Zero is the normal starting reference.",
+      "hint": "Start at the reference point."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-t-004",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which unit is suitable for elapsed time?",
+    "audio_prompt": "Which unit is suitable for elapsed time?",
+    "audioPrompt": "Which unit is suitable for elapsed time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "centimetres",
+        "is_correct": false
+      },
+      {
+        "text": "millilitres",
+        "is_correct": false
+      },
+      {
+        "text": "grams",
+        "is_correct": false
+      },
+      {
+        "text": "seconds",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "centimetres",
+      "millilitres",
+      "grams",
+      "seconds"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Seconds measure time.",
+      "hint": "Think time."
+    },
+    "structuredExplanation": {
+      "summary": "Seconds measure time.",
+      "hint": "Think time."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-t-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A student measures water as 75 mL. What quantity is this?",
+    "audio_prompt": "A student measures water as 75 mL. What quantity is this?",
+    "audioPrompt": "A student measures water as 75 mL. What quantity is this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Length",
+        "is_correct": false
+      },
+      {
+        "text": "Volume",
+        "is_correct": true
+      },
+      {
+        "text": "Mass",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Temperature",
+      "Length",
+      "Volume",
+      "Mass"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Scale intervals show the value between labelled marks.",
-      "hint": "Count equal spaces and work out what each represents."
+      "summary": "Millilitres measure liquid volume.",
+      "hint": "mL = volume."
+    },
+    "structuredExplanation": {
+      "summary": "Millilitres measure liquid volume.",
+      "hint": "mL = volume."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-015",
+    "id": "ac9s3i03-t-006",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the water study, why should students follow the same measurement procedure each time?",
-    "audio_prompt": "During the water study, why should students follow the same measurement procedure each time?",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which observation is safest?",
+    "audio_prompt": "Which observation is safest?",
+    "audioPrompt": "Which observation is safest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-015",
-      "alt_text": "During the water study: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "So results can be compared fairly",
-        "is_correct": true
-      },
-      {
-        "text": "So every result becomes identical",
+        "text": "Chew a small piece",
         "is_correct": false
       },
       {
-        "text": "So units are no longer needed",
+        "text": "Look at an unknown leaf with a hand lens",
+        "is_correct": true
+      },
+      {
+        "text": "Taste the leaf",
+        "is_correct": false
+      },
+      {
+        "text": "Rub it in your eyes",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A consistent procedure reduces avoidable differences in measurement.",
-      "hint": "Keep tool, position and method consistent."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I03-P-016",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the water study, which digital tool could appropriately record repeated temperature results?",
-    "audio_prompt": "During the water study, which digital tool could appropriately record repeated temperature results?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-016",
-      "alt_text": "During the water study: measurement display showing [[\"trial\",\"temperature\"],[\"1\",\"28 °C\"],[\"2\",\"29 °C\"]]"
-    },
-    "answers": [
-      {
-        "text": "An unrelated game",
-        "is_correct": false
-      },
-      {
-        "text": "A data table with labelled units",
-        "is_correct": true
-      },
-      {
-        "text": "A blank picture with no labels",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Chew a small piece",
+      "Look at an unknown leaf with a hand lens",
+      "Taste the leaf",
+      "Rub it in your eyes"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Digital tables can organise repeated measurements clearly.",
-      "hint": "Choose a tool that stores values and units."
+      "summary": "Visual observation avoids unnecessary exposure.",
+      "hint": "Do not taste unknown materials."
+    },
+    "structuredExplanation": {
+      "summary": "Visual observation avoids unnecessary exposure.",
+      "hint": "Do not taste unknown materials."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-017",
+    "id": "ac9s3i03-t-007",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "In the plant investigation, which tool should measure volume?",
-    "audio_prompt": "In the plant investigation, which tool should measure volume?",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A class times the same ramp run several times. Why are repeated measurements useful?",
+    "audio_prompt": "A class times the same ramp run several times. Why are repeated measurements useful?",
+    "audioPrompt": "A class times the same ramp run several times. Why are repeated measurements useful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-017",
-      "alt_text": "In the plant investigation: measurement display showing [\"measuring jug → volume\",\"other tools measure other quantities\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "a colour chart",
+        "text": "To check consistency",
+        "is_correct": true
+      },
+      {
+        "text": "To guarantee the prediction",
         "is_correct": false
       },
       {
-        "text": "a drawing pencil",
+        "text": "To remove units",
         "is_correct": false
       },
       {
-        "text": "measuring jug",
+        "text": "To make values identical",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "To check consistency",
+      "To guarantee the prediction",
+      "To remove units",
+      "To make values identical"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Repeats can reveal variation or errors.",
+      "hint": "Compare repeated readings."
+    },
+    "structuredExplanation": {
+      "summary": "Repeats can reveal variation or errors.",
+      "hint": "Compare repeated readings."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-t-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "An object starts at 4 cm and ends at 19 cm on a ruler. Its length is:",
+    "audio_prompt": "An object starts at 4 cm and ends at 19 cm on a ruler. Its length is:",
+    "audioPrompt": "An object starts at 4 cm and ends at 19 cm on a ruler. Its length is:",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "19 cm",
+        "is_correct": false
+      },
+      {
+        "text": "23 cm",
+        "is_correct": false
+      },
+      {
+        "text": "4 cm",
+        "is_correct": false
+      },
+      {
+        "text": "15 cm",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "19 cm",
+      "23 cm",
+      "4 cm",
+      "15 cm"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "19 − 4 = 15 cm.",
+      "hint": "Subtract the starting mark."
+    },
+    "structuredExplanation": {
+      "summary": "19 − 4 = 15 cm.",
+      "hint": "Subtract the starting mark."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-t-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which result should be checked because it is very different?",
+    "audio_prompt": "Which result should be checked because it is very different?",
+    "audioPrompt": "Which result should be checked because it is very different?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "30 s, 31 s, 30 s",
+        "is_correct": false
+      },
+      {
+        "text": "20 mL, 21 mL, 20 mL",
+        "is_correct": false
+      },
+      {
+        "text": "12 cm, 13 cm, 47 cm",
+        "is_correct": true
+      },
+      {
+        "text": "12 cm, 13 cm, 12 cm",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "30 s, 31 s, 30 s",
+      "20 mL, 21 mL, 20 mL",
+      "12 cm, 13 cm, 47 cm",
+      "12 cm, 13 cm, 12 cm"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The instrument must match the quantity being measured.",
-      "hint": "Match the tool's scale with the measurement needed."
+      "summary": "47 cm is far from the other readings.",
+      "hint": "Find the unusual value."
+    },
+    "structuredExplanation": {
+      "summary": "47 cm is far from the other readings.",
+      "hint": "Find the unusual value."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-018",
+    "id": "ac9s3i03-t-010",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "In the plant investigation, which record is a complete quantitative observation?",
-    "audio_prompt": "In the plant investigation, which record is a complete quantitative observation?",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "What does a thermometer measure?",
+    "audio_prompt": "What does a thermometer measure?",
+    "audioPrompt": "What does a thermometer measure?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-018",
-      "alt_text": "In the plant investigation: measurement display showing [\"65\",\"mL\",\"65 mL\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "65 mL",
-        "is_correct": true
-      },
-      {
-        "text": "65 with no unit",
+        "text": "Volume",
         "is_correct": false
       },
       {
-        "text": "green",
+        "text": "Temperature",
+        "is_correct": true
+      },
+      {
+        "text": "Mass",
+        "is_correct": false
+      },
+      {
+        "text": "Time",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A quantitative observation includes a number and an appropriate unit.",
-      "hint": "Check for both the value and its unit."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I03-P-019",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "In the plant investigation, why should the unit be recorded?",
-    "audio_prompt": "In the plant investigation, why should the unit be recorded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-019",
-      "alt_text": "In the plant investigation: measurement display showing [\"value\",65,\"unit\",\"mL\"]"
-    },
-    "answers": [
-      {
-        "text": "It makes every result larger",
-        "is_correct": false
-      },
-      {
-        "text": "It tells what the number means and allows comparison",
-        "is_correct": true
-      },
-      {
-        "text": "It changes an observation into an opinion",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Volume",
+      "Temperature",
+      "Mass",
+      "Time"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A number without its unit can be unclear or misleading.",
-      "hint": "Ask whether another person could interpret the value."
+      "summary": "Thermometers measure temperature.",
+      "hint": "Think °C."
+    },
+    "structuredExplanation": {
+      "summary": "Thermometers measure temperature.",
+      "hint": "Think °C."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-020",
+    "id": "ac9s3i03-t-011",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "In the plant investigation, which statement is a qualitative observation?",
-    "audio_prompt": "In the plant investigation, which statement is a qualitative observation?",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which statement is an opinion?",
+    "audio_prompt": "Which statement is an opinion?",
+    "audioPrompt": "Which statement is an opinion?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-020",
-      "alt_text": "In the plant investigation: measurement display showing [\"qualitative: green\",\"quantitative: 65 mL\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The measurement is 65 mL",
+        "text": "This is the best rock",
+        "is_correct": true
+      },
+      {
+        "text": "The rock is 7 cm long",
         "is_correct": false
       },
       {
-        "text": "The result equals 65",
+        "text": "The rock is rough",
         "is_correct": false
       },
       {
-        "text": "The sample looks green",
+        "text": "The rock has white spots",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "This is the best rock",
+      "The rock is 7 cm long",
+      "The rock is rough",
+      "The rock has white spots"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "“Best” is a judgement rather than a shared observation.",
+      "hint": "Preference versus observation."
+    },
+    "structuredExplanation": {
+      "summary": "“Best” is a judgement rather than a shared observation.",
+      "hint": "Preference versus observation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-t-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Why use the same stopwatch for repeated races?",
+    "audio_prompt": "Why use the same stopwatch for repeated races?",
+    "audioPrompt": "Why use the same stopwatch for repeated races?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It makes racers equally fast",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees no mistakes",
+        "is_correct": false
+      },
+      {
+        "text": "It changes distance into time",
+        "is_correct": false
+      },
+      {
+        "text": "It keeps the timing method consistent",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "It makes racers equally fast",
+      "It guarantees no mistakes",
+      "It changes distance into time",
+      "It keeps the timing method consistent"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Consistent measurement methods improve comparability.",
+      "hint": "Same method."
+    },
+    "structuredExplanation": {
+      "summary": "Consistent measurement methods improve comparability.",
+      "hint": "Same method."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-t-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which digital tool could record temperature over time?",
+    "audio_prompt": "Which digital tool could record temperature over time?",
+    "audioPrompt": "Which digital tool could record temperature over time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A speaker",
+        "is_correct": false
+      },
+      {
+        "text": "A calculator with no sensor",
+        "is_correct": false
+      },
+      {
+        "text": "A temperature probe connected to a device",
+        "is_correct": true
+      },
+      {
+        "text": "A drawing app only",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A speaker",
+      "A calculator with no sensor",
+      "A temperature probe connected to a device",
+      "A drawing app only"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Qualitative observations describe qualities without a numerical measure.",
-      "hint": "Choose the description rather than the number."
+      "summary": "A probe can collect temperature measurements electronically.",
+      "hint": "Choose a sensor that measures temperature."
+    },
+    "structuredExplanation": {
+      "summary": "A probe can collect temperature measurements electronically.",
+      "hint": "Choose a sensor that measures temperature."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-021",
+    "id": "ac9s3i03-t-014",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "In the plant investigation, how should a student read the measuring jug?",
-    "audio_prompt": "In the plant investigation, how should a student read the measuring jug?",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which is the strongest plant-growth record?",
+    "audio_prompt": "Which is the strongest plant-growth record?",
+    "audioPrompt": "Which is the strongest plant-growth record?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-021",
-      "alt_text": "In the plant investigation: measurement display showing [\"measuring jug\",\"reading: 65 mL\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Look straight at the scale and use the marked intervals",
+        "text": "It was nice",
+        "is_correct": false
+      },
+      {
+        "text": "Monday 11 cm; Friday 15 cm",
         "is_correct": true
       },
       {
-        "text": "Look from far to one side",
+        "text": "It grew",
         "is_correct": false
       },
       {
-        "text": "Choose the nearest favourite number",
+        "text": "It looked taller",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "It was nice",
+      "Monday 11 cm; Friday 15 cm",
+      "It grew",
+      "It looked taller"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Reading a scale at eye level reduces viewing error.",
-      "hint": "Find the marked value from directly in front."
+      "summary": "Measured heights show the change clearly.",
+      "hint": "Use numerical evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Measured heights show the change clearly.",
+      "hint": "Use numerical evidence."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-022",
+    "id": "ac9s3i03-t-015",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "In the plant investigation, a result is between two labelled marks. What should the student do?",
-    "audio_prompt": "In the plant investigation, a result is between two labelled marks. What should the student do?",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "A measuring cup is read from above rather than eye level. What problem may occur?",
+    "audio_prompt": "A measuring cup is read from above rather than eye level. What problem may occur?",
+    "audioPrompt": "A measuring cup is read from above rather than eye level. What problem may occur?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-022",
-      "alt_text": "In the plant investigation: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Ignore the scale and guess",
-        "is_correct": false
-      },
-      {
-        "text": "Use the smaller scale intervals to find the value",
+        "text": "The scale can be misread due to viewing angle",
         "is_correct": true
       },
       {
-        "text": "Record both labels as the answer",
+        "text": "The water changes mass",
+        "is_correct": false
+      },
+      {
+        "text": "The cup becomes hotter",
+        "is_correct": false
+      },
+      {
+        "text": "The unit changes",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The scale can be misread due to viewing angle",
+      "The water changes mass",
+      "The cup becomes hotter",
+      "The unit changes"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scale intervals show the value between labelled marks.",
-      "hint": "Count equal spaces and work out what each represents."
+      "summary": "Viewing angle can affect the apparent level against the scale.",
+      "hint": "Read at eye level."
+    },
+    "structuredExplanation": {
+      "summary": "Viewing angle can affect the apparent level against the scale.",
+      "hint": "Read at eye level."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I03-P-023",
+    "id": "ac9s3i03-t-016",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "In the plant investigation, why should students follow the same measurement procedure each time?",
-    "audio_prompt": "In the plant investigation, why should students follow the same measurement procedure each time?",
+    "curriculumCode": "AC9S3I03",
+    "bank": "test",
+    "skill": "observing, measuring and recording accurately",
+    "question": "Which result table heading is best?",
+    "audio_prompt": "Which result table heading is best?",
+    "audioPrompt": "Which result table heading is best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-023",
-      "alt_text": "In the plant investigation: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "So every result becomes identical",
+        "text": "Time stuff",
         "is_correct": false
       },
       {
-        "text": "So units are no longer needed",
+        "text": "How long maybe",
         "is_correct": false
       },
       {
-        "text": "So results can be compared fairly",
+        "text": "Result",
+        "is_correct": false
+      },
+      {
+        "text": "Time (s)",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Time stuff",
+      "How long maybe",
+      "Result",
+      "Time (s)"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A consistent procedure reduces avoidable differences in measurement.",
-      "hint": "Keep tool, position and method consistent."
+      "summary": "A clear heading names the quantity and unit.",
+      "hint": "Label data precisely."
+    },
+    "structuredExplanation": {
+      "summary": "A clear heading names the quantity and unit.",
+      "hint": "Label data precisely."
     },
     "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I03-P-024",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "practice",
-    "skill": "Observing and Measuring Accurately",
-    "question": "In the plant investigation, which digital tool could appropriately record repeated volume results?",
-    "audio_prompt": "In the plant investigation, which digital tool could appropriately record repeated volume results?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-p-024",
-      "alt_text": "In the plant investigation: measurement display showing [[\"trial\",\"volume\"],[\"1\",\"65 mL\"],[\"2\",\"66 mL\"]]"
-    },
-    "answers": [
-      {
-        "text": "A data table with labelled units",
-        "is_correct": true
-      },
-      {
-        "text": "An unrelated game",
-        "is_correct": false
-      },
-      {
-        "text": "A blank picture with no labels",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Digital tables can organise repeated measurements clearly.",
-      "hint": "Choose a tool that stores values and units."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I03-T-001",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the rock station, which tool should measure mass?",
-    "audio_prompt": "At the rock station, which tool should measure mass?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-001",
-      "alt_text": "At the rock station: measurement display showing [\"balance → mass\",\"other tools measure other quantities\"]"
-    },
-    "answers": [
-      {
-        "text": "a colour chart",
-        "is_correct": false
-      },
-      {
-        "text": "balance",
-        "is_correct": true
-      },
-      {
-        "text": "a drawing pencil",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The instrument must match the quantity being measured.",
-      "hint": "Match the tool's scale with the measurement needed."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-002",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the rock station, which record is a complete quantitative observation?",
-    "audio_prompt": "At the rock station, which record is a complete quantitative observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-002",
-      "alt_text": "At the rock station: measurement display showing [\"120\",\"g\",\"120 g\"]"
-    },
-    "answers": [
-      {
-        "text": "120 with no unit",
-        "is_correct": false
-      },
-      {
-        "text": "rough",
-        "is_correct": false
-      },
-      {
-        "text": "120 g",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A quantitative observation includes a number and an appropriate unit.",
-      "hint": "Check for both the value and its unit."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-003",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the rock station, why should the unit be recorded?",
-    "audio_prompt": "At the rock station, why should the unit be recorded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-003",
-      "alt_text": "At the rock station: measurement display showing [\"value\",120,\"unit\",\"g\"]"
-    },
-    "answers": [
-      {
-        "text": "It tells what the number means and allows comparison",
-        "is_correct": true
-      },
-      {
-        "text": "It makes every result larger",
-        "is_correct": false
-      },
-      {
-        "text": "It changes an observation into an opinion",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A number without its unit can be unclear or misleading.",
-      "hint": "Ask whether another person could interpret the value."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-004",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the rock station, which statement is a qualitative observation?",
-    "audio_prompt": "At the rock station, which statement is a qualitative observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-004",
-      "alt_text": "At the rock station: measurement display showing [\"qualitative: rough\",\"quantitative: 120 g\"]"
-    },
-    "answers": [
-      {
-        "text": "The measurement is 120 g",
-        "is_correct": false
-      },
-      {
-        "text": "The sample looks rough",
-        "is_correct": true
-      },
-      {
-        "text": "The result equals 120",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Qualitative observations describe qualities without a numerical measure.",
-      "hint": "Choose the description rather than the number."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-005",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the rock station, how should a student read the balance?",
-    "audio_prompt": "At the rock station, how should a student read the balance?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-005",
-      "alt_text": "At the rock station: measurement display showing [\"balance\",\"reading: 120 g\"]"
-    },
-    "answers": [
-      {
-        "text": "Look from far to one side",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the nearest favourite number",
-        "is_correct": false
-      },
-      {
-        "text": "Look straight at the scale and use the marked intervals",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Reading a scale at eye level reduces viewing error.",
-      "hint": "Find the marked value from directly in front."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-006",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the rock station, a result is between two labelled marks. What should the student do?",
-    "audio_prompt": "At the rock station, a result is between two labelled marks. What should the student do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-006",
-      "alt_text": "At the rock station: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
-    },
-    "answers": [
-      {
-        "text": "Use the smaller scale intervals to find the value",
-        "is_correct": true
-      },
-      {
-        "text": "Ignore the scale and guess",
-        "is_correct": false
-      },
-      {
-        "text": "Record both labels as the answer",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Scale intervals show the value between labelled marks.",
-      "hint": "Count equal spaces and work out what each represents."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-007",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the rock station, why should students follow the same measurement procedure each time?",
-    "audio_prompt": "At the rock station, why should students follow the same measurement procedure each time?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-007",
-      "alt_text": "At the rock station: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
-    },
-    "answers": [
-      {
-        "text": "So every result becomes identical",
-        "is_correct": false
-      },
-      {
-        "text": "So results can be compared fairly",
-        "is_correct": true
-      },
-      {
-        "text": "So units are no longer needed",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A consistent procedure reduces avoidable differences in measurement.",
-      "hint": "Keep tool, position and method consistent."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-008",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "At the rock station, which digital tool could appropriately record repeated mass results?",
-    "audio_prompt": "At the rock station, which digital tool could appropriately record repeated mass results?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-008",
-      "alt_text": "At the rock station: measurement display showing [[\"trial\",\"mass\"],[\"1\",\"120 g\"],[\"2\",\"121 g\"]]"
-    },
-    "answers": [
-      {
-        "text": "An unrelated game",
-        "is_correct": false
-      },
-      {
-        "text": "A blank picture with no labels",
-        "is_correct": false
-      },
-      {
-        "text": "A data table with labelled units",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Digital tables can organise repeated measurements clearly.",
-      "hint": "Choose a tool that stores values and units."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-009",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the cooling test, which tool should measure time?",
-    "audio_prompt": "During the cooling test, which tool should measure time?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-009",
-      "alt_text": "During the cooling test: measurement display showing [\"timer → time\",\"other tools measure other quantities\"]"
-    },
-    "answers": [
-      {
-        "text": "timer",
-        "is_correct": true
-      },
-      {
-        "text": "a colour chart",
-        "is_correct": false
-      },
-      {
-        "text": "a drawing pencil",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The instrument must match the quantity being measured.",
-      "hint": "Match the tool's scale with the measurement needed."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-010",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the cooling test, which record is a complete quantitative observation?",
-    "audio_prompt": "During the cooling test, which record is a complete quantitative observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-010",
-      "alt_text": "During the cooling test: measurement display showing [\"9\",\"min\",\"9 min\"]"
-    },
-    "answers": [
-      {
-        "text": "9 with no unit",
-        "is_correct": false
-      },
-      {
-        "text": "9 min",
-        "is_correct": true
-      },
-      {
-        "text": "cloudy",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A quantitative observation includes a number and an appropriate unit.",
-      "hint": "Check for both the value and its unit."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-011",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the cooling test, why should the unit be recorded?",
-    "audio_prompt": "During the cooling test, why should the unit be recorded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-011",
-      "alt_text": "During the cooling test: measurement display showing [\"value\",9,\"unit\",\"min\"]"
-    },
-    "answers": [
-      {
-        "text": "It makes every result larger",
-        "is_correct": false
-      },
-      {
-        "text": "It changes an observation into an opinion",
-        "is_correct": false
-      },
-      {
-        "text": "It tells what the number means and allows comparison",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A number without its unit can be unclear or misleading.",
-      "hint": "Ask whether another person could interpret the value."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-012",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the cooling test, which statement is a qualitative observation?",
-    "audio_prompt": "During the cooling test, which statement is a qualitative observation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-012",
-      "alt_text": "During the cooling test: measurement display showing [\"qualitative: cloudy\",\"quantitative: 9 min\"]"
-    },
-    "answers": [
-      {
-        "text": "The sample looks cloudy",
-        "is_correct": true
-      },
-      {
-        "text": "The measurement is 9 min",
-        "is_correct": false
-      },
-      {
-        "text": "The result equals 9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Qualitative observations describe qualities without a numerical measure.",
-      "hint": "Choose the description rather than the number."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-013",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the cooling test, how should a student read the timer?",
-    "audio_prompt": "During the cooling test, how should a student read the timer?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-013",
-      "alt_text": "During the cooling test: measurement display showing [\"timer\",\"reading: 9 min\"]"
-    },
-    "answers": [
-      {
-        "text": "Look from far to one side",
-        "is_correct": false
-      },
-      {
-        "text": "Look straight at the scale and use the marked intervals",
-        "is_correct": true
-      },
-      {
-        "text": "Choose the nearest favourite number",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Reading a scale at eye level reduces viewing error.",
-      "hint": "Find the marked value from directly in front."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-014",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the cooling test, a result is between two labelled marks. What should the student do?",
-    "audio_prompt": "During the cooling test, a result is between two labelled marks. What should the student do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-014",
-      "alt_text": "During the cooling test: measurement display showing [\"labelled marks\",\"equal intervals\",\"reading\"]"
-    },
-    "answers": [
-      {
-        "text": "Ignore the scale and guess",
-        "is_correct": false
-      },
-      {
-        "text": "Record both labels as the answer",
-        "is_correct": false
-      },
-      {
-        "text": "Use the smaller scale intervals to find the value",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Scale intervals show the value between labelled marks.",
-      "hint": "Count equal spaces and work out what each represents."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-015",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the cooling test, why should students follow the same measurement procedure each time?",
-    "audio_prompt": "During the cooling test, why should students follow the same measurement procedure each time?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-015",
-      "alt_text": "During the cooling test: measurement display showing [\"same tool\",\"same method\",\"comparable records\"]"
-    },
-    "answers": [
-      {
-        "text": "So results can be compared fairly",
-        "is_correct": true
-      },
-      {
-        "text": "So every result becomes identical",
-        "is_correct": false
-      },
-      {
-        "text": "So units are no longer needed",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A consistent procedure reduces avoidable differences in measurement.",
-      "hint": "Keep tool, position and method consistent."
-    }
-  },
-  {
-    "id": "AC9S3I03-T-016",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I03",
-    "bank": "test",
-    "skill": "Observing and Measuring Accurately",
-    "question": "During the cooling test, which digital tool could appropriately record repeated time results?",
-    "audio_prompt": "During the cooling test, which digital tool could appropriately record repeated time results?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i03.svg#ac9s3i03-t-016",
-      "alt_text": "During the cooling test: measurement display showing [[\"trial\",\"time\"],[\"1\",\"9 min\"],[\"2\",\"10 min\"]]"
-    },
-    "answers": [
-      {
-        "text": "An unrelated game",
-        "is_correct": false
-      },
-      {
-        "text": "A data table with labelled units",
-        "is_correct": true
-      },
-      {
-        "text": "A blank picture with no labels",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Digital tables can organise repeated measurements clearly.",
-      "hint": "Choose a tool that stores values and units."
-    }
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]
