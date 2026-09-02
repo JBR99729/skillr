@@ -1,92 +1,44 @@
 [
   {
-    "id": "ac9e5le05-p-001",
+    "id": "AC9E5LE05-P-001",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "experimenting_with_literary_structure",
     "question": "A writer is structuring a story about missing trophy. Which revision creates a purposeful, coherent sequence?",
     "audio_prompt": "A writer is structuring a story about missing trophy. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-001",
-      "alt_text": "A sequence diagram for the missing trophy story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
     "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
       {
         "text": "begin with the empty display case; then reveal yesterday's careless handover; flashback signal: The afternoon before.",
         "is_correct": true
       },
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses begin with the empty display case, then then reveal yesterday's careless handover, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5le05-p-002",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about storm rescue. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about storm rescue. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-002",
-      "alt_text": "A sequence diagram for the storm rescue story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.",
-        "is_correct": true
-      },
-      {
         "text": "Keep every event in one paragraph so the structural changes are hidden.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The structure is purposeful because it uses open at the helicopter arrival, then return to the first warning signs, with clear reader guidance.",
+      "summary": "“begin with the empty display case; then reveal yesterday's careless handover; flashback signal: The afternoon before.” fits the meaning and the language clue in this example. The structure is purposeful because it uses begin with the empty display case, then then reveal yesterday's careless handover, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    }
   },
   {
-    "id": "ac9e5le05-p-003",
+    "id": "AC9E5LE05-P-002",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about friendship argument. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about friendship argument. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-003",
-      "alt_text": "A sequence diagram for the friendship argument story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
+    "question": "Read carefully: A writer is structuring a story about lost key. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Read carefully: A writer is structuring a story about lost key. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
@@ -94,477 +46,33 @@
       },
       {
         "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "alternate each friend's account; show one misunderstood message; label sections with each name.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses alternate each friend's account, then show one misunderstood message, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5le05-p-004",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about family mystery. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about family mystery. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-004",
-      "alt_text": "A sequence diagram for the family mystery story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "frame the story with an unopened letter; tell the grandparent's memory inside; return to the letter at the end.",
-        "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses frame the story with an unopened letter, then tell the grandparent's memory inside, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5le05-p-005",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about race preparation. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about race preparation. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-005",
-      "alt_text": "A sequence diagram for the race preparation story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "present events chronologically; show training causing improvement; use clear weekly transitions.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses present events chronologically, then show training causing improvement, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5le05-p-006",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about forest warning. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about forest warning. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-006",
-      "alt_text": "A sequence diagram for the forest warning story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "begin with the climax at a fallen bridge; reveal ignored clues gradually; repeat the snapped-twig motif.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses begin with the climax at a fallen bridge, then reveal ignored clues gradually, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5le05-p-007",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about school concert. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about school concert. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-007",
-      "alt_text": "A sequence diagram for the school concert story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "alternate backstage and audience scenes; create dramatic irony about a missing prop; use location headings.",
-        "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses alternate backstage and audience scenes, then create dramatic irony about a missing prop, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5le05-p-008",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about lost key. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about lost key. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-008",
-      "alt_text": "A sequence diagram for the lost key story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
         "is_correct": false
       },
       {
         "text": "end with two supported possibilities; plant evidence for both; resolve the search but not ownership.",
         "is_correct": true
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses end with two supported possibilities, then plant evidence for both, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "ac9e5le05-p-009",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about new town. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about new town. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-009",
-      "alt_text": "A sequence diagram for the new town story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.",
-        "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The structure is purposeful because it uses open with a confident present-day narrator, then flash back to an anxious first day, with clear reader guidance.",
+      "summary": "“end with two supported possibilities; plant evidence for both; resolve the search but not ownership.” fits the meaning and the language clue in this example. The structure is purposeful because it uses end with two supported possibilities, then plant evidence for both, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5le05-p-010",
+    "id": "AC9E5LE05-P-003",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about robot contest. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about robot contest. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-010",
-      "alt_text": "A sequence diagram for the robot contest story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
+    "question": "Which answer makes the most sense here? A writer is structuring a story about family recipe. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which answer makes the most sense here? A writer is structuring a story about family recipe. Which revision creates a purposeful, coherent sequence?",
     "answers": [
-      {
-        "text": "parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.",
-        "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses parallel two teams' preparation, then bring plots together at judging, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-011",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about camping mistake. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about camping mistake. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-011",
-      "alt_text": "A sequence diagram for the camping mistake story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "tell the event through diary entries; let later entries revise early assumptions; date every section.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses tell the event through diary entries, then let later entries revise early assumptions, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-012",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about ocean journey. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about ocean journey. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-012",
-      "alt_text": "A sequence diagram for the ocean journey story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "shift from passenger to lighthouse keeper; show each missing the other's knowledge; signal voice through distinct diction.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses shift from passenger to lighthouse keeper, then show each missing the other's knowledge, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-013",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about secret garden. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about secret garden. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-013",
-      "alt_text": "A sequence diagram for the secret garden story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "start at discovery; move backwards through three clues; use precise time transitions.",
-        "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses start at discovery, then move backwards through three clues, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-014",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about grand final. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about grand final. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-014",
-      "alt_text": "A sequence diagram for the grand final story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "slow one decisive second; insert brief memories between actions; return clearly to the ongoing kick.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses slow one decisive second, then insert brief memories between actions, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-015",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about family recipe. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about family recipe. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-015",
-      "alt_text": "A sequence diagram for the family recipe story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
       {
         "text": "frame past scenes around present cooking; connect generations through repeated words; return to the kitchen.",
         "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses frame past scenes around present cooking, then connect generations through repeated words, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-016",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about power cut. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about power cut. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-016",
-      "alt_text": "A sequence diagram for the power cut story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "use a circular structure; end with the same candle image changed; make the change in meaning clear.",
-        "is_correct": true
       },
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
@@ -577,212 +85,86 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The structure is purposeful because it uses use a circular structure, then end with the same candle image changed, with clear reader guidance.",
+      "summary": "“frame past scenes around present cooking; connect generations through repeated words; return to the kitchen.” fits the meaning and the language clue in this example. The structure is purposeful because it uses frame past scenes around present cooking, then connect generations through repeated words, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5le05-p-017",
+    "id": "AC9E5LE05-P-004",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about animal rescue. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about animal rescue. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-017",
-      "alt_text": "A sequence diagram for the animal rescue story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
+    "question": "Look at the wording and meaning. A writer is structuring a story about flood memory. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Look at the wording and meaning. A writer is structuring a story about flood memory. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
         "is_correct": false
       },
-      {
-        "text": "alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses alternate child and ranger viewpoints, then create different priorities, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-018",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about museum night. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about museum night. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-018",
-      "alt_text": "A sequence diagram for the museum night story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "begin after an unexplained alarm; reconstruct events from objects; order clues logically.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses begin after an unexplained alarm, then reconstruct events from objects, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-019",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about mountain choice. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about mountain choice. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-019",
-      "alt_text": "A sequence diagram for the mountain choice story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "use two parallel possible paths; show consequences of each; mark alternatives with headings.",
-        "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses use two parallel possible paths, then show consequences of each, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-020",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about returned parcel. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about returned parcel. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-020",
-      "alt_text": "A sequence diagram for the returned parcel story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "delay the sender's identity; place fair clues in each section; reveal only after evidence accumulates.",
-        "is_correct": true
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses delay the sender's identity, then place fair clues in each section, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-021",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about play rehearsal. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about play rehearsal. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-021",
-      "alt_text": "A sequence diagram for the play rehearsal story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "use scene-like sections; jump between performance and preparation; identify place and time.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses use scene-like sections, then jump between performance and preparation, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9e5le05-p-022",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "practice",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about flood memory. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about flood memory. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-022",
-      "alt_text": "A sequence diagram for the flood memory story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
       {
         "text": "adult narrator interrupts childhood scenes; correct earlier misunderstanding; control past and present tense.",
         "is_correct": true
       },
       {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“adult narrator interrupts childhood scenes; correct earlier misunderstanding; control past and present tense.” fits the meaning and the language clue in this example. The structure is purposeful because it uses adult narrator interrupts childhood scenes, then correct earlier misunderstanding, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-005",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Choose the option that fits the situation best. A writer is structuring a story about race preparation. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Choose the option that fits the situation best. A writer is structuring a story about race preparation. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "present events chronologically; show training causing improvement; use clear weekly transitions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“present events chronologically; show training causing improvement; use clear weekly transitions.” fits the meaning and the language clue in this example. The structure is purposeful because it uses present events chronologically, then show training causing improvement, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-006",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Which choice is accurate in this example? A writer is structuring a story about ocean journey. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which choice is accurate in this example? A writer is structuring a story about ocean journey. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "shift from passenger to lighthouse keeper; show each missing the other's knowledge; signal voice through distinct diction.",
+        "is_correct": true
+      },
+      {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
         "is_correct": false
       },
@@ -793,33 +175,27 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The structure is purposeful because it uses adult narrator interrupts childhood scenes, then correct earlier misunderstanding, with clear reader guidance.",
+      "summary": "“shift from passenger to lighthouse keeper; show each missing the other's knowledge; signal voice through distinct diction.” fits the meaning and the language clue in this example. The structure is purposeful because it uses shift from passenger to lighthouse keeper, then show each missing the other's knowledge, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5le05-p-023",
+    "id": "AC9E5LE05-P-007",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about neighbour dispute. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about neighbour dispute. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-023",
-      "alt_text": "A sequence diagram for the neighbour dispute story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
+    "question": "Focus on the key clue. A writer is structuring a story about mountain choice. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Focus on the key clue. A writer is structuring a story about mountain choice. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
         "is_correct": false
       },
       {
-        "text": "present three witness accounts; allow contradictions to remain visible; name every speaker.",
+        "text": "use two parallel possible paths; show consequences of each; mark alternatives with headings.",
         "is_correct": true
       },
       {
@@ -829,26 +205,20 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The structure is purposeful because it uses present three witness accounts, then allow contradictions to remain visible, with clear reader guidance.",
+      "summary": "“use two parallel possible paths; show consequences of each; mark alternatives with headings.” fits the meaning and the language clue in this example. The structure is purposeful because it uses use two parallel possible paths, then show consequences of each, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5le05-p-024",
+    "id": "AC9E5LE05-P-008",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
+    "stage": "recognise",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about train departure. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about train departure. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-p-024",
-      "alt_text": "A sequence diagram for the train departure story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
+    "question": "What works best in this situation? A writer is structuring a story about storm rescue. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "What works best in this situation? A writer is structuring a story about storm rescue. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
@@ -859,35 +229,29 @@
         "is_correct": false
       },
       {
-        "text": "count backwards to departure; compress paragraphs near zero; keep cause and sequence clear.",
+        "text": "open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The structure is purposeful because it uses count backwards to departure, then compress paragraphs near zero, with clear reader guidance.",
+      "summary": "“open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.” fits the meaning and the language clue in this example. The structure is purposeful because it uses open at the helicopter arrival, then return to the first warning signs, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    }
   },
   {
-    "id": "ac9e5le05-t-001",
+    "id": "AC9E5LE05-P-009",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
-    "bank": "test",
+    "bank": "practice",
+    "stage": "recognise",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about hidden room. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about hidden room. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-001",
-      "alt_text": "A sequence diagram for the hidden room story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
+    "question": "Which option matches what is happening? A writer is structuring a story about new town. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which option matches what is happening? A writer is structuring a story about new town. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
-        "text": "open inside the room; flash back to finding the map; signal earlier time immediately.",
+        "text": "open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.",
         "is_correct": true
       },
       {
@@ -900,98 +264,1042 @@
       }
     ],
     "correct_index": 0,
+    "explanation": {
+      "summary": "“open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.” fits the meaning and the language clue in this example. The structure is purposeful because it uses open with a confident present-day narrator, then flash back to an anxious first day, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-010",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Use the details in the example. A writer is structuring a story about power cut. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Use the details in the example. A writer is structuring a story about power cut. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "use a circular structure; end with the same candle image changed; make the change in meaning clear.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“use a circular structure; end with the same candle image changed; make the change in meaning clear.” fits the meaning and the language clue in this example. The structure is purposeful because it uses use a circular structure, then end with the same candle image changed, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-011",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Why is “open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.” the strongest answer to this question: A writer is structuring a story about storm rescue. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Why is “open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.” the strongest answer to this question: A writer is structuring a story about storm rescue. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses open at the helicopter arrival, then return to the first warning signs, with clear reader guidance.",
+      "hint": "Find the exact clue that makes “open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-012",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "experimenting_with_literary_structure",
+    "question": "What makes “open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.” work in this example? A writer is structuring a story about new town. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "What makes “open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.” work in this example? A writer is structuring a story about new town. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses open with a confident present-day narrator, then flash back to an anxious first day, with clear reader guidance.",
+      "hint": "Find the exact clue that makes “open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-013",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Which reason best explains why “use a circular structure; end with the same candle image changed; make the change in meaning clear.” fits? A writer is structuring a story about power cut. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which reason best explains why “use a circular structure; end with the same candle image changed; make the change in meaning clear.” fits? A writer is structuring a story about power cut. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses use a circular structure, then end with the same candle image changed, with clear reader guidance.",
+      "hint": "Find the exact clue that makes “use a circular structure; end with the same candle image changed; make the change in meaning clear.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-014",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "experimenting_with_literary_structure",
+    "question": "How does “present three witness accounts; allow contradictions to remain visible; name every speaker.” match the meaning of this example? A writer is structuring a story about neighbour dispute. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "How does “present three witness accounts; allow contradictions to remain visible; name every speaker.” match the meaning of this example? A writer is structuring a story about neighbour dispute. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses present three witness accounts, then allow contradictions to remain visible, with clear reader guidance.",
+      "hint": "Find the exact clue that makes “present three witness accounts; allow contradictions to remain visible; name every speaker.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-015",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Why does “begin with the climax at a fallen bridge; reveal ignored clues gradually; repeat the snapped-twig motif.” suit this situation better than the other choices? A writer is structuring a story about forest warning. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Why does “begin with the climax at a fallen bridge; reveal ignored clues gradually; repeat the snapped-twig motif.” suit this situation better than the other choices? A writer is structuring a story about forest warning. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses begin with the climax at a fallen bridge, then reveal ignored clues gradually, with clear reader guidance.",
+      "hint": "Find the exact clue that makes “begin with the climax at a fallen bridge; reveal ignored clues gradually; repeat the snapped-twig motif.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-016",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "experimenting_with_literary_structure",
+    "question": "What clue in the example supports “start at discovery; move backwards through three clues; use precise time transitions.”? A writer is structuring a story about secret garden. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "What clue in the example supports “start at discovery; move backwards through three clues; use precise time transitions.”? A writer is structuring a story about secret garden. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses start at discovery, then move backwards through three clues, with clear reader guidance.",
+      "hint": "Find the exact clue that makes “start at discovery; move backwards through three clues; use precise time transitions.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-017",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Which explanation shows why “delay the sender's identity; place fair clues in each section; reveal only after evidence accumulates.” is correct here? A writer is structuring a story about returned parcel. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which explanation shows why “delay the sender's identity; place fair clues in each section; reveal only after evidence accumulates.” is correct here? A writer is structuring a story about returned parcel. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses delay the sender's identity, then place fair clues in each section, with clear reader guidance.",
+      "hint": "Find the exact clue that makes “delay the sender's identity; place fair clues in each section; reveal only after evidence accumulates.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-018",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Why would “alternate each friend's account; show one misunderstood message; label sections with each name.” make sense to a careful reader? A writer is structuring a story about friendship argument. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Why would “alternate each friend's account; show one misunderstood message; label sections with each name.” make sense to a careful reader? A writer is structuring a story about friendship argument. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses alternate each friend's account, then show one misunderstood message, with clear reader guidance.",
+      "hint": "Find the exact clue that makes “alternate each friend's account; show one misunderstood message; label sections with each name.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-019",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "experimenting_with_literary_structure",
+    "question": "What is the best reason for choosing “parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.”? A writer is structuring a story about robot contest. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "What is the best reason for choosing “parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.”? A writer is structuring a story about robot contest. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses parallel two teams' preparation, then bring plots together at judging, with clear reader guidance.",
+      "hint": "Find the exact clue that makes “parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-020",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Which explanation connects “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.” to the key clue? A writer is structuring a story about animal rescue. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which explanation connects “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.” to the key clue? A writer is structuring a story about animal rescue. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It is correct because familiar words are always safest.",
+        "is_correct": false
+      },
+      {
+        "text": "It matches the key clue and meaning in the example.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses alternate child and ranger viewpoints, then create different priorities, with clear reader guidance.",
+      "hint": "Find the exact clue that makes “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.” fit."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-021",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "experimenting_with_literary_structure",
+    "question": "“Put scenes in random order and give readers no time or viewpoint signals.” might seem possible at first. What should you notice before answering this question: A writer is structuring a story about friendship argument. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "“Put scenes in random order and give readers no time or viewpoint signals.” might seem possible at first. What should you notice before answering this question: A writer is structuring a story about friendship argument. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Check the whole example: “alternate each friend's account; show one misunderstood message; label sections with each name.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “alternate each friend's account; show one misunderstood message; label sections with each name.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-022",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Why is “Put scenes in random order and give readers no time or viewpoint signals.” not the best choice here? A writer is structuring a story about robot contest. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Why is “Put scenes in random order and give readers no time or viewpoint signals.” not the best choice here? A writer is structuring a story about robot contest. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-023",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Compare “Put scenes in random order and give readers no time or viewpoint signals.” with “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.”. What important difference matters in this example? A writer is structuring a story about animal rescue. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Compare “Put scenes in random order and give readers no time or viewpoint signals.” with “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.”. What important difference matters in this example? A writer is structuring a story about animal rescue. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-024",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Which clue rules out “Put scenes in random order and give readers no time or viewpoint signals.” in this situation? A writer is structuring a story about train departure. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which clue rules out “Put scenes in random order and give readers no time or viewpoint signals.” in this situation? A writer is structuring a story about train departure. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Check the whole example: “count backwards to departure; compress paragraphs near zero; keep cause and sequence clear.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “count backwards to departure; compress paragraphs near zero; keep cause and sequence clear.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-025",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "experimenting_with_literary_structure",
+    "question": "A quick reader might choose “Put scenes in random order and give readers no time or viewpoint signals.”. What would a closer reading show? A writer is structuring a story about school concert. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "A quick reader might choose “Put scenes in random order and give readers no time or viewpoint signals.”. What would a closer reading show? A writer is structuring a story about school concert. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “alternate backstage and audience scenes; create dramatic irony about a missing prop; use location headings.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “alternate backstage and audience scenes; create dramatic irony about a missing prop; use location headings.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-026",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "experimenting_with_literary_structure",
+    "question": "What makes “slow one decisive second; insert brief memories between actions; return clearly to the ongoing kick.” more precise than “Put scenes in random order and give readers no time or viewpoint signals.” here? A writer is structuring a story about grand final. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "What makes “slow one decisive second; insert brief memories between actions; return clearly to the ongoing kick.” more precise than “Put scenes in random order and give readers no time or viewpoint signals.” here? A writer is structuring a story about grand final. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “slow one decisive second; insert brief memories between actions; return clearly to the ongoing kick.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “slow one decisive second; insert brief memories between actions; return clearly to the ongoing kick.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-027",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Which detail helps you reject “Put scenes in random order and give readers no time or viewpoint signals.”? A writer is structuring a story about play rehearsal. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which detail helps you reject “Put scenes in random order and give readers no time or viewpoint signals.”? A writer is structuring a story about play rehearsal. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Check the whole example: “use scene-like sections; jump between performance and preparation; identify place and time.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “use scene-like sections; jump between performance and preparation; identify place and time.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-028",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "experimenting_with_literary_structure",
+    "question": "What is the problem with choosing “Put scenes in random order and give readers no time or viewpoint signals.” for this example? A writer is structuring a story about family mystery. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "What is the problem with choosing “Put scenes in random order and give readers no time or viewpoint signals.” for this example? A writer is structuring a story about family mystery. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “frame the story with an unopened letter; tell the grandparent's memory inside; return to the letter at the end.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “frame the story with an unopened letter; tell the grandparent's memory inside; return to the letter at the end.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-029",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Which comparison best separates “tell the event through diary entries; let later entries revise early assumptions; date every section.” from “Put scenes in random order and give readers no time or viewpoint signals.”? A writer is structuring a story about camping mistake. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which comparison best separates “tell the event through diary entries; let later entries revise early assumptions; date every section.” from “Put scenes in random order and give readers no time or viewpoint signals.”? A writer is structuring a story about camping mistake. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      },
+      {
+        "text": "Check the whole example: “tell the event through diary entries; let later entries revise early assumptions; date every section.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “tell the event through diary entries; let later entries revise early assumptions; date every section.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-030",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "experimenting_with_literary_structure",
+    "question": "What should you check so you do not confuse “Put scenes in random order and give readers no time or viewpoint signals.” with the correct answer? A writer is structuring a story about museum night. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "What should you check so you do not confuse “Put scenes in random order and give readers no time or viewpoint signals.” with the correct answer? A writer is structuring a story about museum night. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Check the whole example: “begin after an unexplained alarm; reconstruct events from objects; order clues logically.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
+      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “begin after an unexplained alarm; reconstruct events from objects; order clues logically.” succeed."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-031",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Apply what you know to this example: A writer is structuring a story about family mystery. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Apply what you know to this example: A writer is structuring a story about family mystery. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "frame the story with an unopened letter; tell the grandparent's memory inside; return to the letter at the end.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“frame the story with an unopened letter; tell the grandparent's memory inside; return to the letter at the end.” fits the meaning and the language clue in this example. The structure is purposeful because it uses frame the story with an unopened letter, then tell the grandparent's memory inside, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-032",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Use the skill independently. A writer is structuring a story about camping mistake. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Use the skill independently. A writer is structuring a story about camping mistake. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "tell the event through diary entries; let later entries revise early assumptions; date every section.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“tell the event through diary entries; let later entries revise early assumptions; date every section.” fits the meaning and the language clue in this example. The structure is purposeful because it uses tell the event through diary entries, then let later entries revise early assumptions, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-033",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Work out the answer from the details given. A writer is structuring a story about museum night. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Work out the answer from the details given. A writer is structuring a story about museum night. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "begin after an unexplained alarm; reconstruct events from objects; order clues logically.",
+        "is_correct": true
+      },
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“begin after an unexplained alarm; reconstruct events from objects; order clues logically.” fits the meaning and the language clue in this example. The structure is purposeful because it uses begin after an unexplained alarm, then reconstruct events from objects, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-034",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Now use the idea in context. A writer is structuring a story about missing trophy. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Now use the idea in context. A writer is structuring a story about missing trophy. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "begin with the empty display case; then reveal yesterday's careless handover; flashback signal: The afternoon before.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“begin with the empty display case; then reveal yesterday's careless handover; flashback signal: The afternoon before.” fits the meaning and the language clue in this example. The structure is purposeful because it uses begin with the empty display case, then then reveal yesterday's careless handover, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-035",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Choose carefully using meaning, not just a familiar word. A writer is structuring a story about lost key. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Choose carefully using meaning, not just a familiar word. A writer is structuring a story about lost key. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "end with two supported possibilities; plant evidence for both; resolve the search but not ownership.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“end with two supported possibilities; plant evidence for both; resolve the search but not ownership.” fits the meaning and the language clue in this example. The structure is purposeful because it uses end with two supported possibilities, then plant evidence for both, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-036",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Which answer still works when you consider the whole example? A writer is structuring a story about family recipe. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which answer still works when you consider the whole example? A writer is structuring a story about family recipe. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "frame past scenes around present cooking; connect generations through repeated words; return to the kitchen.",
+        "is_correct": true
+      },
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“frame past scenes around present cooking; connect generations through repeated words; return to the kitchen.” fits the meaning and the language clue in this example. The structure is purposeful because it uses frame past scenes around present cooking, then connect generations through repeated words, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-037",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Use all the clues in this situation. A writer is structuring a story about flood memory. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Use all the clues in this situation. A writer is structuring a story about flood memory. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "adult narrator interrupts childhood scenes; correct earlier misunderstanding; control past and present tense.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“adult narrator interrupts childhood scenes; correct earlier misunderstanding; control past and present tense.” fits the meaning and the language clue in this example. The structure is purposeful because it uses adult narrator interrupts childhood scenes, then correct earlier misunderstanding, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-038",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Decide which option is most precise. A writer is structuring a story about race preparation. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Decide which option is most precise. A writer is structuring a story about race preparation. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "present events chronologically; show training causing improvement; use clear weekly transitions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“present events chronologically; show training causing improvement; use clear weekly transitions.” fits the meaning and the language clue in this example. The structure is purposeful because it uses present events chronologically, then show training causing improvement, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-039",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Which choice best shows your understanding here? A writer is structuring a story about ocean journey. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which choice best shows your understanding here? A writer is structuring a story about ocean journey. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "shift from passenger to lighthouse keeper; show each missing the other's knowledge; signal voice through distinct diction.",
+        "is_correct": true
+      },
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“shift from passenger to lighthouse keeper; show each missing the other's knowledge; signal voice through distinct diction.” fits the meaning and the language clue in this example. The structure is purposeful because it uses shift from passenger to lighthouse keeper, then show each missing the other's knowledge, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-040",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Read the full example before deciding. A writer is structuring a story about mountain choice. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Read the full example before deciding. A writer is structuring a story about mountain choice. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "use two parallel possible paths; show consequences of each; mark alternatives with headings.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“use two parallel possible paths; show consequences of each; mark alternatives with headings.” fits the meaning and the language clue in this example. The structure is purposeful because it uses use two parallel possible paths, then show consequences of each, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-T-001",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "experimenting_with_literary_structure",
+    "question": "A writer is structuring a story about hidden room. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "A writer is structuring a story about hidden room. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "open inside the room; flash back to finding the map; signal earlier time immediately.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
     "explanation": {
       "summary": "The structure is purposeful because it uses open inside the room, then flash back to finding the map, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-002",
+    "id": "AC9E5LE05-T-002",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about two inventors. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about two inventors. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-002",
-      "alt_text": "A sequence diagram for the two inventors story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
+    "question": "Read this new example closely. A writer is structuring a story about two inventors. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Read this new example closely. A writer is structuring a story about two inventors. Which revision creates a purposeful, coherent sequence?",
     "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
       {
         "text": "alternate notebooks; let readers combine partial clues; date and name entries.",
         "is_correct": true
+      },
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
       },
       {
         "text": "Keep every event in one paragraph so the structural changes are hidden.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "The structure is purposeful because it uses alternate notebooks, then let readers combine partial clues, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-003",
+    "id": "AC9E5LE05-T-003",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about farewell. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about farewell. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-003",
-      "alt_text": "A sequence diagram for the farewell story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
+    "question": "Which answer is most accurate here? A writer is structuring a story about farewell. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which answer is most accurate here? A writer is structuring a story about farewell. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
         "text": "frame memories around packing; return after each object; use repeated object transitions.",
         "is_correct": true
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
       "summary": "The structure is purposeful because it uses frame memories around packing, then return after each object, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-004",
+    "id": "AC9E5LE05-T-004",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about mystery caller. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about mystery caller. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-004",
-      "alt_text": "A sequence diagram for the mystery caller story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
+    "question": "Use the details in this new situation. A writer is structuring a story about mystery caller. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Use the details in this new situation. A writer is structuring a story about mystery caller. Which revision creates a purposeful, coherent sequence?",
     "answers": [
-      {
-        "text": "withhold identity until the end; plant voice and timing clues; avoid unfair missing information.",
-        "is_correct": true
-      },
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
         "is_correct": false
@@ -999,101 +1307,89 @@
       {
         "text": "Keep every event in one paragraph so the structural changes are hidden.",
         "is_correct": false
+      },
+      {
+        "text": "withhold identity until the end; plant voice and timing clues; avoid unfair missing information.",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "The structure is purposeful because it uses withhold identity until the end, then plant voice and timing clues, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-005",
+    "id": "AC9E5LE05-T-005",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about river race. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about river race. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-005",
-      "alt_text": "A sequence diagram for the river race story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
+    "question": "Choose the answer supported by the whole example. A writer is structuring a story about river race. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Choose the answer supported by the whole example. A writer is structuring a story about river race. Which revision creates a purposeful, coherent sequence?",
     "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
       {
         "text": "run parallel plots upstream and downstream; converge at a broken jetty; use location cues.",
         "is_correct": true
+      },
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
       },
       {
         "text": "Keep every event in one paragraph so the structural changes are hidden.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "The structure is purposeful because it uses run parallel plots upstream and downstream, then converge at a broken jetty, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-006",
+    "id": "AC9E5LE05-T-006",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about apology. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about apology. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-006",
-      "alt_text": "A sequence diagram for the apology story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
+    "question": "Which option best fits the meaning? A writer is structuring a story about apology. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which option best fits the meaning? A writer is structuring a story about apology. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
         "text": "begin with the repaired object; move backward through the argument; mark each earlier step.",
         "is_correct": true
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
       "summary": "The structure is purposeful because it uses begin with the repaired object, then move backward through the argument, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-007",
+    "id": "AC9E5LE05-T-007",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about festival day. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about festival day. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-007",
-      "alt_text": "A sequence diagram for the festival day story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
+    "question": "Work this out independently. A writer is structuring a story about festival day. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Work this out independently. A writer is structuring a story about festival day. Which revision creates a purposeful, coherent sequence?",
     "answers": [
-      {
-        "text": "use chronological sections; accelerate toward performance; shorten later paragraphs.",
-        "is_correct": true
-      },
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
         "is_correct": false
@@ -1101,101 +1397,89 @@
       {
         "text": "Keep every event in one paragraph so the structural changes are hidden.",
         "is_correct": false
+      },
+      {
+        "text": "use chronological sections; accelerate toward performance; shorten later paragraphs.",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "The structure is purposeful because it uses use chronological sections, then accelerate toward performance, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-008",
+    "id": "AC9E5LE05-T-008",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "verify",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about cave echo. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about cave echo. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-008",
-      "alt_text": "A sequence diagram for the cave echo story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
+    "question": "What is the best answer in this context? A writer is structuring a story about cave echo. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "What is the best answer in this context? A writer is structuring a story about cave echo. Which revision creates a purposeful, coherent sequence?",
     "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
       {
         "text": "shift viewpoint at a section break; reveal the sound's source to readers first; make both voices distinct.",
         "is_correct": true
+      },
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
       },
       {
         "text": "Keep every event in one paragraph so the structural changes are hidden.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "The structure is purposeful because it uses shift viewpoint at a section break, then reveal the sound's source to readers first, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-009",
+    "id": "AC9E5LE05-T-009",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about old photograph. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about old photograph. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-009",
-      "alt_text": "A sequence diagram for the old photograph story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
+    "question": "Which choice is supported by the evidence given? A writer is structuring a story about old photograph. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which choice is supported by the evidence given? A writer is structuring a story about old photograph. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
         "text": "use a frame narrative; enter the pictured event; echo the photograph on return.",
         "is_correct": true
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
       "summary": "The structure is purposeful because it uses use a frame narrative, then enter the pictured event, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-010",
+    "id": "AC9E5LE05-T-010",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about difficult decision. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about difficult decision. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-010",
-      "alt_text": "A sequence diagram for the difficult decision story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
+    "question": "Read for meaning before you choose. A writer is structuring a story about difficult decision. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Read for meaning before you choose. A writer is structuring a story about difficult decision. Which revision creates a purposeful, coherent sequence?",
     "answers": [
-      {
-        "text": "offer two imagined outcomes; return to the real choice; label imagined sequences clearly.",
-        "is_correct": true
-      },
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
         "is_correct": false
@@ -1203,137 +1487,65 @@
       {
         "text": "Keep every event in one paragraph so the structural changes are hidden.",
         "is_correct": false
+      },
+      {
+        "text": "offer two imagined outcomes; return to the real choice; label imagined sequences clearly.",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
       "summary": "The structure is purposeful because it uses offer two imagined outcomes, then return to the real choice, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-011",
+    "id": "AC9E5LE05-T-011",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about missing dog. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about missing dog. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-011",
-      "alt_text": "A sequence diagram for the missing dog story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
+    "question": "Which option is the most precise? A writer is structuring a story about missing dog. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which option is the most precise? A writer is structuring a story about missing dog. Which revision creates a purposeful, coherent sequence?",
     "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
       {
         "text": "alternate searcher and dog viewpoints; create near meetings; use repeated landmarks.",
         "is_correct": true
+      },
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
       },
       {
         "text": "Keep every event in one paragraph so the structural changes are hidden.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
       "summary": "The structure is purposeful because it uses alternate searcher and dog viewpoints, then create near meetings, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-012",
+    "id": "AC9E5LE05-T-012",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about competition result. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about competition result. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-012",
-      "alt_text": "A sequence diagram for the competition result story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
+    "question": "Use every clue in the example. A writer is structuring a story about competition result. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Use every clue in the example. A writer is structuring a story about competition result. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
         "is_correct": false
       },
       {
         "text": "open with silence after announcement; delay whether it means joy or shock; reveal through character action.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses open with silence after announcement, then delay whether it means joy or shock, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
-  },
-  {
-    "id": "ac9e5le05-t-013",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "test",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about winter journey. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about winter journey. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-013",
-      "alt_text": "A sequence diagram for the winter journey story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "insert one purposeful flashback; explain the traveller's fear; use tense and time markers.",
-        "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The structure is purposeful because it uses insert one purposeful flashback, then explain the traveller's fear, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
-    }
-  },
-  {
-    "id": "ac9e5le05-t-014",
-    "curriculum_code": "AC9E5LE05",
-    "year_level": "Year 5",
-    "subject": "english",
-    "bank": "test",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about community garden. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about community garden. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-014",
-      "alt_text": "A sequence diagram for the community garden story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
-    "answers": [
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "use seasonal jumps; show gradual shared change; name each season.",
         "is_correct": true
       },
       {
@@ -1343,24 +1555,20 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The structure is purposeful because it uses use seasonal jumps, then show gradual shared change, with clear reader guidance.",
+      "summary": "The structure is purposeful because it uses open with silence after announcement, then delay whether it means joy or shock, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-015",
+    "id": "AC9E5LE05-T-013",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about final message. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about final message. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-015",
-      "alt_text": "A sequence diagram for the final message story shows the opening, structural move and cohesion signal. A three-part structure-flow guide supports the question."
-    },
+    "question": "Which answer holds up when you check the full context? A writer is structuring a story about winter journey. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which answer holds up when you check the full context? A writer is structuring a story about winter journey. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
         "text": "Put scenes in random order and give readers no time or viewpoint signals.",
@@ -1371,33 +1579,29 @@
         "is_correct": false
       },
       {
-        "text": "end openly after resolving the main danger; leave sender's future uncertain; provide evidence for likely outcomes.",
+        "text": "insert one purposeful flashback; explain the traveller's fear; use tense and time markers.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The structure is purposeful because it uses end openly after resolving the main danger, then leave sender's future uncertain, with clear reader guidance.",
+      "summary": "The structure is purposeful because it uses insert one purposeful flashback, then explain the traveller's fear, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
     }
   },
   {
-    "id": "ac9e5le05-t-016",
+    "id": "AC9E5LE05-T-014",
     "curriculum_code": "AC9E5LE05",
     "year_level": "Year 5",
     "subject": "english",
     "bank": "test",
+    "stage": "apply",
     "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about homecoming. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about homecoming. Which revision creates a purposeful, coherent sequence?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5le05.svg#ac9e5le05-t-016",
-      "alt_text": "A sequence diagram for the homecoming story shows the opening, structural move and cohesion signal. A three-part timeline guide supports the question."
-    },
+    "question": "Decide which option best matches what the text shows. A writer is structuring a story about community garden. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Decide which option best matches what the text shows. A writer is structuring a story about community garden. Which revision creates a purposeful, coherent sequence?",
     "answers": [
       {
-        "text": "circle back to an opening doorway; change who is waiting there; repeat wording with meaningful variation.",
+        "text": "use seasonal jumps; show gradual shared change; name each season.",
         "is_correct": true
       },
       {
@@ -1410,6 +1614,66 @@
       }
     ],
     "correct_index": 0,
+    "explanation": {
+      "summary": "The structure is purposeful because it uses use seasonal jumps, then show gradual shared change, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-T-015",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Which choice best demonstrates the skill in this new example? A writer is structuring a story about final message. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Which choice best demonstrates the skill in this new example? A writer is structuring a story about final message. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "end openly after resolving the main danger; leave sender's future uncertain; provide evidence for likely outcomes.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The structure is purposeful because it uses end openly after resolving the main danger, then leave sender's future uncertain, with clear reader guidance.",
+      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+    }
+  },
+  {
+    "id": "AC9E5LE05-T-016",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "experimenting_with_literary_structure",
+    "question": "Make your final choice from the evidence in the question. A writer is structuring a story about homecoming. Which revision creates a purposeful, coherent sequence?",
+    "audio_prompt": "Make your final choice from the evidence in the question. A writer is structuring a story about homecoming. Which revision creates a purposeful, coherent sequence?",
+    "answers": [
+      {
+        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "circle back to an opening doorway; change who is waiting there; repeat wording with meaningful variation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
     "explanation": {
       "summary": "The structure is purposeful because it uses circle back to an opening doorway, then change who is waiting there, with clear reader guidance.",
       "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."

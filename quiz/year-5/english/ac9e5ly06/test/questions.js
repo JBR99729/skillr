@@ -12,11 +12,11 @@ window.skillrTestQuestions = [
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "chronological stages grouped around major contributions",
       "Ideas placed in random order",
-      "One unbroken paragraph containing every detail"
+      "One unbroken paragraph containing every detail",
+      "chronological stages grouped around major contributions"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The proposed structure makes relationships clear for the audience.\nHint: Plan what each paragraph must achieve before drafting sentences.",
     "structuredExplanation": {
       "summary": "The proposed structure makes relationships clear for the audience.",
@@ -31,16 +31,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which expanded verb group adds suitable precision to a biography of a local community leader?",
-    "audioPrompt": "Which expanded verb group adds suitable precision to a biography of a local community leader?",
+    "question": "Read this new example closely. Which expanded verb group adds suitable precision to a biography of a local community leader?",
+    "audioPrompt": "Read this new example closely. Which expanded verb group adds suitable precision to a biography of a local community leader?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "did stuff",
       "continued to organise",
+      "did stuff",
       "is very thing"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The verb group expresses time, modality or manner precisely.\nHint: Choose a verb group that fits both meaning and tense.",
     "structuredExplanation": {
       "summary": "The verb group expresses time, modality or manner precisely.",
@@ -55,21 +55,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which visual would genuinely add meaning to a biography of a local community leader?",
-    "audioPrompt": "Which visual would genuinely add meaning to a biography of a local community leader?",
-    "visual": "A draft layout reserves space for a captioned timeline with source dates. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A draft layout reserves space for a captioned timeline with source dates. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-003",
-      "alt_text": "A draft layout reserves space for a captioned timeline with source dates. A three-part cards guide supports the question."
-    },
+    "question": "Which answer is most accurate here? Which visual would genuinely add meaning to a biography of a local community leader?",
+    "audioPrompt": "Which answer is most accurate here? Which visual would genuinely add meaning to a biography of a local community leader?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "an unrelated stock photograph",
-      "a decorative pattern repeating no information",
-      "a captioned timeline with source dates"
+      "a captioned timeline with source dates",
+      "a decorative pattern repeating no information"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The visual extends, organises or clarifies information the audience needs.\nHint: Ask whether the visual has a clear job beyond decoration.",
     "structuredExplanation": {
       "summary": "The visual extends, organises or clarifies information the audience needs.",
@@ -84,16 +79,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "During revision of a biography of a local community leader, what should the writer check before final proofreading?",
-    "audioPrompt": "During revision of a biography of a local community leader, what should the writer check before final proofreading?",
+    "question": "Use the details in this new situation. During revision of a biography of a local community leader, what should the writer check before final proofreading?",
+    "audioPrompt": "Use the details in this new situation. During revision of a biography of a local community leader, what should the writer check before final proofreading?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Whether the text uses chronological stages grouped around major contributions to develop its purpose and whether a captioned timeline with source dates connects to the words",
       "Whether every sentence has the same length",
-      "Whether a spell-checker has changed every flagged word"
+      "Whether a spell-checker has changed every flagged word",
+      "Whether the text uses chronological stages grouped around major contributions to develop its purpose and whether a captioned timeline with source dates connects to the words"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Revision improves meaning and organisation before surface editing.\nHint: Review purpose, paragraph work and mode integration before punctuation and spelling.",
     "structuredExplanation": {
       "summary": "Revision improves meaning and organisation before surface editing.",
@@ -108,16 +103,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "A student is planning a review comparing two adventure novels. Which structure best matches the purpose?",
-    "audioPrompt": "A student is planning a review comparing two adventure novels. Which structure best matches the purpose?",
+    "question": "Choose the answer supported by the whole example. A student is planning a review comparing two adventure novels. Which structure best matches the purpose?",
+    "audioPrompt": "Choose the answer supported by the whole example. A student is planning a review comparing two adventure novels. Which structure best matches the purpose?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Ideas placed in random order",
       "criteria-based comparison paragraphs",
+      "Ideas placed in random order",
       "One unbroken paragraph containing every detail"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The proposed structure makes relationships clear for the audience.\nHint: Plan what each paragraph must achieve before drafting sentences.",
     "structuredExplanation": {
       "summary": "The proposed structure makes relationships clear for the audience.",
@@ -132,16 +127,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which expanded verb group adds suitable precision to a review comparing two adventure novels?",
-    "audioPrompt": "Which expanded verb group adds suitable precision to a review comparing two adventure novels?",
+    "question": "Which option best fits the meaning? Which expanded verb group adds suitable precision to a review comparing two adventure novels?",
+    "audioPrompt": "Which option best fits the meaning? Which expanded verb group adds suitable precision to a review comparing two adventure novels?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "did stuff",
-      "is very thing",
-      "creates more effectively"
+      "creates more effectively",
+      "is very thing"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The verb group expresses time, modality or manner precisely.\nHint: Choose a verb group that fits both meaning and tense.",
     "structuredExplanation": {
       "summary": "The verb group expresses time, modality or manner precisely.",
@@ -156,21 +151,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which visual would genuinely add meaning to a review comparing two adventure novels?",
-    "audioPrompt": "Which visual would genuinely add meaning to a review comparing two adventure novels?",
-    "visual": "A draft layout reserves space for a concise comparison table. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A draft layout reserves space for a concise comparison table. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-007",
-      "alt_text": "A draft layout reserves space for a concise comparison table. A three-part cards guide supports the question."
-    },
+    "question": "Work this out independently. Which visual would genuinely add meaning to a review comparing two adventure novels?",
+    "audioPrompt": "Work this out independently. Which visual would genuinely add meaning to a review comparing two adventure novels?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "a concise comparison table",
       "an unrelated stock photograph",
-      "a decorative pattern repeating no information"
+      "a decorative pattern repeating no information",
+      "a concise comparison table"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The visual extends, organises or clarifies information the audience needs.\nHint: Ask whether the visual has a clear job beyond decoration.",
     "structuredExplanation": {
       "summary": "The visual extends, organises or clarifies information the audience needs.",
@@ -185,16 +175,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "During revision of a review comparing two adventure novels, what should the writer check before final proofreading?",
-    "audioPrompt": "During revision of a review comparing two adventure novels, what should the writer check before final proofreading?",
+    "question": "What is the best answer in this context? During revision of a review comparing two adventure novels, what should the writer check before final proofreading?",
+    "audioPrompt": "What is the best answer in this context? During revision of a review comparing two adventure novels, what should the writer check before final proofreading?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Whether every sentence has the same length",
       "Whether the text uses criteria-based comparison paragraphs to develop its purpose and whether a concise comparison table connects to the words",
+      "Whether every sentence has the same length",
       "Whether a spell-checker has changed every flagged word"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Revision improves meaning and organisation before surface editing.\nHint: Review purpose, paragraph work and mode integration before punctuation and spelling.",
     "structuredExplanation": {
       "summary": "Revision improves meaning and organisation before surface editing.",
@@ -209,16 +199,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "A student is planning instructions for constructing an insect shelter. Which structure best matches the purpose?",
-    "audioPrompt": "A student is planning instructions for constructing an insect shelter. Which structure best matches the purpose?",
+    "question": "Which choice is supported by the evidence given? A student is planning instructions for constructing an insect shelter. Which structure best matches the purpose?",
+    "audioPrompt": "Which choice is supported by the evidence given? A student is planning instructions for constructing an insect shelter. Which structure best matches the purpose?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "Ideas placed in random order",
-      "One unbroken paragraph containing every detail",
-      "numbered stages with conditions and safety advice"
+      "numbered stages with conditions and safety advice",
+      "One unbroken paragraph containing every detail"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The proposed structure makes relationships clear for the audience.\nHint: Plan what each paragraph must achieve before drafting sentences.",
     "structuredExplanation": {
       "summary": "The proposed structure makes relationships clear for the audience.",
@@ -233,16 +223,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which expanded verb group adds suitable precision to instructions for constructing an insect shelter?",
-    "audioPrompt": "Which expanded verb group adds suitable precision to instructions for constructing an insect shelter?",
+    "question": "Read for meaning before you choose. Which expanded verb group adds suitable precision to instructions for constructing an insect shelter?",
+    "audioPrompt": "Read for meaning before you choose. Which expanded verb group adds suitable precision to instructions for constructing an insect shelter?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "must be positioned",
       "did stuff",
-      "is very thing"
+      "is very thing",
+      "must be positioned"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The verb group expresses time, modality or manner precisely.\nHint: Choose a verb group that fits both meaning and tense.",
     "structuredExplanation": {
       "summary": "The verb group expresses time, modality or manner precisely.",
@@ -257,21 +247,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which visual would genuinely add meaning to instructions for constructing an insect shelter?",
-    "audioPrompt": "Which visual would genuinely add meaning to instructions for constructing an insect shelter?",
-    "visual": "A draft layout reserves space for a labelled assembly diagram. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A draft layout reserves space for a labelled assembly diagram. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-011",
-      "alt_text": "A draft layout reserves space for a labelled assembly diagram. A three-part cards guide supports the question."
-    },
+    "question": "Which option is the most precise? Which visual would genuinely add meaning to instructions for constructing an insect shelter?",
+    "audioPrompt": "Which option is the most precise? Which visual would genuinely add meaning to instructions for constructing an insect shelter?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
-      "an unrelated stock photograph",
       "a labelled assembly diagram",
+      "an unrelated stock photograph",
       "a decorative pattern repeating no information"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The visual extends, organises or clarifies information the audience needs.\nHint: Ask whether the visual has a clear job beyond decoration.",
     "structuredExplanation": {
       "summary": "The visual extends, organises or clarifies information the audience needs.",
@@ -286,16 +271,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "During revision of instructions for constructing an insect shelter, what should the writer check before final proofreading?",
-    "audioPrompt": "During revision of instructions for constructing an insect shelter, what should the writer check before final proofreading?",
+    "question": "Use every clue in the example. During revision of instructions for constructing an insect shelter, what should the writer check before final proofreading?",
+    "audioPrompt": "Use every clue in the example. During revision of instructions for constructing an insect shelter, what should the writer check before final proofreading?",
     "visual": "",
     "visualHtml": "",
     "answers": [
       "Whether every sentence has the same length",
-      "Whether a spell-checker has changed every flagged word",
-      "Whether the text uses numbered stages with conditions and safety advice to develop its purpose and whether a labelled assembly diagram connects to the words"
+      "Whether the text uses numbered stages with conditions and safety advice to develop its purpose and whether a labelled assembly diagram connects to the words",
+      "Whether a spell-checker has changed every flagged word"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Revision improves meaning and organisation before surface editing.\nHint: Review purpose, paragraph work and mode integration before punctuation and spelling.",
     "structuredExplanation": {
       "summary": "Revision improves meaning and organisation before surface editing.",
@@ -310,16 +295,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "A student is planning an imaginative diary entry from a lighthouse keeper. Which structure best matches the purpose?",
-    "audioPrompt": "A student is planning an imaginative diary entry from a lighthouse keeper. Which structure best matches the purpose?",
+    "question": "Which answer holds up when you check the full context? A student is planning an imaginative diary entry from a lighthouse keeper. Which structure best matches the purpose?",
+    "audioPrompt": "Which answer holds up when you check the full context? A student is planning an imaginative diary entry from a lighthouse keeper. Which structure best matches the purpose?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "dated reflections shaped by the keeper's viewpoint",
       "Ideas placed in random order",
-      "One unbroken paragraph containing every detail"
+      "One unbroken paragraph containing every detail",
+      "dated reflections shaped by the keeper's viewpoint"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The proposed structure makes relationships clear for the audience.\nHint: Plan what each paragraph must achieve before drafting sentences.",
     "structuredExplanation": {
       "summary": "The proposed structure makes relationships clear for the audience.",
@@ -334,16 +319,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which expanded verb group adds suitable precision to an imaginative diary entry from a lighthouse keeper?",
-    "audioPrompt": "Which expanded verb group adds suitable precision to an imaginative diary entry from a lighthouse keeper?",
+    "question": "Decide which option best matches what the text shows. Which expanded verb group adds suitable precision to an imaginative diary entry from a lighthouse keeper?",
+    "audioPrompt": "Decide which option best matches what the text shows. Which expanded verb group adds suitable precision to an imaginative diary entry from a lighthouse keeper?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "did stuff",
       "might have mistaken",
+      "did stuff",
       "is very thing"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The verb group expresses time, modality or manner precisely.\nHint: Choose a verb group that fits both meaning and tense.",
     "structuredExplanation": {
       "summary": "The verb group expresses time, modality or manner precisely.",
@@ -358,21 +343,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "Which visual would genuinely add meaning to an imaginative diary entry from a lighthouse keeper?",
-    "audioPrompt": "Which visual would genuinely add meaning to an imaginative diary entry from a lighthouse keeper?",
-    "visual": "A draft layout reserves space for a period map that adds setting information. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A draft layout reserves space for a period map that adds setting information. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly06.svg#ac9e5ly06-t-015",
-      "alt_text": "A draft layout reserves space for a period map that adds setting information. A three-part cards guide supports the question."
-    },
+    "question": "Which choice best demonstrates the skill in this new example? Which visual would genuinely add meaning to an imaginative diary entry from a lighthouse keeper?",
+    "audioPrompt": "Which choice best demonstrates the skill in this new example? Which visual would genuinely add meaning to an imaginative diary entry from a lighthouse keeper?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "an unrelated stock photograph",
-      "a decorative pattern repeating no information",
-      "a period map that adds setting information"
+      "a period map that adds setting information",
+      "a decorative pattern repeating no information"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The visual extends, organises or clarifies information the audience needs.\nHint: Ask whether the visual has a clear job beyond decoration.",
     "structuredExplanation": {
       "summary": "The visual extends, organises or clarifies information the audience needs.",
@@ -387,16 +367,16 @@ window.skillrTestQuestions = [
     "skill": "creating and publishing written and multimodal texts",
     "printable": true,
     "type": "single",
-    "question": "During revision of an imaginative diary entry from a lighthouse keeper, what should the writer check before final proofreading?",
-    "audioPrompt": "During revision of an imaginative diary entry from a lighthouse keeper, what should the writer check before final proofreading?",
+    "question": "Make your final choice from the evidence in the question. During revision of an imaginative diary entry from a lighthouse keeper, what should the writer check before final proofreading?",
+    "audioPrompt": "Make your final choice from the evidence in the question. During revision of an imaginative diary entry from a lighthouse keeper, what should the writer check before final proofreading?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Whether the text uses dated reflections shaped by the keeper's viewpoint to develop its purpose and whether a period map that adds setting information connects to the words",
       "Whether every sentence has the same length",
-      "Whether a spell-checker has changed every flagged word"
+      "Whether a spell-checker has changed every flagged word",
+      "Whether the text uses dated reflections shaped by the keeper's viewpoint to develop its purpose and whether a period map that adds setting information connects to the words"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Revision improves meaning and organisation before surface editing.\nHint: Review purpose, paragraph work and mode integration before punctuation and spelling.",
     "structuredExplanation": {
       "summary": "Revision improves meaning and organisation before surface editing.",

@@ -9,13 +9,8 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which sentence uses modality most appropriately for urgent obligation in a community radio interview?",
     "audioPrompt": "Which sentence uses modality most appropriately for urgent obligation in a community radio interview?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a community radio interview. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a community radio interview. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-001",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a community radio interview. A three-part modality-scale guide supports the question."
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The loose railing must be repaired before the area reopens.",
       "The loose railing may be admired before reopening.",
@@ -36,15 +31,10 @@ window.skillrTestQuestions = [
     "skill": "limited evidence",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for limited evidence in a wildlife rescue report?",
-    "audioPrompt": "Which sentence uses modality most appropriately for limited evidence in a wildlife rescue report?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a wildlife rescue report. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a wildlife rescue report. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-002",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a wildlife rescue report. A three-part modality-scale guide supports the question."
-    },
+    "question": "Read this new example closely. Which sentence uses modality most appropriately for limited evidence in a wildlife rescue report?",
+    "audioPrompt": "Read this new example closely. Which sentence uses modality most appropriately for limited evidence in a wildlife rescue report?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The pattern certainly proves this for every place.",
       "The pattern may suggest that shade reduced evaporation.",
@@ -65,15 +55,10 @@ window.skillrTestQuestions = [
     "skill": "moderate obligation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a town planning forum?",
-    "audioPrompt": "Which sentence uses modality most appropriately for moderate obligation in a town planning forum?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a town planning forum. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a town planning forum. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-003",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a town planning forum. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which answer is most accurate here? Which sentence uses modality most appropriately for moderate obligation in a town planning forum?",
+    "audioPrompt": "Which answer is most accurate here? Which sentence uses modality most appropriately for moderate obligation in a town planning forum?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Visitors might ignore every safety instruction.",
       "Visitors certainly are the safety line.",
@@ -94,15 +79,10 @@ window.skillrTestQuestions = [
     "skill": "strong supporting evidence",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a aquarium information panel?",
-    "audioPrompt": "Which sentence uses modality most appropriately for strong supporting evidence in a aquarium information panel?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a aquarium information panel. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a aquarium information panel. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-004",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a aquarium information panel. A three-part modality-scale guide supports the question."
-    },
+    "question": "Use the details in this new situation. Which sentence uses modality most appropriately for strong supporting evidence in a aquarium information panel?",
+    "audioPrompt": "Use the details in this new situation. Which sentence uses modality most appropriately for strong supporting evidence in a aquarium information panel?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The repeated results strongly suggest a reliable difference.",
       "The results perhaps prove absolutely everything.",
@@ -123,15 +103,10 @@ window.skillrTestQuestions = [
     "skill": "cautious recommendation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a youth theatre rehearsal?",
-    "audioPrompt": "Which sentence uses modality most appropriately for cautious recommendation in a youth theatre rehearsal?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a youth theatre rehearsal. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a youth theatre rehearsal. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-005",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a youth theatre rehearsal. A three-part modality-scale guide supports the question."
-    },
+    "question": "Choose the answer supported by the whole example. Which sentence uses modality most appropriately for cautious recommendation in a youth theatre rehearsal?",
+    "audioPrompt": "Choose the answer supported by the whole example. Which sentence uses modality most appropriately for cautious recommendation in a youth theatre rehearsal?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The council must instantly accept the only perfect plan.",
       "The council could consider adding another crossing.",
@@ -152,15 +127,10 @@ window.skillrTestQuestions = [
     "skill": "urgent obligation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for urgent obligation in a local history podcast?",
-    "audioPrompt": "Which sentence uses modality most appropriately for urgent obligation in a local history podcast?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a local history podcast. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a local history podcast. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-006",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a local history podcast. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which option best fits the meaning? Which sentence uses modality most appropriately for urgent obligation in a local history podcast?",
+    "audioPrompt": "Which option best fits the meaning? Which sentence uses modality most appropriately for urgent obligation in a local history podcast?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The loose railing may be admired before reopening.",
       "The railing probably feels repaired already.",
@@ -181,15 +151,10 @@ window.skillrTestQuestions = [
     "skill": "limited evidence",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for limited evidence in a water-saving campaign?",
-    "audioPrompt": "Which sentence uses modality most appropriately for limited evidence in a water-saving campaign?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a water-saving campaign. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a water-saving campaign. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-007",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a water-saving campaign. A three-part modality-scale guide supports the question."
-    },
+    "question": "Work this out independently. Which sentence uses modality most appropriately for limited evidence in a water-saving campaign?",
+    "audioPrompt": "Work this out independently. Which sentence uses modality most appropriately for limited evidence in a water-saving campaign?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The pattern may suggest that shade reduced evaporation.",
       "The pattern certainly proves this for every place.",
@@ -210,15 +175,10 @@ window.skillrTestQuestions = [
     "skill": "moderate obligation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a cycling safety workshop?",
-    "audioPrompt": "Which sentence uses modality most appropriately for moderate obligation in a cycling safety workshop?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a cycling safety workshop. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a cycling safety workshop. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-008",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a cycling safety workshop. A three-part modality-scale guide supports the question."
-    },
+    "question": "What is the best answer in this context? Which sentence uses modality most appropriately for moderate obligation in a cycling safety workshop?",
+    "audioPrompt": "What is the best answer in this context? Which sentence uses modality most appropriately for moderate obligation in a cycling safety workshop?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Visitors might ignore every safety instruction.",
       "Visitors should remain behind the safety line.",
@@ -239,15 +199,10 @@ window.skillrTestQuestions = [
     "skill": "strong supporting evidence",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a festival program?",
-    "audioPrompt": "Which sentence uses modality most appropriately for strong supporting evidence in a festival program?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a festival program. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a festival program. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-009",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a festival program. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which choice is supported by the evidence given? Which sentence uses modality most appropriately for strong supporting evidence in a festival program?",
+    "audioPrompt": "Which choice is supported by the evidence given? Which sentence uses modality most appropriately for strong supporting evidence in a festival program?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The results perhaps prove absolutely everything.",
       "The results feel wonderfully correct.",
@@ -268,15 +223,10 @@ window.skillrTestQuestions = [
     "skill": "cautious recommendation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a marine research log?",
-    "audioPrompt": "Which sentence uses modality most appropriately for cautious recommendation in a marine research log?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a marine research log. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a marine research log. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-010",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a marine research log. A three-part modality-scale guide supports the question."
-    },
+    "question": "Read for meaning before you choose. Which sentence uses modality most appropriately for cautious recommendation in a marine research log?",
+    "audioPrompt": "Read for meaning before you choose. Which sentence uses modality most appropriately for cautious recommendation in a marine research log?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The council could consider adding another crossing.",
       "The council must instantly accept the only perfect plan.",
@@ -297,15 +247,10 @@ window.skillrTestQuestions = [
     "skill": "urgent obligation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for urgent obligation in a public transport survey?",
-    "audioPrompt": "Which sentence uses modality most appropriately for urgent obligation in a public transport survey?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a public transport survey. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a public transport survey. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-011",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a public transport survey. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which option is the most precise? Which sentence uses modality most appropriately for urgent obligation in a public transport survey?",
+    "audioPrompt": "Which option is the most precise? Which sentence uses modality most appropriately for urgent obligation in a public transport survey?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The loose railing may be admired before reopening.",
       "The loose railing must be repaired before the area reopens.",
@@ -326,15 +271,10 @@ window.skillrTestQuestions = [
     "skill": "limited evidence",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for limited evidence in a heritage walk brochure?",
-    "audioPrompt": "Which sentence uses modality most appropriately for limited evidence in a heritage walk brochure?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a heritage walk brochure. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a heritage walk brochure. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-012",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a heritage walk brochure. A three-part modality-scale guide supports the question."
-    },
+    "question": "Use every clue in the example. Which sentence uses modality most appropriately for limited evidence in a heritage walk brochure?",
+    "audioPrompt": "Use every clue in the example. Which sentence uses modality most appropriately for limited evidence in a heritage walk brochure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The pattern certainly proves this for every place.",
       "The pattern must force everyone to agree.",
@@ -355,15 +295,10 @@ window.skillrTestQuestions = [
     "skill": "moderate obligation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for moderate obligation in a emergency drill briefing?",
-    "audioPrompt": "Which sentence uses modality most appropriately for moderate obligation in a emergency drill briefing?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a emergency drill briefing. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a emergency drill briefing. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-013",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a emergency drill briefing. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which answer holds up when you check the full context? Which sentence uses modality most appropriately for moderate obligation in a emergency drill briefing?",
+    "audioPrompt": "Which answer holds up when you check the full context? Which sentence uses modality most appropriately for moderate obligation in a emergency drill briefing?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Visitors should remain behind the safety line.",
       "Visitors might ignore every safety instruction.",
@@ -384,15 +319,10 @@ window.skillrTestQuestions = [
     "skill": "strong supporting evidence",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for strong supporting evidence in a farmers market review?",
-    "audioPrompt": "Which sentence uses modality most appropriately for strong supporting evidence in a farmers market review?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a farmers market review. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a farmers market review. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-014",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a farmers market review. A three-part modality-scale guide supports the question."
-    },
+    "question": "Decide which option best matches what the text shows. Which sentence uses modality most appropriately for strong supporting evidence in a farmers market review?",
+    "audioPrompt": "Decide which option best matches what the text shows. Which sentence uses modality most appropriately for strong supporting evidence in a farmers market review?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The results perhaps prove absolutely everything.",
       "The repeated results strongly suggest a reliable difference.",
@@ -413,15 +343,10 @@ window.skillrTestQuestions = [
     "skill": "cautious recommendation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for cautious recommendation in a space exhibition talk?",
-    "audioPrompt": "Which sentence uses modality most appropriately for cautious recommendation in a space exhibition talk?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a space exhibition talk. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a space exhibition talk. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-015",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a space exhibition talk. A three-part modality-scale guide supports the question."
-    },
+    "question": "Which choice best demonstrates the skill in this new example? Which sentence uses modality most appropriately for cautious recommendation in a space exhibition talk?",
+    "audioPrompt": "Which choice best demonstrates the skill in this new example? Which sentence uses modality most appropriately for cautious recommendation in a space exhibition talk?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The council must instantly accept the only perfect plan.",
       "The council possibly has a crossing maybe.",
@@ -442,15 +367,10 @@ window.skillrTestQuestions = [
     "skill": "urgent obligation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses modality most appropriately for urgent obligation in a river restoration proposal?",
-    "audioPrompt": "Which sentence uses modality most appropriately for urgent obligation in a river restoration proposal?",
-    "visual": "A scale from low to high certainty or obligation beside notes from a river restoration proposal. A three-part modality-scale guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A scale from low to high certainty or obligation beside notes from a river restoration proposal. A three-part modality-scale guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la09.svg#ac9e5la09-t-016",
-      "alt_text": "A scale from low to high certainty or obligation beside notes from a river restoration proposal. A three-part modality-scale guide supports the question."
-    },
+    "question": "Make your final choice from the evidence in the question. Which sentence uses modality most appropriately for urgent obligation in a river restoration proposal?",
+    "audioPrompt": "Make your final choice from the evidence in the question. Which sentence uses modality most appropriately for urgent obligation in a river restoration proposal?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "The loose railing must be repaired before the area reopens.",
       "The loose railing may be admired before reopening.",

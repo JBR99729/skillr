@@ -9,13 +9,8 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "In a podcast about nocturnal animals, which feature choice most clearly supports the purpose?",
     "audioPrompt": "In a podcast about nocturnal animals, which feature choice most clearly supports the purpose?",
-    "visual": "Two labelled design choices for a podcast about nocturnal animals are compared. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two labelled design choices for a podcast about nocturnal animals are compared. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-001",
-      "alt_text": "Two labelled design choices for a podcast about nocturnal animals are compared. A three-part cards guide supports the question."
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "soft night sounds under the opening",
       "a loud bell after every sentence",
@@ -36,15 +31,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "Why is soft night sounds under the opening effective in a podcast about nocturnal animals?",
-    "audioPrompt": "Why is soft night sounds under the opening effective in a podcast about nocturnal animals?",
-    "visual": "The selected feature is shown in its a podcast about nocturnal animals context. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The selected feature is shown in its a podcast about nocturnal animals context. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-002",
-      "alt_text": "The selected feature is shown in its a podcast about nocturnal animals context. A three-part cards guide supports the question."
-    },
+    "question": "Read this new example closely. Why is soft night sounds under the opening effective in a podcast about nocturnal animals?",
+    "audioPrompt": "Read this new example closely. Why is soft night sounds under the opening effective in a podcast about nocturnal animals?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "makes the facts more scientific",
       "establishes the setting without interrupting the explanation",
@@ -65,15 +55,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "A designer removes soft night sounds under the opening from a podcast about nocturnal animals. What is the most likely loss?",
-    "audioPrompt": "A designer removes soft night sounds under the opening from a podcast about nocturnal animals. What is the most likely loss?",
-    "visual": "Before-and-after layouts show a podcast about nocturnal animals with and without the feature. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before-and-after layouts show a podcast about nocturnal animals with and without the feature. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-003",
-      "alt_text": "Before-and-after layouts show a podcast about nocturnal animals with and without the feature. A three-part cards guide supports the question."
-    },
+    "question": "Which answer is most accurate here? A designer removes soft night sounds under the opening from a podcast about nocturnal animals. What is the most likely loss?",
+    "audioPrompt": "Which answer is most accurate here? A designer removes soft night sounds under the opening from a podcast about nocturnal animals. What is the most likely loss?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Readers can no longer see a loud bell after every sentence",
       "Every fact automatically becomes false",
@@ -94,15 +79,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best analyses the feature system in a podcast about nocturnal animals?",
-    "audioPrompt": "Which explanation best analyses the feature system in a podcast about nocturnal animals?",
-    "visual": "Words and the key feature in a podcast about nocturnal animals are connected by arrows. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Words and the key feature in a podcast about nocturnal animals are connected by arrows. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-004",
-      "alt_text": "Words and the key feature in a podcast about nocturnal animals are connected by arrows. A three-part cards guide supports the question."
-    },
+    "question": "Use the details in this new situation. Which explanation best analyses the feature system in a podcast about nocturnal animals?",
+    "audioPrompt": "Use the details in this new situation. Which explanation best analyses the feature system in a podcast about nocturnal animals?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "soft night sounds under the opening works with the words and establishes the setting without interrupting the explanation",
       "a loud bell after every sentence is attractive, so the text must be reliable",
@@ -123,15 +103,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "In a train timetable app, which feature choice most clearly supports the purpose?",
-    "audioPrompt": "In a train timetable app, which feature choice most clearly supports the purpose?",
-    "visual": "Two labelled design choices for a train timetable app are compared. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two labelled design choices for a train timetable app are compared. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-005",
-      "alt_text": "Two labelled design choices for a train timetable app are compared. A three-part cards guide supports the question."
-    },
+    "question": "Choose the answer supported by the whole example. In a train timetable app, which feature choice most clearly supports the purpose?",
+    "audioPrompt": "Choose the answer supported by the whole example. In a train timetable app, which feature choice most clearly supports the purpose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "an animated train",
       "colour-coded route lines with station labels",
@@ -152,15 +127,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "Why is colour-coded route lines with station labels effective in a train timetable app?",
-    "audioPrompt": "Why is colour-coded route lines with station labels effective in a train timetable app?",
-    "visual": "The selected feature is shown in its a train timetable app context. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The selected feature is shown in its a train timetable app context. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-006",
-      "alt_text": "The selected feature is shown in its a train timetable app context. A three-part cards guide supports the question."
-    },
+    "question": "Which option best fits the meaning? Why is colour-coded route lines with station labels effective in a train timetable app?",
+    "audioPrompt": "Which option best fits the meaning? Why is colour-coded route lines with station labels effective in a train timetable app?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "shows the exact arrival time by itself",
       "It makes the text longer",
@@ -181,15 +151,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "A designer removes colour-coded route lines with station labels from a train timetable app. What is the most likely loss?",
-    "audioPrompt": "A designer removes colour-coded route lines with station labels from a train timetable app. What is the most likely loss?",
-    "visual": "Before-and-after layouts show a train timetable app with and without the feature. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before-and-after layouts show a train timetable app with and without the feature. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-007",
-      "alt_text": "Before-and-after layouts show a train timetable app with and without the feature. A three-part cards guide supports the question."
-    },
+    "question": "Work this out independently. A designer removes colour-coded route lines with station labels from a train timetable app. What is the most likely loss?",
+    "audioPrompt": "Work this out independently. A designer removes colour-coded route lines with station labels from a train timetable app. What is the most likely loss?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Readers lose support that helps travellers follow one route and locate changes",
       "Readers can no longer see an animated train",
@@ -210,15 +175,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best analyses the feature system in a train timetable app?",
-    "audioPrompt": "Which explanation best analyses the feature system in a train timetable app?",
-    "visual": "Words and the key feature in a train timetable app are connected by arrows. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Words and the key feature in a train timetable app are connected by arrows. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-008",
-      "alt_text": "Words and the key feature in a train timetable app are connected by arrows. A three-part cards guide supports the question."
-    },
+    "question": "What is the best answer in this context? Which explanation best analyses the feature system in a train timetable app?",
+    "audioPrompt": "What is the best answer in this context? Which explanation best analyses the feature system in a train timetable app?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "an animated train is attractive, so the text must be reliable",
       "colour-coded route lines with station labels works with the words and helps travellers follow one route and locate changes",
@@ -239,15 +199,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "In a class climate presentation, which feature choice most clearly supports the purpose?",
-    "audioPrompt": "In a class climate presentation, which feature choice most clearly supports the purpose?",
-    "visual": "Two labelled design choices for a class climate presentation are compared. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two labelled design choices for a class climate presentation are compared. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-009",
-      "alt_text": "Two labelled design choices for a class climate presentation are compared. A three-part cards guide supports the question."
-    },
+    "question": "Which choice is supported by the evidence given? In a class climate presentation, which feature choice most clearly supports the purpose?",
+    "audioPrompt": "Which choice is supported by the evidence given? In a class climate presentation, which feature choice most clearly supports the purpose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "paragraphs copied onto every slide",
       "A random clip-art picture",
@@ -268,15 +223,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "Why is one icon beside each key cause effective in a class climate presentation?",
-    "audioPrompt": "Why is one icon beside each key cause effective in a class climate presentation?",
-    "visual": "The selected feature is shown in its a class climate presentation context. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The selected feature is shown in its a class climate presentation context. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-010",
-      "alt_text": "The selected feature is shown in its a class climate presentation context. A three-part cards guide supports the question."
-    },
+    "question": "Read for meaning before you choose. Why is one icon beside each key cause effective in a class climate presentation?",
+    "audioPrompt": "Read for meaning before you choose. Why is one icon beside each key cause effective in a class climate presentation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "supports recall while the speaker explains the evidence",
       "lets listeners read instead of listening",
@@ -297,15 +247,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "A designer removes one icon beside each key cause from a class climate presentation. What is the most likely loss?",
-    "audioPrompt": "A designer removes one icon beside each key cause from a class climate presentation. What is the most likely loss?",
-    "visual": "Before-and-after layouts show a class climate presentation with and without the feature. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before-and-after layouts show a class climate presentation with and without the feature. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-011",
-      "alt_text": "Before-and-after layouts show a class climate presentation with and without the feature. A three-part cards guide supports the question."
-    },
+    "question": "Which option is the most precise? A designer removes one icon beside each key cause from a class climate presentation. What is the most likely loss?",
+    "audioPrompt": "Which option is the most precise? A designer removes one icon beside each key cause from a class climate presentation. What is the most likely loss?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Readers can no longer see paragraphs copied onto every slide",
       "Readers lose support that supports recall while the speaker explains the evidence",
@@ -326,15 +271,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best analyses the feature system in a class climate presentation?",
-    "audioPrompt": "Which explanation best analyses the feature system in a class climate presentation?",
-    "visual": "Words and the key feature in a class climate presentation are connected by arrows. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Words and the key feature in a class climate presentation are connected by arrows. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-012",
-      "alt_text": "Words and the key feature in a class climate presentation are connected by arrows. A three-part cards guide supports the question."
-    },
+    "question": "Use every clue in the example. Which explanation best analyses the feature system in a class climate presentation?",
+    "audioPrompt": "Use every clue in the example. Which explanation best analyses the feature system in a class climate presentation?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "paragraphs copied onto every slide is attractive, so the text must be reliable",
       "All visual and sound features have the same effect in every text",
@@ -355,15 +295,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "In an online book review, which feature choice most clearly supports the purpose?",
-    "audioPrompt": "In an online book review, which feature choice most clearly supports the purpose?",
-    "visual": "Two labelled design choices for an online book review are compared. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two labelled design choices for an online book review are compared. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-013",
-      "alt_text": "Two labelled design choices for an online book review are compared. A three-part cards guide supports the question."
-    },
+    "question": "Which answer holds up when you check the full context? In an online book review, which feature choice most clearly supports the purpose?",
+    "audioPrompt": "Which answer holds up when you check the full context? In an online book review, which feature choice most clearly supports the purpose?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "a star rating beside reasons and examples",
       "a large author photograph",
@@ -384,15 +319,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "Why is a star rating beside reasons and examples effective in an online book review?",
-    "audioPrompt": "Why is a star rating beside reasons and examples effective in an online book review?",
-    "visual": "The selected feature is shown in its an online book review context. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The selected feature is shown in its an online book review context. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-014",
-      "alt_text": "The selected feature is shown in its an online book review context. A three-part cards guide supports the question."
-    },
+    "question": "Decide which option best matches what the text shows. Why is a star rating beside reasons and examples effective in an online book review?",
+    "audioPrompt": "Decide which option best matches what the text shows. Why is a star rating beside reasons and examples effective in an online book review?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "proves the reviewer understood the book",
       "summarises the judgement while the words justify it",
@@ -413,15 +343,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "A designer removes a star rating beside reasons and examples from an online book review. What is the most likely loss?",
-    "audioPrompt": "A designer removes a star rating beside reasons and examples from an online book review. What is the most likely loss?",
-    "visual": "Before-and-after layouts show an online book review with and without the feature. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Before-and-after layouts show an online book review with and without the feature. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-015",
-      "alt_text": "Before-and-after layouts show an online book review with and without the feature. A three-part cards guide supports the question."
-    },
+    "question": "Which choice best demonstrates the skill in this new example? A designer removes a star rating beside reasons and examples from an online book review. What is the most likely loss?",
+    "audioPrompt": "Which choice best demonstrates the skill in this new example? A designer removes a star rating beside reasons and examples from an online book review. What is the most likely loss?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "Readers can no longer see a large author photograph",
       "Every fact automatically becomes false",
@@ -442,15 +367,10 @@ window.skillrTestQuestions = [
     "skill": "how text features shape meaning",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best analyses the feature system in an online book review?",
-    "audioPrompt": "Which explanation best analyses the feature system in an online book review?",
-    "visual": "Words and the key feature in an online book review are connected by arrows. A three-part cards guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Words and the key feature in an online book review are connected by arrows. A three-part cards guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5ly01.svg#ac9e5ly01-t-016",
-      "alt_text": "Words and the key feature in an online book review are connected by arrows. A three-part cards guide supports the question."
-    },
+    "question": "Make your final choice from the evidence in the question. Which explanation best analyses the feature system in an online book review?",
+    "audioPrompt": "Make your final choice from the evidence in the question. Which explanation best analyses the feature system in an online book review?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "a star rating beside reasons and examples works with the words and summarises the judgement while the words justify it",
       "a large author photograph is attractive, so the text must be reliable",

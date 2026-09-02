@@ -9,13 +9,8 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "A student is organising a text for a community radio interview. Which sequence best supports its procedure structure?",
     "audioPrompt": "A student is organising a text for a community radio interview. Which sequence best supports its procedure structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a community radio interview. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a community radio interview. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-001",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a community radio interview. A three-part stage-flow guide supports the question."
-    },
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "name the goal, list what is needed, give ordered steps, check the outcome",
       "describe a character, argue a position, add a joke",
@@ -36,15 +31,10 @@ window.skillrTestQuestions = [
     "skill": "argument structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a wildlife rescue report. Which sequence best supports its argument structure?",
-    "audioPrompt": "A student is organising a text for a wildlife rescue report. Which sequence best supports its argument structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a wildlife rescue report. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a wildlife rescue report. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-002",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a wildlife rescue report. A three-part stage-flow guide supports the question."
-    },
+    "question": "Read this new example closely. A student is organising a text for a wildlife rescue report. Which sequence best supports its argument structure?",
+    "audioPrompt": "Read this new example closely. A student is organising a text for a wildlife rescue report. Which sequence best supports its argument structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "list unrelated facts, add a title, stop",
       "state the position, give reasons and evidence, answer a counterpoint, conclude",
@@ -65,15 +55,10 @@ window.skillrTestQuestions = [
     "skill": "explanation structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a town planning forum. Which sequence best supports its explanation structure?",
-    "audioPrompt": "A student is organising a text for a town planning forum. Which sequence best supports its explanation structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a town planning forum. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a town planning forum. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-003",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a town planning forum. A three-part stage-flow guide supports the question."
-    },
+    "question": "Which answer is most accurate here? A student is organising a text for a town planning forum. Which sequence best supports its explanation structure?",
+    "audioPrompt": "Which answer is most accurate here? A student is organising a text for a town planning forum. Which sequence best supports its explanation structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "give instructions, add characters, announce a winner",
       "show the result, change topic, list opinions",
@@ -94,15 +79,10 @@ window.skillrTestQuestions = [
     "skill": "narrative structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a aquarium information panel. Which sequence best supports its narrative structure?",
-    "audioPrompt": "A student is organising a text for a aquarium information panel. Which sequence best supports its narrative structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a aquarium information panel. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a aquarium information panel. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-004",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a aquarium information panel. A three-part stage-flow guide supports the question."
-    },
+    "question": "Use the details in this new situation. A student is organising a text for a aquarium information panel. Which sequence best supports its narrative structure?",
+    "audioPrompt": "Use the details in this new situation. A student is organising a text for a aquarium information panel. Which sequence best supports its narrative structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "set the scene, develop a problem, resolve the problem",
       "state a claim, list materials, give warnings",
@@ -123,15 +103,10 @@ window.skillrTestQuestions = [
     "skill": "presentation structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a youth theatre rehearsal. Which sequence best supports its presentation structure?",
-    "audioPrompt": "A student is organising a text for a youth theatre rehearsal. Which sequence best supports its presentation structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a youth theatre rehearsal. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a youth theatre rehearsal. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-005",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a youth theatre rehearsal. A three-part stage-flow guide supports the question."
-    },
+    "question": "Choose the answer supported by the whole example. A student is organising a text for a youth theatre rehearsal. Which sequence best supports its presentation structure?",
+    "audioPrompt": "Choose the answer supported by the whole example. A student is organising a text for a youth theatre rehearsal. Which sequence best supports its presentation structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "show random slides, read one caption, leave silently",
       "open the topic, move through signposted sections, interpret visuals, close clearly",
@@ -152,15 +127,10 @@ window.skillrTestQuestions = [
     "skill": "procedure structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a local history podcast. Which sequence best supports its procedure structure?",
-    "audioPrompt": "A student is organising a text for a local history podcast. Which sequence best supports its procedure structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a local history podcast. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a local history podcast. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-006",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a local history podcast. A three-part stage-flow guide supports the question."
-    },
+    "question": "Which option best fits the meaning? A student is organising a text for a local history podcast. Which sequence best supports its procedure structure?",
+    "audioPrompt": "Which option best fits the meaning? A student is organising a text for a local history podcast. Which sequence best supports its procedure structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "describe a character, argue a position, add a joke",
       "give steps out of order, hide the goal, remove action verbs",
@@ -181,15 +151,10 @@ window.skillrTestQuestions = [
     "skill": "argument structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a water-saving campaign. Which sequence best supports its argument structure?",
-    "audioPrompt": "A student is organising a text for a water-saving campaign. Which sequence best supports its argument structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a water-saving campaign. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a water-saving campaign. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-007",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a water-saving campaign. A three-part stage-flow guide supports the question."
-    },
+    "question": "Work this out independently. A student is organising a text for a water-saving campaign. Which sequence best supports its argument structure?",
+    "audioPrompt": "Work this out independently. A student is organising a text for a water-saving campaign. Which sequence best supports its argument structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "state the position, give reasons and evidence, answer a counterpoint, conclude",
       "list unrelated facts, add a title, stop",
@@ -210,15 +175,10 @@ window.skillrTestQuestions = [
     "skill": "explanation structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a cycling safety workshop. Which sequence best supports its explanation structure?",
-    "audioPrompt": "A student is organising a text for a cycling safety workshop. Which sequence best supports its explanation structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a cycling safety workshop. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a cycling safety workshop. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-008",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a cycling safety workshop. A three-part stage-flow guide supports the question."
-    },
+    "question": "What is the best answer in this context? A student is organising a text for a cycling safety workshop. Which sequence best supports its explanation structure?",
+    "audioPrompt": "What is the best answer in this context? A student is organising a text for a cycling safety workshop. Which sequence best supports its explanation structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "give instructions, add characters, announce a winner",
       "introduce the phenomenon, explain the causes in order, summarise the result",
@@ -239,15 +199,10 @@ window.skillrTestQuestions = [
     "skill": "narrative structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a festival program. Which sequence best supports its narrative structure?",
-    "audioPrompt": "A student is organising a text for a festival program. Which sequence best supports its narrative structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a festival program. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a festival program. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-009",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a festival program. A three-part stage-flow guide supports the question."
-    },
+    "question": "Which choice is supported by the evidence given? A student is organising a text for a festival program. Which sequence best supports its narrative structure?",
+    "audioPrompt": "Which choice is supported by the evidence given? A student is organising a text for a festival program. Which sequence best supports its narrative structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "state a claim, list materials, give warnings",
       "define a word, show a graph, ask a question",
@@ -268,15 +223,10 @@ window.skillrTestQuestions = [
     "skill": "presentation structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a marine research log. Which sequence best supports its presentation structure?",
-    "audioPrompt": "A student is organising a text for a marine research log. Which sequence best supports its presentation structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a marine research log. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a marine research log. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-010",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a marine research log. A three-part stage-flow guide supports the question."
-    },
+    "question": "Read for meaning before you choose. A student is organising a text for a marine research log. Which sequence best supports its presentation structure?",
+    "audioPrompt": "Read for meaning before you choose. A student is organising a text for a marine research log. Which sequence best supports its presentation structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "open the topic, move through signposted sections, interpret visuals, close clearly",
       "show random slides, read one caption, leave silently",
@@ -297,15 +247,10 @@ window.skillrTestQuestions = [
     "skill": "procedure structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a public transport survey. Which sequence best supports its procedure structure?",
-    "audioPrompt": "A student is organising a text for a public transport survey. Which sequence best supports its procedure structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a public transport survey. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a public transport survey. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-011",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a public transport survey. A three-part stage-flow guide supports the question."
-    },
+    "question": "Which option is the most precise? A student is organising a text for a public transport survey. Which sequence best supports its procedure structure?",
+    "audioPrompt": "Which option is the most precise? A student is organising a text for a public transport survey. Which sequence best supports its procedure structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "describe a character, argue a position, add a joke",
       "name the goal, list what is needed, give ordered steps, check the outcome",
@@ -326,15 +271,10 @@ window.skillrTestQuestions = [
     "skill": "argument structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a heritage walk brochure. Which sequence best supports its argument structure?",
-    "audioPrompt": "A student is organising a text for a heritage walk brochure. Which sequence best supports its argument structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a heritage walk brochure. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a heritage walk brochure. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-012",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a heritage walk brochure. A three-part stage-flow guide supports the question."
-    },
+    "question": "Use every clue in the example. A student is organising a text for a heritage walk brochure. Which sequence best supports its argument structure?",
+    "audioPrompt": "Use every clue in the example. A student is organising a text for a heritage walk brochure. Which sequence best supports its argument structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "list unrelated facts, add a title, stop",
       "give the conclusion, hide the reasons, repeat the title",
@@ -355,15 +295,10 @@ window.skillrTestQuestions = [
     "skill": "explanation structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a emergency drill briefing. Which sequence best supports its explanation structure?",
-    "audioPrompt": "A student is organising a text for a emergency drill briefing. Which sequence best supports its explanation structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a emergency drill briefing. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a emergency drill briefing. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-013",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a emergency drill briefing. A three-part stage-flow guide supports the question."
-    },
+    "question": "Which answer holds up when you check the full context? A student is organising a text for a emergency drill briefing. Which sequence best supports its explanation structure?",
+    "audioPrompt": "Which answer holds up when you check the full context? A student is organising a text for a emergency drill briefing. Which sequence best supports its explanation structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "introduce the phenomenon, explain the causes in order, summarise the result",
       "give instructions, add characters, announce a winner",
@@ -384,15 +319,10 @@ window.skillrTestQuestions = [
     "skill": "narrative structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a farmers market review. Which sequence best supports its narrative structure?",
-    "audioPrompt": "A student is organising a text for a farmers market review. Which sequence best supports its narrative structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a farmers market review. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a farmers market review. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-014",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a farmers market review. A three-part stage-flow guide supports the question."
-    },
+    "question": "Decide which option best matches what the text shows. A student is organising a text for a farmers market review. Which sequence best supports its narrative structure?",
+    "audioPrompt": "Decide which option best matches what the text shows. A student is organising a text for a farmers market review. Which sequence best supports its narrative structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "state a claim, list materials, give warnings",
       "set the scene, develop a problem, resolve the problem",
@@ -413,15 +343,10 @@ window.skillrTestQuestions = [
     "skill": "presentation structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a space exhibition talk. Which sequence best supports its presentation structure?",
-    "audioPrompt": "A student is organising a text for a space exhibition talk. Which sequence best supports its presentation structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a space exhibition talk. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a space exhibition talk. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-015",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a space exhibition talk. A three-part stage-flow guide supports the question."
-    },
+    "question": "Which choice best demonstrates the skill in this new example? A student is organising a text for a space exhibition talk. Which sequence best supports its presentation structure?",
+    "audioPrompt": "Which choice best demonstrates the skill in this new example? A student is organising a text for a space exhibition talk. Which sequence best supports its presentation structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "show random slides, read one caption, leave silently",
       "give the ending first, skip the evidence, repeat every slide",
@@ -442,15 +367,10 @@ window.skillrTestQuestions = [
     "skill": "procedure structure",
     "printable": true,
     "type": "single",
-    "question": "A student is organising a text for a river restoration proposal. Which sequence best supports its procedure structure?",
-    "audioPrompt": "A student is organising a text for a river restoration proposal. Which sequence best supports its procedure structure?",
-    "visual": "A flow diagram showing four possible stages for a text used in a river restoration proposal. A three-part stage-flow guide supports the question.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A flow diagram showing four possible stages for a text used in a river restoration proposal. A three-part stage-flow guide supports the question.\"><use href=\"/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/english/ac9e5la03.svg#ac9e5la03-t-016",
-      "alt_text": "A flow diagram showing four possible stages for a text used in a river restoration proposal. A three-part stage-flow guide supports the question."
-    },
+    "question": "Make your final choice from the evidence in the question. A student is organising a text for a river restoration proposal. Which sequence best supports its procedure structure?",
+    "audioPrompt": "Make your final choice from the evidence in the question. A student is organising a text for a river restoration proposal. Which sequence best supports its procedure structure?",
+    "visual": "",
+    "visualHtml": "",
     "answers": [
       "name the goal, list what is needed, give ordered steps, check the outcome",
       "describe a character, argue a position, add a joke",
