@@ -1,469 +1,435 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9s2i04-t-001",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "A data table has no result for Cup B. What should be shown?",
-    "audioPrompt": "A data table has no result for Cup B. What should be shown?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: A data table has no result for Cup B. What should be shown?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: A data table has no result for Cup B. What should be shown?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-001",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: A data table has no result for Cup B. What should be shown?"
-    },
+    "question": "A class sorts seeds by size and then by colour. What does this show?",
+    "audioPrompt": "A class sorts seeds by size and then by colour. What does this show?",
+    "visual": "",
     "answers": [
-      "an invented number",
-      "blank or clearly marked not measured",
-      "Cup A's value copied"
+      "Sorting changes the seeds.",
+      "Colour and size are the same property.",
+      "The same objects can be sorted in different useful ways.",
+      "There is only one correct way to sort objects."
     ],
-    "correct": 1,
-    "explanation": "Missing data must not be fabricated.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Different observable features can create different groupings.\nHint: Choose the idea about multiple valid classifications.",
     "structuredExplanation": {
-      "summary": "Missing data must not be fabricated.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Different observable features can create different groupings.",
+      "hint": "Choose the idea about multiple valid classifications."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-002",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "A student answers “an invented number”. Read the evidence in this question and choose the better answer: A data table has no result for Cup B. What should be shown?",
-    "audioPrompt": "A student answers “an invented number”. Read the evidence in this question and choose the better answer: A data table has no result for Cup B. What should be shown?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: A data table has no result for Cup B. What should be shown?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: A data table has no result for Cup B. What should be shown?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-002",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: A data table has no result for Cup B. What should be shown?"
-    },
+    "question": "A table shows 6 smooth rocks and 4 rough rocks. What is the difference in count?",
+    "audioPrompt": "A table shows 6 smooth rocks and 4 rough rocks. What is the difference in count?",
+    "visual": "",
     "answers": [
-      "an invented number",
-      "Cup A's value copied",
-      "blank or clearly marked not measured"
+      "6 rocks.",
+      "2 rocks.",
+      "10 rocks.",
+      "4 rocks."
     ],
-    "correct": 2,
-    "explanation": "Missing data must not be fabricated.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 1,
+    "explanation": "Six is two more than four.\nHint: Compare the two counts.",
     "structuredExplanation": {
-      "summary": "Missing data must not be fabricated.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Six is two more than four.",
+      "hint": "Compare the two counts."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-003",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "Which model best shows melting over time?",
-    "audioPrompt": "Which model best shows melting over time?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: Which model best shows melting over time?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: Which model best shows melting over time?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-003",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which model best shows melting over time?"
-    },
+    "question": "Which representation would best show bird visits across morning, midday and afternoon?",
+    "audioPrompt": "Which representation would best show bird visits across morning, midday and afternoon?",
+    "visual": "",
     "answers": [
-      "ordered before, during and after pictures",
-      "one unrelated picture",
-      "a list of colours"
+      "A table with each time period and its count.",
+      "A drawing of one bird with no labels.",
+      "A sentence saying birds are nice.",
+      "A list of student names."
     ],
     "correct": 0,
-    "explanation": "A sequence represents change.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "A time-and-count table directly represents the observations.\nHint: Match the display to the data.",
     "structuredExplanation": {
-      "summary": "A sequence represents change.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "A time-and-count table directly represents the observations.",
+      "hint": "Match the display to the data."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-004",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "A student answers “one unrelated picture”. Read the evidence in this question and choose the better answer: Which model best shows melting over time?",
-    "audioPrompt": "A student answers “one unrelated picture”. Read the evidence in this question and choose the better answer: Which model best shows melting over time?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: Which model best shows melting over time?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: Which model best shows melting over time?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-004",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which model best shows melting over time?"
-    },
+    "question": "A child sorts leaves by shape but puts one round leaf in the pointed group. What should happen?",
+    "audioPrompt": "A child sorts leaves by shape but puts one round leaf in the pointed group. What should happen?",
+    "visual": "",
     "answers": [
-      "one unrelated picture",
-      "ordered before, during and after pictures",
-      "a list of colours"
+      "Change the leaf shape on the record.",
+      "Ignore the sorting rule.",
+      "Rename all groups.",
+      "Move it to the group that matches its observed shape."
     ],
-    "correct": 1,
-    "explanation": "A sequence represents change.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "Items should be placed according to the chosen observable rule.\nHint: Apply the stated sorting feature.",
     "structuredExplanation": {
-      "summary": "A sequence represents change.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Items should be placed according to the chosen observable rule.",
+      "hint": "Apply the stated sorting feature."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-005",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "Why use the same sorting rule for every item?",
-    "audioPrompt": "Why use the same sorting rule for every item?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: Why use the same sorting rule for every item?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: Why use the same sorting rule for every item?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-005",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why use the same sorting rule for every item?"
-    },
+    "question": "Plant heights are 7, 3, 9 and 5 cubes. Which sequence is tallest to shortest?",
+    "audioPrompt": "Plant heights are 7, 3, 9 and 5 cubes. Which sequence is tallest to shortest?",
+    "visual": "",
     "answers": [
-      "to force equal group sizes",
-      "because rules cannot be stated",
-      "groups remain meaningful and comparable"
+      "7, 9, 3, 5.",
+      "5, 3, 9, 7.",
+      "9, 7, 5, 3.",
+      "3, 5, 7, 9."
     ],
     "correct": 2,
-    "explanation": "Consistent criteria make classification valid.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Tallest to shortest orders values from greatest to least.\nHint: Start with the largest value.",
     "structuredExplanation": {
-      "summary": "Consistent criteria make classification valid.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Tallest to shortest orders values from greatest to least.",
+      "hint": "Start with the largest value."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-006",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "A student answers “to force equal group sizes”. Read the evidence in this question and choose the better answer: Why use the same sorting rule for every item?",
-    "audioPrompt": "A student answers “to force equal group sizes”. Read the evidence in this question and choose the better answer: Why use the same sorting rule for every item?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: Why use the same sorting rule for every item?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: Why use the same sorting rule for every item?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-006",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Why use the same sorting rule for every item?"
-    },
+    "question": "A table has categories but no counts. What information is missing?",
+    "audioPrompt": "A table has categories but no counts. What information is missing?",
+    "visual": "",
     "answers": [
-      "groups remain meaningful and comparable",
-      "to force equal group sizes",
-      "because rules cannot be stated"
+      "The student’s favourite category.",
+      "How many observations are in each category.",
+      "The colour of the table border.",
+      "A prediction for next year."
     ],
-    "correct": 0,
-    "explanation": "Consistent criteria make classification valid.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 1,
+    "explanation": "Counts are needed to compare how many observations belong to each group.\nHint: Look for the missing numerical data.",
     "structuredExplanation": {
-      "summary": "Consistent criteria make classification valid.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Counts are needed to compare how many observations belong to each group.",
+      "hint": "Look for the missing numerical data."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-007",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?",
-    "audioPrompt": "Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-007",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?"
-    },
+    "question": "A class records sounds as loud, medium or soft. What type of data are these labels?",
+    "audioPrompt": "A class records sounds as loud, medium or soft. What type of data are these labels?",
+    "visual": "",
     "answers": [
-      "8, 5, 3",
-      "3, 5, 8",
-      "5, 3, 8"
+      "Categories based on observed loudness.",
+      "Distances in centimetres.",
+      "Times in seconds.",
+      "Temperatures in degrees."
     ],
-    "correct": 1,
-    "explanation": "Ordering from least to greatest gives 3, 5, 8.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "The words place observations into descriptive groups.\nHint: Choose the answer about grouping.",
     "structuredExplanation": {
-      "summary": "Ordering from least to greatest gives 3, 5, 8.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "The words place observations into descriptive groups.",
+      "hint": "Choose the answer about grouping."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-008",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "A student answers “8, 5, 3”. Read the evidence in this question and choose the better answer: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?",
-    "audioPrompt": "A student answers “8, 5, 3”. Read the evidence in this question and choose the better answer: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-008",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Plant heights are 3, 5 and 8 cubes. Which order is shortest to tallest?"
-    },
+    "question": "Two groups sort the same shells differently. Can both sorts be useful?",
+    "audioPrompt": "Two groups sort the same shells differently. Can both sorts be useful?",
+    "visual": "",
     "answers": [
-      "8, 5, 3",
-      "5, 3, 8",
-      "3, 5, 8"
+      "No, there is only one possible sorting rule.",
+      "Only the larger group can be correct.",
+      "Sorting rules do not need to be stated.",
+      "Yes, if each group uses a clear observable rule."
     ],
-    "correct": 2,
-    "explanation": "Ordering from least to greatest gives 3, 5, 8.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "Different features can produce different valid classifications.\nHint: Check whether the rule is clear and observable.",
     "structuredExplanation": {
-      "summary": "Ordering from least to greatest gives 3, 5, 8.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Different features can produce different valid classifications.",
+      "hint": "Check whether the rule is clear and observable."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-009",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?",
-    "audioPrompt": "Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-009",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?"
-    },
+    "question": "A chart shows 3 metal objects and 7 non-metal objects. Which statement is supported?",
+    "audioPrompt": "A chart shows 3 metal objects and 7 non-metal objects. Which statement is supported?",
+    "visual": "",
     "answers": [
-      "10, 7, 4",
-      "4, 7, 10",
-      "7, 4, 10"
+      "No objects were recorded.",
+      "The groups were equal.",
+      "More non-metal objects were recorded.",
+      "Metal objects were more common."
     ],
-    "correct": 0,
-    "explanation": "Ordering from greatest to least gives 10, 7, 4.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Seven is greater than three.\nHint: Compare the category counts.",
     "structuredExplanation": {
-      "summary": "Ordering from greatest to least gives 10, 7, 4.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Seven is greater than three.",
+      "hint": "Compare the category counts."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-010",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "A student answers “4, 7, 10”. Read the evidence in this question and choose the better answer: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?",
-    "audioPrompt": "A student answers “4, 7, 10”. Read the evidence in this question and choose the better answer: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-010",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Shadow lengths are 4, 7 and 10 blocks. Which order is longest to shortest?"
-    },
+    "question": "A student changes a tally after seeing another group’s result. Why is this wrong?",
+    "audioPrompt": "A student changes a tally after seeing another group’s result. Why is this wrong?",
+    "visual": "",
     "answers": [
-      "4, 7, 10",
-      "10, 7, 4",
-      "7, 4, 10"
+      "Different results are not allowed.",
+      "Data should record what was actually observed, not be changed to match others.",
+      "All groups must have identical data.",
+      "Tallies are only predictions."
     ],
     "correct": 1,
-    "explanation": "Ordering from greatest to least gives 10, 7, 4.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "explanation": "Scientific records should preserve the observed evidence.\nHint: Keep the original observation.",
     "structuredExplanation": {
-      "summary": "Ordering from greatest to least gives 10, 7, 4.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Scientific records should preserve the observed evidence.",
+      "hint": "Keep the original observation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-011",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "Which representation best compares simple counts across three materials?",
-    "audioPrompt": "Which representation best compares simple counts across three materials?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: Which representation best compares simple counts across three materials?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: Which representation best compares simple counts across three materials?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-011",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which representation best compares simple counts across three materials?"
-    },
+    "question": "Which table is easiest to interpret?",
+    "audioPrompt": "Which table is easiest to interpret?",
+    "visual": "",
     "answers": [
-      "a story with no numbers",
-      "one photograph",
-      "a labelled table or picture graph"
+      "One with a title, clear headings and accurate counts.",
+      "One with no headings.",
+      "One that mixes several investigations without labels.",
+      "One with erased results."
     ],
-    "correct": 2,
-    "explanation": "Tables and graphs make category counts visible.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "Labels and organised data make patterns easier to see.\nHint: Choose the clearest organisation.",
     "structuredExplanation": {
-      "summary": "Tables and graphs make category counts visible.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Labels and organised data make patterns easier to see.",
+      "hint": "Choose the clearest organisation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-012",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "A student answers “a story with no numbers”. Read the evidence in this question and choose the better answer: Which representation best compares simple counts across three materials?",
-    "audioPrompt": "A student answers “a story with no numbers”. Read the evidence in this question and choose the better answer: Which representation best compares simple counts across three materials?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: Which representation best compares simple counts across three materials?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: Which representation best compares simple counts across three materials?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-012",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: Which representation best compares simple counts across three materials?"
-    },
+    "question": "A class wants to compare which surface let a car travel farthest. What should the rows in a table identify?",
+    "audioPrompt": "A class wants to compare which surface let a car travel farthest. What should the rows in a table identify?",
+    "visual": "",
     "answers": [
-      "a labelled table or picture graph",
-      "a story with no numbers",
-      "one photograph"
+      "Only the car colour.",
+      "The students’ names and birthdays.",
+      "The predicted winner only.",
+      "Each surface and the distance travelled."
     ],
-    "correct": 0,
-    "explanation": "Tables and graphs make category counts visible.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "The table should include the condition and measured outcome.\nHint: Match headings to the investigation.",
     "structuredExplanation": {
-      "summary": "Tables and graphs make category counts visible.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "The table should include the condition and measured outcome.",
+      "hint": "Match headings to the investigation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-013",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "When is it reasonable to describe a data pattern?",
-    "audioPrompt": "When is it reasonable to describe a data pattern?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: When is it reasonable to describe a data pattern?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: When is it reasonable to describe a data pattern?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-013",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: When is it reasonable to describe a data pattern?"
-    },
+    "question": "Why might students order measured lengths after recording them?",
+    "audioPrompt": "Why might students order measured lengths after recording them?",
+    "visual": "",
     "answers": [
-      "after one unrelated value",
-      "when recorded values show a repeated or regular change",
-      "before collecting data"
+      "To guarantee a pattern.",
+      "To remove unusual values.",
+      "To make smallest and largest values easier to identify.",
+      "To change the measurements."
     ],
-    "correct": 1,
-    "explanation": "Patterns require supporting data.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Ordering data can make comparisons and patterns easier to see.\nHint: Think about what ordering reveals.",
     "structuredExplanation": {
-      "summary": "Patterns require supporting data.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Ordering data can make comparisons and patterns easier to see.",
+      "hint": "Think about what ordering reveals."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-014",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "A student answers “after one unrelated value”. Read the evidence in this question and choose the better answer: When is it reasonable to describe a data pattern?",
-    "audioPrompt": "A student answers “after one unrelated value”. Read the evidence in this question and choose the better answer: When is it reasonable to describe a data pattern?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: When is it reasonable to describe a data pattern?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: When is it reasonable to describe a data pattern?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-014",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: When is it reasonable to describe a data pattern?"
-    },
+    "question": "A class has 12 observations and sorts them into two groups of 5 and 7. How can they check none were missed?",
+    "audioPrompt": "A class has 12 observations and sorts them into two groups of 5 and 7. How can they check none were missed?",
+    "visual": "",
     "answers": [
-      "after one unrelated value",
-      "before collecting data",
-      "when recorded values show a repeated or regular change"
+      "Count only the larger group.",
+      "Confirm the group counts add to 12.",
+      "Make both groups contain 6 regardless of evidence.",
+      "Delete two observations."
     ],
-    "correct": 2,
-    "explanation": "Patterns require supporting data.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 1,
+    "explanation": "The total of all groups should match the total number of observations.\nHint: Add the group counts.",
     "structuredExplanation": {
-      "summary": "Patterns require supporting data.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "The total of all groups should match the total number of observations.",
+      "hint": "Add the group counts."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-015",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "A class records leaf colours and lengths in a table. What can they use these records for?",
-    "audioPrompt": "A class records leaf colours and lengths in a table. What can they use these records for?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: A class records leaf colours and lengths in a table. What can they use these records for?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: A class records leaf colours and lengths in a table. What can they use these records for?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-015",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: A class records leaf colours and lengths in a table. What can they use these records for?"
-    },
+    "question": "A display shows categories “floats” and “sinks.” What observation decides where an object belongs?",
+    "audioPrompt": "A display shows categories “floats” and “sinks.” What observation decides where an object belongs?",
+    "visual": "",
     "answers": [
-      "sorting and finding patterns",
-      "changing every leaf",
-      "choosing a result before observing"
+      "What the object does when placed in water during the test.",
+      "Its favourite colour.",
+      "Its price.",
+      "Its name length."
     ],
     "correct": 0,
-    "explanation": "Recorded observations are data that can be sorted and checked for patterns.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "The category is based on the observed behaviour in water.\nHint: Use the property named by the groups.",
     "structuredExplanation": {
-      "summary": "Recorded observations are data that can be sorted and checked for patterns.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "The category is based on the observed behaviour in water.",
+      "hint": "Use the property named by the groups."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i04-t-016",
     "curriculumCode": "AC9S2I04",
     "bank": "test",
-    "skill": "sort and represent data",
+    "skill": "sorting and representing data",
     "printable": true,
     "type": "single",
-    "question": "A student answers “changing every leaf”. Read the evidence in this question and choose the better answer: A class records leaf colours and lengths in a table. What can they use these records for?",
-    "audioPrompt": "A student answers “changing every leaf”. Read the evidence in this question and choose the better answer: A class records leaf colours and lengths in a table. What can they use these records for?",
-    "visual": "Observed items sorted into groups and represented in a simple table. Question context: A class records leaf colours and lengths in a table. What can they use these records for?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Observed items sorted into groups and represented in a simple table. Question context: A class records leaf colours and lengths in a table. What can they use these records for?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i04.svg#ac9s2i04-t-016",
-      "alt_text": "Observed items sorted into groups and represented in a simple table. Question context: A class records leaf colours and lengths in a table. What can they use these records for?"
-    },
+    "question": "A table shows the same count for two categories. What should a student say?",
+    "audioPrompt": "A table shows the same count for two categories. What should a student say?",
+    "visual": "",
     "answers": [
-      "changing every leaf",
-      "sorting and finding patterns",
-      "choosing a result before observing"
+      "One must secretly have more.",
+      "The table should be changed.",
+      "Equal counts mean the categories are identical in every way.",
+      "The two categories had equal recorded counts."
     ],
-    "correct": 1,
-    "explanation": "Recorded observations are data that can be sorted and checked for patterns.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "The evidence supports only that the recorded numbers are equal.\nHint: State only what the data shows.",
     "structuredExplanation": {
-      "summary": "Recorded observations are data that can be sorted and checked for patterns.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "The evidence supports only that the recorded numbers are equal.",
+      "hint": "State only what the data shows."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

@@ -1,1418 +1,1554 @@
 [
   {
-    "id": "AC9S2I05-P-001",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-001",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "A child predicted 6 drops; the result was 8. What is accurate?",
-    "audio_prompt": "A child predicted 6 drops; the result was 8. What is accurate?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-001",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: A child predicted 6 drops; the result was 8. What is accurate?"
-    },
+    "audioPrompt": "A child predicted 6 drops; the result was 8. What is accurate?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the prediction was exact",
-        "is_correct": false
-      },
-      {
-        "text": "the result should be changed",
-        "is_correct": false
-      },
-      {
-        "text": "the result was 2 more than predicted",
-        "is_correct": true
-      }
+      "the result was 2 more than predicted",
+      "the prediction was exact",
+      "the result should be changed",
+      "no comparison is possible"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 0,
+    "explanation": "Six and eight can be compared honestly.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Six and eight can be compared honestly.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-002",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-002",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "Two children both record a 5-block shadow. What does this show?",
-    "audio_prompt": "Two children both record a 5-block shadow. What does this show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-002",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Two children both record a 5-block shadow. What does this show?"
-    },
+    "audioPrompt": "Two children both record a 5-block shadow. What does this show?",
+    "visual": "",
     "answers": [
-      {
-        "text": "their observations agree",
-        "is_correct": true
-      },
-      {
-        "text": "one must be wrong",
-        "is_correct": false
-      },
-      {
-        "text": "the shadow is always 5 blocks",
-        "is_correct": false
-      }
+      "one must be wrong",
+      "the shadow is always 5 blocks",
+      "predictions caused the result",
+      "their observations agree"
     ],
-    "correct_index": 0,
-    "explanation": {
+    "correct": 3,
+    "explanation": "Matching records show agreement for that observation.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Matching records show agreement for that observation.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-003",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-003",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "Two lengths differ. What should students do first?",
-    "audio_prompt": "Two lengths differ. What should students do first?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-003",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Two lengths differ. What should students do first?"
-    },
+    "audioPrompt": "Two lengths differ. What should students do first?",
+    "visual": "",
     "answers": [
-      {
-        "text": "choose the larger automatically",
-        "is_correct": false
-      },
-      {
-        "text": "compare methods and units",
-        "is_correct": true
-      },
-      {
-        "text": "erase both",
-        "is_correct": false
-      }
+      "erase both",
+      "blame the object",
+      "compare methods and units",
+      "choose the larger automatically"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 2,
+    "explanation": "Method comparison can explain differences.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Method comparison can explain differences.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-004",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-004",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "Which test is fair?",
-    "audio_prompt": "Which test is fair?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-004",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Which test is fair?"
-    },
+    "audioPrompt": "Which test is fair?",
+    "visual": "",
     "answers": [
-      {
-        "text": "different paper, size and water",
-        "is_correct": false
-      },
-      {
-        "text": "no measurement",
-        "is_correct": false
-      },
-      {
-        "text": "same paper size and water amount, different paper type",
-        "is_correct": true
-      }
+      "results chosen first",
+      "same paper size and water amount, different paper type",
+      "different paper, size and water",
+      "no measurement"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 1,
+    "explanation": "Only the intended factor changes.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Only the intended factor changes.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-005",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-005",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "Why is testing one cloth with 2 drops and another with 10 drops unfair?",
-    "audio_prompt": "Why is testing one cloth with 2 drops and another with 10 drops unfair?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-005",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Why is testing one cloth with 2 drops and another with 10 drops unfair?"
-    },
+    "audioPrompt": "Why is testing one cloth with 2 drops and another with 10 drops unfair?",
+    "visual": "",
     "answers": [
-      {
-        "text": "water amount also changed",
-        "is_correct": true
-      },
-      {
-        "text": "cloth cannot absorb",
-        "is_correct": false
-      },
-      {
-        "text": "drops are not observations",
-        "is_correct": false
-      }
+      "water amount also changed",
+      "cloth cannot absorb",
+      "drops are not observations",
+      "fair tests need different everything"
     ],
-    "correct_index": 0,
-    "explanation": {
+    "correct": 0,
+    "explanation": "A second changing factor confuses the comparison.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "A second changing factor confuses the comparison.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-006",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-006",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "What should happen when evidence does not match a prediction?",
-    "audio_prompt": "What should happen when evidence does not match a prediction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-006",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: What should happen when evidence does not match a prediction?"
-    },
+    "audioPrompt": "What should happen when evidence does not match a prediction?",
+    "visual": "",
     "answers": [
-      {
-        "text": "hide it",
-        "is_correct": false
-      },
-      {
-        "text": "record it and consider why",
-        "is_correct": true
-      },
-      {
-        "text": "change it",
-        "is_correct": false
-      }
+      "hide it",
+      "change it",
+      "claim the prediction was right",
+      "record it and consider why"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 3,
+    "explanation": "Unexpected results are valuable evidence.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Unexpected results are valuable evidence.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-007",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-007",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "Ice melted faster in sunlight. Which question could come next?",
-    "audio_prompt": "Ice melted faster in sunlight. Which question could come next?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-007",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Ice melted faster in sunlight. Which question could come next?"
-    },
+    "audioPrompt": "Ice melted faster in sunlight. Which question could come next?",
+    "visual": "",
     "answers": [
-      {
-        "text": "Which ice is nicest?",
-        "is_correct": false
-      },
-      {
-        "text": "Can ice remember?",
-        "is_correct": false
-      },
-      {
-        "text": "Does container colour affect melting time?",
-        "is_correct": true
-      }
+      "Can ice remember?",
+      "Why is everything cold?",
+      "Does container colour affect melting time?",
+      "Which ice is nicest?"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 2,
+    "explanation": "The result can lead to another investigable question.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "The result can lead to another investigable question.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-008",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-008",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "Why repeat a fair test?",
-    "audio_prompt": "Why repeat a fair test?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-008",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Why repeat a fair test?"
-    },
+    "audioPrompt": "Why repeat a fair test?",
+    "visual": "",
     "answers": [
-      {
-        "text": "to see whether a similar result occurs again",
-        "is_correct": true
-      },
-      {
-        "text": "to force the prediction",
-        "is_correct": false
-      },
-      {
-        "text": "to change every condition",
-        "is_correct": false
-      }
+      "to remove data",
+      "to see whether a similar result occurs again",
+      "to force the prediction",
+      "to change every condition"
     ],
-    "correct_index": 0,
-    "explanation": {
+    "correct": 1,
+    "explanation": "Repetition checks consistency.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Repetition checks consistency.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-009",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-009",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "What helps two groups compare results?",
-    "audio_prompt": "What helps two groups compare results?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-009",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: What helps two groups compare results?"
-    },
+    "audioPrompt": "What helps two groups compare results?",
+    "visual": "",
     "answers": [
-      {
-        "text": "use secret categories",
-        "is_correct": false
-      },
-      {
-        "text": "use the same headings and units",
-        "is_correct": true
-      },
-      {
-        "text": "change labels",
-        "is_correct": false
-      }
+      "use the same headings and units",
+      "use secret categories",
+      "change labels",
+      "record only opinions"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 0,
+    "explanation": "Common formats make observations comparable.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Common formats make observations comparable.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-010",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Mia's result differs from her prediction. Which record is scientifically honest?",
-    "audio_prompt": "Mia's result differs from her prediction. Which record is scientifically honest?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-010",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Mia's result differs from her prediction. Which record is scientifically honest?"
-    },
-    "answers": [
-      {
-        "text": "change the result to match",
-        "is_correct": false
-      },
-      {
-        "text": "hide the observation",
-        "is_correct": false
-      },
-      {
-        "text": "write the result that was observed",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A result must report the observation even when it differs from a prediction.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-011",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Group A measures 7 blocks and Group B measures 7 blocks. What can be concluded?",
-    "audio_prompt": "Group A measures 7 blocks and Group B measures 7 blocks. What can be concluded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-011",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Group A measures 7 blocks and Group B measures 7 blocks. What can be concluded?"
-    },
-    "answers": [
-      {
-        "text": "the measurements agree for this trial",
-        "is_correct": true
-      },
-      {
-        "text": "all future trials equal 7",
-        "is_correct": false
-      },
-      {
-        "text": "the test is automatically fair",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Agreement does not prove every future result.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-012",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Two ramps use the same car and surface but different heights. Is this fair?",
-    "audio_prompt": "Two ramps use the same car and surface but different heights. Is this fair?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-012",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Two ramps use the same car and surface but different heights. Is this fair?"
-    },
-    "answers": [
-      {
-        "text": "no, nothing may change",
-        "is_correct": false
-      },
-      {
-        "text": "yes, ramp height is the main change",
-        "is_correct": true
-      },
-      {
-        "text": "no, cars cannot be tested",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Controlled conditions isolate height.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-013",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Predicted loud, observed soft. What should be recorded?",
-    "audio_prompt": "Predicted loud, observed soft. What should be recorded?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-013",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Predicted loud, observed soft. What should be recorded?"
-    },
-    "answers": [
-      {
-        "text": "change soft to loud",
-        "is_correct": false
-      },
-      {
-        "text": "delete prediction",
-        "is_correct": false
-      },
-      {
-        "text": "prediction and observation did not match",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The comparison must reflect the evidence.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-014",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "A fabric did not stretch. What is a useful next question?",
-    "audio_prompt": "A fabric did not stretch. What is a useful next question?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-014",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: A fabric did not stretch. What is a useful next question?"
-    },
-    "answers": [
-      {
-        "text": "Would a different fabric stretch under the same gentle pull?",
-        "is_correct": true
-      },
-      {
-        "text": "Is fabric good?",
-        "is_correct": false
-      },
-      {
-        "text": "Can cloth think?",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The question extends the investigation fairly.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-015",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Why release toy cars from the same start line?",
-    "audio_prompt": "Why release toy cars from the same start line?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-015",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Why release toy cars from the same start line?"
-    },
-    "answers": [
-      {
-        "text": "to make all distances equal",
-        "is_correct": false
-      },
-      {
-        "text": "to keep starting position controlled",
-        "is_correct": true
-      },
-      {
-        "text": "to change speed secretly",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Same starts support fair comparison.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-016",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "One child counts 6 petals and another 7. What action is best?",
-    "audio_prompt": "One child counts 6 petals and another 7. What action is best?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-016",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: One child counts 6 petals and another 7. What action is best?"
-    },
-    "answers": [
-      {
-        "text": "average without checking",
-        "is_correct": false
-      },
-      {
-        "text": "choose a favourite answer",
-        "is_correct": false
-      },
-      {
-        "text": "look together and recount carefully",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Rechecking the same evidence can resolve a difference.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-017",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Groups used different-sized blocks to measure. Why might results differ?",
-    "audio_prompt": "Groups used different-sized blocks to measure. Why might results differ?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-017",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Groups used different-sized blocks to measure. Why might results differ?"
-    },
-    "answers": [
-      {
-        "text": "their informal units were not the same",
-        "is_correct": true
-      },
-      {
-        "text": "the object changed material",
-        "is_correct": false
-      },
-      {
-        "text": "one prediction was stronger",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Different unit sizes give different counts.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-018",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "To compare melting locations, what should be kept the same?",
-    "audio_prompt": "To compare melting locations, what should be kept the same?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-018",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: To compare melting locations, what should be kept the same?"
-    },
-    "answers": [
-      {
-        "text": "location",
-        "is_correct": false
-      },
-      {
-        "text": "ice size and container type",
-        "is_correct": true
-      },
-      {
-        "text": "every temperature",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Control other conditions while location changes.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-019",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "A friend says the answer must match the prediction. What is better?",
-    "audio_prompt": "A friend says the answer must match the prediction. What is better?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-019",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: A friend says the answer must match the prediction. What is better?"
-    },
-    "answers": [
-      {
-        "text": "friends decide results",
-        "is_correct": false
-      },
-      {
-        "text": "predictions replace tests",
-        "is_correct": false
-      },
-      {
-        "text": "the recorded observation decides the result",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Evidence has priority over expectations.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S2I05-P-020",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Which action could make a comparison unfair?",
-    "audio_prompt": "Which action could make a comparison unfair?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-020",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Which action could make a comparison unfair?"
-    },
-    "answers": [
-      {
-        "text": "giving the preferred sample extra testing time",
-        "is_correct": true
-      },
-      {
-        "text": "using equal amounts",
-        "is_correct": false
-      },
-      {
-        "text": "labelling samples",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Unequal time favours one sample.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-021",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-010",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement is correct?",
+    "audioPrompt": "Which statement is correct?",
+    "visual": "",
+    "answers": [
+      "both mean a guess",
+      "results come first",
+      "predictions must be correct",
+      "a prediction is made before; a result is observed after"
+    ],
+    "correct": 3,
+    "explanation": "Timing and evidence distinguish them.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Timing and evidence distinguish them.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-011",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Group A measures 7 blocks and Group B measures 7 blocks. What can be concluded?",
+    "audioPrompt": "Group A measures 7 blocks and Group B measures 7 blocks. What can be concluded?",
+    "visual": "",
+    "answers": [
+      "the test is automatically fair",
+      "7 was predicted",
+      "the measurements agree for this trial",
+      "all future trials equal 7"
+    ],
+    "correct": 2,
+    "explanation": "Agreement does not prove every future result.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Agreement does not prove every future result.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-012",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Two ramps use the same car and surface but different heights. Is this fair?",
+    "audioPrompt": "Two ramps use the same car and surface but different heights. Is this fair?",
+    "visual": "",
+    "answers": [
+      "yes, because results are known",
+      "yes, ramp height is the main change",
+      "no, nothing may change",
+      "no, cars cannot be tested"
+    ],
+    "correct": 1,
+    "explanation": "Controlled conditions isolate height.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Controlled conditions isolate height.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-013",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Predicted loud, observed soft. What should be recorded?",
+    "audioPrompt": "Predicted loud, observed soft. What should be recorded?",
+    "visual": "",
+    "answers": [
+      "prediction and observation did not match",
+      "change soft to loud",
+      "delete prediction",
+      "say both matched"
+    ],
+    "correct": 0,
+    "explanation": "The comparison must reflect the evidence.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "The comparison must reflect the evidence.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-014",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A fabric did not stretch. What is a useful next question?",
+    "audioPrompt": "A fabric did not stretch. What is a useful next question?",
+    "visual": "",
+    "answers": [
+      "Is fabric good?",
+      "Can cloth think?",
+      "Why was my prediction wrong forever?",
+      "Would a different fabric stretch under the same gentle pull?"
+    ],
+    "correct": 3,
+    "explanation": "The question extends the investigation fairly.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "The question extends the investigation fairly.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-015",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Why release toy cars from the same start line?",
+    "audioPrompt": "Why release toy cars from the same start line?",
+    "visual": "",
+    "answers": [
+      "to change speed secretly",
+      "because lines measure mass",
+      "to keep starting position controlled",
+      "to make all distances equal"
+    ],
+    "correct": 2,
+    "explanation": "Same starts support fair comparison.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Same starts support fair comparison.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-016",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "One child counts 6 petals and another 7. What action is best?",
+    "audioPrompt": "One child counts 6 petals and another 7. What action is best?",
+    "visual": "",
+    "answers": [
+      "remove a petal",
+      "look together and recount carefully",
+      "average without checking",
+      "choose a favourite answer"
+    ],
+    "correct": 1,
+    "explanation": "Rechecking the same evidence can resolve a difference.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Rechecking the same evidence can resolve a difference.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-017",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Groups used different-sized blocks to measure. Why might results differ?",
+    "audioPrompt": "Groups used different-sized blocks to measure. Why might results differ?",
+    "visual": "",
+    "answers": [
+      "their informal units were not the same",
+      "the object changed material",
+      "one prediction was stronger",
+      "blocks measure temperature"
+    ],
+    "correct": 0,
+    "explanation": "Different unit sizes give different counts.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Different unit sizes give different counts.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-018",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "To compare melting locations, what should be kept the same?",
+    "audioPrompt": "To compare melting locations, what should be kept the same?",
+    "visual": "",
+    "answers": [
+      "location",
+      "every temperature",
+      "the final result",
+      "ice size and container type"
+    ],
+    "correct": 3,
+    "explanation": "Control other conditions while location changes.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Control other conditions while location changes.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-019",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A friend says the answer must match the prediction. What is better?",
+    "audioPrompt": "A friend says the answer must match the prediction. What is better?",
+    "visual": "",
+    "answers": [
+      "predictions replace tests",
+      "erase differences",
+      "the recorded observation decides the result",
+      "friends decide results"
+    ],
+    "correct": 2,
+    "explanation": "Evidence has priority over expectations.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Evidence has priority over expectations.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-020",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Which action could make a comparison unfair?",
+    "audioPrompt": "Which action could make a comparison unfair?",
+    "visual": "",
+    "answers": [
+      "recording immediately",
+      "giving the preferred sample extra testing time",
+      "using equal amounts",
+      "labelling samples"
+    ],
+    "correct": 1,
+    "explanation": "Unequal time favours one sample.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Unequal time favours one sample.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-021",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "Which words help compare results?",
-    "audio_prompt": "Which words help compare results?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-021",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Which words help compare results?"
-    },
+    "audioPrompt": "Which words help compare results?",
+    "visual": "",
     "answers": [
-      {
-        "text": "nice and boring",
-        "is_correct": false
-      },
-      {
-        "text": "more than, less than and equal to",
-        "is_correct": true
-      },
-      {
-        "text": "mine and yours",
-        "is_correct": false
-      }
+      "more than, less than and equal to",
+      "nice and boring",
+      "mine and yours",
+      "maybe without evidence"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 0,
+    "explanation": "Comparison words state relationships.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Comparison words state relationships.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-022",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-022",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "Both groups got the same result once. What is a careful claim?",
-    "audio_prompt": "Both groups got the same result once. What is a careful claim?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-022",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Both groups got the same result once. What is a careful claim?"
-    },
+    "audioPrompt": "Both groups got the same result once. What is a careful claim?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the result will always happen",
-        "is_correct": false
-      },
-      {
-        "text": "all methods were perfect",
-        "is_correct": false
-      },
-      {
-        "text": "the results agreed in this investigation",
-        "is_correct": true
-      }
+      "the result will always happen",
+      "all methods were perfect",
+      "no repeat is useful",
+      "the results agreed in this investigation"
     ],
-    "correct_index": 2,
-    "explanation": {
+    "correct": 3,
+    "explanation": "Claims should not exceed the evidence.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Claims should not exceed the evidence.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-023",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-023",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "Groups report different sound volumes. What question could they ask?",
-    "audio_prompt": "Groups report different sound volumes. What question could they ask?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-023",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Groups report different sound volumes. What question could they ask?"
-    },
+    "audioPrompt": "Groups report different sound volumes. What question could they ask?",
+    "visual": "",
     "answers": [
-      {
-        "text": "Were the striking action and listening distance the same?",
-        "is_correct": true
-      },
-      {
-        "text": "Which group is best?",
-        "is_correct": false
-      },
-      {
-        "text": "Can sound lie?",
-        "is_correct": false
-      }
+      "Can sound lie?",
+      "Who likes music?",
+      "Were the striking action and listening distance the same?",
+      "Which group is best?"
     ],
-    "correct_index": 0,
-    "explanation": {
+    "correct": 2,
+    "explanation": "Checking controlled conditions investigates disagreement.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Checking controlled conditions investigates disagreement.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-P-024",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-p-024",
+    "curriculumCode": "AC9S2I05",
     "bank": "practice",
-    "skill": "compare_evidence_and_fairness",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
     "question": "Why observe plants at the same time each day?",
-    "audio_prompt": "Why observe plants at the same time each day?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-p-024",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Why observe plants at the same time each day?"
-    },
+    "audioPrompt": "Why observe plants at the same time each day?",
+    "visual": "",
     "answers": [
-      {
-        "text": "plants stop growing",
-        "is_correct": false
-      },
-      {
-        "text": "time is kept consistent",
-        "is_correct": true
-      },
-      {
-        "text": "all heights become equal",
-        "is_correct": false
-      }
+      "time is the result",
+      "time is kept consistent",
+      "plants stop growing",
+      "all heights become equal"
     ],
-    "correct_index": 1,
-    "explanation": {
+    "correct": 1,
+    "explanation": "Consistent timing improves comparison.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
       "summary": "Consistent timing improves comparison.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-025",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "After testing, why revisit the prediction reason?",
+    "audioPrompt": "After testing, why revisit the prediction reason?",
+    "visual": "",
+    "answers": [
+      "to see whether evidence supports the reasoning",
+      "to rewrite history",
+      "to guarantee correctness",
+      "to remove unexpected data"
+    ],
+    "correct": 0,
+    "explanation": "Reflection connects prior thinking with evidence.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Reflection connects prior thinking with evidence.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-026",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Why compare with other observers?",
+    "audioPrompt": "Why compare with other observers?",
+    "visual": "",
+    "answers": [
+      "to copy blindly",
+      "to vote on truth",
+      "to avoid recording",
+      "to check for agreement and notice possible differences"
+    ],
+    "correct": 3,
+    "explanation": "Comparison can reveal reliability or method issues.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Comparison can reveal reliability or method issues.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-027",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Why use equal-sized paper pieces?",
+    "audioPrompt": "Why use equal-sized paper pieces?",
+    "visual": "",
+    "answers": [
+      "size cannot affect absorption",
+      "to change two factors",
+      "size is controlled while paper type changes",
+      "larger pieces must win"
+    ],
+    "correct": 2,
+    "explanation": "Surface size can affect the result.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Surface size can affect the result.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-028",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Two trials match but one differs greatly. What should students do?",
+    "audioPrompt": "Two trials match but one differs greatly. What should students do?",
+    "visual": "",
+    "answers": [
+      "claim no pattern exists immediately",
+      "check the method and repeat if safe",
+      "delete the different trial",
+      "change it to match"
+    ],
+    "correct": 1,
+    "explanation": "An unusual result should be investigated honestly.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "An unusual result should be investigated honestly.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-029",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "What is a useful improvement after water spills affected results?",
+    "audioPrompt": "What is a useful improvement after water spills affected results?",
+    "visual": "",
+    "answers": [
+      "use trays and measure carefully",
+      "ignore spills",
+      "add random water",
+      "stop labelling"
+    ],
+    "correct": 0,
+    "explanation": "Controlling spills makes the next comparison fairer.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Controlling spills makes the next comparison fairer.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-030",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Moon drawings changed across nights. What could students ask next?",
+    "audioPrompt": "Moon drawings changed across nights. What could students ask next?",
+    "visual": "",
+    "answers": [
+      "Is the Moon happy?",
+      "Which drawing is prettiest?",
+      "Can night be removed?",
+      "Does the visible shape follow a pattern over more nights?"
+    ],
+    "correct": 3,
+    "explanation": "The new question extends observed change.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "The new question extends observed change.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-031",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "What makes an investigation fair?",
+    "audioPrompt": "What makes an investigation fair?",
+    "visual": "",
+    "answers": [
+      "the prediction is correct",
+      "all results are equal",
+      "the compared groups differ mainly in the chosen factor",
+      "every condition differs"
+    ],
+    "correct": 2,
+    "explanation": "Controlling other factors supports interpretation.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Controlling other factors supports interpretation.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-032",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "What does compare observations mean?",
+    "audioPrompt": "What does compare observations mean?",
+    "visual": "",
+    "answers": [
+      "ignore another observer",
+      "notice similarities and differences between records",
+      "make records identical",
+      "choose the longest record"
+    ],
+    "correct": 1,
+    "explanation": "Comparison examines agreement and difference.\nHint: Use the observations and science idea in the question.",
+    "structuredExplanation": {
+      "summary": "Comparison examines agreement and difference.",
+      "hint": "Use the observations and science idea in the question."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-033",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A student predicted a toy car would travel farther on tile than carpet. It travelled 120 cm on tile and 55 cm on carpet. What should the student say?",
+    "audioPrompt": "A student predicted a toy car would travel farther on tile than carpet. It travelled 120 cm on tile and 55 cm on carpet. What should the student say?",
+    "visual": "",
+    "answers": [
+      "The result supported the prediction in this test.",
+      "The prediction must be true for every car.",
+      "The carpet result should be changed.",
+      "The test proves tile is always best."
+    ],
+    "correct": 0,
+    "explanation": "The measured result matches the direction of the prediction for this investigation.\nHint: Compare the prediction with the actual measurements.",
+    "structuredExplanation": {
+      "summary": "The measured result matches the direction of the prediction for this investigation.",
+      "hint": "Compare the prediction with the actual measurements."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-034",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A prediction says the darker fabric will warm faster, but both fabrics reach the same temperature. What is the best conclusion?",
+    "audioPrompt": "A prediction says the darker fabric will warm faster, but both fabrics reach the same temperature. What is the best conclusion?",
+    "visual": "",
+    "answers": [
+      "The result should be changed to fit the prediction.",
+      "The darker fabric definitely warmed faster.",
+      "The investigation has no result.",
+      "The prediction was not supported by this result."
+    ],
+    "correct": 3,
+    "explanation": "Scientific conclusions compare the prediction with what was actually observed.\nHint: Use the recorded evidence, not the expected answer.",
+    "structuredExplanation": {
+      "summary": "Scientific conclusions compare the prediction with what was actually observed.",
+      "hint": "Use the recorded evidence, not the expected answer."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-035",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Two groups repeat the same test and get slightly different distances. What should they do?",
+    "audioPrompt": "Two groups repeat the same test and get slightly different distances. What should they do?",
+    "visual": "",
+    "answers": [
+      "Choose the result they prefer.",
+      "Assume one group cheated.",
+      "Compare methods and results to look for a reason for the difference.",
+      "Delete the smaller result."
+    ],
+    "correct": 2,
+    "explanation": "Differences can be investigated by checking procedures and repeated evidence.\nHint: Look for a scientific comparison rather than blame.",
+    "structuredExplanation": {
+      "summary": "Differences can be investigated by checking procedures and repeated evidence.",
+      "hint": "Look for a scientific comparison rather than blame."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 35,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-036",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A class changes both the ramp height and the car between two trials. Why is the result hard to interpret?",
+    "audioPrompt": "A class changes both the ramp height and the car between two trials. Why is the result hard to interpret?",
+    "visual": "",
+    "answers": [
+      "The class used two trials.",
+      "More than one factor changed.",
+      "The car moved.",
+      "Distance was measured."
+    ],
+    "correct": 1,
+    "explanation": "When several factors change, it is hard to know which caused the difference.\nHint: Think about fairness.",
+    "structuredExplanation": {
+      "summary": "When several factors change, it is hard to know which caused the difference.",
+      "hint": "Think about fairness."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-037",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A student records an unexpected result. What is the correct response?",
+    "audioPrompt": "A student records an unexpected result. What is the correct response?",
+    "visual": "",
+    "answers": [
+      "Keep the result and consider repeating the test.",
+      "Erase it because it is unusual.",
+      "Replace it with the prediction.",
+      "Copy another group’s result."
+    ],
+    "correct": 0,
+    "explanation": "Unexpected observations are still evidence and should be recorded honestly.\nHint: Preserve the evidence first.",
+    "structuredExplanation": {
+      "summary": "Unexpected observations are still evidence and should be recorded honestly.",
+      "hint": "Preserve the evidence first."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-038",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A prediction and result match once. What should a student avoid claiming?",
+    "audioPrompt": "A prediction and result match once. What should a student avoid claiming?",
+    "visual": "",
+    "answers": [
+      "That the result matched this prediction.",
+      "That more trials could provide more evidence.",
+      "That the measurement should be recorded.",
+      "That the same result must happen every time in every situation."
+    ],
+    "correct": 3,
+    "explanation": "One trial does not justify a universal claim.\nHint: Avoid words such as always and every.",
+    "structuredExplanation": {
+      "summary": "One trial does not justify a universal claim.",
+      "hint": "Avoid words such as always and every."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-039",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Which result gives the strongest evidence for a repeated pattern?",
+    "audioPrompt": "Which result gives the strongest evidence for a repeated pattern?",
+    "visual": "",
+    "answers": [
+      "A result copied from a friend.",
+      "A prediction written after the test.",
+      "Three similar trials give close measurements.",
+      "One unmeasured guess."
+    ],
+    "correct": 2,
+    "explanation": "Repeated similar results provide stronger evidence of consistency.\nHint: Look for repeated measurements.",
+    "structuredExplanation": {
+      "summary": "Repeated similar results provide stronger evidence of consistency.",
+      "hint": "Look for repeated measurements."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-p-040",
+    "curriculumCode": "AC9S2I05",
+    "bank": "practice",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A student predicted the long rubber band would make a lower sound. The long band sounded lower in three trials. What is a careful conclusion?",
+    "audioPrompt": "A student predicted the long rubber band would make a lower sound. The long band sounded lower in three trials. What is a careful conclusion?",
+    "visual": "",
+    "answers": [
+      "The prediction becomes a scientific law.",
+      "The results supported the prediction for the bands tested.",
+      "Long rubber bands always make the lowest sound possible.",
+      "The short band was not making sound."
+    ],
+    "correct": 1,
+    "explanation": "A careful conclusion stays within the evidence collected.\nHint: Keep the conclusion limited to the test.",
+    "structuredExplanation": {
+      "summary": "A careful conclusion stays within the evidence collected.",
+      "hint": "Keep the conclusion limited to the test."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2i05-t-001",
+    "curriculumCode": "AC9S2I05",
+    "bank": "test",
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A class predicts warm water will dissolve sugar faster. Warm water takes 25 s and cool water 70 s. What does the result show?",
+    "audioPrompt": "A class predicts warm water will dissolve sugar faster. Warm water takes 25 s and cool water 70 s. What does the result show?",
+    "visual": "",
+    "answers": [
+      "Temperature had no observed relationship.",
+      "The times should be made equal.",
+      "The result supports the prediction in this test.",
+      "Cool water dissolved the sugar faster."
+    ],
+    "correct": 2,
+    "explanation": "The measured time was shorter in warm water, matching the prediction.\nHint: Compare which time is smaller.",
+    "structuredExplanation": {
+      "summary": "The measured time was shorter in warm water, matching the prediction.",
+      "hint": "Compare which time is smaller."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-001",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-002",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "After testing, why revisit the prediction reason?",
-    "audio_prompt": "After testing, why revisit the prediction reason?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-001",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: After testing, why revisit the prediction reason?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A class predicts a paper helicopter with longer blades will fall more slowly. The long-blade model takes 3.2 s and the short-blade model 2.1 s. Which statement is best?",
+    "audioPrompt": "A class predicts a paper helicopter with longer blades will fall more slowly. The long-blade model takes 3.2 s and the short-blade model 2.1 s. Which statement is best?",
+    "visual": "",
     "answers": [
-      {
-        "text": "to rewrite history",
-        "is_correct": false
-      },
-      {
-        "text": "to guarantee correctness",
-        "is_correct": false
-      },
-      {
-        "text": "to see whether evidence supports the reasoning",
-        "is_correct": true
-      }
+      "The measurements should be ignored.",
+      "The longer-blade model took more time to fall in this test.",
+      "Long blades always make every object fall slowly.",
+      "The short model took more time."
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Reflection connects prior thinking with evidence.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 1,
+    "explanation": "A conclusion should report the measured difference without overgeneralising.\nHint: State what the numbers show.",
+    "structuredExplanation": {
+      "summary": "A conclusion should report the measured difference without overgeneralising.",
+      "hint": "State what the numbers show."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-002",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-003",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "A student answers “to rewrite history”. Read the evidence in this question and choose the better answer: After testing, why revisit the prediction reason?",
-    "audio_prompt": "A student answers “to rewrite history”. Read the evidence in this question and choose the better answer: After testing, why revisit the prediction reason?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-002",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: After testing, why revisit the prediction reason?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "One group releases a car gently while another pushes it hard. Can their travel distances fairly compare surfaces?",
+    "audioPrompt": "One group releases a car gently while another pushes it hard. Can their travel distances fairly compare surfaces?",
+    "visual": "",
     "answers": [
-      {
-        "text": "to see whether evidence supports the reasoning",
-        "is_correct": true
-      },
-      {
-        "text": "to rewrite history",
-        "is_correct": false
-      },
-      {
-        "text": "to guarantee correctness",
-        "is_correct": false
-      }
+      "Not well, because the starting force was different.",
+      "Yes, because both used cars.",
+      "Yes, because distance was measured.",
+      "No, because cars cannot be used in science."
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Reflection connects prior thinking with evidence.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 0,
+    "explanation": "Different starting forces can affect distance and make the comparison unfair.\nHint: Check whether procedures were the same.",
+    "structuredExplanation": {
+      "summary": "Different starting forces can affect distance and make the comparison unfair.",
+      "hint": "Check whether procedures were the same."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-003",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-004",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Why compare with other observers?",
-    "audio_prompt": "Why compare with other observers?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-003",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Why compare with other observers?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A prediction says an ice cube in sunlight will melt first. The shaded cube melts first because it was much smaller. What fairness issue matters?",
+    "audioPrompt": "A prediction says an ice cube in sunlight will melt first. The shaded cube melts first because it was much smaller. What fairness issue matters?",
+    "visual": "",
     "answers": [
-      {
-        "text": "to copy blindly",
-        "is_correct": false
-      },
-      {
-        "text": "to check for agreement and notice possible differences",
-        "is_correct": true
-      },
-      {
-        "text": "to vote on truth",
-        "is_correct": false
-      }
+      "The ice melted.",
+      "The shade had less light.",
+      "A timer was used.",
+      "The ice cubes did not start the same size."
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Comparison can reveal reliability or method issues.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 3,
+    "explanation": "Different starting sizes could explain the result, so the test was not a fair comparison of location alone.\nHint: Identify the extra changed factor.",
+    "structuredExplanation": {
+      "summary": "Different starting sizes could explain the result, so the test was not a fair comparison of location alone.",
+      "hint": "Identify the extra changed factor."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-004",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-005",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "A student answers “to copy blindly”. Read the evidence in this question and choose the better answer: Why compare with other observers?",
-    "audio_prompt": "A student answers “to copy blindly”. Read the evidence in this question and choose the better answer: Why compare with other observers?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-004",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Why compare with other observers?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Two trials give 52 cm and 54 cm, but a third gives 140 cm. What is a sensible next step?",
+    "audioPrompt": "Two trials give 52 cm and 54 cm, but a third gives 140 cm. What is a sensible next step?",
+    "visual": "",
     "answers": [
-      {
-        "text": "to copy blindly",
-        "is_correct": false
-      },
-      {
-        "text": "to vote on truth",
-        "is_correct": false
-      },
-      {
-        "text": "to check for agreement and notice possible differences",
-        "is_correct": true
-      }
+      "Delete all three results.",
+      "Assume 140 cm is automatically correct.",
+      "Check the third trial method and repeat it.",
+      "Replace 140 cm with 53 cm without testing."
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Comparison can reveal reliability or method issues.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 2,
+    "explanation": "An unusual value should be checked rather than altered without evidence.\nHint: Investigate the outlier.",
+    "structuredExplanation": {
+      "summary": "An unusual value should be checked rather than altered without evidence.",
+      "hint": "Investigate the outlier."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-005",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-006",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Why use equal-sized paper pieces?",
-    "audio_prompt": "Why use equal-sized paper pieces?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-005",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Why use equal-sized paper pieces?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A student predicted that rough carpet would slow a car more than tile. The car travelled 35 cm on carpet and 95 cm on tile. Which idea is supported?",
+    "audioPrompt": "A student predicted that rough carpet would slow a car more than tile. The car travelled 35 cm on carpet and 95 cm on tile. Which idea is supported?",
+    "visual": "",
     "answers": [
-      {
-        "text": "size is controlled while paper type changes",
-        "is_correct": true
-      },
-      {
-        "text": "larger pieces must win",
-        "is_correct": false
-      },
-      {
-        "text": "size cannot affect absorption",
-        "is_correct": false
-      }
+      "The car changed mass on tile.",
+      "The rough carpet slowed the car more in this test.",
+      "The carpet made the car speed up.",
+      "Surface had no observed effect."
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Surface size can affect the result.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 1,
+    "explanation": "The shorter distance on carpet supports greater resistance to motion there.\nHint: Compare the distances.",
+    "structuredExplanation": {
+      "summary": "The shorter distance on carpet supports greater resistance to motion there.",
+      "hint": "Compare the distances."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-006",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-007",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "A student answers “larger pieces must win”. Read the evidence in this question and choose the better answer: Why use equal-sized paper pieces?",
-    "audio_prompt": "A student answers “larger pieces must win”. Read the evidence in this question and choose the better answer: Why use equal-sized paper pieces?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-006",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Why use equal-sized paper pieces?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Why compare a prediction with the result after an investigation?",
+    "audioPrompt": "Why compare a prediction with the result after an investigation?",
+    "visual": "",
     "answers": [
-      {
-        "text": "larger pieces must win",
-        "is_correct": false
-      },
-      {
-        "text": "size is controlled while paper type changes",
-        "is_correct": true
-      },
-      {
-        "text": "size cannot affect absorption",
-        "is_correct": false
-      }
+      "To decide whether the evidence supported the prediction.",
+      "To force the result to match.",
+      "To remove any unexpected observation.",
+      "To make the prediction become a measurement."
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Surface size can affect the result.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 0,
+    "explanation": "Predictions are evaluated using the evidence collected.\nHint: Think about the purpose of results.",
+    "structuredExplanation": {
+      "summary": "Predictions are evaluated using the evidence collected.",
+      "hint": "Think about the purpose of results."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-007",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-008",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Two trials match but one differs greatly. What should students do?",
-    "audio_prompt": "Two trials match but one differs greatly. What should students do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-007",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Two trials match but one differs greatly. What should students do?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A class gets different results on two days but changed the equipment on day two. What should they consider?",
+    "audioPrompt": "A class gets different results on two days but changed the equipment on day two. What should they consider?",
+    "visual": "",
     "answers": [
-      {
-        "text": "delete the different trial",
-        "is_correct": false
-      },
-      {
-        "text": "change it to match",
-        "is_correct": false
-      },
-      {
-        "text": "check the method and repeat if safe",
-        "is_correct": true
-      }
+      "The second result must be wrong.",
+      "The first day should be erased.",
+      "Equipment never affects investigations.",
+      "The equipment change may have affected the comparison."
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "An unusual result should be investigated honestly.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 3,
+    "explanation": "Changes in method or equipment can influence results.\nHint: Look for a difference in procedure.",
+    "structuredExplanation": {
+      "summary": "Changes in method or equipment can influence results.",
+      "hint": "Look for a difference in procedure."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-008",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-009",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "A student answers “delete the different trial”. Read the evidence in this question and choose the better answer: Two trials match but one differs greatly. What should students do?",
-    "audio_prompt": "A student answers “delete the different trial”. Read the evidence in this question and choose the better answer: Two trials match but one differs greatly. What should students do?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-008",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Two trials match but one differs greatly. What should students do?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A student says, “My prediction was wrong, so the investigation failed.” What is the better scientific response?",
+    "audioPrompt": "A student says, “My prediction was wrong, so the investigation failed.” What is the better scientific response?",
+    "visual": "",
     "answers": [
-      {
-        "text": "check the method and repeat if safe",
-        "is_correct": true
-      },
-      {
-        "text": "delete the different trial",
-        "is_correct": false
-      },
-      {
-        "text": "change it to match",
-        "is_correct": false
-      }
+      "The result should be hidden.",
+      "Predictions must never be revised.",
+      "The investigation still provided useful evidence about what happened.",
+      "A test only succeeds when the prediction is correct."
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "An unusual result should be investigated honestly.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 2,
+    "explanation": "Science learns from results whether or not they match predictions.\nHint: Separate a useful investigation from a correct guess.",
+    "structuredExplanation": {
+      "summary": "Science learns from results whether or not they match predictions.",
+      "hint": "Separate a useful investigation from a correct guess."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-009",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-010",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "What is a useful improvement after water spills affected results?",
-    "audio_prompt": "What is a useful improvement after water spills affected results?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-009",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: What is a useful improvement after water spills affected results?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Three groups test the same towel and record 18, 19 and 18 drops absorbed. What can they reasonably say?",
+    "audioPrompt": "Three groups test the same towel and record 18, 19 and 18 drops absorbed. What can they reasonably say?",
+    "visual": "",
     "answers": [
-      {
-        "text": "ignore spills",
-        "is_correct": false
-      },
-      {
-        "text": "use trays and measure carefully",
-        "is_correct": true
-      },
-      {
-        "text": "add random water",
-        "is_correct": false
-      }
+      "The data has no pattern.",
+      "The results are quite consistent across the three trials.",
+      "Every towel absorbs exactly 18 drops.",
+      "The 19-drop result must be deleted."
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Controlling spills makes the next comparison fairer.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 1,
+    "explanation": "Close repeated values suggest reasonable consistency.\nHint: Compare how close the values are.",
+    "structuredExplanation": {
+      "summary": "Close repeated values suggest reasonable consistency.",
+      "hint": "Compare how close the values are."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-010",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-011",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "A student answers “ignore spills”. Read the evidence in this question and choose the better answer: What is a useful improvement after water spills affected results?",
-    "audio_prompt": "A student answers “ignore spills”. Read the evidence in this question and choose the better answer: What is a useful improvement after water spills affected results?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-010",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: What is a useful improvement after water spills affected results?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A class records only the best-looking result from five trials. Why is this poor practice?",
+    "audioPrompt": "A class records only the best-looking result from five trials. Why is this poor practice?",
+    "visual": "",
     "answers": [
-      {
-        "text": "ignore spills",
-        "is_correct": false
-      },
-      {
-        "text": "add random water",
-        "is_correct": false
-      },
-      {
-        "text": "use trays and measure carefully",
-        "is_correct": true
-      }
+      "It hides evidence from the other trials.",
+      "Science should always choose one result.",
+      "Only large numbers count as data.",
+      "Repeated trials are unnecessary."
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Controlling spills makes the next comparison fairer.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 0,
+    "explanation": "All relevant results should be considered when evaluating evidence.\nHint: Think about selective reporting.",
+    "structuredExplanation": {
+      "summary": "All relevant results should be considered when evaluating evidence.",
+      "hint": "Think about selective reporting."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-011",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-012",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Moon drawings changed across nights. What could students ask next?",
-    "audio_prompt": "Moon drawings changed across nights. What could students ask next?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-011",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Moon drawings changed across nights. What could students ask next?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A student tests two balls but uses different ramps. What can be concluded about ball type?",
+    "audioPrompt": "A student tests two balls but uses different ramps. What can be concluded about ball type?",
+    "visual": "",
     "answers": [
-      {
-        "text": "Does the visible shape follow a pattern over more nights?",
-        "is_correct": true
-      },
-      {
-        "text": "Is the Moon happy?",
-        "is_correct": false
-      },
-      {
-        "text": "Which drawing is prettiest?",
-        "is_correct": false
-      }
+      "The faster ball is definitely better.",
+      "Ball type caused every difference.",
+      "Ramp type cannot affect motion.",
+      "The comparison is unclear because ramp type also changed."
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The new question extends observed change.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 3,
+    "explanation": "More than one changed factor prevents a clear comparison.\nHint: Check the fair-test conditions.",
+    "structuredExplanation": {
+      "summary": "More than one changed factor prevents a clear comparison.",
+      "hint": "Check the fair-test conditions."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-012",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-013",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "A student answers “Is the Moon happy?”. Read the evidence in this question and choose the better answer: Moon drawings changed across nights. What could students ask next?",
-    "audio_prompt": "A student answers “Is the Moon happy?”. Read the evidence in this question and choose the better answer: Moon drawings changed across nights. What could students ask next?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-012",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Moon drawings changed across nights. What could students ask next?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A prediction is supported by two similar trials. What would strengthen the evidence further?",
+    "audioPrompt": "A prediction is supported by two similar trials. What would strengthen the evidence further?",
+    "visual": "",
     "answers": [
-      {
-        "text": "Is the Moon happy?",
-        "is_correct": false
-      },
-      {
-        "text": "Does the visible shape follow a pattern over more nights?",
-        "is_correct": true
-      },
-      {
-        "text": "Which drawing is prettiest?",
-        "is_correct": false
-      }
+      "Stop recording measurements.",
+      "Rewrite the prediction as a certainty.",
+      "Repeat the investigation using the same fair method.",
+      "Change several variables at once."
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The new question extends observed change.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 2,
+    "explanation": "Additional consistent trials can provide stronger evidence.\nHint: Choose the action that adds comparable data.",
+    "structuredExplanation": {
+      "summary": "Additional consistent trials can provide stronger evidence.",
+      "hint": "Choose the action that adds comparable data."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-013",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-014",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "What makes an investigation fair?",
-    "audio_prompt": "What makes an investigation fair?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-013",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: What makes an investigation fair?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A group’s result differs from the rest of the class. What should the class do before deciding why?",
+    "audioPrompt": "A group’s result differs from the rest of the class. What should the class do before deciding why?",
+    "visual": "",
     "answers": [
-      {
-        "text": "every condition differs",
-        "is_correct": false
-      },
-      {
-        "text": "the prediction is correct",
-        "is_correct": false
-      },
-      {
-        "text": "the compared groups differ mainly in the chosen factor",
-        "is_correct": true
-      }
+      "Ignore all other results.",
+      "Compare the group’s method and observations with the others.",
+      "Assume the group is wrong.",
+      "Change the group’s number."
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Controlling other factors supports interpretation.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
+    "correct": 1,
+    "explanation": "Comparing procedures and evidence can reveal possible reasons for differences.\nHint: Check method before judging the result.",
+    "structuredExplanation": {
+      "summary": "Comparing procedures and evidence can reveal possible reasons for differences.",
+      "hint": "Check method before judging the result."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-014",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-015",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "A student answers “every condition differs”. Read the evidence in this question and choose the better answer: What makes an investigation fair?",
-    "audio_prompt": "A student answers “every condition differs”. Read the evidence in this question and choose the better answer: What makes an investigation fair?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-014",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: What makes an investigation fair?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Which conclusion is too strong for one classroom test?",
+    "audioPrompt": "Which conclusion is too strong for one classroom test?",
+    "visual": "",
     "answers": [
-      {
-        "text": "the compared groups differ mainly in the chosen factor",
-        "is_correct": true
-      },
-      {
-        "text": "every condition differs",
-        "is_correct": false
-      },
-      {
-        "text": "the prediction is correct",
-        "is_correct": false
-      }
+      "All smooth surfaces everywhere make cars travel exactly 80 cm.",
+      "The car travelled farther on smooth tile in our test.",
+      "Our result supported the prediction.",
+      "Repeating could check the pattern."
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Controlling other factors supports interpretation.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "correct": 0,
+    "explanation": "A single investigation cannot justify an exact universal claim.\nHint: Look for absolute wording.",
+    "structuredExplanation": {
+      "summary": "A single investigation cannot justify an exact universal claim.",
+      "hint": "Look for absolute wording."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
-    "id": "AC9S2I05-T-015",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
+    "id": "ac9s2i05-t-016",
+    "curriculumCode": "AC9S2I05",
     "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "Mia records a 6-block shadow and Lee records a 7-block shadow. What should they do next?",
-    "audio_prompt": "Mia records a 6-block shadow and Lee records a 7-block shadow. What should they do next?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-015",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Mia records a 6-block shadow and Lee records a 7-block shadow. What should they do next?"
-    },
+    "skill": "comparing predictions, results and investigation evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A prediction expected 10 bird visits, but 6 were counted. What should be communicated?",
+    "audioPrompt": "A prediction expected 10 bird visits, but 6 were counted. What should be communicated?",
+    "visual": "",
     "answers": [
-      {
-        "text": "change both records to 6",
-        "is_correct": false
-      },
-      {
-        "text": "check how their observations are alike and different",
-        "is_correct": true
-      },
-      {
-        "text": "hide one result",
-        "is_correct": false
-      }
+      "Write 10 visits because that was predicted.",
+      "Do not report the count.",
+      "Count four extra visits later.",
+      "Six visits were observed, so the prediction was not supported exactly."
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Comparing means checking similarities and differences in observations.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
-    }
-  },
-  {
-    "id": "AC9S2I05-T-016",
-    "subject": "science",
-    "year_level": "Year 2",
-    "curriculum_code": "AC9S2I05",
-    "bank": "test",
-    "skill": "compare_evidence_and_fairness",
-    "question": "A student answers “change both records to 6”. Read the evidence in this question and choose the better answer: Mia records a 6-block shadow and Lee records a 7-block shadow. What should they do next?",
-    "audio_prompt": "A student answers “change both records to 6”. Read the evidence in this question and choose the better answer: Mia records a 6-block shadow and Lee records a 7-block shadow. What should they do next?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i05.svg#ac9s2i05-t-016",
-      "alt_text": "Two investigation records compared with a prediction and a fairness checklist. Question context: Mia records a 6-block shadow and Lee records a 7-block shadow. What should they do next?"
+    "correct": 3,
+    "explanation": "Results must report actual observations even when they differ from predictions.\nHint: Use the recorded count.",
+    "structuredExplanation": {
+      "summary": "Results must report actual observations even when they differ from predictions.",
+      "hint": "Use the recorded count."
     },
-    "answers": [
-      {
-        "text": "change both records to 6",
-        "is_correct": false
-      },
-      {
-        "text": "hide one result",
-        "is_correct": false
-      },
-      {
-        "text": "check how their observations are alike and different",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Comparing means checking similarities and differences in observations.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
-    }
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ]

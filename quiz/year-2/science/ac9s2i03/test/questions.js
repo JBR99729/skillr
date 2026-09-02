@@ -1,469 +1,435 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9s2i03-t-001",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Why title a diagram?",
-    "audioPrompt": "Why title a diagram?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: Why title a diagram?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: Why title a diagram?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-001",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why title a diagram?"
-    },
+    "question": "A plant is measured every Monday. Which table heading is most useful?",
+    "audioPrompt": "A plant is measured every Monday. Which table heading is most useful?",
+    "visual": "",
     "answers": [
-      "to state what the record shows",
-      "to decorate the page only",
-      "to replace labels"
+      "Guess | colour wanted.",
+      "Student name | lunch choice.",
+      "Date | plant height in cubes.",
+      "Favourite plant | mood."
     ],
-    "correct": 0,
-    "explanation": "A title identifies the observation or model.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Useful tables name the variable and when it was recorded.\nHint: Choose headings that match the investigation.",
     "structuredExplanation": {
-      "summary": "A title identifies the observation or model.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Useful tables name the variable and when it was recorded.",
+      "hint": "Choose headings that match the investigation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-002",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A student answers “to decorate the page only”. Read the evidence in this question and choose the better answer: Why title a diagram?",
-    "audioPrompt": "A student answers “to decorate the page only”. Read the evidence in this question and choose the better answer: Why title a diagram?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: Why title a diagram?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: Why title a diagram?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-002",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why title a diagram?"
-    },
+    "question": "A child times how long an ice cube takes to melt. What should be recorded?",
+    "audioPrompt": "A child times how long an ice cube takes to melt. What should be recorded?",
+    "visual": "",
     "answers": [
-      "to decorate the page only",
-      "to state what the record shows",
-      "to replace labels"
+      "A different group’s result with no label.",
+      "The measured time and the condition used.",
+      "Only the child’s prediction.",
+      "The cup colour."
     ],
     "correct": 1,
-    "explanation": "A title identifies the observation or model.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "explanation": "The time and test condition are needed to interpret the result.\nHint: Record both outcome and context.",
     "structuredExplanation": {
-      "summary": "A title identifies the observation or model.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "The time and test condition are needed to interpret the result.",
+      "hint": "Record both outcome and context."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-003",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "What do headings do in a table?",
-    "audioPrompt": "What do headings do in a table?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: What do headings do in a table?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: What do headings do in a table?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-003",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: What do headings do in a table?"
-    },
+    "question": "Two shells are compared. Which is the clearest observation?",
+    "audioPrompt": "Two shells are compared. Which is the clearest observation?",
+    "visual": "",
     "answers": [
-      "make every value identical",
-      "remove the need for data",
-      "name what each column records"
+      "Shell A has 6 dark stripes; Shell B has 3.",
+      "Shell A is better.",
+      "Shell B looks lucky.",
+      "Both shells are interesting."
     ],
-    "correct": 2,
-    "explanation": "Headings give values meaning.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "Counts give specific evidence that can be compared.\nHint: Choose the measurable observation.",
     "structuredExplanation": {
-      "summary": "Headings give values meaning.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Counts give specific evidence that can be compared.",
+      "hint": "Choose the measurable observation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-004",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A student answers “make every value identical”. Read the evidence in this question and choose the better answer: What do headings do in a table?",
-    "audioPrompt": "A student answers “make every value identical”. Read the evidence in this question and choose the better answer: What do headings do in a table?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: What do headings do in a table?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: What do headings do in a table?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-004",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: What do headings do in a table?"
-    },
+    "question": "A student measures a pencil as 12 cubes long, then 13 cubes long without moving the pencil. What should the student do?",
+    "audioPrompt": "A student measures a pencil as 12 cubes long, then 13 cubes long without moving the pencil. What should the student do?",
+    "visual": "",
     "answers": [
-      "name what each column records",
-      "make every value identical",
-      "remove the need for data"
+      "Choose 13 because it is larger.",
+      "Average every number without checking.",
+      "Change the pencil length.",
+      "Check the cube placement and measure again carefully."
     ],
-    "correct": 0,
-    "explanation": "Headings give values meaning.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "A mismatch suggests the measuring method should be checked.\nHint: Look for a careful recheck.",
     "structuredExplanation": {
-      "summary": "Headings give values meaning.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "A mismatch suggests the measuring method should be checked.",
+      "hint": "Look for a careful recheck."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-005",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "How should a tablet be used near water samples?",
-    "audioPrompt": "How should a tablet be used near water samples?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: How should a tablet be used near water samples?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: How should a tablet be used near water samples?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-005",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: How should a tablet be used near water samples?"
-    },
+    "question": "Why use the same-sized blocks to measure several objects?",
+    "audioPrompt": "Why use the same-sized blocks to measure several objects?",
+    "visual": "",
     "answers": [
-      "placed beside spills",
-      "kept dry and handled using class rules",
-      "used with wet hands"
+      "The blocks make objects equal in length.",
+      "The object colour becomes measurable.",
+      "The measurements can be compared using a consistent unit.",
+      "Different blocks always give the same count."
     ],
-    "correct": 1,
-    "explanation": "Safe device handling protects people and equipment.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Consistent units make measurements easier to compare.\nHint: Think about equal units.",
     "structuredExplanation": {
-      "summary": "Safe device handling protects people and equipment.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Consistent units make measurements easier to compare.",
+      "hint": "Think about equal units."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-006",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A student answers “placed beside spills”. Read the evidence in this question and choose the better answer: How should a tablet be used near water samples?",
-    "audioPrompt": "A student answers “placed beside spills”. Read the evidence in this question and choose the better answer: How should a tablet be used near water samples?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: How should a tablet be used near water samples?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: How should a tablet be used near water samples?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-006",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: How should a tablet be used near water samples?"
-    },
+    "question": "A class records bird visits with tally marks. What does one tally represent?",
+    "audioPrompt": "A class records bird visits with tally marks. What does one tally represent?",
+    "visual": "",
     "answers": [
-      "placed beside spills",
-      "used with wet hands",
-      "kept dry and handled using class rules"
+      "One bird species forever.",
+      "One observed visit.",
+      "Five visits automatically.",
+      "One prediction."
     ],
-    "correct": 2,
-    "explanation": "Safe device handling protects people and equipment.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 1,
+    "explanation": "Each tally records one counted event unless grouped later.\nHint: Match one mark to one event.",
     "structuredExplanation": {
-      "summary": "Safe device handling protects people and equipment.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Each tally records one counted event unless grouped later.",
+      "hint": "Match one mark to one event."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-007",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A drawing is larger than the real seed. What should be clear?",
-    "audioPrompt": "A drawing is larger than the real seed. What should be clear?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: A drawing is larger than the real seed. What should be clear?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: A drawing is larger than the real seed. What should be clear?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-007",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: A drawing is larger than the real seed. What should be clear?"
-    },
+    "question": "A child sketches a rock and labels “rough edge” and “smooth face.” Why are labels useful?",
+    "audioPrompt": "A child sketches a rock and labels “rough edge” and “smooth face.” Why are labels useful?",
+    "visual": "",
     "answers": [
-      "it is an enlarged scientific drawing",
-      "the seed grew instantly",
-      "the drawing is the real seed"
+      "They connect specific observations to parts of the object.",
+      "They make the rock smoother.",
+      "They replace all written records.",
+      "They show which part is prettiest."
     ],
     "correct": 0,
-    "explanation": "Scientific drawings may enlarge detail but should not mislead.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Labels clarify what features were observed and where.\nHint: Look for clearer communication of observations.",
     "structuredExplanation": {
-      "summary": "Scientific drawings may enlarge detail but should not mislead.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Labels clarify what features were observed and where.",
+      "hint": "Look for clearer communication of observations."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-008",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A student answers “the seed grew instantly”. Read the evidence in this question and choose the better answer: A drawing is larger than the real seed. What should be clear?",
-    "audioPrompt": "A student answers “the seed grew instantly”. Read the evidence in this question and choose the better answer: A drawing is larger than the real seed. What should be clear?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: A drawing is larger than the real seed. What should be clear?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: A drawing is larger than the real seed. What should be clear?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-008",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: A drawing is larger than the real seed. What should be clear?"
-    },
+    "question": "Which record best separates observation from opinion?",
+    "audioPrompt": "Which record best separates observation from opinion?",
+    "visual": "",
     "answers": [
-      "the seed grew instantly",
-      "it is an enlarged scientific drawing",
-      "the drawing is the real seed"
+      "The flower is the prettiest.",
+      "The flower should win.",
+      "Red is the best colour.",
+      "The flower has 5 red petals."
     ],
-    "correct": 1,
-    "explanation": "Scientific drawings may enlarge detail but should not mislead.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "Counting petals and naming colour are observable; the others are preferences.\nHint: Choose the objective statement.",
     "structuredExplanation": {
-      "summary": "Scientific drawings may enlarge detail but should not mislead.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Counting petals and naming colour are observable; the others are preferences.",
+      "hint": "Choose the objective statement."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-009",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Which senses are normally safe for observing approved objects?",
-    "audioPrompt": "Which senses are normally safe for observing approved objects?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: Which senses are normally safe for observing approved objects?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: Which senses are normally safe for observing approved objects?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-009",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which senses are normally safe for observing approved objects?"
-    },
+    "question": "A thermometer reads 24 °C in one place and 31 °C in another. What should the student record?",
+    "audioPrompt": "A thermometer reads 24 °C in one place and 31 °C in another. What should the student record?",
+    "visual": "",
     "answers": [
-      "taste every sample",
-      "smell unknown substances closely",
-      "sight, hearing and approved gentle touch"
+      "The number they expected.",
+      "A guess about next week.",
+      "Both temperatures and where each was measured.",
+      "Only the larger number."
     ],
     "correct": 2,
-    "explanation": "Senses are used only within safe procedures.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Both values and their conditions are needed for comparison.\nHint: Keep all relevant measured results.",
     "structuredExplanation": {
-      "summary": "Senses are used only within safe procedures.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Both values and their conditions are needed for comparison.",
+      "hint": "Keep all relevant measured results."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-010",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A student answers “taste every sample”. Read the evidence in this question and choose the better answer: Which senses are normally safe for observing approved objects?",
-    "audioPrompt": "A student answers “taste every sample”. Read the evidence in this question and choose the better answer: Which senses are normally safe for observing approved objects?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: Which senses are normally safe for observing approved objects?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: Which senses are normally safe for observing approved objects?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-010",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Which senses are normally safe for observing approved objects?"
-    },
+    "question": "A student forgets which cup was in sunlight. What record-keeping improvement would help next time?",
+    "audioPrompt": "A student forgets which cup was in sunlight. What record-keeping improvement would help next time?",
+    "visual": "",
     "answers": [
-      "sight, hearing and approved gentle touch",
-      "taste every sample",
-      "smell unknown substances closely"
+      "Change both cups after the test.",
+      "Label the cups before starting.",
+      "Use more cups without labels.",
+      "Write the conclusion first."
     ],
-    "correct": 0,
-    "explanation": "Senses are used only within safe procedures.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 1,
+    "explanation": "Labels connect observations to the correct condition.\nHint: Think about preventing mix-ups.",
     "structuredExplanation": {
-      "summary": "Senses are used only within safe procedures.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Labels connect observations to the correct condition.",
+      "hint": "Think about preventing mix-ups."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-011",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Two children record different lengths. What should they check?",
-    "audioPrompt": "Two children record different lengths. What should they check?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: Two children record different lengths. What should they check?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: Two children record different lengths. What should they check?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-011",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Two children record different lengths. What should they check?"
-    },
+    "question": "Which observation could be made using hearing?",
+    "audioPrompt": "Which observation could be made using hearing?",
+    "visual": "",
     "answers": [
-      "which child is older",
-      "whether they used the same unit and start point",
-      "whose answer is prettier"
+      "The tuning fork produced a faint ringing sound.",
+      "The ruler was 15 cm long.",
+      "The leaf was green.",
+      "The water was 20 °C."
     ],
-    "correct": 1,
-    "explanation": "Method differences can explain measurement differences.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "Hearing is used to observe sound features.\nHint: Match the sense to the observation.",
     "structuredExplanation": {
-      "summary": "Method differences can explain measurement differences.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Hearing is used to observe sound features.",
+      "hint": "Match the sense to the observation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-012",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A student answers “which child is older”. Read the evidence in this question and choose the better answer: Two children record different lengths. What should they check?",
-    "audioPrompt": "A student answers “which child is older”. Read the evidence in this question and choose the better answer: Two children record different lengths. What should they check?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: Two children record different lengths. What should they check?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: Two children record different lengths. What should they check?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-012",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Two children record different lengths. What should they check?"
-    },
+    "question": "Which observation could be made safely using touch?",
+    "audioPrompt": "Which observation could be made safely using touch?",
+    "visual": "",
     "answers": [
-      "which child is older",
-      "whose answer is prettier",
-      "whether they used the same unit and start point"
+      "An unknown chemical tastes sour.",
+      "The hot plate feels hot.",
+      "Broken glass feels sharp.",
+      "The fabric feels rough compared with the smooth fabric."
     ],
-    "correct": 2,
-    "explanation": "Method differences can explain measurement differences.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "Touch can compare safe materials when there is no hazard.\nHint: Choose the safe tactile observation.",
     "structuredExplanation": {
-      "summary": "Method differences can explain measurement differences.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Touch can compare safe materials when there is no hazard.",
+      "hint": "Choose the safe tactile observation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-013",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Why record soon after observing?",
-    "audioPrompt": "Why record soon after observing?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: Why record soon after observing?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: Why record soon after observing?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-013",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why record soon after observing?"
-    },
+    "question": "Why take a photograph from the same position each day during a plant investigation?",
+    "audioPrompt": "Why take a photograph from the same position each day during a plant investigation?",
+    "visual": "",
     "answers": [
-      "details are less likely to be forgotten",
-      "the result can be invented later",
-      "time makes all data equal"
+      "It guarantees identical weather.",
+      "It replaces all other measurements.",
+      "It makes changes in size or shape easier to compare.",
+      "It forces the plant to grow."
     ],
-    "correct": 0,
-    "explanation": "Prompt recording improves accuracy.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Consistent photographs can provide comparable visual records.\nHint: Think about keeping the viewpoint consistent.",
     "structuredExplanation": {
-      "summary": "Prompt recording improves accuracy.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Consistent photographs can provide comparable visual records.",
+      "hint": "Think about keeping the viewpoint consistent."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-014",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A student answers “the result can be invented later”. Read the evidence in this question and choose the better answer: Why record soon after observing?",
-    "audioPrompt": "A student answers “the result can be invented later”. Read the evidence in this question and choose the better answer: Why record soon after observing?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: Why record soon after observing?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: Why record soon after observing?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-014",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Why record soon after observing?"
-    },
+    "question": "A child records “about 8 cm” when a ruler shows exactly 8.2 cm. Which record is more precise?",
+    "audioPrompt": "A child records “about 8 cm” when a ruler shows exactly 8.2 cm. Which record is more precise?",
+    "visual": "",
     "answers": [
-      "the result can be invented later",
-      "details are less likely to be forgotten",
-      "time makes all data equal"
+      "bigger than yesterday maybe.",
+      "8.2 cm.",
+      "about 8 cm.",
+      "long."
     ],
     "correct": 1,
-    "explanation": "Prompt recording improves accuracy.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "explanation": "The ruler reading gives a more precise numerical measurement.\nHint: Choose the most specific measured value.",
     "structuredExplanation": {
-      "summary": "Prompt recording improves accuracy.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "The ruler reading gives a more precise numerical measurement.",
+      "hint": "Choose the most specific measured value."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-015",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?",
-    "audioPrompt": "Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-015",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?"
-    },
+    "question": "A table has one row with no unit beside a length value. Why is that a problem?",
+    "audioPrompt": "A table has one row with no unit beside a length value. Why is that a problem?",
+    "visual": "",
     "answers": [
-      "it gives only her favourite idea",
-      "it changes the leaf",
-      "it states features she observed"
+      "The number is unclear because the measurement unit is missing.",
+      "The number becomes wrong automatically.",
+      "Units are only used for temperature.",
+      "The table cannot contain numbers."
     ],
-    "correct": 2,
-    "explanation": "The sentence records visible features and an informal measurement.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "A measurement needs a unit so its meaning is clear.\nHint: Look for what gives the number meaning.",
     "structuredExplanation": {
-      "summary": "The sentence records visible features and an informal measurement.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "A measurement needs a unit so its meaning is clear.",
+      "hint": "Look for what gives the number meaning."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2i03-t-016",
     "curriculumCode": "AC9S2I03",
     "bank": "test",
-    "skill": "record observations",
+    "skill": "observing, measuring and recording",
     "printable": true,
     "type": "single",
-    "question": "A student answers “it gives only her favourite idea”. Read the evidence in this question and choose the better answer: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?",
-    "audioPrompt": "A student answers “it gives only her favourite idea”. Read the evidence in this question and choose the better answer: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?",
-    "visual": "A child observing an object and recording a labelled measurement in a table. Question context: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A child observing an object and recording a labelled measurement in a table. Question context: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2i03.svg#ac9s2i03-t-016",
-      "alt_text": "A child observing an object and recording a labelled measurement in a table. Question context: Mia writes, ‘The leaf has five points and is 8 cubes long.’ Why is this a useful record?"
-    },
+    "question": "A surprising result is observed twice. What should be written in the record?",
+    "audioPrompt": "A surprising result is observed twice. What should be written in the record?",
+    "visual": "",
     "answers": [
-      "it states features she observed",
-      "it gives only her favourite idea",
-      "it changes the leaf"
+      "A more expected number.",
+      "Nothing, because it is unusual.",
+      "The prediction instead.",
+      "The surprising result exactly as observed."
     ],
-    "correct": 0,
-    "explanation": "The sentence records visible features and an informal measurement.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "Records should report evidence honestly, including unexpected observations.\nHint: Do not alter evidence to fit expectations.",
     "structuredExplanation": {
-      "summary": "The sentence records visible features and an informal measurement.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Records should report evidence honestly, including unexpected observations.",
+      "hint": "Do not alter evidence to fit expectations."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

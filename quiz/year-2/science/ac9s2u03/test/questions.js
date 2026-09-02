@@ -1,469 +1,435 @@
 "use strict";
-window.skillrTestQuestions = [
+window.skillrExamQuestions = [
   {
     "id": "ac9s2u03-t-001",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Clay is flattened. Which properties can be checked before and after?",
-    "audioPrompt": "Clay is flattened. Which properties can be checked before and after?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Clay is flattened. Which properties can be checked before and after?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Clay is flattened. Which properties can be checked before and after?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-001",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Clay is flattened. Which properties can be checked before and after?"
-    },
+    "question": "A clay snake is rolled back into a ball. What does this show?",
+    "audioPrompt": "A clay snake is rolled back into a ball. What does this show?",
+    "visual": "",
     "answers": [
-      "shape and thickness",
-      "planet and star type",
-      "pitch and volume only"
+      "Rolling always breaks clay permanently.",
+      "Shape cannot change more than once.",
+      "Some shape changes can be reversed.",
+      "Clay becomes a new material each time it is shaped."
     ],
-    "correct": 0,
-    "explanation": "Shape and thickness are observable material features.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Soft materials can often be reshaped repeatedly.\nHint: Think about reversibility.",
     "structuredExplanation": {
-      "summary": "Shape and thickness are observable material features.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Soft materials can often be reshaped repeatedly.",
+      "hint": "Think about reversibility."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-002",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A student answers “planet and star type”. Read the evidence in this question and choose the better answer: Clay is flattened. Which properties can be checked before and after?",
-    "audioPrompt": "A student answers “planet and star type”. Read the evidence in this question and choose the better answer: Clay is flattened. Which properties can be checked before and after?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Clay is flattened. Which properties can be checked before and after?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Clay is flattened. Which properties can be checked before and after?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-002\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-002",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Clay is flattened. Which properties can be checked before and after?"
-    },
+    "question": "A piece of paper is folded into a fan. Which statement is correct?",
+    "audioPrompt": "A piece of paper is folded into a fan. Which statement is correct?",
+    "visual": "",
     "answers": [
-      "planet and star type",
-      "shape and thickness",
-      "pitch and volume only"
+      "The paper changed into liquid.",
+      "The paper changed shape but is still paper.",
+      "The paper became metal.",
+      "The fold removed the paper’s material."
     ],
     "correct": 1,
-    "explanation": "Shape and thickness are observable material features.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "explanation": "Folding is a physical change in shape.\nHint: Identify what changed and what stayed the same.",
     "structuredExplanation": {
-      "summary": "Shape and thickness are observable material features.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Folding is a physical change in shape.",
+      "hint": "Identify what changed and what stayed the same."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-003",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Chalk is crushed to powder. What has happened?",
-    "audioPrompt": "Chalk is crushed to powder. What has happened?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Chalk is crushed to powder. What has happened?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Chalk is crushed to powder. What has happened?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-003\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-003",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Chalk is crushed to powder. What has happened?"
-    },
+    "question": "A dry cracker is snapped in half. What is the clearest observation?",
+    "audioPrompt": "A dry cracker is snapped in half. What is the clearest observation?",
+    "visual": "",
     "answers": [
-      "it became flour",
-      "it became a liquid",
-      "it became smaller pieces of chalk"
+      "The cracker is now in smaller pieces.",
+      "The cracker became a different material.",
+      "The cracker’s mass disappeared.",
+      "The cracker changed into water."
     ],
-    "correct": 2,
-    "explanation": "Powder contains very small pieces of the same material.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "Breaking changes size and shape of the pieces.\nHint: Describe only the visible change.",
     "structuredExplanation": {
-      "summary": "Powder contains very small pieces of the same material.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Breaking changes size and shape of the pieces.",
+      "hint": "Describe only the visible change."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-004",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A student answers “it became flour”. Read the evidence in this question and choose the better answer: Chalk is crushed to powder. What has happened?",
-    "audioPrompt": "A student answers “it became flour”. Read the evidence in this question and choose the better answer: Chalk is crushed to powder. What has happened?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Chalk is crushed to powder. What has happened?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Chalk is crushed to powder. What has happened?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-004\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-004",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Chalk is crushed to powder. What has happened?"
-    },
+    "question": "A metal spoon is bent slightly. Which property changed most directly?",
+    "audioPrompt": "A metal spoon is bent slightly. Which property changed most directly?",
+    "visual": "",
     "answers": [
-      "it became smaller pieces of chalk",
-      "it became flour",
-      "it became a liquid"
+      "Material type.",
+      "Colour necessarily.",
+      "Whether it has mass.",
+      "Shape."
     ],
-    "correct": 0,
-    "explanation": "Powder contains very small pieces of the same material.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "Bending changes geometry without necessarily changing the material.\nHint: Choose the direct physical property.",
     "structuredExplanation": {
-      "summary": "Powder contains very small pieces of the same material.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Bending changes geometry without necessarily changing the material.",
+      "hint": "Choose the direct physical property."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-005",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A pencil is sharpened and wood shavings appear. What changed physically?",
-    "audioPrompt": "A pencil is sharpened and wood shavings appear. What changed physically?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: A pencil is sharpened and wood shavings appear. What changed physically?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: A pencil is sharpened and wood shavings appear. What changed physically?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-005\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-005",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: A pencil is sharpened and wood shavings appear. What changed physically?"
-    },
+    "question": "Which pair shows two different ways to change shape?",
+    "audioPrompt": "Which pair shows two different ways to change shape?",
+    "visual": "",
     "answers": [
-      "wood became plastic",
-      "some wood became smaller pieces",
-      "the pencil became a star"
+      "Cooling a book and counting a spoon.",
+      "Measuring a cup and drawing a line.",
+      "Stretching a band and squashing clay.",
+      "Looking at paper and naming a rock."
     ],
-    "correct": 1,
-    "explanation": "Sharpening changes size and shape.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Stretching and squashing both apply forces that deform materials.\nHint: Choose two actions that physically reshape objects.",
     "structuredExplanation": {
-      "summary": "Sharpening changes size and shape.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Stretching and squashing both apply forces that deform materials.",
+      "hint": "Choose two actions that physically reshape objects."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-006",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A student answers “wood became plastic”. Read the evidence in this question and choose the better answer: A pencil is sharpened and wood shavings appear. What changed physically?",
-    "audioPrompt": "A student answers “wood became plastic”. Read the evidence in this question and choose the better answer: A pencil is sharpened and wood shavings appear. What changed physically?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: A pencil is sharpened and wood shavings appear. What changed physically?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: A pencil is sharpened and wood shavings appear. What changed physically?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-006\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-006",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: A pencil is sharpened and wood shavings appear. What changed physically?"
-    },
+    "question": "Why is glass usually a poor choice for a bending investigation by hand?",
+    "audioPrompt": "Why is glass usually a poor choice for a bending investigation by hand?",
+    "visual": "",
     "answers": [
-      "wood became plastic",
-      "the pencil became a star",
-      "some wood became smaller pieces"
+      "Glass becomes rubber when bent.",
+      "It can break sharply and cause injury.",
+      "Glass cannot have a shape.",
+      "Glass is always soft."
     ],
-    "correct": 2,
-    "explanation": "Sharpening changes size and shape.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 1,
+    "explanation": "Brittle glass can fracture and is unsafe for this kind of test.\nHint: Consider safety and material properties.",
     "structuredExplanation": {
-      "summary": "Sharpening changes size and shape.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Brittle glass can fracture and is unsafe for this kind of test.",
+      "hint": "Consider safety and material properties."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-007",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Dough is pressed into a flat disc. Which effect is visible?",
-    "audioPrompt": "Dough is pressed into a flat disc. Which effect is visible?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Dough is pressed into a flat disc. Which effect is visible?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Dough is pressed into a flat disc. Which effect is visible?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-007\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-007",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Dough is pressed into a flat disc. Which effect is visible?"
-    },
+    "question": "A rubber band returns close to its original length after being stretched gently. What does this show?",
+    "audioPrompt": "A rubber band returns close to its original length after being stretched gently. What does this show?",
+    "visual": "",
     "answers": [
-      "it becomes flatter and wider",
-      "it becomes metal",
-      "it changes into a sound"
+      "The change was largely reversible.",
+      "The band became a new material.",
+      "The band permanently doubled in size.",
+      "Stretching removed its elasticity."
     ],
     "correct": 0,
-    "explanation": "Pressing changes shape and dimensions.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Elastic materials can return toward their original shape after the force is removed.\nHint: Think about what happens after release.",
     "structuredExplanation": {
-      "summary": "Pressing changes shape and dimensions.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Elastic materials can return toward their original shape after the force is removed.",
+      "hint": "Think about what happens after release."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-008",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A student answers “it becomes metal”. Read the evidence in this question and choose the better answer: Dough is pressed into a flat disc. Which effect is visible?",
-    "audioPrompt": "A student answers “it becomes metal”. Read the evidence in this question and choose the better answer: Dough is pressed into a flat disc. Which effect is visible?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Dough is pressed into a flat disc. Which effect is visible?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Dough is pressed into a flat disc. Which effect is visible?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-008\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-008",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Dough is pressed into a flat disc. Which effect is visible?"
-    },
+    "question": "A sheet of aluminium foil is crumpled. Which statement is most accurate?",
+    "audioPrompt": "A sheet of aluminium foil is crumpled. Which statement is most accurate?",
+    "visual": "",
     "answers": [
-      "it becomes metal",
-      "it becomes flatter and wider",
-      "it changes into a sound"
+      "It changed into a different substance.",
+      "Its mass vanished.",
+      "It became liquid.",
+      "Its shape changed greatly, but it is still aluminium foil."
     ],
-    "correct": 1,
-    "explanation": "Pressing changes shape and dimensions.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "Crumpling changes form rather than material identity.\nHint: Separate shape from composition.",
     "structuredExplanation": {
-      "summary": "Pressing changes shape and dimensions.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Crumpling changes form rather than material identity.",
+      "hint": "Separate shape from composition."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-009",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A clay block is rolled into a long cylinder. What is the strongest evidence of change?",
-    "audioPrompt": "A clay block is rolled into a long cylinder. What is the strongest evidence of change?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: A clay block is rolled into a long cylinder. What is the strongest evidence of change?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: A clay block is rolled into a long cylinder. What is the strongest evidence of change?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-009\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-009",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: A clay block is rolled into a long cylinder. What is the strongest evidence of change?"
-    },
+    "question": "A sponge and a stone are squeezed with similar gentle force. The sponge changes shape much more. What can be compared?",
+    "audioPrompt": "A sponge and a stone are squeezed with similar gentle force. The sponge changes shape much more. What can be compared?",
+    "visual": "",
     "answers": [
-      "the child's opinion",
-      "the table colour",
-      "a before-and-after length comparison"
+      "Whether both became new substances.",
+      "Whether force has no effect on materials.",
+      "How easily the materials deform.",
+      "Which object has the better colour."
     ],
     "correct": 2,
-    "explanation": "Length can be observed and compared.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "explanation": "Different materials can respond differently to the same type of force.\nHint: Compare their response to force.",
     "structuredExplanation": {
-      "summary": "Length can be observed and compared.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Different materials can respond differently to the same type of force.",
+      "hint": "Compare their response to force."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-010",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A student answers “the child's opinion”. Read the evidence in this question and choose the better answer: A clay block is rolled into a long cylinder. What is the strongest evidence of change?",
-    "audioPrompt": "A student answers “the child's opinion”. Read the evidence in this question and choose the better answer: A clay block is rolled into a long cylinder. What is the strongest evidence of change?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: A clay block is rolled into a long cylinder. What is the strongest evidence of change?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: A clay block is rolled into a long cylinder. What is the strongest evidence of change?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-010\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-010",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: A clay block is rolled into a long cylinder. What is the strongest evidence of change?"
-    },
+    "question": "A student twists a pipe cleaner into a spiral. What physical change occurred?",
+    "audioPrompt": "A student twists a pipe cleaner into a spiral. What physical change occurred?",
+    "visual": "",
     "answers": [
-      "a before-and-after length comparison",
-      "the child's opinion",
-      "the table colour"
+      "It changed into gas.",
+      "Its shape changed by twisting.",
+      "It became paper.",
+      "It lost all its mass."
     ],
-    "correct": 0,
-    "explanation": "Length can be observed and compared.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 1,
+    "explanation": "Twisting can reshape a flexible material.\nHint: Name the action and property changed.",
     "structuredExplanation": {
-      "summary": "Length can be observed and compared.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Twisting can reshape a flexible material.",
+      "hint": "Name the action and property changed."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-011",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Sam says a clay star is a new material because it was once a ball. What is correct?",
-    "audioPrompt": "Sam says a clay star is a new material because it was once a ball. What is correct?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Sam says a clay star is a new material because it was once a ball. What is correct?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Sam says a clay star is a new material because it was once a ball. What is correct?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-011\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-011",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Sam says a clay star is a new material because it was once a ball. What is correct?"
-    },
+    "question": "Which change is hardest to reverse exactly?",
+    "audioPrompt": "Which change is hardest to reverse exactly?",
+    "visual": "",
     "answers": [
-      "every new shape is a new material",
-      "both shapes are clay",
-      "the ball was metal"
+      "Tearing a sheet of paper into many pieces.",
+      "Gently stretching an elastic band.",
+      "Squashing soft clay and reshaping it.",
+      "Bending a pipe cleaner and straightening it."
     ],
-    "correct": 1,
-    "explanation": "Shape and composition are different ideas.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "Tearing separates the material into pieces, making exact restoration difficult.\nHint: Compare reversibility.",
     "structuredExplanation": {
-      "summary": "Shape and composition are different ideas.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Tearing separates the material into pieces, making exact restoration difficult.",
+      "hint": "Compare reversibility."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-012",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A student answers “every new shape is a new material”. Read the evidence in this question and choose the better answer: Sam says a clay star is a new material because it was once a ball. What is correct?",
-    "audioPrompt": "A student answers “every new shape is a new material”. Read the evidence in this question and choose the better answer: Sam says a clay star is a new material because it was once a ball. What is correct?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Sam says a clay star is a new material because it was once a ball. What is correct?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Sam says a clay star is a new material because it was once a ball. What is correct?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-012\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-012",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Sam says a clay star is a new material because it was once a ball. What is correct?"
-    },
+    "question": "A child says, “If an object changes shape, it must be a new material.” Which example disproves this?",
+    "audioPrompt": "A child says, “If an object changes shape, it must be a new material.” Which example disproves this?",
+    "visual": "",
     "answers": [
-      "every new shape is a new material",
-      "the ball was metal",
-      "both shapes are clay"
+      "Iron is a metal.",
+      "Water can be measured.",
+      "A shadow can move.",
+      "Clay can be flattened and still remain clay."
     ],
-    "correct": 2,
-    "explanation": "Shape and composition are different ideas.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "A shape change does not necessarily change material identity.\nHint: Choose an example where form changes but material does not.",
     "structuredExplanation": {
-      "summary": "Shape and composition are different ideas.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "A shape change does not necessarily change material identity.",
+      "hint": "Choose an example where form changes but material does not."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-013",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Which group contains only physical changes?",
-    "audioPrompt": "Which group contains only physical changes?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Which group contains only physical changes?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Which group contains only physical changes?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-013\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-013",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Which group contains only physical changes?"
-    },
+    "question": "What force action changes a towel when it is twisted to remove water?",
+    "audioPrompt": "What force action changes a towel when it is twisted to remove water?",
+    "visual": "",
     "answers": [
-      "fold paper, twist clay, stretch elastic",
-      "make paper into gold, make wood into water",
-      "orbit Earth, reflect moonlight"
+      "Reflecting.",
+      "Vibrating only.",
+      "Twisting.",
+      "Orbiting."
     ],
-    "correct": 0,
-    "explanation": "Each correct example changes form while retaining material.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 2,
+    "explanation": "Twisting applies forces that alter the towel’s shape.\nHint: Name the action being used.",
     "structuredExplanation": {
-      "summary": "Each correct example changes form while retaining material.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "Twisting applies forces that alter the towel’s shape.",
+      "hint": "Name the action being used."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-014",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A student answers “make paper into gold, make wood into water”. Read the evidence in this question and choose the better answer: Which group contains only physical changes?",
-    "audioPrompt": "A student answers “make paper into gold, make wood into water”. Read the evidence in this question and choose the better answer: Which group contains only physical changes?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Which group contains only physical changes?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Which group contains only physical changes?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-014\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-014",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Which group contains only physical changes?"
-    },
+    "question": "A cardboard tube is squashed flat. Which observation is valid?",
+    "audioPrompt": "A cardboard tube is squashed flat. Which observation is valid?",
+    "visual": "",
     "answers": [
-      "make paper into gold, make wood into water",
-      "fold paper, twist clay, stretch elastic",
-      "orbit Earth, reflect moonlight"
+      "The colour must have changed.",
+      "The tube’s cross-sectional shape changed.",
+      "The cardboard became glass.",
+      "The tube lost all matter."
     ],
     "correct": 1,
-    "explanation": "Each correct example changes form while retaining material.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "explanation": "Squashing alters the form of the tube.\nHint: Describe the visible physical effect.",
     "structuredExplanation": {
-      "summary": "Each correct example changes form while retaining material.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Squashing alters the form of the tube.",
+      "hint": "Describe the visible physical effect."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-015",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "Why might a maker bend cardboard?",
-    "audioPrompt": "Why might a maker bend cardboard?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Why might a maker bend cardboard?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Why might a maker bend cardboard?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-015\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-015",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Why might a maker bend cardboard?"
-    },
+    "question": "Which investigation best compares material flexibility?",
+    "audioPrompt": "Which investigation best compares material flexibility?",
+    "visual": "",
     "answers": [
-      "to turn it into steel",
-      "to make it orbit",
-      "to change its shape for a useful form"
+      "Bend equal-sized samples gently by the same amount of force and observe how they change.",
+      "Use different-sized samples and different forces without recording.",
+      "Choose the softest-looking sample only.",
+      "Break every sample as hard as possible."
     ],
-    "correct": 2,
-    "explanation": "Physical changes help materials suit purposes.\nHint: Look for the observation, pattern or result that directly answers the question.",
+    "correct": 0,
+    "explanation": "A fair comparison keeps conditions similar while observing how materials deform.\nHint: Look for a consistent, safe method.",
     "structuredExplanation": {
-      "summary": "Physical changes help materials suit purposes.",
-      "hint": "Look for the observation, pattern or result that directly answers the question."
+      "summary": "A fair comparison keeps conditions similar while observing how materials deform.",
+      "hint": "Look for a consistent, safe method."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s2u03-t-016",
     "curriculumCode": "AC9S2U03",
     "bank": "test",
-    "skill": "compare physical changes",
+    "skill": "physical changes to materials",
     "printable": true,
     "type": "single",
-    "question": "A student answers “to turn it into steel”. Read the evidence in this question and choose the better answer: Why might a maker bend cardboard?",
-    "audioPrompt": "A student answers “to turn it into steel”. Read the evidence in this question and choose the better answer: Why might a maker bend cardboard?",
-    "visual": "A material shown before and after bending, twisting, stretching or breaking. Question context: Why might a maker bend cardboard?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A material shown before and after bending, twisting, stretching or breaking. Question context: Why might a maker bend cardboard?\"><use href=\"/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-016\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year2/science/ac9s2u03.svg#ac9s2u03-t-016",
-      "alt_text": "A material shown before and after bending, twisting, stretching or breaking. Question context: Why might a maker bend cardboard?"
-    },
+    "question": "A child rolls dough, folds paper and stretches elastic. What common idea links these actions?",
+    "audioPrompt": "A child rolls dough, folds paper and stretches elastic. What common idea links these actions?",
+    "visual": "",
     "answers": [
-      "to change its shape for a useful form",
-      "to turn it into steel",
-      "to make it orbit"
+      "All materials become new substances.",
+      "Only colour can change.",
+      "Shape changes happen without any force.",
+      "Forces can change the shape of materials."
     ],
-    "correct": 0,
-    "explanation": "Physical changes help materials suit purposes.\nHint: Return to the observation or result in the question. Choose the answer it supports.",
+    "correct": 3,
+    "explanation": "Each action applies a force that changes form.\nHint: Find the shared effect of the actions.",
     "structuredExplanation": {
-      "summary": "Physical changes help materials suit purposes.",
-      "hint": "Return to the observation or result in the question. Choose the answer it supports."
+      "summary": "Each action applies a force that changes form.",
+      "hint": "Find the shared effect of the actions."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

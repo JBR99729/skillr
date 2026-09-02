@@ -1,48 +1,435 @@
 "use strict";
-(() => {
-  const makeQuestion = (n, skill, question, answers, correct, summary, hint) => ({
-    id: `ac9s2u01-t-${String(n).padStart(3,"0")}`,
-    curriculumCode: "AC9S2U01",
-    bank: "test",
-    skill, printable: true, type: "single", question, audioPrompt: question, answers, correct,
-    explanation: `${summary}\nHint: ${hint}`,
-    structuredExplanation: { summary, hint },
-    qualitySchema: "production-v2"
-  });
-  window.skillrTestQuestions = [
-    makeQuestion(1, "planet identification", "A student labels Earth as a star on a solar-system poster. Which correction should be made?", ["Relabel Earth as a planet", "Relabel Earth as the Sun", "Relabel Earth as a moon", "Leave it because all space objects are stars"], 0, "Earth is a planet, while the Sun is a star.", "Use the scientific category of each object."),
-    makeQuestion(2, "object relationships", "Which relationship is correct?", ["The Sun orbits Earth and Earth orbits the Moon", "Earth orbits the Sun and the Moon orbits Earth", "The Moon orbits the Sun instead of Earth", "Earth and the Sun do not move"], 1, "Earth travels around the Sun, while the Moon travels around Earth.", "Track what each object travels around."),
-    makeQuestion(3, "model Earth position", "In a model ordered outward from the Sun, a marker is placed after Mercury and Venus. What should it represent?", ["Mars", "Jupiter", "Earth", "The Moon"], 2, "Earth is the third planet from the Sun, after Mercury and Venus.", "Count the planets from the Sun."),
-    makeQuestion(4, "space photo reasoning", "Two photographs of Earth from space show a curved outline from different directions. What conclusion is best supported?", ["Earth is a flat square", "Earth changes shape each hour", "Earth is a star", "Earth is round"], 3, "Repeated space images support Earth's round shape.", "Use evidence visible in both photographs."),
-    makeQuestion(5, "image source", "Which method could scientists use to collect repeated images of Earth from above?", ["Cameras on satellites", "Cars driving on roads", "Ordinary classroom windows only", "Looking directly into the Sun"], 0, "Satellites can carry cameras that repeatedly image Earth from space.", "Choose a tool that can remain above Earth."),
-    makeQuestion(6, "day sky misconception", "A child says, 'The Moon cannot be in the sky during the day.' What is the best response?", ["The Moon exists only at night", "The Moon can sometimes be visible during the day", "The Moon becomes the Sun in daytime", "The Moon is always behind Earth in daytime"], 1, "The Moon can sometimes be observed in daylight.", "Daytime does not automatically mean the Moon is below the horizon."),
-    makeQuestion(7, "star visibility reasoning", "Stars are present in the sky during daytime. Why are most not visible to our eyes?", ["They switch off when the Sun rises", "They move outside the universe", "The bright sky caused by sunlight overwhelms their faint light", "The Moon hides every star"], 2, "The daytime sky is too bright for most stars to be seen by unaided eyes.", "Distinguish being present from being easy to see."),
-    makeQuestion(8, "Sun position data", "A class records the Sun as low at 9 am, higher at noon and lower at 3 pm. What have they identified?", ["Three different Suns", "A lunar phase cycle", "A random event with no pattern", "A repeating daily pattern in apparent Sun position"], 3, "The observations show a regular daily change in the Sun's apparent position.", "Look for an ordered change across one day."),
-    makeQuestion(9, "shadow data", "A pole's shadow measures 160 cm at 9 am, 70 cm at noon and 145 cm at 3 pm. Which statement best matches the data?", ["The shadow is shortest near noon", "The shadow is longest near noon", "The shadow stays the same length", "There is no relationship with time"], 0, "The noon measurement is the shortest of the three.", "Compare the measured lengths."),
-    makeQuestion(10, "shadow prediction", "On three clear days, a pole's shadow was shortest around midday. What is the best prediction for another clear day?", ["It must disappear at midday", "It will probably be shortest around midday again", "It will be longest at midday", "It will have no shadow at any time"], 1, "Repeated observations support the prediction that the shortest shadow will again occur around midday.", "A prediction should be based on the repeated pattern."),
-    makeQuestion(11, "safe procedure", "A group wants to track the Sun during the day. Which procedure is safest?", ["Look at the Sun through binoculars", "Stare at the Sun for ten seconds each hour", "Record a fixed object's shadow without looking at the Sun", "Use a magnifying glass to view the Sun"], 2, "Shadow tracking is a safe indirect way to investigate the Sun's apparent movement.", "Direct Sun viewing can injure eyes."),
-    makeQuestion(12, "fair shadow comparison", "To compare shadow length at 9 am, noon and 3 pm, what should stay the same?", ["The object should be changed each time", "The measurements should use different units", "The location should be random each time", "The object and measuring method"], 3, "Using the same object and method makes the time-based comparison more meaningful.", "Change the time, not everything else."),
-    makeQuestion(13, "moon diary evidence", "A Moon diary has only one drawing. Why is that not enough to show a monthly pattern?", ["A pattern requires observations over many days", "One drawing shows every phase", "The Moon has only one appearance", "Moon observations cannot be recorded"], 0, "Several observations are needed to reveal a repeating change over time.", "Patterns need a sequence of records."),
-    makeQuestion(14, "moon diary sequence", "A class sees a thin crescent, then a larger lit portion over the next few nights. What is the most sensible statement?", ["The Moon is physically growing larger each night", "The visible lit portion is changing gradually", "The Moon is turning into the Sun", "The Moon has stopped orbiting Earth"], 1, "Moon phases are gradual changes in the illuminated portion visible from Earth.", "Describe appearance rather than physical size."),
-    makeQuestion(15, "full to new pattern", "Which statement best describes full Moon and new Moon?", ["They are different planets", "They happen every day at noon", "They are different points in a repeating lunar phase cycle", "They show the Moon changing its real shape"], 2, "Full Moon and new Moon are phase positions in a repeating cycle.", "Think of a cycle rather than separate objects."),
-    makeQuestion(16, "moon phase model", "A lamp represents the Sun and a ball represents the Moon. Why might students move the ball around a model Earth?", ["To show the Moon changing material", "To prove the Moon makes its own light", "To show Earth stops rotating", "To model why different lit portions of the Moon are seen"], 3, "Changing the model Moon's position can show how the visible illuminated portion changes.", "The lamp provides light; position changes the view."),
-    makeQuestion(17, "apparent sky motion", "A time-lapse shows stars tracing arcs during the night. Which explanation best fits Year 2 sky-pattern learning?", ["Earth's rotation makes the stars appear to move across the sky", "The stars are attached to clouds", "Earth stops while the stars circle it once each hour", "The Moon pushes the stars"], 0, "Earth's rotation causes the apparent movement of stars across the sky.", "The observer is standing on a rotating Earth."),
-    makeQuestion(18, "day-night reasoning", "At the same moment, one side of Earth has daytime and another has night. Why?", ["The Sun shines on only one country forever", "Different parts of the rotating Earth face toward or away from the Sun", "The Moon creates night on half of Earth", "Stars block sunlight from one side"], 1, "Earth's spherical shape and rotation mean different places face the Sun at different times.", "Think about a lit ball: only the side facing the light is illuminated."),
-    makeQuestion(19, "daily versus monthly", "Which pair correctly matches a pattern with its timescale?", ["Moon phase cycle — hourly; sunrise — yearly", "Sunrise — monthly; seasons — daily", "Sunrise and sunset — daily; Moon phase cycle — about monthly", "Full Moon — every afternoon; sunset — yearly"], 2, "Sunrise and sunset repeat daily, while Moon phases cycle over about a month.", "Match each change to how long it takes."),
-    makeQuestion(20, "short and long term", "Which observation would require the longest record to study well?", ["How a shadow changes from 9 am to noon", "Where the Sun appears over one afternoon", "Whether the Moon is visible tonight", "How star patterns visible at night change across seasons"], 3, "Seasonal star patterns require observations across many months.", "Long-term patterns need longer records."),
-    makeQuestion(21, "regular irregular", "Which event belongs to the regular Moon phase cycle rather than a special named event?", ["Quarter Moon", "Blood Moon", "Blue Moon", "Supermoon"], 0, "Quarter Moon is a regular phase in the lunar cycle.", "Separate ordinary phase names from special event names."),
-    makeQuestion(22, "blue moon concept", "A student draws a blue-coloured Moon and labels it 'blue Moon'. What should be corrected?", ["Every blue Moon is actually bright blue", "A blue Moon is a calendar name and the Moon usually does not look blue", "Blue Moon means new Moon", "Blue Moon happens every week"], 1, "The term blue Moon does not usually describe the Moon's colour.", "The name refers to the timing of full Moons in a calendar definition."),
-    makeQuestion(23, "blood moon concept", "A reddish Moon is seen during a total lunar eclipse. Which special name is commonly used?", ["Blue Moon", "New Moon", "Blood Moon", "Quarter Moon"], 2, "A total lunar eclipse can give the Moon a reddish appearance often called a blood Moon.", "Link the red appearance with a lunar eclipse."),
-    makeQuestion(24, "supermoon concept", "Why can a full supermoon look a little larger than some other full Moons?", ["The Moon permanently grows", "The Moon moves closer to the Sun and becomes a star", "Earth becomes smaller", "The Moon is relatively closer to Earth in its orbit"], 3, "The Moon's distance from Earth varies; a closer full Moon can appear somewhat larger.", "The Moon's real diameter is not changing."),
-    makeQuestion(25, "pattern table", "A table records: Monday crescent, Thursday larger lit portion, next week about half lit. What does the table show?", ["A gradual change in Moon appearance over time", "The Moon changing into different objects", "A daily Sun-shadow pattern", "No change at all"], 0, "The sequence records a changing lunar appearance across days.", "Use the ordered dates and observations."),
-    makeQuestion(26, "prediction quality", "Which is the best scientific prediction after repeated observations?", ["'The shadow will definitely become a planet.'", "'Based on our records, the shadow will probably lengthen again later in the afternoon.'", "'Anything can happen because patterns do not matter.'", "'The Sun will switch off at 3 pm.'"], 1, "A good prediction uses an observed pattern and cautious language.", "Use evidence and avoid impossible certainty."),
-    makeQuestion(27, "First Nations knowledge respect", "Which statement is most respectful when studying First Nations sky knowledge?", ["Say all First Nations Peoples have one identical story", "Remove the community name so every story seems universal", "Name the specific People or community and use reliable, appropriate sources", "Treat cultural knowledge as a made-up guess"], 2, "First Nations sky knowledges are diverse and place-based, so sources and communities should be identified.", "Respect includes attribution and avoiding generalisation."),
-    makeQuestion(28, "cultural science connection", "What can students learn from First Nations cultural stories about the sky?", ["They show that observations are unnecessary", "They prove every community interprets the sky identically", "They replace all contemporary scientific explanations", "They can contain carefully observed patterns used to communicate knowledge across generations"], 3, "Cultural stories can encode detailed observations and recurring sky patterns.", "Look for observation, pattern recognition and knowledge sharing."),
-    makeQuestion(29, "Emu observation", "Why is the Emu in the Sky different from many Western constellations drawn by joining bright stars?", ["It is recognised largely in dark regions of the Milky Way", "It is a planet", "It is visible only around the Sun at noon", "It is made from clouds"], 0, "The Emu in the Sky is identified in dark dust-cloud patterns of the Milky Way.", "Look at the dark spaces as well as the bright stars."),
-    makeQuestion(30, "compare explanations", "A cultural story describes the Sun's regular journey across the sky, while science describes Earth's rotation. What can both support students noticing?", ["The Sun switches off each night", "There is a predictable daily pattern in the Sun's apparent position", "Earth is flat", "The sky has no repeating patterns"], 1, "Different knowledge traditions can draw attention to the same observable recurring pattern while explaining it in different ways.", "Focus first on the shared observation: a repeating pattern."),
-    makeQuestion(31, "data reliability", "Which Moon diary would be easiest to compare?", ["Random drawings with no dates", "One picture copied many times", "Dated observations made at about the same time each evening", "Observations with no record of when they were made"], 2, "Consistent timing and dates make a sequence easier to compare.", "Good records include when the observation was made."),
-    makeQuestion(32, "whole-unit reasoning", "Which statement best combines the main ideas of AC9S2U01?", ["Earth is a star, and sky events are random", "Only the Moon moves and Earth never changes position", "Every object in space is visible at all times", "Earth is a planet, and repeated observations reveal patterns in the changing positions and appearances of objects in the sky"], 3, "The code connects Earth's place in the solar system with observable sky patterns.", "Look for both parts: Earth as a planet and patterns in the sky."),
-  ];
-  window.skillrExamQuestions = window.skillrTestQuestions;
-  window.quizQuestions = window.skillrTestQuestions;
-})();
+window.skillrExamQuestions = [
+  {
+    "id": "ac9s2u01-t-001",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A child says, “The Moon is a star because it shines.” Which correction is best?",
+    "audioPrompt": "A child says, “The Moon is a star because it shines.” Which correction is best?",
+    "visual": "",
+    "answers": [
+      "Anything bright is a star.",
+      "The Moon makes daylight.",
+      "The Moon is not a star; we see sunlight reflected from it.",
+      "The Moon is a tiny Sun."
+    ],
+    "correct": 2,
+    "explanation": "Brightness alone does not make an object a star.\nHint: Identify the source of moonlight.",
+    "structuredExplanation": {
+      "summary": "Brightness alone does not make an object a star.",
+      "hint": "Identify the source of moonlight."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-002",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "At 8 am a pole shadow points west; later it points east. What changed?",
+    "audioPrompt": "At 8 am a pole shadow points west; later it points east. What changed?",
+    "visual": "",
+    "answers": [
+      "The shadow chose a new direction.",
+      "The Sun’s apparent position across the sky.",
+      "The pole became magnetic.",
+      "The ground rotated around the pole only."
+    ],
+    "correct": 1,
+    "explanation": "As Earth turns, the Sun appears in different sky positions and shadows change direction.\nHint: Connect shadow direction to the apparent Sun path.",
+    "structuredExplanation": {
+      "summary": "As Earth turns, the Sun appears in different sky positions and shadows change direction.",
+      "hint": "Connect shadow direction to the apparent Sun path."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-003",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement about Earth is correct?",
+    "audioPrompt": "Which statement about Earth is correct?",
+    "visual": "",
+    "answers": [
+      "Earth is a planet that travels around the Sun.",
+      "Earth is a star that makes its own light.",
+      "Earth travels around the Moon once each day.",
+      "Earth is inside the Sun."
+    ],
+    "correct": 0,
+    "explanation": "Earth is one of the planets orbiting the Sun.\nHint: Choose the correct space relationship.",
+    "structuredExplanation": {
+      "summary": "Earth is one of the planets orbiting the Sun.",
+      "hint": "Choose the correct space relationship."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-004",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A Moon drawing series shows a thin crescent, half-lit shape and nearly round shape on different dates. What does the series show?",
+    "audioPrompt": "A Moon drawing series shows a thin crescent, half-lit shape and nearly round shape on different dates. What does the series show?",
+    "visual": "",
+    "answers": [
+      "The Moon becomes a different object each night.",
+      "Clouds permanently remove pieces of the Moon.",
+      "The Moon grows and shrinks in actual size each week.",
+      "The Moon’s visible shape changes in a pattern over time."
+    ],
+    "correct": 3,
+    "explanation": "The Moon’s phases are changes in the lit portion visible from Earth.\nHint: Look for a repeating appearance pattern.",
+    "structuredExplanation": {
+      "summary": "The Moon’s phases are changes in the lit portion visible from Earth.",
+      "hint": "Look for a repeating appearance pattern."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-005",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Why should Moon observations be made at similar times when comparing nights?",
+    "audioPrompt": "Why should Moon observations be made at similar times when comparing nights?",
+    "visual": "",
+    "answers": [
+      "It makes the Moon brighter.",
+      "It guarantees identical weather.",
+      "It makes the observations more comparable.",
+      "It forces the Moon into the same position."
+    ],
+    "correct": 2,
+    "explanation": "Keeping observation time similar reduces one source of variation.\nHint: Think about consistency.",
+    "structuredExplanation": {
+      "summary": "Keeping observation time similar reduces one source of variation.",
+      "hint": "Think about consistency."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-006",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A child sees the Sun low in the east in the morning. What is a sensible later observation on a clear day?",
+    "audioPrompt": "A child sees the Sun low in the east in the morning. What is a sensible later observation on a clear day?",
+    "visual": "",
+    "answers": [
+      "Earth will stop turning.",
+      "The Sun may appear higher and farther across the sky.",
+      "The Sun will become the Moon at noon.",
+      "The Sun will fall onto the ground."
+    ],
+    "correct": 1,
+    "explanation": "The Sun’s apparent position follows a daily pattern.\nHint: Extend the observed daily pattern.",
+    "structuredExplanation": {
+      "summary": "The Sun’s apparent position follows a daily pattern.",
+      "hint": "Extend the observed daily pattern."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-007",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "What causes day and night on Earth?",
+    "audioPrompt": "What causes day and night on Earth?",
+    "visual": "",
+    "answers": [
+      "Earth rotates, so different parts face toward or away from the Sun.",
+      "The Sun switches off each night.",
+      "The Moon covers the Sun every evening.",
+      "Clouds block the Sun for exactly half a day."
+    ],
+    "correct": 0,
+    "explanation": "Earth’s rotation changes which parts are illuminated by the Sun.\nHint: Think about Earth turning.",
+    "structuredExplanation": {
+      "summary": "Earth’s rotation changes which parts are illuminated by the Sun.",
+      "hint": "Think about Earth turning."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-008",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A classroom model shows Earth orbiting the Sun. What should students remember about the model?",
+    "audioPrompt": "A classroom model shows Earth orbiting the Sun. What should students remember about the model?",
+    "visual": "",
+    "answers": [
+      "Every classroom model has exact space distances.",
+      "The model balls are real planets.",
+      "A model cannot show any useful science idea.",
+      "It represents the relationship but may not show exact sizes or distances."
+    ],
+    "correct": 3,
+    "explanation": "Models simplify real systems to help explain relationships.\nHint: Recognise both usefulness and limits.",
+    "structuredExplanation": {
+      "summary": "Models simplify real systems to help explain relationships.",
+      "hint": "Recognise both usefulness and limits."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-009",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which observation provides evidence of a daily sky pattern?",
+    "audioPrompt": "Which observation provides evidence of a daily sky pattern?",
+    "visual": "",
+    "answers": [
+      "A list of favourite planets.",
+      "A sound recording from indoors.",
+      "Sun-position drawings made at 9 am, noon and 3 pm on several clear days.",
+      "One drawing with no time."
+    ],
+    "correct": 2,
+    "explanation": "Repeated timed observations can reveal a daily pattern.\nHint: Look for repeated observations over a day.",
+    "structuredExplanation": {
+      "summary": "Repeated timed observations can reveal a daily pattern.",
+      "hint": "Look for repeated observations over a day."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-010",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Why must people never look directly at the Sun without approved protection?",
+    "audioPrompt": "Why must people never look directly at the Sun without approved protection?",
+    "visual": "",
+    "answers": [
+      "The Moon will disappear.",
+      "Bright sunlight can damage the eyes.",
+      "The Sun can pull people into space.",
+      "Looking makes the Sun hotter."
+    ],
+    "correct": 1,
+    "explanation": "Direct solar viewing can cause serious eye injury.\nHint: Choose the genuine safety reason.",
+    "structuredExplanation": {
+      "summary": "Direct solar viewing can cause serious eye injury.",
+      "hint": "Choose the genuine safety reason."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-011",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Earth and Mars are both called planets. What do they have in common?",
+    "audioPrompt": "Earth and Mars are both called planets. What do they have in common?",
+    "visual": "",
+    "answers": [
+      "They travel around the Sun.",
+      "They are both stars.",
+      "They both travel around Earth.",
+      "They make their own sunlight."
+    ],
+    "correct": 0,
+    "explanation": "Planets in our solar system orbit the Sun.\nHint: Use the defining relationship.",
+    "structuredExplanation": {
+      "summary": "Planets in our solar system orbit the Sun.",
+      "hint": "Use the defining relationship."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-012",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which object is a star?",
+    "audioPrompt": "Which object is a star?",
+    "visual": "",
+    "answers": [
+      "Earth.",
+      "The Moon.",
+      "Mars.",
+      "The Sun."
+    ],
+    "correct": 3,
+    "explanation": "The Sun is the star at the centre of our solar system.\nHint: Identify the object that produces its own light.",
+    "structuredExplanation": {
+      "summary": "The Sun is the star at the centre of our solar system.",
+      "hint": "Identify the object that produces its own light."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-013",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "If the sky is cloudy, why might a shadow investigation be difficult?",
+    "audioPrompt": "If the sky is cloudy, why might a shadow investigation be difficult?",
+    "visual": "",
+    "answers": [
+      "The pole changes length.",
+      "Shadows only exist in winter.",
+      "The Sun may not produce a clear shadow to measure.",
+      "Clouds stop Earth rotating."
+    ],
+    "correct": 2,
+    "explanation": "Diffuse light from clouds can make shadows faint or unclear.\nHint: Think about what is needed for a distinct shadow.",
+    "structuredExplanation": {
+      "summary": "Diffuse light from clouds can make shadows faint or unclear.",
+      "hint": "Think about what is needed for a distinct shadow."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-014",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A photograph from space shows Earth as curved. What claim does this evidence support?",
+    "audioPrompt": "A photograph from space shows Earth as curved. What claim does this evidence support?",
+    "visual": "",
+    "answers": [
+      "Earth is smaller than the Moon.",
+      "Earth is roughly spherical rather than a flat square.",
+      "Earth is a star.",
+      "Earth has no oceans."
+    ],
+    "correct": 1,
+    "explanation": "Space images show Earth’s curved shape.\nHint: Use only what the photograph can support.",
+    "structuredExplanation": {
+      "summary": "Space images show Earth’s curved shape.",
+      "hint": "Use only what the photograph can support."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-015",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Which pattern takes longer: one day-night cycle or one Earth orbit around the Sun?",
+    "audioPrompt": "Which pattern takes longer: one day-night cycle or one Earth orbit around the Sun?",
+    "visual": "",
+    "answers": [
+      "One Earth orbit around the Sun.",
+      "One day-night cycle.",
+      "They always take exactly the same time.",
+      "Neither involves repeating change."
+    ],
+    "correct": 0,
+    "explanation": "A day is about one rotation; a year is about one orbit.\nHint: Compare day and year timescales.",
+    "structuredExplanation": {
+      "summary": "A day is about one rotation; a year is about one orbit.",
+      "hint": "Compare day and year timescales."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s2u01-t-016",
+    "curriculumCode": "AC9S2U01",
+    "bank": "test",
+    "skill": "Earth, space and observable sky patterns",
+    "printable": true,
+    "type": "single",
+    "question": "A child says stars are gone during the day. What is the better explanation?",
+    "audioPrompt": "A child says stars are gone during the day. What is the better explanation?",
+    "visual": "",
+    "answers": [
+      "Stars disappear from space each morning.",
+      "The Sun eats the stars.",
+      "Daytime clouds become stars at night.",
+      "Many stars are still there, but the bright daytime sky makes them hard to see."
+    ],
+    "correct": 3,
+    "explanation": "Sunlight scattered in our atmosphere brightens the daytime sky and hides faint stars from view.\nHint: Separate visibility from existence.",
+    "structuredExplanation": {
+      "summary": "Sunlight scattered in our atmosphere brightens the daytime sky and hides faint stars from view.",
+      "hint": "Separate visibility from existence."
+    },
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
+  }
+];
