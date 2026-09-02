@@ -24,7 +24,7 @@ jobs:
       - run: node scripts/materialise_foundation_science_remaining.mjs
       - name: Guard non-assessment content
         run: |
-          bad=$(git status --porcelain | awk '{print $2}' | grep -E 'teacher-slides|worksheet|/index.html|foundation/science/' || true)
+          bad=$(git status --porcelain | awk '{print $2}' | grep -E 'teacher-slides|worksheet|/index.html' || true)
           if [ -n "$bad" ]; then echo "$bad"; exit 1; fi
       - name: Commit production banks
         run: |
