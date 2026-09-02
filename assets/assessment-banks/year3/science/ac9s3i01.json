@@ -1,1418 +1,3402 @@
 [
   {
-    "id": "AC9S3I01-P-001",
+    "id": "ac9s3i01-p-001",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing seedlings, students observe that seedlings near the window grew taller. Which question is testable?",
-    "audio_prompt": "After observing seedlings, students observe that seedlings near the window grew taller. Which question is testable?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Puddles in sun dry sooner than puddles in shade. Which question explores the pattern?",
+    "audio_prompt": "Puddles in sun dry sooner than puddles in shade. Which question explores the pattern?",
+    "audioPrompt": "Puddles in sun dry sooner than puddles in shade. Which question explores the pattern?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-001",
-      "alt_text": "After observing seedlings: question and prediction model showing [\"observe: seedlings near the window grew taller\",\"change: light level\",\"measure: seedling height\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Which result is the nicest?",
-        "is_correct": false
-      },
-      {
-        "text": "Why is my favourite condition best?",
-        "is_correct": false
-      },
-      {
-        "text": "How does light level affect seedling height?",
+        "text": "Does sunlight affect drying time?",
         "is_correct": true
+      },
+      {
+        "text": "Which puddle looks best?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is water wet?",
+        "is_correct": false
+      },
+      {
+        "text": "Are sunny days nicer?",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Does sunlight affect drying time?",
+      "Which puddle looks best?",
+      "Why is water wet?",
+      "Are sunny days nicer?"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
-      "hint": "Find the question that could be answered by collecting data."
+      "summary": "The first question tests the observed relationship.",
+      "hint": "Ask about what changed."
     },
+    "structuredExplanation": {
+      "summary": "The first question tests the observed relationship.",
+      "hint": "Ask about what changed."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-002",
+    "id": "ac9s3i01-p-002",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing seedlings, which prediction has a testable outcome?",
-    "audio_prompt": "After observing seedlings, which prediction has a testable outcome?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which sentence is a prediction?",
+    "audio_prompt": "Which sentence is a prediction?",
+    "audioPrompt": "Which sentence is a prediction?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-002",
-      "alt_text": "After observing seedlings: question and prediction model showing [\"If\",\"light level\",\"then\",\"seedling height\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Changing light level will change the measured seedling height",
-        "is_correct": true
-      },
-      {
-        "text": "The investigation will be fun",
+        "text": "The sunny puddle dried first.",
         "is_correct": false
       },
       {
-        "text": "The best result will happen",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A prediction states an expected measurable outcome.",
-      "hint": "Look for what students expect to observe or measure."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I01-P-003",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing seedlings, what evidence should support a prediction?",
-    "audio_prompt": "After observing seedlings, what evidence should support a prediction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-003",
-      "alt_text": "After observing seedlings: question and prediction model showing [\"seedlings near the window grew taller\",\"prediction\"]"
-    },
-    "answers": [
-      {
-        "text": "A favourite answer",
+        "text": "The puddle is 30 cm wide.",
         "is_correct": false
       },
       {
-        "text": "Relevant observations or previous data",
-        "is_correct": true
-      },
-      {
-        "text": "The colour of the equipment",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
-      "hint": "Use what was noticed, not a preference."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I01-P-004",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing seedlings, which part of the question is the factor students change?",
-    "audio_prompt": "After observing seedlings, which part of the question is the factor students change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-004",
-      "alt_text": "After observing seedlings: question and prediction model showing [\"changed: light level\",\"measured: seedling height\"]"
-    },
-    "answers": [
-      {
-        "text": "seedling height",
+        "text": "Both contain water.",
         "is_correct": false
       },
       {
-        "text": "the final opinion",
-        "is_correct": false
-      },
-      {
-        "text": "light level",
+        "text": "The sunny puddle may dry first.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The sunny puddle dried first.",
+      "The puddle is 30 cm wide.",
+      "Both contain water.",
+      "The sunny puddle may dry first."
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The changed factor is deliberately varied to explore a relationship.",
-      "hint": "Look after \"How does\" and before \"affect\"."
+      "summary": "A prediction states an expected result before testing.",
+      "hint": "Expected, not observed."
     },
+    "structuredExplanation": {
+      "summary": "A prediction states an expected result before testing.",
+      "hint": "Expected, not observed."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-005",
+    "id": "ac9s3i01-p-003",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing seedlings, which part is the outcome students measure?",
-    "audio_prompt": "After observing seedlings, which part is the outcome students measure?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Plants leaned toward a window for three weeks. Which prediction fits?",
+    "audio_prompt": "Plants leaned toward a window for three weeks. Which prediction fits?",
+    "audioPrompt": "Plants leaned toward a window for three weeks. Which prediction fits?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-005",
-      "alt_text": "After observing seedlings: question and prediction model showing [\"changed: light level\",\"measured: seedling height\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "seedling height",
+        "text": "Plants like pretty windows.",
+        "is_correct": false
+      },
+      {
+        "text": "The next plant cannot grow.",
+        "is_correct": false
+      },
+      {
+        "text": "A new plant may also lean toward the window.",
         "is_correct": true
       },
       {
-        "text": "light level",
-        "is_correct": false
-      },
-      {
-        "text": "the equipment colour",
+        "text": "Every plant must lean exactly 20°.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Plants like pretty windows.",
+      "The next plant cannot grow.",
+      "A new plant may also lean toward the window.",
+      "Every plant must lean exactly 20°."
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The measured outcome provides data to answer the question.",
-      "hint": "Look for the result that can be recorded."
+      "summary": "It uses the pattern without claiming certainty.",
+      "hint": "Pattern + may."
     },
+    "structuredExplanation": {
+      "summary": "It uses the pattern without claiming certainty.",
+      "hint": "Pattern + may."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-006",
+    "id": "ac9s3i01-p-004",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing seedlings, why is \"Which one is best?\" not yet a strong scientific question?",
-    "audio_prompt": "After observing seedlings, why is \"Which one is best?\" not yet a strong scientific question?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which question can be answered by measuring?",
+    "audio_prompt": "Which question can be answered by measuring?",
+    "audioPrompt": "Which question can be answered by measuring?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-006",
-      "alt_text": "After observing seedlings: question and prediction model showing [\"opinion: best\",\"measure: seedling height\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It has too many units",
+        "text": "Is red best?",
         "is_correct": false
       },
       {
-        "text": "It does not define an observable or measurable outcome",
+        "text": "Does ramp height affect car travel distance?",
         "is_correct": true
       },
       {
-        "text": "It already contains data",
+        "text": "Which car is coolest?",
+        "is_correct": false
+      },
+      {
+        "text": "Why are toys fun?",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Is red best?",
+      "Does ramp height affect car travel distance?",
+      "Which car is coolest?",
+      "Why are toys fun?"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Words such as best need a measurable meaning.",
-      "hint": "Replace \"best\" with a named measurement."
+      "summary": "Both ramp height and distance can be measured.",
+      "hint": "Choose measurable factors."
     },
+    "structuredExplanation": {
+      "summary": "Both ramp height and distance can be measured.",
+      "hint": "Choose measurable factors."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-007",
+    "id": "ac9s3i01-p-005",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing seedlings, what should students do if their results do not match the prediction?",
-    "audio_prompt": "After observing seedlings, what should students do if their results do not match the prediction?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "More worms were found in damp soil than dry soil. This is:",
+    "audio_prompt": "More worms were found in damp soil than dry soil. This is:",
+    "audioPrompt": "More worms were found in damp soil than dry soil. This is:",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-007",
-      "alt_text": "After observing seedlings: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Change the data to match",
-        "is_correct": false
-      },
-      {
-        "text": "Say the investigation failed without checking",
-        "is_correct": false
-      },
-      {
-        "text": "Record the results honestly and use them to explain what happened",
+        "text": "an observed pattern",
         "is_correct": true
+      },
+      {
+        "text": "a guaranteed rule",
+        "is_correct": false
+      },
+      {
+        "text": "an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "a measurement unit",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
-      "hint": "Keep observations separate from what was expected."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I01-P-008",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing seedlings, which prediction frame includes a reason?",
-    "audio_prompt": "After observing seedlings, which prediction frame includes a reason?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-008",
-      "alt_text": "After observing seedlings: question and prediction model showing [\"if\",\"light level\",\"then\",\"seedling height\",\"because\",\"seedlings near the window grew taller\"]"
-    },
-    "answers": [
-      {
-        "text": "If light level changes, then seedling height may change because the observation showed a pattern",
-        "is_correct": true
-      },
-      {
-        "text": "The result will happen because I said so",
-        "is_correct": false
-      },
-      {
-        "text": "I predict something interesting",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "an observed pattern",
+      "a guaranteed rule",
+      "an opinion",
+      "a measurement unit"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
-      "hint": "Look for if, then and because."
+      "summary": "The observation shows a possible relationship.",
+      "hint": "Notice the repeated relationship."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I01-P-009",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the ice study, students observe that ice melted sooner in warm water. Which question is testable?",
-    "audio_prompt": "During the ice study, students observe that ice melted sooner in warm water. Which question is testable?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-009",
-      "alt_text": "During the ice study: question and prediction model showing [\"observe: ice melted sooner in warm water\",\"change: water temperature\",\"measure: melting time\"]"
+    "structuredExplanation": {
+      "summary": "The observation shows a possible relationship.",
+      "hint": "Notice the repeated relationship."
     },
-    "answers": [
-      {
-        "text": "Which result is the nicest?",
-        "is_correct": false
-      },
-      {
-        "text": "How does water temperature affect melting time?",
-        "is_correct": true
-      },
-      {
-        "text": "Why is my favourite condition best?",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
-      "hint": "Find the question that could be answered by collecting data."
-    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-010",
+    "id": "ac9s3i01-p-006",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the ice study, which prediction has a testable outcome?",
-    "audio_prompt": "During the ice study, which prediction has a testable outcome?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which prediction matches “Does warmer water dissolve sugar faster?”",
+    "audio_prompt": "Which prediction matches “Does warmer water dissolve sugar faster?”",
+    "audioPrompt": "Which prediction matches “Does warmer water dissolve sugar faster?”",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-010",
-      "alt_text": "During the ice study: question and prediction model showing [\"If\",\"water temperature\",\"then\",\"melting time\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The investigation will be fun",
+        "text": "Warm water is nicer.",
         "is_correct": false
       },
       {
-        "text": "The best result will happen",
+        "text": "Sugar is white.",
         "is_correct": false
       },
       {
-        "text": "Changing water temperature will change the measured melting time",
+        "text": "The cup is large.",
+        "is_correct": false
+      },
+      {
+        "text": "Sugar may dissolve faster in warmer water.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A prediction states an expected measurable outcome.",
-      "hint": "Look for what students expect to observe or measure."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I01-P-011",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the ice study, what evidence should support a prediction?",
-    "audio_prompt": "During the ice study, what evidence should support a prediction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-011",
-      "alt_text": "During the ice study: question and prediction model showing [\"ice melted sooner in warm water\",\"prediction\"]"
-    },
-    "answers": [
-      {
-        "text": "Relevant observations or previous data",
-        "is_correct": true
-      },
-      {
-        "text": "A favourite answer",
-        "is_correct": false
-      },
-      {
-        "text": "The colour of the equipment",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Warm water is nicer.",
+      "Sugar is white.",
+      "The cup is large.",
+      "Sugar may dissolve faster in warmer water."
     ],
-    "correct_index": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
-      "hint": "Use what was noticed, not a preference."
+      "summary": "The prediction addresses the same factors as the question.",
+      "hint": "Question and prediction should match."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I01-P-012",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the ice study, which part of the question is the factor students change?",
-    "audio_prompt": "During the ice study, which part of the question is the factor students change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-012",
-      "alt_text": "During the ice study: question and prediction model showing [\"changed: water temperature\",\"measured: melting time\"]"
+    "structuredExplanation": {
+      "summary": "The prediction addresses the same factors as the question.",
+      "hint": "Question and prediction should match."
     },
-    "answers": [
-      {
-        "text": "melting time",
-        "is_correct": false
-      },
-      {
-        "text": "water temperature",
-        "is_correct": true
-      },
-      {
-        "text": "the final opinion",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The changed factor is deliberately varied to explore a relationship.",
-      "hint": "Look after \"How does\" and before \"affect\"."
-    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-013",
+    "id": "ac9s3i01-p-007",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the ice study, which part is the outcome students measure?",
-    "audio_prompt": "During the ice study, which part is the outcome students measure?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which question is opinion-based?",
+    "audio_prompt": "Which question is opinion-based?",
+    "audioPrompt": "Which question is opinion-based?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-013",
-      "alt_text": "During the ice study: question and prediction model showing [\"changed: water temperature\",\"measured: melting time\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "water temperature",
+        "text": "Which has most petals?",
         "is_correct": false
       },
       {
-        "text": "the equipment colour",
+        "text": "Which loses water fastest?",
         "is_correct": false
       },
       {
-        "text": "melting time",
+        "text": "Which flower is prettiest?",
         "is_correct": true
+      },
+      {
+        "text": "Which stem is tallest?",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Which has most petals?",
+      "Which loses water fastest?",
+      "Which flower is prettiest?",
+      "Which stem is tallest?"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The measured outcome provides data to answer the question.",
-      "hint": "Look for the result that can be recorded."
+      "summary": "“Prettiest” depends on preference.",
+      "hint": "Can everyone measure it the same way?"
     },
+    "structuredExplanation": {
+      "summary": "“Prettiest” depends on preference.",
+      "hint": "Can everyone measure it the same way?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-014",
+    "id": "ac9s3i01-p-008",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the ice study, why is \"Which one is best?\" not yet a strong scientific question?",
-    "audio_prompt": "During the ice study, why is \"Which one is best?\" not yet a strong scientific question?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Metal spoons felt colder than wooden spoons. Which question follows?",
+    "audio_prompt": "Metal spoons felt colder than wooden spoons. Which question follows?",
+    "audioPrompt": "Metal spoons felt colder than wooden spoons. Which question follows?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-014",
-      "alt_text": "During the ice study: question and prediction model showing [\"opinion: best\",\"measure: melting time\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It does not define an observable or measurable outcome",
+        "text": "Why is lunch good?",
+        "is_correct": false
+      },
+      {
+        "text": "Does spoon material affect how cold it feels?",
         "is_correct": true
       },
       {
-        "text": "It has too many units",
+        "text": "Are spoons useful?",
         "is_correct": false
       },
       {
-        "text": "It already contains data",
+        "text": "Who owns the spoon?",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Why is lunch good?",
+      "Does spoon material affect how cold it feels?",
+      "Are spoons useful?",
+      "Who owns the spoon?"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Words such as best need a measurable meaning.",
-      "hint": "Replace \"best\" with a named measurement."
+      "summary": "It explores the observed material–sensation relationship.",
+      "hint": "Turn the observation into a question."
     },
+    "structuredExplanation": {
+      "summary": "It explores the observed material–sensation relationship.",
+      "hint": "Turn the observation into a question."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-015",
+    "id": "ac9s3i01-p-009",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the ice study, what should students do if their results do not match the prediction?",
-    "audio_prompt": "During the ice study, what should students do if their results do not match the prediction?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which is an observation?",
+    "audio_prompt": "Which is an observation?",
+    "audioPrompt": "Which is an observation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-015",
-      "alt_text": "During the ice study: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Change the data to match",
-        "is_correct": false
-      },
-      {
-        "text": "Record the results honestly and use them to explain what happened",
+        "text": "The car travelled 42 cm.",
         "is_correct": true
       },
       {
-        "text": "Say the investigation failed without checking",
+        "text": "The car may travel less far.",
+        "is_correct": false
+      },
+      {
+        "text": "I think roughness will slow it.",
+        "is_correct": false
+      },
+      {
+        "text": "The smooth ramp should win.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
-      "hint": "Keep observations separate from what was expected."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I01-P-016",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the ice study, which prediction frame includes a reason?",
-    "audio_prompt": "During the ice study, which prediction frame includes a reason?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-016",
-      "alt_text": "During the ice study: question and prediction model showing [\"if\",\"water temperature\",\"then\",\"melting time\",\"because\",\"ice melted sooner in warm water\"]"
-    },
-    "answers": [
-      {
-        "text": "The result will happen because I said so",
-        "is_correct": false
-      },
-      {
-        "text": "I predict something interesting",
-        "is_correct": false
-      },
-      {
-        "text": "If water temperature changes, then melting time may change because the observation showed a pattern",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
-      "hint": "Look for if, then and because."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I01-P-017",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After watching wet cloths, students observe that wet cloth dried sooner in sunlight. Which question is testable?",
-    "audio_prompt": "After watching wet cloths, students observe that wet cloth dried sooner in sunlight. Which question is testable?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-017",
-      "alt_text": "After watching wet cloths: question and prediction model showing [\"observe: wet cloth dried sooner in sunlight\",\"change: location\",\"measure: drying time\"]"
-    },
-    "answers": [
-      {
-        "text": "How does location affect drying time?",
-        "is_correct": true
-      },
-      {
-        "text": "Which result is the nicest?",
-        "is_correct": false
-      },
-      {
-        "text": "Why is my favourite condition best?",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "The car travelled 42 cm.",
+      "The car may travel less far.",
+      "I think roughness will slow it.",
+      "The smooth ramp should win."
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
-      "hint": "Find the question that could be answered by collecting data."
+      "summary": "A measured result reports what happened.",
+      "hint": "Already happened."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A measured result reports what happened.",
+      "hint": "Already happened."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-018",
+    "id": "ac9s3i01-p-010",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After watching wet cloths, which prediction has a testable outcome?",
-    "audio_prompt": "After watching wet cloths, which prediction has a testable outcome?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "A prediction should be based on:",
+    "audio_prompt": "A prediction should be based on:",
+    "audioPrompt": "A prediction should be based on:",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-018",
-      "alt_text": "After watching wet cloths: question and prediction model showing [\"If\",\"location\",\"then\",\"drying time\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The investigation will be fun",
+        "text": "a favourite answer",
         "is_correct": false
       },
       {
-        "text": "Changing location will change the measured drying time",
+        "text": "a lucky number",
+        "is_correct": false
+      },
+      {
+        "text": "what a friend wants",
+        "is_correct": false
+      },
+      {
+        "text": "relevant observations or patterns",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "a favourite answer",
+      "a lucky number",
+      "what a friend wants",
+      "relevant observations or patterns"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Relevant evidence gives a prediction a scientific basis.",
+      "hint": "Use what was observed."
+    },
+    "structuredExplanation": {
+      "summary": "Relevant evidence gives a prediction a scientific basis.",
+      "hint": "Use what was observed."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Why is “What happens to plants?” too broad?",
+    "audio_prompt": "Why is “What happens to plants?” too broad?",
+    "audioPrompt": "Why is “What happens to plants?” too broad?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Questions cannot start with what.",
+        "is_correct": false
+      },
+      {
+        "text": "It is too short.",
+        "is_correct": false
+      },
+      {
+        "text": "It does not identify what will change or be observed.",
         "is_correct": true
       },
       {
-        "text": "The best result will happen",
+        "text": "Plants cannot be tested.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A prediction states an expected measurable outcome.",
-      "hint": "Look for what students expect to observe or measure."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I01-P-019",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After watching wet cloths, what evidence should support a prediction?",
-    "audio_prompt": "After watching wet cloths, what evidence should support a prediction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-019",
-      "alt_text": "After watching wet cloths: question and prediction model showing [\"wet cloth dried sooner in sunlight\",\"prediction\"]"
-    },
-    "answers": [
-      {
-        "text": "A favourite answer",
-        "is_correct": false
-      },
-      {
-        "text": "The colour of the equipment",
-        "is_correct": false
-      },
-      {
-        "text": "Relevant observations or previous data",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Questions cannot start with what.",
+      "It is too short.",
+      "It does not identify what will change or be observed.",
+      "Plants cannot be tested."
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
-      "hint": "Use what was noticed, not a preference."
+      "summary": "A useful question names a clear relationship or outcome.",
+      "hint": "Make it specific."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A useful question names a clear relationship or outcome.",
+      "hint": "Make it specific."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-020",
+    "id": "ac9s3i01-p-012",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After watching wet cloths, which part of the question is the factor students change?",
-    "audio_prompt": "After watching wet cloths, which part of the question is the factor students change?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Why predict before collecting results?",
+    "audio_prompt": "Why predict before collecting results?",
+    "audioPrompt": "Why predict before collecting results?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-020",
-      "alt_text": "After watching wet cloths: question and prediction model showing [\"changed: location\",\"measured: drying time\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "location",
+        "text": "To change data later.",
+        "is_correct": false
+      },
+      {
+        "text": "To record what was expected before knowing the outcome.",
         "is_correct": true
       },
       {
-        "text": "drying time",
+        "text": "To guarantee success.",
         "is_correct": false
       },
       {
-        "text": "the final opinion",
+        "text": "To avoid observing.",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "To change data later.",
+      "To record what was expected before knowing the outcome.",
+      "To guarantee success.",
+      "To avoid observing."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Predictions are checked against later evidence.",
+      "hint": "Prediction first."
+    },
+    "structuredExplanation": {
+      "summary": "Predictions are checked against later evidence.",
+      "hint": "Prediction first."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Two larger parachutes fell more slowly. Why is “a larger one may fall more slowly next time” reasonable?",
+    "audio_prompt": "Two larger parachutes fell more slowly. Why is “a larger one may fall more slowly next time” reasonable?",
+    "audioPrompt": "Two larger parachutes fell more slowly. Why is “a larger one may fall more slowly next time” reasonable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It uses the pattern and remains testable.",
+        "is_correct": true
+      },
+      {
+        "text": "Two trials prove always.",
+        "is_correct": false
+      },
+      {
+        "text": "Large things always fall slowly.",
+        "is_correct": false
+      },
+      {
+        "text": "It sounds scientific.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It uses the pattern and remains testable.",
+      "Two trials prove always.",
+      "Large things always fall slowly.",
+      "It sounds scientific."
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The changed factor is deliberately varied to explore a relationship.",
-      "hint": "Look after \"How does\" and before \"affect\"."
+      "summary": "The wording matches the limited evidence.",
+      "hint": "Use may, not always."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The wording matches the limited evidence.",
+      "hint": "Use may, not always."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-021",
+    "id": "ac9s3i01-p-014",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After watching wet cloths, which part is the outcome students measure?",
-    "audio_prompt": "After watching wet cloths, which part is the outcome students measure?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Why is “Which soil grows the best plant?” unclear?",
+    "audio_prompt": "Why is “Which soil grows the best plant?” unclear?",
+    "audioPrompt": "Why is “Which soil grows the best plant?” unclear?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-021",
-      "alt_text": "After watching wet cloths: question and prediction model showing [\"changed: location\",\"measured: drying time\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "location",
+        "text": "Soil cannot affect plants.",
         "is_correct": false
       },
       {
-        "text": "drying time",
+        "text": "Tallest always means healthiest.",
+        "is_correct": false
+      },
+      {
+        "text": "It has too few words.",
+        "is_correct": false
+      },
+      {
+        "text": "“Best” does not name a measurable outcome.",
         "is_correct": true
-      },
-      {
-        "text": "the equipment colour",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "Soil cannot affect plants.",
+      "Tallest always means healthiest.",
+      "It has too few words.",
+      "“Best” does not name a measurable outcome."
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The measured outcome provides data to answer the question.",
-      "hint": "Look for the result that can be recorded."
+      "summary": "The success criterion must be defined.",
+      "hint": "Best at what?"
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The success criterion must be defined.",
+      "hint": "Best at what?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-022",
+    "id": "ac9s3i01-p-015",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After watching wet cloths, why is \"Which one is best?\" not yet a strong scientific question?",
-    "audio_prompt": "After watching wet cloths, why is \"Which one is best?\" not yet a strong scientific question?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Why is a wrong prediction still useful?",
+    "audio_prompt": "Why is a wrong prediction still useful?",
+    "audioPrompt": "Why is a wrong prediction still useful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-022",
-      "alt_text": "After watching wet cloths: question and prediction model showing [\"opinion: best\",\"measure: drying time\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It has too many units",
+        "text": "The test failed.",
         "is_correct": false
       },
       {
-        "text": "It already contains data",
+        "text": "Predictions must be right.",
         "is_correct": false
       },
       {
-        "text": "It does not define an observable or measurable outcome",
+        "text": "The result can improve the explanation or lead to a new question.",
         "is_correct": true
+      },
+      {
+        "text": "The result should be erased.",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "The test failed.",
+      "Predictions must be right.",
+      "The result can improve the explanation or lead to a new question.",
+      "The result should be erased."
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Words such as best need a measurable meaning.",
-      "hint": "Replace \"best\" with a named measurement."
+      "summary": "Unexpected evidence can teach us.",
+      "hint": "Science learns from surprises."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Unexpected evidence can teach us.",
+      "hint": "Science learns from surprises."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-023",
+    "id": "ac9s3i01-p-016",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After watching wet cloths, what should students do if their results do not match the prediction?",
-    "audio_prompt": "After watching wet cloths, what should students do if their results do not match the prediction?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Why name both factors in a relationship question?",
+    "audio_prompt": "Why name both factors in a relationship question?",
+    "audioPrompt": "Why name both factors in a relationship question?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-023",
-      "alt_text": "After watching wet cloths: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Record the results honestly and use them to explain what happened",
+        "text": "It makes it longer.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes clear what is being compared.",
         "is_correct": true
       },
       {
-        "text": "Change the data to match",
+        "text": "Every question needs two nouns.",
         "is_correct": false
       },
       {
-        "text": "Say the investigation failed without checking",
+        "text": "It guarantees the result.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "It makes it longer.",
+      "It makes clear what is being compared.",
+      "Every question needs two nouns.",
+      "It guarantees the result."
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
-      "hint": "Keep observations separate from what was expected."
+      "summary": "Clear factors help plan the investigation.",
+      "hint": "What is related to what?"
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Clear factors help plan the investigation.",
+      "hint": "What is related to what?"
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-P-024",
+    "id": "ac9s3i01-p-017",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After watching wet cloths, which prediction frame includes a reason?",
-    "audio_prompt": "After watching wet cloths, which prediction frame includes a reason?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "A black container warmed more in earlier sunlight tests. Why is “black may warm faster” scientific?",
+    "audio_prompt": "A black container warmed more in earlier sunlight tests. Why is “black may warm faster” scientific?",
+    "audioPrompt": "A black container warmed more in earlier sunlight tests. Why is “black may warm faster” scientific?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-p-024",
-      "alt_text": "After watching wet cloths: question and prediction model showing [\"if\",\"location\",\"then\",\"drying time\",\"because\",\"wet cloth dried sooner in sunlight\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The result will happen because I said so",
-        "is_correct": false
-      },
-      {
-        "text": "If location changes, then drying time may change because the observation showed a pattern",
+        "text": "It uses relevant observations and can be tested.",
         "is_correct": true
       },
       {
-        "text": "I predict something interesting",
+        "text": "Black is popular.",
+        "is_correct": false
+      },
+      {
+        "text": "The speaker is confident.",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot be wrong.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "It uses relevant observations and can be tested.",
+      "Black is popular.",
+      "The speaker is confident.",
+      "It cannot be wrong."
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
-      "hint": "Look for if, then and because."
+      "summary": "Evidence supports a testable expectation.",
+      "hint": "Evidence + testability."
+    },
+    "structuredExplanation": {
+      "summary": "Evidence supports a testable expectation.",
+      "hint": "Evidence + testability."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-018",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Why use “may” in a prediction from limited evidence?",
+    "audio_prompt": "Why use “may” in a prediction from limited evidence?",
+    "audioPrompt": "Why use “may” in a prediction from limited evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Science must always sound unsure.",
+        "is_correct": false
+      },
+      {
+        "text": "May makes any claim right.",
+        "is_correct": false
+      },
+      {
+        "text": "Measurements are unreliable.",
+        "is_correct": false
+      },
+      {
+        "text": "A pattern does not guarantee every future result.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Science must always sound unsure.",
+      "May makes any claim right.",
+      "Measurements are unreliable.",
+      "A pattern does not guarantee every future result."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Cautious wording matches the evidence.",
+      "hint": "Do not overclaim."
+    },
+    "structuredExplanation": {
+      "summary": "Cautious wording matches the evidence.",
+      "hint": "Do not overclaim."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-019",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Why is “Does water amount affect plant height?” a relationship question?",
+    "audio_prompt": "Why is “Does water amount affect plant height?” a relationship question?",
+    "audioPrompt": "Why is “Does water amount affect plant height?” a relationship question?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It mentions plants.",
+        "is_correct": false
+      },
+      {
+        "text": "It has one answer.",
+        "is_correct": false
+      },
+      {
+        "text": "It links water amount with plant height.",
+        "is_correct": true
+      },
+      {
+        "text": "It asks an opinion.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It mentions plants.",
+      "It has one answer.",
+      "It links water amount with plant height.",
+      "It asks an opinion."
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "It connects one factor with another measurable outcome.",
+      "hint": "Identify both factors."
+    },
+    "structuredExplanation": {
+      "summary": "It connects one factor with another measurable outcome.",
+      "hint": "Identify both factors."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-020",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Why record the observation that led to a question?",
+    "audio_prompt": "Why record the observation that led to a question?",
+    "audioPrompt": "Why record the observation that led to a question?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It becomes a rule.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows why the investigation was worth asking.",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees the result.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces testing.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It becomes a rule.",
+      "It shows why the investigation was worth asking.",
+      "It guarantees the result.",
+      "It replaces testing."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The starting observation provides a reason for the question.",
+      "hint": "Keep the starting evidence."
+    },
+    "structuredExplanation": {
+      "summary": "The starting observation provides a reason for the question.",
+      "hint": "Keep the starting evidence."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-021",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Wet clothes dried faster on windy days. Which question best investigates this?",
+    "audio_prompt": "Wet clothes dried faster on windy days. Which question best investigates this?",
+    "audioPrompt": "Wet clothes dried faster on windy days. Which question best investigates this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Does wind speed affect drying time?",
+        "is_correct": true
+      },
+      {
+        "text": "Which clothes look best?",
+        "is_correct": false
+      },
+      {
+        "text": "Why does wind exist?",
+        "is_correct": false
+      },
+      {
+        "text": "Are windy days annoying?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Does wind speed affect drying time?",
+      "Which clothes look best?",
+      "Why does wind exist?",
+      "Are windy days annoying?"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "It directly tests the observed pattern.",
+      "hint": "Turn pattern into question."
+    },
+    "structuredExplanation": {
+      "summary": "It directly tests the observed pattern.",
+      "hint": "Turn pattern into question."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-022",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which prediction overclaims?",
+    "audio_prompt": "Which prediction overclaims?",
+    "audioPrompt": "Which prediction overclaims?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A larger one may fall more slowly next time.",
+        "is_correct": false
+      },
+      {
+        "text": "We can test whether size matters.",
+        "is_correct": false
+      },
+      {
+        "text": "Earlier trials suggest size may matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Two large parachutes fell slowly, so every large parachute always falls slowly.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A larger one may fall more slowly next time.",
+      "We can test whether size matters.",
+      "Earlier trials suggest size may matter.",
+      "Two large parachutes fell slowly, so every large parachute always falls slowly."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "“Every” and “always” go beyond two trials.",
+      "hint": "Spot absolute wording."
+    },
+    "structuredExplanation": {
+      "summary": "“Every” and “always” go beyond two trials.",
+      "hint": "Spot absolute wording."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-023",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which question is focused enough for class?",
+    "audio_prompt": "Which question is focused enough for class?",
+    "audioPrompt": "Which question is focused enough for class?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Why is air interesting?",
+        "is_correct": false
+      },
+      {
+        "text": "What is the best helicopter?",
+        "is_correct": false
+      },
+      {
+        "text": "How does helicopter blade length affect fall time?",
+        "is_correct": true
+      },
+      {
+        "text": "How does everything affect flying?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Why is air interesting?",
+      "What is the best helicopter?",
+      "How does helicopter blade length affect fall time?",
+      "How does everything affect flying?"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "It names one factor and one measurable outcome.",
+      "hint": "Could you plan a test?"
+    },
+    "structuredExplanation": {
+      "summary": "It names one factor and one measurable outcome.",
+      "hint": "Could you plan a test?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-024",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which prediction is evidence-based?",
+    "audio_prompt": "Which prediction is evidence-based?",
+    "audioPrompt": "Which prediction is evidence-based?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "First will win because it is first.",
+        "is_correct": false
+      },
+      {
+        "text": "The darker surface may warm more because it did in earlier tests.",
+        "is_correct": true
+      },
+      {
+        "text": "Blue will win because I like blue.",
+        "is_correct": false
+      },
+      {
+        "text": "Square will win because it is neat.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "First will win because it is first.",
+      "The darker surface may warm more because it did in earlier tests.",
+      "Blue will win because I like blue.",
+      "Square will win because it is neat."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The first uses relevant previous observations.",
+      "hint": "Evidence, not preference."
+    },
+    "structuredExplanation": {
+      "summary": "The first uses relevant previous observations.",
+      "hint": "Evidence, not preference."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-025",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Taller ramps usually made cars travel farther. Which question extends the work?",
+    "audio_prompt": "Taller ramps usually made cars travel farther. Which question extends the work?",
+    "audioPrompt": "Taller ramps usually made cars travel farther. Which question extends the work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Does the pattern continue with an even taller ramp?",
+        "is_correct": true
+      },
+      {
+        "text": "Which car colour is nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "Why are ramps triangles?",
+        "is_correct": false
+      },
+      {
+        "text": "Who likes cars?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Does the pattern continue with an even taller ramp?",
+      "Which car colour is nicest?",
+      "Why are ramps triangles?",
+      "Who likes cars?"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "It extends the same relationship.",
+      "hint": "Build on the pattern."
+    },
+    "structuredExplanation": {
+      "summary": "It extends the same relationship.",
+      "hint": "Build on the pattern."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-026",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which pair is correct?",
+    "audio_prompt": "Which pair is correct?",
+    "audioPrompt": "Which pair is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Observation: may last longer; Prediction: lasted 18 min.",
+        "is_correct": false
+      },
+      {
+        "text": "Observation: ice is nice; Prediction: shade is green.",
+        "is_correct": false
+      },
+      {
+        "text": "Observation: tomorrow; Prediction: yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "Observation: shaded ice lasted 18 min; Prediction: shaded ice may last longer next time.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Observation: may last longer; Prediction: lasted 18 min.",
+      "Observation: ice is nice; Prediction: shade is green.",
+      "Observation: tomorrow; Prediction: yesterday.",
+      "Observation: shaded ice lasted 18 min; Prediction: shaded ice may last longer next time."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Observation reports evidence; prediction anticipates a result.",
+      "hint": "Known versus expected."
+    },
+    "structuredExplanation": {
+      "summary": "Observation reports evidence; prediction anticipates a result.",
+      "hint": "Known versus expected."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-027",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which question would produce evidence rather than opinions?",
+    "audio_prompt": "Which question would produce evidence rather than opinions?",
+    "audioPrompt": "Which question would produce evidence rather than opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Who made the best spinner?",
+        "is_correct": false
+      },
+      {
+        "text": "Is spinning fun?",
+        "is_correct": false
+      },
+      {
+        "text": "Does adding paper clips affect spinner fall time?",
+        "is_correct": true
+      },
+      {
+        "text": "Which spinner looks coolest?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Who made the best spinner?",
+      "Is spinning fun?",
+      "Does adding paper clips affect spinner fall time?",
+      "Which spinner looks coolest?"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The first can be measured.",
+      "hint": "Choose measurable evidence."
+    },
+    "structuredExplanation": {
+      "summary": "The first can be measured.",
+      "hint": "Choose measurable evidence."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-028",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "One ant is seen near sugar, then a student says ants always prefer sugar. What is wrong?",
+    "audio_prompt": "One ant is seen near sugar, then a student says ants always prefer sugar. What is wrong?",
+    "audioPrompt": "One ant is seen near sugar, then a student says ants always prefer sugar. What is wrong?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Predictions cannot mention animals.",
+        "is_correct": false
+      },
+      {
+        "text": "One observation cannot support an “always” claim.",
+        "is_correct": true
+      },
+      {
+        "text": "Ants cannot be observed.",
+        "is_correct": false
+      },
+      {
+        "text": "Sugar is not material.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Predictions cannot mention animals.",
+      "One observation cannot support an “always” claim.",
+      "Ants cannot be observed.",
+      "Sugar is not material."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The evidence is too limited for a universal rule.",
+      "hint": "One result ≠ always."
+    },
+    "structuredExplanation": {
+      "summary": "The evidence is too limited for a universal rule.",
+      "hint": "One result ≠ always."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-029",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which prediction matches “Does water temperature affect tablet dissolving time?”",
+    "audio_prompt": "Which prediction matches “Does water temperature affect tablet dissolving time?”",
+    "audioPrompt": "Which prediction matches “Does water temperature affect tablet dissolving time?”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The tablet may dissolve faster in warmer water.",
+        "is_correct": true
+      },
+      {
+        "text": "The warm cup is red.",
+        "is_correct": false
+      },
+      {
+        "text": "The tablet is round.",
+        "is_correct": false
+      },
+      {
+        "text": "Warm water is better.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The tablet may dissolve faster in warmer water.",
+      "The warm cup is red.",
+      "The tablet is round.",
+      "Warm water is better."
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "It predicts the outcome named in the question.",
+      "hint": "Same factors."
+    },
+    "structuredExplanation": {
+      "summary": "It predicts the outcome named in the question.",
+      "hint": "Same factors."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-030",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "What should happen if the expected pattern does not appear?",
+    "audio_prompt": "What should happen if the expected pattern does not appear?",
+    "audioPrompt": "What should happen if the expected pattern does not appear?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Delete unusual results.",
+        "is_correct": false
+      },
+      {
+        "text": "Change data.",
+        "is_correct": false
+      },
+      {
+        "text": "Claim the pattern anyway.",
+        "is_correct": false
+      },
+      {
+        "text": "Record the results and reconsider the prediction or question.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Delete unusual results.",
+      "Change data.",
+      "Claim the pattern anyway.",
+      "Record the results and reconsider the prediction or question."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Scientific reasoning follows the evidence collected.",
+      "hint": "Let evidence change thinking."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific reasoning follows the evidence collected.",
+      "hint": "Let evidence change thinking."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-031",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Shadows are shortest near lunchtime. Which question best investigates this?",
+    "audio_prompt": "Shadows are shortest near lunchtime. Which question best investigates this?",
+    "audioPrompt": "Shadows are shortest near lunchtime. Which question best investigates this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Why is lunch at noon?",
+        "is_correct": false
+      },
+      {
+        "text": "Are shadows scary?",
+        "is_correct": false
+      },
+      {
+        "text": "How does a pole’s shadow length change during the day?",
+        "is_correct": true
+      },
+      {
+        "text": "Which shadow is funniest?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Why is lunch at noon?",
+      "Are shadows scary?",
+      "How does a pole’s shadow length change during the day?",
+      "Which shadow is funniest?"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "It makes the time–shadow relationship measurable.",
+      "hint": "Measure across time."
+    },
+    "structuredExplanation": {
+      "summary": "It makes the time–shadow relationship measurable.",
+      "hint": "Measure across time."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-032",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Ice melted faster on metal than foam in three trials. Which prediction is best?",
+    "audio_prompt": "Ice melted faster on metal than foam in three trials. Which prediction is best?",
+    "audioPrompt": "Ice melted faster on metal than foam in three trials. Which prediction is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The next result must match exactly.",
+        "is_correct": false
+      },
+      {
+        "text": "Ice on metal may melt faster again in a similar test.",
+        "is_correct": true
+      },
+      {
+        "text": "Metal melts all ice instantly.",
+        "is_correct": false
+      },
+      {
+        "text": "Foam never warms.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The next result must match exactly.",
+      "Ice on metal may melt faster again in a similar test.",
+      "Metal melts all ice instantly.",
+      "Foam never warms."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "It uses repeated evidence cautiously.",
+      "hint": "Pattern, not guarantee."
+    },
+    "structuredExplanation": {
+      "summary": "It uses repeated evidence cautiously.",
+      "hint": "Pattern, not guarantee."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-033",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Plants given 20 mL grew taller than plants given 5 mL. Which next question is strongest?",
+    "audio_prompt": "Plants given 20 mL grew taller than plants given 5 mL. Which next question is strongest?",
+    "audioPrompt": "Plants given 20 mL grew taller than plants given 5 mL. Which next question is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "How does water amount affect bean-plant height over three weeks?",
+        "is_correct": true
+      },
+      {
+        "text": "Which pot is prettiest?",
+        "is_correct": false
+      },
+      {
+        "text": "Why do beans exist?",
+        "is_correct": false
+      },
+      {
+        "text": "Do all plants like water?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "How does water amount affect bean-plant height over three weeks?",
+      "Which pot is prettiest?",
+      "Why do beans exist?",
+      "Do all plants like water?"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "It focuses on the observed relationship.",
+      "hint": "Use measurable factors."
+    },
+    "structuredExplanation": {
+      "summary": "It focuses on the observed relationship.",
+      "hint": "Use measurable factors."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-034",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "A smooth ball rolled farther yesterday. Which prediction is strongest?",
+    "audio_prompt": "A smooth ball rolled farther yesterday. Which prediction is strongest?",
+    "audioPrompt": "A smooth ball rolled farther yesterday. Which prediction is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Green will win because green is lucky.",
+        "is_correct": false
+      },
+      {
+        "text": "Smooth objects roll forever.",
+        "is_correct": false
+      },
+      {
+        "text": "Rough balls cannot move.",
+        "is_correct": false
+      },
+      {
+        "text": "A smooth ball may roll farther again on the same ramp.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Green will win because green is lucky.",
+      "Smooth objects roll forever.",
+      "Rough balls cannot move.",
+      "A smooth ball may roll farther again on the same ramp."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The first prediction uses relevant evidence.",
+      "hint": "Use yesterday’s observation."
+    },
+    "structuredExplanation": {
+      "summary": "The first prediction uses relevant evidence.",
+      "hint": "Use yesterday’s observation."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-035",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Improve “Does light affect plants?”",
+    "audio_prompt": "Improve “Does light affect plants?”",
+    "audioPrompt": "Improve “Does light affect plants?”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "What happens?",
+        "is_correct": false
+      },
+      {
+        "text": "Do I like sunlight?",
+        "is_correct": false
+      },
+      {
+        "text": "Does light amount affect bean-plant growth over two weeks?",
+        "is_correct": true
+      },
+      {
+        "text": "Are plants good?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "What happens?",
+      "Do I like sunlight?",
+      "Does light amount affect bean-plant growth over two weeks?",
+      "Are plants good?"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The revision makes the factor and outcome measurable.",
+      "hint": "Make “affect” specific."
+    },
+    "structuredExplanation": {
+      "summary": "The revision makes the factor and outcome measurable.",
+      "hint": "Make “affect” specific."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-036",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Birds visited a feeder more in mornings for five days. Which prediction fits day six?",
+    "audio_prompt": "Birds visited a feeder more in mornings for five days. Which prediction fits day six?",
+    "audioPrompt": "Birds visited a feeder more in mornings for five days. Which prediction fits day six?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Morning creates birds.",
+        "is_correct": false
+      },
+      {
+        "text": "More visits may occur in the morning again.",
+        "is_correct": true
+      },
+      {
+        "text": "Exactly 12 birds must arrive at 8:03.",
+        "is_correct": false
+      },
+      {
+        "text": "Birds never visit afternoons.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Morning creates birds.",
+      "More visits may occur in the morning again.",
+      "Exactly 12 birds must arrive at 8:03.",
+      "Birds never visit afternoons."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The pattern supports a cautious prediction.",
+      "hint": "Use only what evidence supports."
+    },
+    "structuredExplanation": {
+      "summary": "The pattern supports a cautious prediction.",
+      "hint": "Use only what evidence supports."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-037",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Warmer water was predicted to dissolve sugar faster, but both cups took the same time. What next?",
+    "audio_prompt": "Warmer water was predicted to dissolve sugar faster, but both cups took the same time. What next?",
+    "audioPrompt": "Warmer water was predicted to dissolve sugar faster, but both cups took the same time. What next?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Record the result and repeat or refine the question.",
+        "is_correct": true
+      },
+      {
+        "text": "Change one time.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the cups.",
+        "is_correct": false
+      },
+      {
+        "text": "Say warm was faster anyway.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Record the result and repeat or refine the question.",
+      "Change one time.",
+      "Ignore the cups.",
+      "Say warm was faster anyway."
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Equal results are still evidence.",
+      "hint": "Unexpected evidence counts."
+    },
+    "structuredExplanation": {
+      "summary": "Equal results are still evidence.",
+      "hint": "Unexpected evidence counts."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-038",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Plants near a leaking tap are taller. Which question avoids assuming cause?",
+    "audio_prompt": "Plants near a leaking tap are taller. Which question avoids assuming cause?",
+    "audioPrompt": "Plants near a leaking tap are taller. Which question avoids assuming cause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Why does the tap make plants tall?",
+        "is_correct": false
+      },
+      {
+        "text": "Why are taps good?",
+        "is_correct": false
+      },
+      {
+        "text": "Do tall plants always grow near taps?",
+        "is_correct": false
+      },
+      {
+        "text": "Does receiving more water affect plant growth?",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Why does the tap make plants tall?",
+      "Why are taps good?",
+      "Do tall plants always grow near taps?",
+      "Does receiving more water affect plant growth?"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "It tests the possible relationship without assuming causation.",
+      "hint": "Ask before claiming cause."
+    },
+    "structuredExplanation": {
+      "summary": "It tests the possible relationship without assuming causation.",
+      "hint": "Ask before claiming cause."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-039",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which observation best justifies asking whether shade affects soil temperature?",
+    "audio_prompt": "Which observation best justifies asking whether shade affects soil temperature?",
+    "audioPrompt": "Which observation best justifies asking whether shade affects soil temperature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Students like shade.",
+        "is_correct": false
+      },
+      {
+        "text": "The thermometer is yellow.",
+        "is_correct": false
+      },
+      {
+        "text": "Soil was cooler under a tree than in sun on several afternoons.",
+        "is_correct": true
+      },
+      {
+        "text": "The tree has green leaves.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Students like shade.",
+      "The thermometer is yellow.",
+      "Soil was cooler under a tree than in sun on several afternoons.",
+      "The tree has green leaves."
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Repeated temperature differences support the question.",
+      "hint": "Use relevant observations."
+    },
+    "structuredExplanation": {
+      "summary": "Repeated temperature differences support the question.",
+      "hint": "Use relevant observations."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-p-040",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which sequence shows strong inquiry?",
+    "audio_prompt": "Which sequence shows strong inquiry?",
+    "audioPrompt": "Which sequence shows strong inquiry?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Vote on an opinion → call it evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Notice pattern → ask focused question → predict from evidence → investigate",
+        "is_correct": true
+      },
+      {
+        "text": "Choose answer → change data → announce rule",
+        "is_correct": false
+      },
+      {
+        "text": "Predict → refuse to observe",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Vote on an opinion → call it evidence",
+      "Notice pattern → ask focused question → predict from evidence → investigate",
+      "Choose answer → change data → announce rule",
+      "Predict → refuse to observe"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Strong inquiry connects observations, questions, predictions and evidence.",
+      "hint": "Follow the evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Strong inquiry connects observations, questions, predictions and evidence.",
+      "hint": "Follow the evidence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-t-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "test",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Wet sand holds a castle shape better than dry sand. Which question best follows?",
+    "audio_prompt": "Wet sand holds a castle shape better than dry sand. Which question best follows?",
+    "audioPrompt": "Wet sand holds a castle shape better than dry sand. Which question best follows?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Why is the beach fun?",
+        "is_correct": false
+      },
+      {
+        "text": "Are buckets useful?",
+        "is_correct": false
+      },
+      {
+        "text": "Does water amount affect how well sand holds shape?",
+        "is_correct": true
+      },
+      {
+        "text": "Which castle is prettiest?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Why is the beach fun?",
+      "Are buckets useful?",
+      "Does water amount affect how well sand holds shape?",
+      "Which castle is prettiest?"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "It tests the observed relationship.",
+      "hint": "Make it measurable."
+    },
+    "structuredExplanation": {
+      "summary": "It tests the observed relationship.",
+      "hint": "Make it measurable."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-T-001",
+    "id": "ac9s3i01-t-002",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the soil study, students observe that water drained faster through sand. Which question is testable?",
-    "audio_prompt": "During the soil study, students observe that water drained faster through sand. Which question is testable?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Grass was wet after four dewy mornings. Which prediction is careful?",
+    "audio_prompt": "Grass was wet after four dewy mornings. Which prediction is careful?",
+    "audioPrompt": "Grass was wet after four dewy mornings. Which prediction is careful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-001",
-      "alt_text": "During the soil study: question and prediction model showing [\"observe: water drained faster through sand\",\"change: soil type\",\"measure: drained water\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Which result is the nicest?",
+        "text": "Exactly four patches will be wet.",
         "is_correct": false
       },
       {
-        "text": "Why is my favourite condition best?",
-        "is_correct": false
-      },
-      {
-        "text": "How does soil type affect drained water?",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
-      "hint": "Find the question that could be answered by collecting data."
-    }
-  },
-  {
-    "id": "AC9S3I01-T-002",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the soil study, which prediction has a testable outcome?",
-    "audio_prompt": "During the soil study, which prediction has a testable outcome?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-002",
-      "alt_text": "During the soil study: question and prediction model showing [\"If\",\"soil type\",\"then\",\"drained water\"]"
-    },
-    "answers": [
-      {
-        "text": "Changing soil type will change the measured drained water",
+        "text": "It may be wet after another dewy morning.",
         "is_correct": true
       },
       {
-        "text": "The investigation will be fun",
+        "text": "It must be wet forever.",
         "is_correct": false
       },
       {
-        "text": "The best result will happen",
+        "text": "Dew makes all grass identical.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A prediction states an expected measurable outcome.",
-      "hint": "Look for what students expect to observe or measure."
-    }
-  },
-  {
-    "id": "AC9S3I01-T-003",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the soil study, what evidence should support a prediction?",
-    "audio_prompt": "During the soil study, what evidence should support a prediction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-003",
-      "alt_text": "During the soil study: question and prediction model showing [\"water drained faster through sand\",\"prediction\"]"
-    },
-    "answers": [
-      {
-        "text": "A favourite answer",
-        "is_correct": false
-      },
-      {
-        "text": "Relevant observations or previous data",
-        "is_correct": true
-      },
-      {
-        "text": "The colour of the equipment",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Exactly four patches will be wet.",
+      "It may be wet after another dewy morning.",
+      "It must be wet forever.",
+      "Dew makes all grass identical."
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
-      "hint": "Use what was noticed, not a preference."
-    }
+      "summary": "The pattern supports “may”, not certainty.",
+      "hint": "Avoid must."
+    },
+    "structuredExplanation": {
+      "summary": "The pattern supports “may”, not certainty.",
+      "hint": "Avoid must."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-T-004",
+    "id": "ac9s3i01-t-003",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the soil study, which part of the question is the factor students change?",
-    "audio_prompt": "During the soil study, which part of the question is the factor students change?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which question is most measurable?",
+    "audio_prompt": "Which question is most measurable?",
+    "audioPrompt": "Which question is most measurable?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-004",
-      "alt_text": "During the soil study: question and prediction model showing [\"changed: soil type\",\"measured: drained water\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "drained water",
-        "is_correct": false
-      },
-      {
-        "text": "the final opinion",
-        "is_correct": false
-      },
-      {
-        "text": "soil type",
+        "text": "Does string length affect pendulum swing time?",
         "is_correct": true
+      },
+      {
+        "text": "Which pendulum looks best?",
+        "is_correct": false
+      },
+      {
+        "text": "Is swinging exciting?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is string useful?",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The changed factor is deliberately varied to explore a relationship.",
-      "hint": "Look after \"How does\" and before \"affect\"."
-    }
-  },
-  {
-    "id": "AC9S3I01-T-005",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the soil study, which part is the outcome students measure?",
-    "audio_prompt": "During the soil study, which part is the outcome students measure?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-005",
-      "alt_text": "During the soil study: question and prediction model showing [\"changed: soil type\",\"measured: drained water\"]"
-    },
-    "answers": [
-      {
-        "text": "drained water",
-        "is_correct": true
-      },
-      {
-        "text": "soil type",
-        "is_correct": false
-      },
-      {
-        "text": "the equipment colour",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Does string length affect pendulum swing time?",
+      "Which pendulum looks best?",
+      "Is swinging exciting?",
+      "Why is string useful?"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The measured outcome provides data to answer the question.",
-      "hint": "Look for the result that can be recorded."
-    }
+      "summary": "Both variables can be measured.",
+      "hint": "Choose measurable factors."
+    },
+    "structuredExplanation": {
+      "summary": "Both variables can be measured.",
+      "hint": "Choose measurable factors."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-T-006",
+    "id": "ac9s3i01-t-004",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the soil study, why is \"Which one is best?\" not yet a strong scientific question?",
-    "audio_prompt": "During the soil study, why is \"Which one is best?\" not yet a strong scientific question?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "More-layer paper towels absorbed more water in three trials. Which prediction follows?",
+    "audio_prompt": "More-layer paper towels absorbed more water in three trials. Which prediction follows?",
+    "audioPrompt": "More-layer paper towels absorbed more water in three trials. Which prediction follows?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-006",
-      "alt_text": "During the soil study: question and prediction model showing [\"opinion: best\",\"measure: drained water\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It has too many units",
+        "text": "More layers always absorb every drop.",
         "is_correct": false
       },
       {
-        "text": "It does not define an observable or measurable outcome",
+        "text": "The thickest is best for every job.",
+        "is_correct": false
+      },
+      {
+        "text": "Paper towels choose water.",
+        "is_correct": false
+      },
+      {
+        "text": "A towel with more layers may absorb more in another similar test.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "More layers always absorb every drop.",
+      "The thickest is best for every job.",
+      "Paper towels choose water.",
+      "A towel with more layers may absorb more in another similar test."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "It extends the pattern cautiously.",
+      "hint": "May, not always."
+    },
+    "structuredExplanation": {
+      "summary": "It extends the pattern cautiously.",
+      "hint": "May, not always."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-t-005",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "test",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Why is “Which bridge is best?” weak?",
+    "audio_prompt": "Why is “Which bridge is best?” weak?",
+    "audioPrompt": "Why is “Which bridge is best?” weak?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Questions cannot use which.",
+        "is_correct": false
+      },
+      {
+        "text": "Bridge is too technical.",
+        "is_correct": false
+      },
+      {
+        "text": "“Best” does not name a measurable property.",
         "is_correct": true
       },
       {
-        "text": "It already contains data",
+        "text": "Bridges cannot be tested.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Words such as best need a measurable meaning.",
-      "hint": "Replace \"best\" with a named measurement."
-    }
-  },
-  {
-    "id": "AC9S3I01-T-007",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the soil study, what should students do if their results do not match the prediction?",
-    "audio_prompt": "During the soil study, what should students do if their results do not match the prediction?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-007",
-      "alt_text": "During the soil study: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
-    },
-    "answers": [
-      {
-        "text": "Change the data to match",
-        "is_correct": false
-      },
-      {
-        "text": "Say the investigation failed without checking",
-        "is_correct": false
-      },
-      {
-        "text": "Record the results honestly and use them to explain what happened",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Questions cannot use which.",
+      "Bridge is too technical.",
+      "“Best” does not name a measurable property.",
+      "Bridges cannot be tested."
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
-      "hint": "Keep observations separate from what was expected."
-    }
+      "summary": "A criterion such as load held must be defined.",
+      "hint": "Best at what?"
+    },
+    "structuredExplanation": {
+      "summary": "A criterion such as load held must be defined.",
+      "hint": "Best at what?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-T-008",
+    "id": "ac9s3i01-t-006",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "During the soil study, which prediction frame includes a reason?",
-    "audio_prompt": "During the soil study, which prediction frame includes a reason?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "A magnet attracted steel clips before. What supports predicting it will attract another steel clip?",
+    "audio_prompt": "A magnet attracted steel clips before. What supports predicting it will attract another steel clip?",
+    "audioPrompt": "A magnet attracted steel clips before. What supports predicting it will attract another steel clip?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-008",
-      "alt_text": "During the soil study: question and prediction model showing [\"if\",\"soil type\",\"then\",\"drained water\",\"because\",\"water drained faster through sand\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "If soil type changes, then drained water may change because the observation showed a pattern",
+        "text": "Writing the prediction first",
+        "is_correct": false
+      },
+      {
+        "text": "Relevant previous observations",
         "is_correct": true
       },
       {
-        "text": "The result will happen because I said so",
+        "text": "Liking magnets",
         "is_correct": false
       },
       {
-        "text": "I predict something interesting",
+        "text": "The clip being shiny",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "Writing the prediction first",
+      "Relevant previous observations",
+      "Liking magnets",
+      "The clip being shiny"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Past relevant evidence supports the expectation.",
+      "hint": "Use evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Past relevant evidence supports the expectation.",
+      "hint": "Use evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-t-007",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "test",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "One shaded plant grew slowly. Which claim is too strong?",
+    "audio_prompt": "One shaded plant grew slowly. Which claim is too strong?",
+    "audioPrompt": "One shaded plant grew slowly. Which claim is too strong?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Plants in shade always grow slowly.",
+        "is_correct": true
+      },
+      {
+        "text": "This plant grew slowly in shade.",
+        "is_correct": false
+      },
+      {
+        "text": "We could test more plants.",
+        "is_correct": false
+      },
+      {
+        "text": "This suggests a light-growth question.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Plants in shade always grow slowly.",
+      "This plant grew slowly in shade.",
+      "We could test more plants.",
+      "This suggests a light-growth question."
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
-      "hint": "Look for if, then and because."
-    }
+      "summary": "One observation cannot justify a universal claim.",
+      "hint": "One result ≠ always."
+    },
+    "structuredExplanation": {
+      "summary": "One observation cannot justify a universal claim.",
+      "hint": "One result ≠ always."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-T-009",
+    "id": "ac9s3i01-t-008",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing shadows, students observe that shadows changed length during the day. Which question is testable?",
-    "audio_prompt": "After observing shadows, students observe that shadows changed length during the day. Which question is testable?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which statement reports a measured result rather than a prediction?",
+    "audio_prompt": "Which statement reports a measured result rather than a prediction?",
+    "audioPrompt": "Which statement reports a measured result rather than a prediction?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-009",
-      "alt_text": "After observing shadows: question and prediction model showing [\"observe: shadows changed length during the day\",\"change: time of day\",\"measure: shadow length\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Which result is the nicest?",
+        "text": "Water may cool faster outside.",
         "is_correct": false
       },
       {
-        "text": "How does time of day affect shadow length?",
+        "text": "Metal may cool it faster.",
+        "is_correct": false
+      },
+      {
+        "text": "The next test should differ.",
+        "is_correct": false
+      },
+      {
+        "text": "Water cooled from 50°C to 38°C.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Water may cool faster outside.",
+      "Metal may cool it faster.",
+      "The next test should differ.",
+      "Water cooled from 50°C to 38°C."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The temperature change reports measured evidence.",
+      "hint": "Choose what has already been measured."
+    },
+    "structuredExplanation": {
+      "summary": "The temperature change reports measured evidence.",
+      "hint": "Choose what has already been measured."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-t-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "test",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Snails are often found in damp spots. Which question is strongest?",
+    "audio_prompt": "Snails are often found in damp spots. Which question is strongest?",
+    "audioPrompt": "Snails are often found in damp spots. Which question is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Why is mud messy?",
+        "is_correct": false
+      },
+      {
+        "text": "Are gardens fun?",
+        "is_correct": false
+      },
+      {
+        "text": "Does soil moisture affect where snails are found?",
         "is_correct": true
       },
       {
-        "text": "Why is my favourite condition best?",
+        "text": "Which snail is cutest?",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A testable question links a changed factor to an observable or measurable outcome.",
-      "hint": "Find the question that could be answered by collecting data."
-    }
-  },
-  {
-    "id": "AC9S3I01-T-010",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing shadows, which prediction has a testable outcome?",
-    "audio_prompt": "After observing shadows, which prediction has a testable outcome?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-010",
-      "alt_text": "After observing shadows: question and prediction model showing [\"If\",\"time of day\",\"then\",\"shadow length\"]"
-    },
-    "answers": [
-      {
-        "text": "The investigation will be fun",
-        "is_correct": false
-      },
-      {
-        "text": "The best result will happen",
-        "is_correct": false
-      },
-      {
-        "text": "Changing time of day will change the measured shadow length",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Why is mud messy?",
+      "Are gardens fun?",
+      "Does soil moisture affect where snails are found?",
+      "Which snail is cutest?"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A prediction states an expected measurable outcome.",
-      "hint": "Look for what students expect to observe or measure."
-    }
+      "summary": "It tests the observed moisture-location relationship.",
+      "hint": "Turn pattern into question."
+    },
+    "structuredExplanation": {
+      "summary": "It tests the observed moisture-location relationship.",
+      "hint": "Turn pattern into question."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-T-011",
+    "id": "ac9s3i01-t-010",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing shadows, what evidence should support a prediction?",
-    "audio_prompt": "After observing shadows, what evidence should support a prediction?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "A ball bounced higher on tile than carpet in several trials. Which prediction fits?",
+    "audio_prompt": "A ball bounced higher on tile than carpet in several trials. Which prediction fits?",
+    "audioPrompt": "A ball bounced higher on tile than carpet in several trials. Which prediction fits?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-011",
-      "alt_text": "After observing shadows: question and prediction model showing [\"shadows changed length during the day\",\"prediction\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Relevant observations or previous data",
+        "text": "The next bounce must be identical.",
+        "is_correct": false
+      },
+      {
+        "text": "It may bounce higher on tile again.",
         "is_correct": true
       },
       {
-        "text": "A favourite answer",
+        "text": "Tile always makes every object bounce highest.",
         "is_correct": false
       },
       {
-        "text": "The colour of the equipment",
+        "text": "Carpet stops all motion.",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "The next bounce must be identical.",
+      "It may bounce higher on tile again.",
+      "Tile always makes every object bounce highest.",
+      "Carpet stops all motion."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The prediction uses the pattern cautiously.",
+      "hint": "Use may."
+    },
+    "structuredExplanation": {
+      "summary": "The prediction uses the pattern cautiously.",
+      "hint": "Use may."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-t-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "test",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Four rocks are being compared. Which question asks for an opinion rather than measurable evidence?",
+    "audio_prompt": "Four rocks are being compared. Which question asks for an opinion rather than measurable evidence?",
+    "audioPrompt": "Four rocks are being compared. Which question asks for an opinion rather than measurable evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Which rock is nicest?",
+        "is_correct": true
+      },
+      {
+        "text": "Which rock has greatest mass?",
+        "is_correct": false
+      },
+      {
+        "text": "Which is longest?",
+        "is_correct": false
+      },
+      {
+        "text": "Which absorbs most water?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Which rock is nicest?",
+      "Which rock has greatest mass?",
+      "Which is longest?",
+      "Which absorbs most water?"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Evidence-based predictions grow from relevant observations or patterns.",
-      "hint": "Use what was noticed, not a preference."
-    }
+      "summary": "“Nicest” is personal preference.",
+      "hint": "Can it be measured objectively?"
+    },
+    "structuredExplanation": {
+      "summary": "“Nicest” is personal preference.",
+      "hint": "Can it be measured objectively?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-T-012",
+    "id": "ac9s3i01-t-012",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing shadows, which part of the question is the factor students change?",
-    "audio_prompt": "After observing shadows, which part of the question is the factor students change?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "A prediction is not supported. What should happen?",
+    "audio_prompt": "A prediction is not supported. What should happen?",
+    "audioPrompt": "A prediction is not supported. What should happen?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-012",
-      "alt_text": "After observing shadows: question and prediction model showing [\"changed: time of day\",\"measured: shadow length\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "shadow length",
+        "text": "Erase the result.",
         "is_correct": false
       },
       {
-        "text": "time of day",
+        "text": "Change the prediction after seeing data and pretend it was original.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop doing science.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the evidence and revise the idea if needed.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Erase the result.",
+      "Change the prediction after seeing data and pretend it was original.",
+      "Stop doing science.",
+      "Keep the evidence and revise the idea if needed."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Unexpected evidence helps improve thinking.",
+      "hint": "Evidence first."
+    },
+    "structuredExplanation": {
+      "summary": "Unexpected evidence helps improve thinking.",
+      "hint": "Evidence first."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-t-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "test",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Three darker surfaces warmed more than lighter ones. Which new question is useful?",
+    "audio_prompt": "Three darker surfaces warmed more than lighter ones. Which new question is useful?",
+    "audioPrompt": "Three darker surfaces warmed more than lighter ones. Which new question is useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Why is light pretty?",
+        "is_correct": false
+      },
+      {
+        "text": "Who likes black?",
+        "is_correct": false
+      },
+      {
+        "text": "Does surface colour affect temperature increase in sunlight?",
         "is_correct": true
       },
       {
-        "text": "the final opinion",
+        "text": "Which colour is most fashionable?",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The changed factor is deliberately varied to explore a relationship.",
-      "hint": "Look after \"How does\" and before \"affect\"."
-    }
-  },
-  {
-    "id": "AC9S3I01-T-013",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing shadows, which part is the outcome students measure?",
-    "audio_prompt": "After observing shadows, which part is the outcome students measure?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-013",
-      "alt_text": "After observing shadows: question and prediction model showing [\"changed: time of day\",\"measured: shadow length\"]"
-    },
-    "answers": [
-      {
-        "text": "time of day",
-        "is_correct": false
-      },
-      {
-        "text": "the equipment colour",
-        "is_correct": false
-      },
-      {
-        "text": "shadow length",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Why is light pretty?",
+      "Who likes black?",
+      "Does surface colour affect temperature increase in sunlight?",
+      "Which colour is most fashionable?"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The measured outcome provides data to answer the question.",
-      "hint": "Look for the result that can be recorded."
-    }
+      "summary": "It tests the observed colour-temperature relationship.",
+      "hint": "Ask about the pattern."
+    },
+    "structuredExplanation": {
+      "summary": "It tests the observed colour-temperature relationship.",
+      "hint": "Ask about the pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-T-014",
+    "id": "ac9s3i01-t-014",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing shadows, why is \"Which one is best?\" not yet a strong scientific question?",
-    "audio_prompt": "After observing shadows, why is \"Which one is best?\" not yet a strong scientific question?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which statement is most cautious?",
+    "audio_prompt": "Which statement is most cautious?",
+    "audioPrompt": "Which statement is most cautious?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-014",
-      "alt_text": "After observing shadows: question and prediction model showing [\"opinion: best\",\"measure: shadow length\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It does not define an observable or measurable outcome",
+        "text": "The result can never change.",
+        "is_correct": false
+      },
+      {
+        "text": "Our results suggest the rough surface may slow the car.",
         "is_correct": true
       },
       {
-        "text": "It has too many units",
+        "text": "The rough surface always stops every car.",
         "is_correct": false
       },
       {
-        "text": "It already contains data",
+        "text": "Roughness is the only factor that matters.",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "The result can never change.",
+      "Our results suggest the rough surface may slow the car.",
+      "The rough surface always stops every car.",
+      "Roughness is the only factor that matters."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "“Suggest” and “may” match limited evidence.",
+      "hint": "Match certainty to evidence."
+    },
+    "structuredExplanation": {
+      "summary": "“Suggest” and “may” match limited evidence.",
+      "hint": "Match certainty to evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i01-t-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
+    "bank": "test",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "What makes a relationship question useful?",
+    "audio_prompt": "What makes a relationship question useful?",
+    "audioPrompt": "What makes a relationship question useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It links factors that can be observed or measured.",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees a cause.",
+        "is_correct": false
+      },
+      {
+        "text": "It must have one-word answers.",
+        "is_correct": false
+      },
+      {
+        "text": "It should ask for a favourite.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It links factors that can be observed or measured.",
+      "It guarantees a cause.",
+      "It must have one-word answers.",
+      "It should ask for a favourite."
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Words such as best need a measurable meaning.",
-      "hint": "Replace \"best\" with a named measurement."
-    }
+      "summary": "Measurable relationships can be investigated scientifically.",
+      "hint": "Observable factors."
+    },
+    "structuredExplanation": {
+      "summary": "Measurable relationships can be investigated scientifically.",
+      "hint": "Observable factors."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I01-T-015",
+    "id": "ac9s3i01-t-016",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I01",
+    "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing shadows, what should students do if their results do not match the prediction?",
-    "audio_prompt": "After observing shadows, what should students do if their results do not match the prediction?",
+    "skill": "questions about patterns and evidence-based predictions",
+    "question": "Which sequence is best?",
+    "audio_prompt": "Which sequence is best?",
+    "audioPrompt": "Which sequence is best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-015",
-      "alt_text": "After observing shadows: question and prediction model showing [\"prediction\",\"collect data\",\"compare\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Change the data to match",
+        "text": "Predict → change data → conclude",
         "is_correct": false
       },
       {
-        "text": "Record the results honestly and use them to explain what happened",
-        "is_correct": true
-      },
-      {
-        "text": "Say the investigation failed without checking",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A prediction is tested, not guaranteed. Results remain evidence even when unexpected.",
-      "hint": "Keep observations separate from what was expected."
-    }
-  },
-  {
-    "id": "AC9S3I01-T-016",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I01",
-    "bank": "test",
-    "skill": "Scientific Questions and Predictions",
-    "question": "After observing shadows, which prediction frame includes a reason?",
-    "audio_prompt": "After observing shadows, which prediction frame includes a reason?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i01.svg#ac9s3i01-t-016",
-      "alt_text": "After observing shadows: question and prediction model showing [\"if\",\"time of day\",\"then\",\"shadow length\",\"because\",\"shadows changed length during the day\"]"
-    },
-    "answers": [
-      {
-        "text": "The result will happen because I said so",
+        "text": "Vote → guess → stop",
         "is_correct": false
       },
       {
-        "text": "I predict something interesting",
+        "text": "Choose answer → ignore results",
         "is_correct": false
       },
       {
-        "text": "If time of day changes, then shadow length may change because the observation showed a pattern",
+        "text": "Observe → question → predict → test → compare evidence",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Predict → change data → conclude",
+      "Vote → guess → stop",
+      "Choose answer → ignore results",
+      "Observe → question → predict → test → compare evidence"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A useful prediction states an outcome and connects it to evidence or science.",
-      "hint": "Look for if, then and because."
-    }
+      "summary": "Inquiry builds from observations to evidence.",
+      "hint": "Follow the scientific process."
+    },
+    "structuredExplanation": {
+      "summary": "Inquiry builds from observations to evidence.",
+      "hint": "Follow the scientific process."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]

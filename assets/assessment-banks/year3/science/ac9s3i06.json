@@ -1,1418 +1,3402 @@
 [
   {
-    "id": "AC9S3I06-P-001",
+    "id": "ac9s3i06-p-001",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "While making a class poster, which opening best suits a poster about plant growth for classmates?",
-    "audio_prompt": "While making a class poster, which opening best suits a poster about plant growth for classmates?",
+    "skill": "communicating scientific findings",
+    "question": "Which sentence communicates a scientific finding clearly?",
+    "audio_prompt": "Which sentence communicates a scientific finding clearly?",
+    "audioPrompt": "Which sentence communicates a scientific finding clearly?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-001",
-      "alt_text": "While making a class poster: science communication layout showing [\"poster\",\"question\",\"purpose\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "An unrelated joke with no science",
-        "is_correct": false
-      },
-      {
-        "text": "A clear question and purpose",
+        "text": "The shaded soil was 7°C cooler than the sunny soil at 2 pm",
         "is_correct": true
       },
       {
-        "text": "A result with no context",
+        "text": "Shade was better",
+        "is_correct": false
+      },
+      {
+        "text": "The soil did stuff",
+        "is_correct": false
+      },
+      {
+        "text": "I liked the shaded tray",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The shaded soil was 7°C cooler than the sunny soil at 2 pm",
+      "Shade was better",
+      "The soil did stuff",
+      "I liked the shaded tray"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A clear purpose helps the audience understand why the science was communicated.",
-      "hint": "Tell the audience what was investigated."
+      "summary": "A clear finding states the measured result.",
+      "hint": "Use evidence, not preference."
     },
+    "structuredExplanation": {
+      "summary": "A clear finding states the measured result.",
+      "hint": "Use evidence, not preference."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-002",
+    "id": "ac9s3i06-p-002",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "While making a class poster, which sentence communicates a measured finding precisely?",
-    "audio_prompt": "While making a class poster, which sentence communicates a measured finding precisely?",
+    "skill": "communicating scientific findings",
+    "question": "Which word is scientific vocabulary for how hot or cold something is?",
+    "audio_prompt": "Which word is scientific vocabulary for how hot or cold something is?",
+    "audioPrompt": "Which word is scientific vocabulary for how hot or cold something is?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-002",
-      "alt_text": "While making a class poster: science communication layout showing [\"finding\",\"value\",\"unit\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It did some stuff",
+        "text": "niceness",
         "is_correct": false
       },
       {
-        "text": "The result was nice",
+        "text": "colourfulness",
         "is_correct": false
       },
       {
-        "text": "The labelled result states the value and unit",
+        "text": "speediness",
+        "is_correct": false
+      },
+      {
+        "text": "temperature",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "niceness",
+      "colourfulness",
+      "speediness",
+      "temperature"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Precise findings name what changed and include measurements and units where relevant.",
-      "hint": "Replace vague words with the recorded observation."
+      "summary": "Temperature is the scientific term for measured hotness or coldness.",
+      "hint": "Use precise vocabulary."
     },
+    "structuredExplanation": {
+      "summary": "Temperature is the scientific term for measured hotness or coldness.",
+      "hint": "Use precise vocabulary."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-003",
+    "id": "ac9s3i06-p-003",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "While making a class poster, which feature best helps classmates understand the data?",
-    "audio_prompt": "While making a class poster, which feature best helps classmates understand the data?",
+    "skill": "communicating scientific findings",
+    "question": "Which audience would most need a simple labelled diagram?",
+    "audio_prompt": "Which audience would most need a simple labelled diagram?",
+    "audioPrompt": "Which audience would most need a simple labelled diagram?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-003",
-      "alt_text": "While making a class poster: science communication layout showing [\"title\",\"labelled graph\",\"units\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A labelled graph or table with units",
+        "text": "A calculator",
+        "is_correct": false
+      },
+      {
+        "text": "A results table",
+        "is_correct": false
+      },
+      {
+        "text": "Younger students learning the parts of a flower",
         "is_correct": true
       },
       {
-        "text": "An unrelated decoration",
-        "is_correct": false
-      },
-      {
-        "text": "An unlabelled shape",
+        "text": "A thermometer",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A calculator",
+      "A results table",
+      "Younger students learning the parts of a flower",
+      "A thermometer"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Labels and units allow the audience to interpret evidence.",
-      "hint": "Choose a visual that carries information, not decoration alone."
+      "summary": "A labelled visual can help a younger audience understand structure.",
+      "hint": "Match the communication form to the audience."
     },
+    "structuredExplanation": {
+      "summary": "A labelled visual can help a younger audience understand structure.",
+      "hint": "Match the communication form to the audience."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-004",
+    "id": "ac9s3i06-p-004",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "While making a class poster, what scientific vocabulary should the communicator use?",
-    "audio_prompt": "While making a class poster, what scientific vocabulary should the communicator use?",
+    "skill": "communicating scientific findings",
+    "question": "Which title best suits a report about soil drainage?",
+    "audio_prompt": "Which title best suits a report about soil drainage?",
+    "audioPrompt": "Which title best suits a report about soil drainage?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-004",
-      "alt_text": "While making a class poster: science communication layout showing [\"plant growth\",\"precise term\",\"clear meaning\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Only vague words such as stuff",
+        "text": "The Best Group",
         "is_correct": false
       },
       {
-        "text": "Precise terms related to plant growth",
+        "text": "How Different Soils Drained Water",
         "is_correct": true
       },
       {
-        "text": "Difficult terms unrelated to the investigation",
+        "text": "Our Fun Science Day",
+        "is_correct": false
+      },
+      {
+        "text": "Stuff We Did",
         "is_correct": false
       }
     ],
+    "answer_texts": [
+      "The Best Group",
+      "How Different Soils Drained Water",
+      "Our Fun Science Day",
+      "Stuff We Did"
+    ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scientific vocabulary makes ideas accurate, but should still suit the audience.",
-      "hint": "Choose terms that name the process, material or measurement."
+      "summary": "A scientific title should identify the investigation topic clearly.",
+      "hint": "Name the science idea."
     },
+    "structuredExplanation": {
+      "summary": "A scientific title should identify the investigation topic clearly.",
+      "hint": "Name the science idea."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-005",
+    "id": "ac9s3i06-p-005",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "While making a class poster, how should the poster be adapted for classmates?",
-    "audio_prompt": "While making a class poster, how should the poster be adapted for classmates?",
+    "skill": "communicating scientific findings",
+    "question": "Which item belongs in a results section?",
+    "audio_prompt": "Which item belongs in a results section?",
+    "audioPrompt": "Which item belongs in a results section?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-005",
-      "alt_text": "While making a class poster: science communication layout showing [\"classmates\",\"language\",\"detail\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Use the same unexplained wording for everyone",
-        "is_correct": false
-      },
-      {
-        "text": "Remove the scientific finding",
-        "is_correct": false
-      },
-      {
-        "text": "Choose language and detail that this audience can understand",
+        "text": "The measured values from each trial",
         "is_correct": true
+      },
+      {
+        "text": "A personal thank-you note",
+        "is_correct": false
+      },
+      {
+        "text": "A joke about soil",
+        "is_correct": false
+      },
+      {
+        "text": "A list of favourite colours",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "The measured values from each trial",
+      "A personal thank-you note",
+      "A joke about soil",
+      "A list of favourite colours"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Communication choices depend on audience and purpose while keeping the science accurate.",
-      "hint": "Keep the evidence, then adjust explanation and layout."
+      "summary": "Results present the evidence collected.",
+      "hint": "What data were recorded?"
     },
+    "structuredExplanation": {
+      "summary": "Results present the evidence collected.",
+      "hint": "What data were recorded?"
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-006",
+    "id": "ac9s3i06-p-006",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "While making a class poster, which section should explain how the investigation was carried out?",
-    "audio_prompt": "While making a class poster, which section should explain how the investigation was carried out?",
+    "skill": "communicating scientific findings",
+    "question": "Which visual would best support a talk comparing bird counts?",
+    "audio_prompt": "Which visual would best support a talk comparing bird counts?",
+    "audioPrompt": "Which visual would best support a talk comparing bird counts?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-006",
-      "alt_text": "While making a class poster: science communication layout showing [\"question\",\"method\",\"results\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The method",
+        "text": "An unrelated cartoon",
+        "is_correct": false
+      },
+      {
+        "text": "A blank slide",
+        "is_correct": false
+      },
+      {
+        "text": "A long paragraph in tiny text",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled column graph",
         "is_correct": true
-      },
-      {
-        "text": "The title",
-        "is_correct": false
-      },
-      {
-        "text": "The decoration",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A method gives ordered steps so others understand what was done.",
-      "hint": "Look for the section describing equipment and procedure."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I06-P-007",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "While making a class poster, which conclusion best communicates the science?",
-    "audio_prompt": "While making a class poster, which conclusion best communicates the science?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-007",
-      "alt_text": "While making a class poster: science communication layout showing [\"question\",\"results\",\"conclusion\"]"
-    },
-    "answers": [
-      {
-        "text": "A new claim unrelated to the data",
-        "is_correct": false
-      },
-      {
-        "text": "A sentence that answers the question using the results",
-        "is_correct": true
-      },
-      {
-        "text": "A list of equipment only",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "An unrelated cartoon",
+      "A blank slide",
+      "A long paragraph in tiny text",
+      "A labelled column graph"
     ],
-    "correct_index": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The conclusion connects the finding to the original question.",
-      "hint": "Use the evidence already shown."
+      "summary": "A graph makes category counts easy to compare.",
+      "hint": "Use the mode that shows the data."
     },
+    "structuredExplanation": {
+      "summary": "A graph makes category counts easy to compare.",
+      "hint": "Use the mode that shows the data."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-008",
+    "id": "ac9s3i06-p-007",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "While making a class poster, before sharing the poster, what final check is most useful?",
-    "audio_prompt": "While making a class poster, before sharing the poster, what final check is most useful?",
+    "skill": "communicating scientific findings",
+    "question": "Which conclusion sentence is strongest?",
+    "audio_prompt": "Which conclusion sentence is strongest?",
+    "audioPrompt": "Which conclusion sentence is strongest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-008",
-      "alt_text": "While making a class poster: science communication layout showing [\"accuracy\",\"labels and units\",\"classmates\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Add more decoration without reading it",
+        "text": "Everyone should love foil",
         "is_correct": false
       },
       {
-        "text": "Remove the data to make it shorter",
+        "text": "The experiment was cool",
         "is_correct": false
       },
       {
-        "text": "Check accuracy, labels, units and whether it suits classmates",
+        "text": "In our test, foil kept the water warmest for 20 minutes",
         "is_correct": true
+      },
+      {
+        "text": "Foil is amazing",
+        "is_correct": false
       }
     ],
+    "answer_texts": [
+      "Everyone should love foil",
+      "The experiment was cool",
+      "In our test, foil kept the water warmest for 20 minutes",
+      "Foil is amazing"
+    ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Review protects scientific accuracy and audience clarity.",
-      "hint": "Check both the science and the communication purpose."
+      "summary": "The first sentence reports the finding precisely.",
+      "hint": "Say what the evidence showed."
     },
+    "structuredExplanation": {
+      "summary": "The first sentence reports the finding precisely.",
+      "hint": "Say what the evidence showed."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-009",
+    "id": "ac9s3i06-p-008",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the science report, which opening best suits a investigation report about heat transfer for a teacher?",
-    "audio_prompt": "During the science report, which opening best suits a investigation report about heat transfer for a teacher?",
+    "skill": "communicating scientific findings",
+    "question": "What should a caption under a scientific image do?",
+    "audio_prompt": "What should a caption under a scientific image do?",
+    "audioPrompt": "What should a caption under a scientific image do?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-009",
-      "alt_text": "During the science report: science communication layout showing [\"investigation report\",\"question\",\"purpose\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A clear question and purpose",
+        "text": "Describe the page colour",
+        "is_correct": false
+      },
+      {
+        "text": "Explain what the image shows and why it matters",
         "is_correct": true
       },
       {
-        "text": "An unrelated joke with no science",
+        "text": "Repeat the title only",
         "is_correct": false
       },
       {
-        "text": "A result with no context",
+        "text": "Add unrelated facts",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Describe the page colour",
+      "Explain what the image shows and why it matters",
+      "Repeat the title only",
+      "Add unrelated facts"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A clear purpose helps the audience understand why the science was communicated.",
-      "hint": "Tell the audience what was investigated."
+      "summary": "A useful caption guides the reader to the scientific meaning of the image.",
+      "hint": "Connect image and idea."
     },
+    "structuredExplanation": {
+      "summary": "A useful caption guides the reader to the scientific meaning of the image.",
+      "hint": "Connect image and idea."
+    },
+    "stage": "recognise",
     "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-010",
+    "id": "ac9s3i06-p-009",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the science report, which sentence communicates a measured finding precisely?",
-    "audio_prompt": "During the science report, which sentence communicates a measured finding precisely?",
+    "skill": "communicating scientific findings",
+    "question": "Which is a digital tool for communicating findings?",
+    "audio_prompt": "Which is a digital tool for communicating findings?",
+    "audioPrompt": "Which is a digital tool for communicating findings?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-010",
-      "alt_text": "During the science report: science communication layout showing [\"finding\",\"value\",\"unit\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It did some stuff",
-        "is_correct": false
-      },
-      {
-        "text": "The labelled result states the value and unit",
+        "text": "A slideshow with graphs and labels",
         "is_correct": true
       },
       {
-        "text": "The result was nice",
+        "text": "A spoon",
+        "is_correct": false
+      },
+      {
+        "text": "A ruler alone",
+        "is_correct": false
+      },
+      {
+        "text": "A plastic cup",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Precise findings name what changed and include measurements and units where relevant.",
-      "hint": "Replace vague words with the recorded observation."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I06-P-011",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the science report, which feature best helps a teacher understand the data?",
-    "audio_prompt": "During the science report, which feature best helps a teacher understand the data?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-011",
-      "alt_text": "During the science report: science communication layout showing [\"title\",\"labelled graph\",\"units\"]"
-    },
-    "answers": [
-      {
-        "text": "An unrelated decoration",
-        "is_correct": false
-      },
-      {
-        "text": "An unlabelled shape",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled graph or table with units",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Labels and units allow the audience to interpret evidence.",
-      "hint": "Choose a visual that carries information, not decoration alone."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I06-P-012",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the science report, what scientific vocabulary should the communicator use?",
-    "audio_prompt": "During the science report, what scientific vocabulary should the communicator use?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-012",
-      "alt_text": "During the science report: science communication layout showing [\"heat transfer\",\"precise term\",\"clear meaning\"]"
-    },
-    "answers": [
-      {
-        "text": "Precise terms related to heat transfer",
-        "is_correct": true
-      },
-      {
-        "text": "Only vague words such as stuff",
-        "is_correct": false
-      },
-      {
-        "text": "Difficult terms unrelated to the investigation",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "A slideshow with graphs and labels",
+      "A spoon",
+      "A ruler alone",
+      "A plastic cup"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Scientific vocabulary makes ideas accurate, but should still suit the audience.",
-      "hint": "Choose terms that name the process, material or measurement."
+      "summary": "A slideshow can combine text, images and data for an audience.",
+      "hint": "Think communication technology."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A slideshow can combine text, images and data for an audience.",
+      "hint": "Think communication technology."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-013",
+    "id": "ac9s3i06-p-010",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the science report, how should the investigation report be adapted for a teacher?",
-    "audio_prompt": "During the science report, how should the investigation report be adapted for a teacher?",
+    "skill": "communicating scientific findings",
+    "question": "Which statement is appropriate for a scientific report?",
+    "audio_prompt": "Which statement is appropriate for a scientific report?",
+    "audioPrompt": "Which statement is appropriate for a scientific report?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-013",
-      "alt_text": "During the science report: science communication layout showing [\"a teacher\",\"language\",\"detail\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Use the same unexplained wording for everyone",
+        "text": "The plant was awesome",
         "is_correct": false
       },
       {
-        "text": "Choose language and detail that this audience can understand",
+        "text": "The plant tried really hard",
+        "is_correct": false
+      },
+      {
+        "text": "Our group deserved to win",
+        "is_correct": false
+      },
+      {
+        "text": "The plant grew 5 cm over seven days",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The plant was awesome",
+      "The plant tried really hard",
+      "Our group deserved to win",
+      "The plant grew 5 cm over seven days"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Scientific reporting focuses on evidence rather than human-like or competitive judgement.",
+      "hint": "Use observable evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific reporting focuses on evidence rather than human-like or competitive judgement.",
+      "hint": "Use observable evidence."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Why should a graph in a report have labels and units?",
+    "audio_prompt": "Why should a graph in a report have labels and units?",
+    "audioPrompt": "Why should a graph in a report have labels and units?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Units are only decoration",
+        "is_correct": false
+      },
+      {
+        "text": "Graphs without labels are more scientific",
+        "is_correct": false
+      },
+      {
+        "text": "Readers need them to interpret the data correctly",
         "is_correct": true
       },
       {
-        "text": "Remove the scientific finding",
+        "text": "Labels make results more true",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Communication choices depend on audience and purpose while keeping the science accurate.",
-      "hint": "Keep the evidence, then adjust explanation and layout."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I06-P-014",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the science report, which section should explain how the investigation was carried out?",
-    "audio_prompt": "During the science report, which section should explain how the investigation was carried out?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-014",
-      "alt_text": "During the science report: science communication layout showing [\"question\",\"method\",\"results\",\"conclusion\"]"
-    },
-    "answers": [
-      {
-        "text": "The title",
-        "is_correct": false
-      },
-      {
-        "text": "The decoration",
-        "is_correct": false
-      },
-      {
-        "text": "The method",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "Units are only decoration",
+      "Graphs without labels are more scientific",
+      "Readers need them to interpret the data correctly",
+      "Labels make results more true"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A method gives ordered steps so others understand what was done.",
-      "hint": "Look for the section describing equipment and procedure."
+      "summary": "Labels and units explain what the values represent.",
+      "hint": "Help the reader understand the evidence."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Labels and units explain what the values represent.",
+      "hint": "Help the reader understand the evidence."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-015",
+    "id": "ac9s3i06-p-012",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the science report, which conclusion best communicates the science?",
-    "audio_prompt": "During the science report, which conclusion best communicates the science?",
+    "skill": "communicating scientific findings",
+    "question": "Why might the same finding be explained differently to a scientist and a Year 1 class?",
+    "audio_prompt": "Why might the same finding be explained differently to a scientist and a Year 1 class?",
+    "audioPrompt": "Why might the same finding be explained differently to a scientist and a Year 1 class?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-015",
-      "alt_text": "During the science report: science communication layout showing [\"question\",\"results\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A sentence that answers the question using the results",
-        "is_correct": true
-      },
-      {
-        "text": "A new claim unrelated to the data",
+        "text": "Young students cannot learn science",
         "is_correct": false
       },
       {
-        "text": "A list of equipment only",
+        "text": "Different audiences may need different vocabulary and detail",
+        "is_correct": true
+      },
+      {
+        "text": "The finding changes depending on audience",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists do not use evidence",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The conclusion connects the finding to the original question.",
-      "hint": "Use the evidence already shown."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I06-P-016",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the science report, before sharing the investigation report, what final check is most useful?",
-    "audio_prompt": "During the science report, before sharing the investigation report, what final check is most useful?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-016",
-      "alt_text": "During the science report: science communication layout showing [\"accuracy\",\"labels and units\",\"a teacher\"]"
-    },
-    "answers": [
-      {
-        "text": "Add more decoration without reading it",
-        "is_correct": false
-      },
-      {
-        "text": "Check accuracy, labels, units and whether it suits a teacher",
-        "is_correct": true
-      },
-      {
-        "text": "Remove the data to make it shorter",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Young students cannot learn science",
+      "Different audiences may need different vocabulary and detail",
+      "The finding changes depending on audience",
+      "Scientists do not use evidence"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Review protects scientific accuracy and audience clarity.",
-      "hint": "Check both the science and the communication purpose."
+      "summary": "Communication should suit the audience while preserving the same scientific meaning.",
+      "hint": "Adjust language, not the evidence."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Communication should suit the audience while preserving the same scientific meaning.",
+      "hint": "Adjust language, not the evidence."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-017",
+    "id": "ac9s3i06-p-013",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "At the younger-class display, which opening best suits a labelled display about living things for younger students?",
-    "audio_prompt": "At the younger-class display, which opening best suits a labelled display about living things for younger students?",
+    "skill": "communicating scientific findings",
+    "question": "Why should a conclusion refer back to evidence?",
+    "audio_prompt": "Why should a conclusion refer back to evidence?",
+    "audioPrompt": "Why should a conclusion refer back to evidence?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-017",
-      "alt_text": "At the younger-class display: science communication layout showing [\"labelled display\",\"question\",\"purpose\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "An unrelated joke with no science",
+        "text": "It shows how the claim is supported by the results",
+        "is_correct": true
+      },
+      {
+        "text": "Conclusions should be guesses",
         "is_correct": false
       },
       {
-        "text": "A result with no context",
+        "text": "Evidence belongs only in tables",
         "is_correct": false
       },
       {
-        "text": "A clear question and purpose",
+        "text": "A conclusion makes evidence unnecessary",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It shows how the claim is supported by the results",
+      "Conclusions should be guesses",
+      "Evidence belongs only in tables",
+      "A conclusion makes evidence unnecessary"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Linking claim and evidence makes the reasoning clear.",
+      "hint": "Finding + supporting result."
+    },
+    "structuredExplanation": {
+      "summary": "Linking claim and evidence makes the reasoning clear.",
+      "hint": "Finding + supporting result."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-014",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Why is “the water got colder” weaker than “the temperature fell from 50°C to 38°C”?",
+    "audio_prompt": "Why is “the water got colder” weaker than “the temperature fell from 50°C to 38°C”?",
+    "audioPrompt": "Why is “the water got colder” weaker than “the temperature fell from 50°C to 38°C”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The first statement is always wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Numbers make every claim true",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature cannot be described with words",
+        "is_correct": false
+      },
+      {
+        "text": "The second statement is more precise and uses measured evidence",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "The first statement is always wrong",
+      "Numbers make every claim true",
+      "Temperature cannot be described with words",
+      "The second statement is more precise and uses measured evidence"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Precise numerical evidence makes the change easier to understand and compare.",
+      "hint": "Use the measurement."
+    },
+    "structuredExplanation": {
+      "summary": "Precise numerical evidence makes the change easier to understand and compare.",
+      "hint": "Use the measurement."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Why can a diagram be better than a paragraph for showing where plant parts are?",
+    "audio_prompt": "Why can a diagram be better than a paragraph for showing where plant parts are?",
+    "audioPrompt": "Why can a diagram be better than a paragraph for showing where plant parts are?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Pictures always prove claims",
+        "is_correct": false
+      },
+      {
+        "text": "Words cannot name parts",
+        "is_correct": false
+      },
+      {
+        "text": "A diagram shows spatial relationships directly",
+        "is_correct": true
+      },
+      {
+        "text": "Paragraphs are never scientific",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Pictures always prove claims",
+      "Words cannot name parts",
+      "A diagram shows spatial relationships directly",
+      "Paragraphs are never scientific"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A clear purpose helps the audience understand why the science was communicated.",
-      "hint": "Tell the audience what was investigated."
+      "summary": "Visual layout can make location and structure clearer.",
+      "hint": "Show where parts are."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Visual layout can make location and structure clearer.",
+      "hint": "Show where parts are."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-018",
+    "id": "ac9s3i06-p-016",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "At the younger-class display, which sentence communicates a measured finding precisely?",
-    "audio_prompt": "At the younger-class display, which sentence communicates a measured finding precisely?",
+    "skill": "communicating scientific findings",
+    "question": "Why should an oral presentation avoid putting every sentence on the slide?",
+    "audio_prompt": "Why should an oral presentation avoid putting every sentence on the slide?",
+    "audioPrompt": "Why should an oral presentation avoid putting every sentence on the slide?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-018",
-      "alt_text": "At the younger-class display: science communication layout showing [\"finding\",\"value\",\"unit\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The labelled result states the value and unit",
-        "is_correct": true
-      },
-      {
-        "text": "It did some stuff",
+        "text": "More text always reduces accuracy",
         "is_correct": false
       },
       {
-        "text": "The result was nice",
+        "text": "The audience should be able to listen while the slide highlights key evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Slides must contain no words",
+        "is_correct": false
+      },
+      {
+        "text": "Reading is not scientific",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Precise findings name what changed and include measurements and units where relevant.",
-      "hint": "Replace vague words with the recorded observation."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9S3I06-P-019",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "At the younger-class display, which feature best helps younger students understand the data?",
-    "audio_prompt": "At the younger-class display, which feature best helps younger students understand the data?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-019",
-      "alt_text": "At the younger-class display: science communication layout showing [\"title\",\"labelled graph\",\"units\"]"
-    },
-    "answers": [
-      {
-        "text": "An unrelated decoration",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled graph or table with units",
-        "is_correct": true
-      },
-      {
-        "text": "An unlabelled shape",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "More text always reduces accuracy",
+      "The audience should be able to listen while the slide highlights key evidence",
+      "Slides must contain no words",
+      "Reading is not scientific"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Labels and units allow the audience to interpret evidence.",
-      "hint": "Choose a visual that carries information, not decoration alone."
+      "summary": "Slides work best when they support rather than duplicate the spoken explanation.",
+      "hint": "Use visuals for key points."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Slides work best when they support rather than duplicate the spoken explanation.",
+      "hint": "Use visuals for key points."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-020",
+    "id": "ac9s3i06-p-017",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "At the younger-class display, what scientific vocabulary should the communicator use?",
-    "audio_prompt": "At the younger-class display, what scientific vocabulary should the communicator use?",
+    "skill": "communicating scientific findings",
+    "question": "Why use scientific vocabulary such as “evaporation” when it fits?",
+    "audio_prompt": "Why use scientific vocabulary such as “evaporation” when it fits?",
+    "audioPrompt": "Why use scientific vocabulary such as “evaporation” when it fits?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-020",
-      "alt_text": "At the younger-class display: science communication layout showing [\"living things\",\"precise term\",\"clear meaning\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Only vague words such as stuff",
+        "text": "Precise terms communicate the process clearly",
+        "is_correct": true
+      },
+      {
+        "text": "Long words are automatically better",
         "is_correct": false
       },
       {
-        "text": "Difficult terms unrelated to the investigation",
+        "text": "Vocabulary replaces evidence",
         "is_correct": false
       },
       {
-        "text": "Precise terms related to living things",
+        "text": "Scientific terms should confuse readers",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Precise terms communicate the process clearly",
+      "Long words are automatically better",
+      "Vocabulary replaces evidence",
+      "Scientific terms should confuse readers"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Scientific vocabulary names ideas accurately and efficiently.",
+      "hint": "Choose precise terms the audience can understand."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific vocabulary names ideas accurately and efficiently.",
+      "hint": "Choose precise terms the audience can understand."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 17,
+    "sequencePriority": 17,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-018",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Why should a report distinguish results from opinions?",
+    "audio_prompt": "Why should a report distinguish results from opinions?",
+    "audioPrompt": "Why should a report distinguish results from opinions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Opinions are always forbidden everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "Results must be positive",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific reports cannot include explanations",
+        "is_correct": false
+      },
+      {
+        "text": "Readers need to know which statements come from evidence",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "Opinions are always forbidden everywhere",
+      "Results must be positive",
+      "Scientific reports cannot include explanations",
+      "Readers need to know which statements come from evidence"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Separating evidence from personal judgement supports clear communication.",
+      "hint": "What was measured versus what was liked."
+    },
+    "structuredExplanation": {
+      "summary": "Separating evidence from personal judgement supports clear communication.",
+      "hint": "What was measured versus what was liked."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 18,
+    "sequencePriority": 18,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-019",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Why might a digital photo series help communicate plant growth?",
+    "audio_prompt": "Why might a digital photo series help communicate plant growth?",
+    "audioPrompt": "Why might a digital photo series help communicate plant growth?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Images make tables unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "Photos prove why growth happened",
+        "is_correct": false
+      },
+      {
+        "text": "It shows visible changes across time that can support the measurements",
+        "is_correct": true
+      },
+      {
+        "text": "Photos measure height automatically",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Images make tables unnecessary",
+      "Photos prove why growth happened",
+      "It shows visible changes across time that can support the measurements",
+      "Photos measure height automatically"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Scientific vocabulary makes ideas accurate, but should still suit the audience.",
-      "hint": "Choose terms that name the process, material or measurement."
+      "summary": "Images can provide visual evidence alongside numerical data.",
+      "hint": "Use different evidence types together."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Images can provide visual evidence alongside numerical data.",
+      "hint": "Use different evidence types together."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 19,
+    "sequencePriority": 19,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-021",
+    "id": "ac9s3i06-p-020",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "At the younger-class display, how should the labelled display be adapted for younger students?",
-    "audio_prompt": "At the younger-class display, how should the labelled display be adapted for younger students?",
+    "skill": "communicating scientific findings",
+    "question": "Why should a scientific explanation avoid claiming more than the data show?",
+    "audio_prompt": "Why should a scientific explanation avoid claiming more than the data show?",
+    "audioPrompt": "Why should a scientific explanation avoid claiming more than the data show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-021",
-      "alt_text": "At the younger-class display: science communication layout showing [\"younger students\",\"language\",\"detail\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Choose language and detail that this audience can understand",
+        "text": "A report should always use “proves”",
+        "is_correct": false
+      },
+      {
+        "text": "Overclaiming can mislead the audience about the strength of the evidence",
         "is_correct": true
       },
       {
-        "text": "Use the same unexplained wording for everyone",
+        "text": "Strong wording makes weak evidence stronger",
         "is_correct": false
       },
       {
-        "text": "Remove the scientific finding",
+        "text": "Audiences prefer certainty",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "A report should always use “proves”",
+      "Overclaiming can mislead the audience about the strength of the evidence",
+      "Strong wording makes weak evidence stronger",
+      "Audiences prefer certainty"
+    ],
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Communication choices depend on audience and purpose while keeping the science accurate.",
-      "hint": "Keep the evidence, then adjust explanation and layout."
+      "summary": "Communication should reflect the limits of the evidence.",
+      "hint": "Match certainty to data."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "Communication should reflect the limits of the evidence.",
+      "hint": "Match certainty to data."
+    },
+    "stage": "explain",
+    "difficulty": 2,
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
+    "sequence_priority": 20,
+    "sequencePriority": 20,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-022",
+    "id": "ac9s3i06-p-021",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "At the younger-class display, which section should explain how the investigation was carried out?",
-    "audio_prompt": "At the younger-class display, which section should explain how the investigation was carried out?",
+    "skill": "communicating scientific findings",
+    "question": "Which sentence is most suitable for a younger audience?",
+    "audio_prompt": "Which sentence is most suitable for a younger audience?",
+    "audioPrompt": "Which sentence is most suitable for a younger audience?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-022",
-      "alt_text": "At the younger-class display: science communication layout showing [\"question\",\"method\",\"results\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The title",
-        "is_correct": false
-      },
-      {
-        "text": "The method",
+        "text": "The ice melted because heat energy moved into it from warmer surroundings",
         "is_correct": true
       },
       {
-        "text": "The decoration",
+        "text": "Thermal transfer produced a phase transition via enthalpy increase",
+        "is_correct": false
+      },
+      {
+        "text": "Ice did magic",
+        "is_correct": false
+      },
+      {
+        "text": "Heat is complicated",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "answer_texts": [
+      "The ice melted because heat energy moved into it from warmer surroundings",
+      "Thermal transfer produced a phase transition via enthalpy increase",
+      "Ice did magic",
+      "Heat is complicated"
+    ],
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A method gives ordered steps so others understand what was done.",
-      "hint": "Look for the section describing equipment and procedure."
+      "summary": "The first sentence is accurate but accessible.",
+      "hint": "Keep the science correct and understandable."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "The first sentence is accurate but accessible.",
+      "hint": "Keep the science correct and understandable."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 21,
+    "sequencePriority": 21,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-023",
+    "id": "ac9s3i06-p-022",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "At the younger-class display, which conclusion best communicates the science?",
-    "audio_prompt": "At the younger-class display, which conclusion best communicates the science?",
+    "skill": "communicating scientific findings",
+    "question": "Which graph caption is strongest?",
+    "audio_prompt": "Which graph caption is strongest?",
+    "audioPrompt": "Which graph caption is strongest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-023",
-      "alt_text": "At the younger-class display: science communication layout showing [\"question\",\"results\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A new claim unrelated to the data",
+        "text": "Graph picture",
         "is_correct": false
       },
       {
-        "text": "A list of equipment only",
+        "text": "Our nice chart",
         "is_correct": false
       },
       {
-        "text": "A sentence that answers the question using the results",
+        "text": "Plants are cool",
+        "is_correct": false
+      },
+      {
+        "text": "Figure 1. Plant height increased from 9 cm to 15 cm over two weeks",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Graph picture",
+      "Our nice chart",
+      "Plants are cool",
+      "Figure 1. Plant height increased from 9 cm to 15 cm over two weeks"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The conclusion connects the finding to the original question.",
-      "hint": "Use the evidence already shown."
+      "summary": "A strong caption identifies the figure and its relevant pattern.",
+      "hint": "Explain what the reader should notice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "structuredExplanation": {
+      "summary": "A strong caption identifies the figure and its relevant pattern.",
+      "hint": "Explain what the reader should notice."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 22,
+    "sequencePriority": 22,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-P-024",
+    "id": "ac9s3i06-p-023",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "Communicating Scientific Findings",
-    "question": "At the younger-class display, before sharing the labelled display, what final check is most useful?",
-    "audio_prompt": "At the younger-class display, before sharing the labelled display, what final check is most useful?",
+    "skill": "communicating scientific findings",
+    "question": "Which statement belongs in a conclusion rather than a method?",
+    "audio_prompt": "Which statement belongs in a conclusion rather than a method?",
+    "audioPrompt": "Which statement belongs in a conclusion rather than a method?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-p-024",
-      "alt_text": "At the younger-class display: science communication layout showing [\"accuracy\",\"labels and units\",\"younger students\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Check accuracy, labels, units and whether it suits younger students",
+        "text": "Measure every five minutes",
+        "is_correct": false
+      },
+      {
+        "text": "Use two thermometers",
+        "is_correct": false
+      },
+      {
+        "text": "The darker surface warmed more in our test",
         "is_correct": true
       },
       {
-        "text": "Add more decoration without reading it",
-        "is_correct": false
-      },
-      {
-        "text": "Remove the data to make it shorter",
+        "text": "Place each tray in sunlight",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "answer_texts": [
+      "Measure every five minutes",
+      "Use two thermometers",
+      "The darker surface warmed more in our test",
+      "Place each tray in sunlight"
+    ],
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Review protects scientific accuracy and audience clarity.",
-      "hint": "Check both the science and the communication purpose."
+      "summary": "A conclusion states what the evidence showed.",
+      "hint": "Result versus procedure."
+    },
+    "structuredExplanation": {
+      "summary": "A conclusion states what the evidence showed.",
+      "hint": "Result versus procedure."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 23,
+    "sequencePriority": 23,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-024",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Which slide is best designed for presenting three category counts?",
+    "audio_prompt": "Which slide is best designed for presenting three category counts?",
+    "audioPrompt": "Which slide is best designed for presenting three category counts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A decorative animation with no data",
+        "is_correct": false
+      },
+      {
+        "text": "A simple labelled graph with a short spoken explanation",
+        "is_correct": true
+      },
+      {
+        "text": "A full page of tiny numbers",
+        "is_correct": false
+      },
+      {
+        "text": "An unrelated photo",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A decorative animation with no data",
+      "A simple labelled graph with a short spoken explanation",
+      "A full page of tiny numbers",
+      "An unrelated photo"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A clear graph supports the spoken message and reduces overload.",
+      "hint": "Show the evidence simply."
+    },
+    "structuredExplanation": {
+      "summary": "A clear graph supports the spoken message and reduces overload.",
+      "hint": "Show the evidence simply."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 24,
+    "sequencePriority": 24,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-025",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Which wording is too strong?",
+    "audio_prompt": "Which wording is too strong?",
+    "audioPrompt": "Which wording is too strong?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Our test proves this happens every time everywhere",
+        "is_correct": true
+      },
+      {
+        "text": "Our test suggests the pattern under these conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The results support the idea",
+        "is_correct": false
+      },
+      {
+        "text": "We observed the pattern in four trials",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Our test proves this happens every time everywhere",
+      "Our test suggests the pattern under these conditions",
+      "The results support the idea",
+      "We observed the pattern in four trials"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A classroom investigation rarely justifies a universal claim.",
+      "hint": "Watch for “every time everywhere”."
+    },
+    "structuredExplanation": {
+      "summary": "A classroom investigation rarely justifies a universal claim.",
+      "hint": "Watch for “every time everywhere”."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 25,
+    "sequencePriority": 25,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-026",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Which report sentence uses scientific vocabulary correctly?",
+    "audio_prompt": "Which report sentence uses scientific vocabulary correctly?",
+    "audioPrompt": "Which report sentence uses scientific vocabulary correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The water disappeared because it wanted to",
+        "is_correct": false
+      },
+      {
+        "text": "The water vanished magically",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation means freezing",
+        "is_correct": false
+      },
+      {
+        "text": "Water evaporated faster from the wider dish",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The water disappeared because it wanted to",
+      "The water vanished magically",
+      "Evaporation means freezing",
+      "Water evaporated faster from the wider dish"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Evaporation correctly describes liquid water changing into water vapour.",
+      "hint": "Use the right science term."
+    },
+    "structuredExplanation": {
+      "summary": "Evaporation correctly describes liquid water changing into water vapour.",
+      "hint": "Use the right science term."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 26,
+    "sequencePriority": 26,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-027",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Which visual is least useful for showing temperature change over time?",
+    "audio_prompt": "Which visual is least useful for showing temperature change over time?",
+    "audioPrompt": "Which visual is least useful for showing temperature change over time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A table of time and temperature",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled sequence of readings",
+        "is_correct": false
+      },
+      {
+        "text": "An unrelated animal photo",
+        "is_correct": true
+      },
+      {
+        "text": "A line or column display of time and temperature",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A table of time and temperature",
+      "A labelled sequence of readings",
+      "An unrelated animal photo",
+      "A line or column display of time and temperature"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "An unrelated image does not communicate the temperature evidence.",
+      "hint": "Does it support the finding?"
+    },
+    "structuredExplanation": {
+      "summary": "An unrelated image does not communicate the temperature evidence.",
+      "hint": "Does it support the finding?"
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 27,
+    "sequencePriority": 27,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-028",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Which sentence best links evidence to a finding?",
+    "audio_prompt": "Which sentence best links evidence to a finding?",
+    "audioPrompt": "Which sentence best links evidence to a finding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "I expected shade to work",
+        "is_correct": false
+      },
+      {
+        "text": "Because the shaded tray stayed 5–7°C cooler in every reading, shade reduced warming in our test",
+        "is_correct": true
+      },
+      {
+        "text": "Shade is good",
+        "is_correct": false
+      },
+      {
+        "text": "The graph has four bars",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "I expected shade to work",
+      "Because the shaded tray stayed 5–7°C cooler in every reading, shade reduced warming in our test",
+      "Shade is good",
+      "The graph has four bars"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The sentence connects the repeated measurements directly to the conclusion.",
+      "hint": "Evidence → finding."
+    },
+    "structuredExplanation": {
+      "summary": "The sentence connects the repeated measurements directly to the conclusion.",
+      "hint": "Evidence → finding."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 28,
+    "sequencePriority": 28,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-029",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Which audience adaptation changes style without changing the science?",
+    "audio_prompt": "Which audience adaptation changes style without changing the science?",
+    "audioPrompt": "Which audience adaptation changes style without changing the science?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Replacing technical wording with a simple accurate explanation for younger students",
+        "is_correct": true
+      },
+      {
+        "text": "Changing the result to make it easier",
+        "is_correct": false
+      },
+      {
+        "text": "Removing the evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Adding a claim the data do not support",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Replacing technical wording with a simple accurate explanation for younger students",
+      "Changing the result to make it easier",
+      "Removing the evidence",
+      "Adding a claim the data do not support"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Audience adaptation should preserve scientific accuracy.",
+      "hint": "Simplify language, not truth."
+    },
+    "structuredExplanation": {
+      "summary": "Audience adaptation should preserve scientific accuracy.",
+      "hint": "Simplify language, not truth."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 29,
+    "sequencePriority": 29,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-030",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Which report title is most specific?",
+    "audio_prompt": "Which report title is most specific?",
+    "audioPrompt": "Which report title is most specific?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Science Report",
+        "is_correct": false
+      },
+      {
+        "text": "Our Experiment",
+        "is_correct": false
+      },
+      {
+        "text": "Cars",
+        "is_correct": false
+      },
+      {
+        "text": "Effect of Ramp Height on Toy-Car Travel Distance",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Science Report",
+      "Our Experiment",
+      "Cars",
+      "Effect of Ramp Height on Toy-Car Travel Distance"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The title names both the tested factor and measured outcome.",
+      "hint": "Be specific."
+    },
+    "structuredExplanation": {
+      "summary": "The title names both the tested factor and measured outcome.",
+      "hint": "Be specific."
+    },
+    "stage": "discriminate",
+    "difficulty": 2,
+    "difficulty_tier": "discriminate",
+    "difficultyTier": "discriminate",
+    "sequence_priority": 30,
+    "sequencePriority": 30,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-031",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "You need to explain a soil-drainage test to families at a school science night. What is the best format?",
+    "audio_prompt": "You need to explain a soil-drainage test to families at a school science night. What is the best format?",
+    "audioPrompt": "You need to explain a soil-drainage test to families at a school science night. What is the best format?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A technical paper with no visuals",
+        "is_correct": false
+      },
+      {
+        "text": "A poster of unrelated soil colours",
+        "is_correct": false
+      },
+      {
+        "text": "A short explanation with a labelled setup photo and simple results graph",
+        "is_correct": true
+      },
+      {
+        "text": "A page of raw numbers only",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A technical paper with no visuals",
+      "A poster of unrelated soil colours",
+      "A short explanation with a labelled setup photo and simple results graph",
+      "A page of raw numbers only"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "A mixed format can make the method and findings accessible to a general audience.",
+      "hint": "Match purpose and audience."
+    },
+    "structuredExplanation": {
+      "summary": "A mixed format can make the method and findings accessible to a general audience.",
+      "hint": "Match purpose and audience."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 31,
+    "sequencePriority": 31,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-032",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "A class found plastic warmed fastest in sunlight. Which sentence should go on the final slide?",
+    "audio_prompt": "A class found plastic warmed fastest in sunlight. Which sentence should go on the final slide?",
+    "audioPrompt": "A class found plastic warmed fastest in sunlight. Which sentence should go on the final slide?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Our favourite sample was plastic",
+        "is_correct": false
+      },
+      {
+        "text": "In our test, the plastic sample had the greatest temperature increase",
+        "is_correct": true
+      },
+      {
+        "text": "Plastic always gets hottest everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "Plastic is bad",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Our favourite sample was plastic",
+      "In our test, the plastic sample had the greatest temperature increase",
+      "Plastic always gets hottest everywhere",
+      "Plastic is bad"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The first sentence communicates the finding without overclaiming.",
+      "hint": "Stay within the test."
+    },
+    "structuredExplanation": {
+      "summary": "The first sentence communicates the finding without overclaiming.",
+      "hint": "Stay within the test."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 32,
+    "sequencePriority": 32,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-033",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "A graph has no units. How should it be revised?",
+    "audio_prompt": "A graph has no units. How should it be revised?",
+    "audioPrompt": "A graph has no units. How should it be revised?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Add the measurement unit to the relevant axis label",
+        "is_correct": true
+      },
+      {
+        "text": "Make bars brighter",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the title",
+        "is_correct": false
+      },
+      {
+        "text": "Add more decorations",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Add the measurement unit to the relevant axis label",
+      "Make bars brighter",
+      "Remove the title",
+      "Add more decorations"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Units are needed to interpret numerical values.",
+      "hint": "Tell the reader what the numbers mean."
+    },
+    "structuredExplanation": {
+      "summary": "Units are needed to interpret numerical values.",
+      "hint": "Tell the reader what the numbers mean."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 33,
+    "sequencePriority": 33,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-034",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "A student says, “Our water disappeared.” What is the better scientific wording if the water level fell in an open dish?",
+    "audio_prompt": "A student says, “Our water disappeared.” What is the better scientific wording if the water level fell in an open dish?",
+    "audioPrompt": "A student says, “Our water disappeared.” What is the better scientific wording if the water level fell in an open dish?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The water was destroyed",
+        "is_correct": false
+      },
+      {
+        "text": "The water froze",
+        "is_correct": false
+      },
+      {
+        "text": "The dish absorbed all matter",
+        "is_correct": false
+      },
+      {
+        "text": "Some liquid water evaporated into the air",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The water was destroyed",
+      "The water froze",
+      "The dish absorbed all matter",
+      "Some liquid water evaporated into the air"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Evaporation names the observed change more accurately.",
+      "hint": "Use the science term for liquid to gas."
+    },
+    "structuredExplanation": {
+      "summary": "Evaporation names the observed change more accurately.",
+      "hint": "Use the science term for liquid to gas."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 34,
+    "sequencePriority": 34,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-035",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "A report is for Year 3 classmates. Which explanation is best?",
+    "audio_prompt": "A report is for Year 3 classmates. Which explanation is best?",
+    "audioPrompt": "A report is for Year 3 classmates. Which explanation is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Only emojis",
+        "is_correct": false
+      },
+      {
+        "text": "A result with no explanation",
+        "is_correct": false
+      },
+      {
+        "text": "A clear sentence using taught vocabulary plus a simple labelled diagram",
+        "is_correct": true
+      },
+      {
+        "text": "A dense university-level paragraph",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Only emojis",
+      "A result with no explanation",
+      "A clear sentence using taught vocabulary plus a simple labelled diagram",
+      "A dense university-level paragraph"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The communication should be accurate, accessible and supported.",
+      "hint": "Use the audience’s level."
+    },
+    "structuredExplanation": {
+      "summary": "The communication should be accurate, accessible and supported.",
+      "hint": "Use the audience’s level."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 35,
+    "sequencePriority": 35,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-036",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "A class wants to communicate that two groups got similar results. Which visual helps most?",
+    "audio_prompt": "A class wants to communicate that two groups got similar results. Which visual helps most?",
+    "audioPrompt": "A class wants to communicate that two groups got similar results. Which visual helps most?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A drawing of the equipment box",
+        "is_correct": false
+      },
+      {
+        "text": "A side-by-side table or graph of both groups’ values",
+        "is_correct": true
+      },
+      {
+        "text": "A photo of the classroom door",
+        "is_correct": false
+      },
+      {
+        "text": "A list of student names",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A drawing of the equipment box",
+      "A side-by-side table or graph of both groups’ values",
+      "A photo of the classroom door",
+      "A list of student names"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Side-by-side values make agreement and variation easy to compare.",
+      "hint": "Show both data sets."
+    },
+    "structuredExplanation": {
+      "summary": "Side-by-side values make agreement and variation easy to compare.",
+      "hint": "Show both data sets."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 36,
+    "sequencePriority": 36,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-037",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "A student has a photo, table and conclusion. What order is most logical in a short report?",
+    "audio_prompt": "A student has a photo, table and conclusion. What order is most logical in a short report?",
+    "audioPrompt": "A student has a photo, table and conclusion. What order is most logical in a short report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Introduce the investigation, present evidence, then state the conclusion",
+        "is_correct": true
+      },
+      {
+        "text": "Conclusion first, then unrelated photo, then title",
+        "is_correct": false
+      },
+      {
+        "text": "Random order",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence after the final page only",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Introduce the investigation, present evidence, then state the conclusion",
+      "Conclusion first, then unrelated photo, then title",
+      "Random order",
+      "Evidence after the final page only"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A logical sequence helps readers follow question, evidence and finding.",
+      "hint": "Build toward the conclusion."
+    },
+    "structuredExplanation": {
+      "summary": "A logical sequence helps readers follow question, evidence and finding.",
+      "hint": "Build toward the conclusion."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 37,
+    "sequencePriority": 37,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-038",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "You need to present a life-cycle sequence. Which digital choice is strongest?",
+    "audio_prompt": "You need to present a life-cycle sequence. Which digital choice is strongest?",
+    "audioPrompt": "You need to present a life-cycle sequence. Which digital choice is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A graph of unrelated temperatures",
+        "is_correct": false
+      },
+      {
+        "text": "A blank slide",
+        "is_correct": false
+      },
+      {
+        "text": "A list of random animals",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled slide sequence or animation showing each stage in order",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A graph of unrelated temperatures",
+      "A blank slide",
+      "A list of random animals",
+      "A labelled slide sequence or animation showing each stage in order"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A sequence visual suits a process that changes through ordered stages.",
+      "hint": "Match the mode to sequence."
+    },
+    "structuredExplanation": {
+      "summary": "A sequence visual suits a process that changes through ordered stages.",
+      "hint": "Match the mode to sequence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 38,
+    "sequencePriority": 38,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-039",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "A student writes “The experiment proved plants need exactly 25 mL every day.” Their test compared only 10 and 25 mL. How should this be revised?",
+    "audio_prompt": "A student writes “The experiment proved plants need exactly 25 mL every day.” Their test compared only 10 and 25 mL. How should this be revised?",
+    "audioPrompt": "A student writes “The experiment proved plants need exactly 25 mL every day.” Their test compared only 10 and 25 mL. How should this be revised?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The test proves the exact need",
+        "is_correct": false
+      },
+      {
+        "text": "No revision is needed",
+        "is_correct": false
+      },
+      {
+        "text": "In our test, plants given 25 mL grew taller than those given 10 mL",
+        "is_correct": true
+      },
+      {
+        "text": "25 mL is perfect for all plants",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The test proves the exact need",
+      "No revision is needed",
+      "In our test, plants given 25 mL grew taller than those given 10 mL",
+      "25 mL is perfect for all plants"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The revised statement stays within the tested comparison.",
+      "hint": "Do not claim an exact universal need from two conditions."
+    },
+    "structuredExplanation": {
+      "summary": "The revised statement stays within the tested comparison.",
+      "hint": "Do not claim an exact universal need from two conditions."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 39,
+    "sequencePriority": 39,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-040",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "communicating scientific findings",
+    "question": "Which final communication best combines evidence and explanation?",
+    "audio_prompt": "Which final communication best combines evidence and explanation?",
+    "audioPrompt": "Which final communication best combines evidence and explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Raw data with no message",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled graph plus a sentence explaining the pattern it shows",
+        "is_correct": true
+      },
+      {
+        "text": "A graph with no labels",
+        "is_correct": false
+      },
+      {
+        "text": "A conclusion with no data",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Raw data with no message",
+      "A labelled graph plus a sentence explaining the pattern it shows",
+      "A graph with no labels",
+      "A conclusion with no data"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The combination helps the audience see both the evidence and its meaning.",
+      "hint": "Show and explain."
+    },
+    "structuredExplanation": {
+      "summary": "The combination helps the audience see both the evidence and its meaning.",
+      "hint": "Show and explain."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-t-001",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "test",
+    "skill": "communicating scientific findings",
+    "question": "Which sentence best communicates a finding?",
+    "audio_prompt": "Which sentence best communicates a finding?",
+    "audioPrompt": "Which sentence best communicates a finding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Metal is awesome",
+        "is_correct": false
+      },
+      {
+        "text": "We liked the test",
+        "is_correct": false
+      },
+      {
+        "text": "The metal spoon warmed from 20°C to 31°C in five minutes",
+        "is_correct": true
+      },
+      {
+        "text": "The spoon got nice",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Metal is awesome",
+      "We liked the test",
+      "The metal spoon warmed from 20°C to 31°C in five minutes",
+      "The spoon got nice"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The first sentence reports measured evidence.",
+      "hint": "Use the data."
+    },
+    "structuredExplanation": {
+      "summary": "The first sentence reports measured evidence.",
+      "hint": "Use the data."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 1,
+    "sequencePriority": 1,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-T-001",
+    "id": "ac9s3i06-t-002",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "While recording a video, which opening best suits a short video about water use for families?",
-    "audio_prompt": "While recording a video, which opening best suits a short video about water use for families?",
+    "skill": "communicating scientific findings",
+    "question": "Why use scientific vocabulary?",
+    "audio_prompt": "Why use scientific vocabulary?",
+    "audioPrompt": "Why use scientific vocabulary?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-001",
-      "alt_text": "While recording a video: science communication layout showing [\"short video\",\"question\",\"purpose\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "An unrelated joke with no science",
+        "text": "It replaces evidence",
         "is_correct": false
       },
       {
-        "text": "A clear question and purpose",
+        "text": "It names ideas precisely",
         "is_correct": true
       },
       {
-        "text": "A result with no context",
+        "text": "It makes every claim true",
+        "is_correct": false
+      },
+      {
+        "text": "It should confuse readers",
         "is_correct": false
       }
+    ],
+    "answer_texts": [
+      "It replaces evidence",
+      "It names ideas precisely",
+      "It makes every claim true",
+      "It should confuse readers"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A clear purpose helps the audience understand why the science was communicated.",
-      "hint": "Tell the audience what was investigated."
-    }
+      "summary": "Precise terms improve clarity.",
+      "hint": "Accuracy in words."
+    },
+    "structuredExplanation": {
+      "summary": "Precise terms improve clarity.",
+      "hint": "Accuracy in words."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 2,
+    "sequencePriority": 2,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-T-002",
+    "id": "ac9s3i06-t-003",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "While recording a video, which sentence communicates a measured finding precisely?",
-    "audio_prompt": "While recording a video, which sentence communicates a measured finding precisely?",
+    "skill": "communicating scientific findings",
+    "question": "Which visual best compares three masses?",
+    "audio_prompt": "Which visual best compares three masses?",
+    "audioPrompt": "Which visual best compares three masses?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-002",
-      "alt_text": "While recording a video: science communication layout showing [\"finding\",\"value\",\"unit\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "It did some stuff",
-        "is_correct": false
-      },
-      {
-        "text": "The result was nice",
-        "is_correct": false
-      },
-      {
-        "text": "The labelled result states the value and unit",
+        "text": "A labelled column graph",
         "is_correct": true
+      },
+      {
+        "text": "An unrelated photo",
+        "is_correct": false
+      },
+      {
+        "text": "A blank slide",
+        "is_correct": false
+      },
+      {
+        "text": "A poem",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Precise findings name what changed and include measurements and units where relevant.",
-      "hint": "Replace vague words with the recorded observation."
-    }
-  },
-  {
-    "id": "AC9S3I06-T-003",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "While recording a video, which feature best helps families understand the data?",
-    "audio_prompt": "While recording a video, which feature best helps families understand the data?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-003",
-      "alt_text": "While recording a video: science communication layout showing [\"title\",\"labelled graph\",\"units\"]"
-    },
-    "answers": [
-      {
-        "text": "A labelled graph or table with units",
-        "is_correct": true
-      },
-      {
-        "text": "An unrelated decoration",
-        "is_correct": false
-      },
-      {
-        "text": "An unlabelled shape",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "A labelled column graph",
+      "An unrelated photo",
+      "A blank slide",
+      "A poem"
     ],
     "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Labels and units allow the audience to interpret evidence.",
-      "hint": "Choose a visual that carries information, not decoration alone."
-    }
+      "summary": "A column graph makes category values easy to compare.",
+      "hint": "Use the data visually."
+    },
+    "structuredExplanation": {
+      "summary": "A column graph makes category values easy to compare.",
+      "hint": "Use the data visually."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 3,
+    "sequencePriority": 3,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-T-004",
+    "id": "ac9s3i06-t-004",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "While recording a video, what scientific vocabulary should the communicator use?",
-    "audio_prompt": "While recording a video, what scientific vocabulary should the communicator use?",
+    "skill": "communicating scientific findings",
+    "question": "Which title is strongest?",
+    "audio_prompt": "Which title is strongest?",
+    "audioPrompt": "Which title is strongest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-004",
-      "alt_text": "While recording a video: science communication layout showing [\"water use\",\"precise term\",\"clear meaning\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Only vague words such as stuff",
+        "text": "Our Science",
         "is_correct": false
       },
       {
-        "text": "Precise terms related to water use",
-        "is_correct": true
-      },
-      {
-        "text": "Difficult terms unrelated to the investigation",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Scientific vocabulary makes ideas accurate, but should still suit the audience.",
-      "hint": "Choose terms that name the process, material or measurement."
-    }
-  },
-  {
-    "id": "AC9S3I06-T-005",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "While recording a video, how should the short video be adapted for families?",
-    "audio_prompt": "While recording a video, how should the short video be adapted for families?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-005",
-      "alt_text": "While recording a video: science communication layout showing [\"families\",\"language\",\"detail\"]"
-    },
-    "answers": [
-      {
-        "text": "Use the same unexplained wording for everyone",
+        "text": "Results",
         "is_correct": false
       },
       {
-        "text": "Remove the scientific finding",
+        "text": "Fun Day",
         "is_correct": false
       },
       {
-        "text": "Choose language and detail that this audience can understand",
+        "text": "How Water Temperature Affected Dissolving Time",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "answer_texts": [
+      "Our Science",
+      "Results",
+      "Fun Day",
+      "How Water Temperature Affected Dissolving Time"
+    ],
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Communication choices depend on audience and purpose while keeping the science accurate.",
-      "hint": "Keep the evidence, then adjust explanation and layout."
-    }
+      "summary": "The title identifies the relationship investigated.",
+      "hint": "Name factors and outcome."
+    },
+    "structuredExplanation": {
+      "summary": "The title identifies the relationship investigated.",
+      "hint": "Name factors and outcome."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 4,
+    "sequencePriority": 4,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-T-006",
+    "id": "ac9s3i06-t-005",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "While recording a video, which section should explain how the investigation was carried out?",
-    "audio_prompt": "While recording a video, which section should explain how the investigation was carried out?",
+    "skill": "communicating scientific findings",
+    "question": "Why include units on a graph?",
+    "audio_prompt": "Why include units on a graph?",
+    "audioPrompt": "Why include units on a graph?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-006",
-      "alt_text": "While recording a video: science communication layout showing [\"question\",\"method\",\"results\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The method",
-        "is_correct": true
-      },
-      {
-        "text": "The title",
+        "text": "To prove the result",
         "is_correct": false
       },
       {
-        "text": "The decoration",
+        "text": "To add decoration",
+        "is_correct": false
+      },
+      {
+        "text": "So readers know what the numerical scale measures",
+        "is_correct": true
+      },
+      {
+        "text": "To make bars taller",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A method gives ordered steps so others understand what was done.",
-      "hint": "Look for the section describing equipment and procedure."
-    }
-  },
-  {
-    "id": "AC9S3I06-T-007",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "While recording a video, which conclusion best communicates the science?",
-    "audio_prompt": "While recording a video, which conclusion best communicates the science?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-007",
-      "alt_text": "While recording a video: science communication layout showing [\"question\",\"results\",\"conclusion\"]"
-    },
-    "answers": [
-      {
-        "text": "A new claim unrelated to the data",
-        "is_correct": false
-      },
-      {
-        "text": "A sentence that answers the question using the results",
-        "is_correct": true
-      },
-      {
-        "text": "A list of equipment only",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The conclusion connects the finding to the original question.",
-      "hint": "Use the evidence already shown."
-    }
-  },
-  {
-    "id": "AC9S3I06-T-008",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "While recording a video, before sharing the short video, what final check is most useful?",
-    "audio_prompt": "While recording a video, before sharing the short video, what final check is most useful?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-008",
-      "alt_text": "While recording a video: science communication layout showing [\"accuracy\",\"labels and units\",\"families\"]"
-    },
-    "answers": [
-      {
-        "text": "Add more decoration without reading it",
-        "is_correct": false
-      },
-      {
-        "text": "Remove the data to make it shorter",
-        "is_correct": false
-      },
-      {
-        "text": "Check accuracy, labels, units and whether it suits families",
-        "is_correct": true
-      }
+    "answer_texts": [
+      "To prove the result",
+      "To add decoration",
+      "So readers know what the numerical scale measures",
+      "To make bars taller"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Review protects scientific accuracy and audience clarity.",
-      "hint": "Check both the science and the communication purpose."
-    }
+      "summary": "Units give meaning to values.",
+      "hint": "What do the numbers mean?"
+    },
+    "structuredExplanation": {
+      "summary": "Units give meaning to values.",
+      "hint": "What do the numbers mean?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 5,
+    "sequencePriority": 5,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-T-009",
+    "id": "ac9s3i06-t-006",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the family science night, which opening best suits a digital update about soil drainage for the school garden team?",
-    "audio_prompt": "During the family science night, which opening best suits a digital update about soil drainage for the school garden team?",
+    "skill": "communicating scientific findings",
+    "question": "Which conclusion is appropriately cautious?",
+    "audio_prompt": "Which conclusion is appropriately cautious?",
+    "audioPrompt": "Which conclusion is appropriately cautious?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-009",
-      "alt_text": "During the family science night: science communication layout showing [\"digital update\",\"question\",\"purpose\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A clear question and purpose",
-        "is_correct": true
-      },
-      {
-        "text": "An unrelated joke with no science",
+        "text": "Every future result must match",
         "is_correct": false
       },
       {
-        "text": "A result with no context",
+        "text": "Our results support the pattern in the conditions tested",
+        "is_correct": true
+      },
+      {
+        "text": "This proves it always happens",
+        "is_correct": false
+      },
+      {
+        "text": "No other factor can matter",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A clear purpose helps the audience understand why the science was communicated.",
-      "hint": "Tell the audience what was investigated."
-    }
-  },
-  {
-    "id": "AC9S3I06-T-010",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the family science night, which sentence communicates a measured finding precisely?",
-    "audio_prompt": "During the family science night, which sentence communicates a measured finding precisely?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-010",
-      "alt_text": "During the family science night: science communication layout showing [\"finding\",\"value\",\"unit\"]"
-    },
-    "answers": [
-      {
-        "text": "It did some stuff",
-        "is_correct": false
-      },
-      {
-        "text": "The labelled result states the value and unit",
-        "is_correct": true
-      },
-      {
-        "text": "The result was nice",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "Every future result must match",
+      "Our results support the pattern in the conditions tested",
+      "This proves it always happens",
+      "No other factor can matter"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Precise findings name what changed and include measurements and units where relevant.",
-      "hint": "Replace vague words with the recorded observation."
-    }
+      "summary": "The first wording matches the evidence limits.",
+      "hint": "Support, not universal proof."
+    },
+    "structuredExplanation": {
+      "summary": "The first wording matches the evidence limits.",
+      "hint": "Support, not universal proof."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 6,
+    "sequencePriority": 6,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-T-011",
+    "id": "ac9s3i06-t-007",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the family science night, which feature best helps the school garden team understand the data?",
-    "audio_prompt": "During the family science night, which feature best helps the school garden team understand the data?",
+    "skill": "communicating scientific findings",
+    "question": "Which report section should contain the measurements?",
+    "audio_prompt": "Which report section should contain the measurements?",
+    "audioPrompt": "Which report section should contain the measurements?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-011",
-      "alt_text": "During the family science night: science communication layout showing [\"title\",\"labelled graph\",\"units\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "An unrelated decoration",
+        "text": "Results",
+        "is_correct": true
+      },
+      {
+        "text": "Title",
         "is_correct": false
       },
       {
-        "text": "An unlabelled shape",
+        "text": "Acknowledgements only",
         "is_correct": false
       },
       {
-        "text": "A labelled graph or table with units",
+        "text": "Personal opinion",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Results",
+      "Title",
+      "Acknowledgements only",
+      "Personal opinion"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Results present the collected evidence.",
+      "hint": "Where does data go?"
+    },
+    "structuredExplanation": {
+      "summary": "Results present the collected evidence.",
+      "hint": "Where does data go?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 7,
+    "sequencePriority": 7,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-t-008",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "test",
+    "skill": "communicating scientific findings",
+    "question": "A Year 1 audience needs an explanation of evaporation. Which is best?",
+    "audio_prompt": "A Year 1 audience needs an explanation of evaporation. Which is best?",
+    "audioPrompt": "A Year 1 audience needs an explanation of evaporation. Which is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Evaporation is thermodynamic phase transition driven by molecular kinetics",
+        "is_correct": false
+      },
+      {
+        "text": "Water disappears by magic",
+        "is_correct": false
+      },
+      {
+        "text": "No explanation is possible",
+        "is_correct": false
+      },
+      {
+        "text": "Water can change from liquid into water vapour and move into the air",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "Evaporation is thermodynamic phase transition driven by molecular kinetics",
+      "Water disappears by magic",
+      "No explanation is possible",
+      "Water can change from liquid into water vapour and move into the air"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The first sentence is accurate and age-appropriate.",
+      "hint": "Simple but correct."
+    },
+    "structuredExplanation": {
+      "summary": "The first sentence is accurate and age-appropriate.",
+      "hint": "Simple but correct."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 8,
+    "sequencePriority": 8,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-t-009",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "test",
+    "skill": "communicating scientific findings",
+    "question": "Which caption is useful?",
+    "audio_prompt": "Which caption is useful?",
+    "audioPrompt": "Which caption is useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Cool picture",
+        "is_correct": false
+      },
+      {
+        "text": "Our best work",
+        "is_correct": false
+      },
+      {
+        "text": "Figure 2. The taller ramp produced longer car travel distances in all three trials",
+        "is_correct": true
+      },
+      {
+        "text": "Graph",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Cool picture",
+      "Our best work",
+      "Figure 2. The taller ramp produced longer car travel distances in all three trials",
+      "Graph"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Labels and units allow the audience to interpret evidence.",
-      "hint": "Choose a visual that carries information, not decoration alone."
-    }
+      "summary": "A useful caption tells what the reader should notice.",
+      "hint": "Image + meaning."
+    },
+    "structuredExplanation": {
+      "summary": "A useful caption tells what the reader should notice.",
+      "hint": "Image + meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-T-012",
+    "id": "ac9s3i06-t-010",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the family science night, what scientific vocabulary should the communicator use?",
-    "audio_prompt": "During the family science night, what scientific vocabulary should the communicator use?",
+    "skill": "communicating scientific findings",
+    "question": "Which slide design is strongest for an oral presentation?",
+    "audio_prompt": "Which slide design is strongest for an oral presentation?",
+    "audioPrompt": "Which slide design is strongest for an oral presentation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-012",
-      "alt_text": "During the family science night: science communication layout showing [\"soil drainage\",\"precise term\",\"clear meaning\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "Precise terms related to soil drainage",
-        "is_correct": true
-      },
-      {
-        "text": "Only vague words such as stuff",
+        "text": "No evidence",
         "is_correct": false
       },
       {
-        "text": "Difficult terms unrelated to the investigation",
+        "text": "One clear graph with a few key labels while the speaker explains it",
+        "is_correct": true
+      },
+      {
+        "text": "Every sentence of the script in tiny text",
+        "is_correct": false
+      },
+      {
+        "text": "Unrelated animation",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Scientific vocabulary makes ideas accurate, but should still suit the audience.",
-      "hint": "Choose terms that name the process, material or measurement."
-    }
-  },
-  {
-    "id": "AC9S3I06-T-013",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the family science night, how should the digital update be adapted for the school garden team?",
-    "audio_prompt": "During the family science night, how should the digital update be adapted for the school garden team?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-013",
-      "alt_text": "During the family science night: science communication layout showing [\"the school garden team\",\"language\",\"detail\"]"
-    },
-    "answers": [
-      {
-        "text": "Use the same unexplained wording for everyone",
-        "is_correct": false
-      },
-      {
-        "text": "Choose language and detail that this audience can understand",
-        "is_correct": true
-      },
-      {
-        "text": "Remove the scientific finding",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "No evidence",
+      "One clear graph with a few key labels while the speaker explains it",
+      "Every sentence of the script in tiny text",
+      "Unrelated animation"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Communication choices depend on audience and purpose while keeping the science accurate.",
-      "hint": "Keep the evidence, then adjust explanation and layout."
-    }
+      "summary": "Slides should support, not overwhelm, the spoken message.",
+      "hint": "Highlight key evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Slides should support, not overwhelm, the spoken message.",
+      "hint": "Highlight key evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-T-014",
+    "id": "ac9s3i06-t-011",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the family science night, which section should explain how the investigation was carried out?",
-    "audio_prompt": "During the family science night, which section should explain how the investigation was carried out?",
+    "skill": "communicating scientific findings",
+    "question": "Which statement belongs in the method?",
+    "audio_prompt": "Which statement belongs in the method?",
+    "audioPrompt": "Which statement belongs in the method?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-014",
-      "alt_text": "During the family science night: science communication layout showing [\"question\",\"method\",\"results\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "The title",
+        "text": "Measure the water temperature every two minutes",
+        "is_correct": true
+      },
+      {
+        "text": "The water cooled by 12°C",
         "is_correct": false
       },
       {
-        "text": "The decoration",
+        "text": "The results support the prediction",
         "is_correct": false
       },
       {
-        "text": "The method",
+        "text": "The graph shows a decrease",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Measure the water temperature every two minutes",
+      "The water cooled by 12°C",
+      "The results support the prediction",
+      "The graph shows a decrease"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A method explains what was done.",
+      "hint": "Procedure versus finding."
+    },
+    "structuredExplanation": {
+      "summary": "A method explains what was done.",
+      "hint": "Procedure versus finding."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-t-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "test",
+    "skill": "communicating scientific findings",
+    "question": "Which wording is opinion rather than scientific evidence?",
+    "audio_prompt": "Which wording is opinion rather than scientific evidence?",
+    "audioPrompt": "Which wording is opinion rather than scientific evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "This soil drained 45 mL",
+        "is_correct": false
+      },
+      {
+        "text": "This soil had coarse particles",
+        "is_correct": false
+      },
+      {
+        "text": "This soil was dark brown",
+        "is_correct": false
+      },
+      {
+        "text": "This was the best soil",
         "is_correct": true
       }
+    ],
+    "answer_texts": [
+      "This soil drained 45 mL",
+      "This soil had coarse particles",
+      "This soil was dark brown",
+      "This was the best soil"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "“Best” is a judgement unless criteria are defined.",
+      "hint": "Preference versus observation."
+    },
+    "structuredExplanation": {
+      "summary": "“Best” is a judgement unless criteria are defined.",
+      "hint": "Preference versus observation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 12,
+    "sequencePriority": 12,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-t-013",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "test",
+    "skill": "communicating scientific findings",
+    "question": "Why might a photo series be useful?",
+    "audio_prompt": "Why might a photo series be useful?",
+    "audioPrompt": "Why might a photo series be useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It proves cause",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces all data",
+        "is_correct": false
+      },
+      {
+        "text": "It can show visible change over time",
+        "is_correct": true
+      },
+      {
+        "text": "It automatically measures temperature",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It proves cause",
+      "It replaces all data",
+      "It can show visible change over time",
+      "It automatically measures temperature"
     ],
     "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A method gives ordered steps so others understand what was done.",
-      "hint": "Look for the section describing equipment and procedure."
-    }
+      "summary": "Photos provide visual evidence of change.",
+      "hint": "Visual record."
+    },
+    "structuredExplanation": {
+      "summary": "Photos provide visual evidence of change.",
+      "hint": "Visual record."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 13,
+    "sequencePriority": 13,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   },
   {
-    "id": "AC9S3I06-T-015",
+    "id": "ac9s3i06-t-014",
     "subject": "science",
     "year_level": "Year 3",
     "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the family science night, which conclusion best communicates the science?",
-    "audio_prompt": "During the family science night, which conclusion best communicates the science?",
+    "skill": "communicating scientific findings",
+    "question": "A report says “The plant grew 6.” What is missing?",
+    "audio_prompt": "A report says “The plant grew 6.” What is missing?",
+    "audioPrompt": "A report says “The plant grew 6.” What is missing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-015",
-      "alt_text": "During the family science night: science communication layout showing [\"question\",\"results\",\"conclusion\"]"
+      "type": "none",
+      "alt_text": ""
     },
+    "visualHtml": "",
     "answers": [
       {
-        "text": "A sentence that answers the question using the results",
-        "is_correct": true
-      },
-      {
-        "text": "A new claim unrelated to the data",
+        "text": "A student name",
         "is_correct": false
       },
       {
-        "text": "A list of equipment only",
+        "text": "A unit such as cm",
+        "is_correct": true
+      },
+      {
+        "text": "A graph colour",
+        "is_correct": false
+      },
+      {
+        "text": "A prediction",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The conclusion connects the finding to the original question.",
-      "hint": "Use the evidence already shown."
-    }
-  },
-  {
-    "id": "AC9S3I06-T-016",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3I06",
-    "bank": "test",
-    "skill": "Communicating Scientific Findings",
-    "question": "During the family science night, before sharing the digital update, what final check is most useful?",
-    "audio_prompt": "During the family science night, before sharing the digital update, what final check is most useful?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/science/ac9s3i06.svg#ac9s3i06-t-016",
-      "alt_text": "During the family science night: science communication layout showing [\"accuracy\",\"labels and units\",\"the school garden team\"]"
-    },
-    "answers": [
-      {
-        "text": "Add more decoration without reading it",
-        "is_correct": false
-      },
-      {
-        "text": "Check accuracy, labels, units and whether it suits the school garden team",
-        "is_correct": true
-      },
-      {
-        "text": "Remove the data to make it shorter",
-        "is_correct": false
-      }
+    "answer_texts": [
+      "A student name",
+      "A unit such as cm",
+      "A graph colour",
+      "A prediction"
     ],
     "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Review protects scientific accuracy and audience clarity.",
-      "hint": "Check both the science and the communication purpose."
-    }
+      "summary": "The number needs a unit to be meaningful.",
+      "hint": "6 what?"
+    },
+    "structuredExplanation": {
+      "summary": "The number needs a unit to be meaningful.",
+      "hint": "6 what?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 14,
+    "sequencePriority": 14,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-t-015",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "test",
+    "skill": "communicating scientific findings",
+    "question": "Which format best shows a frog life cycle?",
+    "audio_prompt": "Which format best shows a frog life cycle?",
+    "audioPrompt": "Which format best shows a frog life cycle?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "An ordered labelled diagram",
+        "is_correct": true
+      },
+      {
+        "text": "A column graph of masses",
+        "is_correct": false
+      },
+      {
+        "text": "A stopwatch",
+        "is_correct": false
+      },
+      {
+        "text": "A random list",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "An ordered labelled diagram",
+      "A column graph of masses",
+      "A stopwatch",
+      "A random list"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A sequence diagram communicates stages clearly.",
+      "hint": "Think ordered stages."
+    },
+    "structuredExplanation": {
+      "summary": "A sequence diagram communicates stages clearly.",
+      "hint": "Think ordered stages."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 15,
+    "sequencePriority": 15,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-t-016",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "test",
+    "skill": "communicating scientific findings",
+    "question": "What should happen if the evidence is uncertain?",
+    "audio_prompt": "What should happen if the evidence is uncertain?",
+    "audioPrompt": "What should happen if the evidence is uncertain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "State a stronger claim anyway",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "Invent extra data",
+        "is_correct": false
+      },
+      {
+        "text": "Use cautious wording and explain the limits",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "State a stronger claim anyway",
+      "Hide the uncertainty",
+      "Invent extra data",
+      "Use cautious wording and explain the limits"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Scientific communication should reflect the actual strength of the evidence.",
+      "hint": "Match confidence to evidence."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific communication should reflect the actual strength of the evidence.",
+      "hint": "Match confidence to evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 16,
+    "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
   }
 ]
