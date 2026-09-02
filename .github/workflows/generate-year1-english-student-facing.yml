@@ -4,10 +4,11 @@ on:
   pull_request:
     paths:
       - 'assets/year1-english-student-facing.js'
-      - 'assets/year1-english-render.js'
       - 'assets/foundation-topic-language.js'
       - 'worksheets/year1/english/teacher-slides/live.html'
+      - 'scripts/build_year1_english_quality_banks.mjs'
       - 'scripts/rebuild_year1_english_student_facing.mjs'
+      - 'scripts/rebuild_year1_english_static_student_facing.mjs'
       - 'scripts/validate_year1_english_student_facing.mjs'
       - '.github/workflows/generate-year1-english-student-facing.yml'
   workflow_dispatch:
@@ -34,22 +35,28 @@ jobs:
           test -f scripts/build_year1_english_quality_banks.mjs
           test -f scripts/publish_year1_english_quality_banks.mjs
           test -f scripts/rebuild_year1_english_student_facing.mjs
+          test -f scripts/rebuild_year1_english_static_student_facing.mjs
           test -f scripts/validate_year1_english_student_facing.mjs
       - name: Rebuild 40-question practice banks and publish pages
         run: node scripts/rebuild_year1_english_student_facing.mjs
+      - name: Rebuild static Topic Guides and Classroom Views
+        run: node scripts/rebuild_year1_english_static_student_facing.mjs
       - name: Validate Year 1 English student-facing content
         run: node scripts/validate_year1_english_student_facing.mjs
-      - name: Commit generated Year 1 English banks and quiz pages
+      - name: Validate static curriculum architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Commit generated Year 1 English resources
         shell: bash
         run: |
           git add assets/assessment-banks/year1/english \
                   assets/assessment-visuals/year1-english-*.svg \
-                  quiz/year-1/english
+                  quiz/year-1/english \
+                  year1/english
           if git diff --cached --quiet; then
             echo 'Generated Year 1 English output is already current.'
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Generate Year 1 English student-facing practice banks'
+          git commit -m 'Generate Year 1 English student-facing resources'
           git push origin HEAD:${GITHUB_HEAD_REF}
