@@ -7,27 +7,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “factor deliberately changed or compared”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “factor deliberately changed or compared”. Which scientific term belongs on the card?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “factor deliberately changed or compared”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “factor deliberately changed or compared”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-001\"></use></svg>",
+    "question": "In a test of soil drainage, what should be changed deliberately?",
+    "audioPrompt": "In a test of soil drainage, what should be changed deliberately?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-001",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “factor deliberately changed or compared”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "changed variable",
-      "measured variable",
-      "controlled variable"
+      "Timer colour",
+      "Student height",
+      "Soil type",
+      "Amount of water drained"
     ],
-    "correct": 0,
-    "explanation": "changed variable is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "The changed variable is the factor being compared.\nHint: What varies?",
     "structuredExplanation": {
-      "summary": "changed variable is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The changed variable is the factor being compared.",
+      "hint": "What varies?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-002",
@@ -36,27 +39,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “outcome observed or measured”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “outcome observed or measured”. Which scientific term belongs on the card?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “outcome observed or measured”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “outcome observed or measured”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-002\"></use></svg>",
+    "question": "Which is the measured variable for soil drainage?",
+    "audioPrompt": "Which is the measured variable for soil drainage?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-002",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “outcome observed or measured”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "controlled variable",
-      "measured variable",
-      "hazard"
+      "Group name",
+      "Volume or time of water draining",
+      "Soil type",
+      "Cup decoration"
     ],
     "correct": 1,
-    "explanation": "measured variable is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "explanation": "The measured variable is the recorded outcome.\nHint: What do you record?",
     "structuredExplanation": {
-      "summary": "measured variable is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "The measured variable is the recorded outcome.",
+      "hint": "What do you record?"
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-003",
@@ -65,27 +71,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “relevant condition kept the same”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “relevant condition kept the same”. Which scientific term belongs on the card?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “relevant condition kept the same”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “relevant condition kept the same”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-003\"></use></svg>",
+    "question": "Which control makes a soil-drainage test fairer?",
+    "audioPrompt": "Which control makes a soil-drainage test fairer?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-003",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “relevant condition kept the same”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "hazard",
-      "repetition",
-      "controlled variable"
+      "Use the same mass of soil in each container",
+      "Use different water amounts",
+      "Use different container holes",
+      "Stop timing one soil early"
     ],
-    "correct": 2,
-    "explanation": "controlled variable is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 0,
+    "explanation": "Keeping soil amount the same helps compare soil type fairly.\nHint: Same amount.",
     "structuredExplanation": {
-      "summary": "controlled variable is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Keeping soil amount the same helps compare soil type fairly.",
+      "hint": "Same amount."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-004",
@@ -94,27 +103,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “potential source of harm”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “potential source of harm”. Which scientific term belongs on the card?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “potential source of harm”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “potential source of harm”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-004\"></use></svg>",
+    "question": "Which safety control suits scissors used to cut cardboard?",
+    "audioPrompt": "Which safety control suits scissors used to cut cardboard?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-004",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “potential source of harm”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "hazard",
-      "repetition",
-      "changed variable"
+      "Run while holding scissors",
+      "Leave scissors open on chairs",
+      "Cut toward another person",
+      "Cut away from fingers and pass scissors handle-first"
     ],
-    "correct": 0,
-    "explanation": "hazard is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "A specific control reduces the cutting hazard.\nHint: Safe handling.",
     "structuredExplanation": {
-      "summary": "hazard is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "A specific control reduces the cutting hazard.",
+      "hint": "Safe handling."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-005",
@@ -123,27 +135,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “same condition tested more than once”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “same condition tested more than once”. Which scientific term belongs on the card?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “same condition tested more than once”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “same condition tested more than once”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-005\"></use></svg>",
+    "question": "Why repeat a paper-plane distance test?",
+    "audioPrompt": "Why repeat a paper-plane distance test?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-005",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A museum activity card says, “same condition tested more than once”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "changed variable",
-      "repetition",
-      "measured variable"
+      "Repeats remove measuring units",
+      "One throw proves every result",
+      "Throws can vary, so repeats help identify the usual pattern",
+      "Repeats make planes heavier"
     ],
-    "correct": 1,
-    "explanation": "repetition is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "Repeated trials improve reliability in variable tests.\nHint: Variation.",
     "structuredExplanation": {
-      "summary": "repetition is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Repeated trials improve reliability in variable tests.",
+      "hint": "Variation."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-006",
@@ -152,27 +167,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Changing one variable means nothing else matters”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Changing one variable means nothing else matters”. Which feedback would improve it most?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Changing one variable means nothing else matters”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Changing one variable means nothing else matters”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-006\"></use></svg>",
+    "question": "Which method is clearest?",
+    "audioPrompt": "Which method is clearest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-006",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Changing one variable means nothing else matters”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Changing one variable means nothing else matters",
-      "Repeating means copying the same recorded value",
-      "Control every relevant condition that could affect the result."
+      "See what happens somehow",
+      "Release the marble from the 20 cm mark without pushing and measure distance in cm",
+      "Do the marble thing",
+      "Make it roll nicely"
     ],
-    "correct": 2,
-    "explanation": "Control every relevant condition that could affect the result.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 1,
+    "explanation": "A clear step tells exactly what to do and measure.\nHint: Specific action.",
     "structuredExplanation": {
-      "summary": "Control every relevant condition that could affect the result.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "A clear step tells exactly what to do and measure.",
+      "hint": "Specific action."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-007",
@@ -181,27 +199,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Repeating means copying the same recorded value”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Repeating means copying the same recorded value”. Which feedback would improve it most?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Repeating means copying the same recorded value”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Repeating means copying the same recorded value”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-007\"></use></svg>",
+    "question": "A group changes magnet size and distance together. What is the problem?",
+    "audioPrompt": "A group changes magnet size and distance together. What is the problem?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-007",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Repeating means copying the same recorded value”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Conduct the trial again and record the new observation.",
-      "Repeating means copying the same recorded value",
-      "Fair means equal outcomes"
+      "They cannot tell which variable caused the result",
+      "The result becomes automatically reliable",
+      "It is safer because more changed",
+      "Magnets cannot be tested"
     ],
     "correct": 0,
-    "explanation": "Conduct the trial again and record the new observation.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "Changing multiple factors weakens cause-and-effect conclusions.\nHint: One change at a time.",
     "structuredExplanation": {
-      "summary": "Conduct the trial again and record the new observation.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Changing multiple factors weakens cause-and-effect conclusions.",
+      "hint": "One change at a time."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-008",
@@ -210,27 +231,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Fair means equal outcomes”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Fair means equal outcomes”. Which feedback would improve it most?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Fair means equal outcomes”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Fair means equal outcomes”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-008\"></use></svg>",
+    "question": "Which statement about hazards is correct?",
+    "audioPrompt": "Which statement about hazards is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-008",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Fair means equal outcomes”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Fair means equal outcomes",
-      "Fair refers to method, not matching results.",
-      "Safety note says only ‘be careful’"
+      "A hazard is always the final result",
+      "Hazards are the same as predictions",
+      "Hazards make tests fair",
+      "A hazard is something that could cause harm"
     ],
-    "correct": 1,
-    "explanation": "Fair refers to method, not matching results.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 3,
+    "explanation": "Hazards are possible sources of harm or damage.\nHint: Risk source.",
     "structuredExplanation": {
-      "summary": "Fair refers to method, not matching results.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Hazards are possible sources of harm or damage.",
+      "hint": "Risk source."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-009",
@@ -239,27 +263,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Safety note says only ‘be careful’”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Safety note says only ‘be careful’”. Which feedback would improve it most?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Safety note says only ‘be careful’”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Safety note says only ‘be careful’”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-009\"></use></svg>",
+    "question": "Which is a specific control for a trip hazard from bags near benches?",
+    "audioPrompt": "Which is a specific control for a trip hazard from bags near benches?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-009",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A different class records this conclusion: “Safety note says only ‘be careful’”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Safety note says only ‘be careful’",
-      "Changing one variable means nothing else matters",
-      "Name the hazard and a specific control."
+      "Ignore the bags",
+      "Walk faster past the bags",
+      "Move bags under benches before testing starts",
+      "Be careful near bags"
     ],
     "correct": 2,
-    "explanation": "Name the hazard and a specific control.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "Moving bags reduces the chance of tripping.\nHint: Remove the hazard.",
     "structuredExplanation": {
-      "summary": "Name the hazard and a specific control.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Moving bags reduces the chance of tripping.",
+      "hint": "Remove the hazard."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-010",
@@ -268,27 +295,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A new field-note example asks: In a test of paper-towel brands, what should be deliberately changed?",
-    "audioPrompt": "A new field-note example asks: In a test of paper-towel brands, what should be deliberately changed?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: In a test of paper-towel brands, what should be deliberately changed?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: In a test of paper-towel brands, what should be deliberately changed?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-010\"></use></svg>",
+    "question": "A pilot test shows the measuring jug scale is hard to read. What should happen?",
+    "audioPrompt": "A pilot test shows the measuring jug scale is hard to read. What should happen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-010",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new field-note example asks: In a test of paper-towel brands, what should be deliberately changed?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "the brand",
-      "the sheet size and water volume together",
-      "the recording unit each trial"
+      "Copy a neat table",
+      "Choose a clearer tool or revise the recording method",
+      "Guess the volumes",
+      "Stop using units"
     ],
-    "correct": 0,
-    "explanation": "the brand\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 1,
+    "explanation": "Pilot testing helps find and fix measurement problems.\nHint: Improve before full test.",
     "structuredExplanation": {
-      "summary": "the brand",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Pilot testing helps find and fix measurement problems.",
+      "hint": "Improve before full test."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-011",
@@ -297,27 +327,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A new design task asks: Which is a specific safety control for a water spill?",
-    "audioPrompt": "A new design task asks: Which is a specific safety control for a water spill?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which is a specific safety control for a water spill?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which is a specific safety control for a water spill?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-011\"></use></svg>",
+    "question": "Which is not a controlled variable in a fair test of surface type?",
+    "audioPrompt": "Which is not a controlled variable in a fair test of surface type?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-011",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new design task asks: Which is a specific safety control for a water spill?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Be careful",
-      "Wipe it promptly and keep people from running through it",
-      "Ignore it until the end"
+      "Surface type",
+      "Toy car used",
+      "Ramp height",
+      "Release point"
     ],
-    "correct": 1,
-    "explanation": "Wipe it promptly and keep people from running through it\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 0,
+    "explanation": "Surface type is the changed variable, not a control.\nHint: The tested factor changes.",
     "structuredExplanation": {
-      "summary": "Wipe it promptly and keep people from running through it",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Surface type is the changed variable, not a control.",
+      "hint": "The tested factor changes."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-012",
@@ -326,27 +359,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Plan audit”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Plan audit”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Plan audit”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Plan audit”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-012\"></use></svg>",
+    "question": "Which investigation plan is weakest?",
+    "audioPrompt": "Which investigation plan is weakest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-012",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Plan audit”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin plan audit, change two important conditions together, then compare only the preferred observation.",
-      "Carry out plan audit once, omit the measurements and report the original prediction as the result.",
-      "Highlight changed, measured and controlled variables in sample methods and repair missing controls."
+      "Use the same car on different surfaces",
+      "Repeat each surface three times",
+      "Measure distance with the same tape",
+      "Change the car, ramp height and surface all at once"
     ],
-    "correct": 2,
-    "explanation": "Highlight changed, measured and controlled variables in sample methods and repair missing controls.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 3,
+    "explanation": "Changing several factors at once makes results hard to interpret.\nHint: Too many changes.",
     "structuredExplanation": {
-      "summary": "Highlight changed, measured and controlled variables in sample methods and repair missing controls.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Changing several factors at once makes results hard to interpret.",
+      "hint": "Too many changes."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-013",
@@ -355,27 +391,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Risk-control cards”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Risk-control cards”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Risk-control cards”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Risk-control cards”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-013\"></use></svg>",
+    "question": "Why should safety planning happen before testing?",
+    "audioPrompt": "Why should safety planning happen before testing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-013",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Risk-control cards”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Match hazards to proportionate controls and explain why vague instructions such as ‘be careful’ are insufficient.",
-      "Begin risk-control cards, change two important conditions together, then compare only the preferred observation.",
-      "Carry out risk-control cards once, omit the measurements and report the original prediction as the result."
+      "Safety makes measurement impossible",
+      "Planning creates danger",
+      "Controls can be chosen before people are exposed to hazards",
+      "Hazards only appear after conclusions"
     ],
-    "correct": 0,
-    "explanation": "Match hazards to proportionate controls and explain why vague instructions such as ‘be careful’ are insufficient.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 2,
+    "explanation": "Planning ahead reduces risk during the investigation.\nHint: Before action.",
     "structuredExplanation": {
-      "summary": "Match hazards to proportionate controls and explain why vague instructions such as ‘be careful’ are insufficient.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Planning ahead reduces risk during the investigation.",
+      "hint": "Before action."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-014",
@@ -384,27 +423,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Pilot and revise”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Pilot and revise”. Which method keeps the investigation focused and reviewable?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Pilot and revise”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Pilot and revise”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-014\"></use></svg>",
+    "question": "Which statement about fair tests is accurate?",
+    "audioPrompt": "Which statement about fair tests is accurate?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-014",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: A new group wants to adapt “Pilot and revise”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin pilot and revise, change two important conditions together, then compare only the preferred observation.",
-      "Trial the method once, identify ambiguity or measurement difficulty and revise before full data collection.",
-      "Carry out pilot and revise once, omit the measurements and report the original prediction as the result."
+      "Fair tests never control variables",
+      "Fair tests can have different results if the changed variable has an effect",
+      "Fair tests always have equal results",
+      "Different results prove unfairness"
     ],
     "correct": 1,
-    "explanation": "Trial the method once, identify ambiguity or measurement difficulty and revise before full data collection.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "explanation": "A fair method is designed to reveal genuine differences.\nHint: Different outcomes can be valid.",
     "structuredExplanation": {
-      "summary": "Trial the method once, identify ambiguity or measurement difficulty and revise before full data collection.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "A fair method is designed to reveal genuine differences.",
+      "hint": "Different outcomes can be valid."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-015",
@@ -413,27 +455,30 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment, which response would best demonstrate “Use planning scaffolds”?",
-    "audioPrompt": "In a new assessment, which response would best demonstrate “Use planning scaffolds”?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Use planning scaffolds”?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Use planning scaffolds”?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-015\"></use></svg>",
+    "question": "Which record would help another group repeat the investigation?",
+    "audioPrompt": "Which record would help another group repeat the investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-015",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Use planning scaffolds”?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "State a preferred answer without using the observations or measurements.",
-      "Copy the task title but do not interpret, compare or explain any evidence.",
-      "Use a relevant observation or measurement, demonstrate “Use planning scaffolds”, and explain the result."
+      "A numbered procedure with variables, tools, units and safety controls",
+      "Only the final answer",
+      "Only a drawing of the group",
+      "A sentence saying it worked"
     ],
-    "correct": 2,
-    "explanation": "Use a relevant observation or measurement, demonstrate “Use planning scaffolds”, and explain the result.\nHint: Choose the action that demonstrates the named skill with observable evidence.",
+    "correct": 0,
+    "explanation": "Clear procedures make investigations repeatable.\nHint: Enough detail to repeat.",
     "structuredExplanation": {
-      "summary": "Use a relevant observation or measurement, demonstrate “Use planning scaffolds”, and explain the result.",
-      "hint": "Choose the action that demonstrates the named skill with observable evidence."
+      "summary": "Clear procedures make investigations repeatable.",
+      "hint": "Enough detail to repeat."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4i02-t-016",
@@ -442,28 +487,29 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In a new assessment, which response would best demonstrate “Identify fair-test elements”?",
-    "audioPrompt": "In a new assessment, which response would best demonstrate “Identify fair-test elements”?",
-    "visual": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Identify fair-test elements”?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Identify fair-test elements”?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-016\"></use></svg>",
+    "question": "A class uses vinegar and bicarb soda in small cups. Which control is sensible?",
+    "audioPrompt": "A class uses vinegar and bicarb soda in small cups. Which control is sensible?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02.svg#ac9s4i02-t-016",
-      "alt_text": "Planning Fair and Safe Investigations concept map showing a Year 4 observe, compare and explain sequence. Question context: In a new assessment, which response would best demonstrate “Identify fair-test elements”?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Use a relevant observation or measurement, demonstrate “Identify fair-test elements”, and explain the result.",
-      "State a preferred answer without using the observations or measurements.",
-      "Copy the task title but do not interpret, compare or explain any evidence."
+      "Fill cups to the top",
+      "Smell closely during fizzing",
+      "Mix while walking around",
+      "Use small measured amounts and keep faces back from fizzing mixtures"
     ],
-    "correct": 0,
-    "explanation": "Use a relevant observation or measurement, demonstrate “Identify fair-test elements”, and explain the result.\nHint: Choose the action that demonstrates the named skill with observable evidence.",
+    "correct": 3,
+    "explanation": "The control reduces spill and splash risk while keeping measurements consistent.\nHint: Measured amounts and distance.",
     "structuredExplanation": {
-      "summary": "Use a relevant observation or measurement, demonstrate “Identify fair-test elements”, and explain the result.",
-      "hint": "Choose the action that demonstrates the named skill with observable evidence."
+      "summary": "The control reduces spill and splash risk while keeping measurements consistent.",
+      "hint": "Measured amounts and distance."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
