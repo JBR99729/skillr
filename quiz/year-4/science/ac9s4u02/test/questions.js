@@ -7,27 +7,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “liquid water changes to water vapour”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “liquid water changes to water vapour”. Which scientific term belongs on the card?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “liquid water changes to water vapour”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “liquid water changes to water vapour”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-001\"></use></svg>",
+    "question": "A rain gauge fills overnight during a storm. Which water-cycle process put water into the gauge?",
+    "audioPrompt": "A rain gauge fills overnight during a storm. Which water-cycle process put water into the gauge?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-001",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “liquid water changes to water vapour”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "evaporation",
-      "condensation",
-      "precipitation"
+      "Condensation only underground",
+      "Runoff uphill",
+      "Precipitation",
+      "Evaporation"
     ],
-    "correct": 0,
-    "explanation": "evaporation is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "Rain entering the gauge is precipitation from clouds to the surface.\nHint: Water falling from clouds.",
     "structuredExplanation": {
-      "summary": "evaporation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Rain entering the gauge is precipitation from clouds to the surface.",
+      "hint": "Water falling from clouds."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-002",
@@ -36,27 +39,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “water vapour cools and forms liquid droplets”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “water vapour cools and forms liquid droplets”. Which scientific term belongs on the card?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water vapour cools and forms liquid droplets”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water vapour cools and forms liquid droplets”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-002\"></use></svg>",
+    "question": "A bike seat is wet with dew on a cool morning. What process formed the droplets?",
+    "audioPrompt": "A bike seat is wet with dew on a cool morning. What process formed the droplets?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-002",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water vapour cools and forms liquid droplets”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "precipitation",
-      "condensation",
-      "runoff"
+      "Collection in an ocean",
+      "Condensation",
+      "Runoff",
+      "Evaporation"
     ],
     "correct": 1,
-    "explanation": "condensation is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "explanation": "Water vapour cooled on the seat and condensed into droplets.\nHint: Vapour to liquid.",
     "structuredExplanation": {
-      "summary": "condensation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Water vapour cooled on the seat and condensed into droplets.",
+      "hint": "Vapour to liquid."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-003",
@@ -65,27 +71,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “water falls from clouds as rain, snow, sleet or hail”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “water falls from clouds as rain, snow, sleet or hail”. Which scientific term belongs on the card?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water falls from clouds as rain, snow, sleet or hail”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water falls from clouds as rain, snow, sleet or hail”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-003\"></use></svg>",
+    "question": "A birdbath slowly loses water during a warm afternoon. Which process is most likely?",
+    "audioPrompt": "A birdbath slowly loses water during a warm afternoon. Which process is most likely?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-003",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water falls from clouds as rain, snow, sleet or hail”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "runoff",
-      "groundwater",
-      "precipitation"
+      "Evaporation",
+      "Precipitation",
+      "Infiltration through metal",
+      "Condensation into the birdbath"
     ],
-    "correct": 2,
-    "explanation": "precipitation is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 0,
+    "explanation": "Liquid water can evaporate from the birdbath surface.\nHint: Liquid to vapour.",
     "structuredExplanation": {
-      "summary": "precipitation is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Liquid water can evaporate from the birdbath surface.",
+      "hint": "Liquid to vapour."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-004",
@@ -94,27 +103,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “water flows across land”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “water flows across land”. Which scientific term belongs on the card?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water flows across land”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water flows across land”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-004\"></use></svg>",
+    "question": "Which source is water stored under the ground?",
+    "audioPrompt": "Which source is water stored under the ground?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-004",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water flows across land”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "runoff",
-      "groundwater",
-      "evaporation"
+      "Sunlight",
+      "A cloud shadow",
+      "Dry sand only",
+      "Groundwater"
     ],
-    "correct": 0,
-    "explanation": "runoff is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 3,
+    "explanation": "Groundwater is stored beneath Earth’s surface.\nHint: Below ground.",
     "structuredExplanation": {
-      "summary": "runoff is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Groundwater is stored beneath Earth’s surface.",
+      "hint": "Below ground."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-005",
@@ -123,27 +135,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A museum activity card says, “water stored and moving below Earth’s surface”. Which scientific term belongs on the card?",
-    "audioPrompt": "A museum activity card says, “water stored and moving below Earth’s surface”. Which scientific term belongs on the card?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water stored and moving below Earth’s surface”. Which scientific term belongs on the card?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water stored and moving below Earth’s surface”. Which scientific term belongs on the card?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-005\"></use></svg>",
+    "question": "Why does water in a creek usually move toward lower land?",
+    "audioPrompt": "Why does water in a creek usually move toward lower land?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-005",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A museum activity card says, “water stored and moving below Earth’s surface”. Which scientific term belongs on the card?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "evaporation",
-      "groundwater",
-      "condensation"
+      "Condensation makes it magnetic",
+      "Evaporation turns it solid",
+      "Gravity pulls water downhill",
+      "Clouds push it with light"
     ],
-    "correct": 1,
-    "explanation": "groundwater is the precise term for this observation or relationship.\nHint: Match the evidence in the description to the most precise scientific term.",
+    "correct": 2,
+    "explanation": "Gravity drives water movement downhill as runoff or streamflow.\nHint: Downhill force.",
     "structuredExplanation": {
-      "summary": "groundwater is the precise term for this observation or relationship.",
-      "hint": "Match the evidence in the description to the most precise scientific term."
+      "summary": "Gravity drives water movement downhill as runoff or streamflow.",
+      "hint": "Downhill force."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-006",
@@ -152,27 +167,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Clouds are water vapour”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Clouds are water vapour”. Which feedback would improve it most?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Clouds are water vapour”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Clouds are water vapour”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-006\"></use></svg>",
+    "question": "Which statement about clouds is correct?",
+    "audioPrompt": "Which statement about clouds is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-006",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Clouds are water vapour”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Clouds are water vapour",
-      "Evaporation only happens when boiling",
-      "Visible clouds contain tiny liquid droplets or ice crystals; water vapour is invisible."
+      "Clouds are not connected to water",
+      "Visible clouds contain tiny droplets or ice crystals",
+      "Clouds are only invisible vapour",
+      "Clouds are made of dry dust only"
     ],
-    "correct": 2,
-    "explanation": "Visible clouds contain tiny liquid droplets or ice crystals; water vapour is invisible.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 1,
+    "explanation": "Clouds are visible because droplets or ice crystals scatter light.\nHint: Not just vapour.",
     "structuredExplanation": {
-      "summary": "Visible clouds contain tiny liquid droplets or ice crystals; water vapour is invisible.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Clouds are visible because droplets or ice crystals scatter light.",
+      "hint": "Not just vapour."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-007",
@@ -181,27 +199,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Evaporation only happens when boiling”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Evaporation only happens when boiling”. Which feedback would improve it most?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Evaporation only happens when boiling”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Evaporation only happens when boiling”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-007\"></use></svg>",
+    "question": "A sealed cold metal lunchbox has droplets on the outside. Where did the water most likely come from?",
+    "audioPrompt": "A sealed cold metal lunchbox has droplets on the outside. Where did the water most likely come from?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-007",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Evaporation only happens when boiling”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Liquid water evaporates from its surface below boiling point.",
-      "Evaporation only happens when boiling",
-      "Droplets on a cold glass leak through"
+      "Water vapour in the surrounding air",
+      "Food leaking through metal",
+      "The table making water",
+      "Sunlight changing into drops"
     ],
     "correct": 0,
-    "explanation": "Liquid water evaporates from its surface below boiling point.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "Condensation can form on the outside from air touching the cold surface.\nHint: Air around it.",
     "structuredExplanation": {
-      "summary": "Liquid water evaporates from its surface below boiling point.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Condensation can form on the outside from air touching the cold surface.",
+      "hint": "Air around it."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-008",
@@ -210,27 +231,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “Droplets on a cold glass leak through”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “Droplets on a cold glass leak through”. Which feedback would improve it most?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Droplets on a cold glass leak through”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Droplets on a cold glass leak through”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-008\"></use></svg>",
+    "question": "Which pathway is reasonable after snow melts in alpine country?",
+    "audioPrompt": "Which pathway is reasonable after snow melts in alpine country?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-008",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “Droplets on a cold glass leak through”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Droplets on a cold glass leak through",
-      "They form when water vapour in air condenses on the cool surface.",
-      "The water cycle follows one fixed circle"
+      "meltwater → magnet → cloud shadow",
+      "meltwater → plastic → sunlight",
+      "meltwater → tadpole → rock",
+      "meltwater → stream → river → ocean"
     ],
-    "correct": 1,
-    "explanation": "They form when water vapour in air condenses on the cool surface.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "correct": 3,
+    "explanation": "Melted snow can flow downhill into streams, rivers and eventually the ocean.\nHint: Follow flowing water.",
     "structuredExplanation": {
-      "summary": "They form when water vapour in air condenses on the cool surface.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Melted snow can flow downhill into streams, rivers and eventually the ocean.",
+      "hint": "Follow flowing water."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-009",
@@ -239,27 +263,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A different class records this conclusion: “The water cycle follows one fixed circle”. Which feedback would improve it most?",
-    "audioPrompt": "A different class records this conclusion: “The water cycle follows one fixed circle”. Which feedback would improve it most?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “The water cycle follows one fixed circle”. Which feedback would improve it most?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “The water cycle follows one fixed circle”. Which feedback would improve it most?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-009\"></use></svg>",
+    "question": "What can happen when rain soaks into sandy soil?",
+    "audioPrompt": "What can happen when rain soaks into sandy soil?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-009",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A different class records this conclusion: “The water cycle follows one fixed circle”. Which feedback would improve it most?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "The water cycle follows one fixed circle",
-      "Clouds are water vapour",
-      "Water can take many pathways and remain stored for different times."
+      "It immediately becomes hail",
+      "It turns into sunlight",
+      "It may infiltrate and add to groundwater",
+      "It stops being water forever"
     ],
     "correct": 2,
-    "explanation": "Water can take many pathways and remain stored for different times.\nHint: Choose the response that uses evidence and corrects the mistaken relationship.",
+    "explanation": "Water that soaks into soil can become part of groundwater.\nHint: Into the ground.",
     "structuredExplanation": {
-      "summary": "Water can take many pathways and remain stored for different times.",
-      "hint": "Choose the response that uses evidence and corrects the mistaken relationship."
+      "summary": "Water that soaks into soil can become part of groundwater.",
+      "hint": "Into the ground."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-010",
@@ -268,27 +295,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A new field-note example asks: Which process changes liquid water into water vapour?",
-    "audioPrompt": "A new field-note example asks: Which process changes liquid water into water vapour?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new field-note example asks: Which process changes liquid water into water vapour?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new field-note example asks: Which process changes liquid water into water vapour?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-010\"></use></svg>",
+    "question": "Which claim about the water cycle is best?",
+    "audioPrompt": "Which claim about the water cycle is best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-010",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new field-note example asks: Which process changes liquid water into water vapour?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "evaporation",
-      "condensation",
-      "precipitation"
+      "Groundwater is outside the cycle",
+      "Water can move through different stores and processes at different rates",
+      "Every water drop takes exactly one day to complete the cycle",
+      "The water cycle only starts at the ocean"
     ],
-    "correct": 0,
-    "explanation": "evaporation\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 1,
+    "explanation": "The water cycle has many connected pathways and storage times.\nHint: Avoid one fixed route.",
     "structuredExplanation": {
-      "summary": "evaporation",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "The water cycle has many connected pathways and storage times.",
+      "hint": "Avoid one fixed route."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-011",
@@ -297,27 +327,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A new design task asks: Which statement best explains runoff?",
-    "audioPrompt": "A new design task asks: Which statement best explains runoff?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new design task asks: Which statement best explains runoff?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new design task asks: Which statement best explains runoff?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-011\"></use></svg>",
+    "question": "A wet towel dries faster in sun and wind than in a cool bathroom. Why?",
+    "audioPrompt": "A wet towel dries faster in sun and wind than in a cool bathroom. Why?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-011",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new design task asks: Which statement best explains runoff?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Clouds pull water uphill",
-      "Gravity moves water across land toward lower places",
-      "Water disappears permanently"
+      "Sun and moving air can increase evaporation",
+      "Condensation always dries towels",
+      "Runoff pulls water into the towel",
+      "Precipitation removes water from cloth"
     ],
-    "correct": 1,
-    "explanation": "Gravity moves water across land toward lower places\nHint: Use the stated observation, measurement or relationship—not preference—to decide.",
+    "correct": 0,
+    "explanation": "Warmth and air movement help liquid water evaporate from the towel.\nHint: Conditions affect rate.",
     "structuredExplanation": {
-      "summary": "Gravity moves water across land toward lower places",
-      "hint": "Use the stated observation, measurement or relationship—not preference—to decide."
+      "summary": "Warmth and air movement help liquid water evaporate from the towel.",
+      "hint": "Conditions affect rate."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-012",
@@ -326,27 +359,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Bag water-cycle model”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Bag water-cycle model”. Which method keeps the investigation focused and reviewable?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Bag water-cycle model”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Bag water-cycle model”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-012\"></use></svg>",
+    "question": "Which example is precipitation?",
+    "audioPrompt": "Which example is precipitation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-012",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Bag water-cycle model”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin bag water-cycle model, change two important conditions together, then compare only the preferred observation.",
-      "Carry out bag water-cycle model once, omit the measurements and report the original prediction as the result.",
-      "Observe sealed water warming, evaporating and condensing; label what the model represents and what it cannot show."
+      "Fog forming on a window",
+      "A puddle shrinking",
+      "Water soaking into soil",
+      "Hail falling during a storm"
     ],
-    "correct": 2,
-    "explanation": "Observe sealed water warming, evaporating and condensing; label what the model represents and what it cannot show.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 3,
+    "explanation": "Hail is water falling from clouds, so it is precipitation.\nHint: Falls from clouds.",
     "structuredExplanation": {
-      "summary": "Observe sealed water warming, evaporating and condensing; label what the model represents and what it cannot show.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Hail is water falling from clouds, so it is precipitation.",
+      "hint": "Falls from clouds."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-013",
@@ -355,27 +391,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Water-source map”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Water-source map”. Which method keeps the investigation focused and reviewable?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Water-source map”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Water-source map”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-013\"></use></svg>",
+    "question": "A road slopes toward a stormwater drain. After rain, water moves along the gutter. What is this called?",
+    "audioPrompt": "A road slopes toward a stormwater drain. After rain, water moves along the gutter. What is this called?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-013",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Water-source map”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Classify visible and hidden sources of fresh and salt water in a landscape diagram.",
-      "Begin water-source map, change two important conditions together, then compare only the preferred observation.",
-      "Carry out water-source map once, omit the measurements and report the original prediction as the result."
+      "Groundwater storage",
+      "Evaporation only",
+      "Runoff",
+      "Condensation"
     ],
-    "correct": 0,
-    "explanation": "Classify visible and hidden sources of fresh and salt water in a landscape diagram.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "correct": 2,
+    "explanation": "Water flowing over a surface after rain is runoff.\nHint: Across land surface.",
     "structuredExplanation": {
-      "summary": "Classify visible and hidden sources of fresh and salt water in a landscape diagram.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Water flowing over a surface after rain is runoff.",
+      "hint": "Across land surface."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-014",
@@ -384,27 +423,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A new group wants to adapt “Process evidence stations”. Which method keeps the investigation focused and reviewable?",
-    "audioPrompt": "A new group wants to adapt “Process evidence stations”. Which method keeps the investigation focused and reviewable?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Process evidence stations”. Which method keeps the investigation focused and reviewable?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Process evidence stations”. Which method keeps the investigation focused and reviewable?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-014\"></use></svg>",
+    "question": "Which explanation best fits fogging on a bathroom mirror?",
+    "audioPrompt": "Which explanation best fits fogging on a bathroom mirror?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-014",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new group wants to adapt “Process evidence stations”. Which method keeps the investigation focused and reviewable?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Begin process evidence stations, change two important conditions together, then compare only the preferred observation.",
-      "Use a cold container, wet cloth and sloped tray to observe condensation, evaporation and runoff.",
-      "Carry out process evidence stations once, omit the measurements and report the original prediction as the result."
+      "Runoff climbs the wall",
+      "Water vapour cools on the mirror and condenses",
+      "Mirror glass leaks water",
+      "Reflections make water"
     ],
     "correct": 1,
-    "explanation": "Use a cold container, wet cloth and sloped tray to observe condensation, evaporation and runoff.\nHint: Look for a plan that observes or measures evidence and keeps the comparison clear.",
+    "explanation": "Warm moist air can cool on the mirror and form tiny droplets.\nHint: Vapour cools.",
     "structuredExplanation": {
-      "summary": "Use a cold container, wet cloth and sloped tray to observe condensation, evaporation and runoff.",
-      "hint": "Look for a plan that observes or measures evidence and keeps the comparison clear."
+      "summary": "Warm moist air can cool on the mirror and form tiny droplets.",
+      "hint": "Vapour cools."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-015",
@@ -413,27 +455,30 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A new water sources and the water cycle investigation reports “puddle shrinks”. Which conclusion is best supported by the display?",
-    "audioPrompt": "A new water sources and the water cycle investigation reports “puddle shrinks”. Which conclusion is best supported by the display?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new water sources and the water cycle investigation reports “puddle shrinks”. Which conclusion is best supported by the display?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new water sources and the water cycle investigation reports “puddle shrinks”. Which conclusion is best supported by the display?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-015\"></use></svg>",
+    "question": "Why is the ocean important in many water-cycle examples?",
+    "audioPrompt": "Why is the ocean important in many water-cycle examples?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-015",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new water sources and the water cycle investigation reports “puddle shrinks”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "condensation because water vapour cools on surface",
-      "runoff because gravity moves water downhill",
-      "evaporation because liquid water enters air as vapour"
+      "It is a huge water store where evaporation can occur",
+      "It is the only place rain can fall",
+      "It is not part of Earth’s water",
+      "It stops clouds forming"
     ],
-    "correct": 2,
-    "explanation": "puddle shrinks is linked to evaporation because liquid water enters air as vapour.\nHint: Trace across the same row and keep the conclusion limited to the evidence shown.",
+    "correct": 0,
+    "explanation": "Oceans store most of Earth’s water and supply much evaporation.\nHint: Large store and evaporation source.",
     "structuredExplanation": {
-      "summary": "puddle shrinks is linked to evaporation because liquid water enters air as vapour.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "Oceans store most of Earth’s water and supply much evaporation.",
+      "hint": "Large store and evaporation source."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
+    "qualitySchema": "skillr-actual-v6"
   },
   {
     "id": "ac9s4u02-t-016",
@@ -442,28 +487,29 @@ window.skillrTestQuestions = [
     "skill": "water sources and the water cycle",
     "printable": true,
     "type": "single",
-    "question": "A new water sources and the water cycle investigation reports “droplets outside cold glass”. Which conclusion is best supported by the display?",
-    "audioPrompt": "A new water sources and the water cycle investigation reports “droplets outside cold glass”. Which conclusion is best supported by the display?",
-    "visual": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new water sources and the water cycle investigation reports “droplets outside cold glass”. Which conclusion is best supported by the display?",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new water sources and the water cycle investigation reports “droplets outside cold glass”. Which conclusion is best supported by the display?\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-016\"></use></svg>",
+    "question": "A child draws rain → soil → groundwater → spring → creek. What does the drawing show?",
+    "audioPrompt": "A child draws rain → soil → groundwater → spring → creek. What does the drawing show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02.svg#ac9s4u02-t-016",
-      "alt_text": "A water-cycle model linking evaporation, condensation, precipitation and collection. Question context: A new water sources and the water cycle investigation reports “droplets outside cold glass”. Which conclusion is best supported by the display?"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "condensation because water vapour cools on surface",
-      "evaporation because liquid water enters air as vapour",
-      "runoff because gravity moves water downhill"
+      "A fixed path for every water drop",
+      "Water leaving the cycle forever",
+      "Condensation turning into rocks",
+      "A possible water pathway through storage and movement"
     ],
-    "correct": 0,
-    "explanation": "droplets outside cold glass is linked to condensation because water vapour cools on surface.\nHint: Trace across the same row and keep the conclusion limited to the evidence shown.",
+    "correct": 3,
+    "explanation": "The pathway shows water infiltrating, being stored underground and returning to surface flow.\nHint: One possible pathway.",
     "structuredExplanation": {
-      "summary": "droplets outside cold glass is linked to condensation because water vapour cools on surface.",
-      "hint": "Trace across the same row and keep the conclusion limited to the evidence shown."
+      "summary": "The pathway shows water infiltrating, being stored underground and returning to surface flow.",
+      "hint": "One possible pathway."
     },
-    "qualitySchema": "production-v1"
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
+    "qualitySchema": "skillr-actual-v6"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
