@@ -1,0 +1,32 @@
+name: Rebuild Year 3 Science Actual Banks
+on:
+  push:
+    branches: [content/year3-science-actual-rebuild]
+    paths:
+      - 'scripts/year3_science_actual/**'
+      - 'scripts/materialise_year3_science_actual_all.mjs'
+      - '.github/workflows/rebuild-year3-science-actual-all.yml'
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions: {contents: write}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: content/year3-science-actual-rebuild, fetch-depth: 0}
+      - uses: actions/setup-node@v4
+        with: {node-version: '22'}
+      - name: Materialise and validate all 12 codes
+        run: node scripts/materialise_year3_science_actual_all.mjs
+      - name: Guard protected Year 3 Science content
+        run: |
+          if git status --porcelain | grep -E 'quiz/year-3/science/.*/(index\.html|worksheet/)|teacher-slides|assessment-visuals'; then
+            echo 'Protected content changed'; git status --short; exit 1;
+          fi
+      - name: Commit production banks
+        run: |
+          git config user.name JBR99729
+          git config user.email jbhasker9@gmail.com
+          git add assets/assessment-banks/year3/science quiz/year-3/science
+          git diff --cached --quiet && exit 1
+          git commit -m 'Rebuild all Year 3 Science actual question banks'
+          git push origin HEAD:content/year3-science-actual-rebuild
