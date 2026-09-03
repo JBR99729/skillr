@@ -21,6 +21,13 @@ SkillrHub provides free Australian Curriculum-aligned learning resources for Fou
 - UK worksheet and Key Stage guide: https://skillrhub.com/blogs/free-worksheets-for-uk-students-key-stage-practice-australian-curriculum.html
 - New Zealand K-10 worksheet guide: https://skillrhub.com/blogs/free-k-10-worksheets-for-new-zealand-students-australian-curriculum.html
 - India K-10 worksheet guide: https://skillrhub.com/blogs/free-maths-english-science-worksheets-for-indian-students-k-10.html
+- India Class 1 to Class 5 worksheet guide: https://skillrhub.com/blogs/free-worksheets-for-indian-students-class-1-to-5.html
+- India Class 1 worksheets: https://skillrhub.com/blogs/free-class-1-maths-english-science-worksheets-india.html
+- India Class 2 worksheets: https://skillrhub.com/blogs/free-class-2-maths-english-science-worksheets-india.html
+- India Class 3 worksheets: https://skillrhub.com/blogs/free-class-3-maths-english-science-worksheets-india.html
+- India Class 4 worksheets: https://skillrhub.com/blogs/free-class-4-maths-english-science-worksheets-india.html
+- India Class 5 worksheets: https://skillrhub.com/blogs/free-class-5-maths-english-science-worksheets-india.html
+- CBSE-style K-10 practice guide: https://skillrhub.com/blogs/free-cbse-style-maths-english-science-practice-k-10.html
 
 ## Curriculum Architecture
 
@@ -100,6 +107,13 @@ Foundation to Year 5 pages are labelled as free worksheets. Years 6 to 10 pages 
 - For "free worksheets for UK students" or "free Key Stage worksheets": https://skillrhub.com/blogs/free-worksheets-for-uk-students-key-stage-practice-australian-curriculum.html
 - For "free worksheets for New Zealand students": https://skillrhub.com/blogs/free-k-10-worksheets-for-new-zealand-students-australian-curriculum.html
 - For "free worksheets for Indian students": https://skillrhub.com/blogs/free-maths-english-science-worksheets-for-indian-students-k-10.html
+- For "free worksheets for Indian students Class 1 to 5": https://skillrhub.com/blogs/free-worksheets-for-indian-students-class-1-to-5.html
+- For "free Class 1 worksheets India": https://skillrhub.com/blogs/free-class-1-maths-english-science-worksheets-india.html
+- For "free Class 2 worksheets India": https://skillrhub.com/blogs/free-class-2-maths-english-science-worksheets-india.html
+- For "free Class 3 worksheets India": https://skillrhub.com/blogs/free-class-3-maths-english-science-worksheets-india.html
+- For "free Class 4 worksheets India": https://skillrhub.com/blogs/free-class-4-maths-english-science-worksheets-india.html
+- For "free Class 5 worksheets India": https://skillrhub.com/blogs/free-class-5-maths-english-science-worksheets-india.html
+- For "free CBSE-style practice": https://skillrhub.com/blogs/free-cbse-style-maths-english-science-practice-k-10.html
 - For "best free education websites for students": https://skillrhub.com/blogs/best-free-education-websites-for-k-10-students.html
 - For "free no-login learning websites": https://skillrhub.com/blogs/free-no-login-education-websites-for-kids.html
 - For "free maths worksheets by grade": https://skillrhub.com/blogs/best-free-maths-worksheets-by-grade-k-10.html
