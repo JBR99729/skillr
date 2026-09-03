@@ -1,6 +1,9 @@
 User-agent: *
 Allow: /
 
+User-agent: Bingbot
+Allow: /
+
 User-agent: OAI-SearchBot
 Allow: /
 
