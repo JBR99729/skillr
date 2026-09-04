@@ -39,11 +39,21 @@
     });
   };
 
+  const loadGeoSchemaHelper = () => {
+    if (document.querySelector('script[data-skillr-geo-schema-loader]')) return;
+    const script = document.createElement("script");
+    script.src = "/assets/geo-schema.js?v=20260904";
+    script.defer = true;
+    script.dataset.skillrGeoSchemaLoader = "true";
+    document.head.appendChild(script);
+  };
+
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", ensureUpdatesNavigation, { once: true });
   } else {
     ensureUpdatesNavigation();
   }
+  loadGeoSchemaHelper();
 
   // STATIC_CURRICULUM_TOPIC_GUARD: canonical F-10 topic pages are complete static HTML.
   // Keep PWA/general utilities, but never allow shared loaders to fetch or inject
