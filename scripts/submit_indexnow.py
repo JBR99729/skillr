@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
-"""Submit changed public SkillrHub URLs to IndexNow.
+"""Submit changed, indexable SkillrHub pages to IndexNow.
 
 Usage:
   python3 scripts/submit_indexnow.py <before_sha> <after_sha>
 
-The script maps changed repository files to their public skillrhub.com URLs,
-filters out non-public/internal assets, batches the URLs, and POSTs them to the
-shared IndexNow endpoint. Deleted public pages are submitted too so engines can
-refresh removal state.
+The script maps changed HTML files to their public skillrhub.com URLs, skips
+internal/noindex pages, batches URLs, and POSTs them to the shared IndexNow
+endpoint. Deleted HTML pages are submitted too so engines can refresh removal
+state.
 """
 from __future__ import annotations
 
 import json
+import re
 import subprocess
 import sys
 import urllib.error
@@ -36,18 +37,15 @@ EXCLUDED_PREFIXES = (
     "node_modules/",
     "analytics/",
 )
-EXCLUDED_BASENAMES = {
-    "AGENTS.md",
-    "README.md",
-    "package.json",
-    "package-lock.json",
-}
-PUBLIC_TEXT_EXTENSIONS = {".html", ".htm", ".xml", ".txt", ".json", ".webmanifest"}
+NOINDEX_RE = re.compile(
+    r'<meta\b[^>]*name=["\']robots["\'][^>]*content=["\'][^"\']*noindex',
+    re.IGNORECASE,
+)
 
 
 def changed_paths(before: str, after: str) -> list[str]:
     if not before or set(before) == {"0"}:
-        # First push on a branch/repository: avoid mass-submitting the whole site.
+        # Avoid a mass submission if GitHub reports a null previous commit.
         return []
     result = subprocess.run(
         ["git", "diff", "--name-only", before, after],
@@ -61,17 +59,19 @@ def changed_paths(before: str, after: str) -> list[str]:
 
 def public_url(path: str) -> str | None:
     clean = path.replace("\\", "/").lstrip("./")
-    if not clean or clean in EXCLUDED_BASENAMES or clean.startswith(EXCLUDED_PREFIXES):
+    if not clean or clean.startswith(EXCLUDED_PREFIXES):
+        return None
+    if not clean.lower().endswith((".html", ".htm")):
         return None
 
-    p = Path(clean)
-    if p.suffix.lower() not in PUBLIC_TEXT_EXTENSIONS:
-        return None
-
-    # Never notify search engines about question-bank/data implementation files.
-    lowered = clean.lower()
-    if any(part in lowered for part in ("questions.js", "/assets/", "/quiz/assets/")):
-        return None
+    disk_file = ROOT / clean
+    if disk_file.exists():
+        try:
+            head = disk_file.read_text(encoding="utf-8", errors="ignore")[:12000]
+        except OSError:
+            return None
+        if NOINDEX_RE.search(head):
+            return None
 
     if clean == "index.html":
         return f"{SITE}/"
@@ -101,7 +101,6 @@ def submit(urls: list[str]) -> None:
             with urllib.request.urlopen(request, timeout=30) as response:
                 status = response.status
         except urllib.error.HTTPError as exc:
-            # 202 means accepted; 200 means OK. Surface other responses as failures.
             body = exc.read().decode("utf-8", errors="replace")
             raise SystemExit(f"IndexNow HTTP {exc.code}: {body}") from exc
         print(f"IndexNow submitted {len(batch)} URL(s): HTTP {status}")
@@ -114,9 +113,9 @@ def main() -> None:
     paths = changed_paths(before, after)
     urls = sorted({url for path in paths if (url := public_url(path))})
     if not urls:
-        print("No changed public URLs to submit to IndexNow.")
+        print("No changed indexable HTML URLs to submit to IndexNow.")
         return
-    print(f"Submitting {len(urls)} changed public URL(s) to IndexNow.")
+    print(f"Submitting {len(urls)} changed indexable URL(s) to IndexNow.")
     submit(urls)
 
 
