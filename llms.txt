@@ -131,3 +131,18 @@ Foundation to Year 5 pages are labelled as free worksheets. Years 6 to 10 pages 
 - Use `/llms-full.txt` for curriculum structure, route patterns and citation rules in one request.
 - Use `/sitemap.xml` for full crawl discovery.
 - Use `/sitemap.html` for a compact human-readable resource map.
+
+## Google SEO Pillar Pages
+
+These human-search landing pages keep Australian Curriculum codes inside page content/schema while using parent-friendly Google URLs.
+
+- https://skillrhub.com/year-3-maths/analog-time-worksheets/ - Free Year 3 analog time worksheets and practice for reading clocks, using minutes and solving time problems.
+- https://skillrhub.com/year-3-maths/units-of-time-practice/ - Free Year 3 units of time practice for days, weeks, months, years, hours and minutes.
+- https://skillrhub.com/year-3-maths/fractions-worksheets/ - Free Year 3 fractions worksheets for halves, thirds, quarters, fifths and tenths.
+- https://skillrhub.com/year-3-maths/multiplication-worksheets/ - Free Year 3 multiplication worksheets for arrays, equal groups and facts for 3, 4, 5 and 10.
+- https://skillrhub.com/year-3-maths/division-worksheets/ - Free Year 3 division worksheets for equal sharing, grouping and related multiplication facts.
+- https://skillrhub.com/year-2-maths/place-value-worksheets/ - Free Year 2 place value worksheets for hundreds, tens and ones.
+- https://skillrhub.com/year-1-maths/patterning/ - Free Year 1 maths patterning worksheets and practice for repeating and growing patterns.
+- https://skillrhub.com/foundation-maths/counting-worksheets/ - Free Foundation counting worksheets for numbers, matching, ordering and early number sense.
+- https://skillrhub.com/year-4-maths/equivalent-fractions-worksheets/ - Free Year 4 equivalent fractions worksheets using visual models and number lines.
+- https://skillrhub.com/year-5-maths/decimals-worksheets/ - Free Year 5 decimals worksheets for place value, comparing, ordering and rounding decimals.
