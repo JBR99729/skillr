@@ -55,6 +55,11 @@
   }
   loadGeoSchemaHelper();
 
+  const seoRouting = document.createElement("script");
+  seoRouting.src = "/assets/seo-routing.js?v=20260904";
+  seoRouting.defer = true;
+  document.head.appendChild(seoRouting);
+
   // STATIC_CURRICULUM_TOPIC_GUARD: canonical F-10 topic pages are complete static HTML.
   // Keep PWA/general utilities, but never allow shared loaders to fetch or inject
   // year/foundation curriculum data, renderers, topic modules or visual lesson layers.
