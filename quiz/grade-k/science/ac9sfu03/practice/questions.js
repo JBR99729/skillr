@@ -224,20 +224,20 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu03-p-012",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "absorbency and water",
+    "skill": "water and material properties",
     "question": "A dry paper towel touches spilled water and a wet patch spreads. What does this show?",
-    "explanation": "Water moving into the paper towel shows absorbency.",
+    "explanation": "The paper towel takes in water.",
     "printable": true,
     "type": "single",
     "answers": [
       "It stays dry",
-      "It soaks up water",
+      "It takes in water",
       "It is see-through"
     ],
     "correct": 1,
     "audioPrompt": "A dry paper towel touches spilled water and a wet patch spreads. What does this show?",
     "structuredExplanation": {
-      "summary": "Water moving into the paper towel shows absorbency."
+      "summary": "The paper towel takes in water."
     }
   },
   {
@@ -365,39 +365,39 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
     "skill": "objects and materials",
-    "question": "A pencil has a wooden body and a graphite centre. Is the whole pencil made from wood?",
-    "explanation": "The pencil contains both wood and graphite.",
+    "question": "A pencil has a wooden body and a rubber eraser. Is the whole pencil made from wood?",
+    "explanation": "Wood and rubber are different materials.",
     "printable": true,
     "type": "single",
     "answers": [
       "Yes, every part",
-      "No, it is all graphite",
-      "No, it includes graphite"
+      "No, it is all rubber",
+      "No, it has more than one material"
     ],
     "correct": 2,
-    "audioPrompt": "A pencil has a wooden body and a graphite centre. Is the whole pencil made from wood?",
+    "audioPrompt": "A pencil has a wooden body and a rubber eraser. Is the whole pencil made from wood?",
     "structuredExplanation": {
-      "summary": "The pencil contains both wood and graphite."
+      "summary": "Wood and rubber are different materials."
     }
   },
   {
     "id": "ac9sfu03-p-020",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "absorbency and water",
-    "question": "Water drops sit on top of a plastic lid during a short test. Which observation matches?",
-    "explanation": "The water stayed on the surface instead of soaking in.",
+    "skill": "transparent and opaque materials",
+    "question": "A child holds a clear plastic sheet and a cardboard sheet in front of a toy. Which sheet lets the child see the toy clearly?",
+    "explanation": "Clear plastic is see-through, so the toy can be seen through it.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The drops stayed on top",
-      "The lid soaked them up",
-      "The drops passed through the lid"
+      "Clear plastic sheet",
+      "Cardboard sheet",
+      "Both block the view"
     ],
     "correct": 0,
-    "audioPrompt": "Water drops sit on top of a plastic lid during a short test. Which observation matches?",
+    "audioPrompt": "A child holds a clear plastic sheet and a cardboard sheet in front of a toy. Which sheet lets the child see the toy clearly?",
     "structuredExplanation": {
-      "summary": "The water stayed on the surface instead of soaking in."
+      "summary": "Clear plastic is see-through, so the toy can be seen through it."
     }
   },
   {
@@ -444,20 +444,20 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfu03-p-023",
     "curriculumCode": "AC9SFU03",
     "bank": "practice",
-    "skill": "absorbency and water",
-    "question": "Which sample belongs in a group that soaks up water?",
-    "explanation": "The sponge showed absorbency by taking in water.",
+    "skill": "observable material properties",
+    "question": "A child gently presses a sponge and a tile. Which one is easier to squash?",
+    "explanation": "A sponge is soft and can squash more easily than a tile.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A lid with water sitting on top",
-      "Foil with water sitting on top",
-      "A sponge that soaked up water"
+      "The tile",
+      "Both are equally hard",
+      "The sponge"
     ],
     "correct": 2,
-    "audioPrompt": "Which sample belongs in a group that soaks up water?",
+    "audioPrompt": "A child gently presses a sponge and a tile. Which one is easier to squash?",
     "structuredExplanation": {
-      "summary": "The sponge showed absorbency by taking in water."
+      "summary": "A sponge is soft and can squash more easily than a tile."
     }
   },
   {
