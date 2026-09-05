@@ -1,345 +1,323 @@
 "use strict";
 window.skillrTestQuestions = [
   {
-    "curriculumCode": "AC9SFI01",
-    "bank": "test",
-    "skill": "recognise a question",
-    "question": "Which is a science question we can investigate?",
-    "explanation": "This question can guide an investigation.",
-    "printable": true,
-    "type": "single",
-    "answers": [
-      "Which toy car rolls farther?",
-      "Which toy is the nicest?",
-      "Which colour is best?"
-    ],
-    "correct": 0,
-    "visual": "Assessment card\n☀️🌱 | 🌑🌱",
     "id": "ac9sfi01-t-001",
-    "audioPrompt": "Which is a science question we can investigate?",
-    "structuredExplanation": {
-      "summary": "This question can guide an investigation."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "choose focused question",
-    "question": "An ice cube is left in the sun. What do you predict?",
-    "explanation": "The question identifies a countable comparison.",
+    "skill": "make predictions from experience",
+    "question": "A child saw a paper towel take in water. What is the best supported prediction for another dry paper towel?",
+    "explanation": "The prediction uses a related experience.",
     "printable": true,
     "type": "single",
     "answers": [
-      "it will melt",
-      "it will grow leaves",
-      "it will turn into wood"
+      "It may stay dry in water.",
+      "It may block the water.",
+      "It may take in water too."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🌳 🐜 | 🪨 🐞",
+    "correct": 2,
+    "audioPrompt": "A child saw a paper towel take in water. What is the best supported prediction for another dry paper towel?",
+    "structuredExplanation": {
+      "summary": "The prediction uses a related experience."
+    }
+  },
+  {
     "id": "ac9sfi01-t-002",
-    "audioPrompt": "An ice cube is left in the sun. What do you predict?",
-    "structuredExplanation": {
-      "summary": "The question identifies a countable comparison."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "match question to outcome",
-    "question": "A plant is not watered for many days. What might happen?",
-    "explanation": "Counts at each location answer the comparison question.",
+    "skill": "pose investigable questions",
+    "question": "Which question asks what happens to ice outside over time?",
+    "explanation": "The class can observe over time whether the ice melts outside.",
     "printable": true,
     "type": "single",
     "answers": [
-      "it may droop",
-      "it may become a toy",
-      "it may start talking"
+      "Will the ice melt outside?",
+      "Was the ice cold before?",
+      "Is the ice in a bowl?"
     ],
     "correct": 0,
-    "visual": "Assessment card\ntree: |||| | rock: ||",
+    "audioPrompt": "Which question asks what happens to ice outside over time?",
+    "structuredExplanation": {
+      "summary": "The class can observe over time whether the ice melts outside."
+    }
+  },
+  {
     "id": "ac9sfi01-t-003",
-    "audioPrompt": "A plant is not watered for many days. What might happen?",
-    "structuredExplanation": {
-      "summary": "Counts at each location answer the comparison question."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "select prediction",
-    "question": "Which question can you answer by looking closely?",
-    "explanation": "The sentence tells what is expected before observing.",
+    "skill": "make predictions from experience",
+    "question": "A child says, “The seed may sprout because the last seed sprouted.” What is this?",
+    "explanation": "The child uses an earlier seed experience to predict what may happen.",
     "printable": true,
     "type": "single",
     "answers": [
-      "How many legs does the insect have?",
-      "Is the insect happy?",
-      "What is it thinking?"
+      "An observation now",
+      "A prediction from experience",
+      "A question to ask"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🪵 ?",
+    "correct": 1,
+    "audioPrompt": "A child says, “The seed may sprout because the last seed sprouted.” What is this?",
+    "structuredExplanation": {
+      "summary": "The child uses an earlier seed experience to predict what may happen."
+    }
+  },
+  {
     "id": "ac9sfi01-t-004",
-    "audioPrompt": "Which question can you answer by looking closely?",
-    "structuredExplanation": {
-      "summary": "The sentence tells what is expected before observing."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "prediction or observation",
-    "question": "A ball is placed at the top of a ramp. What do you predict?",
-    "explanation": "It reports a completed observation.",
+    "skill": "make predictions from experience",
+    "question": "A class saw leaves move when the wind blew. Which prediction best matches that earlier observation for another windy day?",
+    "explanation": "The prediction uses a past windy-day observation.",
     "printable": true,
     "type": "single",
     "answers": [
-      "it will roll down",
-      "it will fly away",
-      "it will grow"
+      "The leaves may stay still.",
+      "The leaves may be different colours.",
+      "The leaves may move."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🪱🪱🪱🪱🪱",
+    "correct": 2,
+    "audioPrompt": "A class saw leaves move when the wind blew. Which prediction best matches that earlier observation for another windy day?",
+    "structuredExplanation": {
+      "summary": "The prediction uses a past windy-day observation."
+    }
+  },
+  {
     "id": "ac9sfi01-t-005",
-    "audioPrompt": "A ball is placed at the top of a ramp. What do you predict?",
-    "structuredExplanation": {
-      "summary": "It reports a completed observation."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "experience-based reason",
-    "question": "Which question can be answered by counting?",
-    "explanation": "The reason uses a relevant past observation.",
+    "skill": "connect experience to inquiry",
+    "question": "Which sentence is a science question?",
+    "explanation": "A question asks something to find out.",
     "printable": true,
     "type": "single",
     "answers": [
-      "How many birds are there?",
-      "Which bird is kindest?",
-      "What are the birds thinking?"
+      "Will the shadow get longer?",
+      "The shadow is on the wall.",
+      "The shadow was long yesterday."
     ],
     "correct": 0,
-    "visual": "Assessment card\nwet soil 🪱 | dry soil",
+    "audioPrompt": "Which sentence is a science question?",
+    "structuredExplanation": {
+      "summary": "A question asks something to find out."
+    }
+  },
+  {
     "id": "ac9sfi01-t-006",
-    "audioPrompt": "Which question can be answered by counting?",
-    "structuredExplanation": {
-      "summary": "The reason uses a relevant past observation."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "match prediction to question",
-    "question": "You push one car gently and one car harder. Which do you predict will go farther?",
-    "explanation": "It predicts the outcome named in the question.",
+    "skill": "make predictions from experience",
+    "question": "A child tested a rubber ball and saw it bounce. Which prediction best matches dropping it again safely?",
+    "explanation": "The prediction is based on what happened before.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the harder-pushed car",
-      "the gently pushed car",
-      "neither car can move"
+      "It may roll instead of bounce.",
+      "It may bounce again.",
+      "It may stay flat on the floor."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🧸 + 💧 + plastic",
+    "correct": 1,
+    "audioPrompt": "A child tested a rubber ball and saw it bounce. Which prediction best matches dropping it again safely?",
+    "structuredExplanation": {
+      "summary": "The prediction is based on what happened before."
+    }
+  },
+  {
     "id": "ac9sfi01-t-007",
-    "audioPrompt": "You push one car gently and one car harder. Which do you predict will go farther?",
-    "structuredExplanation": {
-      "summary": "It predicts the outcome named in the question."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "improve vague question",
-    "question": "Which question can be tested with two cups?",
-    "explanation": "The question names the object, outcome and time.",
+    "skill": "pose investigable questions",
+    "question": "A child saw ants near fruit yesterday. Which question checks whether that happens again today?",
+    "explanation": "The question checks whether the earlier observation happens again.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which cup holds more water?",
-      "Which cup is happier?",
-      "Which cup has the best name?"
+      "Will ants come near a pencil today?",
+      "Is the fruit red today?",
+      "Will ants come near fruit today?"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n☂️ 🧸 💧",
+    "correct": 2,
+    "audioPrompt": "A child saw ants near fruit yesterday. Which question checks whether that happens again today?",
+    "structuredExplanation": {
+      "summary": "The question checks whether the earlier observation happens again."
+    }
+  },
+  {
     "id": "ac9sfi01-t-008",
-    "audioPrompt": "Which question can be tested with two cups?",
-    "structuredExplanation": {
-      "summary": "The question names the object, outcome and time."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "improve prediction",
-    "question": "Which is a science question we can investigate?",
-    "explanation": "The prediction states the expected comparison.",
+    "skill": "make predictions from experience",
+    "question": "Which statement is a prediction?",
+    "explanation": "A prediction says what might happen.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which toy car rolls farther?",
-      "Which toy is the nicest?",
-      "Which colour is best?"
+      "The rock is grey.",
+      "The rock may sink.",
+      "The rock feels rough."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🧽 💧 plastic",
+    "correct": 1,
+    "audioPrompt": "Which statement is a prediction?",
+    "structuredExplanation": {
+      "summary": "A prediction says what might happen."
+    }
+  },
+  {
     "id": "ac9sfi01-t-009",
-    "audioPrompt": "Which is a science question we can investigate?",
-    "structuredExplanation": {
-      "summary": "The prediction states the expected comparison."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "choose evidence",
-    "question": "An ice cube is left in the sun. What do you predict?",
-    "explanation": "Counts at both locations allow comparison.",
+    "skill": "make predictions from experience",
+    "question": "A plant near the window grew taller last week. What is the best supported prediction for this week?",
+    "explanation": "The prediction uses the earlier experience with the plant near the window.",
     "printable": true,
     "type": "single",
     "answers": [
-      "it will melt",
-      "it will grow leaves",
-      "it will turn into wood"
+      "It may grow taller near the window.",
+      "It may stay the same height this week.",
+      "It may grow taller away from light."
     ],
     "correct": 0,
-    "visual": "Assessment card\n🌳 ||||| | 🪨 ||",
+    "audioPrompt": "A plant near the window grew taller last week. What is the best supported prediction for this week?",
+    "structuredExplanation": {
+      "summary": "The prediction uses the earlier experience with the plant near the window."
+    }
+  },
+  {
     "id": "ac9sfi01-t-010",
-    "audioPrompt": "An ice cube is left in the sun. What do you predict?",
+    "curriculumCode": "AC9SFI01",
+    "bank": "test",
+    "skill": "make predictions from experience",
+    "question": "A child saw a toy car move farther after a stronger push. Which prediction best matches that earlier observation?",
+    "explanation": "The prediction uses the earlier push experience.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "A gentle push may move it farther.",
+      "The car may not move at all.",
+      "A stronger push may move it farther again."
+    ],
+    "correct": 2,
+    "audioPrompt": "A child saw a toy car move farther after a stronger push. Which prediction best matches that earlier observation?",
     "structuredExplanation": {
-      "summary": "Counts at both locations allow comparison."
+      "summary": "The prediction uses the earlier push experience."
     }
   },
   {
-    "curriculumCode": "AC9SFI01",
-    "bank": "test",
-    "skill": "inquiry sequence",
-    "question": "A plant is not watered for many days. What might happen?",
-    "explanation": "The question guides evidence collection and recording.",
-    "printable": true,
-    "type": "single",
-    "items": [
-      "Record what happened",
-      "Choose a question",
-      "Collect evidence"
-    ],
-    "correct": 0,
-    "instruction": "Use the arrows to put the cards in order.",
     "id": "ac9sfi01-t-011",
-    "answers": [
-      "it may droop",
-      "it may become a toy",
-      "it may start talking"
-    ],
-    "audioPrompt": "A plant is not watered for many days. What might happen?",
-    "structuredExplanation": {
-      "summary": "The question guides evidence collection and recording."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "timing of prediction",
-    "question": "Which question can you answer by looking closely?",
-    "explanation": "It reports the observed result.",
+    "skill": "pose investigable questions",
+    "question": "Which question would compare how sponges take in water?",
+    "explanation": "A child can observe and compare how much water sponges take in.",
     "printable": true,
     "type": "single",
     "answers": [
-      "How many legs does the insect have?",
-      "Is the insect happy?",
-      "What is it thinking?"
+      "Which sponge is blue?",
+      "Which sponge takes in more water?",
+      "Which sponge was used yesterday?"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n☀️💧 | 🌳🧊",
+    "correct": 1,
+    "audioPrompt": "Which question would compare how sponges take in water?",
+    "structuredExplanation": {
+      "summary": "A child can observe and compare how much water sponges take in."
+    }
+  },
+  {
     "id": "ac9sfi01-t-012",
-    "audioPrompt": "Which question can you answer by looking closely?",
-    "structuredExplanation": {
-      "summary": "It reports the observed result."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "recognise a question",
-    "question": "A ball is placed at the top of a ramp. What do you predict?",
-    "explanation": "The sentence asks about an observable property.",
+    "skill": "connect experience to inquiry",
+    "question": "A child says, “I think the puddle will get smaller in the sun.” What is the child doing?",
+    "explanation": "The child is saying what they think may happen next.",
     "printable": true,
     "type": "single",
     "answers": [
-      "it will roll down",
-      "it will fly away",
-      "it will grow"
+      "Making a prediction",
+      "Making an observation now",
+      "Asking a question"
     ],
     "correct": 0,
-    "visual": "Assessment card\n🥄",
+    "audioPrompt": "A child says, “I think the puddle will get smaller in the sun.” What is the child doing?",
+    "structuredExplanation": {
+      "summary": "The child is saying what they think may happen next."
+    }
+  },
+  {
     "id": "ac9sfi01-t-013",
-    "audioPrompt": "A ball is placed at the top of a ramp. What do you predict?",
-    "structuredExplanation": {
-      "summary": "The sentence asks about an observable property."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "choose focused question",
-    "question": "Which question can be answered by counting?",
-    "explanation": "Bounce height is a clear observable outcome.",
+    "skill": "pose investigable questions",
+    "question": "A class heard birds in the morning for three days. Which question checks whether this happens again tomorrow?",
+    "explanation": "The question is based on the repeated morning experience.",
     "printable": true,
     "type": "single",
     "answers": [
-      "How many birds are there?",
-      "Which bird is kindest?",
-      "What are the birds thinking?"
+      "Were the birds loud today?",
+      "Are the birds in a nest?",
+      "Will we hear birds again in the morning?"
     ],
-    "correct": 0,
-    "visual": "Assessment card\n🟤  🔵",
+    "correct": 2,
+    "audioPrompt": "A class heard birds in the morning for three days. Which question checks whether this happens again tomorrow?",
+    "structuredExplanation": {
+      "summary": "The question is based on the repeated morning experience."
+    }
+  },
+  {
     "id": "ac9sfi01-t-014",
-    "audioPrompt": "Which question can be answered by counting?",
-    "structuredExplanation": {
-      "summary": "Bounce height is a clear observable outcome."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "match question to outcome",
-    "question": "You push one car gently and one car harder. Which do you predict will go farther?",
-    "explanation": "Water passing through is the relevant outcome.",
+    "skill": "make predictions from experience",
+    "question": "A child predicts a feather will move when blown gently. Which past experience most directly matches this feather test?",
+    "explanation": "A matching past experience with air moving a feather can support the prediction.",
     "printable": true,
     "type": "single",
     "answers": [
-      "the harder-pushed car",
-      "the gently pushed car",
-      "neither car can move"
+      "They saw air move a feather before.",
+      "They saw the feather was white.",
+      "They saw a leaf is green."
     ],
     "correct": 0,
-    "visual": "Assessment card\n💧 → fabric?",
+    "audioPrompt": "A child predicts a feather will move when blown gently. Which past experience most directly matches this feather test?",
+    "structuredExplanation": {
+      "summary": "A matching past experience with air moving a feather can support the prediction."
+    }
+  },
+  {
     "id": "ac9sfi01-t-015",
-    "audioPrompt": "You push one car gently and one car harder. Which do you predict will go farther?",
-    "structuredExplanation": {
-      "summary": "Water passing through is the relevant outcome."
-    }
-  },
-  {
     "curriculumCode": "AC9SFI01",
     "bank": "test",
-    "skill": "select prediction",
-    "question": "Which question can be tested with two cups?",
-    "explanation": "It predicts the future result.",
+    "skill": "make predictions from experience",
+    "question": "Which prediction uses an earlier observation?",
+    "explanation": "The prediction uses what happened before to predict what may happen.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Which cup holds more water?",
-      "Which cup is happier?",
-      "Which cup has the best name?"
+      "The ice is cold now.",
+      "The ice melted in the sun yesterday, so it may melt today.",
+      "The ice is on a plate."
     ],
-    "correct": 0,
-    "visual": "Assessment card\n☀️🧊 | 🌳🧊",
-    "id": "ac9sfi01-t-016",
-    "audioPrompt": "Which question can be tested with two cups?",
+    "correct": 1,
+    "audioPrompt": "Which prediction uses an earlier observation?",
     "structuredExplanation": {
-      "summary": "It predicts the future result."
+      "summary": "The prediction uses what happened before to predict what may happen."
+    }
+  },
+  {
+    "id": "ac9sfi01-t-016",
+    "curriculumCode": "AC9SFI01",
+    "bank": "test",
+    "skill": "make predictions from experience",
+    "question": "Why should a child make a prediction before a new test?",
+    "explanation": "A prediction can be checked against later observations.",
+    "printable": true,
+    "type": "single",
+    "answers": [
+      "To ignore what happened before.",
+      "To make the answer always correct.",
+      "To say what they think may happen and then check."
+    ],
+    "correct": 2,
+    "audioPrompt": "Why should a child make a prediction before a new test?",
+    "structuredExplanation": {
+      "summary": "A prediction can be checked against later observations."
     }
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;
