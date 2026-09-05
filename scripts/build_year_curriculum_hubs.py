@@ -14,6 +14,13 @@ SITE = "https://skillrhub.com"
 GA_ID = "G-8P22BET45N"
 ADSENSE = "ca-pub-7734963540104771"
 MANIFEST = ROOT / "data/curriculum-units.json"
+USED_CARD_EXAMPLES: set[str] = set()
+GENERIC_EXAMPLE_TEXT = (
+    "read every label and identify what each quantity or feature represents",
+    "describe the relationship shown by the model",
+    "check that the conclusion answers the original question",
+    "apply the same relationship to the new context",
+)
 SUBJECTS = (
     ("Mathematics", "maths", "Maths"),
     ("Science", "science", "Science"),
@@ -117,6 +124,60 @@ def concise(value: str, limit: int) -> str:
     return f"{clipped}…"
 
 
+def js_string(value: str) -> str:
+    """Decode a JSON-style quoted string captured from a question-bank file."""
+    try:
+        return str(json.loads(value))
+    except (json.JSONDecodeError, TypeError):
+        return ""
+
+
+def practice_questions(unit: dict) -> list[str]:
+    """Read question prompts from the live practice bank in its common formats."""
+    bank = ROOT / str(unit["practiceUrl"]).lstrip("/") / "questions.js"
+    if not bank.exists():
+        return []
+    source = bank.read_text(encoding="utf-8", errors="ignore")
+    quoted = r'"(?:\\.|[^"\\])*"'
+    patterns = (
+        rf'"question"\s*:\s*({quoted})',
+        rf'\bquestion\s*:\s*({quoted})',
+        rf'\bq\(\s*{quoted}\s*,\s*{quoted}\s*,\s*({quoted})',
+        rf'\bq\(\s*{quoted}\s*,\s*({quoted})\s*,\s*\[',
+        rf'\bq\(\s*\d+\s*,\s*{quoted}\s*,\s*({quoted})\s*,\s*\[',
+        rf'\bQ\(\s*\d+\s*,\s*({quoted})\s*,\s*\[',
+        rf'\[\s*{quoted}\s*,\s*{quoted}\s*,\s*({quoted})\s*,\s*\[',
+        rf'\[\s*{quoted}\s*,\s*({quoted})\s*,\s*\[',
+        rf'\[\s*\d+\s*,\s*{quoted}\s*,\s*{quoted}\s*,\s*({quoted})\s*,\s*\[',
+        rf'\[\s*({quoted})\s*,\s*\[',
+    )
+    questions: list[str] = []
+    for pattern in patterns:
+        matches = [js_string(match) for match in re.findall(pattern, source)]
+        if matches:
+            questions = matches
+            break
+    return [" ".join(question.split()) for question in questions if question.strip()]
+
+
+def live_card_example(unit: dict) -> str:
+    """Choose a short, distinct example from the skill's published practice bank."""
+    questions = practice_questions(unit)
+    preferred = [question for question in questions if 18 <= len(question) <= 190]
+    candidates = preferred or [question for question in questions if len(question) >= 18]
+    candidates.sort(key=lambda question: (len(question) > 155, questions.index(question)))
+    for question in candidates:
+        lowered = question.casefold()
+        if any(phrase in lowered for phrase in GENERIC_EXAMPLE_TEXT):
+            continue
+        key = re.sub(r"\W+", " ", lowered).strip()
+        if key in USED_CARD_EXAMPLES:
+            continue
+        USED_CARD_EXAMPLES.add(key)
+        return concise(question, 190)
+    return ""
+
+
 def curriculum_card_title(value: str) -> str:
     """Return a complete, compact skill label without mid-phrase clipping."""
     value = " ".join(value.split()).strip(" .")
@@ -150,7 +211,8 @@ def topic_card_copy(unit: dict) -> tuple[str, str, str]:
     """Reuse published, code-specific copy without authoring new curriculum content."""
     code = str(unit["code"])
     if code in FOUNDATION_MATHS_COPY:
-        return FOUNDATION_MATHS_COPY[code]
+        title, summary, authored_example = FOUNDATION_MATHS_COPY[code]
+        return title, summary, live_card_example(unit) or authored_example
 
     subject_dir = ROOT / str(unit["yearFolder"]) / str(unit["subjectSlug"])
     topic_files = sorted(subject_dir.glob(f"{code.lower()}*/index.html"))
@@ -198,7 +260,50 @@ def topic_card_copy(unit: dict) -> tuple[str, str, str]:
             summary = concise(teacher_summary, 170)
     if not example and teacher:
         example = first_match(teacher, (r'<div\b[^>]*class="[^"]*example-card[^"]*"[^>]*>[\s\S]*?<p\b[^>]*>([\s\S]*?)</p>',))
-    return title, summary, concise(example, 155) if example else ""
+    # A real, code-specific practice prompt is a clearer preview than prose
+    # scraped from a visual board. Many older boards append generic directions,
+    # which previously produced the same misleading example on unrelated cards.
+    live_example = live_card_example(unit)
+    if live_example:
+        example = live_example
+    elif example:
+        for phrase in GENERIC_EXAMPLE_TEXT:
+            example = re.sub(re.escape(phrase) + r"[.!]?", "", example, flags=re.I)
+        example = " ".join(example.split()).strip(" .")
+    return title, summary, concise(example, 190) if example else ""
+
+
+def validate_card_examples(units: list[dict]) -> None:
+    """Fail the build if generated hubs contain missing, repeated or generic examples."""
+    errors: list[str] = []
+    seen: dict[str, str] = {}
+    for unit in units:
+        page = ROOT / str(unit["yearFolder"]) / "curriculum" / str(unit["subjectSlug"]) / "index.html"
+        source = page.read_text(encoding="utf-8", errors="ignore") if page.exists() else ""
+        card = re.search(
+            rf'<article class="curriculum-unit-card">(?:(?!<article class="curriculum-unit-card">)[\s\S])*?'
+            rf'<span class="curriculum-badge">{re.escape(str(unit["code"]))}</span>'
+            rf'(?:(?!<article class="curriculum-unit-card">)[\s\S])*?</article>',
+            source,
+        )
+        if not card:
+            errors.append(f"{unit['code']}: card not found")
+            continue
+        match = re.search(r'<p class="skill-example"><strong>Example</strong><span>(.*?)</span>', card.group(0), re.S)
+        if not match:
+            errors.append(f"{unit['code']}: example missing")
+            continue
+        value = html.unescape(strip_html(match.group(1))).strip()
+        lowered = value.casefold()
+        if any(phrase in lowered for phrase in GENERIC_EXAMPLE_TEXT):
+            errors.append(f"{unit['code']}: generic example remains")
+        key = re.sub(r"\W+", " ", lowered).strip()
+        if key in seen:
+            errors.append(f"{unit['code']}: duplicates {seen[key]}")
+        else:
+            seen[key] = str(unit["code"])
+    if errors:
+        raise RuntimeError("Curriculum-card example validation failed:\n" + "\n".join(errors[:40]))
 
 
 def head(title: str, description: str, path: str) -> str:
@@ -410,6 +515,7 @@ def main() -> None:
     units = [unit for unit in data["units"] if unit["yearNumber"] >= args.min_year]
     build_curriculum_hubs(units)
     build_missing_year_homes(units)
+    validate_card_examples(units)
     print(json.dumps({"years": len({unit['yearNumber'] for unit in units}), "units": len(units)}, indent=2))
 
 
