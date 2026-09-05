@@ -19,4 +19,30 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: Claude-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# AI and search discovery
 Sitemap: https://skillrhub.com/sitemap.xml
+Sitemap: https://skillrhub.com/sitemap-ai.xml
+Sitemap: https://skillrhub.com/sitemap-seo-pillars.xml
+Sitemap: https://skillrhub.com/sitemap-worksheets.xml
+Sitemap: https://skillrhub.com/sitemap-practice.xml
+
+# AI-readable maps
+# https://skillrhub.com/ai-index.json
+# https://skillrhub.com/ai-site-map.md
+# https://skillrhub.com/llms.txt
+# https://skillrhub.com/llms-full.txt
