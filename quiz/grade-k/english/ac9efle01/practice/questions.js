@@ -54,7 +54,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "A story family cooks together. Which response shares a difference?",
-    "explanation": "C — It connects Tia’s feeling and event with a relevant experience.",
+    "explanation": "It connects Tia’s feeling and event with a relevant experience.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -129,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

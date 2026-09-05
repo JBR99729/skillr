@@ -6,7 +6,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which sentence needs a full stop?",
-    "explanation": "D — It reports an observed change in a complete sentence.",
+    "explanation": "It reports an observed change in a complete sentence.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -22,7 +22,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Choose the corrected sentence.",
-    "explanation": "A — “Soil” is relevant learned vocabulary for planting.",
+    "explanation": "“Soil” is relevant learned vocabulary for planting.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -135,4 +135,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

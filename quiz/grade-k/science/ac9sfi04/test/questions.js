@@ -10,11 +10,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "both were the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "BEFORE: metal spoon will feel colder\nAFTER: metal spoon felt colder"
   },
   {
@@ -78,11 +78,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "red",
       "blue",
+      "red",
       "both are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "A 2→2 | B 3→1 | C 0→0"
   },
   {
@@ -146,11 +146,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "both were the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "three trials all show the small ball higher"
   },
   {
@@ -220,11 +220,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "red",
       "blue",
+      "red",
       "both are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "BEFORE: foam ball will bounce high\nAFTER: foam ball did not bounce"
   },
   {
@@ -288,11 +288,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "both were the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "A red→red | B blue→green | C 5→5"
   },
   {
@@ -356,11 +356,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "red",
       "blue",
+      "red",
       "both are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "three counts all show 4 ants"
   },
   {
@@ -421,4 +421,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

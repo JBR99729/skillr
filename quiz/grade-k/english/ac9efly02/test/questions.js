@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "What should you do while someone else is speaking?",
-    "explanation": "B — Focused attention supports comprehension.",
+    "explanation": "Focused attention supports comprehension.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -38,7 +38,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "You want a turn to speak. What should you do?",
-    "explanation": "C — The stated order gives Lena the current turn.",
+    "explanation": "The stated order gives Lena the current turn.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

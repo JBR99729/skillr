@@ -7,7 +7,7 @@ window.skillrTestQuestions = [
     "skill": "sort visible objects",
     "printable": true,
     "type": "single",
-    "question": "There are 4 apples and 2 bananas. Which group has more?",
+    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
     "visual": "● ● ● ● ■ ■ ■ ■",
     "answers": [
       "apples",
@@ -24,13 +24,13 @@ window.skillrTestQuestions = [
     "skill": "choose sorting rule",
     "printable": true,
     "type": "single",
-    "question": "How many cats are shown? ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Sorting by the feature in the question makes comparison possible."
   },
   {
@@ -40,15 +40,15 @@ window.skillrTestQuestions = [
     "skill": "count category",
     "printable": true,
     "type": "single",
-    "question": "There are 2 cars and 4 bikes. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "Cats: ▲ ▲ ▲ ▲\nDogs: ● ● ● ● ●",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "Count the cat pictures only.",
     "answers": [
-      "cars",
       "bikes",
+      "cars",
       "they are the same"
     ]
   },
@@ -59,14 +59,14 @@ window.skillrTestQuestions = [
     "skill": "compare categories",
     "printable": true,
     "type": "single",
-    "question": "How many stars are shown? ● ● ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
     "visual": "Apples:  ● ● ● ● ● ●\nBananas: ■ ■ ■ ■ ■",
     "answers": [
-      "4",
       "5",
+      "4",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Compare 6 and 5."
   },
   {
@@ -76,7 +76,7 @@ window.skillrTestQuestions = [
     "skill": "recognise equal categories",
     "printable": true,
     "type": "single",
-    "question": "There are 4 apples and 2 bananas. Which group has more?",
+    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
     "visual": "Circles: ● ● ● ● ● ●\nSquares: ■ ■ ■ ■ ■ ■",
     "answers": [
       "apples",
@@ -93,14 +93,14 @@ window.skillrTestQuestions = [
     "skill": "read picture display",
     "printable": true,
     "type": "single",
-    "question": "How many cats are shown? ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
     "visual": "Bikes:    ◆ ◆ ◆ ◆ ◆ ◆\nScooters: ▲ ▲ ▲ ▲",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "6 bikes is more than 4 scooters."
   },
   {
@@ -110,14 +110,14 @@ window.skillrTestQuestions = [
     "skill": "question data can answer",
     "printable": true,
     "type": "single",
-    "question": "There are 2 cars and 4 bikes. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "Circles: ● ● ●\nSquares: ■ ■ ■ ■",
     "answers": [
-      "cars",
       "bikes",
+      "cars",
       "they are the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The display contains counts of circles and squares."
   },
   {
@@ -127,13 +127,13 @@ window.skillrTestQuestions = [
     "skill": "question data cannot answer",
     "printable": true,
     "type": "single",
-    "question": "How many stars are shown? ● ● ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
     "answers": [
-      "4",
       "5",
+      "4",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A picture count does not provide mass information."
   },
   {
@@ -143,7 +143,7 @@ window.skillrTestQuestions = [
     "skill": "update display",
     "printable": true,
     "type": "single",
-    "question": "There are 4 apples and 2 bananas. Which group has more?",
+    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
     "visual": "Before: ▲ ▲ ▲ ▲ ▲   Add: ▲",
     "correct": 0,
     "tolerance": 0,
@@ -162,13 +162,13 @@ window.skillrTestQuestions = [
     "skill": "consistent sorting rule",
     "printable": true,
     "type": "single",
-    "question": "How many cats are shown? ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A consistent rule lets categories be compared."
   },
   {
@@ -178,14 +178,14 @@ window.skillrTestQuestions = [
     "skill": "sort and count labels",
     "printable": true,
     "type": "single",
-    "question": "There are 2 cars and 4 bikes. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "book, puzzle, book, book, puzzle",
     "answers": [
-      "cars",
       "bikes",
+      "cars",
       "they are the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Count each label in its category."
   },
   {
@@ -195,13 +195,13 @@ window.skillrTestQuestions = [
     "skill": "different useful sorts",
     "printable": true,
     "type": "single",
-    "question": "How many stars are shown? ● ● ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
     "answers": [
-      "4",
       "5",
+      "4",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The useful rule depends on the investigation question."
   },
   {
@@ -211,7 +211,7 @@ window.skillrTestQuestions = [
     "skill": "identify data error",
     "printable": true,
     "type": "single",
-    "question": "There are 4 apples and 2 bananas. Which group has more?",
+    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
     "visual": "● ● ● ●",
     "answers": [
       "apples",
@@ -228,14 +228,14 @@ window.skillrTestQuestions = [
     "skill": "select evidence statements",
     "printable": true,
     "type": "single",
-    "question": "How many cats are shown? ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
     "visual": "Cars: ■ ■ ■ ■\nBikes: ◆ ◆",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The rows show 4 cars and 2 bikes."
   },
   {
@@ -245,18 +245,18 @@ window.skillrTestQuestions = [
     "skill": "data investigation sequence",
     "printable": true,
     "type": "single",
-    "question": "There are 2 cars and 4 bikes. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "items": [
       "Compare the groups",
       "Sort or record the objects",
       "Ask a question"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "Ask, organise, then compare.",
     "answers": [
-      "cars",
       "bikes",
+      "cars",
       "they are the same"
     ]
   },
@@ -267,13 +267,13 @@ window.skillrTestQuestions = [
     "skill": "conclusion with evidence",
     "printable": true,
     "type": "single",
-    "question": "How many stars are shown? ● ● ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
     "answers": [
-      "4",
       "5",
+      "4",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A data conclusion should quote the relevant counts."
   },
   {
@@ -283,7 +283,7 @@ window.skillrTestQuestions = [
     "skill": "sort visible objects",
     "printable": true,
     "type": "single",
-    "question": "There are 4 apples and 2 bananas. Which group has more?",
+    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
     "visual": "● ● ● ● ■ ■",
     "answers": [
       "apples",
@@ -300,13 +300,13 @@ window.skillrTestQuestions = [
     "skill": "choose sorting rule",
     "printable": true,
     "type": "single",
-    "question": "How many cats are shown? ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Sorting by the feature in the question makes comparison possible."
   },
   {
@@ -316,15 +316,15 @@ window.skillrTestQuestions = [
     "skill": "count category",
     "printable": true,
     "type": "single",
-    "question": "There are 2 cars and 4 bikes. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "Cats: ▲ ▲ ▲ ▲ ▲\nDogs: ● ●",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "Count the cat pictures only.",
     "answers": [
-      "cars",
       "bikes",
+      "cars",
       "they are the same"
     ]
   },
@@ -335,14 +335,14 @@ window.skillrTestQuestions = [
     "skill": "compare categories",
     "printable": true,
     "type": "single",
-    "question": "How many stars are shown? ● ● ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
     "visual": "Apples:  ● ● ● ● ● ● ●\nBananas: ■ ■ ■ ■ ■",
     "answers": [
-      "4",
       "5",
+      "4",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Compare 7 and 5."
   },
   {
@@ -352,7 +352,7 @@ window.skillrTestQuestions = [
     "skill": "recognise equal categories",
     "printable": true,
     "type": "single",
-    "question": "There are 4 apples and 2 bananas. Which group has more?",
+    "question": "[Show Group A with 5 counters and Group B with 3 counters.] Which group has more?",
     "visual": "Circles: ● ●\nSquares: ■ ■",
     "answers": [
       "apples",
@@ -369,14 +369,14 @@ window.skillrTestQuestions = [
     "skill": "read picture display",
     "printable": true,
     "type": "single",
-    "question": "How many cats are shown? ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many cats are shown? ● ● ●",
     "visual": "Bikes:    ◆ ◆ ◆ ◆ ◆ ◆\nScooters: ▲ ▲ ▲ ▲",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "6 bikes is more than 4 scooters."
   },
   {
@@ -386,14 +386,14 @@ window.skillrTestQuestions = [
     "skill": "question data can answer",
     "printable": true,
     "type": "single",
-    "question": "There are 2 cars and 4 bikes. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "Circles: ● ● ●\nSquares: ■ ■ ■ ■",
     "answers": [
-      "cars",
       "bikes",
+      "cars",
       "they are the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The display contains counts of circles and squares."
   },
   {
@@ -403,14 +403,13 @@ window.skillrTestQuestions = [
     "skill": "question data cannot answer",
     "printable": true,
     "type": "single",
-    "question": "How many stars are shown? ● ● ● ● ●",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many stars are shown? ● ● ● ● ●",
     "answers": [
-      "4",
       "5",
+      "4",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A picture count does not provide mass information."
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

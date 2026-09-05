@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which text is imaginative?",
-    "explanation": "C — It states testable factual information without invented events.",
+    "explanation": "It states testable factual information without invented events.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -129,4 +129,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

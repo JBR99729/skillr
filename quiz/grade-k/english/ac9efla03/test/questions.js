@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which text might tell a story?",
-    "explanation": "D — The title signals an informational book.",
+    "explanation": "The title signals an informational book.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -138,4 +138,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

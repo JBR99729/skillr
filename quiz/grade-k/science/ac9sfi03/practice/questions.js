@@ -12,8 +12,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "butterfly and magpie",
       "dog and snail",
-      "butterfly and dog",
-      "magpie and snail"
+      "butterfly and dog"
     ],
     "correct": 0,
     "visual": "🦋 🐦 | 🐕 🐌"
@@ -81,8 +80,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "plastic bottle",
       "wooden ruler",
-      "metal key",
-      "all three objects"
+      "metal key"
     ],
     "correct": 0,
     "visual": "📏 🔑 🧴"
@@ -99,8 +97,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "metal key",
       "wooden ruler",
-      "plastic bottle",
-      "none of the objects"
+      "plastic bottle"
     ],
     "correct": 0,
     "visual": "📏 🔑 🧴"
@@ -168,8 +165,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "can fly",
       "feathers, beaks",
-      "wings",
-      "being alive"
+      "wings"
     ],
     "correct": 0,
     "visual": "🐦 🦆 🪶\nfeathers ✓ ✓ ✓ | wings ✓ ✓ ✓ | flies ✓ ✓ ✗"
@@ -203,8 +199,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "5",
       "4",
-      "2",
-      "6"
+      "2"
     ],
     "correct": 0,
     "visual": "🐦 ••••\n🦋 ••\n+ one new observation"
@@ -261,8 +256,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "bee and duck",
       "cat and worm",
-      "bee and cat",
-      "duck and worm"
+      "bee and cat"
     ],
     "correct": 0,
     "visual": "🐝 🦆 | 🐈 🪱"
@@ -330,8 +324,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "metal spoon",
       "glass jar",
-      "fabric scarf",
-      "all three objects"
+      "fabric scarf"
     ],
     "correct": 0,
     "visual": "🫙 🧣 🥄"
@@ -348,8 +341,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fabric scarf",
       "glass jar",
-      "metal spoon",
-      "none of the objects"
+      "metal spoon"
     ],
     "correct": 0,
     "visual": "🫙 🧣 🥄"
@@ -417,8 +409,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "long ears",
       "fur",
-      "four legs",
-      "being alive"
+      "four legs"
     ],
     "correct": 0,
     "visual": "🐈 🐕 🐇\nfur ✓ ✓ ✓ | 4 legs ✓ ✓ ✓ | long ears ✗ ✗ ✓"
@@ -452,8 +443,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "6",
       "5",
-      "3",
-      "7"
+      "3"
     ],
     "correct": 0,
     "visual": "🐝 •••••\n🐞 •••\n+ one new observation"
@@ -510,8 +500,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "moth and parrot",
       "rabbit and lizard",
-      "moth and rabbit",
-      "parrot and lizard"
+      "moth and rabbit"
     ],
     "correct": 0,
     "visual": "🦋 🦜 | 🐇 🦎"
@@ -579,8 +568,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "plastic cup",
       "rubber band",
-      "wooden block",
-      "all three objects"
+      "wooden block"
     ],
     "correct": 0,
     "visual": "⭕ 🧱 🥤"
@@ -597,8 +585,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "wooden block",
       "rubber band",
-      "plastic cup",
-      "none of the objects"
+      "plastic cup"
     ],
     "correct": 0,
     "visual": "⭕ 🧱 🥤"
@@ -666,8 +653,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "striped body",
       "fins",
-      "scales",
-      "being alive"
+      "scales"
     ],
     "correct": 0,
     "visual": "🐟 🐟 🐠\nfins ✓ ✓ ✓ | scales ✓ ✓ ✓ | stripes ✗ ✗ ✓"
@@ -701,8 +687,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "3",
       "2",
-      "6",
-      "4"
+      "6"
     ],
     "correct": 0,
     "visual": "🐌 ••\n🪱 ••••••\n+ one new observation"
@@ -759,8 +744,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "dragonfly and owl",
       "frog and mouse",
-      "dragonfly and frog",
-      "owl and mouse"
+      "dragonfly and frog"
     ],
     "correct": 0,
     "visual": "🪰 🦉 | 🐸 🐁"
@@ -828,8 +812,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fabric sock",
       "paper bag",
-      "metal coin",
-      "all three objects"
+      "metal coin"
     ],
     "correct": 0,
     "visual": "🛍️ 🪙 🧦"
@@ -846,8 +829,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "metal coin",
       "paper bag",
-      "fabric sock",
-      "none of the objects"
+      "fabric sock"
     ],
     "correct": 0,
     "visual": "🛍️ 🪙 🧦"
@@ -915,8 +897,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "yellow petals",
       "stem",
-      "petals",
-      "being alive"
+      "petals"
     ],
     "correct": 0,
     "visual": "🌹 🌼 🌻\nstem ✓ ✓ ✓ | petals ✓ ✓ ✓ | yellow ✗ ✗ ✓"
@@ -996,4 +977,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

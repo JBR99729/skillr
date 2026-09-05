@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which is the upper-case form of h?",
-    "explanation": "C — H and h represent the same letter.",
+    "explanation": "H and h represent the same letter.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

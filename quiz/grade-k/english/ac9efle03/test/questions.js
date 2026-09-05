@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Who is a character in this sentence? ‘Tom fed the hen.’",
-    "explanation": "C — It uses compact lines, rhythm and sound patterning typical of a poem.",
+    "explanation": "It uses compact lines, rhythm and sound patterning typical of a poem.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -41,7 +41,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which could be the beginning of a story?",
-    "explanation": "D — It tells something that happens.",
+    "explanation": "It tells something that happens.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -57,7 +57,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which could be the ending of a story?",
-    "explanation": "A — It concludes the established effort and solves the frozen-fountain problem.",
+    "explanation": "It concludes the established effort and solves the frozen-fountain problem.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

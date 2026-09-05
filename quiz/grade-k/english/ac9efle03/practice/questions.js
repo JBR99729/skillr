@@ -6,7 +6,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Who is a character in this sentence? ‘Tom fed the hen.’",
-    "explanation": "A — It presents an imaginative character and event.",
+    "explanation": "It presents an imaginative character and event.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -38,7 +38,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which could be the beginning of a story?",
-    "explanation": "B — It introduces a time, character and event that can begin the story.",
+    "explanation": "It introduces a time, character and event that can begin the story.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -129,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

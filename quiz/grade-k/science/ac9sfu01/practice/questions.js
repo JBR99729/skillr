@@ -12,8 +12,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "feathers",
       "heartbeat",
-      "hunger",
-      "blood"
+      "hunger"
     ],
     "correct": 0,
     "visual": "🦆"
@@ -30,8 +29,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "root",
       "flower",
-      "seed",
-      "bark"
+      "seed"
     ],
     "correct": 0,
     "visual": "🥕"
@@ -82,8 +80,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "two legs / four legs",
       "thoughts",
-      "heartbeat",
-      "age"
+      "heartbeat"
     ],
     "correct": 0,
     "visual": "🧒 🐕"
@@ -185,8 +182,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "mouse",
       "the first item",
-      "the second item",
-      "all items follow"
+      "the second item"
     ],
     "correct": 0,
     "visual": "🦇 🦅 🐁"
@@ -203,8 +199,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "shape and edge",
       "heartbeat and memory",
-      "age and feelings",
-      "hidden cells and thoughts"
+      "age and feelings"
     ],
     "correct": 0,
     "visual": "A: long smooth-edged leaf\nB: round jagged-edged leaf"
@@ -255,8 +250,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fins",
       "thoughts",
-      "hunger",
-      "blood"
+      "hunger"
     ],
     "correct": 0,
     "visual": "🐟"
@@ -273,8 +267,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "leaf",
       "flower",
-      "seed",
-      "bark"
+      "seed"
     ],
     "correct": 0,
     "visual": "🥬"
@@ -325,8 +318,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "feathers / scales",
       "thoughts",
-      "heartbeat",
-      "age"
+      "heartbeat"
     ],
     "correct": 0,
     "visual": "🦆 🐟"
@@ -428,8 +420,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "lizard",
       "the first item",
-      "the second item",
-      "all items follow"
+      "the second item"
     ],
     "correct": 0,
     "visual": "🐈 🐇 🦎"
@@ -446,8 +437,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "colour and petal number",
       "heartbeat and memory",
-      "age and feelings",
-      "hidden cells and thoughts"
+      "age and feelings"
     ],
     "correct": 0,
     "visual": "A: red five-petal flower\nB: yellow many-petal flower"
@@ -498,8 +488,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fur",
       "stomach",
-      "hunger",
-      "blood"
+      "hunger"
     ],
     "correct": 0,
     "visual": "🐈"
@@ -516,8 +505,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fruit",
       "flower",
-      "seed",
-      "bark"
+      "seed"
     ],
     "correct": 0,
     "visual": "🍎"
@@ -568,8 +556,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "short ears / long ears",
       "thoughts",
-      "heartbeat",
-      "age"
+      "heartbeat"
     ],
     "correct": 0,
     "visual": "🐈 🐇"
@@ -671,8 +658,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fern",
       "the first item",
-      "the second item",
-      "all items follow"
+      "the second item"
     ],
     "correct": 0,
     "visual": "🌹 🌼 🌿"
@@ -689,8 +675,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "length and thickness",
       "heartbeat and memory",
-      "age and feelings",
-      "hidden cells and thoughts"
+      "age and feelings"
     ],
     "correct": 0,
     "visual": "A: short thick root\nB: long thin root"
@@ -741,8 +726,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "shell",
       "memory",
-      "hunger",
-      "blood"
+      "hunger"
     ],
     "correct": 0,
     "visual": "🐌"
@@ -759,8 +743,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "stem",
       "flower",
-      "seed",
-      "bark"
+      "seed"
     ],
     "correct": 0,
     "visual": "🥬"
@@ -811,8 +794,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "petals / no petals",
       "thoughts",
-      "heartbeat",
-      "age"
+      "heartbeat"
     ],
     "correct": 0,
     "visual": "🌹 🌱"
@@ -914,8 +896,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "worm",
       "the first item",
-      "the second item",
-      "all items follow"
+      "the second item"
     ],
     "correct": 0,
     "visual": "🕷️ 🪲 🪱"
@@ -932,8 +913,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "width and shade",
       "heartbeat and memory",
-      "age and feelings",
-      "hidden cells and thoughts"
+      "age and feelings"
     ],
     "correct": 0,
     "visual": "A: wide dark leaf\nB: narrow light leaf"
@@ -973,4 +953,3 @@ window.skillrPracticeQuestions = [
     "visual": "🕷️ 🪲 🐜"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

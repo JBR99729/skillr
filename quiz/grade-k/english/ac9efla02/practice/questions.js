@@ -6,7 +6,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which sentence tells a like?",
-    "explanation": "D — “I enjoy” expresses a like.",
+    "explanation": "“I enjoy” expresses a like.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -22,7 +22,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which sentence tells a dislike politely?",
-    "explanation": "A — “I would rather” states a preference without being unkind.",
+    "explanation": "“I would rather” states a preference without being unkind.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -70,7 +70,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which sentence tells a like?",
-    "explanation": "D — It states a preference without dismissing classmates.",
+    "explanation": "It states a preference without dismissing classmates.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

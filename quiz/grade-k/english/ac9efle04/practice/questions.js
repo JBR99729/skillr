@@ -6,7 +6,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which word rhymes with cat?",
-    "explanation": "B — “Moon” and “spoon” share the same ending sound.",
+    "explanation": "“Moon” and “spoon” share the same ending sound.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -41,7 +41,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which line has a repeating rhythm?",
-    "explanation": "C — “Dog” rhymes with “frog” and “log” and fits the sentence.",
+    "explanation": "“Dog” rhymes with “frog” and “log” and fits the sentence.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -89,16 +89,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which second line best echoes the short, repeated beat pattern?",
-    "explanation": "D — Its structure and four repeated sound words mirror the first line.",
+    "explanation": "Its structure and four repeated sound words mirror the first line.",
     "printable": true,
     "type": "single",
     "answers": [
+      "Feet on the floor, stomp-stomp-stomp-stomp.",
       "The weather report is on the noticeboard.",
-      "Yesterday we discovered an enormous umbrella.",
-      "A butterfly rested silently near us.",
-      "Feet on the floor, stomp-stomp-stomp-stomp."
+      "Yesterday we discovered an enormous umbrella."
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efle04-p07",
@@ -133,4 +132,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

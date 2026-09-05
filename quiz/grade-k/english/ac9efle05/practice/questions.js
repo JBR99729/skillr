@@ -22,7 +22,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "The story says the bear finds honey. Which action could show this in a play?",
-    "explanation": "C — It is the central action and resolution of the story.",
+    "explanation": "It is the central action and resolution of the story.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

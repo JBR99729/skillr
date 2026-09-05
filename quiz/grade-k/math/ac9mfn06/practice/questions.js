@@ -9,10 +9,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "Share 2 counters equally between 2 children. How many does each child get?",
     "visual": "● ●\nChildren: ▲ ▲",
-    "correct": 1,
+    "correct": "1",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Deal one at a time. Each child receives 1."
+    "explanation": "Deal one at a time. Each child receives 1.",
+    "modelAnswer": "1"
   },
   {
     "id": "ac9mfn06-p-002",
@@ -21,12 +22,11 @@ window.skillrPracticeQuestions = [
     "skill": "recognise fair share",
     "printable": true,
     "type": "single",
-    "question": "Which arrangement is a fair share of 9 objects between 3 groups?",
+    "question": "[Show A: two groups of 2 counters. Show B: one group of 2 and one group of 3.] Which shows equal groups?",
     "answers": [
       "[ ● ● ● ]   [ ● ● ● ]   [ ● ● ● ]",
       "[ ● ● ● ● ]   [ ● ● ● ● ]   [ ● ● ● ● ]",
-      "[ ● ● ● ]   [ ● ● ● ] [ ]",
-      "[ ● ● ]   [ ● ● ]   [ ● ● ]"
+      "[ ● ● ● ]   [ ● ● ● ] [ ]"
     ],
     "correct": 0,
     "explanation": "A fair share has the same number in every group and uses all 9 objects."
@@ -40,13 +40,13 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Share 12 counters equally between 4 children. How many counters does each child get?",
     "visual": "[ ● ● ● ● ]   [ ● ● ● ● ]   [ ● ● ● ● ]   [ ● ● ● ● ]",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "4 equal groups of 4 contain 16.",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ]
   },
@@ -59,10 +59,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "10 buttons are put into groups of 2. How many groups are made?",
     "visual": "[ ■ ■ ]   [ ■ ■ ]   [ ■ ■ ]   [ ■ ■ ]   [ ■ ■ ]",
-    "correct": 5,
+    "correct": "5",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Count groups of 2: there are 5."
+    "explanation": "Count groups of 2: there are 5.",
+    "modelAnswer": "5"
   },
   {
     "id": "ac9mfn06-p-005",
@@ -76,8 +77,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Yes, both groups have 3",
       "Yes, because both use circles",
-      "No, equal groups must be empty",
-      "You cannot compare groups"
+      "No, equal groups must be empty"
     ],
     "correct": 0,
     "explanation": "Each group contains 3."
@@ -93,8 +93,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Give one object to each group in turn",
       "Give everything to the first group",
-      "Guess without checking",
-      "Stop while objects remain"
+      "Guess without checking"
     ],
     "correct": 0,
     "explanation": "Dealing one at a time helps keep shares equal."
@@ -110,8 +109,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Yes",
       "Only if the objects are the same colour",
-      "Always",
-      "Never"
+      "Always"
     ],
     "correct": 0,
     "explanation": "4 divides into equal shares."
@@ -127,8 +125,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "2, 3, 4",
       "3, 3, 3",
-      "Deal one at a time",
-      "Check every child has the same amount"
+      "Deal one at a time"
     ],
     "correct": 0,
     "explanation": "The amounts 2, 3, 4 are not equal."
@@ -142,11 +139,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Share 2 counters equally between 2 children. How many counters does each child get?",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Sharing asks how many each recipient gets."
   },
   {
@@ -158,11 +155,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Make groups of 2 using 6 counters. How many equal groups can you make?",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Grouping fixes the group size and asks for the number of groups."
   },
   {
@@ -175,11 +172,11 @@ window.skillrPracticeQuestions = [
     "question": "Share 12 counters equally between 4 children. How many counters does each child get?",
     "visual": "[ ● ● ● ]   [ ● ● ● ]   [ ● ● ● ]",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "3 groups of 3 total 9."
   },
   {
@@ -191,11 +188,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Make groups of 1 using 2 counters. How many equal groups can you make?",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "16 can be shared equally; one remains."
   },
   {
@@ -207,11 +204,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Share 6 counters equally between 3 children. How many counters does each child get?",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "In each selected arrangement, every group has the same size."
   },
   {
@@ -227,12 +224,12 @@ window.skillrPracticeQuestions = [
       "Give one object to each group",
       "Repeat until all 9 objects are used"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "Deal in turns, use all objects, then check.",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ]
   },
@@ -247,8 +244,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Count every object: the total is 16",
       "Add the group count and group size every time",
-      "Only count one group",
-      "The total is 4"
+      "Only count one group"
     ],
     "correct": 0,
     "explanation": "Equal groups must be counted across all groups."
@@ -264,8 +260,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Everyone receives the same number",
       "The stickers are colourful",
-      "The first child was served first",
-      "There are three children"
+      "The first child was served first"
     ],
     "correct": 0,
     "explanation": "Fair sharing means equal amounts."
@@ -279,10 +274,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "Share 3 counters equally between 3 children. How many does each child get?",
     "visual": "● ● ●\nChildren: ▲ ▲ ▲",
-    "correct": 1,
+    "correct": "1",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Deal one at a time. Each child receives 1."
+    "explanation": "Deal one at a time. Each child receives 1.",
+    "modelAnswer": "1"
   },
   {
     "id": "ac9mfn06-p-018",
@@ -293,11 +289,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Make groups of 2 using 6 counters. How many equal groups can you make?",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A fair share has the same number in every group and uses all 16 objects."
   },
   {
@@ -309,13 +305,13 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Share 12 counters equally between 4 children. How many counters does each child get?",
     "visual": "[ ● ● ]   [ ● ● ]   [ ● ● ]   [ ● ● ]",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "4 equal groups of 2 contain 8.",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ]
   },
@@ -328,13 +324,13 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Make groups of 1 using 2 counters. How many equal groups can you make?",
     "visual": "[ ■ ■ ■ ]   [ ■ ■ ■ ]   [ ■ ■ ■ ]   [ ■ ■ ■ ]   [ ■ ■ ■ ]",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "Count groups of 3: there are 5.",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ]
   },
@@ -350,8 +346,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Yes, both groups have 4",
       "Yes, because both use circles",
-      "No, equal groups must be empty",
-      "You cannot compare groups"
+      "No, equal groups must be empty"
     ],
     "correct": 0,
     "explanation": "Each group contains 4."
@@ -367,8 +362,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Give one object to each group in turn",
       "Give everything to the first group",
-      "Guess without checking",
-      "Stop while objects remain"
+      "Guess without checking"
     ],
     "correct": 0,
     "explanation": "Dealing one at a time helps keep shares equal."
@@ -384,8 +378,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Yes",
       "Only if the objects are the same colour",
-      "Always",
-      "Never"
+      "Always"
     ],
     "correct": 0,
     "explanation": "8 divides into equal shares."
@@ -401,8 +394,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "2, 3, 4",
       "3, 3, 3",
-      "Deal one at a time",
-      "Check every child has the same amount"
+      "Deal one at a time"
     ],
     "correct": 0,
     "explanation": "The amounts 2, 3, 4 are not equal."
@@ -416,11 +408,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Share 2 counters equally between 2 children. How many counters does each child get?",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Sharing asks how many each recipient gets."
   },
   {
@@ -432,11 +424,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Make groups of 2 using 6 counters. How many equal groups can you make?",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Grouping fixes the group size and asks for the number of groups."
   },
   {
@@ -449,11 +441,11 @@ window.skillrPracticeQuestions = [
     "question": "Share 12 counters equally between 4 children. How many counters does each child get?",
     "visual": "[ ● ● ● ● ]   [ ● ● ● ● ]   [ ● ● ● ● ]",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "3 groups of 4 total 12."
   },
   {
@@ -467,8 +459,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "1 counter is left over",
       "Every group gets one extra",
-      "No counters are used",
-      "The groups must be different colours"
+      "No counters are used"
     ],
     "correct": 0,
     "explanation": "4 can be shared equally; one remains."
@@ -482,11 +473,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Share 6 counters equally between 3 children. How many counters does each child get?",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "In each selected arrangement, every group has the same size."
   },
   {
@@ -502,12 +493,12 @@ window.skillrPracticeQuestions = [
       "Give one object to each group",
       "Repeat until all 16 objects are used"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "Deal in turns, use all objects, then check.",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ]
   },
@@ -522,8 +513,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Count every object: the total is 4",
       "Add the group count and group size every time",
-      "Only count one group",
-      "The total is 2"
+      "Only count one group"
     ],
     "correct": 0,
     "explanation": "Equal groups must be counted across all groups."
@@ -539,8 +529,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Everyone receives the same number",
       "The stickers are colourful",
-      "The first child was served first",
-      "There are three children"
+      "The first child was served first"
     ],
     "correct": 0,
     "explanation": "Fair sharing means equal amounts."
@@ -554,10 +543,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "Share 4 counters equally between 4 children. How many does each child get?",
     "visual": "● ● ● ●\nChildren: ▲ ▲ ▲ ▲",
-    "correct": 1,
+    "correct": "1",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Deal one at a time. Each child receives 1."
+    "explanation": "Deal one at a time. Each child receives 1.",
+    "modelAnswer": "1"
   },
   {
     "id": "ac9mfn06-p-034",
@@ -566,12 +556,11 @@ window.skillrPracticeQuestions = [
     "skill": "recognise fair share",
     "printable": true,
     "type": "single",
-    "question": "Which arrangement is a fair share of 4 objects between 2 groups?",
+    "question": "[Show A: two groups of 2 counters. Show B: one group of 2 and one group of 3.] Which shows equal groups?",
     "answers": [
       "[ ● ● ]   [ ● ● ]",
       "[ ● ● ● ]   [ ● ● ● ]",
-      "[ ● ● ] [ ]",
-      "[ ● ]   [ ● ]"
+      "[ ● ● ] [ ]"
     ],
     "correct": 0,
     "explanation": "A fair share has the same number in every group and uses all 4 objects."
@@ -585,13 +574,13 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Share 12 counters equally between 4 children. How many counters does each child get?",
     "visual": "[ ● ● ● ]   [ ● ● ● ]   [ ● ● ● ]   [ ● ● ● ]",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "4 equal groups of 3 contain 12.",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ]
   },
@@ -604,13 +593,13 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Make groups of 1 using 2 counters. How many equal groups can you make?",
     "visual": "[ ■ ■ ■ ■ ]   [ ■ ■ ■ ■ ]   [ ■ ■ ■ ■ ]   [ ■ ■ ■ ■ ]   [ ■ ■ ■ ■ ]",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "Count groups of 4: there are 5.",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ]
   },
@@ -626,8 +615,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Yes, both groups have 2",
       "Yes, because both use circles",
-      "No, equal groups must be empty",
-      "You cannot compare groups"
+      "No, equal groups must be empty"
     ],
     "correct": 0,
     "explanation": "Each group contains 2."
@@ -643,8 +631,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Give one object to each group in turn",
       "Give everything to the first group",
-      "Guess without checking",
-      "Stop while objects remain"
+      "Guess without checking"
     ],
     "correct": 0,
     "explanation": "Dealing one at a time helps keep shares equal."
@@ -660,8 +647,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Yes",
       "Only if the objects are the same colour",
-      "Always",
-      "Never"
+      "Always"
     ],
     "correct": 0,
     "explanation": "12 divides into equal shares."
@@ -677,8 +663,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "2, 3, 4",
       "3, 3, 3",
-      "Deal one at a time",
-      "Check every child has the same amount"
+      "Deal one at a time"
     ],
     "correct": 0,
     "explanation": "The amounts 2, 3, 4 are not equal."
@@ -692,11 +677,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Share 2 counters equally between 2 children. How many counters does each child get?",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Sharing asks how many each recipient gets."
   },
   {
@@ -708,11 +693,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Make groups of 2 using 6 counters. How many equal groups can you make?",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Grouping fixes the group size and asks for the number of groups."
   },
   {
@@ -725,11 +710,11 @@ window.skillrPracticeQuestions = [
     "question": "Share 12 counters equally between 4 children. How many counters does each child get?",
     "visual": "[ ● ● ]   [ ● ● ]   [ ● ● ]",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "3 groups of 2 total 6."
   },
   {
@@ -743,8 +728,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "1 counter is left over",
       "Every group gets one extra",
-      "No counters are used",
-      "The groups must be different colours"
+      "No counters are used"
     ],
     "correct": 0,
     "explanation": "9 can be shared equally; one remains."
@@ -758,11 +742,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Share 6 counters equally between 3 children. How many counters does each child get?",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "In each selected arrangement, every group has the same size."
   },
   {
@@ -778,12 +762,12 @@ window.skillrPracticeQuestions = [
       "Give one object to each group",
       "Repeat until all 4 objects are used"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "Deal in turns, use all objects, then check.",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ]
   },
@@ -798,8 +782,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Count every object: the total is 9",
       "Add the group count and group size every time",
-      "Only count one group",
-      "The total is 3"
+      "Only count one group"
     ],
     "correct": 0,
     "explanation": "Equal groups must be counted across all groups."
@@ -815,8 +798,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Everyone receives the same number",
       "The stickers are colourful",
-      "The first child was served first",
-      "There are three children"
+      "The first child was served first"
     ],
     "correct": 0,
     "explanation": "Fair sharing means equal amounts."
@@ -830,10 +812,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "Share 2 counters equally between 2 children. How many does each child get?",
     "visual": "● ●\nChildren: ▲ ▲",
-    "correct": 1,
+    "correct": "1",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Deal one at a time. Each child receives 1."
+    "explanation": "Deal one at a time. Each child receives 1.",
+    "modelAnswer": "1"
   },
   {
     "id": "ac9mfn06-p-050",
@@ -842,12 +825,11 @@ window.skillrPracticeQuestions = [
     "skill": "recognise fair share",
     "printable": true,
     "type": "single",
-    "question": "Which arrangement is a fair share of 9 objects between 3 groups?",
+    "question": "[Show A: two groups of 2 counters. Show B: one group of 2 and one group of 3.] Which shows equal groups?",
     "answers": [
       "[ ● ● ● ]   [ ● ● ● ]   [ ● ● ● ]",
       "[ ● ● ● ● ]   [ ● ● ● ● ]   [ ● ● ● ● ]",
-      "[ ● ● ● ]   [ ● ● ● ] [ ]",
-      "[ ● ● ]   [ ● ● ]   [ ● ● ]"
+      "[ ● ● ● ]   [ ● ● ● ] [ ]"
     ],
     "correct": 0,
     "explanation": "A fair share has the same number in every group and uses all 9 objects."
@@ -861,13 +843,13 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Share 12 counters equally between 4 children. How many counters does each child get?",
     "visual": "[ ● ● ● ● ]   [ ● ● ● ● ]   [ ● ● ● ● ]   [ ● ● ● ● ]",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "4 equal groups of 4 contain 16.",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ]
   },
@@ -880,10 +862,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "10 buttons are put into groups of 2. How many groups are made?",
     "visual": "[ ■ ■ ]   [ ■ ■ ]   [ ■ ■ ]   [ ■ ■ ]   [ ■ ■ ]",
-    "correct": 5,
+    "correct": "5",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Count groups of 2: there are 5."
+    "explanation": "Count groups of 2: there are 5.",
+    "modelAnswer": "5"
   },
   {
     "id": "ac9mfn06-p-053",
@@ -897,8 +880,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Yes, both groups have 3",
       "Yes, because both use circles",
-      "No, equal groups must be empty",
-      "You cannot compare groups"
+      "No, equal groups must be empty"
     ],
     "correct": 0,
     "explanation": "Each group contains 3."
@@ -914,8 +896,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Give one object to each group in turn",
       "Give everything to the first group",
-      "Guess without checking",
-      "Stop while objects remain"
+      "Guess without checking"
     ],
     "correct": 0,
     "explanation": "Dealing one at a time helps keep shares equal."
@@ -931,8 +912,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Yes",
       "Only if the objects are the same colour",
-      "Always",
-      "Never"
+      "Always"
     ],
     "correct": 0,
     "explanation": "4 divides into equal shares."
@@ -948,11 +928,9 @@ window.skillrPracticeQuestions = [
     "answers": [
       "2, 3, 4",
       "3, 3, 3",
-      "Deal one at a time",
-      "Check every child has the same amount"
+      "Deal one at a time"
     ],
     "correct": 0,
     "explanation": "The amounts 2, 3, 4 are not equal."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

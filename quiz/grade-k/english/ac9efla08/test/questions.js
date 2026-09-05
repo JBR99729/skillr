@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which word names something used for writing?",
-    "explanation": "A — In a weather context, a shower is a brief fall of rain.",
+    "explanation": "In a weather context, a shower is a brief fall of rain.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -73,7 +73,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which word names something used for writing?",
-    "explanation": "B — “Under” precisely describes the toy’s location.",
+    "explanation": "“Under” precisely describes the toy’s location.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "What is the purpose of a story?",
-    "explanation": "B — Imagined character and events signal narrative entertainment.",
+    "explanation": "Imagined character and events signal narrative entertainment.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -22,7 +22,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "What is the purpose of a book about frogs?",
-    "explanation": "C — It uses ordered directions to guide an action.",
+    "explanation": "It uses ordered directions to guide an action.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

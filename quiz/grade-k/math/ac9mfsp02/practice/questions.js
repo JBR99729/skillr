@@ -12,8 +12,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "above the box",
       "below the box",
-      "inside the box",
-      "behind the box"
+      "inside the box"
     ],
     "correct": 0,
     "explanation": "Over means above."
@@ -30,8 +29,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "below",
       "above",
-      "inside",
-      "between"
+      "inside"
     ],
     "correct": 0,
     "explanation": "Under and below describe the teddy's position."
@@ -48,8 +46,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "between them",
       "above them",
-      "inside both",
-      "behind them"
+      "inside both"
     ],
     "correct": 0,
     "explanation": "The circle is between the two shapes."
@@ -82,8 +79,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "outside",
       "inside",
-      "between",
-      "below"
+      "between"
     ],
     "correct": 0,
     "explanation": "The ball is outside the classroom."
@@ -99,8 +95,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "behind the tree",
       "in front of the tree",
-      "inside the tree",
-      "above the tree"
+      "inside the tree"
     ],
     "correct": 0,
     "explanation": "The child is behind the tree."
@@ -117,8 +112,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "beside",
       "above",
-      "inside",
-      "between"
+      "inside"
     ],
     "correct": 0,
     "explanation": "Next to and beside have the same meaning."
@@ -135,8 +129,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "right of the circle",
       "left of the circle",
-      "above the circle",
-      "inside the circle"
+      "above the circle"
     ],
     "correct": 0,
     "explanation": "The star is on the circle's right."
@@ -174,8 +167,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "right square",
       "left square",
-      "centre square",
-      "above square"
+      "centre square"
     ],
     "correct": 0,
     "explanation": "Moving right changes the robot's horizontal position."
@@ -213,8 +205,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "move right",
       "move left",
-      "move down",
-      "stay still"
+      "move down"
     ],
     "correct": 0,
     "explanation": "The target is on the right."
@@ -230,8 +221,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "They are looking from different viewpoints",
       "The chair moved by itself",
-      "Left and right mean the same",
-      "Only Ava can be correct"
+      "Left and right mean the same"
     ],
     "correct": 0,
     "explanation": "Left and right can depend on viewing direction."
@@ -243,13 +233,12 @@ window.skillrPracticeQuestions = [
     "skill": "correct location mistake",
     "printable": true,
     "type": "single",
-    "question": "Mia says the ball is inside the box, but the picture shows it beside the box. Which word is correct?",
+    "question": "[Show a clear visual that exactly matches the question and choices.] Mia says the ball is inside the box, but the picture shows it beside the box. Which word is correct?",
     "visual": "[ □ ]   ●",
     "answers": [
       "beside",
       "inside",
-      "above",
-      "between"
+      "above"
     ],
     "correct": 0,
     "explanation": "The ball is next to, not contained by, the box."
@@ -304,8 +293,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "above the box",
       "below the box",
-      "inside the box",
-      "behind the box"
+      "inside the box"
     ],
     "correct": 0,
     "explanation": "Over means above."
@@ -322,8 +310,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "below",
       "above",
-      "inside",
-      "between"
+      "inside"
     ],
     "correct": 0,
     "explanation": "Under and below describe the teddy's position."
@@ -340,8 +327,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "between them",
       "above them",
-      "inside both",
-      "behind them"
+      "inside both"
     ],
     "correct": 0,
     "explanation": "The circle is between the two shapes."
@@ -374,8 +360,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "outside",
       "inside",
-      "between",
-      "below"
+      "between"
     ],
     "correct": 0,
     "explanation": "The ball is outside the classroom."
@@ -391,8 +376,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "behind the tree",
       "in front of the tree",
-      "inside the tree",
-      "above the tree"
+      "inside the tree"
     ],
     "correct": 0,
     "explanation": "The child is behind the tree."
@@ -409,8 +393,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "beside",
       "above",
-      "inside",
-      "between"
+      "inside"
     ],
     "correct": 0,
     "explanation": "Next to and beside have the same meaning."
@@ -427,8 +410,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "right of the circle",
       "left of the circle",
-      "above the circle",
-      "inside the circle"
+      "above the circle"
     ],
     "correct": 0,
     "explanation": "The star is on the circle's right."
@@ -466,8 +448,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "right square",
       "left square",
-      "centre square",
-      "above square"
+      "centre square"
     ],
     "correct": 0,
     "explanation": "Moving right changes the robot's horizontal position."
@@ -505,8 +486,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "move right",
       "move left",
-      "move down",
-      "stay still"
+      "move down"
     ],
     "correct": 0,
     "explanation": "The target is on the right."
@@ -522,8 +502,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "They are looking from different viewpoints",
       "The chair moved by itself",
-      "Left and right mean the same",
-      "Only Ava can be correct"
+      "Left and right mean the same"
     ],
     "correct": 0,
     "explanation": "Left and right can depend on viewing direction."
@@ -535,13 +514,12 @@ window.skillrPracticeQuestions = [
     "skill": "correct location mistake",
     "printable": true,
     "type": "single",
-    "question": "Mia says the ball is inside the box, but the picture shows it beside the box. Which word is correct?",
+    "question": "[Show a clear visual that exactly matches the question and choices.] Mia says the ball is inside the box, but the picture shows it beside the box. Which word is correct?",
     "visual": "[ □ ]   ●",
     "answers": [
       "beside",
       "inside",
-      "above",
-      "between"
+      "above"
     ],
     "correct": 0,
     "explanation": "The ball is next to, not contained by, the box."
@@ -596,8 +574,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "above the box",
       "below the box",
-      "inside the box",
-      "behind the box"
+      "inside the box"
     ],
     "correct": 0,
     "explanation": "Over means above."
@@ -614,8 +591,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "below",
       "above",
-      "inside",
-      "between"
+      "inside"
     ],
     "correct": 0,
     "explanation": "Under and below describe the teddy's position."
@@ -632,8 +608,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "between them",
       "above them",
-      "inside both",
-      "behind them"
+      "inside both"
     ],
     "correct": 0,
     "explanation": "The circle is between the two shapes."
@@ -666,8 +641,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "outside",
       "inside",
-      "between",
-      "below"
+      "between"
     ],
     "correct": 0,
     "explanation": "The ball is outside the classroom."
@@ -683,8 +657,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "behind the tree",
       "in front of the tree",
-      "inside the tree",
-      "above the tree"
+      "inside the tree"
     ],
     "correct": 0,
     "explanation": "The child is behind the tree."
@@ -701,8 +674,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "beside",
       "above",
-      "inside",
-      "between"
+      "inside"
     ],
     "correct": 0,
     "explanation": "Next to and beside have the same meaning."
@@ -719,8 +691,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "right of the circle",
       "left of the circle",
-      "above the circle",
-      "inside the circle"
+      "above the circle"
     ],
     "correct": 0,
     "explanation": "The star is on the circle's right."
@@ -758,8 +729,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "right square",
       "left square",
-      "centre square",
-      "above square"
+      "centre square"
     ],
     "correct": 0,
     "explanation": "Moving right changes the robot's horizontal position."
@@ -797,8 +767,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "move right",
       "move left",
-      "move down",
-      "stay still"
+      "move down"
     ],
     "correct": 0,
     "explanation": "The target is on the right."
@@ -814,8 +783,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "They are looking from different viewpoints",
       "The chair moved by itself",
-      "Left and right mean the same",
-      "Only Ava can be correct"
+      "Left and right mean the same"
     ],
     "correct": 0,
     "explanation": "Left and right can depend on viewing direction."
@@ -827,13 +795,12 @@ window.skillrPracticeQuestions = [
     "skill": "correct location mistake",
     "printable": true,
     "type": "single",
-    "question": "Mia says the ball is inside the box, but the picture shows it beside the box. Which word is correct?",
+    "question": "[Show a clear visual that exactly matches the question and choices.] Mia says the ball is inside the box, but the picture shows it beside the box. Which word is correct?",
     "visual": "[ □ ]   ●",
     "answers": [
       "beside",
       "inside",
-      "above",
-      "between"
+      "above"
     ],
     "correct": 0,
     "explanation": "The ball is next to, not contained by, the box."
@@ -888,8 +855,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "above the box",
       "below the box",
-      "inside the box",
-      "behind the box"
+      "inside the box"
     ],
     "correct": 0,
     "explanation": "Over means above."
@@ -906,8 +872,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "below",
       "above",
-      "inside",
-      "between"
+      "inside"
     ],
     "correct": 0,
     "explanation": "Under and below describe the teddy's position."
@@ -924,8 +889,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "between them",
       "above them",
-      "inside both",
-      "behind them"
+      "inside both"
     ],
     "correct": 0,
     "explanation": "The circle is between the two shapes."
@@ -958,8 +922,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "outside",
       "inside",
-      "between",
-      "below"
+      "between"
     ],
     "correct": 0,
     "explanation": "The ball is outside the classroom."
@@ -975,8 +938,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "behind the tree",
       "in front of the tree",
-      "inside the tree",
-      "above the tree"
+      "inside the tree"
     ],
     "correct": 0,
     "explanation": "The child is behind the tree."
@@ -993,8 +955,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "beside",
       "above",
-      "inside",
-      "between"
+      "inside"
     ],
     "correct": 0,
     "explanation": "Next to and beside have the same meaning."
@@ -1011,11 +972,9 @@ window.skillrPracticeQuestions = [
     "answers": [
       "right of the circle",
       "left of the circle",
-      "above the circle",
-      "inside the circle"
+      "above the circle"
     ],
     "correct": 0,
     "explanation": "The star is on the circle's right."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

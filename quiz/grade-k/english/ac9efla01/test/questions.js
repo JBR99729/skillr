@@ -6,15 +6,15 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "You need help from your teacher. What could you say?",
-    "explanation": "D — It names the teacher, explains the need and asks politely.",
+    "explanation": "It names the teacher, explains the need and asks politely.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Help me now!",
       "Can you help me, please?",
+      "Help me now!",
       "I have a bag."
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9efla01-e02",
@@ -73,10 +73,10 @@ window.skillrTestQuestions = [
     "explanation": "Two clear, appropriate sentences with distinguishable forms of address or level of formality. Example: “Grandpa, look what I drew!” and “Excuse me, Principal Lee, may I show you my drawing?” Award 1 mark for each suitable sentence and 1 mark for a meaningful difference; 3 marks total.",
     "printable": true,
     "type": "single",
-    "correct": 1,
+    "correct": 0,
     "answers": [
-      "Help me now!",
       "Can you help me, please?",
+      "Help me now!",
       "I have a bag."
     ]
   },
@@ -129,4 +129,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

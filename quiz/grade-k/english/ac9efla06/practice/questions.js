@@ -6,7 +6,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Choose the words that complete the sentence: The ___ runs.",
-    "explanation": "D — The words are grouped and ordered to tell who and what happens.",
+    "explanation": "The words are grouped and ordered to tell who and what happens.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -89,7 +89,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which words tell what Mia does? Mia sings a song.",
-    "explanation": "A — Each group contributes accurate information about who, what and where.",
+    "explanation": "Each group contributes accurate information about who, what and where.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

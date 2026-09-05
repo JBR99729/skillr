@@ -6,16 +6,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which word rhymes with cake?",
-    "explanation": "C — “Cake” and “lake” share the /ake/ rime.",
+    "explanation": "“Cake” and “lake” share the /ake/ rime.",
     "printable": true,
     "type": "single",
     "answers": [
-      "fish",
-      "cup",
       "lake",
-      "moon"
+      "fish",
+      "cup"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9efly09-p02",
@@ -39,16 +38,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which phrase repeats the same beginning sound most strongly?",
-    "explanation": "D — The three content words begin with /s/.",
+    "explanation": "The three content words begin with /s/.",
     "printable": true,
     "type": "single",
     "answers": [
+      "six sleepy seals",
       "jump and clap",
-      "big red kite",
-      "moon over water",
-      "six sleepy seals"
+      "big red kite"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efly09-p04",
@@ -59,11 +57,11 @@ window.skillrPracticeQuestions = [
     "explanation": "/f/. Award 1 mark. Accept the sound, not the letter name.",
     "printable": true,
     "type": "single",
-    "correct": 2,
+    "correct": 0,
     "answers": [
+      "sun",
       "dog",
-      "log",
-      "sun"
+      "log"
     ]
   },
   {
@@ -123,12 +121,11 @@ window.skillrPracticeQuestions = [
     "explanation": "1 mark for three meaningful or playful /m/-initial words, 1 mark for a valid rhyme with day, 1 mark for a coherent/performance-ready line, and 1 mark for correctly identifying the sound features; 4 marks total.",
     "printable": true,
     "type": "single",
-    "correct": 2,
+    "correct": 0,
     "answers": [
+      "sun",
       "dog",
-      "log",
-      "sun"
+      "log"
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

@@ -6,14 +6,13 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which opening clearly tells peers what the report is about?",
-    "explanation": "A — It introduces the topic and event directly.",
+    "explanation": "It introduces the topic and event directly.",
     "printable": true,
     "type": "single",
     "answers": [
       "Today I will tell you how our class made fruit salad.",
       "Um, there was stuff and things.",
-      "Guess what I might say.",
-      "My report has ended."
+      "Guess what I might say."
     ],
     "correct": 0
   },
@@ -130,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

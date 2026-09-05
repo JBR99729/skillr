@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which sentence needs a full stop?",
-    "explanation": "B — It records a measured observation using topic vocabulary.",
+    "explanation": "It records a measured observation using topic vocabulary.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -135,4 +135,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

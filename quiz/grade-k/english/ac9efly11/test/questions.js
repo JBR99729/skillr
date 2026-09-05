@@ -73,7 +73,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which is the lower-case form of B?",
-    "explanation": "D — G commonly represents /g/ at the start of goat.",
+    "explanation": "G commonly represents /g/ at the start of goat.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -135,4 +135,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

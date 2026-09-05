@@ -6,16 +6,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "A classmate is explaining a drawing. Which action best shows listening?",
-    "explanation": "D — Attention and waiting allow the classmate’s message to be heard.",
+    "explanation": "Attention and waiting allow the classmate’s message to be heard.",
     "printable": true,
     "type": "single",
     "answers": [
+      "Face the speaker and wait until they finish.",
       "Call out a new idea over the speaker.",
-      "Start a different conversation.",
-      "Cover the drawing and sing.",
-      "Face the speaker and wait until they finish."
+      "Start a different conversation."
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efly02-p02",
@@ -55,14 +54,13 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which situation is most structured, with an expected order for speaking?",
-    "explanation": "A — Morning circle has an organised purpose and turn sequence.",
+    "explanation": "Morning circle has an organised purpose and turn sequence.",
     "printable": true,
     "type": "single",
     "answers": [
       "Each child shares one observation during morning circle.",
       "Two friends invent a game at recess.",
-      "Siblings chat while drawing at home.",
-      "Children laugh together on the swings."
+      "Siblings chat while drawing at home."
     ],
     "correct": 0
   },
@@ -131,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

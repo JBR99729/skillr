@@ -6,7 +6,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which text might tell a story?",
-    "explanation": "A — The notice uses words to communicate a message.",
+    "explanation": "The notice uses words to communicate a message.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -22,16 +22,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which description best matches a printed storybook?",
-    "explanation": "B — A printed storybook is a text made from organised pages.",
+    "explanation": "A printed storybook is a text made from organised pages.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A bell that rings at lunchtime",
       "Bound pages with words or pictures that tell a story",
-      "A box used to store pencils",
-      "A song heard without any words or pictures"
+      "A bell that rings at lunchtime",
+      "A box used to store pencils"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9efla03-p07",
@@ -39,7 +38,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which text could you read on a tablet?",
-    "explanation": "D — A nearby sign can give the warning quickly.",
+    "explanation": "A nearby sign can give the warning quickly.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -71,14 +70,13 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "A family wants to share a made-up adventure before sleep. Which item is most clearly suited to that purpose?",
-    "explanation": "A — The storybook contains an imaginative text for shared reading.",
+    "explanation": "The storybook contains an imaginative text for shared reading.",
     "printable": true,
     "type": "single",
     "answers": [
       "A picture storybook about a flying boat",
       "A “Staff only” sign",
-      "A bus timetable",
-      "A label that says “Flour”"
+      "A bus timetable"
     ],
     "correct": 0
   },
@@ -120,7 +118,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which text helps you remember what to buy?",
-    "explanation": "C — Its short message, arrow and public location support directions.",
+    "explanation": "Its short message, arrow and public location support directions.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -131,4 +129,3 @@ window.skillrPracticeQuestions = [
     "correct": 0
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

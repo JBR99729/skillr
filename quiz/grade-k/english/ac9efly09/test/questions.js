@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which word rhymes with sun?",
-    "explanation": "A — “Star” and “car” share the ending /ar/ sound in Australian English.",
+    "explanation": "“Star” and “car” share the ending /ar/ sound in Australian English.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -54,15 +54,15 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which word does not rhyme with the others?",
-    "explanation": "B — “Deep” begins /d/ and sensibly describes digging.",
+    "explanation": "“Deep” begins /d/ and sensibly describes digging.",
     "printable": true,
     "type": "single",
     "answers": [
+      "sun",
       "dog",
-      "log",
-      "sun"
+      "log"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9efly09-e05",
@@ -121,12 +121,11 @@ window.skillrTestQuestions = [
     "explanation": "1 mark each for two valid rhyming words; 1 mark each for two words sharing an initial phoneme but with different rimes; 1 mark for correct grouping; 1 mark for accurate explanation of both rules; 6 marks total.",
     "printable": true,
     "type": "single",
-    "correct": 2,
+    "correct": 0,
     "answers": [
+      "sun",
       "dog",
-      "log",
-      "sun"
+      "log"
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

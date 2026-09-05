@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which is a clear opening for a short talk about a pet?",
-    "explanation": "B — It directly reports an observation from the walk.",
+    "explanation": "It directly reports an observation from the walk.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -41,7 +41,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which sentence reports an event in order?",
-    "explanation": "C — It summarises the observed test outcome.",
+    "explanation": "It summarises the observed test outcome.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

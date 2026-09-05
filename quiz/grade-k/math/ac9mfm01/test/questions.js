@@ -10,11 +10,11 @@ window.skillrTestQuestions = [
     "question": "One ribbon is 4 blocks long. Another ribbon is 7 blocks long. Which ribbon is longer?",
     "visual": "A: |————|\nB: |——————|",
     "answers": [
-      "the 4-block ribbon",
       "the 7-block ribbon",
+      "the 4-block ribbon",
       "they are the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Line B reaches farther from the common starting point."
   },
   {
@@ -28,8 +28,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Line up one end of each ribbon",
       "Compare colours",
-      "Hold one farther away",
-      "Count the letters in their names"
+      "Hold one farther away"
     ],
     "correct": 0,
     "explanation": "A fair direct comparison uses the same starting point."
@@ -45,8 +44,7 @@ window.skillrTestQuestions = [
     "answers": [
       "6-cube train",
       "8-cube train",
-      "They are equal",
-      "The brighter train"
+      "They are equal"
     ],
     "correct": 0,
     "explanation": "Fewer equal cubes make the shorter train."
@@ -62,8 +60,7 @@ window.skillrTestQuestions = [
     "answers": [
       "The rock",
       "The sponge",
-      "They are equal",
-      "The balance cannot compare mass"
+      "They are equal"
     ],
     "correct": 0,
     "explanation": "The heavier side of a balance moves down."
@@ -79,8 +76,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Lift one in each hand",
       "Line up their ends",
-      "Pour water between them",
-      "Count how long they last"
+      "Pour water between them"
     ],
     "correct": 0,
     "explanation": "Hefting compares how heavy or light the bags feel."
@@ -96,8 +92,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Cup B",
       "Cup A",
-      "They are equal",
-      "The taller cup always wins"
+      "They are equal"
     ],
     "correct": 0,
     "explanation": "Cup B holds more equal scoops."
@@ -113,8 +108,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Fill one and pour into the other",
       "Compare only their height",
-      "Compare colours",
-      "Line up their bases only"
+      "Compare colours"
     ],
     "correct": 0,
     "explanation": "Using the same liquid shows which container holds more."
@@ -130,8 +124,7 @@ window.skillrTestQuestions = [
     "answers": [
       "No, compare how much each holds",
       "Yes, the taller cup always holds more",
-      "Yes, the wider cup always holds more",
-      "Containers cannot be compared"
+      "Yes, the wider cup always holds more"
     ],
     "correct": 0,
     "explanation": "Container shape can be misleading."
@@ -145,11 +138,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "One ribbon is 4 blocks long. Another ribbon is 7 blocks long. Which ribbon is longer?",
     "answers": [
-      "the 4-block ribbon",
       "the 7-block ribbon",
+      "the 4-block ribbon",
       "they are the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "21 seconds is longer than 16."
   },
   {
@@ -163,8 +156,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Singing a whole song",
       "Clapping once",
-      "They always take the same time",
-      "Neither is an event"
+      "They always take the same time"
     ],
     "correct": 0,
     "explanation": "A whole song continues much longer than one clap."
@@ -180,8 +172,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Start both at the same time",
       "Start one much later",
-      "Compare colours",
-      "Measure mass"
+      "Compare colours"
     ],
     "correct": 0,
     "explanation": "Starting together makes the comparison fair."
@@ -195,10 +186,10 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which takes longer: a clap or singing a song?",
     "answers": [
-      "a clap",
-      "singing a song"
+      "singing a song",
+      "a clap"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Duration is the relevant attribute."
   },
   {
@@ -212,8 +203,7 @@ window.skillrTestQuestions = [
     "answers": [
       "The starting points are different",
       "The pencils have colours",
-      "Pencils cannot be compared",
-      "Only mass can be compared"
+      "Pencils cannot be compared"
     ],
     "correct": 0,
     "explanation": "Length comparisons need a common starting point."
@@ -227,10 +217,10 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which takes longer: a clap or singing a song?",
     "answers": [
-      "a clap",
-      "singing a song"
+      "singing a song",
+      "a clap"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Aligned starts and equal units support fair comparisons."
   },
   {
@@ -259,8 +249,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Not always; compare mass directly",
       "Always true",
-      "Only colour matters",
-      "Mass cannot be compared"
+      "Only colour matters"
     ],
     "correct": 0,
     "explanation": "Size and mass are different attributes."
@@ -275,11 +264,11 @@ window.skillrTestQuestions = [
     "question": "One ribbon is 4 blocks long. Another ribbon is 7 blocks long. Which ribbon is longer?",
     "visual": "A: |————|\nB: |——————|",
     "answers": [
-      "the 4-block ribbon",
       "the 7-block ribbon",
+      "the 4-block ribbon",
       "they are the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Line B reaches farther from the common starting point."
   },
   {
@@ -293,8 +282,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Line up one end of each ribbon",
       "Compare colours",
-      "Hold one farther away",
-      "Count the letters in their names"
+      "Hold one farther away"
     ],
     "correct": 0,
     "explanation": "A fair direct comparison uses the same starting point."
@@ -310,8 +298,7 @@ window.skillrTestQuestions = [
     "answers": [
       "6-cube train",
       "8-cube train",
-      "They are equal",
-      "The brighter train"
+      "They are equal"
     ],
     "correct": 0,
     "explanation": "Fewer equal cubes make the shorter train."
@@ -327,8 +314,7 @@ window.skillrTestQuestions = [
     "answers": [
       "The rock",
       "The sponge",
-      "They are equal",
-      "The balance cannot compare mass"
+      "They are equal"
     ],
     "correct": 0,
     "explanation": "The heavier side of a balance moves down."
@@ -344,8 +330,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Lift one in each hand",
       "Line up their ends",
-      "Pour water between them",
-      "Count how long they last"
+      "Pour water between them"
     ],
     "correct": 0,
     "explanation": "Hefting compares how heavy or light the bags feel."
@@ -361,8 +346,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Cup B",
       "Cup A",
-      "They are equal",
-      "The taller cup always wins"
+      "They are equal"
     ],
     "correct": 0,
     "explanation": "Cup B holds more equal scoops."
@@ -378,8 +362,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Fill one and pour into the other",
       "Compare only their height",
-      "Compare colours",
-      "Line up their bases only"
+      "Compare colours"
     ],
     "correct": 0,
     "explanation": "Using the same liquid shows which container holds more."
@@ -395,11 +378,9 @@ window.skillrTestQuestions = [
     "answers": [
       "No, compare how much each holds",
       "Yes, the taller cup always holds more",
-      "Yes, the wider cup always holds more",
-      "Containers cannot be compared"
+      "Yes, the wider cup always holds more"
     ],
     "correct": 0,
     "explanation": "Container shape can be misleading."
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

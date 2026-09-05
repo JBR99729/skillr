@@ -41,7 +41,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which word has the middle sound /i/?",
-    "explanation": "C — h-o-t represents /h/ /o/ /t/ in sequence and blends to hot.",
+    "explanation": "h-o-t represents /h/ /o/ /t/ in sequence and blends to hot.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -73,7 +73,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Blend c-a-t. Which word is it?",
-    "explanation": "D — The middle sound in lid is /i/, represented by i.",
+    "explanation": "The middle sound in lid is /i/, represented by i.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

@@ -11,8 +11,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Which ball rolls farther down the ramp?",
       "The ball is red",
-      "The ramp is long",
-      "I like the round ball"
+      "The ramp is long"
     ],
     "correct": 0,
     "visual": "⚽  /",
@@ -29,8 +28,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Which object reaches the bottom first?",
       "What happens to everything?",
-      "Are ramps fun?",
-      "Why are shapes different?"
+      "Are ramps fun?"
     ],
     "correct": 0,
     "visual": "⚽ ▪️  /",
@@ -47,8 +45,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "the distance each ball travels",
       "the colour of each ball",
-      "the name of each child",
-      "the sound of the classroom bell"
+      "the name of each child"
     ],
     "correct": 0,
     "visual": "⚽ ───── | 🏀 ───",
@@ -65,8 +62,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "I think the ball will reach the bottom first",
       "The ball reached the bottom first",
-      "The ramp is made of wood",
-      "We used two objects"
+      "The ramp is made of wood"
     ],
     "correct": 0,
     "visual": "⚽ ▪️  /",
@@ -83,8 +79,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The rubber ball bounced higher",
       "I think the rubber ball will bounce higher",
-      "The rubber ball might win",
-      "I hope the ball bounces"
+      "The rubber ball might win"
     ],
     "correct": 0,
     "visual": "🔵 ↑↑ | 🟤 ↑",
@@ -135,8 +130,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "How far does each toy car travel down the ramp?",
       "Is science good?",
-      "Why are toys toys?",
-      "What colour do I like?"
+      "Why are toys toys?"
     ],
     "correct": 0,
     "visual": "🚗 /",
@@ -153,8 +147,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The ball will travel farther than the block",
       "The ball is good",
-      "The ball is round",
-      "The block is not my favourite"
+      "The ball is round"
     ],
     "correct": 0,
     "visual": "⚽ ▪️",
@@ -260,8 +253,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Which fabric absorbs more water?",
       "The fabric is blue",
-      "Water is wet",
-      "This fabric is pretty"
+      "Water is wet"
     ],
     "correct": 0,
     "visual": "▦ 💧 ▦",
@@ -278,8 +270,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Which towel absorbs more water?",
       "What is paper?",
-      "Which towel looks nicest?",
-      "Why do people clean?"
+      "Which towel looks nicest?"
     ],
     "correct": 0,
     "visual": "▤ 💧 ▤",
@@ -296,8 +287,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "the time when each cube becomes liquid",
       "the shape of the tray",
-      "the colour of the table",
-      "the number of windows"
+      "the colour of the table"
     ],
     "correct": 0,
     "visual": "🧊 ⏱️ 🧊",
@@ -314,8 +304,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "I think the sponge will absorb more water",
       "The sponge absorbed 20 drops",
-      "The sponge is yellow",
-      "The cup contains water"
+      "The sponge is yellow"
     ],
     "correct": 0,
     "visual": "🧽 💧 ▤",
@@ -332,8 +321,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "I think the paper boat will float",
       "The paper boat floated",
-      "The bowl contains water",
-      "The boat is folded paper"
+      "The bowl contains water"
     ],
     "correct": 0,
     "visual": "⛵ 💧",
@@ -384,8 +372,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Which plant grows taller after one week?",
       "Are plants nice?",
-      "Why is green green?",
-      "What is everything doing?"
+      "Why is green green?"
     ],
     "correct": 0,
     "visual": "🌱 | 🌿",
@@ -402,8 +389,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The seed in light will sprout before the seed in darkness",
       "Something will happen",
-      "Seeds are interesting",
-      "The pots might be nice"
+      "Seeds are interesting"
     ],
     "correct": 0,
     "visual": "☀️🌱 | 🌑🌱",
@@ -420,8 +406,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "the amount of water absorbed by each towel",
       "the towel brand name only",
-      "the observer's favourite colour",
-      "the classroom temperature only"
+      "the observer's favourite colour"
     ],
     "correct": 0,
     "visual": "▤ 💧 ▤",
@@ -460,8 +445,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "a statement about a known result",
       "a new prediction",
-      "an investigable question",
-      "a safety rule"
+      "an investigable question"
     ],
     "correct": 0,
     "visual": "pod → ••••••",
@@ -478,8 +462,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The plant near light may grow toward it because I have seen seedlings bend toward windows",
       "It will grow because green is nice",
-      "It will grow because Tuesday comes next",
-      "It will grow because I guessed"
+      "It will grow because Tuesday comes next"
     ],
     "correct": 0,
     "visual": "🌱 → ☀️",
@@ -512,8 +495,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Do seeds sprout faster in light or dark?",
       "The seeds are small",
-      "The jar is clear",
-      "Plants are interesting"
+      "The jar is clear"
     ],
     "correct": 0,
     "visual": "☀️🌱 | 🌑🌱",
@@ -530,8 +512,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Which place has more insects?",
       "What is outside?",
-      "Are insects good?",
-      "Why is the schoolyard big?"
+      "Are insects good?"
     ],
     "correct": 0,
     "visual": "🌳 🐜 | 🪨 🐞",
@@ -548,8 +529,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "the ant count at each place",
       "a list of favourite animals",
-      "the height of the observer",
-      "the colour of the soil only"
+      "the height of the observer"
     ],
     "correct": 0,
     "visual": "tree: |||| | rock: ||",
@@ -566,8 +546,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "I think we will find insects under the log",
       "We found three beetles",
-      "The log is brown",
-      "The beetle has six legs"
+      "The log is brown"
     ],
     "correct": 0,
     "visual": "🪵 ?",
@@ -584,8 +563,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "We observed five worms",
       "I predict we will find worms",
-      "I think the damp place will have more worms",
-      "We may find fewer worms near the path"
+      "I think the damp place will have more worms"
     ],
     "correct": 0,
     "visual": "🪱🪱🪱🪱🪱",
@@ -602,8 +580,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "They have noticed worms in damp places before",
       "Damp is a funny word",
-      "The child likes worms",
-      "The dry soil is lighter in colour"
+      "The child likes worms"
     ],
     "correct": 0,
     "visual": "wet soil 🪱 | dry soil",
@@ -637,8 +614,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Does the paper umbrella keep the toy dry for one minute?",
       "Is paper fun?",
-      "Why is the toy small?",
-      "Does water exist?"
+      "Why is the toy small?"
     ],
     "correct": 0,
     "visual": "☂️ 🧸 💧",
@@ -655,8 +631,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The sponge will absorb more drops than the plastic sheet",
       "The sponge will win",
-      "Water will do something",
-      "Plastic has a smooth surface"
+      "Water will do something"
     ],
     "correct": 0,
     "visual": "🧽 💧 plastic",
@@ -712,8 +687,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The ice in sunlight melted first",
       "I think the sunny ice will melt first",
-      "The ice might melt tomorrow",
-      "Sunlight is my favourite"
+      "The ice might melt tomorrow"
     ],
     "correct": 0,
     "visual": "☀️💧 | 🌳🧊",
@@ -763,8 +737,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "What material is this spoon made from?",
       "The spoon is shiny",
-      "The spoon is on a tray",
-      "I use a spoon at lunch"
+      "The spoon is on a tray"
     ],
     "correct": 0,
     "visual": "🥄",
@@ -781,8 +754,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Which object bounces higher?",
       "Which object has a name?",
-      "Are objects useful?",
-      "What colour is fun?"
+      "Are objects useful?"
     ],
     "correct": 0,
     "visual": "🟤  🔵",
@@ -799,8 +771,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "whether water passes through each material",
       "which material has the longest name",
-      "who touched the material",
-      "the day of the week only"
+      "who touched the material"
     ],
     "correct": 0,
     "visual": "💧 → fabric?",
@@ -817,8 +788,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "I think the ice in sunlight will melt first",
       "The sunny ice melted first",
-      "The ice cubes are the same size",
-      "The shade is under a tree"
+      "The ice cubes are the same size"
     ],
     "correct": 0,
     "visual": "☀️🧊 | 🌳🧊",
@@ -835,8 +805,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The rough ramp may slow the car",
       "The rough ramp slowed the car",
-      "The car stopped after 30 cm",
-      "The ramp felt rough"
+      "The car stopped after 30 cm"
     ],
     "correct": 0,
     "visual": "🚗 /",
@@ -904,8 +873,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "More birds will visit the feeder with seed",
       "Birds are wonderful",
-      "The feeder looks best",
-      "Seeds have many shapes"
+      "The feeder looks best"
     ],
     "correct": 0,
     "visual": "feeder+seed | empty feeder",
@@ -1000,4 +968,3 @@ window.skillrPracticeQuestions = [
     "id": "ac9sfi01-p-056"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

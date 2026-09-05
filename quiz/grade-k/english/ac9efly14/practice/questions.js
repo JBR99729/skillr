@@ -41,16 +41,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which word joins the two things that were packed?",
-    "explanation": "C — and joins “an apple” with “a pear”.",
+    "explanation": "and joins “an apple” with “a pear”.",
     "printable": true,
     "type": "single",
     "answers": [
-      "packed",
-      "apple",
       "and",
-      "pear"
+      "packed",
+      "apple"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9efly14-p04",
@@ -74,7 +73,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which word says the?",
-    "explanation": "D — The capital word I names the speaker and completes “I can go to the mat.”",
+    "explanation": "The capital word I names the speaker and completes “I can go to the mat.”",
     "printable": true,
     "type": "single",
     "answers": [
@@ -133,4 +132,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

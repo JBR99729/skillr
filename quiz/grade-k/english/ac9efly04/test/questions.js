@@ -38,7 +38,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which word completes the sentence? The pig is in the ___.",
-    "explanation": "D — Milk is not normally stored in a sock, so the reader should recheck that word/source text.",
+    "explanation": "Milk is not normally stored in a sock, so the reader should recheck that word/source text.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -86,7 +86,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Read: ‘Sam pats the cat.’ Who pats the cat?",
-    "explanation": "A — “Two cats sit” matches plural grammar and the intended present action.",
+    "explanation": "“Two cats sit” matches plural grammar and the intended present action.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -129,4 +129,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

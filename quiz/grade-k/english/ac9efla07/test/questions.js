@@ -5,8 +5,8 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9EFLA07",
     "bank": "test",
     "sourceType": "Multiple choice",
-    "question": "A picture shows a wet dog. The words say, ‘The dog shook off the rain.’ What does the picture help you see?",
-    "explanation": "C — It shows the animal active after sunset.",
+    "question": "[Show the picture or short text needed for the question.] A picture shows a wet dog. The words say, ‘The dog shook off the rain.’ What does the picture help you see?",
+    "explanation": "It shows the animal active after sunset.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -40,8 +40,8 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9EFLA07",
     "bank": "test",
     "sourceType": "Multiple choice",
-    "question": "A picture shows three ducks. What can the picture tell you?",
-    "explanation": "D — The arrows visually connect stages and directions.",
+    "question": "[Show the picture or short text needed for the question.] A picture shows three ducks. What can the picture tell you?",
+    "explanation": "The arrows visually connect stages and directions.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -72,7 +72,7 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9EFLA07",
     "bank": "test",
     "sourceType": "Extended response",
-    "question": "A picture shows a wet dog. The words say, ‘The dog shook off the rain.’ What does the picture help you see?",
+    "question": "[Show the picture or short text needed for the question.] A picture shows a wet dog. The words say, ‘The dog shook off the rain.’ What does the picture help you see?",
     "explanation": "1 mark each for two useful improvements such as ordering the images, adding arrows, numbering stages or adding simple labels; 1 mark for explaining how one change supports sequence/meaning; 3 marks total.",
     "printable": true,
     "type": "single",
@@ -104,7 +104,7 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9EFLA07",
     "bank": "test",
     "sourceType": "Extended response",
-    "question": "A picture shows three ducks. What can the picture tell you?",
+    "question": "[Show the picture or short text needed for the question.] A picture shows three ducks. What can the picture tell you?",
     "explanation": "1 mark for predicting a kitten/friendly animal in A; 1 mark for linking that to the tail; 1 mark for predicting something unknown/frightening in B; 1 mark for linking that to the dark claw-shaped shadow; 1 mark for contrasting the likely gentle versus suspenseful mood; 5 marks total.",
     "printable": true,
     "type": "single",
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

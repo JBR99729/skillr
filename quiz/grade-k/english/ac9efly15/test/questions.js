@@ -25,7 +25,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which word means more than one cat?",
-    "explanation": "A — ed marks the action as completed in the past in this regular word.",
+    "explanation": "ed marks the action as completed in the past in this regular word.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -73,7 +73,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "What does the s tell us in dogs?",
-    "explanation": "B — rabbit carries the animal meaning and s adds “more than one”; syllable beats do not necessarily mark meaningful parts.",
+    "explanation": "rabbit carries the animal meaning and s adds “more than one”; syllable beats do not necessarily mark meaningful parts.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

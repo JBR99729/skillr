@@ -9,10 +9,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "3 ducks are in a pond. 1 more swim in. How many ducks are there now?",
     "visual": "Before: ▲ ▲ ▲\nJoin:   ▲",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The collection grows: 3+1=4."
+    "explanation": "The collection grows: 3+1=4.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfn05-p-002",
@@ -23,10 +24,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "7 blocks are on the mat. 2 are taken away. How many remain?",
     "visual": "Start: ■ ■ ■ ■ ■ ■ ■\nTaken: × ×",
-    "correct": 5,
+    "correct": "5",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Remove 2 from 7; 5 remain."
+    "explanation": "Remove 2 from 7; 5 remain.",
+    "modelAnswer": "5"
   },
   {
     "id": "ac9mfn05-p-003",
@@ -37,11 +39,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 4 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "4",
       "7",
+      "4",
       "8"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Joining combines the starting group and the new group."
   },
   {
@@ -53,11 +55,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 5 blocks. He gets 1 more. How many blocks does he have now?",
     "answers": [
-      "5",
       "6",
+      "5",
       "7"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Leaving makes the collection smaller."
   },
   {
@@ -69,11 +71,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "6",
       "8",
+      "6",
       "9"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The plus sign represents joining."
   },
   {
@@ -85,11 +87,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 2 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "2",
       "5",
+      "2",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The subtraction sentence shows the starting amount, removal and result."
   },
   {
@@ -120,8 +122,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "8",
       "2",
-      "10",
-      "9"
+      "10"
     ],
     "correct": 0,
     "explanation": "10-2=8."
@@ -135,10 +136,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "There were 4 toy cars. Now there are 8. How many joined?",
     "visual": "Before: ■ ■ ■ ■\nAfter:  ■ ■ ■ ■ ■ ■ ■ ■",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The change is 8-4=4."
+    "explanation": "The change is 8-4=4.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfn05-p-010",
@@ -149,10 +151,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "There were 8 apples. Now there are 3. How many were removed?",
     "visual": "Before: ● ● ● ● ● ● ● ●\nAfter:  ● ● ●",
-    "correct": 5,
+    "correct": "5",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "8-5=3."
+    "explanation": "8-5=3.",
+    "modelAnswer": "5"
   },
   {
     "id": "ac9mfn05-p-011",
@@ -165,8 +168,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Separate or subtract",
       "Join or add",
-      "Partition a fixed whole without change",
-      "Compare colours"
+      "Partition a fixed whole without change"
     ],
     "correct": 0,
     "explanation": "The number of birds decreases because some leave."
@@ -182,8 +184,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Join or add",
       "Separate or subtract",
-      "Ignore the new children",
-      "Only compare the two groups"
+      "Ignore the new children"
     ],
     "correct": 0,
     "explanation": "The collection increases because more children arrive."
@@ -197,11 +198,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "6",
       "8",
+      "6",
       "9"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Different sensible strategies can reach the same result."
   },
   {
@@ -215,8 +216,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "2 counters were removed",
       "2 counters joined",
-      "The counters were spread out",
-      "The counter colour changed"
+      "The counters were spread out"
     ],
     "correct": 0,
     "explanation": "The quantity decreased by 2."
@@ -230,11 +230,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 3 blocks. He gets 1 more. How many blocks does he have now?",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Use the meaning of the situation: did objects join, leave or stay the same?"
   },
   {
@@ -246,11 +246,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 4 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "4",
       "6",
+      "4",
       "7"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The words and the addition sentence describe the same change."
   },
   {
@@ -262,10 +262,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "7 ducks are in a pond. 1 more swim in. How many ducks are there now?",
     "visual": "Before: ▲ ▲ ▲ ▲ ▲ ▲ ▲\nJoin:   ▲",
-    "correct": 8,
+    "correct": "8",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The collection grows: 7+1=8."
+    "explanation": "The collection grows: 7+1=8.",
+    "modelAnswer": "8"
   },
   {
     "id": "ac9mfn05-p-018",
@@ -276,10 +277,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "8 blocks are on the mat. 2 are taken away. How many remain?",
     "visual": "Start: ■ ■ ■ ■ ■ ■ ■ ■\nTaken: × ×",
-    "correct": 6,
+    "correct": "6",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Remove 2 from 8; 6 remain."
+    "explanation": "Remove 2 from 8; 6 remain.",
+    "modelAnswer": "6"
   },
   {
     "id": "ac9mfn05-p-019",
@@ -290,11 +292,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 4 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "4",
       "7",
+      "4",
       "8"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Joining combines the starting group and the new group."
   },
   {
@@ -306,11 +308,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 5 blocks. He gets 1 more. How many blocks does he have now?",
     "answers": [
-      "5",
       "6",
+      "5",
       "7"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Leaving makes the collection smaller."
   },
   {
@@ -322,11 +324,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "6",
       "8",
+      "6",
       "9"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The plus sign represents joining."
   },
   {
@@ -338,11 +340,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 2 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "2",
       "5",
+      "2",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The subtraction sentence shows the starting amount, removal and result."
   },
   {
@@ -356,8 +358,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "9",
       "7",
-      "8",
-      "10"
+      "8"
     ],
     "correct": 0,
     "explanation": "Counting on 2 from 7 reaches 9."
@@ -374,8 +375,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "7",
       "3",
-      "10",
-      "8"
+      "10"
     ],
     "correct": 0,
     "explanation": "10-3=7."
@@ -389,10 +389,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "There were 4 toy cars. Now there are 6. How many joined?",
     "visual": "Before: ■ ■ ■ ■\nAfter:  ■ ■ ■ ■ ■ ■",
-    "correct": 2,
+    "correct": "2",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The change is 6-4=2."
+    "explanation": "The change is 6-4=2.",
+    "modelAnswer": "2"
   },
   {
     "id": "ac9mfn05-p-026",
@@ -403,10 +404,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "There were 8 apples. Now there are 4. How many were removed?",
     "visual": "Before: ● ● ● ● ● ● ● ●\nAfter:  ● ● ● ●",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "8-4=4."
+    "explanation": "8-4=4.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfn05-p-027",
@@ -419,8 +421,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Separate or subtract",
       "Join or add",
-      "Partition a fixed whole without change",
-      "Compare colours"
+      "Partition a fixed whole without change"
     ],
     "correct": 0,
     "explanation": "The number of birds decreases because some leave."
@@ -436,8 +437,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Join or add",
       "Separate or subtract",
-      "Ignore the new children",
-      "Only compare the two groups"
+      "Ignore the new children"
     ],
     "correct": 0,
     "explanation": "The collection increases because more children arrive."
@@ -451,11 +451,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "6",
       "8",
+      "6",
       "9"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Different sensible strategies can reach the same result."
   },
   {
@@ -469,8 +469,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "2 counters were removed",
       "2 counters joined",
-      "The counters were spread out",
-      "The counter colour changed"
+      "The counters were spread out"
     ],
     "correct": 0,
     "explanation": "The quantity decreased by 2."
@@ -484,11 +483,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 3 blocks. He gets 1 more. How many blocks does he have now?",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Use the meaning of the situation: did objects join, leave or stay the same?"
   },
   {
@@ -500,11 +499,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 4 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "4",
       "6",
+      "4",
       "7"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The words and the addition sentence describe the same change."
   },
   {
@@ -516,10 +515,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "5 ducks are in a pond. 1 more swim in. How many ducks are there now?",
     "visual": "Before: ▲ ▲ ▲ ▲ ▲\nJoin:   ▲",
-    "correct": 6,
+    "correct": "6",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The collection grows: 5+1=6."
+    "explanation": "The collection grows: 5+1=6.",
+    "modelAnswer": "6"
   },
   {
     "id": "ac9mfn05-p-034",
@@ -530,10 +530,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "9 blocks are on the mat. 2 are taken away. How many remain?",
     "visual": "Start: ■ ■ ■ ■ ■ ■ ■ ■ ■\nTaken: × ×",
-    "correct": 7,
+    "correct": "7",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Remove 2 from 9; 7 remain."
+    "explanation": "Remove 2 from 9; 7 remain.",
+    "modelAnswer": "7"
   },
   {
     "id": "ac9mfn05-p-035",
@@ -544,11 +545,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 4 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "4",
       "7",
+      "4",
       "8"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Joining combines the starting group and the new group."
   },
   {
@@ -560,11 +561,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 5 blocks. He gets 1 more. How many blocks does he have now?",
     "answers": [
-      "5",
       "6",
+      "5",
       "7"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Leaving makes the collection smaller."
   },
   {
@@ -576,11 +577,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "6",
       "8",
+      "6",
       "9"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The plus sign represents joining."
   },
   {
@@ -592,11 +593,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 2 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "2",
       "5",
+      "2",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The subtraction sentence shows the starting amount, removal and result."
   },
   {
@@ -610,8 +611,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "11",
       "8",
-      "10",
-      "12"
+      "10"
     ],
     "correct": 0,
     "explanation": "Counting on 3 from 8 reaches 11."
@@ -642,10 +642,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "There were 4 toy cars. Now there are 7. How many joined?",
     "visual": "Before: ■ ■ ■ ■\nAfter:  ■ ■ ■ ■ ■ ■ ■",
-    "correct": 3,
+    "correct": "3",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The change is 7-4=3."
+    "explanation": "The change is 7-4=3.",
+    "modelAnswer": "3"
   },
   {
     "id": "ac9mfn05-p-042",
@@ -656,10 +657,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "There were 8 apples. Now there are 5. How many were removed?",
     "visual": "Before: ● ● ● ● ● ● ● ●\nAfter:  ● ● ● ● ●",
-    "correct": 3,
+    "correct": "3",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "8-3=5."
+    "explanation": "8-3=5.",
+    "modelAnswer": "3"
   },
   {
     "id": "ac9mfn05-p-043",
@@ -672,8 +674,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Separate or subtract",
       "Join or add",
-      "Partition a fixed whole without change",
-      "Compare colours"
+      "Partition a fixed whole without change"
     ],
     "correct": 0,
     "explanation": "The number of birds decreases because some leave."
@@ -689,8 +690,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Join or add",
       "Separate or subtract",
-      "Ignore the new children",
-      "Only compare the two groups"
+      "Ignore the new children"
     ],
     "correct": 0,
     "explanation": "The collection increases because more children arrive."
@@ -704,11 +704,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "6",
       "8",
+      "6",
       "9"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Different sensible strategies can reach the same result."
   },
   {
@@ -722,8 +722,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "2 counters were removed",
       "2 counters joined",
-      "The counters were spread out",
-      "The counter colour changed"
+      "The counters were spread out"
     ],
     "correct": 0,
     "explanation": "The quantity decreased by 2."
@@ -737,11 +736,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 3 blocks. He gets 1 more. How many blocks does he have now?",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Use the meaning of the situation: did objects join, leave or stay the same?"
   },
   {
@@ -753,11 +752,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 4 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "4",
       "6",
+      "4",
       "7"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The words and the addition sentence describe the same change."
   },
   {
@@ -769,10 +768,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "3 ducks are in a pond. 1 more swim in. How many ducks are there now?",
     "visual": "Before: ▲ ▲ ▲\nJoin:   ▲",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The collection grows: 3+1=4."
+    "explanation": "The collection grows: 3+1=4.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfn05-p-050",
@@ -783,10 +783,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "10 blocks are on the mat. 2 are taken away. How many remain?",
     "visual": "Start: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■\nTaken: × ×",
-    "correct": 8,
+    "correct": "8",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Remove 2 from 10; 8 remain."
+    "explanation": "Remove 2 from 10; 8 remain.",
+    "modelAnswer": "8"
   },
   {
     "id": "ac9mfn05-p-051",
@@ -797,11 +798,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 4 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "4",
       "7",
+      "4",
       "8"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Joining combines the starting group and the new group."
   },
   {
@@ -813,11 +814,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 5 blocks. He gets 1 more. How many blocks does he have now?",
     "answers": [
-      "5",
       "6",
+      "5",
       "7"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Leaving makes the collection smaller."
   },
   {
@@ -829,11 +830,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "6",
       "8",
+      "6",
       "9"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The plus sign represents joining."
   },
   {
@@ -845,11 +846,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Sam has 2 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "2",
       "5",
+      "2",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The subtraction sentence shows the starting amount, removal and result."
   },
   {
@@ -880,11 +881,9 @@ window.skillrPracticeQuestions = [
     "answers": [
       "8",
       "2",
-      "10",
-      "9"
+      "10"
     ],
     "correct": 0,
     "explanation": "10-2=8."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Before reading a book called ‘The Lost Dog’, what could you predict?",
-    "explanation": "A — This location is directly stated.",
+    "explanation": "This location is directly stated.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -41,7 +41,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Read: ‘A red crab hid under a rock.’ Where was the crab?",
-    "explanation": "B — It targets the unresolved object and sender.",
+    "explanation": "It targets the unresolved object and sender.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

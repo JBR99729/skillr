@@ -10,11 +10,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ● ■ ● ■ ●, ___",
     "visual": "★ ● ● ★ ● ●  ?",
     "answers": [
-      "●",
       "■",
+      "●",
       "▲"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The unit ★ ● ● repeats in the same order."
   },
   {
@@ -27,11 +27,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ★ ★ ● ★ ★, ___",
     "visual": "● ● ■ ● ● ■ ● ● ■",
     "answers": [
-      "★",
       "●",
+      "★",
       "■"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The shortest complete repeating unit is ● ● ■."
   },
   {
@@ -44,11 +44,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
     "visual": "● ■ ? ■",
     "answers": [
-      "▲",
       "◆",
+      "▲",
       "●"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Follow the repeating unit to replace the missing item."
   },
   {
@@ -61,11 +61,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ■ ● ● ■ ●, ___",
     "visual": "★ ● ● ★ ● ◆ ★ ● ●",
     "answers": [
-      "■",
       "●",
+      "■",
       "★"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The item must match the same position in each repeated unit."
   },
   {
@@ -78,11 +78,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ● ■ ● ■ ●, ___",
     "visual": "● ■ ● ■",
     "answers": [
-      "●",
       "■",
+      "●",
       "▲"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Each different symbol can be named with a letter to show the repeating structure."
   },
   {
@@ -94,11 +94,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "What comes next? ★ ★ ● ★ ★, ___",
     "answers": [
-      "★",
       "●",
+      "★",
       "■"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The actions repeat with the same unit length and order."
   },
   {
@@ -110,11 +110,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
     "answers": [
-      "▲",
       "◆",
+      "▲",
       "●"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The same unit occurs again and again."
   },
   {
@@ -126,11 +126,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "What comes next? ■ ● ● ■ ●, ___",
     "answers": [
-      "■",
       "●",
+      "■",
       "★"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A repeating pattern must repeat a unit, not simply contain different items."
   },
   {
@@ -143,11 +143,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ● ■ ● ■ ●, ___",
     "visual": "clap → stamp → clap → stamp → ?",
     "answers": [
-      "●",
       "■",
+      "●",
       "▲"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The body-action unit starts again."
   },
   {
@@ -162,12 +162,12 @@ window.skillrTestQuestions = [
       "◆",
       "▲"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "The unit is ▲ ◆.",
     "answers": [
-      "★",
       "●",
+      "★",
       "■"
     ]
   },
@@ -180,13 +180,13 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
     "visual": "■ ▲ ◆ ■ ▲ ◆ ■ ▲ ◆",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "The shortest repeated section contains 3 items.",
     "answers": [
-      "▲",
       "◆",
+      "▲",
       "●"
     ]
   },
@@ -200,11 +200,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ■ ● ● ■ ●, ___",
     "visual": "▲ ◆ ▲ ◆",
     "answers": [
-      "■",
       "●",
+      "■",
       "★"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A copy keeps the same unit and order."
   },
   {
@@ -217,11 +217,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ● ■ ● ■ ●, ___",
     "visual": "■ ▲ ◆ ■ ▲ ◆  ? ?",
     "answers": [
-      "●",
       "■",
+      "●",
       "▲"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "After a complete unit, the pattern starts again."
   },
   {
@@ -234,11 +234,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ★ ★ ● ★ ★, ___",
     "visual": "◆ ★ ▲ ★ ◆ ★ ▲ ★",
     "answers": [
-      "★",
       "●",
+      "★",
       "■"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A repeating pattern keeps its unit and order."
   },
   {
@@ -251,11 +251,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
     "visual": "▲ ◆ ▲ ◆",
     "answers": [
-      "▲",
       "◆",
+      "▲",
       "●"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The next item depends on position in the repeated unit."
   },
   {
@@ -268,11 +268,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ■ ● ● ■ ●, ___",
     "visual": "◆ ★ ▲ ★ ◆ ★ ▲ ★ ◆ ★ ▲ ★",
     "answers": [
-      "■",
       "●",
+      "■",
       "★"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A complete unit contains every item in the repeated rule once."
   },
   {
@@ -285,11 +285,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ● ■ ● ■ ●, ___",
     "visual": "● ■ ● ■ ● ■  ?",
     "answers": [
-      "●",
       "■",
+      "●",
       "▲"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The unit ● ■ repeats in the same order."
   },
   {
@@ -302,11 +302,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ★ ★ ● ★ ★, ___",
     "visual": "★ ● ● ★ ● ● ★ ● ●",
     "answers": [
-      "★",
       "●",
+      "★",
       "■"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The shortest complete repeating unit is ★ ● ●."
   },
   {
@@ -319,11 +319,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
     "visual": "● ● ? ● ● ■",
     "answers": [
-      "▲",
       "◆",
+      "▲",
       "●"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Follow the repeating unit to replace the missing item."
   },
   {
@@ -336,11 +336,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ■ ● ● ■ ●, ___",
     "visual": "● ■ ● ■ ● ■",
     "answers": [
-      "■",
       "●",
+      "■",
       "★"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The item must match the same position in each repeated unit."
   },
   {
@@ -353,11 +353,11 @@ window.skillrTestQuestions = [
     "question": "What comes next? ● ■ ● ■ ●, ___",
     "visual": "● ● ■ ● ● ■",
     "answers": [
-      "●",
       "■",
+      "●",
       "▲"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Each different symbol can be named with a letter to show the repeating structure."
   },
   {
@@ -369,11 +369,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "What comes next? ★ ★ ● ★ ★, ___",
     "answers": [
-      "★",
       "●",
+      "★",
       "■"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The actions repeat with the same unit length and order."
   },
   {
@@ -385,11 +385,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "What comes next? ▲ ◆ ▲ ◆ ▲, ___",
     "answers": [
-      "▲",
       "◆",
+      "▲",
       "●"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The same unit occurs again and again."
   },
   {
@@ -401,12 +401,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "What comes next? ■ ● ● ■ ●, ___",
     "answers": [
-      "■",
       "●",
+      "■",
       "★"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A repeating pattern must repeat a unit, not simply contain different items."
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

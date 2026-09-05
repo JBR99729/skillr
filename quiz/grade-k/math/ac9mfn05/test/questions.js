@@ -9,10 +9,11 @@ window.skillrTestQuestions = [
     "type": "number",
     "question": "5 ducks are in a pond. 1 more swim in. How many ducks are there now?",
     "visual": "Before: ▲ ▲ ▲ ▲ ▲\nJoin:   ▲",
-    "correct": 6,
+    "correct": "6",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The collection grows: 5+1=6."
+    "explanation": "The collection grows: 5+1=6.",
+    "modelAnswer": "6"
   },
   {
     "id": "ac9mfn05-t-002",
@@ -23,10 +24,11 @@ window.skillrTestQuestions = [
     "type": "number",
     "question": "7 blocks are on the mat. 2 are taken away. How many remain?",
     "visual": "Start: ■ ■ ■ ■ ■ ■ ■\nTaken: × ×",
-    "correct": 5,
+    "correct": "5",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Remove 2 from 7; 5 remain."
+    "explanation": "Remove 2 from 7; 5 remain.",
+    "modelAnswer": "5"
   },
   {
     "id": "ac9mfn05-t-003",
@@ -37,11 +39,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 4 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "4",
       "7",
+      "4",
       "8"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Joining combines the starting group and the new group."
   },
   {
@@ -53,11 +55,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 5 blocks. He gets 1 more. How many blocks does he have now?",
     "answers": [
-      "5",
       "6",
+      "5",
       "7"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Leaving makes the collection smaller."
   },
   {
@@ -69,11 +71,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "6",
       "8",
+      "6",
       "9"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The plus sign represents joining."
   },
   {
@@ -85,11 +87,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 2 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "2",
       "5",
+      "2",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The subtraction sentence shows the starting amount, removal and result."
   },
   {
@@ -103,8 +105,7 @@ window.skillrTestQuestions = [
     "answers": [
       "9",
       "6",
-      "8",
-      "10"
+      "8"
     ],
     "correct": 0,
     "explanation": "Counting on 3 from 6 reaches 9."
@@ -135,10 +136,11 @@ window.skillrTestQuestions = [
     "type": "number",
     "question": "There were 4 toy cars. Now there are 7. How many joined?",
     "visual": "Before: ■ ■ ■ ■\nAfter:  ■ ■ ■ ■ ■ ■ ■",
-    "correct": 3,
+    "correct": "3",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The change is 7-4=3."
+    "explanation": "The change is 7-4=3.",
+    "modelAnswer": "3"
   },
   {
     "id": "ac9mfn05-t-010",
@@ -149,10 +151,11 @@ window.skillrTestQuestions = [
     "type": "number",
     "question": "There were 8 apples. Now there are 5. How many were removed?",
     "visual": "Before: ● ● ● ● ● ● ● ●\nAfter:  ● ● ● ● ●",
-    "correct": 3,
+    "correct": "3",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "8-3=5."
+    "explanation": "8-3=5.",
+    "modelAnswer": "3"
   },
   {
     "id": "ac9mfn05-t-011",
@@ -165,8 +168,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Separate or subtract",
       "Join or add",
-      "Partition a fixed whole without change",
-      "Compare colours"
+      "Partition a fixed whole without change"
     ],
     "correct": 0,
     "explanation": "The number of birds decreases because some leave."
@@ -182,8 +184,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Join or add",
       "Separate or subtract",
-      "Ignore the new children",
-      "Only compare the two groups"
+      "Ignore the new children"
     ],
     "correct": 0,
     "explanation": "The collection increases because more children arrive."
@@ -197,11 +198,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "6",
       "8",
+      "6",
       "9"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Different sensible strategies can reach the same result."
   },
   {
@@ -215,8 +216,7 @@ window.skillrTestQuestions = [
     "answers": [
       "2 counters were removed",
       "2 counters joined",
-      "The counters were spread out",
-      "The counter colour changed"
+      "The counters were spread out"
     ],
     "correct": 0,
     "explanation": "The quantity decreased by 2."
@@ -230,11 +230,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 3 blocks. He gets 1 more. How many blocks does he have now?",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Use the meaning of the situation: did objects join, leave or stay the same?"
   },
   {
@@ -246,11 +246,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 4 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "4",
       "6",
+      "4",
       "7"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The words and the addition sentence describe the same change."
   },
   {
@@ -262,10 +262,11 @@ window.skillrTestQuestions = [
     "type": "number",
     "question": "3 ducks are in a pond. 1 more swim in. How many ducks are there now?",
     "visual": "Before: ▲ ▲ ▲\nJoin:   ▲",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "The collection grows: 3+1=4."
+    "explanation": "The collection grows: 3+1=4.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfn05-t-018",
@@ -276,10 +277,11 @@ window.skillrTestQuestions = [
     "type": "number",
     "question": "8 blocks are on the mat. 2 are taken away. How many remain?",
     "visual": "Start: ■ ■ ■ ■ ■ ■ ■ ■\nTaken: × ×",
-    "correct": 6,
+    "correct": "6",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Remove 2 from 8; 6 remain."
+    "explanation": "Remove 2 from 8; 6 remain.",
+    "modelAnswer": "6"
   },
   {
     "id": "ac9mfn05-t-019",
@@ -290,11 +292,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 4 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "4",
       "7",
+      "4",
       "8"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Joining combines the starting group and the new group."
   },
   {
@@ -306,11 +308,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 5 blocks. He gets 1 more. How many blocks does he have now?",
     "answers": [
-      "5",
       "6",
+      "5",
       "7"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Leaving makes the collection smaller."
   },
   {
@@ -322,11 +324,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 6 blocks. He gets 2 more. How many blocks does he have now?",
     "answers": [
-      "6",
       "8",
+      "6",
       "9"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The plus sign represents joining."
   },
   {
@@ -338,11 +340,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Sam has 2 blocks. He gets 3 more. How many blocks does he have now?",
     "answers": [
-      "2",
       "5",
+      "2",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The subtraction sentence shows the starting amount, removal and result."
   },
   {
@@ -373,11 +375,9 @@ window.skillrTestQuestions = [
     "answers": [
       "8",
       "2",
-      "10",
-      "9"
+      "10"
     ],
     "correct": 0,
     "explanation": "10-2=8."
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

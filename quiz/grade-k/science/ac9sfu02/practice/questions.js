@@ -12,8 +12,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "rolling",
       "melting",
-      "growing",
-      "floating upward"
+      "growing"
     ],
     "correct": 0,
     "visual": "⚽ ↻ →"
@@ -30,8 +29,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "sphere",
       "the flat-faced object",
-      "both must slide",
-      "colour decides"
+      "both must slide"
     ],
     "correct": 0,
     "visual": "● ▣ ramp"
@@ -82,8 +80,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "rubber ball",
       "cloth ball",
-      "both must be equal",
-      "colour decides"
+      "both must be equal"
     ],
     "correct": 0,
     "visual": "🏀 vs 🧶"
@@ -100,8 +97,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "wobbly or curved path; marble rolls more smoothly",
       "both paths must match",
-      "neither can move",
-      "size alone decides"
+      "neither can move"
     ],
     "correct": 0,
     "visual": "🥚 ↪ | ● →"
@@ -118,8 +114,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "It rolls first, then rests or tips",
       "it melts",
-      "colour changes",
-      "it always moves the same"
+      "colour changes"
     ],
     "correct": 0,
     "visual": "🧻"
@@ -221,8 +216,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "shape and material also differ; compare same material and shape in two sizes",
       "large things always move faster",
-      "rewrite the result",
-      "ignore other factors"
+      "rewrite the result"
     ],
     "correct": 0,
     "visual": "large smooth ball beat small crumpled paper"
@@ -263,8 +257,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "spinning",
       "melting",
-      "growing",
-      "floating upward"
+      "growing"
     ],
     "correct": 0,
     "visual": "🔺 ↻"
@@ -281,8 +274,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "marble",
       "the flat-faced object",
-      "both must slide",
-      "colour decides"
+      "both must slide"
     ],
     "correct": 0,
     "visual": "● ▭ ramp"
@@ -350,8 +342,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "curving path; round ball rolls straighter",
       "both paths must match",
-      "neither can move",
-      "size alone decides"
+      "neither can move"
     ],
     "correct": 0,
     "visual": "⬭ ↪ | ● →"
@@ -368,8 +359,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "It rolls first, then rests",
       "it melts",
-      "colour changes",
-      "it always moves the same"
+      "colour changes"
     ],
     "correct": 0,
     "visual": "🥫"
@@ -471,8 +461,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "height also differs; drop both from the same height",
       "large things always move faster",
-      "rewrite the result",
-      "ignore other factors"
+      "rewrite the result"
     ],
     "correct": 0,
     "visual": "rubber ball beat cloth ball but started higher"
@@ -513,8 +502,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "sliding",
       "melting",
-      "growing",
-      "floating upward"
+      "growing"
     ],
     "correct": 0,
     "visual": "▭ →"
@@ -531,8 +519,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "can",
       "the flat-faced object",
-      "both must slide",
-      "colour decides"
+      "both must slide"
     ],
     "correct": 0,
     "visual": "🥫 📕 ramp"
@@ -583,8 +570,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "rubber band ball",
       "paper ball",
-      "both must be equal",
-      "colour decides"
+      "both must be equal"
     ],
     "correct": 0,
     "visual": "⭕ vs 🗞️"
@@ -601,8 +587,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "tumbling path; smooth sphere rolls steadily",
       "both paths must match",
-      "neither can move",
-      "size alone decides"
+      "neither can move"
     ],
     "correct": 0,
     "visual": "🗞️ ↷ | ● →"
@@ -619,8 +604,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "It rolls first, then slides",
       "it melts",
-      "colour changes",
-      "it always moves the same"
+      "colour changes"
     ],
     "correct": 0,
     "visual": "▰"
@@ -722,8 +706,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "shape and floor differ; use the same floor",
       "large things always move faster",
-      "rewrite the result",
-      "ignore other factors"
+      "rewrite the result"
     ],
     "correct": 0,
     "visual": "sphere rolled farther than cube on different floors"
@@ -764,8 +747,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "bouncing",
       "melting",
-      "growing",
-      "floating upward"
+      "growing"
     ],
     "correct": 0,
     "visual": "🏀 ↗↘"
@@ -782,8 +764,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "wheel",
       "the flat-faced object",
-      "both must slide",
-      "colour decides"
+      "both must slide"
     ],
     "correct": 0,
     "visual": "◯ ▬ ramp"
@@ -834,8 +815,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "solid rubber ball",
       "soft beanbag",
-      "both must be equal",
-      "colour decides"
+      "both must be equal"
     ],
     "correct": 0,
     "visual": "🏀 vs 🫘"
@@ -852,8 +832,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "curved path; cylinder may roll straighter",
       "both paths must match",
-      "neither can move",
-      "size alone decides"
+      "neither can move"
     ],
     "correct": 0,
     "visual": "🔺 ↪ | 🥫 →"
@@ -870,8 +849,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "It rolls first, then rests or slides",
       "it melts",
-      "colour changes",
-      "it always moves the same"
+      "colour changes"
     ],
     "correct": 0,
     "visual": "◯"
@@ -973,8 +951,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "push strength differs; use the same release method",
       "large things always move faster",
-      "rewrite the result",
-      "ignore other factors"
+      "rewrite the result"
     ],
     "correct": 0,
     "visual": "toy car travelled farther after a stronger push"
@@ -1004,4 +981,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

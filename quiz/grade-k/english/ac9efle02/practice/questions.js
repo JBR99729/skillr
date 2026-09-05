@@ -6,16 +6,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which response clearly shares a feeling about what happened?",
-    "explanation": "D — It names a feeling and connects it to a story event.",
+    "explanation": "It names a feeling and connects it to a story event.",
     "printable": true,
     "type": "single",
     "answers": [
+      "I felt glad when the friend helped Omar.",
       "Omar is a name.",
-      "The story has two sentences.",
-      "Paper can be folded.",
-      "I felt glad when the friend helped Omar."
+      "The story has two sentences."
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efle02-p02",
@@ -130,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

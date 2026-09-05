@@ -5,17 +5,16 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "count arranged objects",
-    "question": "Count the dots: ● ● ● ●",
+    "question": "[Show 4 dots.] How many dots can you see?",
     "explanation": "Touch each dot once: 1, 2, 3, 4.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
       "4",
-      "5",
-      "6"
+      "3",
+      "5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-002",
@@ -27,46 +26,43 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
       "5",
-      "6",
-      "7"
+      "4",
+      "6"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-003",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "subitise 3",
-    "question": "How many dots can you see without counting one by one?  ⚫ ⚫ ⚫",
+    "question": "[Show 3 dots.] How many dots can you see?",
     "explanation": "Three dots make a familiar group of 3.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
-      "4",
-      "5"
+      "2",
+      "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-004",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "subitise 5",
-    "question": "How many dots are on this die face?  ⚫ ⚫ / ⚫ / ⚫ ⚫",
+    "question": "[Show 5 dots.] How many dots can you see?",
     "explanation": "The four corner dots and the middle dot make 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
       "5",
-      "6",
-      "7"
+      "4",
+      "6"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-005",
@@ -80,8 +76,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "0",
       "1",
-      "2",
-      "10"
+      "2"
     ],
     "correct": 0
   },
@@ -97,8 +92,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "0",
       "1",
-      "4",
-      "8"
+      "4"
     ],
     "correct": 0
   },
@@ -112,12 +106,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "● ● ● ● ●",
       "● ● ● ● ● ●",
-      "● ● ● ● ● ● ●",
-      "● ● ●"
+      "● ● ● ● ●",
+      "● ● ● ● ● ● ●"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-008",
@@ -129,12 +122,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "6",
       "7",
-      "8",
-      "9"
+      "6",
+      "8"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-009",
@@ -146,12 +138,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "6",
-      "7",
       "9",
-      "19"
+      "6",
+      "7"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-010",
@@ -163,12 +154,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "12",
-      "13",
       "14",
-      "15"
+      "12",
+      "13"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-011",
@@ -180,12 +170,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "10",
       "11",
-      "12",
-      "21"
+      "10",
+      "12"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-012",
@@ -197,12 +186,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
-      "10",
       "12",
-      "20"
+      "2",
+      "10"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-013",
@@ -214,11 +202,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
+      "14",
       "12",
-      "13",
-      "14"
+      "13"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-014",
@@ -230,12 +218,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
-      "10",
       "15",
-      "20"
+      "5",
+      "10"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-015",
@@ -247,11 +234,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
+      "18",
       "16",
-      "17",
-      "18"
+      "17"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-016",
@@ -263,12 +250,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "14",
-      "15",
       "16",
-      "17"
+      "14",
+      "15"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-017",
@@ -280,28 +266,27 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
+      "6",
       "4",
-      "5",
-      "6"
+      "5"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-018",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "same quantity different objects",
-    "question": "Five shells and five buttons are shown. Which statement is true?",
+    "question": "[Show a clear visual that exactly matches the question and choices.] Five shells and five buttons are shown. Which statement is true?",
     "explanation": "The kind of object does not change the number.",
     "printable": true,
     "type": "single",
     "answers": [
-      "There are more shells",
-      "There are more buttons",
       "Both groups have 5",
-      "Objects cannot be counted"
+      "There are more shells",
+      "There are more buttons"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-019",
@@ -313,12 +298,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "The close row",
-      "The spread row",
       "Both have 8",
-      "We cannot tell"
+      "The close row",
+      "The spread row"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-020",
@@ -330,12 +314,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
       "6",
-      "7",
-      "12"
+      "5",
+      "7"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-021",
@@ -347,29 +330,27 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "6",
-      "7",
       "8",
-      "9"
+      "6",
+      "7"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-022",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "one more at ten",
-    "question": "A ten-frame is full. Add 1 counter. Which number is shown?",
+    "question": "[Show a clear visual that exactly matches the question and choices.] A ten-frame is full. Add 1 counter. Which number is shown?",
     "explanation": "One more than 10 is 11.",
     "printable": true,
     "type": "single",
     "answers": [
-      "9",
-      "10",
       "11",
-      "12"
+      "9",
+      "10"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-023",
@@ -381,12 +362,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "17",
-      "18",
       "19",
-      "20"
+      "17",
+      "18"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-024",
@@ -398,12 +378,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "7",
       "8",
-      "9",
-      "10"
+      "7",
+      "9"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-025",
@@ -415,12 +394,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "8",
       "9",
-      "10",
-      "11"
+      "8",
+      "10"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-026",
@@ -434,8 +412,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "16",
       "17",
-      "18",
-      "7"
+      "18"
     ],
     "correct": 0
   },
@@ -451,8 +428,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "0",
       "1",
-      "2",
-      "10"
+      "2"
     ],
     "correct": 0
   },
@@ -466,12 +442,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "11",
-      "12",
       "13",
-      "14"
+      "11",
+      "12"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-029",
@@ -483,12 +458,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "13",
-      "14",
       "15",
-      "17"
+      "13",
+      "14"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-030",
@@ -500,12 +474,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
       "5",
-      "6",
-      "8"
+      "4",
+      "6"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-031",
@@ -517,12 +490,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "16",
-      "18",
       "19",
-      "20"
+      "16",
+      "18"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-032",
@@ -534,12 +506,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "7",
-      "9",
       "10",
-      "13"
+      "7",
+      "9"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-033",
@@ -553,8 +524,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "5, 4, 3, 2",
       "5, 6, 7, 8",
-      "2, 3, 4, 5",
-      "5, 3, 4, 2"
+      "2, 3, 4, 5"
     ],
     "correct": 0
   },
@@ -568,12 +538,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "The plate with 6",
       "The plate with 9",
-      "They are equal",
-      "Neither plate"
+      "The plate with 6",
+      "They are equal"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-035",
@@ -587,8 +556,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "13",
       "18",
-      "They are equal",
-      "20"
+      "They are equal"
     ],
     "correct": 0
   },
@@ -602,12 +570,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Red blocks",
-      "Blue blocks",
       "Neither; they are equal",
-      "Both are zero"
+      "Red blocks",
+      "Blue blocks"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-037",
@@ -619,27 +586,25 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "6, 5, 4",
       "4, 5, 6",
-      "5, 4, 6",
-      "6, 4, 5"
+      "6, 5, 4",
+      "5, 4, 6"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-038",
     "curriculumCode": "AC9MFN01",
     "bank": "practice",
     "skill": "order nonconsecutive numbers",
-    "question": "Put 2, 11 and 7 in order from smallest to largest.",
+    "question": "Which number is smallest: 2, 11, 7?",
     "explanation": "Two comes first, then 7, then 11.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2, 7, 11",
-      "11, 7, 2",
-      "7, 2, 11",
-      "2, 11, 7"
+      "2",
+      "11",
+      "7"
     ],
     "correct": 0
   },
@@ -653,12 +618,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "5, 2, 0",
       "0, 2, 5",
-      "2, 0, 5",
-      "0, 5, 2"
+      "5, 2, 0",
+      "2, 0, 5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-040",
@@ -670,12 +634,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
+      "19",
       "6",
-      "9",
-      "16",
-      "19"
+      "9"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-041",
@@ -689,8 +652,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "4",
       "8",
-      "12",
-      "20"
+      "12"
     ],
     "correct": 0
   },
@@ -704,12 +666,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "9",
-      "11",
       "12",
-      "14"
+      "9",
+      "11"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-043",
@@ -721,12 +682,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "14",
-      "15",
       "16",
-      "17"
+      "14",
+      "15"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-044",
@@ -738,12 +698,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "6",
       "7",
-      "8",
-      "9"
+      "6",
+      "8"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-045",
@@ -755,12 +714,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "16",
-      "17",
       "18",
-      "7"
+      "16",
+      "17"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-046",
@@ -774,8 +732,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Ava",
       "Ben",
-      "Chen",
-      "Dia"
+      "Chen"
     ],
     "correct": 0
   },
@@ -789,12 +746,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "cat",
       "dog",
-      "duck",
-      "koala"
+      "cat",
+      "duck"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-048",
@@ -806,12 +762,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "14",
-      "15",
       "16",
-      "17"
+      "14",
+      "15"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-049",
@@ -823,12 +778,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
+      "Eli",
       "Ali",
-      "Bea",
-      "Dev",
-      "Eli"
+      "Bea"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-050",
@@ -840,12 +794,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
       "5",
-      "6",
-      "7"
+      "4",
+      "6"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-051",
@@ -857,12 +810,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "10",
-      "11",
       "12",
-      "13"
+      "10",
+      "11"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-052",
@@ -876,8 +828,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "7 and ●●●●●●●",
       "6 and ●●●●●",
-      "8 and ●●●●●●",
-      "9 and ●●●●●●●●"
+      "8 and ●●●●●●"
     ],
     "correct": 0
   },
@@ -891,12 +842,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "The number 0",
       "The number 4",
-      "The number 5",
-      "The number 7"
+      "The number 0",
+      "The number 5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-054",
@@ -910,8 +860,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Touch each counter once",
       "Say numbers as fast as possible",
-      "Count one counter twice",
-      "Guess from the space used"
+      "Count one counter twice"
     ],
     "correct": 0
   },
@@ -925,12 +874,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "The colour",
       "There are 6 altogether",
-      "The first object",
-      "There are 5 altogether"
+      "The colour",
+      "The first object"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-p-056",
@@ -942,12 +890,10 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Kai is right",
       "14 is greater than 9",
-      "14 and 9 are equal",
-      "Digits cannot show numbers"
+      "Kai is right",
+      "14 and 9 are equal"
     ],
-    "correct": 1
+    "correct": 0
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

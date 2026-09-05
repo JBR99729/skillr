@@ -4,351 +4,346 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn02-p-001",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "There is 1 dot.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-002",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "The pair shows 2 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-003",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "Which number matches this dice pattern?\n●  ○\n  ●\n○  ●",
+    "question": "Which number matches this dice pattern? / ●  ○ /   ● / ○  ●",
     "explanation": "The pattern shows 3 dots: two corners and the centre.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
-      "4",
-      "5"
+      "2",
+      "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-004",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ● ●",
+    "question": "[Show 4 dots.] How many dots can you see?",
     "explanation": "Two on top and two underneath make 4.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-005",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "Name this familiar five-dot pattern.\n●   ●\n  ●\n●   ●",
+    "question": "Name this familiar five-dot pattern. / ●   ● /   ● / ●   ●",
     "explanation": "Four outside dots and one centre dot make 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
-      "4",
       "5",
-      "0"
+      "3",
+      "4"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-006",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "The small group shows 3 shells.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-007",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "The vertical pair still shows 2.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-008",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "Which number names this triangle pattern?\n  ●\n● ●",
+    "question": "Which number names this triangle pattern? /   ● / ● ●",
     "explanation": "One dot above and two below make 3.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
-      "4",
-      "5"
+      "2",
+      "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-009",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "Four spaces are filled and one is empty.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-010",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "A whole five-frame is filled.\n● ● ● ● ●\nWhich number does it show?",
+    "question": "A whole five-frame is filled. / ● ● ● ● ● / Which number does it show?",
     "explanation": "A full five-frame shows 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
-      "4",
       "5",
-      "0"
+      "3",
+      "4"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-011",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ●",
+    "question": "[Show 3 dots.] How many dots can you see?",
     "explanation": "The positions are unusual, but there are 3 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-012",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ● ●",
+    "question": "[Show 4 dots.] How many dots can you see?",
     "explanation": "The L-shape contains 4 counters.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-013",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "Look at the cross pattern.\n  ●\n● ● ●\n  ●\nWhich number does it show?",
+    "question": "Look at the cross pattern. /   ● / ● ● ● /   ● / Which number does it show?",
     "explanation": "The cross has one centre and four outside dots, so it shows 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
-      "4",
       "5",
-      "0"
+      "3",
+      "4"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-014",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "Turning or rearranging the dots does not change the group of 3.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-015",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "The uneven group contains 4 leaves.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-016",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ●",
+    "question": "[Show 3 dots.] How many dots can you see?",
     "explanation": "The tall zigzag contains 5 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-017",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "Spacing does not change the quantity; there are 4.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-018",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "The diagonal arrangement is still a pair of 2.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-019",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ●",
+    "question": "[Show 3 dots.] How many dots can you see?",
     "explanation": "The vertical card also has 3 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-020",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ● ●",
+    "question": "[Show 4 dots.] How many dots can you see?",
     "explanation": "A row of 4 and a square of 4 show the same quantity.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-021",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ● ● ●",
+    "question": "[Show 5 dots.] How many dots can you see?",
     "explanation": "The row of 5 matches the shown group.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
       "5",
+      "4",
       "1"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-022",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "Five raised fingers match a card with 5 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-023",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "A pair of stars represents 2.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-024",
@@ -359,12 +354,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
+      "● ● / ● ●",
       "● ● ●",
-      "● ●\n● ●",
-      "● ● ● ● ●",
-      "● ●"
+      "● ● ● ● ●"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-025",
@@ -375,12 +369,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "● ● ● ○ ○",
-      "● ● ● ● ○",
       "● ● ● ● ●",
-      "● ● ○ ○ ○"
+      "● ● ● ○ ○",
+      "● ● ● ● ○"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-026",
@@ -391,119 +384,114 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Two buttons",
       "Three buttons",
-      "Four buttons",
-      "Five buttons"
+      "Two buttons",
+      "Four buttons"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-027",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ●",
+    "question": "[Show 3 dots.] How many dots can you see?",
     "explanation": "Two and one make 3.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-028",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "Two dots are on top and two are below.\n● ●\n● ●\nWhich number sentence describes the pattern?",
+    "question": "[Show a clear visual that exactly matches the question and choices.] Two dots are on top and two are below. / ● ● / ● ● / Which number sentence describes the pattern?",
     "explanation": "The two equal parts are 2 and 2, making 4.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2 + 1 = 3",
       "2 + 2 = 4",
-      "3 + 2 = 5",
-      "4 + 1 = 5"
+      "2 + 1 = 3",
+      "3 + 2 = 5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-029",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ● ● ●",
+    "question": "[Show 5 dots.] How many dots can you see?",
     "explanation": "Four outside dots and one centre dot make 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
       "5",
+      "4",
       "1"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-030",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "The parts are 3 and 2; together they make 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-031",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "One yellow counter and three green counters make which whole?\n🟡   🟢 🟢 🟢",
+    "question": "One yellow counter and three green counters make which whole? / 🟡   🟢 🟢 🟢",
     "explanation": "One and three make 4.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
-      "3",
       "4",
-      "5"
+      "2",
+      "3"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-032",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "Which two parts can help you see this five-dot group quickly?\n● ●\n● ● ●",
+    "question": "Which two parts can help you see this five-dot group quickly? / ● ● / ● ● ●",
     "explanation": "The rows show 2 and 3, which make 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1 and 2",
       "2 and 3",
-      "2 and 2",
-      "4 and 2"
+      "1 and 2",
+      "2 and 2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-033",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "This pattern shows 4 as a row of 3 and one dot underneath.\n● ● ●\n  ●\nWhich parts do you see?",
+    "question": "This pattern shows 4 as a row of 3 and one dot underneath. / ● ● ● /   ● / Which parts do you see?",
     "explanation": "The visible parts are 3 and 1.",
     "printable": true,
     "type": "single",
     "answers": [
       "3 and 1",
       "2 and 1",
-      "4 and 1",
-      "2 and 3"
+      "4 and 1"
     ],
     "correct": 0
   },
@@ -511,91 +499,91 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn02-p-034",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "One empty space remains, so 1 more counter makes 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-035",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ●",
+    "question": "[Show 3 dots.] How many dots can you see?",
     "explanation": "Three is more than two, so Card B has more.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-036",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ● ●",
+    "question": "[Show 4 dots.] How many dots can you see?",
     "explanation": "Mia has 5, which is more than Noah's 4.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-037",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ● ● ●",
+    "question": "[Show 5 dots.] How many dots can you see?",
     "explanation": "Both arrangements contain 4 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
       "5",
+      "4",
       "1"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-038",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "One dot is fewer than three dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-039",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "Different representations can show the same quantity of 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-040",
@@ -608,8 +596,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Sam",
       "Ava",
-      "They have the same",
-      "No one"
+      "They have the same"
     ],
     "correct": 0
   },
@@ -617,151 +604,151 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn02-p-041",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "The collections have 1, 3 and 2 dots, so the order is 1, 2, 3.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-042",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "Three is fewer than four, and four is fewer than five.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-043",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ●",
+    "question": "[Show 3 dots.] How many dots can you see?",
     "explanation": "The amounts are 2, 4 and 5, so the four-dot square is in the middle.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-044",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ● ●",
+    "question": "[Show 4 dots.] How many dots can you see?",
     "explanation": "Two, four, five is increasing order.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-045",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ● ● ●",
+    "question": "[Show 5 dots.] How many dots can you see?",
     "explanation": "A Snap needs the same quantity, even when the arrangement differs.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
       "5",
+      "4",
       "1"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-046",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "A matching pair must represent the same quantity, 3.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-047",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "Lily's 5 is more than Ben's 4.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-048",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ●",
+    "question": "[Show 3 dots.] How many dots can you see?",
     "explanation": "A diagonal pair shows exactly 2.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-049",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "Moving dots farther apart does not create more dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-050",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "Turning the card changes its position, not its quantity.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-051",
@@ -772,27 +759,26 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Leo is right because the row is longer",
-      "Leo is right because rows are bigger",
       "Leo is not right; both cards show 4",
-      "We cannot compare dot cards"
+      "Leo is right because the row is longer",
+      "Leo is right because rows are bigger"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-052",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "How many dots? ● ● ● ●",
+    "question": "[Show 4 dots.] How many dots can you see?",
     "explanation": "Rearranging a fixed collection keeps the same quantity.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-p-053",
@@ -802,14 +788,14 @@ window.skillrPracticeQuestions = [
     "explanation": "A new arrangement may look different, but it must still contain exactly 3 dots.",
     "printable": true,
     "type": "self-check",
-    "modelAnswer": "For example: ●\n● ●. Any arrangement is correct if it has exactly 3 dots.",
-    "correct": "For example: ●\n● ●. Any arrangement is correct if it has exactly 3 dots."
+    "modelAnswer": "For example: ● / ● ●. Any arrangement is correct if it has exactly 3 dots.",
+    "correct": "For example: ● / ● ●. Any arrangement is correct if it has exactly 3 dots."
   },
   {
     "id": "ac9mfn02-p-054",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "Show 5 as two smaller parts. Then check your parts against the model.",
+    "question": "[Show the counters or shapes described in the answer choices.] Show 5 as two smaller parts. Then check your parts against the model.",
     "explanation": "Two parts can be recognised and combined to make the whole of 5.",
     "printable": true,
     "type": "self-check",
@@ -820,7 +806,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn02-p-055",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "Explain how you can see 4 in this pattern without counting each dot.\n● ●\n● ●",
+    "question": "Explain how you can see 4 in this pattern without counting each dot. / ● ● / ● ●",
     "explanation": "Recognising two equal pairs is a quick way to subitise 4.",
     "printable": true,
     "type": "self-check",
@@ -831,7 +817,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9mfn02-p-056",
     "curriculumCode": "AC9MFN02",
     "bank": "practice",
-    "question": "Ava says this cross shows 4 because she notices only the outside dots.\n  ●\n● ● ●\n  ●\nExplain the missing part of her thinking.",
+    "question": "/   ● / ● ● ● /   ● / Explain the missing part of her thinking.",
     "explanation": "The centre dot must be included with the four outside dots.",
     "printable": true,
     "type": "self-check",
@@ -839,4 +825,3 @@ window.skillrPracticeQuestions = [
     "correct": "There are 4 outside dots and 1 centre dot. Four and one make 5, so the cross shows 5."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

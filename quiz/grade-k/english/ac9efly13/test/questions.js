@@ -25,7 +25,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which spelling matches the word fish?",
-    "explanation": "D — ch represents the initial /ch/ sound in chin.",
+    "explanation": "ch represents the initial /ch/ sound in chin.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -60,7 +60,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which spelling matches the word frog?",
-    "explanation": "A — best represents /b/ /e/ /s/ /t/ and matches the meaning of the sentence.",
+    "explanation": "best represents /b/ /e/ /s/ /t/ and matches the meaning of the sentence.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -135,4 +135,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

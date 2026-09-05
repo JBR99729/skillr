@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "In a story, Mia visits the beach. You have visited a beach too. What is the same?",
-    "explanation": "D — It compares the character’s experience of practising with the reader’s experience.",
+    "explanation": "It compares the character’s experience of practising with the reader’s experience.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -70,7 +70,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "In a story, Mia visits the beach. You have visited a beach too. What is the same?",
-    "explanation": "A — It notices visible details without making an unsupported claim about a whole group.",
+    "explanation": "It notices visible details without making an unsupported claim about a whole group.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -129,4 +129,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

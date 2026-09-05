@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which is a complete sentence?",
-    "explanation": "A — It tells what happened to the bus.",
+    "explanation": "It tells what happened to the bus.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -135,4 +135,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

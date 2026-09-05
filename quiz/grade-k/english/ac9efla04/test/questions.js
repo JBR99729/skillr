@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Where do we usually start reading an English sentence?",
-    "explanation": "D — The front cover conventionally displays the title.",
+    "explanation": "The front cover conventionally displays the title.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -41,7 +41,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "What do we turn to read the next part of a paper book?",
-    "explanation": "A — A right arrow commonly moves a reader forward.",
+    "explanation": "A right arrow commonly moves a reader forward.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -135,4 +135,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

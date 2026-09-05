@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which mark ends a telling sentence?",
-    "explanation": "A — The exclamation mark is punctuation; the others are letters.",
+    "explanation": "The exclamation mark is punctuation; the others are letters.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -22,7 +22,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which mark ends a question?",
-    "explanation": "B — The sentence and the city name begin with capitals in the required places.",
+    "explanation": "The sentence and the city name begin with capitals in the required places.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -135,4 +135,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

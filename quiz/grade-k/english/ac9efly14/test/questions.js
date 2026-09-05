@@ -41,7 +41,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which word says you?",
-    "explanation": "A — bag is the familiar word that names the pictured object.",
+    "explanation": "bag is the familiar word that names the pictured object.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -73,7 +73,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which word says the?",
-    "explanation": "B — “It is my hat” shows ownership and is grammatically complete.",
+    "explanation": "“It is my hat” shows ownership and is grammatically complete.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

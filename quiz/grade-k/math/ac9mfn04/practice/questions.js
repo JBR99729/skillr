@@ -9,10 +9,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "How many counters are in the whole?",
     "visual": "●   ■",
-    "correct": 2,
+    "correct": "2",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "1 and 1 combine to make 2."
+    "explanation": "1 and 1 combine to make 2.",
+    "modelAnswer": "2"
   },
   {
     "id": "ac9mfn04-p-002",
@@ -23,10 +24,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "There are 6 counters altogether. 2 are outside the cup. How many are hidden?",
     "visual": "Outside: ● ●   Cup: [ ? ]",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "2 and 4 make 6."
+    "explanation": "2 and 4 make 6.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfn04-p-003",
@@ -39,8 +41,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "3 and 3",
       "3 and 4",
-      "6 and 3",
-      "2 and 2"
+      "6 and 3"
     ],
     "correct": 0,
     "explanation": "3+3=6."
@@ -71,10 +72,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "A ten-frame shows 5 filled spaces, then 5 more counters are added beside it. How many altogether?",
     "visual": "● ● ● ● ●\n○ ○ ○ ○ ○\nExtra: ■ ■ ■ ■ ■",
-    "correct": 10,
+    "correct": "10",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "5+5=10."
+    "explanation": "5+5=10.",
+    "modelAnswer": "10"
   },
   {
     "id": "ac9mfn04-p-006",
@@ -85,11 +87,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "There are 5 counters. 2 are red. How many are blue?",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both selected pairs have a total of 6."
   },
   {
@@ -102,11 +104,11 @@ window.skillrPracticeQuestions = [
     "question": "There are 6 counters. 2 are red. How many are blue?",
     "visual": "● ● ●   ■ ■",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The visible parts contain 3 and 2; together they make 5."
   },
   {
@@ -136,8 +138,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The parts make 10, not 9",
       "The claim is correct",
-      "Parts never make a whole",
-      "Only equal parts are allowed"
+      "Parts never make a whole"
     ],
     "correct": 0,
     "explanation": "1+9=10."
@@ -154,8 +155,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "3",
       "5",
-      "8",
-      "4"
+      "8"
     ],
     "correct": 0,
     "explanation": "5+3=8."
@@ -169,11 +169,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "There are 7 counters. 3 are red. How many are blue?",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The parts must combine to the stated whole."
   },
   {
@@ -189,12 +189,12 @@ window.skillrPracticeQuestions = [
       "3 is one part",
       "7 is the other part"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "The two parts combine to make the whole.",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ]
   },
@@ -208,11 +208,11 @@ window.skillrPracticeQuestions = [
     "question": "There are 9 counters. 5 are red. How many are blue?",
     "visual": "●   ■ ■ ■ ■\n●\n■ ■ ■\n  ■",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Rearranging the same parts does not change the total."
   },
   {
@@ -224,10 +224,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "2 fingers are up and 3 are folded. How many fingers are on the hand altogether?",
     "visual": "Up: | |   Folded: _ _ _",
-    "correct": 5,
+    "correct": "5",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Up and folded fingers are two parts of the same five-finger hand."
+    "explanation": "Up and folded fingers are two parts of the same five-finger hand.",
+    "modelAnswer": "5"
   },
   {
     "id": "ac9mfn04-p-015",
@@ -239,11 +240,11 @@ window.skillrPracticeQuestions = [
     "question": "There are 6 counters. 2 are red. How many are blue?",
     "visual": "● ● ● ● ● ●   ■ ■ ■ ■",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The whole is the total of both parts."
   },
   {
@@ -255,11 +256,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "There are 7 counters. 2 are red. How many are blue?",
     "answers": [
-      "4",
       "5",
+      "4",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Reversing the two parts keeps the same total."
   },
   {
@@ -271,10 +272,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "How many counters are in the whole?",
     "visual": "● ●   ■ ■ ■",
-    "correct": 5,
+    "correct": "5",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "2 and 3 combine to make 5."
+    "explanation": "2 and 3 combine to make 5.",
+    "modelAnswer": "5"
   },
   {
     "id": "ac9mfn04-p-018",
@@ -285,10 +287,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "There are 10 counters altogether. 9 are outside the cup. How many are hidden?",
     "visual": "Outside: ● ● ● ● ● ● ● ● ●   Cup: [ ? ]",
-    "correct": 1,
+    "correct": "1",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "9 and 1 make 10."
+    "explanation": "9 and 1 make 10.",
+    "modelAnswer": "1"
   },
   {
     "id": "ac9mfn04-p-019",
@@ -301,8 +304,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "5 and 3",
       "5 and 4",
-      "8 and 3",
-      "4 and 2"
+      "8 and 3"
     ],
     "correct": 0,
     "explanation": "5+3=8."
@@ -333,10 +335,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "A ten-frame shows 1 filled spaces, then 5 more counters are added beside it. How many altogether?",
     "visual": "● ○ ○ ○ ○\n○ ○ ○ ○ ○\nExtra: ■ ■ ■ ■ ■",
-    "correct": 6,
+    "correct": "6",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "1+5=6."
+    "explanation": "1+5=6.",
+    "modelAnswer": "6"
   },
   {
     "id": "ac9mfn04-p-022",
@@ -347,11 +350,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "There are 5 counters. 2 are red. How many are blue?",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both selected pairs have a total of 7."
   },
   {
@@ -364,11 +367,11 @@ window.skillrPracticeQuestions = [
     "question": "There are 6 counters. 2 are red. How many are blue?",
     "visual": "● ● ● ● ● ● ●   ■ ■",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The visible parts contain 7 and 2; together they make 9."
   },
   {
@@ -398,8 +401,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The parts make 11, not 10",
       "The claim is correct",
-      "Parts never make a whole",
-      "Only equal parts are allowed"
+      "Parts never make a whole"
     ],
     "correct": 0,
     "explanation": "7+4=11."
@@ -416,8 +418,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "1",
       "5",
-      "6",
-      "2"
+      "6"
     ],
     "correct": 0,
     "explanation": "5+1=6."
@@ -431,11 +432,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "There are 7 counters. 3 are red. How many are blue?",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The parts must combine to the stated whole."
   },
   {
@@ -451,12 +452,12 @@ window.skillrPracticeQuestions = [
       "7 is one part",
       "1 is the other part"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "The two parts combine to make the whole.",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ]
   },
@@ -470,11 +471,11 @@ window.skillrPracticeQuestions = [
     "question": "There are 9 counters. 5 are red. How many are blue?",
     "visual": "● ● ● ● ●   ■ ■ ■ ■\n● ● ● ●\n  ●\n■ ■ ■\n  ■",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Rearranging the same parts does not change the total."
   },
   {
@@ -486,10 +487,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "2 fingers are up and 3 are folded. How many fingers are on the hand altogether?",
     "visual": "Up: | |   Folded: _ _ _",
-    "correct": 5,
+    "correct": "5",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Up and folded fingers are two parts of the same five-finger hand."
+    "explanation": "Up and folded fingers are two parts of the same five-finger hand.",
+    "modelAnswer": "5"
   },
   {
     "id": "ac9mfn04-p-031",
@@ -501,11 +503,11 @@ window.skillrPracticeQuestions = [
     "question": "There are 6 counters. 2 are red. How many are blue?",
     "visual": "●   ■ ■ ■ ■ ■",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The whole is the total of both parts."
   },
   {
@@ -517,11 +519,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "There are 7 counters. 2 are red. How many are blue?",
     "answers": [
-      "4",
       "5",
+      "4",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Reversing the two parts keeps the same total."
   },
   {
@@ -533,10 +535,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "How many counters are in the whole?",
     "visual": "● ● ●   ■ ■ ■ ■ ■",
-    "correct": 8,
+    "correct": "8",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "3 and 5 combine to make 8."
+    "explanation": "3 and 5 combine to make 8.",
+    "modelAnswer": "8"
   },
   {
     "id": "ac9mfn04-p-034",
@@ -547,10 +550,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "There are 8 counters altogether. 6 are outside the cup. How many are hidden?",
     "visual": "Outside: ● ● ● ● ● ●   Cup: [ ? ]",
-    "correct": 2,
+    "correct": "2",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "6 and 2 make 8."
+    "explanation": "6 and 2 make 8.",
+    "modelAnswer": "2"
   },
   {
     "id": "ac9mfn04-p-035",
@@ -563,8 +567,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "8 and 2",
       "8 and 3",
-      "10 and 2",
-      "7 and 1"
+      "10 and 2"
     ],
     "correct": 0,
     "explanation": "8+2=10."
@@ -595,10 +598,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "A ten-frame shows 1 filled spaces, then 6 more counters are added beside it. How many altogether?",
     "visual": "● ○ ○ ○ ○\n○ ○ ○ ○ ○\nExtra: ■ ■ ■ ■ ■ ■",
-    "correct": 7,
+    "correct": "7",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "1+6=7."
+    "explanation": "1+6=7.",
+    "modelAnswer": "7"
   },
   {
     "id": "ac9mfn04-p-038",
@@ -609,11 +613,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "There are 5 counters. 2 are red. How many are blue?",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both selected pairs have a total of 8."
   },
   {
@@ -626,11 +630,11 @@ window.skillrPracticeQuestions = [
     "question": "There are 6 counters. 2 are red. How many are blue?",
     "visual": "● ● ●   ■ ■ ■ ■",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The visible parts contain 3 and 4; together they make 7."
   },
   {
@@ -660,8 +664,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The parts make 7, not 6",
       "The claim is correct",
-      "Parts never make a whole",
-      "Only equal parts are allowed"
+      "Parts never make a whole"
     ],
     "correct": 0,
     "explanation": "1+6=7."
@@ -678,8 +681,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "6",
       "4",
-      "10",
-      "7"
+      "10"
     ],
     "correct": 0,
     "explanation": "4+6=10."
@@ -693,11 +695,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "There are 7 counters. 3 are red. How many are blue?",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The parts must combine to the stated whole."
   },
   {
@@ -713,12 +715,12 @@ window.skillrPracticeQuestions = [
       "4 is one part",
       "2 is the other part"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "The two parts combine to make the whole.",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ]
   },
@@ -732,11 +734,11 @@ window.skillrPracticeQuestions = [
     "question": "There are 9 counters. 5 are red. How many are blue?",
     "visual": "● ● ●   ■ ■ ■ ■\n● ● ●\n■ ■ ■\n  ■",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Rearranging the same parts does not change the total."
   },
   {
@@ -748,10 +750,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "2 fingers are up and 3 are folded. How many fingers are on the hand altogether?",
     "visual": "Up: | |   Folded: _ _ _",
-    "correct": 5,
+    "correct": "5",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Up and folded fingers are two parts of the same five-finger hand."
+    "explanation": "Up and folded fingers are two parts of the same five-finger hand.",
+    "modelAnswer": "5"
   },
   {
     "id": "ac9mfn04-p-047",
@@ -763,11 +766,11 @@ window.skillrPracticeQuestions = [
     "question": "There are 6 counters. 2 are red. How many are blue?",
     "visual": "● ● ● ● ●   ■ ■",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The whole is the total of both parts."
   },
   {
@@ -779,11 +782,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "There are 7 counters. 2 are red. How many are blue?",
     "answers": [
-      "4",
       "5",
+      "4",
       "6"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Reversing the two parts keeps the same total."
   },
   {
@@ -795,10 +798,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "How many counters are in the whole?",
     "visual": "● ● ● ●   ■ ■",
-    "correct": 6,
+    "correct": "6",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "4 and 2 combine to make 6."
+    "explanation": "4 and 2 combine to make 6.",
+    "modelAnswer": "6"
   },
   {
     "id": "ac9mfn04-p-050",
@@ -809,10 +813,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "There are 6 counters altogether. 5 are outside the cup. How many are hidden?",
     "visual": "Outside: ● ● ● ● ●   Cup: [ ? ]",
-    "correct": 1,
+    "correct": "1",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "5 and 1 make 6."
+    "explanation": "5 and 1 make 6.",
+    "modelAnswer": "1"
   },
   {
     "id": "ac9mfn04-p-051",
@@ -825,8 +830,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "3 and 2",
       "3 and 3",
-      "5 and 2",
-      "2 and 1"
+      "5 and 2"
     ],
     "correct": 0,
     "explanation": "3+2=5."
@@ -857,10 +861,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "A ten-frame shows 4 filled spaces, then 4 more counters are added beside it. How many altogether?",
     "visual": "● ● ● ● ○\n○ ○ ○ ○ ○\nExtra: ■ ■ ■ ■",
-    "correct": 8,
+    "correct": "8",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "4+4=8."
+    "explanation": "4+4=8.",
+    "modelAnswer": "8"
   },
   {
     "id": "ac9mfn04-p-054",
@@ -871,11 +876,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "There are 5 counters. 2 are red. How many are blue?",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both selected pairs have a total of 9."
   },
   {
@@ -888,11 +893,11 @@ window.skillrPracticeQuestions = [
     "question": "There are 6 counters. 2 are red. How many are blue?",
     "visual": "● ● ●   ■ ■",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The visible parts contain 3 and 2; together they make 5."
   },
   {
@@ -912,4 +917,3 @@ window.skillrPracticeQuestions = [
     "explanation": "Changing the order of the parts does not change the whole."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

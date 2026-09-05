@@ -9,11 +9,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which day comes after Monday?",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "Sunday"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Saturday follows Friday in the weekly cycle."
   },
   {
@@ -27,8 +27,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Sunday",
       "Monday",
-      "Tuesday",
-      "Wednesday"
+      "Tuesday"
     ],
     "correct": 0,
     "explanation": "Sunday comes before Monday."
@@ -44,8 +43,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Tuesday",
       "Sunday",
-      "Monday",
-      "Thursday"
+      "Monday"
     ],
     "correct": 0,
     "explanation": "The missing day is Tuesday."
@@ -59,11 +57,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which day comes after Wednesday?",
     "answers": [
-      "Wednesday",
       "Thursday",
+      "Wednesday",
       "Sunday"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The seven days repeat in a cycle."
   },
   {
@@ -75,11 +73,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which day comes after Monday?",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "Sunday"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Count forward two days to Thursday."
   },
   {
@@ -93,8 +91,7 @@ window.skillrTestQuestions = [
     "answers": [
       "eat lunch",
       "wake at midnight for school",
-      "eat a second breakfast at night",
-      "sleep during assembly"
+      "eat a second breakfast at night"
     ],
     "correct": 0,
     "explanation": "eat lunch commonly matches lunchtime."
@@ -113,14 +110,10 @@ window.skillrTestQuestions = [
       "afternoon",
       "lunchtime"
     ],
-    "correct": [
-      "morning",
-      "lunchtime",
-      "afternoon",
-      "night time"
-    ],
+    "correct": "morning,lunchtime,afternoon,night time",
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Morning, lunchtime, afternoon, night time."
+    "explanation": "Morning, lunchtime, afternoon, night time.",
+    "modelAnswer": "morning,lunchtime,afternoon,night time"
   },
   {
     "id": "ac9mfm02-t-008",
@@ -135,13 +128,10 @@ window.skillrTestQuestions = [
       "eat breakfast",
       "eat lunch"
     ],
-    "correct": [
-      "eat breakfast",
-      "eat lunch",
-      "go to bed"
-    ],
+    "correct": "eat breakfast,eat lunch,go to bed",
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Breakfast comes before lunch and bedtime."
+    "explanation": "Breakfast comes before lunch and bedtime.",
+    "modelAnswer": "eat breakfast,eat lunch,go to bed"
   },
   {
     "id": "ac9mfm02-t-009",
@@ -153,11 +143,11 @@ window.skillrTestQuestions = [
     "question": "Which day comes after Monday?",
     "visual": "Monday: library\nTuesday: sport\nWednesday: art\nThursday: music",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "Sunday"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The schedule pairs Wednesday with art."
   },
   {
@@ -170,11 +160,11 @@ window.skillrTestQuestions = [
     "question": "Which day comes after Friday?",
     "visual": "Morning: breakfast → Lunchtime: lunch → Night: bedtime",
     "answers": [
-      "Friday",
       "Saturday",
+      "Friday",
       "Sunday"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Breakfast is shown before lunch and bedtime."
   },
   {
@@ -186,11 +176,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which day comes after Sunday?",
     "answers": [
-      "Sunday",
       "Monday",
+      "Sunday",
       "Sunday"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A chart may choose a starting point, but the weekly order still cycles."
   },
   {
@@ -204,8 +194,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Sunday",
       "Thursday",
-      "Tuesday",
-      "Wednesday"
+      "Tuesday"
     ],
     "correct": 0,
     "explanation": "Sunday comes between Saturday and Monday."
@@ -217,17 +206,13 @@ window.skillrTestQuestions = [
     "skill": "later day parts",
     "printable": true,
     "type": "multiple",
-    "question": "Select the two day parts that come after lunchtime.",
+    "question": "Which one day parts that come after lunchtime.",
     "answers": [
-      "morning",
-      "lunchtime",
       "afternoon",
-      "night time"
+      "morning",
+      "lunchtime"
     ],
-    "correct": [
-      2,
-      3
-    ],
+    "correct": 0,
     "explanation": "Afternoon and night time come after lunchtime."
   },
   {
@@ -244,14 +229,10 @@ window.skillrTestQuestions = [
       "Sunday",
       "Friday"
     ],
-    "correct": [
-      "Thursday",
-      "Friday",
-      "Saturday",
-      "Sunday"
-    ],
+    "correct": "Thursday,Friday,Saturday,Sunday",
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Follow the weekly sequence."
+    "explanation": "Follow the weekly sequence.",
+    "modelAnswer": "Thursday,Friday,Saturday,Sunday"
   },
   {
     "id": "ac9mfm02-t-015",
@@ -262,10 +243,10 @@ window.skillrTestQuestions = [
     "type": "true-false",
     "question": "Every family must complete every daily activity at exactly the same time.",
     "answers": [
-      "True",
-      "False"
+      "False",
+      "True"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Routines can differ. Use the schedule shown in the question."
   },
   {
@@ -278,11 +259,11 @@ window.skillrTestQuestions = [
     "question": "Which day comes after Wednesday?",
     "visual": "breakfast → school → lunch → play → sleep",
     "answers": [
-      "Wednesday",
       "Thursday",
+      "Wednesday",
       "Sunday"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The shown schedule places play after lunch."
   },
   {
@@ -294,11 +275,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which day comes after Monday?",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "Sunday"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Monday follows Sunday in the weekly cycle."
   },
   {
@@ -312,8 +293,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Tuesday",
       "Monday",
-      "Wednesday",
-      "Thursday"
+      "Wednesday"
     ],
     "correct": 0,
     "explanation": "Tuesday comes before Wednesday."
@@ -329,8 +309,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Thursday",
       "Tuesday",
-      "Wednesday",
-      "Saturday"
+      "Wednesday"
     ],
     "correct": 0,
     "explanation": "The missing day is Thursday."
@@ -344,11 +323,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which day comes after Wednesday?",
     "answers": [
-      "Wednesday",
       "Thursday",
+      "Wednesday",
       "Sunday"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The seven days repeat in a cycle."
   },
   {
@@ -360,11 +339,11 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which day comes after Monday?",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "Sunday"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Count forward two days to Saturday."
   },
   {
@@ -378,8 +357,7 @@ window.skillrTestQuestions = [
     "answers": [
       "eat lunch",
       "wake at midnight for school",
-      "eat a second breakfast at night",
-      "sleep during assembly"
+      "eat a second breakfast at night"
     ],
     "correct": 0,
     "explanation": "eat lunch commonly matches lunchtime."
@@ -398,14 +376,10 @@ window.skillrTestQuestions = [
       "afternoon",
       "lunchtime"
     ],
-    "correct": [
-      "morning",
-      "lunchtime",
-      "afternoon",
-      "night time"
-    ],
+    "correct": "morning,lunchtime,afternoon,night time",
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Morning, lunchtime, afternoon, night time."
+    "explanation": "Morning, lunchtime, afternoon, night time.",
+    "modelAnswer": "morning,lunchtime,afternoon,night time"
   },
   {
     "id": "ac9mfm02-t-024",
@@ -420,13 +394,9 @@ window.skillrTestQuestions = [
       "eat breakfast",
       "eat lunch"
     ],
-    "correct": [
-      "eat breakfast",
-      "eat lunch",
-      "go to bed"
-    ],
+    "correct": "eat breakfast,eat lunch,go to bed",
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "Breakfast comes before lunch and bedtime."
+    "explanation": "Breakfast comes before lunch and bedtime.",
+    "modelAnswer": "eat breakfast,eat lunch,go to bed"
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

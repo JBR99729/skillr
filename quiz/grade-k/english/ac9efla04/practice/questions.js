@@ -6,16 +6,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which feature most clearly helps a reader identify the front cover?",
-    "explanation": "B — A title and cover image commonly identify the book at its front.",
+    "explanation": "A title and cover image commonly identify the book at its front.",
     "printable": true,
     "type": "single",
     "answers": [
-      "A page number in the middle",
       "The title and main cover picture",
-      "The final sentence of the story",
-      "The blank inside of the back cover"
+      "A page number in the middle",
+      "The final sentence of the story"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9efla04-p02",
@@ -39,7 +38,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "What do we turn to read the next part of a paper book?",
-    "explanation": "C — The labelled Start control signals where the text begins.",
+    "explanation": "The labelled Start control signals where the text begins.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -130,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

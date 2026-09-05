@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Choose the words that complete the sentence: The ___ runs.",
-    "explanation": "B — Its word groups occur in an order that communicates who acts and what is affected.",
+    "explanation": "Its word groups occur in an order that communicates who acts and what is affected.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

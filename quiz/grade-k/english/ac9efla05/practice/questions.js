@@ -6,7 +6,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which is a complete sentence?",
-    "explanation": "C — It tells a complete idea about what the puppy does.",
+    "explanation": "It tells a complete idea about what the puppy does.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -70,7 +70,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which is a complete sentence?",
-    "explanation": "D — It communicates who is acting and what is happening.",
+    "explanation": "It communicates who is acting and what is happening.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -129,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

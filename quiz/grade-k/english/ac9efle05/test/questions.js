@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "What should you include when retelling a familiar story?",
-    "explanation": "D — It keeps the central journey, rescue and safe return in order.",
+    "explanation": "It keeps the central journey, rescue and safe return in order.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -38,7 +38,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which change adapts a familiar story?",
-    "explanation": "A — It directly represents the key action and characters.",
+    "explanation": "It directly represents the key action and characters.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -129,4 +129,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

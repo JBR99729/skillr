@@ -6,16 +6,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which word names the container a child might pack with food for school?",
-    "explanation": "B — “Lunchbox” belongs to the familiar routine of taking lunch.",
+    "explanation": "“Lunchbox” belongs to the familiar routine of taking lunch.",
     "printable": true,
     "type": "single",
     "answers": [
-      "telescope",
       "lunchbox",
-      "seedling",
-      "rectangle"
+      "telescope",
+      "seedling"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9efla08-p02",
@@ -23,16 +22,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "The class is learning about shapes. Which word belongs most directly to that topic?",
-    "explanation": "C — “Triangle” is topic vocabulary used to name a shape.",
+    "explanation": "“Triangle” is topic vocabulary used to name a shape.",
     "printable": true,
     "type": "single",
     "answers": [
-      "breakfast",
-      "whisper",
       "triangle",
-      "puppy"
+      "breakfast",
+      "whisper"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9efla08-p03",
@@ -56,16 +54,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which word most precisely completes “The snail ___ across the leaf”?",
-    "explanation": "D — “Crawls” names the slow movement accurately.",
+    "explanation": "“Crawls” names the slow movement accurately.",
     "printable": true,
     "type": "single",
     "answers": [
+      "crawls",
       "bakes",
-      "shouts",
-      "flashes",
-      "crawls"
+      "shouts"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efla08-p05",
@@ -132,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

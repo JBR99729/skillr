@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Which word rhymes with cat?",
-    "explanation": "A — They share the same final sound.",
+    "explanation": "They share the same final sound.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -138,4 +138,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

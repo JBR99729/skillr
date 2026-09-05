@@ -10,11 +10,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "both were the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "⚪ ramp → end"
   },
   {
@@ -84,11 +84,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "red",
       "blue",
+      "red",
       "both are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "🐜 🦋 | 🐜 🐝"
   },
   {
@@ -152,11 +152,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "both were the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "cone: straight? | observed curved ↪"
   },
   {
@@ -220,11 +220,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "red",
       "blue",
+      "red",
       "both are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "result: small ball bounced higher"
   },
   {
@@ -294,11 +294,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "both were the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "⛵ predicted float | observed sink"
   },
   {
@@ -362,11 +362,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "red",
       "blue",
+      "red",
       "both are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "card: 2 flowers | result: 4 flowers appeared"
   },
   {
@@ -430,11 +430,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "both were the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "P: rubber ball bounces 5 times\nO: bounced 3 times"
   },
   {
@@ -498,11 +498,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "red",
       "blue",
+      "red",
       "both are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "prediction 2 🐦 | observation 2 🐦"
   },
   {
@@ -572,11 +572,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "both were the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "roll+bounce | roll+stop"
   },
   {
@@ -640,11 +640,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "red",
       "blue",
+      "red",
       "both are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "red? | observed red+yellow"
   },
   {
@@ -708,11 +708,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "both were the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "result: bees appeared unexpectedly"
   },
   {
@@ -782,11 +782,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "red",
       "blue",
+      "red",
       "both are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "prediction 🌼 | observation 🌿"
   },
   {
@@ -850,11 +850,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Monday",
       "Tuesday",
+      "Monday",
       "both were the same"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "card: 3 ants | result: 5 ants were counted"
   },
   {
@@ -918,11 +918,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "red",
       "blue",
+      "red",
       "both are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "visual": "P: no leaves fall\nO: 2 leaves fell"
   },
   {
@@ -977,4 +977,3 @@ window.skillrPracticeQuestions = [
     "visual": "prediction card + observation card"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

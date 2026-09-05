@@ -5,34 +5,32 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9MFN01",
     "bank": "test",
     "skill": "count a mixed arrangement",
-    "question": "How many hearts are shown? ♥  ♥♥   ♥  ♥ ♥",
+    "question": "[Show a clear visual that exactly matches the question and choices.] How many hearts are shown? ♥  ♥♥   ♥  ♥ ♥",
     "explanation": "Count each heart once. There are 6.",
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
       "6",
-      "7",
-      "8"
+      "5",
+      "7"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-002",
     "curriculumCode": "AC9MFN01",
     "bank": "test",
     "skill": "subitise a ten-frame part",
-    "question": "A ten-frame has all 5 spaces filled in its top row and 2 filled below. How many counters are shown?",
+    "question": "[Show a clear visual that exactly matches the question and choices.] A ten-frame has all 5 spaces filled in its top row and 2 filled below. How many counters are shown?",
     "explanation": "Five and 2 more make 7.",
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
-      "6",
       "7",
-      "8"
+      "5",
+      "6"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-003",
@@ -44,12 +42,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "3 birds on a fence",
       "An empty nest",
-      "1 apple in a bowl",
-      "10 blocks in a tower"
+      "3 birds on a fence",
+      "1 apple in a bowl"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-004",
@@ -61,12 +58,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "●●●●●●",
-      "●●●●●●●",
       "●●●●●●●●",
-      "●●●●●●●●●"
+      "●●●●●●",
+      "●●●●●●●"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-005",
@@ -78,12 +74,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "15",
-      "16",
       "17",
-      "18"
+      "15",
+      "16"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-006",
@@ -95,12 +90,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "17",
-      "18",
       "19",
-      "20"
+      "17",
+      "18"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-007",
@@ -112,11 +106,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
+      "18",
       "16",
-      "17",
-      "18"
+      "17"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-008",
@@ -128,12 +122,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "10",
-      "11",
       "12",
-      "14"
+      "10",
+      "11"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-009",
@@ -145,12 +138,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "7",
       "8",
-      "9",
-      "16"
+      "7",
+      "9"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-010",
@@ -162,12 +154,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "18",
-      "19",
       "20",
-      "21"
+      "18",
+      "19"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-011",
@@ -179,12 +170,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
-      "8",
       "9",
-      "11"
+      "0",
+      "8"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-012",
@@ -196,12 +186,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "11",
-      "12",
       "13",
-      "15"
+      "11",
+      "12"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-013",
@@ -213,12 +202,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "12",
-      "13",
       "14",
-      "17"
+      "12",
+      "13"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-014",
@@ -230,12 +218,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "18 is greater than 19",
       "19 is greater than 18",
-      "18 and 19 are equal",
-      "9 is between 18 and 19"
+      "18 is greater than 19",
+      "18 and 19 are equal"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-015",
@@ -247,12 +234,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "0 is greater than 5",
-      "5 is less than 0",
       "0 is less than 5",
-      "0 and 5 are equal"
+      "0 is greater than 5",
+      "5 is less than 0"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-016",
@@ -266,8 +252,7 @@ window.skillrTestQuestions = [
     "answers": [
       "3, 9, 15, 20",
       "20, 15, 9, 3",
-      "3, 15, 9, 20",
-      "9, 3, 15, 20"
+      "3, 15, 9, 20"
     ],
     "correct": 0
   },
@@ -281,12 +266,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "A ten-frame showing 6",
       "The numeral 4",
-      "A group of 9 dots",
-      "The number name eight"
+      "A ten-frame showing 6",
+      "A group of 9 dots"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-018",
@@ -298,12 +282,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "5",
-      "7",
       "8",
-      "10"
+      "5",
+      "7"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-019",
@@ -315,12 +298,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "One step forward",
       "One step back",
-      "Two steps forward",
-      "It did not move"
+      "One step forward",
+      "Two steps forward"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-020",
@@ -332,12 +314,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "○",
-      "△",
       "□",
-      "★"
+      "○",
+      "△"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-021",
@@ -349,12 +330,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "11",
-      "12",
       "13",
-      "14"
+      "11",
+      "12"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-022",
@@ -366,11 +346,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
+      "16",
       "14",
-      "15",
-      "16"
+      "15"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-023",
@@ -382,12 +362,11 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "16",
-      "17",
       "18",
-      "19"
+      "16",
+      "17"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn01-t-024",
@@ -399,11 +378,10 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
+      "20",
       "18",
-      "19",
-      "20"
+      "19"
     ],
-    "correct": 2
+    "correct": 0
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

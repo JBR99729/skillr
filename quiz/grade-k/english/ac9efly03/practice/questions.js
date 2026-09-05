@@ -6,7 +6,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which text is imaginative?",
-    "explanation": "A — It presents an invented event that does not normally happen.",
+    "explanation": "It presents an invented event that does not normally happen.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -54,7 +54,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which sentence gives information?",
-    "explanation": "B — The texts use the same animal in factual and imaginative ways.",
+    "explanation": "The texts use the same animal in factual and imaginative ways.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -129,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

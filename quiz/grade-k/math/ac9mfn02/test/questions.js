@@ -4,15 +4,14 @@ window.skillrTestQuestions = [
     "id": "ac9mfn02-t-057",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "Which number matches this single ladybird?\n🐞",
+    "question": "Which number matches this single ladybird? / 🐞",
     "explanation": "One ladybird represents 1.",
     "printable": true,
     "type": "single",
     "answers": [
       "1",
       "2",
-      "3",
-      "4"
+      "3"
     ],
     "correct": 0
   },
@@ -20,92 +19,91 @@ window.skillrTestQuestions = [
     "id": "ac9mfn02-t-058",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "The slanting card contains 2 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-059",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "Name the amount in this corner pattern.\n● ●\n●",
+    "question": "Name the amount in this corner pattern. / ● ● / ●",
     "explanation": "Two on top and one below make 3.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
-      "4",
-      "5"
+      "2",
+      "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-060",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ● ● ●",
+    "question": "[Show 4 dots.] How many dots can you see?",
     "explanation": "The diamond contains 4 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-061",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ● ● ● ●",
+    "question": "[Show 5 dots.] How many dots can you see?",
     "explanation": "The zigzag contains 5 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
       "5",
+      "4",
       "1"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-062",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "Three of the five spaces are filled.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-063",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "Two buttons represent the same quantity as 2 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-064",
@@ -116,27 +114,26 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "● ● ●",
-      "● ● ● ●",
       "● ● ● ● ●",
-      "● ●"
+      "● ● ●",
+      "● ● ● ●"
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-065",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "Four fingers match a card with 4 dots.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-066",
@@ -147,28 +144,26 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "● ● ○ ○ ○",
       "● ● ● ○ ○",
-      "● ● ● ● ○",
-      "● ● ● ● ●"
+      "● ● ○ ○ ○",
+      "● ● ● ● ○"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-067",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "This arrangement has a pair and one extra dot.\n● ●   ●\nWhat is the whole?",
+    "question": "This arrangement has a pair and one extra dot. / ● ●   ● / What is the whole?",
     "explanation": "Two and one make 3.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
-      "4",
-      "5"
+      "2",
+      "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-068",
@@ -179,72 +174,71 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "2 + 1 = 3",
       "2 + 2 = 4",
-      "3 + 2 = 5",
-      "4 + 1 = 5"
+      "2 + 1 = 3",
+      "3 + 2 = 5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-069",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ● ● ● ●",
+    "question": "[Show 5 dots.] How many dots can you see?",
     "explanation": "One and four combine to make 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "4",
       "5",
+      "4",
       "1"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-070",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "Two empty spaces remain, so 2 more are needed.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-071",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "Five is more than three.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-072",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ● ●",
+    "question": "[Show 3 dots.] How many dots can you see?",
     "explanation": "Two dots are fewer than four.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-073",
@@ -255,57 +249,56 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "5 dots, 3 dots, 2 dots",
       "2 dots, 3 dots, 5 dots",
-      "3 dots, 2 dots, 5 dots",
-      "2 dots, 5 dots, 3 dots"
+      "5 dots, 3 dots, 2 dots",
+      "3 dots, 2 dots, 5 dots"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-074",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "The order is 1, 3, 4, so 3 is in the middle.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-075",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ● ●",
+    "question": "[Show 3 dots.] How many dots can you see?",
     "explanation": "The matching card must also show 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "2",
       "3",
+      "2",
       "4"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-076",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ● ● ●",
+    "question": "[Show 4 dots.] How many dots can you see?",
     "explanation": "Both cards in the pair must show 3.",
     "printable": true,
     "type": "single",
     "answers": [
-      "3",
       "4",
+      "3",
       "5"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-077",
@@ -316,42 +309,41 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "Kai",
       "Zoe",
-      "They tie",
-      "No one"
+      "Kai",
+      "They tie"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-078",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ●",
+    "question": "[Show 1 dot.] How many dots can you see?",
     "explanation": "Card size and spacing do not change a collection of 5.",
     "printable": true,
     "type": "single",
     "answers": [
-      "0",
       "1",
+      "0",
       "2"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-079",
     "curriculumCode": "AC9MFN02",
     "bank": "test",
-    "question": "How many dots? ● ●",
+    "question": "[Show 2 dots.] How many dots can you see?",
     "explanation": "Rotation changes the view, not the quantity.",
     "printable": true,
     "type": "single",
     "answers": [
-      "1",
       "2",
+      "1",
       "3"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9mfn02-t-080",
@@ -362,12 +354,10 @@ window.skillrTestQuestions = [
     "printable": true,
     "type": "single",
     "answers": [
-      "2 and 3 make 3",
-      "2 and 3 make 4",
       "2 and 3 make 5",
-      "The parts cannot be joined"
+      "2 and 3 make 3",
+      "2 and 3 make 4"
     ],
-    "correct": 2
+    "correct": 0
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

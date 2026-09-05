@@ -7,15 +7,15 @@ window.skillrPracticeQuestions = [
     "skill": "count visible collection",
     "printable": true,
     "type": "single",
-    "question": "There are 5 red counters and 7 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "● ● ● ●\n  ●",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "Touch or track each object once. There are 5.",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ]
   },
@@ -28,10 +28,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "Count the filled spaces in the two-row frame.",
     "visual": "● ● ● ● ●\n● ● ○ ○ ○",
-    "correct": 7,
+    "correct": "7",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Five on the top row and 2 below make 7."
+    "explanation": "Five on the top row and 2 below make 7.",
+    "modelAnswer": "7"
   },
   {
     "id": "ac9mfn03-p-003",
@@ -45,8 +46,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "There are 6 counters",
       "Start counting again",
-      "The counters changed size",
-      "Only the last counter matters"
+      "The counters changed size"
     ],
     "correct": 0,
     "explanation": "The final number said tells how many objects are in the whole collection."
@@ -58,13 +58,12 @@ window.skillrPracticeQuestions = [
     "skill": "compare by counting",
     "printable": true,
     "type": "single",
-    "question": "Which collection has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "A: ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■",
     "answers": [
       "Collection B",
       "Collection A",
-      "They are equal",
-      "You cannot compare them"
+      "They are equal"
     ],
     "correct": 0,
     "explanation": "B has 9; A has 8. 9 is more than 8."
@@ -76,14 +75,14 @@ window.skillrPracticeQuestions = [
     "skill": "compare equal quantities",
     "printable": true,
     "type": "single",
-    "question": "There are 9 red counters and 11 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "A: ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■\n  ■ ■ ■\n    ■ ■",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both contain 10. Spacing does not change quantity."
   },
   {
@@ -98,8 +97,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "No, one teddy has no cup",
       "Yes, because the cups are larger",
-      "No, because cups and teddies look different",
-      "There are always enough"
+      "No, because cups and teddies look different"
     ],
     "correct": 0,
     "explanation": "After pairing, one teddy is left without a cup."
@@ -116,8 +114,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "B will have 1 counter left",
       "A will have 1 counter left",
-      "Nothing will be left",
-      "Both will have 2 left"
+      "Nothing will be left"
     ],
     "correct": 0,
     "explanation": "B has 12 and A has 11, so one B counter is unmatched."
@@ -134,8 +131,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "There are enough pencils",
       "Everyone should share one pencil at the same time",
-      "The pencil colour decides",
-      "Do not count the children"
+      "The pencil colour decides"
     ],
     "correct": 0,
     "explanation": "There are at least as many pencils as children."
@@ -152,8 +148,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "One object was counted twice",
       "One object was skipped",
-      "The collection became larger",
-      "The last number must be repeated"
+      "The collection became larger"
     ],
     "correct": 0,
     "explanation": "Counting one object twice makes the answer one too large."
@@ -170,8 +165,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "One object was not counted",
       "One object was counted twice",
-      "The objects changed places",
-      "The first number should be zero"
+      "The objects changed places"
     ],
     "correct": 0,
     "explanation": "Skipping one object makes the count one too small."
@@ -183,14 +177,14 @@ window.skillrPracticeQuestions = [
     "skill": "accurate counting method",
     "printable": true,
     "type": "single",
-    "question": "There are 7 red counters and 9 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "● ● ● ●\n  ●",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "One-to-one counting means one number word for each object."
   },
   {
@@ -205,8 +199,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "They are equal",
       "The wider row always has more",
-      "The taller row always has more",
-      "You cannot count rearranged objects"
+      "The taller row always has more"
     ],
     "correct": 0,
     "explanation": "Rearranging does not change how many."
@@ -224,13 +217,10 @@ window.skillrPracticeQuestions = [
       "A: 11 objects",
       "B: 12 objects"
     ],
-    "correct": [
-      "A: 11 objects",
-      "B: 12 objects",
-      "C: 13 objects"
-    ],
+    "correct": "A: 11 objects,B: 12 objects,C: 13 objects",
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "11 < 12 < 13."
+    "explanation": "11 \u003c 12 \u003c 13.",
+    "modelAnswer": "A: 11 objects,B: 12 objects,C: 13 objects"
   },
   {
     "id": "ac9mfn03-p-014",
@@ -239,14 +229,14 @@ window.skillrPracticeQuestions = [
     "skill": "teen collection structure",
     "printable": true,
     "type": "single",
-    "question": "There are 10 red counters and 12 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "Ten: ● ● ● ● ●\n● ● ● ● ●\nMore: ■ ■ ■",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A full group of 10 and 3 more make 13."
   },
   {
@@ -259,10 +249,10 @@ window.skillrPracticeQuestions = [
     "question": "Moving these 11 counters farther apart changes how many counters there are.",
     "visual": "● ● ● ● ● ● ● ● ● ● ●\n● ● ● ● ● ●\n  ● ● ● ●\n    ●",
     "answers": [
-      "True",
-      "False"
+      "False",
+      "True"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Moving objects changes their position, not their quantity."
   },
   {
@@ -276,8 +266,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "11 comes after 10 when counting",
       "B is drawn lower on the screen",
-      "B uses darker symbols",
-      "A was counted first"
+      "B uses darker symbols"
     ],
     "correct": 0,
     "explanation": "The count, not position or colour, decides which quantity is greater."
@@ -289,15 +278,15 @@ window.skillrPracticeQuestions = [
     "skill": "count visible collection",
     "printable": true,
     "type": "single",
-    "question": "There are 5 red counters and 7 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "★ ★ ★ ★\n  ★ ★ ★ ★ ★",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "Touch or track each object once. There are 9.",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ]
   },
@@ -310,10 +299,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "Count the filled spaces in the two-row frame.",
     "visual": "● ● ● ● ●\n● ● ● ● ●",
-    "correct": 12,
+    "correct": "12",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Five on the top row and 7 below make 12."
+    "explanation": "Five on the top row and 7 below make 12.",
+    "modelAnswer": "12"
   },
   {
     "id": "ac9mfn03-p-019",
@@ -327,8 +317,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "There are 9 counters",
       "Start counting again",
-      "The counters changed size",
-      "Only the last counter matters"
+      "The counters changed size"
     ],
     "correct": 0,
     "explanation": "The final number said tells how many objects are in the whole collection."
@@ -340,13 +329,12 @@ window.skillrPracticeQuestions = [
     "skill": "compare by counting",
     "printable": true,
     "type": "single",
-    "question": "Which collection has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "A: ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■",
     "answers": [
       "Collection B",
       "Collection A",
-      "They are equal",
-      "You cannot compare them"
+      "They are equal"
     ],
     "correct": 0,
     "explanation": "B has 8; A has 6. 8 is more than 6."
@@ -358,14 +346,14 @@ window.skillrPracticeQuestions = [
     "skill": "compare equal quantities",
     "printable": true,
     "type": "single",
-    "question": "There are 9 red counters and 11 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "A: ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■\n  ■ ■ ■\n    ■ ■",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both contain 10. Spacing does not change quantity."
   },
   {
@@ -380,8 +368,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "No, one teddy has no cup",
       "Yes, because the cups are larger",
-      "No, because cups and teddies look different",
-      "There are always enough"
+      "No, because cups and teddies look different"
     ],
     "correct": 0,
     "explanation": "After pairing, one teddy is left without a cup."
@@ -398,8 +385,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "B will have 1 counter left",
       "A will have 1 counter left",
-      "Nothing will be left",
-      "Both will have 2 left"
+      "Nothing will be left"
     ],
     "correct": 0,
     "explanation": "B has 12 and A has 11, so one B counter is unmatched."
@@ -416,8 +402,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "There are enough pencils",
       "Everyone should share one pencil at the same time",
-      "The pencil colour decides",
-      "Do not count the children"
+      "The pencil colour decides"
     ],
     "correct": 0,
     "explanation": "There are at least as many pencils as children."
@@ -434,8 +419,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "One object was counted twice",
       "One object was skipped",
-      "The collection became larger",
-      "The last number must be repeated"
+      "The collection became larger"
     ],
     "correct": 0,
     "explanation": "Counting one object twice makes the answer one too large."
@@ -452,8 +436,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "One object was not counted",
       "One object was counted twice",
-      "The objects changed places",
-      "The first number should be zero"
+      "The objects changed places"
     ],
     "correct": 0,
     "explanation": "Skipping one object makes the count one too small."
@@ -465,14 +448,14 @@ window.skillrPracticeQuestions = [
     "skill": "accurate counting method",
     "printable": true,
     "type": "single",
-    "question": "There are 7 red counters and 9 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "● ● ● ● ● ●\n  ● ● ● ●\n    ●",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "One-to-one counting means one number word for each object."
   },
   {
@@ -487,8 +470,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "They are equal",
       "The wider row always has more",
-      "The taller row always has more",
-      "You cannot count rearranged objects"
+      "The taller row always has more"
     ],
     "correct": 0,
     "explanation": "Rearranging does not change how many."
@@ -506,13 +488,10 @@ window.skillrPracticeQuestions = [
       "A: 6 objects",
       "B: 7 objects"
     ],
-    "correct": [
-      "A: 6 objects",
-      "B: 7 objects",
-      "C: 8 objects"
-    ],
+    "correct": "A: 6 objects,B: 7 objects,C: 8 objects",
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "6 < 7 < 8."
+    "explanation": "6 \u003c 7 \u003c 8.",
+    "modelAnswer": "A: 6 objects,B: 7 objects,C: 8 objects"
   },
   {
     "id": "ac9mfn03-p-030",
@@ -521,14 +500,14 @@ window.skillrPracticeQuestions = [
     "skill": "teen collection structure",
     "printable": true,
     "type": "single",
-    "question": "There are 10 red counters and 12 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "Ten: ● ● ● ● ●\n● ● ● ● ●\nMore: ■ ■ ■ ■ ■ ■ ■ ■ ■",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A full group of 10 and 9 more make 19."
   },
   {
@@ -541,10 +520,10 @@ window.skillrPracticeQuestions = [
     "question": "Moving these 9 counters farther apart changes how many counters there are.",
     "visual": "● ● ● ● ● ● ● ● ●\n● ● ● ●\n  ● ● ● ● ●",
     "answers": [
-      "True",
-      "False"
+      "False",
+      "True"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Moving objects changes their position, not their quantity."
   },
   {
@@ -558,8 +537,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "7 comes after 6 when counting",
       "B is drawn lower on the screen",
-      "B uses darker symbols",
-      "A was counted first"
+      "B uses darker symbols"
     ],
     "correct": 0,
     "explanation": "The count, not position or colour, decides which quantity is greater."
@@ -571,15 +549,15 @@ window.skillrPracticeQuestions = [
     "skill": "count visible collection",
     "printable": true,
     "type": "single",
-    "question": "There are 5 red counters and 7 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "▲ ▲ ▲ ▲\n  ▲ ▲ ▲ ▲ ▲ ▲\n    ▲ ▲ ▲",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "Touch or track each object once. There are 13.",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ]
   },
@@ -592,10 +570,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "Count the filled spaces in the two-row frame.",
     "visual": "● ● ● ● ●\n● ○ ○ ○ ○",
-    "correct": 6,
+    "correct": "6",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Five on the top row and 1 below make 6."
+    "explanation": "Five on the top row and 1 below make 6.",
+    "modelAnswer": "6"
   },
   {
     "id": "ac9mfn03-p-035",
@@ -609,8 +588,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "There are 12 counters",
       "Start counting again",
-      "The counters changed size",
-      "Only the last counter matters"
+      "The counters changed size"
     ],
     "correct": 0,
     "explanation": "The final number said tells how many objects are in the whole collection."
@@ -622,13 +600,12 @@ window.skillrPracticeQuestions = [
     "skill": "compare by counting",
     "printable": true,
     "type": "single",
-    "question": "Which collection has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "A: ● ● ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
     "answers": [
       "Collection B",
       "Collection A",
-      "They are equal",
-      "You cannot compare them"
+      "They are equal"
     ],
     "correct": 0,
     "explanation": "B has 16; A has 13. 16 is more than 13."
@@ -640,14 +617,14 @@ window.skillrPracticeQuestions = [
     "skill": "compare equal quantities",
     "printable": true,
     "type": "single",
-    "question": "There are 9 red counters and 11 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "A: ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■\n  ■ ■ ■\n    ■ ■",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both contain 10. Spacing does not change quantity."
   },
   {
@@ -662,8 +639,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "No, one teddy has no cup",
       "Yes, because the cups are larger",
-      "No, because cups and teddies look different",
-      "There are always enough"
+      "No, because cups and teddies look different"
     ],
     "correct": 0,
     "explanation": "After pairing, one teddy is left without a cup."
@@ -680,8 +656,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "B will have 1 counter left",
       "A will have 1 counter left",
-      "Nothing will be left",
-      "Both will have 2 left"
+      "Nothing will be left"
     ],
     "correct": 0,
     "explanation": "B has 12 and A has 11, so one B counter is unmatched."
@@ -698,8 +673,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "There are not enough pencils",
       "Everyone should share one pencil at the same time",
-      "The pencil colour decides",
-      "Do not count the children"
+      "The pencil colour decides"
     ],
     "correct": 0,
     "explanation": "There are fewer pencils than children."
@@ -716,8 +690,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "One object was counted twice",
       "One object was skipped",
-      "The collection became larger",
-      "The last number must be repeated"
+      "The collection became larger"
     ],
     "correct": 0,
     "explanation": "Counting one object twice makes the answer one too large."
@@ -734,8 +707,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "One object was not counted",
       "One object was counted twice",
-      "The objects changed places",
-      "The first number should be zero"
+      "The objects changed places"
     ],
     "correct": 0,
     "explanation": "Skipping one object makes the count one too small."
@@ -747,14 +719,14 @@ window.skillrPracticeQuestions = [
     "skill": "accurate counting method",
     "printable": true,
     "type": "single",
-    "question": "There are 7 red counters and 9 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "● ● ● ● ● ●\n  ●",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "One-to-one counting means one number word for each object."
   },
   {
@@ -769,8 +741,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "They are equal",
       "The wider row always has more",
-      "The taller row always has more",
-      "You cannot count rearranged objects"
+      "The taller row always has more"
     ],
     "correct": 0,
     "explanation": "Rearranging does not change how many."
@@ -788,13 +759,10 @@ window.skillrPracticeQuestions = [
       "A: 8 objects",
       "B: 9 objects"
     ],
-    "correct": [
-      "A: 8 objects",
-      "B: 9 objects",
-      "C: 10 objects"
-    ],
+    "correct": "A: 8 objects,B: 9 objects,C: 10 objects",
     "instruction": "Use the arrows to put them in order.",
-    "explanation": "8 < 9 < 10."
+    "explanation": "8 \u003c 9 \u003c 10.",
+    "modelAnswer": "A: 8 objects,B: 9 objects,C: 10 objects"
   },
   {
     "id": "ac9mfn03-p-046",
@@ -803,14 +771,14 @@ window.skillrPracticeQuestions = [
     "skill": "teen collection structure",
     "printable": true,
     "type": "single",
-    "question": "There are 10 red counters and 12 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "Ten: ● ● ● ● ●\n● ● ● ● ●\nMore: ■ ■ ■ ■ ■",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "A full group of 10 and 5 more make 15."
   },
   {
@@ -823,10 +791,10 @@ window.skillrPracticeQuestions = [
     "question": "Moving these 7 counters farther apart changes how many counters there are.",
     "visual": "● ● ● ● ● ● ●\n● ● ● ● ● ●\n  ●",
     "answers": [
-      "True",
-      "False"
+      "False",
+      "True"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Moving objects changes their position, not their quantity."
   },
   {
@@ -840,8 +808,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "13 comes after 12 when counting",
       "B is drawn lower on the screen",
-      "B uses darker symbols",
-      "A was counted first"
+      "B uses darker symbols"
     ],
     "correct": 0,
     "explanation": "The count, not position or colour, decides which quantity is greater."
@@ -853,15 +820,15 @@ window.skillrPracticeQuestions = [
     "skill": "count visible collection",
     "printable": true,
     "type": "single",
-    "question": "There are 5 red counters and 7 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "● ● ● ●\n  ●",
-    "correct": 1,
+    "correct": 0,
     "tolerance": 0,
     "placeholder": "Type the number",
     "explanation": "Touch or track each object once. There are 5.",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ]
   },
@@ -874,10 +841,11 @@ window.skillrPracticeQuestions = [
     "type": "number",
     "question": "Count the filled spaces in the two-row frame.",
     "visual": "● ● ● ● ●\n● ● ● ● ●",
-    "correct": 11,
+    "correct": "11",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "Five on the top row and 6 below make 11."
+    "explanation": "Five on the top row and 6 below make 11.",
+    "modelAnswer": "11"
   },
   {
     "id": "ac9mfn03-p-051",
@@ -891,8 +859,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "There are 15 counters",
       "Start counting again",
-      "The counters changed size",
-      "Only the last counter matters"
+      "The counters changed size"
     ],
     "correct": 0,
     "explanation": "The final number said tells how many objects are in the whole collection."
@@ -904,13 +871,12 @@ window.skillrPracticeQuestions = [
     "skill": "compare by counting",
     "printable": true,
     "type": "single",
-    "question": "Which collection has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "A: ● ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■",
     "answers": [
       "Collection B",
       "Collection A",
-      "They are equal",
-      "You cannot compare them"
+      "They are equal"
     ],
     "correct": 0,
     "explanation": "B has 12; A has 11. 12 is more than 11."
@@ -922,14 +888,14 @@ window.skillrPracticeQuestions = [
     "skill": "compare equal quantities",
     "printable": true,
     "type": "single",
-    "question": "There are 9 red counters and 11 blue counters. Which group has more?",
+    "question": "[Show Group A with 3 counters and Group B with 5 counters.] Which group has more?",
     "visual": "A: ● ● ● ● ● ● ● ● ● ●\nB: ■ ■ ■ ■ ■\n  ■ ■ ■\n    ■ ■",
     "answers": [
-      "red counters",
       "blue counters",
+      "red counters",
       "both groups are equal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both contain 10. Spacing does not change quantity."
   },
   {
@@ -944,8 +910,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "No, one teddy has no cup",
       "Yes, because the cups are larger",
-      "No, because cups and teddies look different",
-      "There are always enough"
+      "No, because cups and teddies look different"
     ],
     "correct": 0,
     "explanation": "After pairing, one teddy is left without a cup."
@@ -962,8 +927,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "B will have 1 counter left",
       "A will have 1 counter left",
-      "Nothing will be left",
-      "Both will have 2 left"
+      "Nothing will be left"
     ],
     "correct": 0,
     "explanation": "B has 12 and A has 11, so one B counter is unmatched."
@@ -980,11 +944,9 @@ window.skillrPracticeQuestions = [
     "answers": [
       "There are enough pencils",
       "Everyone should share one pencil at the same time",
-      "The pencil colour decides",
-      "Do not count the children"
+      "The pencil colour decides"
     ],
     "correct": 0,
     "explanation": "There are at least as many pencils as children."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

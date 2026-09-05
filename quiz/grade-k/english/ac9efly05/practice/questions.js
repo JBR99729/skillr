@@ -6,7 +6,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Before reading a book called ‘The Lost Dog’, what could you predict?",
-    "explanation": "C — The text states “a yellow bucket”.",
+    "explanation": "The text states “a yellow bucket”.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -22,7 +22,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Read: ‘The rain stopped. Mia closed her umbrella.’ Why did Mia close it?",
-    "explanation": "D — The clouds, wind and raincoat are clues to likely rain.",
+    "explanation": "The clouds, wind and raincoat are clues to likely rain.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -129,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

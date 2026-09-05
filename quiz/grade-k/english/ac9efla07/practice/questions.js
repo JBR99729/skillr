@@ -5,8 +5,8 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA07",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "A picture shows a wet dog. The words say, ‘The dog shook off the rain.’ What does the picture help you see?",
-    "explanation": "A — The gumboots, umbrella and raindrops visually show wet weather.",
+    "question": "[Show the picture or short text needed for the question.] A picture shows a wet dog. The words say, ‘The dog shook off the rain.’ What does the picture help you see?",
+    "explanation": "The gumboots, umbrella and raindrops visually show wet weather.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -37,8 +37,8 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA07",
     "bank": "practice",
     "sourceType": "Multiple choice",
-    "question": "A picture shows three ducks. What can the picture tell you?",
-    "explanation": "B — It visually represents the exact stage and direction described.",
+    "question": "[Show the picture or short text needed for the question.] A picture shows three ducks. What can the picture tell you?",
+    "explanation": "It visually represents the exact stage and direction described.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -69,7 +69,7 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA07",
     "bank": "practice",
     "sourceType": "Short response",
-    "question": "A picture shows a wet dog. The words say, ‘The dog shook off the rain.’ What does the picture help you see?",
+    "question": "[Show the picture or short text needed for the question.] A picture shows a wet dog. The words say, ‘The dog shook off the rain.’ What does the picture help you see?",
     "explanation": "Pip is probably searching for a dog (1 mark); gives a clue such as dog bed, lead, or “searched everywhere” with the dog-related image (1 mark); 2 marks total.",
     "printable": true,
     "type": "single",
@@ -101,7 +101,7 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9EFLA07",
     "bank": "practice",
     "sourceType": "Extended response",
-    "question": "A picture shows three ducks. What can the picture tell you?",
+    "question": "[Show the picture or short text needed for the question.] A picture shows three ducks. What can the picture tell you?",
     "explanation": "Up to 2 marks for mismatches such as tiny/large, boat/ship, pond/ocean, calm/crashing waves or quietly/stormily; 1 mark for a logical change to either words or image that restores agreement; 3 marks total.",
     "printable": true,
     "type": "single",
@@ -129,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

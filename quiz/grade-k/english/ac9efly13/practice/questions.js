@@ -44,16 +44,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which spelling best matches all the sounds in ship?",
-    "explanation": "B — sh-i-p represents /sh/ /i/ /p/ in order.",
+    "explanation": "sh-i-p represents /sh/ /i/ /p/ in order.",
     "printable": true,
     "type": "single",
     "answers": [
-      "sip",
       "ship",
-      "shop",
-      "chip"
+      "sip",
+      "shop"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9efly13-p04",
@@ -77,7 +76,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which letter shows the first sound in moon?",
-    "explanation": "C — nest includes /n/ /e/ /s/ /t/ in order.",
+    "explanation": "nest includes /n/ /e/ /s/ /t/ in order.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -136,4 +135,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

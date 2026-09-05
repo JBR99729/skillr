@@ -11,8 +11,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "The symbol shows a circle."
@@ -25,10 +24,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "number",
     "question": "How many straight sides does a square have?",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "A square has 4 straight sides."
+    "explanation": "A square has 4 straight sides.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfsp01-p-003",
@@ -38,10 +38,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "number",
     "question": "How many corners does a square have?",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "A square has 4 corners."
+    "explanation": "A square has 4 corners.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfsp01-p-004",
@@ -55,8 +56,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A circle has no straight sides or corners."
@@ -105,8 +105,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "square and rectangle",
       "circle and triangle",
-      "circle and square",
-      "triangle and rectangle"
+      "circle and square"
     ],
     "correct": 0,
     "explanation": "Squares and rectangles both have 4 straight sides."
@@ -123,8 +122,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "triangle",
       "circle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A triangle has 3 straight sides."
@@ -140,8 +138,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A coin commonly has a circle face or outline."
@@ -155,11 +152,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which shape has 3 straight sides?",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both selected shapes have 3 straight sides."
   },
   {
@@ -171,11 +168,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which shape has 3 straight sides?",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The square and rectangle each have 4 corners."
   },
   {
@@ -189,8 +186,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "It is a turned square",
       "It became a triangle",
-      "Only colour decides shape",
-      "A square must sit flat"
+      "Only colour decides shape"
     ],
     "correct": 0,
     "explanation": "Rotation does not change the defining features."
@@ -206,8 +202,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "A square and rectangle both have 4 straight sides",
       "A circle has 4 corners",
-      "Every triangle has 4 sides",
-      "A rectangle has no corners"
+      "Every triangle has 4 sides"
     ],
     "correct": 0,
     "explanation": "Both shapes share the property of 4 straight sides."
@@ -225,12 +220,12 @@ window.skillrPracticeQuestions = [
       "circle",
       "triangle"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "A circle has 0 straight sides, a triangle 3, and a square 4.",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ]
   },
@@ -245,8 +240,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Sides, corners and curved boundaries",
       "Colour only",
-      "Who owns the object",
-      "The shape name length"
+      "Who owns the object"
     ],
     "correct": 0,
     "explanation": "Shape is determined by geometric features."
@@ -260,11 +254,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which shape has 3 straight sides?",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both squares and rectangles fit those features."
   },
   {
@@ -278,8 +272,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "The symbol shows a circle."
@@ -292,10 +285,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "number",
     "question": "How many straight sides does a rectangle have?",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "A rectangle has 4 straight sides."
+    "explanation": "A rectangle has 4 straight sides.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfsp01-p-019",
@@ -305,10 +299,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "number",
     "question": "How many corners does a square have?",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "A square has 4 corners."
+    "explanation": "A square has 4 corners.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfsp01-p-020",
@@ -322,8 +317,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A circle has no straight sides or corners."
@@ -372,8 +366,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "square and rectangle",
       "circle and triangle",
-      "circle and square",
-      "triangle and rectangle"
+      "circle and square"
     ],
     "correct": 0,
     "explanation": "Squares and rectangles both have 4 straight sides."
@@ -390,8 +383,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "triangle",
       "circle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A triangle has 3 straight sides."
@@ -407,8 +399,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A coin commonly has a circle face or outline."
@@ -422,11 +413,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which shape has 3 straight sides?",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both selected shapes have 3 straight sides."
   },
   {
@@ -438,11 +429,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which shape has 3 straight sides?",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The square and rectangle each have 4 corners."
   },
   {
@@ -456,8 +447,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "It is a turned square",
       "It became a triangle",
-      "Only colour decides shape",
-      "A square must sit flat"
+      "Only colour decides shape"
     ],
     "correct": 0,
     "explanation": "Rotation does not change the defining features."
@@ -473,8 +463,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "A square and rectangle both have 4 straight sides",
       "A circle has 4 corners",
-      "Every triangle has 4 sides",
-      "A rectangle has no corners"
+      "Every triangle has 4 sides"
     ],
     "correct": 0,
     "explanation": "Both shapes share the property of 4 straight sides."
@@ -492,12 +481,12 @@ window.skillrPracticeQuestions = [
       "circle",
       "triangle"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "A circle has 0 straight sides, a triangle 3, and a square 4.",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ]
   },
@@ -512,8 +501,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Sides, corners and curved boundaries",
       "Colour only",
-      "Who owns the object",
-      "The shape name length"
+      "Who owns the object"
     ],
     "correct": 0,
     "explanation": "Shape is determined by geometric features."
@@ -527,11 +515,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which shape has 3 straight sides?",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both squares and rectangles fit those features."
   },
   {
@@ -545,8 +533,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "The symbol shows a circle."
@@ -559,10 +546,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "number",
     "question": "How many straight sides does a triangle have?",
-    "correct": 3,
+    "correct": "3",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "A triangle has 3 straight sides."
+    "explanation": "A triangle has 3 straight sides.",
+    "modelAnswer": "3"
   },
   {
     "id": "ac9mfsp01-p-035",
@@ -572,10 +560,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "number",
     "question": "How many corners does a square have?",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "A square has 4 corners."
+    "explanation": "A square has 4 corners.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfsp01-p-036",
@@ -589,8 +578,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A circle has no straight sides or corners."
@@ -639,8 +627,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "square and rectangle",
       "circle and triangle",
-      "circle and square",
-      "triangle and rectangle"
+      "circle and square"
     ],
     "correct": 0,
     "explanation": "Squares and rectangles both have 4 straight sides."
@@ -657,8 +644,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "triangle",
       "circle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A triangle has 3 straight sides."
@@ -674,8 +660,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A coin commonly has a circle face or outline."
@@ -689,11 +674,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which shape has 3 straight sides?",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both selected shapes have 3 straight sides."
   },
   {
@@ -705,11 +690,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which shape has 3 straight sides?",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The square and rectangle each have 4 corners."
   },
   {
@@ -723,8 +708,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "It is a turned square",
       "It became a triangle",
-      "Only colour decides shape",
-      "A square must sit flat"
+      "Only colour decides shape"
     ],
     "correct": 0,
     "explanation": "Rotation does not change the defining features."
@@ -740,8 +724,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "A square and rectangle both have 4 straight sides",
       "A circle has 4 corners",
-      "Every triangle has 4 sides",
-      "A rectangle has no corners"
+      "Every triangle has 4 sides"
     ],
     "correct": 0,
     "explanation": "Both shapes share the property of 4 straight sides."
@@ -759,12 +742,12 @@ window.skillrPracticeQuestions = [
       "circle",
       "triangle"
     ],
-    "correct": 1,
+    "correct": 0,
     "instruction": "Use the arrows to put them in order.",
     "explanation": "A circle has 0 straight sides, a triangle 3, and a square 4.",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ]
   },
@@ -779,8 +762,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Sides, corners and curved boundaries",
       "Colour only",
-      "Who owns the object",
-      "The shape name length"
+      "Who owns the object"
     ],
     "correct": 0,
     "explanation": "Shape is determined by geometric features."
@@ -794,11 +776,11 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "Which shape has 3 straight sides?",
     "answers": [
-      "circle",
       "triangle",
+      "circle",
       "square"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Both squares and rectangles fit those features."
   },
   {
@@ -812,8 +794,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "The symbol shows a circle."
@@ -826,10 +807,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "number",
     "question": "How many straight sides does a square have?",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "A square has 4 straight sides."
+    "explanation": "A square has 4 straight sides.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfsp01-p-051",
@@ -839,10 +821,11 @@ window.skillrPracticeQuestions = [
     "printable": true,
     "type": "number",
     "question": "How many corners does a square have?",
-    "correct": 4,
+    "correct": "4",
     "tolerance": 0,
     "placeholder": "Type the number",
-    "explanation": "A square has 4 corners."
+    "explanation": "A square has 4 corners.",
+    "modelAnswer": "4"
   },
   {
     "id": "ac9mfsp01-p-052",
@@ -856,8 +839,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "circle",
       "triangle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A circle has no straight sides or corners."
@@ -906,8 +888,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "square and rectangle",
       "circle and triangle",
-      "circle and square",
-      "triangle and rectangle"
+      "circle and square"
     ],
     "correct": 0,
     "explanation": "Squares and rectangles both have 4 straight sides."
@@ -924,11 +905,9 @@ window.skillrPracticeQuestions = [
     "answers": [
       "triangle",
       "circle",
-      "square",
-      "rectangle"
+      "square"
     ],
     "correct": 0,
     "explanation": "A triangle has 3 straight sides."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

@@ -22,16 +22,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which version writes the child’s name correctly?",
-    "explanation": "C — A person’s name begins with a capital letter.",
+    "explanation": "A person’s name begins with a capital letter.",
     "printable": true,
     "type": "single",
     "answers": [
-      "I sat beside mIA.",
-      "I sat beside mia.",
       "I sat beside Mia.",
-      "I sat beside .mia"
+      "I sat beside mIA.",
+      "I sat beside mia."
     ],
-    "correct": 2
+    "correct": 0
   },
   {
     "id": "ac9efla09-p03",
@@ -55,7 +54,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which sentence has a full stop?",
-    "explanation": "D — A question mark signals that the sentence asks a question.",
+    "explanation": "A question mark signals that the sentence asks a question.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -133,4 +132,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

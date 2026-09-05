@@ -6,7 +6,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "What is the purpose of a story?",
-    "explanation": "C — It uses imagined characters and events to tell a story.",
+    "explanation": "It uses imagined characters and events to tell a story.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -57,7 +57,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which text is written to entertain?",
-    "explanation": "D — The heading, labels and fact boxes signal an informative purpose.",
+    "explanation": "The heading, labels and fact boxes signal an informative purpose.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -89,7 +89,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "What is the purpose of a book about frogs?",
-    "explanation": "A — Step-by-step instructions are designed to guide an action.",
+    "explanation": "Step-by-step instructions are designed to guide an action.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -132,4 +132,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

@@ -6,7 +6,7 @@ window.skillrTestQuestions = [
     "bank": "test",
     "sourceType": "Multiple choice",
     "question": "Ben loses his toy in a story. How might Ben feel?",
-    "explanation": "A — It expresses a feeling and reason tied to the story.",
+    "explanation": "It expresses a feeling and reason tied to the story.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -135,4 +135,3 @@ window.skillrTestQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;

@@ -22,16 +22,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which word is made from cup plus a part meaning “more than one”?",
-    "explanation": "D — cups is cup + s, and s adds the plural meaning.",
+    "explanation": "cups is cup + s, and s adds the plural meaning.",
     "printable": true,
     "type": "single",
     "answers": [
+      "cups",
       "cup",
-      "cub",
-      "cap",
-      "cups"
+      "cub"
     ],
-    "correct": 3
+    "correct": 0
   },
   {
     "id": "ac9efly15-p03",
@@ -130,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

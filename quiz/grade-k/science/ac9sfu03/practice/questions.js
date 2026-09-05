@@ -12,8 +12,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "metal",
       "spoon",
-      "handle",
-      "classroom"
+      "handle"
     ],
     "correct": 0,
     "visual": "🥄"
@@ -47,8 +46,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "wooden body and rubber eraser",
       "it is made from one colour",
-      "it has thoughts and feelings",
-      "every part is paper"
+      "it has thoughts and feelings"
     ],
     "correct": 0,
     "visual": "✏️"
@@ -65,8 +63,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "flexible / not flexible in a gentle test",
       "old / young",
-      "nice / not nice",
-      "inside / outside"
+      "nice / not nice"
     ],
     "correct": 0,
     "visual": "⭕ 🧣 | 🪵 🥄"
@@ -100,8 +97,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "flexible waterproof plastic",
       "dissolving tissue",
-      "unlabelled mystery material",
-      "material chosen only by colour"
+      "unlabelled mystery material"
     ],
     "correct": 0,
     "visual": "☔"
@@ -118,8 +114,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "metal bowl for strength/heating; plastic handle for safer holding",
       "all materials have identical properties",
-      "colour is the only reason",
-      "one material can never be used twice"
+      "colour is the only reason"
     ],
     "correct": 0,
     "visual": "🍳"
@@ -170,8 +165,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "wood block is hard; foam pad is soft",
       "their thoughts differ",
-      "one is friendlier",
-      "the colour decides hardness"
+      "one is friendlier"
     ],
     "correct": 0,
     "visual": "🪵 | foam"
@@ -188,8 +182,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "metal foil is smooth and shiny; fabric is woven and dull",
       "one likes water",
-      "one remembers heat",
-      "one is happier"
+      "one remembers heat"
     ],
     "correct": 0,
     "visual": "foil | cloth"
@@ -223,8 +216,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "look through it and gently check rigidity",
       "taste it",
-      "heat it without an adult",
-      "bend it until it breaks"
+      "heat it without an adult"
     ],
     "correct": 0,
     "visual": "unknown clear sheet"
@@ -265,8 +257,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "wood",
       "ruler",
-      "handle",
-      "classroom"
+      "handle"
     ],
     "correct": 0,
     "visual": "📏"
@@ -300,8 +291,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fabric upper and rubber sole",
       "it is made from one colour",
-      "it has thoughts and feelings",
-      "every part is paper"
+      "it has thoughts and feelings"
     ],
     "correct": 0,
     "visual": "👟"
@@ -318,8 +308,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "flexible / not flexible in a gentle test",
       "old / young",
-      "nice / not nice",
-      "inside / outside"
+      "nice / not nice"
     ],
     "correct": 0,
     "visual": "plastic cloth | glass wood"
@@ -370,8 +359,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fabric upper for flexibility; rubber sole for grip",
       "all materials have identical properties",
-      "colour is the only reason",
-      "one material can never be used twice"
+      "colour is the only reason"
     ],
     "correct": 0,
     "visual": "👟"
@@ -422,8 +410,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "metal spoon is hard; sponge is soft",
       "their thoughts differ",
-      "one is friendlier",
-      "the colour decides hardness"
+      "one is friendlier"
     ],
     "correct": 0,
     "visual": "🥄 | 🧽"
@@ -474,8 +461,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "look at weave and gently fold",
       "taste it",
-      "heat it without an adult",
-      "bend it until it breaks"
+      "heat it without an adult"
     ],
     "correct": 0,
     "visual": "unknown fabric"
@@ -516,8 +502,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "plastic",
       "bottle",
-      "handle",
-      "classroom"
+      "handle"
     ],
     "correct": 0,
     "visual": "🧴"
@@ -551,8 +536,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "metal bowl and plastic handle",
       "it is made from one colour",
-      "it has thoughts and feelings",
-      "every part is paper"
+      "it has thoughts and feelings"
     ],
     "correct": 0,
     "visual": "🍳"
@@ -569,8 +553,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "soft / hard",
       "old / young",
-      "nice / not nice",
-      "inside / outside"
+      "nice / not nice"
     ],
     "correct": 0,
     "visual": "🧽 🟨 | 🪙 🔵"
@@ -604,8 +587,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "soft foam",
       "dissolving tissue",
-      "unlabelled mystery material",
-      "material chosen only by colour"
+      "unlabelled mystery material"
     ],
     "correct": 0,
     "visual": "🛋️"
@@ -622,8 +604,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fabric cover to block rain; metal frame for support",
       "all materials have identical properties",
-      "colour is the only reason",
-      "one material can never be used twice"
+      "colour is the only reason"
     ],
     "correct": 0,
     "visual": "☂️"
@@ -674,8 +655,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "glass tile is hard; cotton ball is soft",
       "their thoughts differ",
-      "one is friendlier",
-      "the colour decides hardness"
+      "one is friendlier"
     ],
     "correct": 0,
     "visual": "▱ | ⚪"
@@ -726,8 +706,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "gently press and observe return",
       "taste it",
-      "heat it without an adult",
-      "bend it until it breaks"
+      "heat it without an adult"
     ],
     "correct": 0,
     "visual": "unknown foam"
@@ -768,8 +747,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fabric",
       "scarf",
-      "handle",
-      "classroom"
+      "handle"
     ],
     "correct": 0,
     "visual": "🧣"
@@ -803,8 +781,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "fabric cover and metal frame",
       "it is made from one colour",
-      "it has thoughts and feelings",
-      "every part is paper"
+      "it has thoughts and feelings"
     ],
     "correct": 0,
     "visual": "☂️"
@@ -855,8 +832,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "hard metal",
       "dissolving tissue",
-      "unlabelled mystery material",
-      "material chosen only by colour"
+      "unlabelled mystery material"
     ],
     "correct": 0,
     "visual": "🥣"
@@ -873,8 +849,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "wood body for shape; rubber eraser for rubbing marks",
       "all materials have identical properties",
-      "colour is the only reason",
-      "one material can never be used twice"
+      "colour is the only reason"
     ],
     "correct": 0,
     "visual": "✏️"
@@ -976,8 +951,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "look, touch gently, do not force bend",
       "taste it",
-      "heat it without an adult",
-      "bend it until it breaks"
+      "heat it without an adult"
     ],
     "correct": 0,
     "visual": "unknown metal clip"
@@ -1007,4 +981,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

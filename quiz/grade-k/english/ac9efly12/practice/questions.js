@@ -54,7 +54,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which letters spell the word map?",
-    "explanation": "A — dog follows the consonant-vowel-consonant pattern; the other options include a digraph, vowel team or consonant blend.",
+    "explanation": "dog follows the consonant-vowel-consonant pattern; the other options include a digraph, vowel team or consonant blend.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -70,7 +70,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Blend c-a-t. Which word is it?",
-    "explanation": "B — /f/ is the first sound in fan, so the completed CVC word is fan.",
+    "explanation": "/f/ is the first sound in fan, so the completed CVC word is fan.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -129,4 +129,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

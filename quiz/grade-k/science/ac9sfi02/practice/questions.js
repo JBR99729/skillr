@@ -11,8 +11,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The child wears goggles and follows the teacher's instruction",
       "The child tastes an unknown liquid",
-      "The child runs while carrying glass",
-      "The child touches a hot plate"
+      "The child runs while carrying glass"
     ],
     "correct": 0,
     "visual": "🥽  ✅",
@@ -29,8 +28,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "hearing",
       "taste",
-      "touch",
-      "sight only"
+      "touch"
     ],
     "correct": 0,
     "visual": "🐦 ♪  👂",
@@ -47,8 +45,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "taste",
       "sight from a safe distance",
-      "hearing",
-      "smell only if the teacher directs"
+      "hearing"
     ],
     "correct": 0,
     "visual": "❓🥤  👅🚫",
@@ -65,8 +62,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "magnifying glass",
       "kitchen knife",
-      "open flame",
-      "unknown liquid"
+      "open flame"
     ],
     "correct": 0,
     "visual": "🌿 🔍",
@@ -105,8 +101,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Watch quietly from a short distance",
       "Grab its wings",
-      "Shake the flower",
-      "Block it from leaving"
+      "Shake the flower"
     ],
     "correct": 0,
     "visual": "🦋 🌼   👀",
@@ -123,8 +118,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Wait for the teacher and observe only as directed",
       "Open it secretly",
-      "Taste the contents",
-      "Pour it into another cup"
+      "Taste the contents"
     ],
     "correct": 0,
     "visual": "TEACHER ONLY",
@@ -141,8 +135,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "behind the rope",
       "inside the animal area",
-      "on the rope while jumping",
-      "wherever gives the closest touch"
+      "on the rope while jumping"
     ],
     "correct": 0,
     "visual": "children | rope ─ | habitat",
@@ -159,8 +152,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "a drawing from where you are standing",
       "moving the snail onto your hand",
-      "scraping its shell",
-      "taking the snail home"
+      "scraping its shell"
     ],
     "correct": 0,
     "visual": "🐌  ✏️",
@@ -177,8 +169,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Touch each approved surface gently with one finger",
       "taste the surfaces",
-      "scratch them with scissors",
-      "remove material from the boards"
+      "scratch them with scissors"
     ],
     "correct": 0,
     "visual": "▦  ✋  ▤",
@@ -212,8 +203,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Keep it closed and ask the teacher",
       "Smell it faster",
-      "Ask a friend to taste it",
-      "Pour it onto the table"
+      "Ask a friend to taste it"
     ],
     "correct": 0,
     "visual": "jar ❓",
@@ -230,8 +220,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Watch the frog from the edge without entering the pond",
       "Step into deep water",
-      "pick up the frog",
-      "throw stones near it"
+      "pick up the frog"
     ],
     "correct": 0,
     "visual": "child | pond 🐸",
@@ -248,8 +237,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Natural things can still be unsafe; never taste without clear adult instruction",
       "All natural things are food",
-      "Tiny tastes are always safe",
-      "Only colours matter"
+      "Tiny tastes are always safe"
     ],
     "correct": 0,
     "visual": "🍄 🌿 👅🚫",
@@ -266,8 +254,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Stay on the path and look carefully",
       "Pull up every plant",
-      "Chase animals into a corner",
-      "Taste unknown berries"
+      "Chase animals into a corner"
     ],
     "correct": 0,
     "visual": "path ── 🌿 🐞",
@@ -284,8 +271,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "sight",
       "hearing",
-      "taste",
-      "touch only"
+      "taste"
     ],
     "correct": 0,
     "visual": "🌼  👁️",
@@ -302,8 +288,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Observe it without touching",
       "Touch one leaf quickly",
-      "Taste a leaf",
-      "Pull the plant closer"
+      "Taste a leaf"
     ],
     "correct": 0,
     "visual": "🌿  ✋🚫",
@@ -320,8 +305,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "binoculars",
       "ladder used alone",
-      "long stick",
-      "bare hands near the nest"
+      "long stick"
     ],
     "correct": 0,
     "visual": "🐦 🌳 🔭",
@@ -360,8 +344,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "An adult lifts it carefully, then replaces it",
       "Kick the log away",
-      "Take every animal home",
-      "Leave the log upside down"
+      "Take every animal home"
     ],
     "correct": 0,
     "visual": "🪵  🪲",
@@ -378,8 +361,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Do not touch it; tell an adult",
       "Taste a small piece",
-      "Pick it up to smell closely",
-      "Put it in a pocket"
+      "Pick it up to smell closely"
     ],
     "correct": 0,
     "visual": "🍄  ✋🚫",
@@ -396,8 +378,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Walk around the marked area",
       "Step between the cones",
-      "Move the cones",
-      "Run across the spill"
+      "Move the cones"
     ],
     "correct": 0,
     "visual": "⚠️  △ △",
@@ -414,8 +395,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Use a device at the teacher-set distance and volume",
       "Put ears beside the source",
-      "Cross the barrier",
-      "Shout over the sound"
+      "Cross the barrier"
     ],
     "correct": 0,
     "visual": "🎙️  ↔  🔊",
@@ -432,8 +412,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Use the same gentle touch for each sample",
       "pull one sample hard",
-      "wet only one sample without permission",
-      "rub one sample on your face"
+      "wet only one sample without permission"
     ],
     "correct": 0,
     "visual": "soft ▦ | rough ▥",
@@ -467,8 +446,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Stop and observe quietly from a distance",
       "Run faster",
-      "Catch it in bare hands",
-      "Block its path"
+      "Catch it in bare hands"
     ],
     "correct": 0,
     "visual": "🦋  🏃🚫",
@@ -485,8 +463,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Observe with binoculars from the ground",
       "Climb the tree",
-      "touch the nest",
-      "stand under falling branches in wind"
+      "touch the nest"
     ],
     "correct": 0,
     "visual": "🔭  🌳🐦",
@@ -503,8 +480,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Safety rules let investigations happen with less risk",
       "Rules remove all observations",
-      "Science needs unsafe actions",
-      "Only adults use safety"
+      "Science needs unsafe actions"
     ],
     "correct": 0,
     "id": "ac9sfi02-p-028"
@@ -520,8 +496,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Use it to view a leaf away from direct sunlight",
       "Focus sunlight onto skin",
-      "Run while looking through it",
-      "Put it in your mouth"
+      "Run while looking through it"
     ],
     "correct": 0,
     "visual": "🔍 🌿",
@@ -538,8 +513,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "touch",
       "hearing",
-      "taste",
-      "sight only"
+      "taste"
     ],
     "correct": 0,
     "visual": "🌳  ✋",
@@ -556,8 +530,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Putting your face close to smell it",
       "Looking from the marked line",
-      "Listening to the teacher",
-      "Recording what you can see"
+      "Listening to the teacher"
     ],
     "correct": 0,
     "visual": "♨️  line ─",
@@ -574,8 +547,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "tally sheet",
       "scissors",
-      "hot plate",
-      "glass shard"
+      "hot plate"
     ],
     "correct": 0,
     "visual": "🐜 → |   tally ||||",
@@ -614,8 +586,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Place the ruler beside the stem without bending it",
       "Pull the stem straight",
-      "Remove leaves to see better",
-      "Lift the plant out of soil"
+      "Remove leaves to see better"
     ],
     "correct": 0,
     "visual": "🌱 📏",
@@ -632,8 +603,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Stop and tell the teacher",
       "Use it quickly",
-      "Hide the crack",
-      "Ask a friend to hold the broken part"
+      "Hide the crack"
     ],
     "correct": 0,
     "visual": "tool ⚠️",
@@ -650,8 +620,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Observe with your eyes and record what you see",
       "Touch the display",
-      "Open the container",
-      "Taste the sample"
+      "Open the container"
     ],
     "correct": 0,
     "visual": "LOOK ONLY 👁️",
@@ -668,8 +637,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "a colour note or photograph",
       "tearing off the leaf",
-      "tasting the leaf",
-      "rubbing the plant hard"
+      "tasting the leaf"
     ],
     "correct": 0,
     "visual": "🌿 📷",
@@ -686,8 +654,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Do not touch it; follow the teacher's alternative viewing method",
       "Press a finger onto it",
-      "Pass it quickly between children",
-      "Hide the sharp edge"
+      "Pass it quickly between children"
     ],
     "correct": 0,
     "visual": "▲ sharp  ✋🚫",
@@ -721,8 +688,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Walk and carry it carefully",
       "Keep running but hold it higher",
-      "Throw it to a partner",
-      "Look through it while running"
+      "Throw it to a partner"
     ],
     "correct": 0,
     "visual": "🔍  🚶",
@@ -739,8 +705,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "An adult carefully lifts and replaces the rock",
       "Kick the rock",
-      "take the animals away",
-      "leave the rock moved"
+      "take the animals away"
     ],
     "correct": 0,
     "visual": "🪨 🐜",
@@ -757,8 +722,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Use only senses that are safe and approved for the situation",
       "Always taste samples",
-      "Always touch living things",
-      "Ignore warning signs"
+      "Always touch living things"
     ],
     "correct": 0,
     "visual": "👁️ 👂 👃 ✋ / 👅🚫",
@@ -775,8 +739,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "The child keeps the volume comfortable",
       "The child holds the speaker against an ear",
-      "The child turns the volume to maximum",
-      "The child swings the headphones by the cord"
+      "The child turns the volume to maximum"
     ],
     "correct": 0,
     "visual": "🎧  🔉",
@@ -793,8 +756,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "smell",
       "hearing",
-      "taste",
-      "touch"
+      "taste"
     ],
     "correct": 0,
     "visual": "🌿  👃",
@@ -811,8 +773,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Stay behind the barrier and follow the teacher's hearing-protection instruction",
       "Put an ear beside the machine",
-      "Cross the barrier",
-      "Touch the moving part"
+      "Cross the barrier"
     ],
     "correct": 0,
     "visual": "⚙️ | barrier | 🥽🎧",
@@ -829,8 +790,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "protective gloves",
       "a drinking straw",
-      "a toy sword",
-      "an open cup"
+      "a toy sword"
     ],
     "correct": 0,
     "visual": "🧤  ▦",
@@ -869,8 +829,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Use binoculars from the approved area",
       "Climb to the nest",
-      "Touch the eggs",
-      "Make loud sounds nearby"
+      "Touch the eggs"
     ],
     "correct": 0,
     "visual": "🔭   🌳🐦",
@@ -887,8 +846,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Leave it closed and ask the teacher",
       "Open it to find out",
-      "Smell it closely",
-      "Mix it with water"
+      "Smell it closely"
     ],
     "correct": 0,
     "visual": "jar ❓",
@@ -905,8 +863,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Keep your partner nearby and tell the teacher before moving areas",
       "Wander alone",
-      "Hide behind bushes",
-      "Leave the group without telling anyone"
+      "Hide behind bushes"
     ],
     "correct": 0,
     "visual": "👧👦  together",
@@ -923,8 +880,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Use a tally while watching from the approved place",
       "chase birds into one group",
-      "climb the tree",
-      "touch each bird once"
+      "climb the tree"
     ],
     "correct": 0,
     "visual": "🐦 ||||",
@@ -941,8 +897,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "smooth and rough",
       "good and bad",
-      "nice and ugly",
-      "best and worst"
+      "nice and ugly"
     ],
     "correct": 0,
     "visual": "smooth ▭ | rough ▥",
@@ -976,8 +931,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Tell the teacher and keep others away",
       "Ignore it",
-      "Cover it with books",
-      "Keep working through the spill"
+      "Cover it with books"
     ],
     "correct": 0,
     "visual": "💧 ⚠️",
@@ -994,8 +948,7 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Look and photograph without breaking stems",
       "pull the plant up",
-      "taste its leaves",
-      "snap a branch for the class"
+      "taste its leaves"
     ],
     "correct": 0,
     "visual": "🌿 📷",
@@ -1012,11 +965,9 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Check the tool and follow today's instructions before use",
       "Use damaged tools carefully",
-      "Skip teacher instructions",
-      "Hide any problem"
+      "Skip teacher instructions"
     ],
     "correct": 0,
     "id": "ac9sfi02-p-056"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

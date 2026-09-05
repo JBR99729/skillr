@@ -22,16 +22,15 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Which action matches dig?",
-    "explanation": "B — The decoded word “dig” names making a hole.",
+    "explanation": "The decoded word “dig” names making a hole.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Sleep on a mat",
       "Make a hole in soil",
-      "Sip from a cup",
-      "Run to a gate"
+      "Sleep on a mat",
+      "Sip from a cup"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "id": "ac9efly04-p03",
@@ -74,7 +73,7 @@ window.skillrPracticeQuestions = [
     "bank": "practice",
     "sourceType": "Multiple choice",
     "question": "Blend the sounds /s/ /a/ /t/. Which word do they make?",
-    "explanation": "C — /p/ /e/ /n/ blends to “pen”, a plausible enclosure for a pig.",
+    "explanation": "/p/ /e/ /n/ blends to “pen”, a plausible enclosure for a pig.",
     "printable": true,
     "type": "single",
     "answers": [
@@ -133,4 +132,3 @@ window.skillrPracticeQuestions = [
     ]
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
