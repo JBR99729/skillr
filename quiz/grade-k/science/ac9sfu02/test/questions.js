@@ -4,344 +4,320 @@ window.skillrTestQuestions = [
     "id": "ac9sfu02-t-001",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "link feature to movement",
-    "question": "An orange turns over and over as it moves along a bench. How is it moving?",
-    "explanation": "The orange turns as it moves along the bench.",
+    "skill": "describe object movement",
+    "question": "A toy truck is resting on a level floor. Which action can start it moving?",
+    "explanation": "A push can make an object start moving.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Sliding",
-      "Rolling",
-      "Bouncing"
+      "Push it",
+      "Stop touching it",
+      "Watch it quietly"
     ],
-    "correct": 1,
-    "visual": "🚗",
-    "audioPrompt": "An orange turns over and over as it moves along a bench. How is it moving?",
+    "correct": 0,
+    "audioPrompt": "A toy truck is resting on a level floor. Which action can start it moving?",
     "structuredExplanation": {
-      "summary": "The orange turns as it moves along the bench."
+      "summary": "A push can make an object start moving."
     }
   },
   {
     "id": "ac9sfu02-t-002",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "describe orientation effect",
-    "question": "A child pushes a tray across a table. It stays flat without turning. How does it move?",
-    "explanation": "The tray slides along the table.",
+    "skill": "describe object movement",
+    "question": "A ball moves down a ramp and turns over and over. Which word describes this movement?",
+    "explanation": "Turning over and over while moving is rolling.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Sliding",
-      "Swinging",
-      "Spinning"
+      "Floating",
+      "Rolling",
+      "Sliding"
     ],
-    "correct": 0,
-    "visual": "🧻",
-    "audioPrompt": "A child pushes a tray across a table. It stays flat without turning. How does it move?",
+    "correct": 1,
+    "audioPrompt": "A ball moves down a ramp and turns over and over. Which word describes this movement?",
     "structuredExplanation": {
-      "summary": "The tray slides along the table."
+      "summary": "Turning over and over while moving is rolling."
     }
   },
   {
     "id": "ac9sfu02-t-003",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "identify factor",
-    "question": "A tennis ball hits the ground and springs up. What is this movement called?",
-    "explanation": "The ball bounces when it springs up after hitting the ground.",
+    "skill": "shape affects movement",
+    "question": "Which pair is best for testing whether shape affects falling?",
+    "explanation": "The paper material is the same, but the shape is different.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Rolling",
-      "Sliding",
-      "Bouncing"
+      "Paper and metal spoon",
+      "Red ball and blue ball",
+      "Flat paper and scrunched paper"
     ],
     "correct": 2,
-    "visual": "two wooden balls same shape; one small and one large",
-    "audioPrompt": "A tennis ball hits the ground and springs up. What is this movement called?",
+    "audioPrompt": "Which pair is best for testing whether shape affects falling?",
     "structuredExplanation": {
-      "summary": "The ball bounces when it springs up after hitting the ground."
+      "summary": "The paper material is the same, but the shape is different."
     }
   },
   {
     "id": "ac9sfu02-t-004",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "interpret movement data",
-    "question": "A hanging seat moves back and forth on ropes. How is it moving?",
-    "explanation": "The seat swings back and forth while hanging from its ropes.",
+    "skill": "describe object movement",
+    "question": "A toy car moves farther on tiles than on carpet. What factor changed?",
+    "explanation": "Tiles and carpet are different surfaces, which can affect movement.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Falling",
-      "Swinging",
-      "Rolling"
+      "Surface",
+      "Push direction",
+      "Car size"
     ],
-    "correct": 1,
-    "visual": "rubber high | foam low",
-    "audioPrompt": "A hanging seat moves back and forth on ropes. How is it moving?",
+    "correct": 0,
+    "audioPrompt": "A toy car moves farther on tiles than on carpet. What factor changed?",
     "structuredExplanation": {
-      "summary": "The seat swings back and forth while hanging from its ropes."
+      "summary": "Tiles and carpet are different surfaces, which can affect movement."
     }
   },
   {
     "id": "ac9sfu02-t-005",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "predict movement from shape",
-    "question": "A toy wheel turns around its fixed centre. What is it doing?",
-    "explanation": "The wheel spins around its centre.",
+    "skill": "describe object movement",
+    "question": "An adult tests a fabric strip and a stiff plastic strip in a breeze. The fabric flaps; the plastic stays still. What did the adult notice?",
+    "explanation": "The adult observed that the fabric strip moved in the breeze.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Spinning",
-      "Falling",
-      "Sliding"
+      "Both stayed still.",
+      "The plastic flapped.",
+      "The fabric flapped."
     ],
-    "correct": 0,
-    "visual": "▭ ramp",
-    "audioPrompt": "A toy wheel turns around its fixed centre. What is it doing?",
+    "correct": 2,
+    "audioPrompt": "An adult tests a fabric strip and a stiff plastic strip in a breeze. The fabric flaps; the plastic stays still. What did the adult notice?",
     "structuredExplanation": {
-      "summary": "The wheel spins around its centre."
+      "summary": "The adult observed that the fabric strip moved in the breeze."
     }
   },
   {
     "id": "ac9sfu02-t-006",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "improve comparison",
-    "question": "An acorn comes loose from a branch. It moves down to the ground. What is it doing?",
-    "explanation": "The acorn falls from the branch towards the ground.",
+    "skill": "describe object movement",
+    "question": "Which object is most likely to spin?",
+    "explanation": "A round top is shaped to spin.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Swinging",
-      "Sliding",
-      "Falling"
+      "Soft scarf",
+      "Round top",
+      "Square mat"
     ],
-    "correct": 2,
-    "visual": "small marble on tile and large foam ball on carpet",
-    "audioPrompt": "An acorn comes loose from a branch. It moves down to the ground. What is it doing?",
+    "correct": 1,
+    "audioPrompt": "Which object is most likely to spin?",
     "structuredExplanation": {
-      "summary": "The acorn falls from the branch towards the ground."
+      "summary": "A round top is shaped to spin."
     }
   },
   {
     "id": "ac9sfu02-t-007",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "classify movement",
-    "question": "Which part of a tin can lets it roll along a table?",
-    "explanation": "The curved side provides a surface the can can roll on.",
+    "skill": "compare movement factors",
+    "question": "A child tests a plastic spoon and a metal spoon that are the same size and shape. What factor are they comparing?",
+    "explanation": "Plastic and metal are different materials.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Its flat end",
-      "Its curved side",
-      "Its paper label"
+      "Spoon size",
+      "Material",
+      "Water colour"
     ],
     "correct": 1,
-    "visual": "🪙 ◯ ▬ 🫘",
-    "audioPrompt": "Which part of a tin can lets it roll along a table?",
+    "audioPrompt": "A child tests a plastic spoon and a metal spoon that are the same size and shape. What factor are they comparing?",
     "structuredExplanation": {
-      "summary": "The curved side provides a surface the can can roll on."
+      "summary": "Plastic and metal are different materials."
     }
   },
   {
     "id": "ac9sfu02-t-008",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "decide likely factor",
-    "question": "A cube tumbles down a steep ramp. A ball rolls smoothly down it. Which feature helps explain the different movements?",
-    "explanation": "A cube has flat faces and edges. A ball has a continuously curved surface.",
+    "skill": "describe object movement",
+    "question": "Which sentence describes sliding?",
+    "explanation": "Sliding means moving across a surface without rolling over and over.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Shape",
-      "Colour",
-      "Name"
+      "The box stays touching the floor and moves without turning over.",
+      "The box rolls over and over.",
+      "The box bounces up and down."
     ],
     "correct": 0,
-    "visual": "A small rubber bounces high; B large cloth no bounce; C large rubber high",
-    "audioPrompt": "A cube tumbles down a steep ramp. A ball rolls smoothly down it. Which feature helps explain the different movements?",
+    "audioPrompt": "Which sentence describes sliding?",
     "structuredExplanation": {
-      "summary": "A cube has flat faces and edges. A ball has a continuously curved surface."
+      "summary": "Sliding means moving across a surface without rolling over and over."
     }
   },
   {
     "id": "ac9sfu02-t-009",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "select fair-test plan",
-    "question": "Two same-sized balls land on a tray. The rubber ball bounces. The soft dough ball stays flat. What helps explain the difference?",
-    "explanation": "Rubber can spring back. Soft dough can stay flattened.",
+    "skill": "compare movement factors",
+    "question": "Two balls roll down the same ramp. One ball is much larger. What factor is being compared?",
+    "explanation": "The balls are being compared by size.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Their names",
-      "Their colours",
-      "Their materials"
+      "Colour only",
+      "Weather",
+      "Size"
     ],
     "correct": 2,
-    "visual": "rubber, foam, cloth balls",
-    "audioPrompt": "Two same-sized balls land on a tray. The rubber ball bounces. The soft dough ball stays flat. What helps explain the difference?",
+    "audioPrompt": "Two balls roll down the same ramp. One ball is much larger. What factor is being compared?",
     "structuredExplanation": {
-      "summary": "Rubber can spring back. Soft dough can stay flattened."
+      "summary": "The balls are being compared by size."
     }
   },
   {
     "id": "ac9sfu02-t-010",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "compare paths",
-    "question": "A flat sheet of foil flutters as it falls. The same foil is squeezed into a tight ball. Which feature was changed?",
-    "explanation": "Squeezing changes the shape. It is still made of foil.",
+    "skill": "compare movement factors",
+    "question": "Which test is fair for comparing how two balls roll?",
+    "explanation": "Using the same ramp helps compare the balls more fairly.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Material",
-      "Shape",
-      "Colour"
+      "Use a different ramp for each ball.",
+      "Use the same ramp for both balls.",
+      "Push one hard and one gently."
     ],
     "correct": 1,
-    "visual": "🥚 ↪",
-    "audioPrompt": "A flat sheet of foil flutters as it falls. The same foil is squeezed into a tight ball. Which feature was changed?",
+    "audioPrompt": "Which test is fair for comparing how two balls roll?",
     "structuredExplanation": {
-      "summary": "Squeezing changes the shape. It is still made of foil."
+      "summary": "Using the same ramp helps compare the balls more fairly."
     }
   },
   {
     "id": "ac9sfu02-t-011",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "recognise force influence",
-    "question": "A short toy bus fits under a bridge. A tall toy bus touches the top and gets stuck. Which feature affects whether they fit?",
-    "explanation": "The taller bus needs more space between the road and the bridge.",
+    "skill": "describe object movement",
+    "question": "A child folds flat paper into a boat. What changed?",
+    "explanation": "The paper stayed the same material, but its shape changed.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Height",
-      "Colour",
-      "Name"
+      "Material",
+      "Colour of water",
+      "Shape"
     ],
-    "correct": 0,
-    "visual": "ball released gently",
-    "audioPrompt": "A short toy bus fits under a bridge. A tall toy bus touches the top and gets stuck. Which feature affects whether they fit?",
+    "correct": 2,
+    "audioPrompt": "A child folds flat paper into a boat. What changed?",
     "structuredExplanation": {
-      "summary": "The taller bus needs more space between the road and the bridge."
+      "summary": "The paper stayed the same material, but its shape changed."
     }
   },
   {
     "id": "ac9sfu02-t-012",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "order fair movement test",
-    "question": "A toy wagon's wheels can turn. A second wagon's wheels are stuck. Which is more likely to roll easily?",
-    "explanation": "Wheels that turn allow the wagon to roll.",
+    "skill": "material affects movement",
+    "question": "Which material is likely to bounce well?",
+    "explanation": "Rubber can bounce better than wet tissue or soft clay.",
     "printable": true,
     "type": "single",
-    "items": [
-      "keep other factors the same",
-      "release the objects consistently",
-      "record movement",
-      "compare observations",
-      "choose the factor to change"
-    ],
-    "correct": 2,
-    "instruction": "Move the cards into the correct order.",
     "answers": [
-      "The heavier-looking wagon",
-      "The stuck-wheel wagon",
-      "The turning-wheel wagon"
+      "Rubber",
+      "Wet tissue",
+      "Soft clay"
     ],
-    "audioPrompt": "A toy wagon's wheels can turn. A second wagon's wheels are stuck. Which is more likely to roll easily?",
+    "correct": 0,
+    "audioPrompt": "Which material is likely to bounce well?",
     "structuredExplanation": {
-      "summary": "Wheels that turn allow the wagon to roll."
+      "summary": "Rubber can bounce better than wet tissue or soft clay."
     }
   },
   {
     "id": "ac9sfu02-t-013",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "link feature to movement",
-    "question": "A puck slides across smooth ice. On a rough mat, it soon stops. What difference helps explain this?",
-    "explanation": "The rough mat slows the sliding puck more than the smooth ice.",
+    "skill": "describe object movement",
+    "question": "A child wants a toy car to move farther. Which surface should they try?",
+    "explanation": "A smooth tile surface can let the toy car roll farther.",
     "printable": true,
     "type": "single",
     "answers": [
-      "The puck's name",
-      "The surface",
-      "The puck's colour"
+      "Thick carpet",
+      "Bumpy towel",
+      "Smooth tile"
     ],
-    "correct": 1,
-    "visual": "🧳",
-    "audioPrompt": "A puck slides across smooth ice. On a rough mat, it soon stops. What difference helps explain this?",
+    "correct": 2,
+    "audioPrompt": "A child wants a toy car to move farther. Which surface should they try?",
     "structuredExplanation": {
-      "summary": "The rough mat slows the sliding puck more than the smooth ice."
+      "summary": "A smooth tile surface can let the toy car roll farther."
     }
   },
   {
     "id": "ac9sfu02-t-014",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "describe orientation effect",
-    "question": "A moving ball hits a board and rolls to the left. What has changed?",
-    "explanation": "Rolling to the left shows that the ball has changed direction.",
+    "skill": "describe object movement",
+    "question": "Which question is about how size affects movement?",
+    "explanation": "Comparing a big ball and a small ball asks about size and movement.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Its direction",
-      "Its material",
-      "Its shape"
+      "Does the big ball roll farther than the small ball?",
+      "What colour is the ball?",
+      "Does the ball roll on carpet?"
     ],
     "correct": 0,
-    "visual": "🥫",
-    "audioPrompt": "A moving ball hits a board and rolls to the left. What has changed?",
+    "audioPrompt": "Which question is about how size affects movement?",
     "structuredExplanation": {
-      "summary": "Rolling to the left shows that the ball has changed direction."
+      "summary": "Comparing a big ball and a small ball asks about size and movement."
     }
   },
   {
     "id": "ac9sfu02-t-015",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "identify factor",
-    "question": "A small bead passes through a narrow tube. A larger bead cannot enter. Which feature makes the difference?",
-    "explanation": "The larger bead is too big for the tube's opening.",
+    "skill": "compare movement factors",
+    "question": "A wooden block and a plastic block are the same shape. They slide on the same ramp. What difference between the blocks are the children comparing?",
+    "explanation": "Wood and plastic are different materials, which can affect how objects move.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Colour",
-      "Name",
-      "Size"
+      "Shape",
+      "Ramp",
+      "Material"
     ],
     "correct": 2,
-    "visual": "two same-sized round balls; one rubber and one cloth",
-    "audioPrompt": "A small bead passes through a narrow tube. A larger bead cannot enter. Which feature makes the difference?",
+    "audioPrompt": "A wooden block and a plastic block are the same shape. They slide on the same ramp. What difference between the blocks are the children comparing?",
     "structuredExplanation": {
-      "summary": "The larger bead is too big for the tube's opening."
+      "summary": "Wood and plastic are different materials, which can affect how objects move."
     }
   },
   {
     "id": "ac9sfu02-t-016",
     "curriculumCode": "AC9SFU02",
     "bank": "test",
-    "skill": "interpret movement data",
-    "question": "An oval toy rolls with a wobble. A round marble rolls smoothly. Which description matches what happened?",
-    "explanation": "Both objects rolled, but only the oval toy wobbled.",
+    "skill": "describe object movement",
+    "question": "Why should a class test one change at a time?",
+    "explanation": "Testing one change at a time helps the class find which change affected the movement.",
     "printable": true,
     "type": "single",
     "answers": [
-      "Both slid flat",
-      "They rolled differently",
-      "Neither moved"
+      "To change the ramp and object together.",
+      "To know which factor affected the movement.",
+      "To use a different push each time."
     ],
     "correct": 1,
-    "visual": "sphere rolls | cube slides",
-    "audioPrompt": "An oval toy rolls with a wobble. A round marble rolls smoothly. Which description matches what happened?",
+    "audioPrompt": "Why should a class test one change at a time?",
     "structuredExplanation": {
-      "summary": "Both objects rolled, but only the oval toy wobbled."
+      "summary": "Testing one change at a time helps the class find which change affected the movement."
     }
   }
 ];
-window.quizQuestions = window.skillrTestQuestions;
